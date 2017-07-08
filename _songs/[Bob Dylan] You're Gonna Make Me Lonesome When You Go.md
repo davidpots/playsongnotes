@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  You're Gonna Make Me Lonesome When You Go
 artist: Bob Dylan
 year: 1975

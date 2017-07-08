@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  2U
 artist: David Guetta
 artist_featured: Justin Bieber

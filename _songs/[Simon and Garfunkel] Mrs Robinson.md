@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Mrs. Robinson
 artist: Simon and Garfunkel
 year: 1968

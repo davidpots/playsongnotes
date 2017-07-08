@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Meet Me In The Hallway
 artist: Harry Styles
 year: 2017

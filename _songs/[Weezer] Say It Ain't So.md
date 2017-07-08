@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Say It Ain't So
 artist: Weezer
 year: 1994
@@ -226,3 +227,7 @@ If you want to emulate the second guitar on the album version, play this -- wher
     A –|––––––––––––––––––––––––––––––––––––––––––––––––––––|–
     E –|––––––––––––––––––––––––––––––––––––––––––––––––––––|–
              C#m    G#                A     E
+
+## Good luck!
+
+Let me know if you have questions. I hope this was helpful.

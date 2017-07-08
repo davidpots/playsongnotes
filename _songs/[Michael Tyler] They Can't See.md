@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  They Can't See
 artist: Michael Tyler
 year: 2017
@@ -8,11 +9,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jROWArwvnnI" frameborder="0" allowfullscreen></iframe> -->
-
-<!-- ## Editor's notes -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/86NqPVMOnK4" frameborder="0" allowfullscreen></iframe>
 
 ## Chords needed for 99% of the song
 

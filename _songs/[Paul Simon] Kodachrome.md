@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: Kodachrome
 artist: Paul Simon
 year: 1973

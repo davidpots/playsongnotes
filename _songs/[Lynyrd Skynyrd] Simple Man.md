@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Simple Man
 artist: Lynyrd Skynyrd
 year: 1973

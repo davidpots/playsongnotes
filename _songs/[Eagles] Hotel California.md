@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Hotel California
 artist: The Eagles
 year: 1976

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
 year: 2016

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: How I Go
 artist: Yellowcard
 year: 2006
@@ -232,3 +233,7 @@ Here are the lyrics for the song. Refer to the indentation to denote the various
                 And every story I have told is part of you---------
 
                                                     (walk-down riff, end on E)
+
+## Good luck!
+
+Let me know if you have questions. I hope this was helpful.

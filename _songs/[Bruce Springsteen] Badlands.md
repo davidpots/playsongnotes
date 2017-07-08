@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Badlands
 artist: Bruce Springsteen
 year: 1978

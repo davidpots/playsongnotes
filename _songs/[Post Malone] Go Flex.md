@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Go Flex
 artist: Post Malone
 year: 2016

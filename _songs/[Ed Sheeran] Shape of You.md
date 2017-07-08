@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Shape of You
 artist: Ed Sheeran
 year: 2017

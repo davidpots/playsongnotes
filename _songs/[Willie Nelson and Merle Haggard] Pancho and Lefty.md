@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Pancho and Lefty
 artist: Willie Nelson and Merle Haggard
 year: 1972
@@ -132,3 +133,7 @@ At first, I was convinced this was it -- and for sure, if you wanted to you coul
 ## Solo
 
 Coming, one day, eventually :)
+
+## Good luck!
+
+Let me know if you have questions. I hope this was helpful.

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: Margaritaville
 artist: Jimmy Buffett
 year: 1977

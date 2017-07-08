@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Mary
 artist: Sublime
 year: 1994

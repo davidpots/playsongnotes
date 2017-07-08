@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Freeway Time in LA County Jail
 artist: Sublime
 year: 1994

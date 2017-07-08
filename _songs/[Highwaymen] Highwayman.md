@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Highwayman
 artist: The Highwaymen
 year: 1985

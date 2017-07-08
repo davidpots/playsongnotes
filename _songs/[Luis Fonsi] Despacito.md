@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Despacito
 artist: Luis Fonsi
 artist_featured: Justin Bieber

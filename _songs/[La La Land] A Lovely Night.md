@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  A Lovely Night
 artist: La La Land
 year: 2016

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Apple Blossom
 artist: The White Stripes
 year: 2000
@@ -199,3 +200,7 @@ And here's a version that is an octave higher. I'm sure Jack White doesn't play 
     A –|–––2–––––––––––––0–––––––––––––––––––––|–
     E –|–––0–––––––––––––––––––––––––––––––––––|–
            E             Am
+
+## Good luck!
+
+Let me know if you have questions. I hope this was helpful.

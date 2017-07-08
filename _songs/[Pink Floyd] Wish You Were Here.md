@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Wish You Were Here
 artist: Pink Floyd
 year: 1975

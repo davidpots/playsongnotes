@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Issues
 artist: Julia Michaels
 year: 2017

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  City of Stars
 artist: La La Land
 year: 2016
@@ -8,7 +9,11 @@ categories: guitar
 
 ## Video lesson
 
+Full lesson:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/caBDotrfiLc" frameborder="0" allowfullscreen></iframe>
+
+Cover:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE" frameborder="0" allowfullscreen></iframe>
 
 ## About this lesson
 
@@ -177,5 +182,7 @@ I fingerpick the second line of each verse with this riff. It's similar to the B
     City of stars... are you shining just for me?
     Em            F#7                          Bm
     City of stars... you never shined so brightly
+
+## Good luck!
 
 Thanks for reading! I hope this helped you.

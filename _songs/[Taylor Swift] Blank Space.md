@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: Blank Space
 artist: Taylor Swift
 year: 2014

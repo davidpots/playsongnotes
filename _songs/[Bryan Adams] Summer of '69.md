@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Summer of '69
 artist: Bryan Adams
 year: 1984

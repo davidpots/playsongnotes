@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Stay
 artist: Alessia Cara and Zedd
 year: 2017
@@ -122,6 +123,6 @@ In the album version you hear this the third time it's played in each sequence:
 
 And so on, and so forth.
 
-## Hope that helps!
+## Good luck!
 
-Let me know if you have questions. Good luck!
+Let me know if you have questions. I hope this was helpful.

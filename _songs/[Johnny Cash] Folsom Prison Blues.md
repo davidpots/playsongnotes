@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: Folsom Prison Blues
 artist: Johnny Cash
 year: 1957

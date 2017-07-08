@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  I'm The One
 artist: DJ Khaled
 artist_featured: Justin Bieber, Lil Wayne, Quavo, Chance The Rapper

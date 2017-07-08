@@ -1,0 +1,64 @@
+// Layout
+
+        .inline       { display: inline }
+        .block        { display: block }
+        .inline-block { display: inline-block }
+
+        .uppercase { text-transform: uppercase; }
+        .letter-spacing-1 { letter-spacing: 1px; }
+
+        .font-size--large { font-size: $font-size--large; }
+
+        .overflow-hidden { overflow: hidden }
+        .overflow-auto   { overflow: auto }
+        .overflow-scroll { overflow: scroll }
+
+        .clearfix:before,
+        .clearfix:after {
+          content: " ";
+          display: table
+        }
+        .clearfix:after { clear: both }
+
+        .left  { float: left }
+        .right { float: right }
+
+        .fit { max-width: 100% }
+
+        .half-width { width: 50% }
+        .full-width { width: 100% }
+
+// Lists
+
+        .list-plain {
+          list-style: none;
+          padding-left: 0;
+          li {
+            list-style: none;
+          }
+        }
+
+// Positioning
+
+        .relative { position: relative; }
+        .absolute { position: absolute; }
+        .fixed    { position: fixed; }
+
+        .top-0    { top: 0; }
+        .right-0  { right: 0; }
+        .bottom-0 { bottom: 0; }
+        .left-0   { left: 0; }
+
+        .z1 { z-index: 1; }
+        .z2 { z-index: 2; }
+        .z3 { z-index: 3; }
+        .z4 { z-index: 4; }
+
+        .absolute-center {
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          margin: auto;
+          display: table;
+        }

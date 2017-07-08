@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Don't Let Me Down
 artist: The Chainsmokers
 year: 2016

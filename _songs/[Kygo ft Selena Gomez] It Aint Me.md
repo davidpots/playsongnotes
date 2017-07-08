@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  It Ain't Me
 artist: Kygo
 artist_featured: Selena Gomez

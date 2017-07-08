@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Don't Say
 artist: The Chainsmokers
 year: 2017

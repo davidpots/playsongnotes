@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Someone in the Crowd
 artist: La La Land
 year: 2016

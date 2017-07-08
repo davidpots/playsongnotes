@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Dead Flowers
 artist: Townes Van Zandt
 artist_original: Rolling Stones

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: Lonesome Town
 artist: Ricky Nelson
 year: 1958

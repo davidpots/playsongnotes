@@ -4,20 +4,15 @@ layout: default
 <article>
 
   <!-- Title -->
-  {{ page.title | escape }}
-
-  <!-- Date and Time -->
-  <time datetime="{{ page.date | date_to_xmlschema }}">
-    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-    {{ page.date | date: date_format }}
-  </time>
-
-  <!-- Author -->
-  {% if page.author %}
-    {{ page.author }}
-  {% endif %}
+  <br /><br /><br />
+  <p class="center h2 mbn">Guitar lesson for</p>
+  <h1 class="center mtn mbn">{{ page.title | escape }}</h1>
+  <p class="center h2 mtn">by <span>{{ page.artist | escape }}</span></p>
+  <br /><br /><br />
 
   <!-- Content -->
-  {{ content }}
+  <div class="container">
+    {{ content }}
+  </div>
 
 </article>

@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title:  Strangers
 artist: The Kinks
 year: 1970

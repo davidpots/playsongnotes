@@ -1,5 +1,6 @@
 ---
 layout: song
+has_video_lesson: true
 title: 7 Years
 artist: Lukas Graham
 year: 2015
