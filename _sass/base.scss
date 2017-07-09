@@ -10,3 +10,32 @@
   "base/grid",
   "base/type"
 ;
+
+
+.lesson-list { border-bottom: 1px solid #e6e6e6; }
+.lesson-list a {
+  display: block;
+  background: #fff;
+  padding: 14px 18px;
+  border: 1px solid #e6e6e6;
+  border-bottom: 0;
+  color: #333;
+  position: relative;
+  .lesson-list--item-wrap {
+    margin-right: 50px;
+  }
+  .lesson-list--title {
+    font-weight: bold;
+    display: block;
+  }
+  .lesson-list--artist {
+    font-size: 14px;
+  }
+  .lesson-list--year {
+    position: absolute;
+    top: 14px;
+    right: 18px;
+    font-size: 14px;
+    color: #aaa;
+  }
+}

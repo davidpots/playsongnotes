@@ -4,19 +4,42 @@ layout: default
 
 
 
-<div class="container--col-8">
-  <h2>Video lessons</h2>
+<div class="container--col-6">
 
-  <ul class="list-plain">
+  <div class="center mtm"><img width="240" src="/images/logo/songnotes-logo-vertical.svg" /></div>
+  <p class="center mbl">Easy-to-follow guitar lessons.<br />Made by @davidpots in Austin, TX.</p>
+  <p class="center small">If these lessons are helpful to you, please <br />consider donating to the <a class="underline" href="https://paypal.me/songnotes">tip jar</a>. Thanks!</p>
+
+  <p class="center small mbs">Subscribe and never miss a lesson:</p>
+
+  <script src="https://apis.google.com/js/platform.js"></script>
+  <div class="center">
+    <div class="g-ytsubscribe" data-channel="playsongnotes" data-layout="default" data-count="default"></div>
+  </div>
+
+  <!-- <h3>Welcome!</h3>
+  <p>Hello there. Welcome to the new Songnotes webpage. The old Songnotes webpage, which has my non-video lessons, can still be found by visting <a href="http://www.songnotes.cc">www.songnotes.cc</a>.
+
+  <h3>Video lessons</h3>
+  <p>Here's a list of all the video lessons I've made sine 2014. Notes, tabs, and the video for each lesson can be found via the links below. If you enjoy my videos, please subscribe so you never miss a lesson.</p> -->
+
+<!-- <p>If you find my lessons helpful, please consider a small donation to my tip jar ✌️</p> -->
+<!-- <h3 class="mtl">Tip Jar</h3> -->
+
+<h3 class="mtl">Browse all video lessons:</h3>
+  <ul class="list-plain lesson-list">
 
     {% assign sorted_songs = (site.songs | sort: 'title') %}
 
     {% for song in sorted_songs %}
       <li>
-
-        <h2 class="mbn"><a class="post-link" href="{{ song.url | relative_url }}">{{ song.title | escape }}</a></h2>
-        <p>{{ song.artist }} <span class="gray-light">({{ song.year }})</span></p>
-
+        <a href="{{ song.url | relative_url }}">
+          <div class="lesson-list--item-wrap">
+            <span class="lesson-list--title">{{ song.title | escape }}</span>
+            <span class="lesson-list--artist">{{ song.artist }}</span>
+          </div>
+          <span class="lesson-list--year">{{ song.year }}</span>
+        </a>
       </li>
     {% endfor %}
   </ul>
