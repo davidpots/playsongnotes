@@ -42,7 +42,7 @@ Intro / verse / pre-chorus:
 
 Chorus / post-chorus:
 
-   A . Bb . F . C . (repeat)
+    A . Bb . F . C . (repeat)
 
 ## Strumming
 
