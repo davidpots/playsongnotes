@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Go Flex
+title: Guitar lesson for "Go Flex" by Post Malone -- playsongnotes.com
+song_title:  Go Flex
 artist: Post Malone
 year: 2016
 categories: guitar

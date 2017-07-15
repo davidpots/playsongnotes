@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Stairway to Heaven
+title: Guitar lesson for "Stairway to Heaven" intro by Led Zeppelin -- playsongnotes.com
+song_title:  Stairway to Heaven
 artist: Led Zeppelin
 year: 1971
 categories: guitar

@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  How Far I'll Go
+title: Guitar lesson for "How Far I'll Go" by Alessia Cara (from Moana) -- playsongnotes.com
+song_title:  How Far I'll Go
 artist: Alessia Cara
 year: 2016
 categories: guitar

@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Dead Flowers
+title: Guitar lesson for "Dead Flowers" by Townes Van Zandt -- playsongnotes.com
+song_title:  Dead Flowers
 artist: Townes Van Zandt
 artist_original: Rolling Stones
 year: 1971

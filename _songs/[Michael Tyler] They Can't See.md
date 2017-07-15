@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  They Can't See
+title: Guitar lesson for "They Can't See" by Michael Tyler -- playsongnotes.com
+song_title:  They Can't See
 artist: Michael Tyler
 year: 2017
 categories: guitar

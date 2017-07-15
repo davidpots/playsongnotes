@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Out on the Weekend
+title: Guitar lesson for "Out on the Weekend" by Neil Young -- playsongnotes.com
+song_title:  Out on the Weekend
 artist: Neil Young
 year: 1972
 categories: guitar

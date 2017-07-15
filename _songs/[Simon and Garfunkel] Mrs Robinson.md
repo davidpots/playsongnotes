@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Mrs. Robinson
+title: Guitar lesson for "Mrs. Robinson" by Simon and Garfunkel -- playsongnotes.com
+song_title:  Mrs. Robinson
 artist: Simon and Garfunkel
 year: 1968
 categories: guitar

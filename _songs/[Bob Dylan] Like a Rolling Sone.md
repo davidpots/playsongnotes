@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Like a Rolling Stone
+title: Guitar lesson for "Like a Rolling Stone" by Bob Dylan -- playsongnotes.com
+song_title:  Like a Rolling Stone
 artist: Bob Dylan
 year: 1965
 categories: guitar

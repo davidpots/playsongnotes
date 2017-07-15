@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Little Talks
+title: Guitar lesson for "Little Talks" by Of Monsters and Men -- playsongnotes.com
+song_title:  Little Talks
 artist: Of Monsters and Men
 year: 2012
 categories: guitar

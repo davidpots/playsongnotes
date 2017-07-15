@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  A Lovely Night
+title: Guitar lesson for "A Lovely Night" from La La Land -- playsongnotes.com
+song_title:  A Lovely Night
 artist: La La Land
 year: 2016
 categories: guitar

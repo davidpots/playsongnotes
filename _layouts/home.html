@@ -29,13 +29,13 @@ layout: default
 <h3 class="mtl">Browse all video lessons:</h3>
   <ul class="list-plain lesson-list">
 
-    {% assign sorted_songs = (site.songs | sort: 'title') %}
+    {% assign sorted_songs = (site.songs | sort: 'song_title') %}
 
     {% for song in sorted_songs %}
       <li>
         <a href="{{ song.url | relative_url }}">
           <div class="lesson-list--item-wrap">
-            <span class="lesson-list--title">{{ song.title | escape }}</span>
+            <span class="lesson-list--title">{{ song.song_title | escape }}</span>
             <span class="lesson-list--artist">{{ song.artist }}</span>
           </div>
           <span class="lesson-list--year">{{ song.year }}</span>

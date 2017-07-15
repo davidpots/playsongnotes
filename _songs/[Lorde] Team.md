@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Team
+title: Guitar lesson for "Team" by Lorde -- playsongnotes.com
+song_title:  Team
 artist: Lorde
 year: 2013
 categories: guitar

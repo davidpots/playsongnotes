@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Hallelujah
+title: Guitar lesson for "Hallelujah" by Leonard Cohen -- playsongnotes.com
+song_title:  Hallelujah
 artist: Leonard Cohen
 year: 1984
 categories: guitar

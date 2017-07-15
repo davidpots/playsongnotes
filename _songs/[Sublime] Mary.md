@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Mary
+title: Guitar lesson for "Mary" by Sublime -- playsongnotes.com
+song_title:  Mary
 artist: Sublime
 year: 1994
 categories: guitar

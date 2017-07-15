@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  2U
+title: Guitar lesson for "2U" by David Guetta ft Justin Bieber -- playsongnotes.com
+song_title:  2U
 artist: David Guetta
 artist_featured: Justin Bieber
 year: 2017

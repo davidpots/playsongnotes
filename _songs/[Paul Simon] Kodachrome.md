@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title: Kodachrome
+title: Guitar lesson for "Kodachrome" by Paul Simon -- playsongnotes.com
+song_title: Kodachrome
 artist: Paul Simon
 year: 1973
 categories: guitar

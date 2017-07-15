@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Paper Ships
+title: Guitar lesson for "Paper Ships" by Dead Mans Bones -- playsongnotes.com
+song_title:  Paper Ships
 artist: Dead Mans Bones
 year: 2009
 categories: guitar

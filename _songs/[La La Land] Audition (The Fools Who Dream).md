@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Audition (The Fools Who Dream)
+title: Guitar lesson for "Audition (The Fools Who Dream)" from La La Land -- playsongnotes.com
+song_title:  Audition (The Fools Who Dream)
 artist: La La Land
 year: 2016
 categories: guitar

@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Hotel California
+title: Guitar lesson for "Hotel California" by The Eagles -- playsongnotes.com
+song_title:  Hotel California
 artist: The Eagles
 year: 1976
 categories: guitar

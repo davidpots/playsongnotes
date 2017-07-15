@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Sweet Caroline
+title: Guitar lesson for "Sweet Caroline" by Neil Diamond -- playsongnotes.com
+song_title:  Sweet Caroline
 artist: Neil Diamond
 year: 1969
 categories: guitar

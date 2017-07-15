@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Happy Xmas (War is Over)
+title: Guitar lesson for "Happy Xmas (War is Over)" by John Lennon -- playsongnotes.com
+song_title:  Happy Xmas (War is Over)
 artist: John Lennon
 year: 1972
 categories: guitar

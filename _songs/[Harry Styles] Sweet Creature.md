@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Sweet Creature
+title: Guitar lesson for "Sweet Creature" by Harry Styles -- playsongnotes.com
+song_title:  Sweet Creature
 artist: Harry Styles
 year: 2017
 categories: guitar

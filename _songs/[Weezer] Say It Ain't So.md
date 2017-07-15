@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Say It Ain't So
+title: Guitar lesson for "Say It Ain't So" by Weezer -- playsongnotes.com
+song_title:  Say It Ain't So
 artist: Weezer
 year: 1994
 categories: guitar

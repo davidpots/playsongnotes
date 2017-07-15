@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Freeway Time in LA County Jail
+title: Guitar lesson for "Freeway Time in LA County Jail" by Sublime -- playsongnotes.com
+song_title:  Freeway Time in LA County Jail
 artist: Sublime
 year: 1994
 categories: guitar

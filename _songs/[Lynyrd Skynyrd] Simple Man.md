@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Simple Man
+title: Guitar lesson for "Simple Man" by Lynyrd Skynyrd -- playsongnotes.com
+song_title:  Simple Man
 artist: Lynyrd Skynyrd
 year: 1973
 categories: guitar

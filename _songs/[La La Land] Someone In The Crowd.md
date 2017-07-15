@@ -1,7 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title:  Someone in the Crowd
+title: Guitar lesson for "Someone in the Crowd" from La La Land -- playsongnotes.com
+song_title:  Someone in the Crowd
 artist: La La Land
 year: 2016
 categories: guitar
