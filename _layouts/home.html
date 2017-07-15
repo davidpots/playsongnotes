@@ -46,27 +46,24 @@ layout: default
 
 </div>
 
-<div class="container ptxl pbxxl">
-{% include mailchimp.html %}
-</div>
+<div class="mtxl ptxl" style="box-shadow: 0px -2px 5px rgba(0,0,0,0.1); background: #fff;">
+  <div class="container">
+
+  <h2>Enjoy my lessons? Buy me a beer!</h2>
+  <p class="">If this and my other lessons have proven helpful to you, please consider <a class="underline bold" href="https://paypal.me/songnotes">donating to my tip jar</a>. Contributions help make this project possible (including the many, many hours I put into it). Thanks!</p>
+
+  <hr />
+  <h2>Subscribe to my YouTube channel</h2>
+  <p>Be sure to never miss a lesson by subscribing on YouTube. I put out 2-3 new videos every week. These include full song lessons, as well as covers, practice tips, behind-the-scenes updates. Thanks!</p>
+
+  <script src="https://apis.google.com/js/platform.js"></script>
+  <div class="g-ytsubscribe" data-channel="playsongnotes" data-layout="full" data-count="default"></div>
+
+  <hr />
+  <h2>Monthly email updates</h2>
+  <p>If you want to keep posted of new lessons over email, sign up for my newsletter. I'll email once a month with a digest of all my new videos. I promise: no spam.</p>
+  {% include mailchimp.html %}
 
 
-<!-- Stuff I ripped out -->
-
-<!-- {{ song.date | date: "%B %-d, %Y" }} -->
-
-  <!-- <h1>Posts</h1>
-
-  {{ content }}
-
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          {{ post.date | date: date_format }}
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul> -->
+    <br />
+  </div>
