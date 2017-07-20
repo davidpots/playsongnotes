@@ -1,6 +1,22 @@
-## Tuning of Tom Petty version
+---
+layout: song
+has_video_lesson: true
+title: Guitar lesson for "Mary Jane's Last Dance" by Tom Petty and the Heartbreakers
+song_title:  Mary Jane's Last Dance
+artist: Tom Petty and The Heartbreakers
+year: 1993
+categories: guitar
+---
 
-Quick tuning note! The album version of this song isn't quite in perfect concert pitch. I believe it was slightly sped up (or slowed down?) in production -- which means if your guitar is perfectly in standard tuning, you'll sound a bit off when playing along. As for me, I'm tuned standard. So to play along with my video lesson, put that guitar in standard tuning!
+## Video lesson
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x9h9OfWGIK8" frameborder="0" allowfullscreen></iframe> -->
+
+Coming soon!
+
+## Quick note about guitar tuning
+
+Head's up, the album version of this song isn't quite in perfect concert pitch. I believe it was slightly sped up (or slowed down?) in production -- which means if your guitar is perfectly in standard tuning, you'll sound a bit off when playing along. As for me, I'm tuned standard. So to play along with my video lesson, put that guitar in standard tuning!
 
 ## How to play the chords
 
@@ -170,3 +186,7 @@ For context, here are the chords shown on top of the lyrics for the first verse 
         ...Tired of this town again-----
 
                     (use this progression for each chorus)
+
+## Good luck!
+
+Let me know if you have questions. I hope this was helpful.
