@@ -10,7 +10,24 @@ categories: guitar
 
 ## Video lesson
 
+Here's my video lesson for this song:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk" frameborder="0" allowfullscreen></iframe>
+
+Here's what I cover in the video lesson (jump ahead to any point you like):
+
+- 0:00 Preview / playthrough
+- 0:54 Lesson overview & tuning notes
+- 1:30 Intro chords & timing
+- 2:39 Intro chords strum pattern
+- 3:05 Intro hammer-on technique
+- 5:00 Verse chords & strumming
+- 5:47 Verse harmonica solo riff
+- 7:03 Chorus chords & strumming
+- 7:54 Chorus fills, riffs, and runs
+- 9:40 Lead guitar riff
+- 11:33 Farewell
+
 
 ## Quick note about guitar tuning
 
