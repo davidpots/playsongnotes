@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x9h9OfWGIK8" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk" frameborder="0" allowfullscreen></iframe>
 
 ## Quick note about guitar tuning
 
@@ -57,9 +55,9 @@ Want a basic strumming pattern? Try this. This is what I use for the verse. This
     ↓       ↓   ↓ ↑ ↓       ↓   ↓ ↑ ↓       ↓   ↓ ↑ ↓       ↓   ↓ ↑
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-To step things up a notch: I use this fancier strumming for the intro riff. Yes, I kinda of switch to each chord one beat "late" -- i.e., on the 2-count -- it is up to you if you want to copy this. It's really about listening to the song, feeling the sound you want to create, and combining your strumming w/ chord changes (and hammer-ons) accordingly.
+To step things up a notch: I use this fancier strumming for the intro riff.
 
-    Am                  G               D               Am
+    Am              G               D               Am
     ↓       ↓     ↑ ↓ ↑ ↓   ↓     ↑ ↓ ↑ ↓   ↓     ↑ ↓ ↑ ↓   ↓
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
@@ -119,7 +117,7 @@ Next, is the A-major. You can spice this up by using simple Asus4 chords (done b
 
     "(...to kill the pain...)"
 
-    E –––0––––––0––––––––––––––––––0––––0–––––––––––––
+    E –––0––––––0––––0–––––––––––––0––––0–––––––––––––
     B –––2––––––3––––2–––––––––––––3––––2–––––––––––––
     G –––2––––––2––––2–––––––––––––2––––2–––––––––––––
     D –––2––––––2––––2–––––––––––––2––––2–––––––––––––
