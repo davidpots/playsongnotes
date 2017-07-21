@@ -10,7 +10,9 @@ categories: guitar
 
 ## Video lesson
 
-Coming soon!
+Coming soon! In the meantime, here's the album version of this song for you to listen along to.
+
+<iframe src="https://open.spotify.com/embed/track/35r28RDot7nPE7y9K9H7l0" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ## Chords needed
 
