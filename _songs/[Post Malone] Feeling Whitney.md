@@ -38,6 +38,8 @@ There's also these slight modifications of the chords above, which are used in a
 
 Once you know the chords, it's time to learn the basic fingerpicking patterns. The good news: there is a ton of consistency here. For the C, Am, F, and C7 you have the same general pattern -- lowest note, highest note, 2nd lowest note, 2nd highest note. While the strings played per each chord are different, it's not terribly difficult to memorize. Print this out (or write it down) if you are having trouble memorizing things... the hard part will be getting your right hand's fingers to play along with the instructions your brain will be giving them.
 
+Each pattern below needs to be repeated (usually 8 times).
+
     E –––––––––––––––––  
     B –––––1–––––––––––   <-- right ring
     G ––––––––––––0––––   <-- right middle
