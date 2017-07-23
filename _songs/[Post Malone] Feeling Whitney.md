@@ -1,6 +1,6 @@
 ---
 layout: song
-has_video_lesson: true
+has_video_lesson: false
 title: Guitar lesson for "Feeling Whitney" by Post Malone
 song_title:  Feeling Whitney
 artist: Post Malone
