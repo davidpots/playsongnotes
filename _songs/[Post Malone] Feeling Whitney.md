@@ -10,9 +10,13 @@ categories: guitar
 
 ## Video lesson
 
-Coming soon! In the meantime, here's the album version of this song for you to listen along to.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbFdJy4YShU" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://open.spotify.com/embed/track/35r28RDot7nPE7y9K9H7l0" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+## Printable version of this lesson
+
+<img width="240" src="https://lh6.googleusercontent.com/sgVvnzdDzf8aJPU18JmJVtQdA5_yfYKIk3WoScFU6-u9cHZ8RLpRCeRefqNRLXwjVFhGG_aPhzloOIQ=w2880-h1388" alt="Preview: printable version of this lesson" />
+
+Are you interested in a printable, nicely designed PDF with everything I cover in this lesson? I have one. I'll send it to you – email me at play.songnotes [at] gmail.com and I'll send you a copy.
 
 ## Chords needed
 
