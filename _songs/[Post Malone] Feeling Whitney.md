@@ -80,7 +80,7 @@ Each pattern below needs to be repeated (usually 8 times).
     D ––––––––2––––––––   <-- right index                 
     A –––3–––––––––––––   <-- right thumb                
     E –––––––––––––––––   
-         C
+         C7
 
     E ––––––––––––1––––   <-- right ring
     B –––––0–––––––––––   <-- right middle
