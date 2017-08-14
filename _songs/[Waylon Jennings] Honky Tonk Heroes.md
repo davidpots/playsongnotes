@@ -38,9 +38,10 @@ If it isn't clear or you need more help, note the intro uses this general timing
 
     D                       B7
     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-
-    E7          A7          D
-    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+    
+                                               "Low down leaving sun..."
+    E7          A7          D                       D/F#
+    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
 
 That being said, here's a few minor notes to help you nail this one:
 
