@@ -24,6 +24,8 @@ The following tab shows the foundation of this intro. This focuses on the main c
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––
                     D                           B7
 
+
+                                           "Low down leaving sun..."
     E ––––––0–––––––0––––––––2––––––––––––––––––2–––––––––––
     B ––––––3–––––––2––––––––3––––––––––––––––––3–––––––––––
     G ––––––1–––––––0––––––––2––––––––––––––––––2–––––––––––
@@ -32,13 +34,11 @@ The following tab shows the foundation of this intro. This focuses on the main c
     E –––––(0)––––––––––––––––––––––––––––––––––––––––––––––
             E7      A7       D                  D
 
-             ("Lay *DOWN* leaving sun..." aligns w/ final D)
-
 If it isn't clear or you need more help, note the intro uses this general timing per the main chord placement:
 
     D                       B7
     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-    
+
                                                "Low down leaving sun..."
     E7          A7          D                       D/F#
     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
