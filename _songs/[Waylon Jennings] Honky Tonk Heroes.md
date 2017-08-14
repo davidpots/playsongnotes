@@ -14,6 +14,8 @@ Coming soon!
 
 ## Intro tab
 
+The following tab shows the foundation of this intro. This focuses on the main chords you need to hit, and also the transitional notes that walk up and down between each chords. Note, what I'm _not_ showing is the more intricate filler notes you can play when you're hanging out on each chord. Watch to my video lesson for specifics here -- you can hear me playing notes that aren't tabbed out, but again -- these are filler, and can be played (or ignored) as per your desired skill level.
+
     E ––––––––––––––2–––––––––––––––––––––––––––2–––––––––––
     B ––––––––––––––3–––––––––––––––––––––––––––0–––––––––––
     G ––––––––––––––2–––––––––––––––––––––––––––2–––––––––––
@@ -31,6 +33,19 @@ Coming soon!
             E7      A7       D                  D
 
              ("Lay *DOWN* leaving sun..." aligns w/ final D)
+
+If it isn't clear or you need more help, note the intro uses this general timing per the main chord placement:
+
+    D                       B7
+    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+
+    E7          A7          D
+    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+
+That being said, here's a few minor notes to help you nail this one:
+
+1. The first 3 notes, leading up to the first D chord, happen on the final "+ 4 +" of the preceding measure. That is, the "1" count of the next measure should be the open D (4th) string, as part of the "D" chord -- which lasts for an entire measure.
+2. The final D chord is technically a D/F# – and the 6 notes that lead up to the F# note (4th fret on the D string) are triplets. What this means: they happen on the "3 + 4 + " of the final measure, and each of these final two beats receives three evenly distributed notes. If this isn't clear, see my video! This final measure is a bit tricky... especially since you start singing during this run of notes (align the lyric "down" with the first pluck of the 4th fret of the D string).
 
 ## Lyrics w/ chords
 
