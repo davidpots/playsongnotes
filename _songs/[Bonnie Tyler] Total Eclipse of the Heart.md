@@ -1,3 +1,17 @@
+---
+layout: song
+has_video_lesson: true
+title: Guitar lesson for "Total Eclipse of the Heart" by Bonnie Tyler
+song_title:  Total Eclipse of the Heart
+artist: Bonnie Tyler
+year: 1983
+categories: guitar
+---
+
+## Video lesson
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno" frameborder="0" allowfullscreen></iframe>
+
 ## Capo 1st fret
 
 If you want to play along with Bonnie Tyler's recorded version of the song, you'll need to put a capo on the 1st fret and use all chords and tabs below. You could also not use a capo and use the chords - but note you'll be in a different key than the album version of this song (which may not be a big deal unless you're trying to play along with it).
@@ -29,7 +43,7 @@ Put your left hand in the A-minor position, and play the riff as follows. Note t
 I keep the strumming pattern quite simple:
 
     D = downstrum   U = upstrum
-
+    
     D       D   D U
     1 + 2 + 3 + 4 +
 
@@ -116,3 +130,8 @@ Quite simply, there are a lot of sections of this song. Here's the high-level gu
         Once upon a time there was light in my life, but now there's only love in the dark
         Am                   D                    G     Em    C    D
         Nothing I can say, a total eclipse of the heart
+
+
+## Good luck!
+
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
