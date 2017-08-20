@@ -10,7 +10,21 @@ categories: guitar
 
 ## Video lesson
 
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xvh4sem4kSA" frameborder="0" allowfullscreen></iframe>
+
+## Printable version of these notes
+
+Want a nicely formatted PDF with these notes all typed up for you? Send me an email at play.songnotes@gmail.com and I'll send it to you!
+
+## Chords needed
+
+    E –––2––––2––––3––––2––––0––––0––––2––––––
+    B –––3––––1––––0––––0––––3––––2––––3––––––
+    G –––2––––2––––0––––2––––1––––0––––2––––––
+    D –––0––––0––––0––––1––––2––––2––––4––––––
+    A –––––––––––––2––––2––––2––––0–––––––––––
+    E –––––––––––––3–––––––––0––––––––––––––––
+         D    D7   G    B7   E7   A7   D/F#   
 
 ## Intro tab
 
@@ -24,8 +38,8 @@ The following tab shows the foundation of this intro. This focuses on the main c
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––
                     D                           B7
 
-
-                                           "Low down leaving sun..."
+                    
+                                        "Low down leaving sun..."
     E ––––––0–––––––0––––––––2––––––––––––––––––2–––––––––––
     B ––––––3–––––––2––––––––3––––––––––––––––––3–––––––––––
     G ––––––1–––––––0––––––––2––––––––––––––––––2–––––––––––
@@ -47,6 +61,22 @@ That being said, here's a few minor notes to help you nail this one:
 
 1. The first 3 notes, leading up to the first D chord, happen on the final "+ 4 +" of the preceding measure. That is, the "1" count of the next measure should be the open D (4th) string, as part of the "D" chord -- which lasts for an entire measure.
 2. The final D chord is technically a D/F# – and the 6 notes that lead up to the F# note (4th fret on the D string) are triplets. What this means: they happen on the "3 + 4 + " of the final measure, and each of these final two beats receives three evenly distributed notes. If this isn't clear, see my video! This final measure is a bit tricky... especially since you start singing during this run of notes (align the lyric "down" with the first pluck of the 4th fret of the D string).
+
+
+D  •  •  •  D  •  •  •  D7 •  •  •  G  •  •  •
+G  •  •  •  D  •  B7 •  E7 •  •  •  A7 •  •  •
+
+## Verse strumming
+
+Keep it simple to start with:
+
+    Down... down up, down... down up, down... down up, down...
+
+Or written out with the counting:
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D U D   D U D   D U D   D U
+    >       >       >       >
 
 ## Lyrics w/ chords
 
