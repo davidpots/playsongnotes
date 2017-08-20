@@ -38,7 +38,7 @@ The following tab shows the foundation of this intro. This focuses on the main c
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––
                     D                           B7
 
-                    
+
                                         "Low down leaving sun..."
     E ––––––0–––––––0––––––––2––––––––––––––––––2–––––––––––
     B ––––––3–––––––2––––––––3––––––––––––––––––3–––––––––––
@@ -63,8 +63,12 @@ That being said, here's a few minor notes to help you nail this one:
 2. The final D chord is technically a D/F# – and the 6 notes that lead up to the F# note (4th fret on the D string) are triplets. What this means: they happen on the "3 + 4 + " of the final measure, and each of these final two beats receives three evenly distributed notes. If this isn't clear, see my video! This final measure is a bit tricky... especially since you start singing during this run of notes (align the lyric "down" with the first pluck of the 4th fret of the D string).
 
 
-D  •  •  •  D  •  •  •  D7 •  •  •  G  •  •  •
-G  •  •  •  D  •  B7 •  E7 •  •  •  A7 •  •  •
+## Verse chord progression
+
+Very similar to the intro, you just play around a bit more on the D (adding a D7 and G) before moving to the B7 / E7 / A7 etc.
+
+    D  •  •  •  D  •  •  •  D7 •  •  •  G  •  •  •
+    G  •  •  •  D  •  B7 •  E7 •  •  •  A7 •  •  •
 
 ## Verse strumming
 
@@ -77,6 +81,8 @@ Or written out with the counting:
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     D   D U D   D U D   D U D   D U
     >       >       >       >
+
+For the second half of the song, Jennings picks up the tempo big time. At that point, you can adjust this if you want however you see fit.
 
 ## Lyrics w/ chords
 
