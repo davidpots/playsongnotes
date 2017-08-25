@@ -1,6 +1,6 @@
 ---
 layout: song
-has_video_lesson: false
+has_video_lesson: true
 title: Guitar lesson for "Danny's Song" by Loggins and Messina
 song_title:  Danny's Song
 artist: Loggins and Messina
@@ -10,9 +10,11 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x9h9OfWGIK8" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWKt_jnwM4o" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+## Printable version of these notes
+
+Want a nicely formatted PDF with these notes all typed up for you? Send me an email at play.songnotes@gmail.com and I'll send it to you!
 
 ## Chords needed
 
@@ -130,18 +132,18 @@ See my video lesson for context. Don't over think it! I'm sure you could get wil
         Conceived in love... the sun is gonna shine above
 
     CHORUS
-            G                     A
-            ...And even though we ain't got money
-            D              Bm
-            ...I'm so in love with ya honey
-                G               A                D      Bm
-            And everything will bring a chain of love------
-            G                     A
-            ...And in the morning when I rise
-            D                   C
-            ...Bring a tear of joy to my eyes
-                Bm      E7    A
-            And tell me every---thing is gonna be all right
+              G                     A
+              ...And even though we ain't got money
+              D              Bm
+              ...I'm so in love with ya honey
+                  G               A                D      Bm
+              And everything will bring a chain of love------
+              G                     A
+              ...And in the morning when I rise
+              D                   C
+              ...Bring a tear of joy to my eyes
+                  Bm      E7    A
+              And tell me every---thing is gonna be all right
 
                     (use same chords for remaining verse & chorus sections)
 
