@@ -1,6 +1,6 @@
 ---
 layout: song
-has_video_lesson: false
+has_video_lesson: true
 title: Guitar lesson for "House of the Rising Sun" by The Animals
 song_title:  House of the Rising Sun
 artist: The Animals
@@ -10,11 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Se-QFYkaFuo" frameborder="0" allowfullscreen></iframe> -->
-
-<!-- UPDATE THE HAS GUITAR LESSON TOO -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjNnsAY-ijc" frameborder="0" allowfullscreen></iframe>
 
 ## Printable version of this lesson
 
