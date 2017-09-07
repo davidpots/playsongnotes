@@ -12,6 +12,10 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEUgFGKD8x8" frameborder="0" allowfullscreen></iframe>
 
+## Printable PDF lesson
+
+If you'd like a copy of my nicely formatted PDF print-out of these notes, let me know! Send an email to play.songnotes@gmail.com and I'll respond with the PDF.
+
 ## Capo notes
 
 To play along with Kris Kristofferson's version, use a capo on the 2nd fret. To play along with Johnny Cash's version, use a capo on the 1st fret. In my video lesson, I don't use a capo. It's up to you!
