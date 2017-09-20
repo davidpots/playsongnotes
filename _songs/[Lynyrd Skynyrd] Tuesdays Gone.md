@@ -54,11 +54,11 @@ If you'd like a print-friendly PDF of this lesson for offline use, send me an em
             ...My baby’s gone with the wind
 
     SOLO
-                Part 1:         Part 2:        Part 3:
-              	A E F#m D			  A G D  D		   A E F#m D
-              	A E F#m G			  A G D  D		   A E D2 D2
-              	A E F#m D		 	  A G D  D		   
-              	A E F#m G			  A E D2 D2
+              Part 1:         Part 2:       Part 3:
+              A E F#m D       A G D  D      A E F#m D
+              A E F#m G       A G D  D      A E D2 D2
+              A E F#m D       A G D  D      
+              A E F#m G       A E D2 D2
 
     Train roll on... many miles from my home, see I’m...
     I’m riding my blues... away... yeah...
