@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/QRA38cZMIJk" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31jz-gkZ3RE" frameborder="0" allowfullscreen></iframe>
 
 ## PDF print-out of this lesson
 
@@ -54,18 +52,18 @@ If you'd like a print-friendly PDF of this lesson for offline use, send me an em
             ...My baby’s gone with the wind
 
     SOLO
-              Part 1:         Part 2:       Part 3:
-              A E F#m D       A G D  D      A E F#m D
-              A E F#m G       A G D  D      A E D2 D2
-              A E F#m D       A G D  D      
-              A E F#m G       A E D2 D2
+                Part 1:         Part 2:       Part 3:
+                A E F#m D       A G D  D      A E F#m D
+                A E F#m G       A G D  D      A E D2 D2
+                A E F#m D       A G D  D      
+                A E F#m G       A E D2 D2
 
-    Train roll on... many miles from my home, see I’m...
-    I’m riding my blues... away... yeah...
-    Tuesday, you see... she had to be free, all but...
-    Somehow I got to... carry on... lord, and...
+        Train roll on... many miles from my home, see I’m...
+        I’m riding my blues... away... yeah...
+        Tuesday, you see... she had to be free, all but...
+        Somehow I got to... carry on... lord, and...
 
-        [chorus, solo, end]
+            [chorus, solo, end]
 
 ## Chords you'll need
 
