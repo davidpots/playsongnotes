@@ -10,8 +10,11 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ovnhfQkUXkc" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7K5LJiWlatU" frameborder="0" allowfullscreen></iframe>
 
+## PDF print out of this lesson
+
+Would you like a PDF print-out of this lesson, nicely formatted for your non-glowing screen needs? I have one! Email me at play.songnotes@gmail.com and I'll send you one promptly. Thanks!
 
 ## Capo 2nd fret
 
@@ -159,9 +162,9 @@ First, understand the timing of things. You'll be on each chord for two measures
           G                                   D7/F#
           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-### Add the melody notes
+### 2. Add the melody notes
 
-Next, the melody:
+Using the chord shapes above as a starting point, next work on the main melody notes. Keep your left hand in the chord-shape positions. See my video for reference here.
 
     E ||–––––––––––––––––––––––––––––––––––|––––3–––3–––––––––3–––3–––2–0––––––|–
     B ||––––3–––3–––––––––1–0––––––––––––––|––––1–––1––––––––––––––––––––––––––|–
@@ -181,7 +184,9 @@ Next, the melody:
           G                                   D7/F#
           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-Next, add a perpetual bass note to the melody:
+### 3. Add the repeating bass note of each chord
+
+If you want to get extra fancy, can you alternate the bass note for each chord (e.g., jump from the 6th string to 5 string, repeating over and over... this is tough but sounds great).
 
     E ||–––––––––––––––––––––––––––––––––––|––––3–––3–––––––––3–––3–––2–0––––––|–
     B ||––––3–––3–––––––––1–0––––––––––––––|––––1–––1––––––––––––––––––––––––––|–
@@ -201,7 +206,9 @@ Next, add a perpetual bass note to the melody:
           G                                   D7/F#
           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-Finally, insert additional filler notes where you can:
+### 4. Add filler notes
+
+Finally, insert additional filler notes where you can, if you wish. Basically, the idea is to always be playing something -- to create a nice and full sound.
 
     E ||–––––––––––––––––––––––––––––––––––|––––3–––3–––––––––3–––3–––2–0–––0––|–
     B ||––––3–––3–––––––––1–0––––––––––––––|––––1–––1–––1–––1–––1–––1––––––––––|–
