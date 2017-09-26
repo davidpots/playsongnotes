@@ -85,7 +85,7 @@ There are two progressions you'll need for this song, and they're both fairly si
                       A . . . . . E . . . . . F#m . . . . . D . . . . .
                       A . . . . . E . . . . . D   . . . . . D . . . . .
 
-    CHORUS            "Tuesdays gone with the wind..."
+    CHORUS            "Tuesday's gone with the wind..."
                       A . . . . . G . . . . . D . . . . . D . . . . .
                       A . . . . . E . . . . . D . . . . . D . . . . .
 

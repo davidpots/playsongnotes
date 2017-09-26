@@ -112,27 +112,27 @@ If you want easy, simple-as-possible versions of the chords, use these shapes. T
 If you want play any semblance of the riff heard in the intro and verse, you'll want to play these chords as follows. The reason why: so your hands are in the appropriate position to play the melodic notes you will need to add as per the riff. See my video lesson for reference.
 
     E ––––––––
-    B –––3––––   <-- right pinky finger
+    B –––3––––   <-- left pinky finger
     G –––0––––
     D –––0––––
-    A –––2––––   <-- right middle finger
-    E –––3––––   <-- right ring finger
+    A –––2––––   <-- left middle finger
+    E –––3––––   <-- left ring finger
          G
 
-    E –––3––––   <-- right pinky finger
-    B –––1––––   <-- right index finger
+    E –––3––––   <-- left pinky finger
+    B –––1––––   <-- left index finger
     G –––0––––
-    D –––2––––   <-- right middle finger
-    A –––3––––   <-- right ring finger
+    D –––2––––   <-- left middle finger
+    A –––3––––   <-- left ring finger
     E ––––––––
          C
 
     E ––––––––  
-    B –––1––––   <-- right index finger
-    G –––2––––   <-- right ring finger
+    B –––1––––   <-- left index finger
+    G –––2––––   <-- left ring finger
     D –––0––––
     A –––0––––
-    E –––2––––   <-- right middle finger
+    E –––2––––   <-- left middle finger
        D7/F#
 
 ## Learning the intro & verse riff
@@ -220,9 +220,6 @@ Finally, insert additional filler notes where you can:
     E -|––3–––3–––3–––3–––3–––3–––3–––3––––|––2–––2–––2–––2–––2–––2–––2–––2––––||
           G                                   D7/F#
           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-
-
 
 ## Good luck!
 
