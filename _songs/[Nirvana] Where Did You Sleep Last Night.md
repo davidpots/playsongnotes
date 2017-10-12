@@ -16,6 +16,10 @@ categories: guitar
 
 Are you interested in a printable, nicely designed PDF with everything I cover in this lesson? I have one. I'll send it to you – email me at play.songnotes@gmail.com and I'll send you a copy.
 
+## Tuning FYI
+
+Note, you'll need to tune down 1/2 step if you want to play along with Nirvana's version (they're using E-flat tuning). I decided to use standard tuning in my video lesson above. Take note of this in case you want to play along with Nirvana.
+
 ## Chord progression used for entire song
 
 The entire song uses this one progression, played over and over again. Here, I show 6 counts per measure. Notice that the measure with the A-major and G-major is split between those two chords (3 counts each)... every other measure has 6 counts on the chord in question.
