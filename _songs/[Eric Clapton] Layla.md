@@ -60,11 +60,11 @@ The idea is to spend two counts on each chord, in the order shown below. Then re
 
 Here's the tab for the generalized riff:
 
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    B ––––––––––3–––––––––––––––––––––––––––––––––––––––––––––3–––––––
+    E –––––––––(1)–––––––––––––––––––––––––––––––––––––––––––(1)––––––
+    B ––––––––––3––––––––––––(3)––––––––––––(5)–––––––––––––––3–––––––
     G ––––––––––2–––––––––––––3––––––––––––––5––––––––––––––––2–––––––
-    D ––––––––––0––––––0––––––3–––––––x––x–––5––––––––––––––––0–––––––
-    A ––––0––3––––––––––––3–––1–––––––x––x–––3–––––––––0––3–––––––––––
+    D ––––––––––0––––––0––––––3––––––––––––––5––––––––––––––––0–––––––
+    A ––––0––3––––––––––––3–––1–––––––1––1–––3–––––––––0––3–––––––––––
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
                 Dm            Bb             C                Dm
 
@@ -84,7 +84,7 @@ To transition into the verse, end the riff as follows:
     B ––––––––––3–––––––––––––––––––––––––––––––––––––––––––––––––––––
     G ––––––––––2–––––––––––––3––––––––––––––5––––––––––––2–––5–––––––
     D ––––––––––0––––––0––––––3–––––––3––3–––5––––––x–x–––2–––5–––––––
-    A ––––0––2––––––––––––2–––1–––––––1––1–––3––––––x–x–––0–––3–––––––
+    A ––––0––3––––––––––––3–––1–––––––1––1–––3––––––x–x–––0–––3–––––––
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
                 Dm            Bb             C            Am  C   
 
@@ -114,22 +114,22 @@ To transition into the verse, end the riff as follows:
         Mind....
 
     I tried to give you consolation
-    When your old man had let you down.
-    Like a fool, I fell in love with you,
-    Turned my whole world upside down.
+    When your old man had let you down
+    Like a fool, I fell in love with you
+    Turned my whole world upside down
 
-        Layla, you've got me on my knees.
-        Layla, I'm begging, darling please.
-        Layla, darling won't you ease my worried mind.
+        Layla, you've got me on my knees
+        Layla, I'm begging, darling please
+        Layla, darling won't you ease my worried mind
 
     Let's make the best of the situation
-    Before I finally go insane.
+    Before I finally go insane
     Please don't say I'll never find a way
-    And tell me all my love's in vain.
+    And tell me all my love's in vain
 
-        Layla, you've got me on my knees.
-        Layla, I'm begging, darling please.
-        Layla, darling won't you ease my worried mind.
+        Layla, you've got me on my knees
+        Layla, I'm begging, darling please
+        Layla, darling won't you ease my worried mind
 
 ## Advanced notes about the intro riff
 
