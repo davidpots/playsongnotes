@@ -13,7 +13,7 @@ If you find these helpful, please consider tossing a few dollars into my Paypal 
 <ul>
   <li><strong>House of the Rising Sun</strong> by The Animals (<a href="/printables/[Animals] House of the Rising Sun.pdf">PDF</a>)</li>
   <li><strong>Total Eclipse of the Heart</strong> by Bonnie Tyler (<a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">PDF</a>)</li>
-  <li><strong>Layla</strong> by Eric Clapton(<a href="/printables/[Eric Clapton] Layla.pdf">PDF</a>)</li>
+  <li><strong>Layla</strong> by Eric Clapton (<a href="/printables/[Eric Clapton] Layla.pdf">PDF</a>)</li>
   <li><strong>Game of Thrones</strong> theme song (<a href="/printables/[Game of Thrones] Theme Song.pdf">PDF</a>)</li>
   <li><strong>LA Freeway</strong> by Guy Clark (<a href="/printables/[Guy Clark] L.A. Freeway.pdf">PDF</a>)</li>
   <li><strong>Sunday Morning Coming Down</strong> by Johnny Cash (<a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">PDF</a>)</li>

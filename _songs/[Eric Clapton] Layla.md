@@ -14,7 +14,7 @@ categories: guitar
 
 ## PDF print-out of this lesson
 
-If you'd like a print-friendly PDF of this lesson for offline use, send me an email at play.songnotes@gmail.com. I'll happily reply with the file.
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
 
 ## Song chord progressions
 
