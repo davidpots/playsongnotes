@@ -1,5 +1,5 @@
 ---
-layout: song
+layout: page
 title: Sample PDF downloads with chords and tabs - songnotes.com
 permalink: /downloads/
 ---

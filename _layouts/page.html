@@ -1,14 +1,51 @@
 ---
 layout: default
 ---
-<article class="post">
+<article>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
 
-  <div class="post-content">
-    {{ content }}
+  <!-- Title -->
+  <div style="box-shadow: 0px 2px 5px rgba(0,0,0,0.1); background: #fff;">
+    <div class="container clearfix" style="padding-top: 15px; padding-bottom: 6px">
+      <span class="smaller right"><a class="gray block uppercase letter-spacing-1" style="background: #eee; padding: 8px 16px; border-radius: 16px;" href="https://paypal.me/songnotes">Tip jar</a></span>
+      <a href="/" class="block left"><img width="150" src="{{site.baseurl}}/images/logo/songnotes-logo-horizontal.svg" /></a>
+    </div>
   </div>
+
+<div class="container ptl">
+
+  <!-- Content -->
+  {{ content }}
+
+  </div>
+
+<div class="mtxl ptxl" style="box-shadow: 0px -2px 5px rgba(0,0,0,0.1); background: #fff;">
+  <div class="container">
+
+  <h2>Enjoy my lessons?  Buy me a beer!</h2>
+  <p class="">If this and my other lessons have proven helpful to you, please consider <a class="underline bold" href="https://paypal.me/songnotes">donating to my tip jar</a>. Contributions of <em>any</em> amount help make this project possible (including the many, many hours I put into it). Thanks!</p>
+
+  <hr />
+  <h2>Subscribe to my YouTube channel</h2>
+  <p>Be sure to never miss a lesson by subscribing on YouTube. I put out 2-3 new videos every week. These include full song lessons, as well as covers, practice tips, behind-the-scenes updates. Thanks!</p>
+
+  <script src="https://apis.google.com/js/platform.js"></script>
+  <div class="g-ytsubscribe" data-channel="playsongnotes" data-layout="full" data-count="default"></div>
+
+  <hr />
+  <h2>Monthly email updates</h2>
+  <p>If you want to keep posted of new lessons over email, sign up for my newsletter. I'll email once a month with a digest of all my new videos. I promise: no spam.</p>
+  {% include mailchimp.html %}
+
+
+    <hr />
+    <p><a href="/">&larr; back to lesson list</a></p>
+
+    <br />
+  </div>
+
+</div>
+
+
 
 </article>
