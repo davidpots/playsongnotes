@@ -12,9 +12,9 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEUgFGKD8x8" frameborder="0" allowfullscreen></iframe>
 
-## Printable PDF lesson
+## PDF print-out of this lesson
 
-If you'd like a copy of my nicely formatted PDF print-out of these notes, let me know! Send an email to play.songnotes@gmail.com and I'll respond with the PDF.
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
 
 ## Capo notes
 

@@ -12,9 +12,9 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7K5LJiWlatU" frameborder="0" allowfullscreen></iframe>
 
-## PDF print out of this lesson
+## PDF print-out of this lesson
 
-Would you like a PDF print-out of this lesson, nicely formatted for your non-glowing screen needs? I have one! Email me at play.songnotes@gmail.com and I'll send you one promptly. Thanks!
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
 
 ## Capo 2nd fret
 

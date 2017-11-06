@@ -12,9 +12,9 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsRkG55ZBH4" frameborder="0" allowfullscreen></iframe>
 
-## Printable lesson available
+## PDF print-out of this lesson
 
-Are you interested in a printable, nicely designed PDF with everything I cover in this lesson? I have one. I'll send it to you – email me at play.songnotes@gmail.com and I'll send you a copy.
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
 
 ## Tuning FYI
 

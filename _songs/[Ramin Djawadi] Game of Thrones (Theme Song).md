@@ -12,6 +12,10 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_1fqr5OCMU" frameborder="0" allowfullscreen></iframe>
 
+## PDF print-out of this lesson
+
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
+
 ## Capo 3rd fret...
 
 If you want to play along with the official version, that is. You don't need a capo -- you can use the chords shown here, and it'll sound fine. You'll just be in a different key than the official version (i.e., if you play along with the TV show opening credits, it'll be off).

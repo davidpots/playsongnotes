@@ -12,9 +12,9 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjNnsAY-ijc" frameborder="0" allowfullscreen></iframe>
 
-## Printable version of this lesson
+## PDF print-out of this lesson
 
-Interested in a PDF print out of this lesson? Shoot me an email at play.songnotes@gmail.com and I'll send you one!
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
 
 ## Chords needed
 
