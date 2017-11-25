@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/xfWyEunEkpI" frameborder="0" allowfullscreen></iframe><br /> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lanqZZq1oPg" frameborder="0" allowfullscreen></iframe><br />
 
 Video timestamps of note:
 
@@ -67,7 +67,7 @@ While doing your regular strumming, try to add/remove the notes shown below. See
 ## Lyrics w/ chords
 
     INTRO
-      F-C-Am-G
+      F-C-Am-G (repeat this for the whole song!)
 
     VERSE
                 F       C    Am  G            F     C      Am  G
