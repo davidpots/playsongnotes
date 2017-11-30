@@ -21,7 +21,7 @@ You'll need these four chords for this song:
     G –––2–––2–––0–––4–––
     D –––0–––2–––0–––4–––
     A –––––––0–––2–––2–––
-    D –––––––––––3–––––––
+    E –––––––––––3–––––––
          D   A   G   Bm
 
 For the A-major, play it like this during the intro riff. This will free up your ring finger (left hand) to play the necessary flourish note.
@@ -31,7 +31,7 @@ For the A-major, play it like this during the intro riff. This will free up your
     G –––2–––  <--  to barre the 2nd fret
     D –––2–––  <--  on these 3 strings
     A –––0–––
-    D –––––––
+    E –––––––
          A
 
 ## Intro riff
@@ -43,7 +43,7 @@ First, understand the underlying structure:
     G ––2––––––––––––––––|––2––––––––––––––––|––0––––––––––––––––|––0––––––––––––––––
     D ––0––––––––––––––––|––2––––––––––––––––|––0––––––––––––––––|––0––––––––––––––––
     A –––––––––––––––––––|––0––––––––––––––––|––2––––––––––––––––|––2––––––––––––––––
-    D –––––––––––––––––––|–––––––––––––––––––|––3––––––––––––––––|––3––––––––––––––––
+    E –––––––––––––––––––|–––––––––––––––––––|––3––––––––––––––––|––3––––––––––––––––
         D                   A                   G                   G
 
 Then, add these flourish notes. If you're able, keep that strumming hand moving steadily, adding in the other strings as you please.
@@ -53,7 +53,7 @@ Then, add these flourish notes. If you're able, keep that strumming hand moving 
     G ––0h2–2––4–2––2p0––|––0h2––––––––––––––|––0––––––––––––––––|––0––––––––––––––––
     D ––0––––––––––––––––|––0h2–2––4–2––2p0––|––0–––––0h2–4––2–0–|––0–––––0h2–4––2–0–
     A –––––––––––––––––––|––0––––––––––––––––|––0h2–2––––––––––––|––2h2–2––––––––––––
-    D –––––––––––––––––––|–––––––––––––––––––|––3––––––––––––––––|––3––––––––––––––––
+    E –––––––––––––––––––|–––––––––––––––––––|––3––––––––––––––––|––3––––––––––––––––
         D                   A                   G                   G
 
 ## Song structure
