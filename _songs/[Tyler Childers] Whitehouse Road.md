@@ -12,6 +12,12 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G_t7sCI53Fg" frameborder="0" allowfullscreen></iframe>
 
+## Excellent solo Tyler Childers version
+
+Here's a great performane of the song - you can hear so much more intricacy in his guitarwork, compared to the album version. This is what I'm basing this lesson off of.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOIJecsnaWg?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Drop-D Tuning, Capo 5th Fret!
 
 To play this song like Tyler Childers, you'll need to put a capo on the 5th fret. Also, tune your guitar to Drop-D tuning, which is where your low-E string is tuned down a whole step to a D.
