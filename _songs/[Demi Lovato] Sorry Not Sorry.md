@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FKJebfele6o" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FKJebfele6o?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Start with the bass notes
 

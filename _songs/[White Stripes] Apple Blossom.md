@@ -11,7 +11,7 @@ categories: guitar
 ## Video lesson
 
 Here's my video lesson, definitely check this out to see how everything below is played:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xhX8QinM3vk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xhX8QinM3vk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics
 

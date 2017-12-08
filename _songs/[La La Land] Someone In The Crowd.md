@@ -12,7 +12,7 @@ categories: guitar
 
 Here's my lesson, including a play-through with chords and tabs overlaid. Please refer to this when using everything further down this page -- everything I play here, I explain below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zM906jWgEFc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zM906jWgEFc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Use a capo!
 

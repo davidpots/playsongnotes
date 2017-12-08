@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kxGaBaQD018" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxGaBaQD018?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo 1st fret
 

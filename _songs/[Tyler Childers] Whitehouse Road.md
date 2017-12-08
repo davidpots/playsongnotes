@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G_t7sCI53Fg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_t7sCI53Fg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Excellent solo Tyler Childers version
 

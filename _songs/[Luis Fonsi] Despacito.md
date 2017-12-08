@@ -11,7 +11,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kK6w56i4C1M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kK6w56i4C1M?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## One 4-chord progression for the entire song!
 

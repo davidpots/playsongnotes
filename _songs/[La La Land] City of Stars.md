@@ -11,10 +11,10 @@ categories: guitar
 ## Video lesson
 
 Full lesson:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/caBDotrfiLc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/caBDotrfiLc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Cover:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## About this lesson
 

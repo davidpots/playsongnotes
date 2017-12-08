@@ -12,7 +12,7 @@ categories: guitar
 
 Here's my video lesson for this song:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
 Here's what I cover in the video lesson (jump ahead to any point you like):
 

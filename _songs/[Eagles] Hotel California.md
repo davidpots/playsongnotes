@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sEEG2eSfvB8" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sEEG2eSfvB8?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
 Note, if you're in the USA this video is likely blocked because of frustrating copyright issues. You can still view it on my Facebook page, though: [https://www.facebook.com/songnotes/videos/1261105190576796/](https://www.facebook.com/songnotes/videos/1261105190576796/)
 

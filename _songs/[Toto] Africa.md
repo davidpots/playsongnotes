@@ -14,7 +14,7 @@ I haven't made one yet! If you want to request I make a video lesson for this so
 
 In the meantime, here's an epic cover of this song by Mike Masse and Jeff Hall. This is what I modeled a lot of this lesson after:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MLrC7e3vSv8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MLrC7e3vSv8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 

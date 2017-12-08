@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Intro & verse chords
 
@@ -72,7 +72,7 @@ To play the chords needed here, use this tab:
 
 If the F is giving you a hard time, you can play an abbreviated version. Here's some ways I recommend making it easier to play:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2TwKQliJVkY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2TwKQliJVkY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Alternate chord voicings for the chorus
 

@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Chord progression cheat-sheet
 

@@ -11,7 +11,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LZEE2Qp5Thg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZEE2Qp5Thg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo 4th fret
 

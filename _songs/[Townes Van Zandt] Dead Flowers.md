@@ -12,13 +12,13 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jROWArwvnnI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jROWArwvnnI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Editor's notes
 
 This is originally a Rolling Stones song, but my heart belongs to the Townes Van Zandt cover of it heard in the final scene of The Big Lebowski. At the time I learned this song, the Townes Van Zandt version could only be found on YouTube -- it isn't on any of the streaming music services. I implore you to listen to his version to hear the source material I'm trying to emulate.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FNlUhW0azKI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FNlUhW0azKI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Now, I cannot play the guitar in the style that Townes Van Zandt can. He's doing some very intricate Travis-style fingerpicking. I'm doing a bit of a hybrid between strumming and some accented melodic picking (with my pick). So, all my tabs below are based on my attempt to play like him -- though again, it's in that very different style. I wanted to note all of this before getting to the lesson.
 

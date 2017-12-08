@@ -12,7 +12,7 @@ categories: guitar
 
 Here's my video lesson! All tabs and notes below are used and demonstrated within the video lesson here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cGtB7Ugw58" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cGtB7Ugw58?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Chord progression cheat sheet
 

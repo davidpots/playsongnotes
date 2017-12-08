@@ -12,15 +12,15 @@ categories: guitar
 
 Here's a cover of me playing the song from beginning to end:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u8-24OnUle8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8-24OnUle8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 My beginner lesson, focusing on chords and strumming:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dG9WdrqvgYA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dG9WdrqvgYA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 For an intermediate lesson showing some of the runs and fills, see this:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EHUoA3flT4E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHUoA3flT4E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Chords needed
 

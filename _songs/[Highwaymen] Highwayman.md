@@ -12,15 +12,15 @@ categories: guitar, ukulele
 
 Guitar lesson:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xqN0TTM0brs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqN0TTM0brs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Guitar playthrough & cover:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L9qKfliy0og" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9qKfliy0og?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Ukulele lesson:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TfAj8Txz238" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfAj8Txz238?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Guitar notes
 

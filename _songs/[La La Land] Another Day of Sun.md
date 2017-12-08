@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KQ_ufy9I2aA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KQ_ufy9I2aA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo on 3rd fret
 

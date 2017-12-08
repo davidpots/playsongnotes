@@ -11,7 +11,7 @@ categories: guitar
 ## Video lesson
 
 Here's my video lesson showing you how to play this song:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4L28ORWMSyw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4L28ORWMSyw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Chord progression cheat-sheet
 
