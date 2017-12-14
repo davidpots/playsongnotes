@@ -18,8 +18,14 @@ If you'd like a print-friendly PDF of this lesson for offline use, view my <a hr
 
 ## Lyrics w/ chords
 
-    INTRO
-        D-riff
+    INTRO CHORD
+
+        E ––10–––  <-- left pinky
+        B –––x–––  <-- muted by left index finger
+        G –––7–––  <-- left index finger
+        D –––0–––
+        A –––––––
+        E –––––––
 
     VERSE
         D                    E
