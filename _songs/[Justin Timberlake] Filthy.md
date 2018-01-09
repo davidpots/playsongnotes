@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jujtsxzfCbs?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XW25wAzldsw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo 1st fret
 
@@ -40,6 +40,14 @@ Just play G-C-D. For the D, I prefer the version below but you could just as wel
     E –––3–––––––––––––––––––––––––          E –––––––
          G            C   D                       D°   
 
+
+
+    E –––––––––––––
+    B –––––––––––––
+    G –––––––0–2–––
+    D –––0–2–––––––
+    A –––––––––––––
+    E –––––––––––––
 
 ## Lead guitar melody
 
