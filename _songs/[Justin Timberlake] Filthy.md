@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XW25wAzldsw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ewbhKssL0o?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo 1st fret
 
@@ -42,13 +42,13 @@ Just play G-C-D. For the D, I prefer the version below but you could just as wel
 
 
 
-    E –––––––––––––
-    B –––––––––––––
-    G –––––––0–2–––
-    D –––0–2–––––––
-    A –––––––––––––
-    E –––––––––––––
-
+    E ––––––––––––––––––––––––––––     –––––––––––––––––––––––––––
+    B ––––––––––––0––––––––1––––––     –––––––––––––––––––––––––––––
+    G –––––––0–2––0–––––0––0––0–––     –––––––––––––––––––––––––––––––
+    D –––0–2––––––0–––0––––2––––––  x2   ––––––––––––––––––––––––––––––
+    A ––––––––––––2––––––––3––––––     –––––––––––––––––––––––––––––
+    E ––––––––––––3–––––––––––––––     ––––––––––––––––––––––––––––
+                  G        C
 ## Lead guitar melody
 
 Fret numbers in the tab below are relative to thez capo on 1st fret (capo = 0):
