@@ -66,8 +66,8 @@ This is how I recommend placing your left hand fingers when playing these chords
        D/F#    
 
     E ––––––
-    B ––3–––
-    G ––––––  <-- left pinky
+    B ––3–––  <-- left pinky
+    G ––––––  
     D ––2–––  <-- left middle
     A ––––––
     E ––––––
@@ -77,7 +77,7 @@ This is how I recommend placing your left hand fingers when playing these chords
     B –(1)––  <-- left index
     G ––0–––  <-- open (no left finger)
     D ––––––  
-    A ––3–––  <-- left middle
+    A ––3–––  <-- left ring
     E ––––––
         C
 
