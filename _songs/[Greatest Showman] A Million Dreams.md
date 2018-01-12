@@ -99,6 +99,8 @@ This is how I recommend placing your left hand fingers when playing these chords
 
 ## Lyrics w/ chords
 
+Note that "D" and "D/F#" are interchangeable... the latter is an optional voicing where you have F# as the bass note, the emphasize the descending bass line. If you don't already know (or want) to play D/F#, then just replace it below with a D wherever you see it.
+
     VERSE
     G                D/F#             Em                     C             G
     ...I close my eyes... and I can see... the world that's waiting up for me
