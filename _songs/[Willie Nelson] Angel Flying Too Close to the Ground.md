@@ -29,6 +29,14 @@ My full lesson for this song is coming soon! Subscribe on YouTube to be notified
     1 + 2 + 3 + 4 +
     D       D   D U
 
+## Intro tab
+
+Coming soon!
+
+## Chord progression cheat sheet
+
+Coming soon!
+
 ## Lyrics w/ chords
 
     VERSE 1 (INTRO):
