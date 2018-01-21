@@ -31,11 +31,32 @@ My full lesson for this song is coming soon! Subscribe on YouTube to be notified
 
 ## Intro tab
 
-Coming soon!
+The chords that go with these lyrics:
 
-## Chord progression cheat sheet
+    A                      C#m     D                  A
+    ...If you had not have fallen... I would not have found you
+    D               E                A         E
+    ...Angel flying too close to the ground
 
-Coming soon!
+Would be tabbed out like this:
+
+    E ––0––––––––––––––4––––––––––2––––––––––––––––––––––––0–––––––––
+    B ––2––––––––––––––––5–––5––––3––––––––––––––––––––––––––2–––2–––
+    G ––2––––––––––6–––––––6––––––2––––––––––––––––––––2–––––––2–––––
+    D ––2––––––––6–––6––––––––––––0––––––––––––––––––2–––2–––––––––––
+    A ––0––––––4–––––––––––––––––––––––––––––––––––0–––––––––––––––––
+    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        A      C#m                D                A
+
+    E ––2––––––––––––––0––––––––––––––––––0––––––––––––––––0–––––––––
+    B ––3––––––––––––––––0–––0––––––––––––––2–––2––––––––––––0–––0–––
+    G ––2––––––––––––––––––1––––––––––2–––––––2––––––––––––––––1–––––
+    D ––0––––––––––2––––––––––––––––2–––2––––––––––––––2–––––––––––––
+    A –––––––––––2–––2––––––––––––0––––––––––––––––––2–––2–––––––––––
+    E –––––––––0–––––––––––––––––––––––––––––––––––0–––––––––––––––––
+        D      E                  A                E
+
+When playing the arpeggios above, it's okay if you deviate from the tab a bit (as far as which strings you play). The most important part is to (1) put your left hand in the chord position, and then (2) pick or pluck strings from that chord with your right hand in a general arpeggio manner. As long as your left hand stays in the chord shape, anything you play with your right hand with sound good.
 
 ## Lyrics w/ chords
 
@@ -63,9 +84,25 @@ Coming soon!
         A               E                A        E
         ...Angel flying too close to the ground
 
-Stay tuned for the complete lyrics w/ chords for the entire song.
+    SOLO 1:
+        A . . . C#m . . . D . . . A . . .
+        D . . . E   . . . A . . . E . . .
 
-For a hint, the solo uses the chords from verse 1 & verse 2, and the final few choruses use the chords from verse 3 & verse 4 (and finally, repeat the verse 4 chords on additional time for the final chorus).
+    SOLO 2:
+        A  . . . C#m . . . D . . . A . . .
+        B7 . . . B7  . . . E . . . E . . .
+
+    VERSE 5:
+        A              C#m                     D (walk down)
+        ...Fly on, fly on... past the speed of sound
+        B7                                    E (walk up)
+        ...I'd rather see you up than see you down
+
+    VERSE 6 & 7
+        A                     C#m      D                 D#°
+        ...So leave me if you need to.... I will still remember
+        A               E                A        E
+        ...Angel flying too close to the ground
 
 ## Good luck!
 
