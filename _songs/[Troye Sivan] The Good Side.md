@@ -10,13 +10,11 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/scbLcaopAPk?showinfo=0" frameborder="0" allowfullscreen></iframe><br /> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lu1FB2XY4g?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
 ## Capo 2nd fret
 
-I recommend playing this with capo 2nd fret, which is how Troye Sivan (or his guitarist) plays it. It allows you to capture the same "high E string left open" sound that's characteristic of this song.
+I recommend playing this with capo 2nd fret, which is how Troye Sivan (or his guitarist) plays it. It allows you to capture the same "high E string left open" sound that is characteristic of this song. That said, I also show a no capo version in my video above.
 
 ## Chord progression for the entire song
 
@@ -30,14 +28,14 @@ Without a capo, these are:
 
 ## Chords tabs w/ capo 2
 
-Here's how it's played on the album. The main thing to note here is the high E string is left open for all the chords. Also note how the G chord is a slid-up version of the F chord (i.e., slide up 2 frets using the same chord shape). For the F and the G, I wrap my thumb around to play the low E string for each chord. This isn't required, but is nice if you can pull it off.
+Here's how it's played on the album - you can also see the guitarist using these chords during Sivan's SNL performance from January 2018. The main thing to note here is the high E string is left open for all the chords. Also note how the G chord is a slid-up version of the F chord (i.e., slide up 2 frets using the same chord shape). For the F and the G, I wrap my thumb around to play the low E string for each chord. This isn't required, but is nice if you can pull it off.
 
     E –––0––––0–––––0––––0–––
     B –––1––––0–––––1––––3–––
     G –––0––––0–––––2––––4–––
     D –––2––––2–––––3––––5–––
     A –––3––––2–––––3––––5–––
-    E ––––––––0–––––1––––3–––
+    E ––––––––0––––(1)––(3)––
          C    Em    F    G
 
 If you have trouble with the F and G voicings above, try these variants:
@@ -58,7 +56,7 @@ If you want to play it without a capo, use the chords below – and note how the
     B –––3––––2–––––0––––2––––
     G –––2––––2–––––0––––2––––
     D –––0––––4–––––0––––2––––
-    A ––––––––4–––––2––––0––––
+    A ––––––––4–––––x––––0––––
     E ––––––––2–––––3–––––––––
          D   F#m    G    A
 
