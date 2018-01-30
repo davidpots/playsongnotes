@@ -10,7 +10,13 @@ categories: guitar
 
 ## Video Lesson
 
+Guitar cover (me playing the intro, verse, pre-chorus, and chorus).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1GmGrw_uB0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Guitar lesson (me carefully explaining how to play each section of the song).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpGEmNv265Q?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Intro tab
 
@@ -80,6 +86,20 @@ This is how I recommend placing your left hand fingers when playing these chords
     A ––3–––  <-- left ring
     E ––––––
         C
+
+## Strumming
+
+Simplest strumming pattern is down strums on the 2 and 4 beats (make sure these get the accent).
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+        D       D       D       D
+        >       >       >       >
+
+If you want to strum a bit more, do a "Down, down up... up down up..." that repeats. Likewise, accent the 2 and the 4 count.
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D U   U D U D   D U   U D U
+        >       >       >       >-
 
 ## Chord progressions for the song
 
