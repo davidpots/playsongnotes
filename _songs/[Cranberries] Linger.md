@@ -12,7 +12,7 @@ categories: guitar
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/hwbq4kfXkIE?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
-## Chords w/ lyrics## Intro tab
+## Intro tab
 
     E ––2–––2–––––––2–––2–––2–––––––2–––2–––2–––––––2–––2–––2–––––––2––––
     B ––––3–––––––3–––––––3–––––––3–––––––3–––––––3–––––––3–––––––3––––––

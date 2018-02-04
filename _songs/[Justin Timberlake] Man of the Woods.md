@@ -1,3 +1,19 @@
+---
+layout: song
+has_video_lesson: true
+title: Guitar lesson for "Man of the Woods" by Justin Timberlake
+song_title:  Man of the Woods
+artist: Justin Timberlake
+year: 2018
+categories: guitar
+---
+
+## Video lesson
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+
+Coming soon!
+
 ## Bassline riff
 
     E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -50,3 +66,7 @@ Variation 3:
     A –––––––––––––––––
     E –––––––––––––––––
          C    F    G
+
+## Good luck!
+
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
