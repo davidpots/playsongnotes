@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PAsqI4UN_lE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Bassline riff
 
