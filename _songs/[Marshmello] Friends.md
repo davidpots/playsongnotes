@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9kbA1RnvEjo?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7OMwJwY16aA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Guitar riff
 
