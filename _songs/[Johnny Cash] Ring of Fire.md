@@ -44,6 +44,27 @@ Likewise, an easy way to approach these chords is as follows. Note how your ring
     E –––3––––––––––––––
          G    C    D
 
+## Strumming pattern
+
+For simple starters, do all down strums... one per each count... and accent the 2 and 4 counts.
+
+    d = light down strum
+    D = heavy down strum
+
+    1 + 2 + 3 + 4 +
+    d   D   d   D        down DOWN down DOWN...
+        >       >
+
+From there, you can fill things out a bit by doing this. If you can, accent the 2 and the 4 if you can - but that becomes less important here.
+
+    D = down strum
+    U = up strum
+
+    1 + 2 + 3 + 4 +
+    D   D U   U D U      down, down up... up down up
+        >       >
+
+
 ## Mariachi riff on guitar
 
 See my video lesson for an example of how to play this along w/ the rhythmic chord strumming.
