@@ -10,53 +10,17 @@ categories: guitar
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-gX5BJ5CUqQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uN1wtE6TffI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-My full lesson for this song is coming soon! Subscribe on YouTube to be notified when its avaialable.
+Lesson agenda:
 
-## Chords needed
-
-    E –––0––––2––––0––––2––––4–––––2–––
-    B –––2––––3––––0––––0––––5–––––1–––
-    G –––2––––2––––1––––2––––6–––––2–––
-    D –––2––––0––––2––––1––––6–––––1–––
-    A –––0–––––––––2––––2––––4–––––––––
-    E –––––––––––––0–––––––––––––––––––
-         A    D    E    B7   C#m   D#°              
-
-## Strumming pattern
-
-    1 + 2 + 3 + 4 +
-    D       D   D U
-
-## Intro tab
-
-The chords that go with these lyrics:
-
-    A                      C#m     D                  A
-    ...If you had not have fallen... I would not have found you
-    D               E                A         E
-    ...Angel flying too close to the ground
-
-Would be tabbed out like this:
-
-    E ––0––––––––––––––4––––––––––2––––––––––––––––––––––––0–––––––––
-    B ––2––––––––––––––––5–––5––––3––––––––––––––––––––––––––2–––2–––
-    G ––2––––––––––6–––––––6––––––2––––––––––––––––––––2–––––––2–––––
-    D ––2––––––––6–––6––––––––––––0––––––––––––––––––2–––2–––––––––––
-    A ––0––––––4–––––––––––––––––––––––––––––––––––0–––––––––––––––––
-    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-        A      C#m                D                A
-
-    E ––2––––––––––––––0––––––––––––––––––0––––––––––––––––0–––––––––
-    B ––3––––––––––––––––0–––0––––––––––––––2–––2––––––––––––0–––0–––
-    G ––2––––––––––––––––––1––––––––––2–––––––2––––––––––––––––1–––––
-    D ––0––––––––––2––––––––––––––––2–––2––––––––––––––2–––––––––––––
-    A –––––––––––2–––2––––––––––––0––––––––––––––––––2–––2–––––––––––
-    E –––––––––0–––––––––––––––––––––––––––––––––––0–––––––––––––––––
-        D      E                  A                E
-
-When playing the arpeggios above, it's okay if you deviate from the tab a bit (as far as which strings you play). The most important part is to (1) put your left hand in the chord position, and then (2) pick or pluck strings from that chord with your right hand in a general arpeggio manner. As long as your left hand stays in the chord shape, anything you play with your right hand with sound good.
+- 0:00 Greeting & lesson agenda
+- 1:18 Song structure
+- 2:28 Chords needed
+- 5:57 Intro arpeggio tab
+- 7:32 Strumming pattern
+- 9:17 Walk-up and walk-down tabs
+- 11:13 Playthrough
 
 ## Lyrics w/ chords
 
@@ -103,6 +67,104 @@ When playing the arpeggios above, it's okay if you deviate from the tab a bit (a
         ...So leave me if you need to.... I will still remember
         A               E                A        E
         ...Angel flying too close to the ground
+
+## Chords needed
+
+    E –––0––––2––––0––––2––––4–––––2–––
+    B –––2––––3––––0––––0––––5–––––1–––
+    G –––2––––2––––1––––2––––6–––––2–––
+    D –––2––––0––––2––––1––––6–––––1–––
+    A –––0–––––––––2––––2––––4–––––––––
+    E –––––––––––––0–––––––––––––––––––
+         A    D    E    B7   C#m   D#°              
+
+## Strumming pattern
+
+    1 + 2 + 3 + 4 +
+    D       D   D U
+
+## Intro tab
+
+The chords that go with these lyrics:
+
+    A                      C#m     D                  A
+    ...If you had not have fallen... I would not have found you
+    D               E                A         E
+    ...Angel flying too close to the ground
+
+Would be tabbed out approximately like this - though feel free to be loose with your arpeggios. It's okay if you deviate from the notes shown below to suit your preference or style.
+
+    E ––0––––––––––––––4––––––––––2––––––––––––––––––––––––0–––––––––
+    B ––2––––––––––––––––5–––5––––3––––––––––––––––––––––––––2–––2–––
+    G ––2––––––––––6–––––––6––––––2––––––––––––––––––––2–––––––2–––––
+    D ––2––––––––6–––6––––––––––––0––––––––––––––––––2–––2–––––––––––
+    A ––0––––––4–––––––––––––––––––––––––––––––––––0–––––––––––––––––
+    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        A      C#m                D                A
+
+    E ––2––––––––––––––0––––––––––––––––––0––––––––––––––––0–––––––––
+    B ––3––––––––––––––––0–––0––––––––––––––2–––2––––––––––––0–––0–––
+    G ––2––––––––––––––––––1––––––––––2–––––––2––––––––––––––––1–––––
+    D ––0––––––––––2––––––––––––––––2–––2––––––––––––––2–––––––––––––
+    A –––––––––––2–––2––––––––––––0––––––––––––––––––2–––2–––––––––––
+    E –––––––––0–––––––––––––––––––––––––––––––––––0–––––––––––––––––
+        D      E                  A                E
+
+When playing the arpeggios above, it's okay if you deviate from the tab a bit (as far as which strings you play). The most important part is to (1) put your left hand in the chord position, and then (2) pick or pluck strings from that chord with your right hand in a general arpeggio manner. As long as your left hand stays in the chord shape, anything you play with your right hand with sound good.
+
+## Walk-ups and walk-downs
+
+From the E up to the A:
+
+    E –––0–––––––––––––––––––0––––
+    B –––0–––––––––––––––––––2––––
+    G –––1–––––––––––––––––––2––––
+    D –––2–––––––––––––––––––2––––
+    A –––2–––––––––––––––0–––0––––
+    E –––0–––0––2––3––4–––––––––––
+         E                   A
+
+From the A up to the B7:
+
+    E –––0–––––––––––––––––––2––––
+    B –––2–––––––––––––––––––0––––
+    G –––2–––––––––––––––––––2––––
+    D –––2–––––––––––––––––––1––––
+    A –––0–––0––––1––––2–––––2–––-
+    E ––––––––––––––––––––––––––––
+         A                   B7
+
+From the D down to the B7:
+
+    E –––2–––––––––––––––––––2––––
+    B –––3–––––––––––––––––––0––––
+    G –––2–––––––––––––––––––2––––
+    D –––0–––0–––––––––––––––1––––
+    A ––––––––––––4––––2–––––2–––-
+    E ––––––––––––––––––––––––––––
+         D                   B7
+
+## Chord progressions
+
+Progression #1:
+
+    A  . . . C#m . . . D . . . A . . .
+    D  . . . E   . . . A . . . E . . .
+
+Progression #2:
+
+    A  . . . C#m . . . D . . . A . . .
+    B7 . . . B7  . . . E . . . E . . .
+
+Progression #3:
+
+    A  . . . C#m . . . D . . . D . . .
+    B7 . . . B7  . . . E . . . E . . .
+
+Progression #4:
+
+    A  . . . C#m . . . D . . . D#° . . .
+    A  . . . E   . . . A . . . E   . . .
 
 ## Good luck!
 
