@@ -10,7 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8jvriKFA7-I?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZCEI-bRg-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo to play along with Johnny Cash
 
