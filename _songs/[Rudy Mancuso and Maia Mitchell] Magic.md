@@ -10,7 +10,14 @@ categories: guitar
 
 ## Video lesson
 
+Here's my guitar lesson:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njxbmiBEvYc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br />
+
+And here's the official music video if you want to jam along. I dig it!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lRkTgVynmbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Chords needed
 
