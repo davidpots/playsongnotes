@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJjDUOqqjlY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo 5th fret to keep it simple
 
@@ -103,11 +101,6 @@ Finally, you can do additional melodic strumming as shown here - this matches wh
         D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U
         >       >       >       >       >       >       >       >       >       >       >       >       >       >       >       >    
 
-
-## Good luck!
-
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
-
 ## Lyrics
 
     [Intro]
@@ -142,3 +135,8 @@ Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let m
         It isn't in my blood... It isn't in my blood
         I need somebody now... I need somebody now
         Someone to help me out... I need somebody now
+
+
+## Good luck!
+
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
