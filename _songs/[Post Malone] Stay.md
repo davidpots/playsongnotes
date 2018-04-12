@@ -67,55 +67,61 @@ Chorus:
 
 ## Lyrics w/ Chords
 
-VERSE
-It's true that all that you know is all that you are
-You said that it's all that you want and more
-Fuck off and pour another drink
-And tell me what you think
-You know that I'm too drunk to talk right now
-You put your cigarette out on my face
-So beautiful, please, woman
+    VERSE
 
-PRE-CHORUS
-Don't break your back for me
-I'll put you out of your misery
+    It's true that all that you know is all that you are
+    You said that it's all that you want and more
+    Fuck off and pour another drink
+    And tell me what you think
+    You know that I'm too drunk to talk right now
+    You put your cigarette out on my face
+    So beautiful, please, woman
 
-CHORUS
-Tell me that it's all okay (tell me that it's all okay)
-I've been waitin' on this all damn day (waitin' on this all damn day)
-Call me in the mornin', tell me how last night went
-I'm here, but don't count on me to...
+    PRE-CHORUS
 
-VERSE
-Stay a little longer if you convince me
-And tell me all the things that you have against me
-Every time we make up, the truth is faded
-Everybody's blind when the view's amazin'
-Damn, who are we right now?
-Can we have a little conversation?
-Figure it out with no intoxication
-We carry on, what is our motivation?
-We're never wrong, how the hell we gonna make it?
-Maybe we're used to this
-Tell me, what are we to do?
-It's like we only play to lose
-Chasin' pain with an excuse
-I love that shit and so do you
+    Don't break your back for me
+    I'll put you out of your misery
 
-PRE-CHORUS
-But don't break your back for me
-I'll put you out of your misery
+    CHORUS
 
-CHORUS
-Tell me that it's all okay (tell me that it's all okay)
-I've been waitin' on this all damn day (waitin' on this all damn day)
-Call me in the mornin', tell me how last night went
-I'm here, but don't count on me to stay
+    Tell me that it's all okay (tell me that it's all okay)
+    I've been waitin' on this all damn day (waitin' on this all damn day)
+    Call me in the mornin', tell me how last night went
+    I'm here, but don't count on me to...
 
-Tell me that it's all okay (tell me that it's all okay)
-I've been waitin' on this all damn day (waitin' on this all damn day)
-Call me in the mornin', tell me how last night went
-I'm here, but don't count on me to stay
+    VERSE
+
+    Stay a little longer if you convince me
+    And tell me all the things that you have against me
+    Every time we make up, the truth is faded
+    Everybody's blind when the view's amazin'
+    Damn, who are we right now?
+    Can we have a little conversation?
+    Figure it out with no intoxication
+    We carry on, what is our motivation?
+    We're never wrong, how the hell we gonna make it?
+    Maybe we're used to this
+    Tell me, what are we to do?
+    It's like we only play to lose
+    Chasin' pain with an excuse
+    I love that shit and so do you
+
+    PRE-CHORUS
+
+    But don't break your back for me
+    I'll put you out of your misery
+
+    CHORUS
+
+    Tell me that it's all okay (tell me that it's all okay)
+    I've been waitin' on this all damn day (waitin' on this all damn day)
+    Call me in the mornin', tell me how last night went
+    I'm here, but don't count on me to stay
+
+    Tell me that it's all okay (tell me that it's all okay)
+    I've been waitin' on this all damn day (waitin' on this all damn day)
+    Call me in the mornin', tell me how last night went
+    I'm here, but don't count on me to stay
 
 ## Good luck!
 
