@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/lD1ioBlmSJE?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7IsoktG54A?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Verse riff
 
