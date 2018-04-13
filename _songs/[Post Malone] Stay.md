@@ -12,6 +12,80 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7IsoktG54A?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Lyrics w/ Chords
+
+    VERSE
+
+              Fmaj7                    Cmaj7                Am7
+        It's true... that all that you know is all that you are
+                          (riff)
+        You said that it's all that you want and more
+        Fmaj7                             Cmaj7                          Am7
+        ...Fuck off and pour another drink-----... and tell me what you think
+                         (riff)
+        You know that I'm too drunk to talk right now
+        Fmaj7                                 Cmaj7              Am7
+        ...You put your cigarette out on my face... so beautiful...
+                      (riff)
+        Please, woman don't break your back for me
+
+    PRE-CHORUS
+
+        F               Fm (let ring)
+        ...I'll put you out of your mis(ery)
+
+    CHORUS
+
+        Cmaj7
+        Tell me that it's all okay (tell me that it's all okay)
+                  Am7
+        I've been waiting on this all damn day (waitin' on this all damn day)
+        Dm7
+        Call me in the mornin', tell me how last night went
+                 F             Fm (let ring)
+        I'm here.... but don't count on me to...
+
+    VERSE
+
+        Stay a little longer if you convince me
+        And tell me all the things that you have against me
+        Every time we make up, the truth is faded
+        Everybody's blind when the view's amazing
+        Damn, who are we right now?
+
+        Can we have a little conversation?
+        Figure it out with no intoxication
+        We carry on, what is our motivation?
+        We're never wrong, how the hell we gonna make it?
+        Maybe we're used to this
+
+        Tell me, what are we to do?
+        It's like we only play to lose
+        Chasing pain with an excuse
+        I love that shit and so do you
+        But don't break your back for me
+
+    PRE-CHORUS
+
+        I'll put you out of your mis(ery)
+
+    CHORUS
+
+        Tell me that it's all okay (tell me that it's all okay)
+        I've been waitin' on this all damn day (waiting on this all damn day)
+        Call me in the mornin', tell me how last night went
+        I'm here, but don't count on me to stay
+
+    SOLO
+        (use verse chords)
+
+    CHORUS
+
+        Tell me that it's all okay (tell me that it's all okay)
+        I've been waitin' on this all damn day (waiting on this all damn day)
+        Call me in the mornin', tell me how last night went
+        I'm here, but don't count on me to stay
+
 ## Verse riff
 
     E –––––––––––––––––––––––––––––––
@@ -62,64 +136,6 @@ Chorus:
 
     Cmaj7  /  Am7  /  Dm7  /  F  Fm
 
-
-## Lyrics w/ Chords
-
-    VERSE
-
-    It's true that all that you know is all that you are
-    You said that it's all that you want and more
-    Fuck off and pour another drink
-    And tell me what you think
-    You know that I'm too drunk to talk right now
-    You put your cigarette out on my face
-    So beautiful, please, woman
-
-    PRE-CHORUS
-
-    Don't break your back for me
-    I'll put you out of your misery
-
-    CHORUS
-
-    Tell me that it's all okay (tell me that it's all okay)
-    I've been waitin' on this all damn day (waitin' on this all damn day)
-    Call me in the mornin', tell me how last night went
-    I'm here, but don't count on me to...
-
-    VERSE
-
-    Stay a little longer if you convince me
-    And tell me all the things that you have against me
-    Every time we make up, the truth is faded
-    Everybody's blind when the view's amazin'
-    Damn, who are we right now?
-    Can we have a little conversation?
-    Figure it out with no intoxication
-    We carry on, what is our motivation?
-    We're never wrong, how the hell we gonna make it?
-    Maybe we're used to this
-    Tell me, what are we to do?
-    It's like we only play to lose
-    Chasin' pain with an excuse
-    I love that shit and so do you
-
-    PRE-CHORUS
-
-    But don't break your back for me
-    I'll put you out of your misery
-
-    CHORUS
-
-    Tell me that it's all okay (tell me that it's all okay)
-    I've been waitin' on this all damn day (waitin' on this all damn day)
-    Call me in the mornin', tell me how last night went
-    I'm here, but don't count on me to stay
-
-    Tell me that it's all okay (tell me that it's all okay)
-    I've been waitin' on this all damn day (waitin' on this all damn day)
-    Call me in the mornin', tell me how last night went
-    I'm here, but don't count on me to stay
 
 ## Good luck!
 
