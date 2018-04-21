@@ -10,7 +10,11 @@ categories: guitar
 
 ## Video lesson
 
+My cover / playthrough:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZCEI-bRg-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+My full lesson explaining everything:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dP2hYluC8CQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo to play along with Johnny Cash
 
