@@ -78,7 +78,7 @@ categories: guitar
                  C (let ring)
         But you love 'em
 
-# Chords needed
+## Chords needed
 
     E –––0–––0–––1–––(1)—––3––––
     B –––1–––1–––3––––1—–—–0––––
@@ -88,7 +88,7 @@ categories: guitar
     E ––––––––––––—–—(1)–––3––––
          C   Am  Dm   F    G
 
-# Riff
+## Riff
 
 How she plays it.
 
@@ -110,7 +110,7 @@ Slightly simpler version, without the slides:
     E –––––––––––––––––––––––––––––––––––––––––––––––––––
                                                      C
 
-# Strum
+## Strum
 
 Simple:
 
