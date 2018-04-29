@@ -10,20 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-<!--
-
-Lesson agenda:
-
-1. the chords
-2. the riff
-3. the strumming patterns
-
--->
-
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4D_7WsdgdY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 
@@ -174,6 +161,16 @@ To properly transition from this riff into the G7 or Am7 chord, you'll need to a
     E -|–––/7–––––7––5––3––0––5––x––5–––––|–––/7–––––7––5––3––0––3––x––3–––––|–
                                    Am7                                 G7
 
+## Secondary riff
+
+    e –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
+    B –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
+    G –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––4–––
+    D ––––––––––––––––––––––––x––5–––––––––––––––––––––––––––x––3–––
+    A ––––––5––7––5–––––––––––x––7–––––––––5–––––––––––––––––x––5–––
+    E ––/7–––––––––––7––0––5––x––5–––––/7–––––7––5––3––0––3––x––3–––
+                                Am7                             G7
+
 ## Strumming patterns and rhythm
 
 This is the final piece of the puzzle. To play this like Jack Johnson, there are in fact two distinct strumming patterns used in this song: one during the verse, and another during the chorus & bridge. You can of course strum things however you want, but I'll teach you both of these patterns now.
@@ -205,9 +202,9 @@ Tabbed out, it would be:
 
 This one is a bit more constant and less puncuated. You still want to keep the accent on the 2 and 4, but in this case those counts will have a muted downstrum that's accented. This is very common for Jack Johnson. See my video lesson for reference!
 
-     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-     ↓  ↑  x  ↑  ↓  ↑  x  ↑  ↓  ↑  x  ↑  ↓  ↑  x  ↑
-           >           >           >           >  
+    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+    D  U  x  U  D  U  x  U  D  U  x  U  D  U  x  U
+         >           >           >           >  
 
 ## Good luck!
 
