@@ -10,9 +10,13 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ThjbFUX0gHA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Coming soon!
+- 0:00 Playthrough & greeting
+- 1:24 Chords needed
+- 3:10 Strumming pattern
+- 5:42 Verse, chorus, & bridge
+- 7:16 Farewell
 
 ## Lyrics w/ chords
 
