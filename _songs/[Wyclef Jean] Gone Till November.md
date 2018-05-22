@@ -1,4 +1,16 @@
+---
+layout: song
+has_video_lesson: true
+title: Guitar lesson for "Gone Till November" by Wyclef Jean
+song_title:  Gone Till November
+artist: Wyclef Jean
+year: 1997
+categories: guitar
+---
 
+## Video lesson
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cZFvQcTLkhE?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
 ## Intro and verse fingerpicking riff
 
@@ -143,3 +155,8 @@ Make sure you keep the accent the transition notes, and downplay the fill notes.
           A –|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––||
           E –|–0–––––––––––––––|–0–––––––––––––––|–0–––––––––––––––|–0–––––––––––––––||
                1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
+
+
+## Good luck!
+
+I hope this helps, and as always let me know if you have any questions.
