@@ -10,7 +10,17 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cZFvQcTLkhE?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPtIRPcZZzg?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+0:00 Playthrough & lesson overview
+1:28 Step 1: It all starts w/ the E major chord
+2:12 Step 2: Playing the riff melody with 1 finger
+3:13 Step 3: Adding E major to the melody riff
+4:09 Step 4: Adding arpeggios
+5:14 Step 5: Playing the melody w/ add'l strings
+6:23 Step 6: Re-introducing arpeggios for filler
+7:22 Step 7: Adding additional fill notes
+8:54 Farewell
 
 ## Intro and verse fingerpicking riff
 
