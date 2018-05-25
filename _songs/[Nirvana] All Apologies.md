@@ -12,6 +12,8 @@ categories: guitar
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/nsRkG55ZBH4?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
+Coming soon!
+
 Lesson timestamps:
 
 - 0:00 - Playthrough and greeting
