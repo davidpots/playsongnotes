@@ -34,10 +34,10 @@
 
         // Breakpoints
         $breakpoint--mobile: 32em; // 512px
-        $breakpoint--desktop: 60em; // 768px
+        $breakpoint--desktop: 60em; // 960px
 
         // Grid
-        $grid--max-width: 48rem; // 1024px
+        $grid--max-width: 60rem; // 960px
         $grid--gutter: 1.5 * $space;
 
         // Spacing (for margin & padding)
