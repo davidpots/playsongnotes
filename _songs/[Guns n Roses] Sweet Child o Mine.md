@@ -10,14 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/waD2tdRAmtM?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-Lesson timestamps:
-
-- 0:00 - Playthrough and greeting
-- 1:00 - Simplified easy version
-- 3:01 - "Full" advanced version
-- 6:55 - Farewell -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6aMYqAN8FRo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Quick note about tuning!
 
