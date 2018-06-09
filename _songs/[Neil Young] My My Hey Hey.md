@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/R_X4GnNuMtQ?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCYFKxOPiKk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 
@@ -75,20 +73,20 @@ To play along with Neil Young's version (e.g., on Rust Never Sleeps) you'll need
 
 I'm a bit torn on this -- do you copy Neil, or use your own pattern? He's so lose with his strumming, I'm hesistant to try to quantify it into a single pattern. Here's what I recommend to start with -- do with this what you will:
 
-		1 + 2 + 3 + 4 +
-		D   D   D U D U
+    1 + 2 + 3 + 4 +
+    D   D   D U D U
 
 Use that for all verses and refrains, no matter what chord you're playing. For example:
 
-		Am              G               Fmaj7
-		1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-		D   D   D U D U D   D   D U D U D   D   D U D U D   D   D U D U
+    Am              G               Fmaj7
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D   D U D U D   D   D U D U D   D   D U D U D   D   D U D U
 
 and
 
-		C               Em7             Am              Fmaj7
-		1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-		D   D   D U D U D   D   D U D U D   D   D U D U D   D   D U D U
+    C               Em7             Am              Fmaj7
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D   D U D U D   D   D U D U D   D   D U D U D   D   D U D U
 
 ## How to learn the riff
 
@@ -115,8 +113,8 @@ Next, add some of the foundational lead notes as shown below. If this is tough f
     D ||–––––––2–––––––––0–––––0–––––––––––3–––3–––3–3–3–3–3–––3–––3–3–3–3––
     A ||–––0–––––––0–2–3–––––––––––2–0–––0––––––––––––––––––––––––––––––––––
     E ||–––––––––––––––––––3–––––––––––3––––––––––––––––––––––––––––––––––––
-		       Am              G               Fmaj7           Fmaj7
-		       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+           Am              G               Fmaj7           Fmaj7
+           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 
 ### Advanced version with nuance
@@ -129,8 +127,8 @@ This is my attempt to tab it out exactly like Neil plays it. There's a bit more 
     D ||–––––––2–2–––––––0–––0–0–0–––––––––––3–3–––3–3–3–3–––3–3–––––3–3–3––
     A ||–––0–––––––0–2–3–––––––––––2–0–––0––––––––––––––––––––––––––––––––––
     E ||––––––––––––––––––(3)––––––––––3––––––––––––––––––––––––––––––––––––
-		       Am              G               Fmaj7
-		       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+           Am              G               Fmaj7
+           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 Finally, here's a modified version of the riff -- the only difference between the lead phrase immediately after the G-chord strum (which can start off with a hammer-on as well).
 
@@ -140,8 +138,8 @@ Finally, here's a modified version of the riff -- the only difference between th
     D ||–––––––2–2–––––––0–––0–0–0–2–0–––0–––3–3–––3–3–3–3–––3–3–––––3–3–3––
     A ||–––0–––––––0–2–3–––––––––––––––3––––––––––––––––––––––––––––––––––––
     E ||––––––––––––––––––(3)–––––––––––––––––––––––––––––––––––––––––––––––
-		       Am              G               Fmaj7
-		       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+           Am              G               Fmaj7
+           1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 ## Good luck!
 
