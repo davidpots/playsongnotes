@@ -31,17 +31,17 @@ categories: guitar
     On...... and on..... and on...... and on
 
         D          F#m           Bm       G  A
-    		We are the champions, my friends
+        We are the champions, my friends
             D             F#m               G    B7
-    		And we'll keep on fighting 'til the end
+        And we'll keep on fighting 'til the end
 
         Em                      Gm         A6    A
-    		We are the champions... we are the champions
+        We are the champions... we are the champions
 
         D           C              F          G         G6/A
-    		No time for losers, 'cause we are the champions
+        No time for losers, 'cause we are the champions
                       Dm  G/D  Dm  G/D  Dm  G6/A
-    		......of the world
+        ......of the world
 
     [ use same chords for 2nd verse & chorus ]
 
@@ -53,13 +53,13 @@ categories: guitar
     And I ain't gonna lose... (and I need just go!)
     On... and on... and on... and on
 
-    		We are the champions, my friends
-    		And we'll keep on fighting 'til the end
-    		We are the champions... we are the champions
-    		No time for losers, 'cause we are the champions
-    		......of the world
+        We are the champions, my friends
+        And we'll keep on fighting 'til the end
+        We are the champions... we are the champions
+        No time for losers, 'cause we are the champions
+        ......of the world
 
-    		(repeat chorus as desired)
+        (repeat chorus as desired)
 
 ## Chords needed
 
