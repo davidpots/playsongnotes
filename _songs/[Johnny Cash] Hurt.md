@@ -4,7 +4,7 @@ has_video_lesson: true
 title: Guitar lesson for "Hurt" by Johnny Cash
 song_title: Hurt
 artist: Johnny Cash
-year: 2003
+year: 2002
 categories: guitar
 ---
 
