@@ -1,8 +1,8 @@
 ---
 layout: song
 has_video_lesson: true
-title: Guitar lesson for "Hurt" by Johnny Cash
-song_title: Hurt
+title: Guitar lesson for "When the Man Comes Around" by Johnny Cash
+song_title: When the Man Comes Around
 artist: Johnny Cash
 year: 2002
 categories: guitar
@@ -135,6 +135,7 @@ Walking down from C to A-minor:
     D ––––––2–2–––––––––––––2–––2–2–2–2–––
     A ––3–––––––3–––2–––0–––––––0–0–0–0–––
     E ––––––––––––––––––––––––––––––––––––
+        C               Am
         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 Walking up from C to F:
@@ -156,6 +157,7 @@ Walking from G to C:
     D ––––––0–0–––––––––––––2–––2–2–2–2–––
     A ––––––2–2–0–––2–––3–––––––3–3–3–3–––
     E ––3–––––––––––––––––––––––––––––––––
+        G               C
         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 ## Understanding the muted strum
