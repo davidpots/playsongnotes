@@ -12,6 +12,14 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2HlUDLtdK6g?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Lesson contents:
+
+- 0:00 Playthrough
+- 1:38 Greeting & agenda
+- 2:54 Chords needed
+- 5:39 Verse strumming: easy version
+- 7:48 Pre-chorus & chorus (strumming, etc)
+- 15:21 Verse strumming: advanced version
 
 ## Lyrics and chords
 
