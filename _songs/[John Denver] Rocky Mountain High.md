@@ -10,16 +10,14 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ThjbFUX0gHA?showinfo=0" frameborder="0" allowfullscreen></iframe><br /> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hsuk09Kockw?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-<!-- - 0:00 Playthrough & greeting
+- 0:00 Playthrough & greeting
 - 2:07  Tuning & capo
 - 2:51  How to play the main riff
 - 10:45 Chords shapes needed
 - 11:58 Verse w/ strumming
-- 13:27 Chorus -->
-
-Coming soon!
+- 13:27 Chorus
 
 ## Lyrics w/ chords
 
