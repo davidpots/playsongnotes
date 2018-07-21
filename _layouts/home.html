@@ -17,6 +17,22 @@ layout: default
     <div class="g-ytsubscribe" data-channel="playsongnotes" data-layout="default" data-count="default"></div>
   </div>
 
+  <!-- {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %} -->
+
+
+
+
+
   <!-- <h3>Welcome!</h3>
   <p>Hello there. Welcome to the new Songnotes webpage. The old Songnotes webpage, which has my non-video lessons, can still be found by visting <a href="http://www.songnotes.cc">www.songnotes.cc</a>.
 
@@ -40,22 +56,28 @@ layout: default
   <li><a class="underline" href="/songs/guns-n-roses-sweet-child-o-mine/"><strong>Sweet Child O' Mine</strong></a> by Guns N' Roses<br /><em>June 3, 2018</em></li>
   <li><a class="underline" href="/songs/nirvana-all-apologies/"><strong>All Apologies</strong></a> by Nirvana<br /><em>May 26, 2018</em></li>
   <li><a class="underline" href="/songs/wyclef-jean-gone-till-november/"><strong>Gone Till November</strong></a> by Wyclef Jean<br /><em>May 21, 2018</em></li>
-  <li><a class="underline" href="/songs/radiohead-creep/"><strong>Creep</strong></a> by Radiohead<br /><em>May 11, 2018</em></li>
-  <li><a class="underline" href="/songs/childish-gambino-this-is-america/"><strong>This is America</strong></a> by Childish Gambino<br /><em>May 8, 2018</em></li>
-  <li><a class="underline" href="/songs/john-denver-take-me-home-country-roads/"><strong>Take Me Home, Country Roads</strong></a> by John Denver<br /><em>May 6, 2018</em></li>
-  <li><a class="underline" href="/songs/shawn-mendes-youth/"><strong>Youth</strong></a> by Shawn Mendes ft. Khalid<br /><em>May 5, 2018</em></li>
-  <li><a class="underline" href="/songs/anne-marie-2002/"><strong>2002</strong></a> by Anne-Marie<br /><em>May 2, 2018</em></li>
-  <li><a class="underline" href="/songs/jack-johnson-banana-pancakes/"><strong>Banana Pancakes</strong></a> by Jack Johnson<br /><em>Apr 29, 2018</em></li>
-  <li><a class="underline" href="/songs/kacey-musgraves-family-is-family/"><strong>Family is Family</strong></a> by Kacey Musgraves<br /><em>Apr 27, 2018</em></li>
-  <li><a class="underline" href="/songs/kacey-musgraves-butterflies/"><strong>Butterflies</strong></a> by Kacey Musgraves<br /><em>Apr 24, 2018</em></li>
-  <li><a class="underline" href="/songs/johnny-cash-tennessee-flat-top-box/"><strong>Tennessee Flat Top Box</strong></a> by Johnny Cash<br /><em>Apr 21, 2018</em></li>
-  <li><a class="underline" href="/songs/taylor-swift-september/"><strong>September</strong></a> by Taylor Swift<br /><em>Apr 18, 2018</em></li>
-  <li><a class="underline" href="/songs/ed-sheeran-candle-in-the-wind/"><strong>Candle in the Wind</strong></a> by Ed Sheeran<br /><em>Apr 15, 2018</em></li>
-  <li><a class="underline" href="/songs/post-malone-stay/"><strong>Stay</strong></a> by Post Malone<br /><em>Apr 13, 2018</em></li>
-  <li><a class="underline" href="/songs/shawn-mendes-in-my-blood/"><strong>In My Blood</strong></a> by Shawn Mendes<br /><em>Apr 10, 2018</em></li>
-  <li><a class="underline" href="/songs/kacey-musgraves-slow-burn/"><strong>Slow Burn</strong></a> by Kacey Musgraves<br /><em>Apr 3, 2018</em></li>
-  <li><a class="underline" href="/songs/willie-nelson-on-the-road-again/"><strong>On the Road Again</strong></a> by Willie Nelson<br /><em>Mar 8, 2018</em></li>
 </ul>
+
+
+<h3 class="mtl">What I've been practicing:</h3>
+  <ul class="list-plain lesson-list">
+
+    {% assign sorted_practice = (site.practice | sort: 'slug') %}
+
+    {% for practice in sorted_practice %}
+      <li>
+        <a href="{{ practice.url | relative_url }}">
+          <div class="lesson-list--item-wrap">
+            <span class="lesson-list--title">{{ practice.title | escape }}</span>
+            <span class="lesson-list--artist">{{ practice.date | date: "%B %-d %Y"}}</span>
+          </div>
+          <span class="lesson-list--year"></span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+
 
 <h3 class="mtl">Browse all video lessons:</h3>
   <ul class="list-plain lesson-list">
@@ -74,6 +96,12 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+
+
+
+
+
 
 </div>
 
