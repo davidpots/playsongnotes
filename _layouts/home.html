@@ -58,7 +58,6 @@ layout: default
   <li><a class="underline" href="/songs/wyclef-jean-gone-till-november/"><strong>Gone Till November</strong></a> by Wyclef Jean<br /><em>May 21, 2018</em></li>
 </ul>
 
-
 <h3 class="mtl">What I've been practicing:</h3>
   <ul class="list-plain lesson-list">
 
@@ -69,14 +68,13 @@ layout: default
         <a href="{{ practice.url | relative_url }}">
           <div class="lesson-list--item-wrap">
             <span class="lesson-list--title">{{ practice.title | escape }}</span>
-            <span class="lesson-list--artist">{{ practice.date | date: "%B %-d %Y"}}</span>
+            <span class="lesson-list--artist">{{ practice.date | date: "%B %-d, %Y"}}</span>
           </div>
           <span class="lesson-list--year"></span>
         </a>
       </li>
     {% endfor %}
   </ul>
-
 
 
 <h3 class="mtl">Browse all video lessons:</h3>

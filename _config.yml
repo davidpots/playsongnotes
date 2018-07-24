@@ -38,3 +38,6 @@ collections:
   practice:
     output: true
     permalink: /:collection/:slug/
+  warmup:
+    output: true
+    permalink: /:collection/:slug/
