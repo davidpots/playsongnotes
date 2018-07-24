@@ -2,13 +2,16 @@
 layout: practice
 title: Norweigian Wood in any key
 slug: "3"
-date: 2018-07-20
+date: 2018-07-23
 ---
 
 <!-- ## Video Overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s1yXG7HYTuY?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
+## Video overview:
+
+Coming soon!
 
 ## Key of D:
 
