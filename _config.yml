@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Songnotes! Easy-to-follow guitar lessons, all hand-made by @davidpots
+title: Song Notes! Easy-to-follow guitar lessons, all hand-made by @davidpots
 email: davidpots@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Easy to follow video guitar lessons, all hand-crafted by David Pots. In the 150+ available lessons, I'll show you the tabs, chords, fingerpicking technique, and other tips you'll need to learn your favorite songs on guitar.
