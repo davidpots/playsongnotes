@@ -10,9 +10,7 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0lTLA3aMF7s?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aFXapBng37o?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 

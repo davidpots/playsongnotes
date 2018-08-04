@@ -41,3 +41,6 @@ collections:
   warmup:
     output: true
     permalink: /:collection/:slug/
+  tips:
+    output: true
+    permalink: /:collection/:slug/
