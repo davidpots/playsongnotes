@@ -15,7 +15,7 @@ layout: default
 <div class="container ptl">
   <p class="h2 mbn">Practice Log #{{ page.slug }}</p>
   <h1 class="mtn mbn">{{ page.title | escape }}</h1>
-  <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h2 mtn">by <span>{{ page.date | date: "%B %-d %Y"}}</span></p>
+  <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h2 mtn"><span>{{ page.date | date: "%B %-d %Y"}}</span></p>
 
 
 
@@ -42,31 +42,7 @@ layout: default
   <hr />
 
 <h2>Recent video lessons:</h2>
-<ul>
-<li><a class="underline" href="/songs/john-denver-rocky-mountain-high/"><strong>Rocky Mountain High</strong></a> by John Denver<br /><em>July 17, 2018</em></li>
-<li><a class="underline" href="/songs/johnny-cash-when-the-man-comes-around/"><strong>When the Man Comes Around</strong></a> by Johnny Cash<br /><em>June 25, 2018</em></li>
-<li><a class="underline" href="/songs/queen-we-are-the-champions/"><strong>We Are the Champions</strong></a> by Queen<br /><em>June 16, 2018</em></li>
-<li><a class="underline" href="/songs/neil-young-my-my-hey-hey/"><strong>My My, Hey Hey</strong></a> by Neil Young<br /><em>June 9, 2018</em></li>
-<li><a class="underline" href="/songs/guns-n-roses-sweet-child-o-mine/"><strong>Sweet Child O' Mine</strong></a> by Guns N' Roses<br /><em>June 3, 2018</em></li>
-<li><a class="underline" href="/songs/nirvana-all-apologies/"><strong>All Apologies</strong></a> by Nirvana<br /><em>May 26, 2018</em></li>
-<li><a class="underline" href="/songs/wyclef-jean-gone-till-november/"><strong>Gone Till November</strong></a> by Wyclef Jean<br /><em>May 21, 2018</em></li>
-<li><a class="underline" href="/songs/radiohead-creep/"><strong>Creep</strong></a> by Radiohead<br /><em>May 11, 2018</em></li>
-<li><a class="underline" href="/songs/childish-gambino-this-is-america/"><strong>This is America</strong></a> by Childish Gambino<br /><em>May 8, 2018</em></li>
-<li><a class="underline" href="/songs/john-denver-take-me-home-country-roads/"><strong>Take Me Home, Country Roads</strong></a> by John Denver<br /><em>May 6, 2018</em></li>
-<li><a class="underline" href="/songs/shawn-mendes-youth/"><strong>Youth</strong></a> by Shawn Mendes ft. Khalid<br /><em>May 5, 2018</em></li>
-<li><a class="underline" href="/songs/anne-marie-2002/"><strong>2002</strong></a> by Anne-Marie<br /><em>May 2, 2018</em></li>
-<li><a class="underline" href="/songs/jack-johnson-banana-pancakes/"><strong>Banana Pancakes</strong></a> by Jack Johnson<br /><em>Apr 29, 2018</em></li>
-<li><a class="underline" href="/songs/kacey-musgraves-family-is-family/"><strong>Family is Family</strong></a> by Kacey Musgraves<br /><em>Apr 27, 2018</em></li>
-<li><a class="underline" href="/songs/kacey-musgraves-butterflies/"><strong>Butterflies</strong></a> by Kacey Musgraves<br /><em>Apr 24, 2018</em></li>
-<li><a class="underline" href="/songs/johnny-cash-tennessee-flat-top-box/"><strong>Tennessee Flat Top Box</strong></a> by Johnny Cash<br /><em>Apr 21, 2018</em></li>
-<li><a class="underline" href="/songs/taylor-swift-september/"><strong>September</strong></a> by Taylor Swift<br /><em>Apr 18, 2018</em></li>
-<li><a class="underline" href="/songs/ed-sheeran-candle-in-the-wind/"><strong>Candle in the Wind</strong></a> by Ed Sheeran<br /><em>Apr 15, 2018</em></li>
-<li><a class="underline" href="/songs/post-malone-stay/"><strong>Stay</strong></a> by Post Malone<br /><em>Apr 13, 2018</em></li>
-<li><a class="underline" href="/songs/shawn-mendes-in-my-blood/"><strong>In My Blood</strong></a> by Shawn Mendes<br /><em>Apr 10, 2018</em></li>
-<li><a class="underline" href="/songs/kacey-musgraves-slow-burn/"><strong>Slow Burn</strong></a> by Kacey Musgraves<br /><em>Apr 3, 2018</em></li>
-<li><a class="underline" href="/songs/willie-nelson-on-the-road-again/"><strong>On the Road Again</strong></a> by Willie Nelson<br /><em>Mar 8, 2018</em></li>
-
-</ul>
+{% include latest-uploads.html %}
 
   <hr />
 
