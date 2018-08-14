@@ -32,7 +32,7 @@ A good way to make sure you're all tuned up and ready is to rock a D-major chord
 
 ## Optional next step: add a capo
 
-If you want to play along with Fleetwood Mac's verison of The Chain, add a capo on the 2nd fret and follow everything I show below. In my video lesson, I don't bother with a capo. Just a heads up there.
+If you want to play along with Fleetwood Mac's version of The Chain, add a capo on the 2nd fret and follow everything I show below. In my video lesson, I don't bother with a capo. Just a heads up there.
 
 ## Chord shapes needed in "The Chain" intro riff:
 
@@ -81,7 +81,7 @@ Here are the three main phrases heard in the opening part of this song. These ar
 
 ## Turnaround & walkdown
 
-Here's a good way to "end" a series of these phrases, as to either stop the song or just start over again from the top. This isn't really from The Chain per se, though it's a bit inspired.
+Here's a good way to "end" a series of these phrases, as to either stop the song or just start over again from the top. This isn't really from The Chain per se, though it's a bit inspired. See my video lesson for reference.
 
     D ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––|–––––
     B ––––––––3–––––3–––––––––3–––––3–––––––––3–––––3–––––––––––––––––––|–––––
