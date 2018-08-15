@@ -4,6 +4,10 @@ title: Sample PDF downloads with chords and tabs - songnotes.com
 permalink: /downloads/
 ---
 
+  <div style="background: #FFA; padding: 16px; margin: 24px auto; max-width: 480px;">
+    <p style="margin: 0;"><strong>Psst... I just launched a Patreon page!</strong> Get print-friendly PDFs for each new lesson I make for only $3/month. <a href="https://www.patreon.com/songnotes">Learn more »</a></p>
+  </div>
+
 ## PDF downloads
 
 Here's a preview of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper.
