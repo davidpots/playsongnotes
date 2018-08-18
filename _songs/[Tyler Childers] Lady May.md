@@ -16,55 +16,57 @@ Coming soon!
 
 ## Lyrics w/ chords
 
-INTRO
+    (Capo 3rd fret)
+    
+    INTRO
 
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    B –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––1––
-    G –––––––––––––––––––––––––––0h2––––––––––0h2–0––––––––––––––––––––––––––––0––
-    D ––2p0–––––––0–0h2––2p0––3––––––––0h2––3–––––––0h2p0––––0h2–––––––––––0h2––––
-    A ––––––3–3–3–––3––––––––(3)–––––3–––––(3)––––––––––––3––3––––0––0h2––3–––––––
-    E –––––––––––––––––––––––(1)–––––––––––(1)––––––––––––––––––––––––––––––––––––
-            C       C         F      C      F             C       Am G/B  C        
+        E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        B –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––1––
+        G –––––––––––––––––––––––––––0h2––––––––––0h2–0––––––––––––––––––––––––––––0––
+        D ––2p0–––––––0–0h2––2p0––3––––––––0h2––3–––––––0h2p0––––0h2–––––––––––0h2––––
+        A ––––––3–3–3–––3––––––––(3)–––––3–––––(3)––––––––––––3––3––––0––0h2––3–––––––
+        E –––––––––––––––––––––––(1)–––––––––––(1)––––––––––––––––––––––––––––––––––––
+                C       C         F      C      F             C       Am G/B  C        
 
-VERSE
-          C                                      F                C
-    I'm a stone's throw from the mill, and I'm a good walk to the river
-            F              C              Am       G/B    C
-    When my working day is over, we'll go swim our cares away
-             C                           F                 C
-    Put your toes down in the water, and smile across your face
-        F                C        Am     G/B   C
-    And tell me that you love me, lovely Lady May
+    VERSE
+              C                                      F                C
+        I'm a stone's throw from the mill, and I'm a good walk to the river
+                F              C              Am       G/B    C
+        When my working day is over, we'll go swim our cares away
+                 C                           F                 C
+        Put your toes down in the water, and smile across your face
+            F                C        Am     G/B   C
+        And tell me that you love me, lovely Lady May
 
-CHORUS
-              Am        G/B      C                F               C
-        Now I ain't the sharpest chisel that your hands have ever held
-            F                     C                 Am      G/B       C
-        But darlin' I could love you well, 'til the roll is called on high
-            Am       G/B      C                 F                 C
-        I've seen my share of trouble, and I've held my weight in shame
-                 F                C     Am     G/B  C
-        But I am baptized in your name, lovely Lady May
+    CHORUS
+                  Am        G/B      C                F               C
+            Now I ain't the sharpest chisel that your hands have ever held
+                F                     C                 Am      G/B       C
+            But darlin' I could love you well, 'til the roll is called on high
+                Am       G/B      C                 F                 C
+            I've seen my share of trouble, and I've held my weight in shame
+                     F                C     Am     G/B  C
+            But I am baptized in your name, lovely Lady May
 
-VERSE
-             C                                  F                C
-    Lord the wind can leave you shivering as it waltzes over the leaves
-              F                  C                Am           G/B    C
-    It's been rushing through my timber 'til your love brought on the spring
-            C                                   F                  C
-    Now the mountains all are blushin, and they don't know what to say
-             F                 C              Am     G/B   C
-    Except a good long line of praises for my lovely Lady May
+    VERSE
+                 C                                  F                C
+        Lord the wind can leave you shivering as it waltzes over the leaves
+                  F                  C                Am           G/B    C
+        It's been rushing through my timber 'til your love brought on the spring
+                C                                   F                  C
+        Now the mountains all are blushin, and they don't know what to say
+                 F                 C              Am     G/B   C
+        Except a good long line of praises for my lovely Lady May
 
-CHORUS
-              Am        G/B      C                 F            C
-        Now I ain't the toughest hickory that your axe has ever fell
-                  F               C           Am      G/B     C
-        But I'm a hickory just as well, I'm a hickory all the same
-               Am       G/B         C             F            C
-        I came crashing through the forest as you cut my roots away
-              F                C            Am     G/B  C
-        And I fell a good long ways, for my lovely Lady May
+    CHORUS
+                  Am        G/B      C                 F            C
+            Now I ain't the toughest hickory that your axe has ever fell
+                      F               C           Am      G/B     C
+            But I'm a hickory just as well, I'm a hickory all the same
+                   Am       G/B         C             F            C
+            I came crashing through the forest as you cut my roots away
+                  F                C            Am     G/B  C
+            And I fell a good long ways, for my lovely Lady May
 
 ## Intro (simple version)
 
