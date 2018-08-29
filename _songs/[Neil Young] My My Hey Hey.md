@@ -71,7 +71,7 @@ To play along with Neil Young's version (e.g., on Rust Never Sleeps) you'll need
 
 ## Strumming pattern
 
-I'm a bit torn on this -- do you copy Neil, or use your own pattern? He's so lose with his strumming, I'm hesistant to try to quantify it into a single pattern. Here's what I recommend to start with -- do with this what you will:
+I'm a bit torn on this -- do you copy Neil, or use your own pattern? He's so lose with his strumming, I'm hesitant to try to quantify it into a single pattern. Here's what I recommend to start with -- do with this what you will:
 
     1 + 2 + 3 + 4 +
     D   D   D U D U

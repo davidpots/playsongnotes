@@ -69,7 +69,7 @@ B variations:
     E –––––––––––––––––––––––––––––
           Bm     Bm    Bm    Bm
 
-D variations:
+A variations:
 
     E ––––0––––––0–––––
     B ––––2––––––0–––––
@@ -114,7 +114,7 @@ D variations:
     G –––1–––––––––––––––1––––––––––––––––
     D –––2–––––––––––––––2––––––––––––––––
     A –––2–––––––––––––––2––––––––––––––––
-    E –––0–––––––––––––––0––––––––––––––––
+    E –––0–––––––––––––––0–––––––0–––2––––
          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
          E
 
@@ -196,21 +196,51 @@ D variations:
     Em                                         F#
     ...My head grew heavy & my sight grew dim... I had to stop for the night
 
-    There she stood in the doorway, I heard the mission bell
-    I was thinking to myself, "This could be heaven or this could be hell"
-    Then she lit up a candle, and she showed me the way
-    There were voices down the corridor, I thought I heard them say...
+    Bm                                F#
+    ...There she stood in the doorway... I heard the mission bell
+    A                                           E
+    ...I was thinking to myself, "This could be heaven or this could be hell"
+    G                            D
+    ...Then she lit up a candle... and she showed me the way
+    Em                                     F#
+    ...There were voices down the corridor... I thought I heard them say...
 
-    G                           D
-    ...Welcome to the Hotel California
-           F#                   Bm
-    Such a lovely place, such a lovely face
-    G                               D
-    Plenty of room at the Hotel California
-        Em                    F#
-    Any time of year, you can find it here
+            G                           D
+            ...Welcome to the Hotel California
+                   F#                   Bm      (walk up)
+            Such a lovely place, such a lovely face
+            G                               D
+            Plenty of room at the Hotel California
+                Em                    F#
+            Any time of year, you can find it here
 
-    (etc)
+    Her mind is Tiffany-twisted, she got the Mercedes bends
+    She got a lot of pretty, pretty boys, that she calls friends
+    How they dance in the courtyard, sweet summer sweat
+    Some dance to remember, some dance to forget
+
+    So I called up the Captain, "Please bring me my wine"
+    He said, "we haven't had that spirit here since nineteen sixty-nine"
+    And still those voices are calling from far away
+    Wake you up in the middle of the night, just to hear them say
+
+            Welcome to the Hotel California
+            Such a lovely place, such a lovely face
+            They living it up at the Hotel California
+            What a nice surprise, bring your alibis
+
+    Mirrors on the ceiling, the pink champagne on ice
+    And she said, "we are all just prisoners here, of our own device"
+    And in the master's chambers, they gathered for the feast
+    They stab it with their steely knives, but they just can't kill the beast
+
+    Last thing I remember, I was... running for the door
+    I had to find the passage back to the place I was before
+    "Relax" said the night man, "we are programmed to receive.
+    You can check out any time you like, but you can never leave!"
+
+    [ instrumental verse w/ solo, repeat as desired, end ]
+
 
 ## Good luck!
 
