@@ -21,11 +21,11 @@ Timestamps for this lesson:
 - 10:38 Riffs and fills
 - 15:11 Parting wisdom
 
-<!-- ## Print-friendly version of this lesson
+## Print-friendly version of this lesson
 
-<img src="https://instagram.com/p/BmzYyGKFUoS/media/?size=l" style="max-width: 320px;" />
+<a href="https://www.patreon.com/posts/printable-lesson-21054196"><img src="https://instagram.com/p/BmzYyGKFUoS/media/?size=l" style="max-width: 320px;" /></a>
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-21054196). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Lyrics w/ chords
 
