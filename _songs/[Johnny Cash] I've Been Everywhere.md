@@ -10,9 +10,22 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNXGEQTd9Do?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+Timestamps for this lesson:
+
+- 0:00 Playthrough & greeting
+- 2:12 Chords needed
+- 3:50 Chord progression and strumming
+- 8:40 How to play the intro
+- 10:38 Riffs and fills
+- 15:11 Parting wisdom
+
+<!-- ## Print-friendly version of this lesson
+
+<img src="https://instagram.com/p/BmzYyGKFUoS/media/?size=l" style="max-width: 320px;" />
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](). For a few bucks a month, you get access to PDFs of all my new lessons. -->
 
 ## Lyrics w/ chords
 
