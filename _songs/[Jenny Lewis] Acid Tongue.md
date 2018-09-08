@@ -18,6 +18,20 @@ Coming soon!
 
     (capo 2nd fret)
 
+    INTRO
+
+    E ––3–––––––3–3–3–3–3–––––––3–––3–3–––
+    B ––0–––––––0–0–1–1–0–––––––0–––0–0–––
+    G ––0–––––––0–0–0–0–0–––––––0–––0–0–––
+    D ––0–––––––0–0–2–2–0–––––––0–––0–0–––   ...play twice
+    A ––x–––––––x–x–x–x–x–––––––x–––x–x–––
+    E ––3–––––––3–3–3–3–3–––––––3–––3–3–––
+        G           C   G        
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+        D       D U D U D       D   D U   
+
+    VERSE
+
       G                          C
     I went to a cobbler to fix a hole in my shoe
                 D                         C                      G     C  G
@@ -26,6 +40,8 @@ Coming soon!
     ...I beg your pardon, I'm not looking for a cure
                D                            C                      G      C  G
     I've seen enough from my friends in the depths of the God-sick blues
+
+    CHORUS
 
         G                  Am        G    
         ...You know I am a... liar-------
@@ -79,6 +95,40 @@ Coming soon!
 
 ## How to play the chords
 
+Here's the typical positions used for each of the chords needed in this song:
+
+    E –––3––––0––––2––––0––––3–––
+    B –––0––––1––––3––––1––––0–––
+    G –––0––––0––––2––––2––––0–––
+    D –––0––––2––––0––––2––––0–––
+    A –––2––––3–––––––––0––––2–––
+    E –––3–––––––––––––––––––––––
+         G    C    D    Am  G/B
+
+## Suggested intro chords
+
+In spite of the chord shapes above, I would absolutely recommend learning this 2-finger way of playing a G-major for the intro of this song -- as it makes the switch from G-to-C so much easier. See my video lesson for context. Technically, the C below is a "C/G", but I'll refer to it as a C for simplicity.
+
+    E –––3–––  <= left pinky f.    ––3–––  <= left pinky f.
+    B –––0–––                      ––1–––  <= left index f.
+    G –––0–––                      ––0–––
+    D –––0–––                      ––2–––  <= left middle f.
+    A –––x–––                      ––x–––
+    E –––3–––  <= left ring f.     ––3–––  <= left ring f.
+         G                           C  
+
+Using the shapes above, you can play the intro G-C-G sequence in the intro as follows:
+
+        G           C   G                
+    E ––3–––––––3–3–3–3–3–––––––3–––3–3–––
+    B ––0–––––––0–0–1–1–0–––––––0–––0–0–––
+    G ––0–––––––0–0–0–0–0–––––––0–––0–0–––
+    D ––0–––––––0–0–2–2–0–––––––0–––0–0–––
+    A ––x–––––––x–x–x–x–x–––––––x–––x–x–––
+    E ––3–––––––3–3–3–3–3–––––––3–––3–3–––
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+        D       D U D U D       D   D U   
+
 ## Strumming pattern
 
 Here's an easy strum to get started with. Establish your tempo (1-2-3-4), and then do downstrums on only the 1 and 3 counts.
@@ -103,14 +153,14 @@ For strumming the G-C-G sequence (heard in the intro, etc) -- refer to this mapp
 
 Intro:
 
-    G • • * G • • • G • • * G • • •
+    G • • C G • • • G • • C G • • •
 
 Verse:
 
     “I went to a cobbler...”
 
     G • • • G • • • C • • • C • • •
-    D • • • C • • • G • • * G • • •
+    D • • • C • • • G • • C G • • •
 
 Chorus:
 
@@ -119,6 +169,20 @@ Chorus:
     Am • • • Am • • • G • • • G • • •
     Am • • • Am • • • G • • • G • • •
     Am • • • Am • • • C • • • C • • •
+
+## Leaving all strings open during chord transitions
+
+It sounds like, on the album recording of this song, the guitarist is using a technique whereby they're releasing all of their left-hand chord fingers from each chord on the final "down up" strums before each new chord. Specifically, see the sample tab below where the * denotes that I'm picking up all my left hand fingers from the chord - just for the two strums before the next chord comes in. See my video lesson for additional reference.
+
+        G                           *        C                           *
+    E ––3–––––––3–––3–3–3–––––––3–––0–0–––|––0–––––––0–––0–0–0–––––––0–––0–0––|–
+    B ––0–––––––0–––1–1–0–––––––0–––0–0–––|––1–––––––1–––1–1–1–––––––1–––0–0––|–
+    G ––0–––––––0–––0–0–0–––––––0–––0–0–––|––0–––––––0–––0–0–0–––––––0–––0–0––|–
+    D ––0–––––––0–––2–2–0–––––––0–––0–0–––|––2–––––––2–––2–2–2–––––––2–––0–0––|–
+    A ––x–––––––x–––x–x–x–––––––x–––0–0–––|––3–––––––3–––3–3–3–––––––3–––0–0––|–
+    E ––3–––––––3–––3–3–3–––––––3–––0–0–––|–––––––––––––––––––––––––––––––––––|–
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   |  1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   
+        D       D   D U D       D   D U      D       D   D U D       D   D U   
 
 ## Good luck!
 

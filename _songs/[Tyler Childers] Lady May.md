@@ -10,14 +10,12 @@ categories: guitar
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G_t7sCI53Fg?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bmRLWIJ2dLc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 
     (Capo 3rd fret)
-    
+
     INTRO
 
         E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -74,8 +72,8 @@ Here's the main melody notes of the intro. In this simplified version, I'm not i
 
     E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
     B –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    G ––––––––––––––––––––––––0–2–––––––––––––2–0–––––––––––––––––––––––––0––
-    D ––2–0–––––––0–0–2–2–0–3––––––––––0–2––3–––––2––––0–2––––––––––––0–2––––
+    G ––––––––––––––––––––––––––0–2–––––––––––2–0–––––––––––––––––––––––––0––
+    D ––2–0–––––––0–0–2–2–0–3–––––––––––0–2–3–––––2–––––0–2–––––––––––0–2––––
     A ––––––3–3–3–––––––––––––––––––3–––––––––––––––3–––––––0–––2–––3––––––––
     E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
             C       C       F       C       F       C       Am G/B  C        
@@ -135,6 +133,16 @@ A crucial part to playing this song like Tyler Childers is being able to hammer 
     B –––1––––1––––         B –––1–––––1––––
     G –––0––––0––––         G –––2–––––0h2––
     D –––2––––0h2––         D –––3–––––3––––
+    A –––3––––3––––         A ––––––––––––––
+    E –––––––––––––         E ––––––––––––––
+         C    C*                 F     F*
+
+Similarly, the idea behind the pull-off technique involves forcefully & quickly removing your finger - in such a way that causes the now open string to ring out. This can take a lot of practice!
+
+    E –––––––––––––         E ––––––––––––––
+    B –––1––––1––––         B –––1–––––1––––
+    G –––0––––0––––         G –––2–––––2p0––
+    D –––2––––2p0––         D –––3–––––3––––
     A –––3––––3––––         A ––––––––––––––
     E –––––––––––––         E ––––––––––––––
          C    C*                 F     F*

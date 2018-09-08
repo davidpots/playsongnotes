@@ -13,9 +13,13 @@ date: 2018-09-01
 
 Coming soon!
 
+## Editor's Note
+
+Around 2017 or so, it became painfully obvious that (a) I was falling deeply in love with so many songs that required Travis Picking; and (b) I had zero experience with the Travis Picking technique, and kept putting off learning it. Summer of 2018, the dam broke - and "Clay Pigeons" was the song that got me over the hump. In this entry into my Practice Log, I'll show you some of the exercises I used to get familiar with the technique, and eventually gaining the ability to play the "Clay Pigeons" intro in the style of John Prine. These exercises are based on G, C, and D chord shapes.
+
 ## Start with these chords
 
-The first two chords you'll want to learn are the G and C (technically, the C is a "C/G" - but we'll refer to it as a C for simplicity going forward). The great part about these two chords, is that your left ring finger stays in the exact same position for both chords. The only "transition" you do is putting your left middle & index fingers down for the C, and then lefting them up again for the G.
+The first two chords you'll want to learn are the G and C (technically, the C is a "C/G" - but we'll refer to it as a C for simplicity going forward). The great part about these two chords, is that your left ring finger stays in the exact same position for both chords. The only "transition" you do is putting your left middle & index fingers down for the C, and then lifting them up again for the G.
 
     E ––––––                        E ––––––    
     B ––0–––                        B ––1–––  <= Left index f.    
