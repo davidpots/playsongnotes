@@ -12,6 +12,10 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmRLWIJ2dLc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/songnotes). For a few bucks a month, you get access to PDFs of all my new lessons.
+
 ## Lyrics w/ chords
 
     (Capo 3rd fret)
