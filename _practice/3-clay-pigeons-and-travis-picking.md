@@ -1,17 +1,17 @@
 ---
 layout: practice
-title: Learning Travis picking with "Clay Pigeons"
-slug: "4"
-date: 2018-09-01
+title: Learning to Travis Pick with "Clay Pigeons"
+slug: "3"
+date: 2018-09-13
 ---
 
-<!-- ## Video Overview
+## Video Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s1yXG7HYTuY?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXYjZc_g1Uo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Video overview:
+## Print-friendly version of this lesson
 
-Coming soon!
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/songnotes). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's Note
 
@@ -176,3 +176,53 @@ Here's the D he plays - note the new note needed on the B string (1st fret) with
     A ––0–––     ––––––––––––––––––––––––––––––––––                     
     E ––2–––     ––2–––––––2–––––––2–––––––2–––––––  <= right thumb    
         D          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+## John Prine's "Clay Pigeons" intro tab
+
+Here's the full tab of John Prine's "Clay Pigeons" intro. Note,  you'll need a capo on the 3rd fret! You have a lot of sequence that repeat themselves here (e.g., the G and C measures) -- it's really the D sequence that changes between part 1 and part 2. See my video lesson for reference, and good luck!
+
+Part 1 of 2:
+
+    Capo 3rd fret
+
+    E ||––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
+    B ||––––––––0–––––––––0h1–––0–––––––––|––––––––1–––––––––1h3–––1–––––––––|–
+    G ||––0–––––––––––––––––––––––––––––––|––0–––––––––––––––––––––––––––––––|–
+    D ||––––––0–––––––0–––––––0–––––––0–––|––––––2–––––––2–––––––2–––––––2–––|–
+    A ||––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
+    E ||––3–––––––3–––––––3–––––––3–––––––|––3–––––––3–––––––3–––––––3–––––––|–
+          G                                  C                               
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+    E –|––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
+    B –|––––––––0–––––––––0h1–––0–––––––––|––––––––––––––––––0h1–––0–––––––––|–
+    G –|––0–––––––––––––––––––––––––––––––|––––––––2–––––––––––––––––––2–––––|–
+    D –|––––––0–––––––0–––––––0–––––––0–––|––––––0–––––––0–––––––0–––––––0–––|–
+    A –|––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
+    E –|––3–––––––3–––––––3–––––––3–––––––|––2–––––––2–––––––2–––––––2–––––––|–
+          G                                  D                               
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+Part 2 of 2:
+
+    E –|––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
+    B –|––––––––0–––––––––0h1–––0–––––––––|––––––––1–––––––––1h3–––1–––––––––|–
+    G –|––0–––––––––––––––––––––––––––––––|––0–––––––––––––––––––––––––––––––|–
+    D –|––––––0–––––––0–––––––0–––––––0–––|––––––2–––––––2–––––––2–––––––2–––|–
+    A –|––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
+    E –|––3–––––––3–––––––3–––––––3–––––––|––3–––––––3–––––––3–––––––3–––––––|–
+          G                                  C                               
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+    E –|––––––––––––––––––––––––––––––––––|––––––––––––––––––3–––––––––––––––||
+    B –|––––––––0–––––––––––––––h1––––––––|––––––––0–––3–––––0–––––––––––––––||
+    G –|––0–––––––––––––––2–––––––––0–––––|––0–––––––––––––––––––––––––––––––||
+    D –|––––––0–––––––0–––––––0–––––––0–––|––––––0–––––––0–––––––––––––––––––||
+    A –|––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––||
+    E –|––3–––––––3–––––––2–––––––2–––––––|––3–––––––3–––––––3–––––––––––––––||
+          G               D                  G                               
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+## Good luck!
+
+I hope this was helpful for you. As always, when chewing off bigger challenges for yourself - find ways to make them easy by breaking them into approachable steps.

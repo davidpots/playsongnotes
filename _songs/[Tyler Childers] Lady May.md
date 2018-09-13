@@ -129,7 +129,7 @@ Here's how to play the chords used in this song -- including a few simplified wa
     E ––––––––1–––––––––––––           –––––   –––––   ––1––
          C    F    Am  G/B               F       F       F
 
-## Mastering the hammer-on technique
+## Hammering-on and pulling-off
 
 A crucial part to playing this song like Tyler Childers is being able to hammer on your left-middle finger on both the C and F chords. Here are some tabs that break this down to its simplest form. For each chord below, I show the "normal" way to play the chord, and then show the tab for the hammer-on note you can add with your left-hand middle finger.
 
