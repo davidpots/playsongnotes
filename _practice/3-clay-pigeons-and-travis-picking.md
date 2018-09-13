@@ -11,7 +11,7 @@ date: 2018-09-13
 
 ## Print-friendly version of this lesson
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/songnotes). For a few bucks a month, you get access to PDFs of all my new lessons.
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-21390085). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's Note
 
