@@ -7,13 +7,17 @@ date: 2018-09-18
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/aj07PvITz_A?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_MbHAq7Pb4A?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Print-friendly PDF of lyrics/tabs/chords available!
 
 [Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
+
+## Editor's notes
+
+As I took the first steps into learning "Sultans of Swing", one of the things that jumped out immediately was this incredibly recognizable chorus lick - and how playing it by itself can be an entirely satisfying exercise. After spending some time with it, I decided to craft some constraints around it: specifically, introducing the challenge of only using 3 strings to play all of the necessary chords. 
+
+While this may seem like a challenging constraint, it actually makes the lick a bit more accessible, in my opinion - it allows you to avoid any "full" barre chords that require 5 or 6 strings. As such, I present to you this quick warm-up exercise based on this riff. It's a great one to memorize to turn heads wherever you may find yourself with a guitar, and likewise will help you develop barre chord muscles if you haven't yet mastered the 5- or 6-string barre. Enjoy!
 
 ## Full chorus lick
 
