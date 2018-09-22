@@ -15,7 +15,7 @@ date: 2018-09-18
 
 ## Editor's notes
 
-As I took the first steps into learning "Sultans of Swing", one of the things that jumped out immediately was this incredibly recognizable chorus lick - and how playing it by itself can be an entirely satisfying exercise. After spending some time with it, I decided to craft some constraints around it: specifically, introducing the challenge of only using 3 strings to play all of the necessary chords. 
+As I took the first steps into learning "Sultans of Swing", one of the things that jumped out immediately was this incredibly recognizable chorus lick - and how playing it by itself can be an entirely satisfying exercise. After spending some time with it, I decided to craft some constraints around it: specifically, introducing the challenge of only using 3 strings to play all of the necessary chords.
 
 While this may seem like a challenging constraint, it actually makes the lick a bit more accessible, in my opinion - it allows you to avoid any "full" barre chords that require 5 or 6 strings. As such, I present to you this quick warm-up exercise based on this riff. It's a great one to memorize to turn heads wherever you may find yourself with a guitar, and likewise will help you develop barre chord muscles if you haven't yet mastered the 5- or 6-string barre. Enjoy!
 
@@ -41,7 +41,7 @@ Part 2 of 2:
     E –––––––––––––––––––––––––––––––––––––––––––
              Dm  C  Bb     F  F  C
 
-## Understanding the chord shapes
+## Understanding the full chord shapes
 
 Although this riff requires you to only 3 strings per each chord, it's worth understanding the "full" version of these very same chords. Doing so will help you develop "barre chord vision" (as I call it), wherein you're able to recognize the full 5- or 6-string chord shapes from which you may play 2, 3, or 4 strings.
 

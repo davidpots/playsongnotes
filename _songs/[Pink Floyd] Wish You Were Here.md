@@ -43,7 +43,7 @@ For the verse:
     E ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
     B ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
     G ––––––––––––––––0––0–0––0––––––––0––––––––0––0–0––0–––
-    D –––––––––0–2––––2––2–2––2––––––2–––2–0––––0––0–0––0–––
+    D –––––––––0–2––––2––2–2––2––––––2–––2–0––––0––0–0––0–––  x 2
     A –––––0h2––––––––––––––––––––––––––––––––––––––––––––––
     E –––3––––––––––––––––––––––––––––––––––––––––––––––––––
                       Em7                       G   
@@ -51,7 +51,7 @@ For the verse:
     E ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
     B ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
     G ––––––––––––––––0––0–0––0–––––––––––––––––0––0–0––0–––
-    D –––––––––0–2––––2––2–2––2––––––2–0––––––––2––2–2––2–––
+    D –––––––––0–2––––2––2–2––2––––––2–0––––––––2––2–2––2–––  x 2
     A –––––0h2–––––––––––––––––––––––––––2–0––––0––0–0––0–––
     E –––3––––––––––––––––––––––––––––––––––––––––––––––––––
                       Em7                       A7sus4
@@ -59,8 +59,8 @@ For the verse:
     E ––––––––––––––––––3––3–3––3–3–––
     B ––––––––––––––––––3––3–3––3–3–––
     G ––––––––––––––––––0––0–0––0–0–––
-    D ––––––––––––––––––0––0–0––0–0–––
-    A –––0–0h2–0––––––––2––2–2––2–2–––
+    D ––––––––––––––––––0––0–0––0–0–––  x 1, then repeat intro (with solo)
+    A –––0–0h2–0––––––––2––2–2––2–2–––       or begin the first verse
     E ––––––––––––3–––––3––3–3––3–3–––
                         G
 
@@ -72,7 +72,7 @@ For the verse:
     Heaven from hell, blue skies from pain
                          D                       C
     Can you tell a green field from a cold steel rail
-                   Am                          G
+                   Am                            G
     A smile from a veil?  Do you think you can tell
 
                         C                     D
@@ -81,17 +81,38 @@ For the verse:
     Hot ashes for trees, hot air for a cool breeze
                      D                 C
     Cold comfort for change, did you exchange
-                          Am                       G
+                          Am                         G
     A walk-on part in the war for a lead role in a cage
 
-    C                                  D
+        [ play full intro, with solo ]
+
+    C                                     D
     ...How I wish, how I wish you were here
                Am                                     G
-    We’re just two lost souls swimmin’ in a fish bowl, year after year
+    We’re just two lost souls swimmin’ in a fish bowl... year after year
     D                                   C
     ... Running over the same old ground... what have we found
                  Am                       G
-    The same old fears... I wish you were here  
+    The same old fears... I wish you were here
+
+        [ repeat intro as desired, with or without solo, end ]
+
+## Strumming pattern
+
+If you're just getting started with things, I recommend the following simple strum. Do down strums on all 4 counts, but try to accent (give extra oomph) to the "1" and "3" counts. In repetition, this would read as "DOWN down DOWN down DOWN down DOWN down..."
+
+    1 + 2 + 3 + 4 +    
+    D   d   D   d          
+
+From there, you can take things to the next level by doing this "down... down, down up" pattern over and over. See my video lesson for reference! In repetition, this reads as "DOWN... down, down up DOWN... down, down up DOWN... down, down up..."
+
+    1 + 2 + 3 + 4 +
+    D       d   d u        
+
+Finally, there's an advanced strumming pattern you can do (which I also show in the video lesson). This pattern takes up two full measures. This would be spoken as "DOWN... down, down up, up down, down up down up DOWN... down, down up, up down, down up down up."
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D       d   d u   u d   d u d u
 
 ## Hope this helps!
 
