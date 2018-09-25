@@ -7,13 +7,11 @@ date: 2018-09-21
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/orB3w2jwpEk?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/orB3w2jwpEk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+## Print-friendly PDF of lyrics/tabs/chords available!
 
-<!-- ## Print-friendly PDF of lyrics/tabs/chords available!
-
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make. -->
+[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Editor's notes
 
