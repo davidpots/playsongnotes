@@ -7,9 +7,13 @@ date: 2018-09-24
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/UyZ6maC6FxM?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHyd6pN_Xbw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/songnotes). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## How to play Fadd9
 
@@ -63,15 +67,15 @@ Going even further, you could slide the Fadd9 shape up 2 frets to play a Gadd9 i
 
 ## Exercise 4: Alternating bass notes
 
-Another avenue to explore is that of alternating bass notes. Use your left ring finger to alternate between the 4th and 5th string, with strums of the thinnest 3-4 strings between each bass note. This exact same technique can be used for the C chord as well, if you want to bring that into your practice session.
+Another avenue to explore is that of alternating bass notes. Use your left ring finger to alternate between the 4th and 5th string (of the Fadd9), with strums of the thinnest 3-4 strings between each bass note. This exact same technique can be used for the C chord as well, if you want to bring that into your practice session (go between the 5th and 6th string for the bass note).
 
-    E ||–––3–––   –––––3––––––3–––  
-    B ||–––1–––   –––––1––––––1–––  
-    G ||–––2–––   –––––2––––––2–––  
-    D ||–––3–––   ––3–––––––––––––  <= left ring
-    A ||–––––––   –––––––––3––––––  <= left ring
-    E ||–––––––   ––––––––––––––––   
-         Fadd9
+    E –––3–––  –––––3––––––3–––        E ||–––3–––  –––––3––––––3–––
+    B –––1–––  –––––1––––––1–––        B ||–––1–––  –––––1––––––1–––
+    G –––0–––  –––––0––––––0–––        G ||–––2–––  –––––2––––––2–––
+    D –––2–––  –––––2––––––2–––        D ||–––3–––  ––3–––––––––––––
+    A –––3–––  ––3–––––––––––––        A ||–––––––  –––––––––3––––––
+    E –––––––  –––––––––3––––––        E ||–––––––  ––––––––––––––––
+         C                                  Fadd9
 
 ## Exercise 5: "Catch the Wind" intro riff
 
@@ -89,13 +93,13 @@ The song "Catch the Wind" by Donovan has a beautiful intro (capo 3rd fret to pla
 
 Finally, the Fadd9 chord (similar to the C) makes for great hammer-on practice with your middle finger. This is a very efficient way to add embellishment and flourish to your playing.
 
-    E ||–––3–––   –––––3––––––––3–––  
-    B ||–––1–––   –––––1––––––––1–––  
-    G ||–––2–––   –––––2–––0h2––2–––  
-    D ||–––3–––   ––3––3––––––––3–––  
-    A ||–––––––   ––––––––––––––––––  
-    E ||–––––––   ––––––––––––––––––   
-         Fadd9
+    E –––3–––  –––––3–3–––––––––3–3––        E ||–––3–––  –––––3–3––––––––3–3––
+    B –––1–––  –––––1–1–––––––––1–1––        B ||–––1–––  –––––1–1––––––––1–1––
+    G –––0–––  –––––0–0–––––––––0–0––        G ||–––2–––  –––––2–2–––0h2––2–2––
+    D –––2–––  –––––2–2––––0h2––2–2––        D ||–––3–––  ––3––3–3––––––––3–3––
+    A –––3–––  ––3––3–3–––––––––3–3––        A ||–––––––  –––––––––––––––––––––
+    E –––––––  ––––––––––––––––––––––        E ||–––––––  –––––––––––––––––––––
+         C                                        Fadd9
 
 ## I hope all this was helpful
 
