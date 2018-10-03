@@ -18,6 +18,10 @@ categories: guitar
 - 5:42 Verse, chorus, & bridge
 - 7:16 Farewell
 
+## Print-friendly PDF of lyrics/tabs/chords available!
+
+[Support me on Patreon](https://www.patreon.com/posts/21821096) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
+
 ## Lyrics w/ chords
 
     (capo 2nd fret if you want to play along with the official version)
@@ -79,7 +83,7 @@ categories: guitar
 
 ## Capo notes
 
-If you want to use the chords above and play along with John Denver's official version, you'll need a capo on the 2nd fret. Without a capo, you'd need to use chords in the key of A (which makes a bit tougher, since a barre chord is needed for F#m).
+If you want to use the chords above and play along with John Denver's official version, you'll need a capo on the 2nd fret. Without a capo, you'd need to use chords in the key of A to play along with John Denver (which makes a bit tougher, since a barre chord is needed for F#m). Otherwise, you can use no capo (using the chords I show) and you’ll sound just fine on your own.
 
 ## Understanding the timing of each chord
 
