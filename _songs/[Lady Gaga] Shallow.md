@@ -10,9 +10,13 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ovnhfQkUXkc?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+Guitar lesson:
 
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnYes88W2ic?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Play-along cover (full song):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_kih9CqnZ4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 
@@ -27,14 +31,14 @@ Coming soon!
              Em      D/F#  G                 C               G     D
              1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-        E –|–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––||
-        B –|–––––3–––––3–––3–––––––––––––––––––––3–––––3–––3–––––––––––––––––||
-        G –|–––0–––0–––2–––0–––––––––––––––––––0–––0–––2–––0–––––––––––––––––||
-        D –|–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––||
-        A –|–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––||
-        E –|–0–––––––2–––––3–––––––––––––––––0–––––––2–––––3–––––––––––––––––||
-             Em      D/F#  G                 Em      D/F#  G
-             1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+        E –|–––––––––––––––––––––––––––––––––||
+        B –|–––––3–––––3–––3–––––––––––––––––||
+        G –|–––0–––0–––2–––0–––––––––––––––––||
+        D –|–––––––––––––––––––––––––––––––––||   ...then, start verse
+        A –|–––––––––––––––––––––––––––––––––||
+        E –|–0–––––––2–––––3–––––––––––––––––||
+             Em      D/F#  G                 
+             1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
     VERSE #1
 
