@@ -20,7 +20,11 @@ Play-along cover (full song):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Full lesson coming soong!
+<br />Full lesson coming soon!
+
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheet I've already made. Thanks for your support!
 
 ## Lyrics and Chords
 

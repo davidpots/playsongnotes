@@ -18,6 +18,10 @@ Play-along cover (full song):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5_kih9CqnZ4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheet I've already made. Thanks for your support!
+
 ## Lyrics w/ chords
 
     INTRO (use this same tab during the verse)

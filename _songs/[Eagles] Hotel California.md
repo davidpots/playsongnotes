@@ -14,6 +14,10 @@ categories: guitar
 
 Note, if you're in the USA this video is likely blocked because of frustrating copyright issues. You can still view it on my Facebook page, though: [https://www.facebook.com/songnotes/videos/1261105190576796/](https://www.facebook.com/songnotes/videos/1261105190576796/)
 
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheet I've already made. Thanks for your support!
+
 ## Lesson order
 
 - Playthrough

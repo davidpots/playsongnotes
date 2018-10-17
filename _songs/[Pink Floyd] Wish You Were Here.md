@@ -12,6 +12,10 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ApUgdFywSLo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheet I've already made. Thanks for your support!
+
 ## Editor's notes
 
 Simple version below, meant to get folks started with this song. The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).
