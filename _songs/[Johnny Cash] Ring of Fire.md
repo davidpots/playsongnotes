@@ -12,6 +12,60 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jvriKFA7-I?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Lyrics w/ chords
+
+    INTRO
+
+        e ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        B ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        G ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        D ––––––––0––0–0––0–0––2–––––0––––––––––––––––––––––––––––
+        A ––2–3–4–––––––––––––––––3––––––––2––2–2––2–2––3––0––2–––
+        E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+                  G            C     G     G            D7    G    
+
+    VERSE
+
+    G         C       G               G       D     G
+    Love is a burning thing... and it makes a fiery ring
+    G        C      G       G              D       G
+    Bound by wild desire... I fell in to a ring of fire
+
+    CHORUS
+
+        D             C               G
+        I fell into a burning ring of fire
+               D                           C           G
+        I went down, down, down... and the flames went higher
+               G                    
+        And it burns, burns, burns
+        G      C       G           D       G       
+        ...The ring of fire... the ring of fire
+
+        G        C       G             G           D    G
+    The taste of love is sweet... when hearts like ours meet
+    G              C      G        G           D         G
+    I fell for you like a child... oh, but the fire went wild
+
+
+        D             C               G
+        I fell into a burning ring of fire
+               D                           C           G
+        I went down, down, down... and the flames went higher
+               G                    
+        And it burns, burns, burns
+        G      C       G           D       G       
+        ...The ring of fire... the ring of fire
+
+        [ repeat chorus ]
+
+    ENDING
+
+               G                    
+        And it burns, burns, burns
+        G      C       G           D       G       
+        ...The ring of fire... the ring of fire
+
 ## Chords needed
 
 The whole song can be played with standard G, C, and D chords:
@@ -67,7 +121,7 @@ From there, you can fill things out a bit by doing this. If you can, accent the 
 
 ## Mariachi riff on guitar
 
-See my video lesson for an example of how to play this along w/ the rhythmic chord strumming.
+Here's the main melody notes for the distinctive mariachi riff. Start by learning these notes and hearing the riff in your head.
 
     e ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
     B ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -75,35 +129,17 @@ See my video lesson for an example of how to play this along w/ the rhythmic cho
     D ––––––––0––0–0––0–0––2–––––0––––––––––––––––––––––––––––
     A ––2–3–4–––––––––––––––––3––––––––2––2–2––2–2––3––0––2–––
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-              G            C     G     G            D7    G    
+              G            C     G     G           (D7)   G    
 
-## Lyrics w/ chords
+From here, I recommend keeping your hands in the G and C chord shapes - and if you wish, feel free to strum notes from those chords. See my video lesson for context here.
 
-    VERSE
-
-    G         C       G               G       D     G
-    Love is a burning thing... and it makes a fiery ring
-    G        C      G       G              D       G
-    Bound by wild desire... I fell in to a ring of fire
-
-    CHORUS
-
-        D             C               G
-        I fell into a burning ring of fire
-               D                           C           G
-        I went down, down, down... and the flames went higher
-               G                    
-        And it burns, burns, burns
-        G      C       G           D       G       
-        ...The ring of fire... the ring of fire
-
-    The taste of love is sweet... when hearts like ours meet
-    I fell for you like a child...
-
-        I fell into a burning ring of fire
-        I went down, down, down... and the flames went higher
-        And it burns, burns, burns
-        The ring of fire... The ring of fire
+    e ––––––––3––––––––––––3–––––3–––––3––––––––––––––––––3–––
+    B ––––––––3––––––––––––3–––––3–––––3––––––––––––––––––0–––
+    G ––––––––0––––––––––––0–––––0–––––0––––––––––––––––––0–––
+    D ––––––––0––0–0––0–0––2–––––0–––––0––––––––––––––––––0–––
+    A ––2–3–4–0––––––––––––3––3––2–––––2––2–2––2–2––3––0––2–––
+    E ––––––––3––––––––––––––––––3–––––3––––––––––––––––––3–––
+              G            C     G     G           (D7)   G   
 
 ## Good luck!
 
