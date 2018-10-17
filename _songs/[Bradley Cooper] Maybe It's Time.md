@@ -16,9 +16,9 @@ categories: guitar
 
 Coming soon!
 
-<!-- Play-along cover (full song):
+Play-along cover (full song):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5_kih9CqnZ4?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics and Chords
 
@@ -146,17 +146,17 @@ Here's a bird's eye view of the chord progressions used in this song (i.e., for 
 
 The main idea with the strumming pattern, no matter which one you choose to employ, is to try to accent the 2 and the 4 counts. Even if you do simple down-strums on all 4 counts, try to give a little oomph to the 2 and the 4 (or alternatively, ease up on the 1 and the 3).
 
-Simple strum:     1 + 2 + 3 + 4 +
-                  D   D   D   D
-                      >       >
+    Simple strum:     1 + 2 + 3 + 4 +
+                      D   D   D   D
+                          >       >
 
-Full strum #1:    1 + 2 + 3 + 4 +
-                  D   D   D U D U
-                      >       >
+    Full strum #1:    1 + 2 + 3 + 4 +
+                      D   D   D U D U
+                          >       >
 
-Full strum #2:    1 + 2 + 3 + 4 +
-                  D   D U   U D U
-                      >       >
+    Full strum #2:    1 + 2 + 3 + 4 +
+                      D   D U   U D U
+                          >       >
 
 ## Good luck!
 
