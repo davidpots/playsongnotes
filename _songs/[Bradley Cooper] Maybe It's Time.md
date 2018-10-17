@@ -14,11 +14,13 @@ categories: guitar
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jnYes88W2ic?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
-Coming soon!
+<!-- Coming soon! -->
 
 Play-along cover (full song):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Full lesson coming soong!
 
 ## Lyrics and Chords
 
