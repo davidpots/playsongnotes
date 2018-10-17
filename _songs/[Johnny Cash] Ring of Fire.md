@@ -14,7 +14,7 @@ categories: guitar
 
 ## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheet I've already made. Thanks for your support!
+[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Lyrics w/ chords
 
