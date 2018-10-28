@@ -6,6 +6,8 @@ song_title:  Hotel California
 artist: The Eagles
 year: 1976
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/20970359
 ---
 
 ## Video lesson
@@ -16,7 +18,7 @@ Note, if you're in the USA this video is likely blocked because of frustrating c
 
 ## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+[Support me on Patreon](https://www.patreon.com/posts/20970359) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Lesson order
 

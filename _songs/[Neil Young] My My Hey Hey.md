@@ -6,11 +6,17 @@ song_title:  My My, Hey Hey
 artist: Neil Young
 year: 1979
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/20913460
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PCYFKxOPiKk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/20913460). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Lyrics w/ chords
 

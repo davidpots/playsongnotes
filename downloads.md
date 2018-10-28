@@ -4,33 +4,46 @@ title: Sample PDF downloads with chords and tabs - songnotes.com
 permalink: /downloads/
 ---
 
-  <div style="background: #FFA; padding: 16px; margin: 24px auto; max-width: 480px;">
+  <!-- <div style="background: #FFA; padding: 16px; margin: 24px auto; max-width: 480px;">
     <p style="margin: 0;"><strong>Psst... I just launched a Patreon page!</strong> Get print-friendly PDFs for each new lesson I make for only $3/month. <a href="https://www.patreon.com/songnotes">Learn more »</a></p>
-  </div>
+  </div> -->
 
-## PDF downloads
+## Free PDF downloads
 
-Here's a preview of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper.
-
-If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. It helps me know you're out there and lets me stay focused on this crazy guitar project of mine.
+Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
 
 <ul>
-  <li><strong>House of the Rising Sun</strong> by The Animals (<a href="/printables/[Animals] House of the Rising Sun.pdf">PDF</a>)</li>
-  <li><strong>Total Eclipse of the Heart</strong> by Bonnie Tyler (<a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">PDF</a>)</li>
-  <li><strong>Layla</strong> by Eric Clapton (<a href="/printables/[Eric Clapton] Layla.pdf">PDF</a>)</li>
-  <li><strong>Game of Thrones</strong> theme song (<a href="/printables/[Game of Thrones] Theme Song.pdf">PDF</a>)</li>
-  <li><strong>LA Freeway</strong> by Guy Clark (<a href="/printables/[Guy Clark] L.A. Freeway.pdf">PDF</a>)</li>
-  <li><strong>Sunday Morning Coming Down</strong> by Johnny Cash (<a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">PDF</a>)</li>
-  <li><strong>Danny's Song</strong> by Loggins and Messina (<a href="/printables/[Loggins and Messina] Dannys Song.pdf">PDF</a>)</li>
-  <li><strong>Tuesday's Gone</strong> by Lynyrd Skynyrd (<a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">PDF</a>)</li>
-  <li><strong>Harvest Moon</strong> by Neil Young (<a href="/printables/[Neil Young] Harvest Moon.pdf">PDF</a>)</li>
-  <li><strong>About a Girl</strong> by Nirvana (<a href="/printables/[Nirvana] About a Girl.pdf">PDF</a>)</li>
-  <li><strong>Where Did You Sleep Last Night</strong> by Nirvana (<a href="/printables/[Nirvana] Where Did You Sleep Last Night.pdf">PDF</a>)</li>
-  <li><strong>Feeling Whitney</strong> by Post Malone (<a href="/printables/[Post Malone] Feeling Whitney.pdf">PDF</a>)</li>
-  <li><strong>High and Dry</strong> by Radiohead (<a href="/printables/[Radiohead] High and Dry.pdf">PDF</a>)</li>
-  <li><strong>Runnin' Down a Dream</strong> by Tom Petty (<a href="/printables/[Tom Petty] Runnin Down a Dream.pdf">PDF</a>)</li>
-  <li><strong>Learnin' to Fly</strong> by Tom Petty (<a href="/printables/[Tom Petty] Learnin to Fly.pdf">PDF</a>)</li>
-  <li><strong>Honky Tonk Heroes</strong> by Wayon Jennings (<a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">PDF</a>)</li>
+  <li><strong><a href="/printables/[Animals] House of the Rising Sun.pdf">House of the Rising Sun</a></strong> by The Animals</li>
+  <li><strong><a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">Total Eclipse of the Heart</a></strong> by Bonnie Tyler</li>
+  <li><strong><a href="/printables/[Eric Clapton] Layla.pdf">Layla</a></strong> by Eric Clapton</li>
+  <li><strong><a href="/printables/[Game of Thrones] Theme Song.pdf">Game of Thrones</a></strong> theme song</li>
+  <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li>
+  <li><strong><a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">Sunday Morning Coming Down</a></strong> by Johnny Cash</li>
+  <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li>
+  <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li>
+  <li><strong><a href="/printables/[Neil Young] Harvest Moon.pdf">Harvest Moon</a></strong> by Neil Young</li>
+  <li><strong><a href="/printables/[Nirvana] About a Girl.pdf">About a Girl</a></strong> by Nirvana</li>
+  <li><strong><a href="/printables/[Nirvana] Where Did You Sleep Last Night.pdf">Where Did You Sleep Last Night</a></strong> by Nirvana</li>
+  <li><strong><a href="/printables/[Post Malone] Feeling Whitney.pdf">Feeling Whitney</a></strong> by Post Malone</li>
+  <li><strong><a href="/printables/[Radiohead] High and Dry.pdf">High and Dry</a></strong> by Radiohead</li>
+  <li><strong><a href="/printables/[Tom Petty] Runnin Down a Dream.pdf">Runnin' Down a Dream</a></strong> by Tom Petty</li>
+  <li><strong><a href="/printables/[Tom Petty] Learnin to Fly.pdf">Learnin' to Fly</a></strong> by Tom Petty</li>
+  <li><strong><a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">Honky Tonk Heroes</a></strong> by Wayon Jennings</li>
 </ul>
 
-Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
+## PDF Downloads available to Patreon supporters
+
+All those supporting me on Patreon ($3/month) have access to this growing list of PDFs I've been creating since August 2018. I have been adding ~2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Here's what's currently available. Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
+
+    {% assign sorted_songs = (site.songs | sort: 'song_title') %}
+<ul>
+    {% for song in sorted_songs %}
+      {% if song.patreon_lesson_available == true %}
+<li><strong><a href="{{song.patreon_lesson_url}}">{{ song.song_title }}</a></strong> by {{ song.artist }}</li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my indepedent efforts (and costs) of creating all these lessons to share with the world. Thank you.
+
+<a style="display: inline-block; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>

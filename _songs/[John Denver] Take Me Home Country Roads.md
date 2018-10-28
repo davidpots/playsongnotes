@@ -6,6 +6,8 @@ song_title:  Take Me Home Country Roads
 artist: John Denver
 year: 1971
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21821096
 ---
 
 ## Video lesson

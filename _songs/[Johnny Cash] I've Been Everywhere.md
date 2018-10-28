@@ -6,6 +6,8 @@ song_title: I've Been Everywhere
 artist: Johnny Cash
 year: 1996
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21054196
 ---
 
 ## Video lesson
