@@ -1,6 +1,6 @@
 ---
 layout: warmup
-title: "One Horse Town" intro riff
+title: '"One Horse Town" intro riff'
 slug: "8"
 date: 2018-10-27
 ---
