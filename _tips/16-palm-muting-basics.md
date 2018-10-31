@@ -2,7 +2,7 @@
 layout: tip
 title: Palm muting basics
 slug: "16"
-date: 2018-10-31
+date: 2018-10-30
 ---
 
 ## Video Overview
@@ -22,6 +22,8 @@ In this lesson I'd like to share one of more valuable strumming tips I've learne
 ## What is palm muting?
 
 Palm muting is an incredibly effective, relatively easy-to-learn strumming technique that can go a long way in mixing up the dynamics in your guitar playing. In short, it involves resting the fleshy part on the side of your strumming hand (between your pinky and wrist) against the saddle of the guitar - just where the strings connect. If done properly, any notes you play will ring in their normal tone but will be heavily muted. That is, they will be dulled, thudded, and otherwise more percussive instead of being bright, ringy, and sustained.
+
+<img src="/images/posts/tip-16-palm-mute-webpage-graphic.jpg" />
 
 ## Fine tuning the muting level
 
