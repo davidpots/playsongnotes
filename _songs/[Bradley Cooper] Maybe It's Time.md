@@ -1,7 +1,7 @@
 ---
 layout: song
 has_video_lesson: true
-title: Guitar lesson for "Maybe It's Time" by Bradley Cooper
+title: Guitar lesson for "Maybe It's Time" from A Star is Born
 song_title:  Maybe It's Time
 artist: Bradley Cooper
 year: 2018
@@ -12,7 +12,7 @@ categories: guitar
 
 <!-- Guitar lesson: -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jnYes88W2ic?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7JlEf5Y7lw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- Coming soon! -->
 
@@ -26,15 +26,19 @@ Play-along cover (full song):
 
 [Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
+## Editor's notes
+
+In this lesson I'll teach you how to play a solo acoustic version of "Maybe It's Time," as heard in the 2018 version of the film "A Star is Born". This is a song that only needs 3-4 common chords, which can either be strummed or played via fingerpicking. There's one tricky part of the song, which involves walking down from G to D/F# to E-minor -- which I'll show you how to tackle in two different ways. I hope you find this helpful, check out my lesson for "Shallow" also from this movie.
+
 ## Lyrics and Chords
 
     INTRO
         E ––––––––––––––––––––––––––––––––––
-        B ––––––––0–––––––0–––––––0–––––––––  <= left middle
-        G ––––––––––––0–––––––0–––––––0–––––  <= left index
-        D ––––––0–––––––0–––––––0–––––––0–––  <= left thumb
-        A ––––––––––––––––––––––––––––––––––
-        E ––3–––––––3–––––––3–––––––3–––––––  <= left thumb
+        B ––––––––0–––––––0–––––––0–––––––––  <= right middle        *  If fingerpicking, use the fingers
+        G ––––––––––––0–––––––0–––––––0–––––  <= right index            shown here. If playing with a pick,
+        D ––––––0–––––––0–––––––0–––––––0–––  <= right thumb            freely strum a G chord and try to
+        A ––––––––––––––––––––––––––––––––––                            accent the open B-string to mimic
+        E ––3–––––––3–––––––3–––––––3–––––––  <= right thumb            the sound of these notes.
             G
             1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
@@ -136,7 +140,7 @@ Here's a bird's eye view of the chord progressions used in this song (i.e., for 
     Verse:        "Maybe it's time to let the old ways die..."
 
                   | G          | G          | G          | G         |
-                  | C          | C          | G          | C         |
+                  | C          | C          | G          | G         |
                   | C          | C          | G    D/F#  | Em        |
                   | D          | C          | G          | G         |
 
