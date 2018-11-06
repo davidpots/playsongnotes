@@ -6,11 +6,71 @@ song_title: Hurt
 artist: Johnny Cash
 year: 2002
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22543461
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-22543461). For a few bucks a month, you get access to PDFs of all my new lessons.
+
+## Lyrics w/ chords
+
+    INTRO
+        E |––––––––0–––––––––––––––––|––––––––0–––––––––––2––––––|
+        B |––––––––1–––––––––––––––––|––––––––1–––––––––––3––––––|
+        G |––––––––2–––––––––––––––––|––––––––0––––––––2––––(2)––|
+        D |–––––2––––––––––––––––––––|–––––2––––––––0––––––––––––|  ...play twice, then start
+        A |––0–––––––––––––––––––––––|––3–––––––(3)––––––––––––––|     verse with same riff
+        E |––––––––––––––––––––––––––|–––––––––––––––––––––––––––|
+             Am                         C           D
+             1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +   
+
+    VERSE
+        Am      C      D      Am        C      D      Am  
+        .....I hurt myself today... to see if I still feel
+                C    D        Am         C      D          Am
+        ......I focus on the pain... the only thing that's real
+                  C      D        Am         C       D     Am
+        ......The needle tears a hole... the old familiar sting
+                     C      D       Am            C      D          (G)
+        ......Try to kill it, all away... but I remember everything
+
+    CHORUS
+            G     Am              F    C               G
+            ......What have I become..... my sweetest friend
+                  Am          F         C           G
+            ......Everyone I know goes away in the end   
+                      Am                 F     G
+            ......And you could have it all... my empire of dirt
+                  Am              F      G               Am
+            ......I will let you down... I will make you hurt
+
+    Am     C            D      Am       C      D       Am
+    ....I wear this crown of thorns... upon my liars chair
+           C        D       Am       C     D     Am
+    ......Full of broken thoughts... I cannot repair
+             C         D         Am          C      D      Am
+    ......Beneath the stains of time... the feelings disappear
+          C       D        Am     C    D           (G)   
+    ......You are someone else... I am still right here
+
+            G     Am            F     C               G
+            ......What have I become..... my sweetest friend
+                  Am          F         C          G
+            ......Everyone I know goes away in the end
+                      Am                 F     G
+            ......And you could have it all... my empire of dirt
+                  Am             F       G               
+            ......I will let you down... I will make you hurt
+                     Am             F         G  
+            ......If I could start again... a million miles away
+                  Am            F       G              Am
+            ......I will keep myself... I would find a way
 
 ## Intro & verse chords
 
@@ -88,20 +148,13 @@ In the second half of each chorus, I like to play the chords as follows. The key
 
 Try it out! It also makes the F way easier to play, in my opinion.
 
-## Chorus lyrics w/ chords
+## Chorus strumming pattern
 
-For reference, here you go:
+Quite simply, do all down-strums on each quarter note (4 down strums per measure) -- and put the emphasis on the 1 and 3 counts.
 
-    (G)   Am            F     C               G
-    ......What have I become..... my sweetest friend
-    Am          F         C          G
-    Everyone I know goes away in the end
-        Am                 F     G
-    And you could have it all... my empire of dirt
-    Am             F       G               Am
-    I will let you down... I will make you hurt
-
-                    (start intro/verse riff on "hurt")
+    1 + 2 + 3 + 4 +
+    D   D   D   D
+    >       >
 
 ## Good luck!
 

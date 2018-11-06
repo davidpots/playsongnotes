@@ -22,8 +22,6 @@ Play-along cover (full song):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<br />Full lesson coming soon!
-
 ## Print-friendly PDF of this lesson available!
 
 [Support me on Patreon](https://www.patreon.com/posts/printable-lesson-22497311) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
