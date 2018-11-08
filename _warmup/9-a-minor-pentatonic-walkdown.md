@@ -47,23 +47,23 @@ Here's the chord shapes I use in this exercise. A few things to note: (1) For th
 
 Here's the full minor pentatonic scale that is usually taught. While I'm not playing every note of the scale during the exercise, it is helpful to understand this is the larger scale from which our notes are coming:
 
-   ||–––|–––|–––|–––|–O–|–––|–––|–O–|––   
-   ||–––|–––|–––|–––|–O–|–––|–––|–O–|––   
-   ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–––|–O–|––   
-      1   2   3   4   5   6   7   8
+    ||–––|–––|–––|–––|–O–|–––|–––|–O–|––   
+    ||–––|–––|–––|–––|–O–|–––|–––|–O–|––   
+    ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–––|–O–|––   
+       1   2   3   4   5   6   7   8
 
 For this exercise, here's the cluster of notes (within the full scale) I'm focusing on. Notice how it's all 5th and 7th fret. Accordingly, I'll be using only my left-ring index finger for 5th fret notes, and my left ring finger for 7th fret notes:
 
-   ||–––|–––|–––|–––|–––|–––|–––|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–––|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
-   ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
-   ||–––|–––|–––|–––|–––|–––|–––|–––|––   
-      1   2   3   4   5   6   7   8
+    ||–––|–––|–––|–––|–––|–––|–––|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–––|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
+    ||–––|–––|–––|–––|–O–|–––|–O–|–––|––   
+    ||–––|–––|–––|–––|–––|–––|–––|–––|––   
+       1   2   3   4   5   6   7   8
 
 ## The full tab, with counting
 
