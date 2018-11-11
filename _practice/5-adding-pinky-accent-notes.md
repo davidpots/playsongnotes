@@ -1,6 +1,6 @@
 ---
 layout: practice
-title: Delicate riffing on C-Dm7-Am-Fmaj7
+title: Adding pinky accent notes to a chord progression
 slug: "5"
 date: 2018-11-11
 ---
