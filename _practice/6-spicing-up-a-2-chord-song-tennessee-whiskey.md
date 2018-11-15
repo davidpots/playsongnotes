@@ -7,13 +7,13 @@ date: 2018-11-14
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ebvlm2_rJDU?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psGJOvgZU-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
 
-<!-- ## Print-friendly version of this lesson
+## Print-friendly version of this lesson
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/songnotes). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/22729990). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's notes
 
