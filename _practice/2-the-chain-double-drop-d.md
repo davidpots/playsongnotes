@@ -3,6 +3,8 @@ layout: practice
 title: '"The Chain" and Double-Drop D tuning'
 slug: "2"
 date: 2018-08-06
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-20607117
 ---
 
 ## Let's play around with Double-drop D tuning!
@@ -13,6 +15,9 @@ Here's my video lesson where I demonstrate and share some of what I learned:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wqe2dQjUnVw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-20607117). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## First, tune to double-drop D
 
