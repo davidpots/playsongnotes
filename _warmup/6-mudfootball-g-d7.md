@@ -3,6 +3,8 @@ layout: warmup
 title: Mudfootball G-D7 Shuffle
 slug: "6"
 date: 2018-10-07
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21907252
 ---
 
 ## Video Overview
@@ -12,7 +14,7 @@ date: 2018-10-07
 
 ## Print-friendly PDF of lyrics/tabs/chords available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
+[Support me on Patreon](https://www.patreon.com/posts/21907252) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Editor's notes
 

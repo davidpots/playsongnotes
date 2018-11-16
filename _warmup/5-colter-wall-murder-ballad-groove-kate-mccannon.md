@@ -3,6 +3,8 @@ layout: warmup
 title: Murder ballad groove in A-minor
 slug: "5"
 date: 2018-10-01
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21795147
 ---
 
 ## Video Overview
@@ -13,7 +15,7 @@ date: 2018-10-01
 
 ## Print-friendly PDF of lyrics/tabs/chords available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
+[Support me on Patreon](https://www.patreon.com/posts/21795147) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Editor's notes
 

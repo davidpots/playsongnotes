@@ -3,6 +3,8 @@ layout: warmup
 title: A-minor pentatonic walk-down groove
 slug: "9"
 date: 2018-11-06
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22591518
 ---
 
 ## Video Overview

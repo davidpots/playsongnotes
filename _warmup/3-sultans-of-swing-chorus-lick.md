@@ -3,6 +3,8 @@ layout: warmup
 title: '"Sultans of Swing" chorus lick'
 slug: "3"
 date: 2018-09-18
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21510622
 ---
 
 ## Video Overview
@@ -11,7 +13,7 @@ date: 2018-09-18
 
 ## Print-friendly PDF of lyrics/tabs/chords available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
+[Support me on Patreon](https://www.patreon.com/posts/21510622) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Editor's notes
 

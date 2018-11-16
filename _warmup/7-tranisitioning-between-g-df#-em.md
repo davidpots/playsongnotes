@@ -3,6 +3,8 @@ layout: warmup
 title: Transitioning between Em7 - D/F# - G
 slug: "7"
 date: 2018-10-07
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/22255965
 ---
 
 ## Video Overview
@@ -11,7 +13,7 @@ date: 2018-10-07
 
 ## Print-friendly version of this lesson
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/songnotes). For a few bucks a month, you get access to PDFs of all my new lessons.
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/22255965). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's notes
 

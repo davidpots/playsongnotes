@@ -3,6 +3,8 @@ layout: warmup
 title: Blaze Foley country strumming
 slug: "4"
 date: 2018-09-21
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21601306
 ---
 
 ## Video Overview
@@ -11,7 +13,7 @@ date: 2018-09-21
 
 ## Print-friendly PDF of lyrics/tabs/chords available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
+[Support me on Patreon](https://www.patreon.com/posts/21601306) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Editor's notes
 
