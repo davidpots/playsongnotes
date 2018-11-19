@@ -7,9 +7,9 @@ date: 2018-11-18
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZLCC-HqI6CY?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FTY0oPR_KQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
 
 <!-- ## Print-friendly version of this lesson
 
