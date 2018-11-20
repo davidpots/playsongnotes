@@ -68,6 +68,18 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% endfor %}
 </ul>
 
+### Tips & Techniques:
+
+    {% assign sorted_tips = site.tips | sort: 'date' | reverse %}
+<ul>
+    {% for tip in sorted_tips %}
+      {% if tip.patreon_lesson_available == true %}
+<li><strong><a href="{{tip.patreon_lesson_url}}">#{{ tip.slug }}: {{ tip.title }}</a></strong> <span class="small">{{ tip.date | date: "%b %-d, %Y" }}</span></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+
 If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my indepedent efforts (and costs) of creating all these lessons to share with the world. Thank you.
 
 <a style="display: inline-block; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
