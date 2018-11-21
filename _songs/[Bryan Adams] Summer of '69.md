@@ -6,11 +6,17 @@ song_title:  Summer of '69
 artist: Bryan Adams
 year: 1984
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821743
 ---
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lD1ioBlmSJE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## PDF print-out of this lesson
+
+If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="https://www.patreon.com/posts/printable-lesson-22821743">downloads page</a>. You'll find it there!
 
 ## Lyrics
 

@@ -16,7 +16,7 @@ For a print-ready PDF of this lesson, [become a supporter on my Patreon page](ht
 
 ## Editor's notes
 
-Coming soon...
+Today's warm up exercise features three different riffs that groove around the E-major chord. These riffs involve a fun mix of barre chords, muted strings, walking bass notes, and playful flourishes via hammer-on & pull-offs. This is inspired directly from Jack Johnson's song "Posters", which was one of the first songs I became determined to learned when I first started playing guitar. Even 15 years later, I still find myself going back to these riffs quite often when I pick up the guitar. I'm excited to teach it to you in this lesson, I hope you enjoy!
 
 ## The full exercise
 
