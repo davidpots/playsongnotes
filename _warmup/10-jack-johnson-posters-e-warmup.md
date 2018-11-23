@@ -3,16 +3,18 @@ layout: warmup
 title: Backyard grooving in E-major ("Posters" by Jack Johnson)
 slug: "10"
 date: 2018-11-20
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/22883540
 ---
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jJX0HDsikuM?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-Coming soon...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRcGpFex8Tg?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- Coming soon... -->
 
-<!-- ## Print-friendly version of this lesson
+## Print-friendly version of this lesson
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/22591518). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/22883540). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's notes
 
