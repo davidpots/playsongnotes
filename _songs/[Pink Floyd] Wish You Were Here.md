@@ -6,6 +6,8 @@ song_title:  Wish You Were Here
 artist: Pink Floyd
 year: 1975
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/22930200
 ---
 
 ## Video lesson
@@ -14,33 +16,11 @@ categories: guitar
 
 ## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/songnotes) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+[Support me on Patreon](https://www.patreon.com/posts/22930200) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Editor's notes
 
-Simple version below, meant to get folks started with this song. The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).
-
-## Chords needed
-
-For the intro:
-
-    E –––––3–––––3–––––3–––––
-    B –––––3–––––3–––––3–––––
-    G –––––0–––––0–––––0–––––
-    D –––––0–––––2–––––2–––––
-    A –––––2–––––––––––0–––––
-    E –––––3–––––––––––––––––
-           G    Em7  A7sus4
-
-For the verse:
-
-    E –––––3––––0––––2––––0–––––
-    B –––––3––––1––––3––––1–––––
-    G –––––0––––0––––2––––2–––––
-    D –––––0––––2––––0––––2–––––
-    A –––––2––––3–––––––––0–––––
-    E –––––3––––––––––––––––––––
-           G    C    D    Am                  
+Simple version below, meant to get folks started with this song. The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).         
 
 ## Intro riff
 
@@ -100,6 +80,28 @@ For the verse:
     The same old fears... I wish you were here
 
         [ repeat intro as desired, with or without solo, end ]
+
+## Chords needed
+
+For the intro:
+
+    E –––––3–––––3–––––3–––––
+    B –––––3–––––3–––––3–––––
+    G –––––0–––––0–––––0–––––
+    D –––––0–––––2–––––2–––––
+    A –––––2–––––––––––0–––––
+    E –––––3–––––––––––––––––
+           G    Em7  A7sus4
+
+For the verse:
+
+    E –––––3––––0––––2––––0–––––
+    B –––––3––––1––––3––––1–––––
+    G –––––0––––0––––2––––2–––––
+    D –––––0––––2––––0––––2–––––
+    A –––––2––––3–––––––––0–––––
+    E –––––3––––––––––––––––––––
+           G    C    D    Am       
 
 ## Strumming pattern
 
