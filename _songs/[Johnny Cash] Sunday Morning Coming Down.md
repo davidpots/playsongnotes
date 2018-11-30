@@ -6,15 +6,22 @@ song_title:  Sunday Morning Coming Down
 artist: Johnny Cash
 year: 1970
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23025270
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEUgFGKD8x8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## PDF print-out of this lesson
+- 2:36 Chords needed
+- 3:55 Strumming pattern (easy)
+- 7:18 Walk-down transition riffs
+- 11:40 Strumming pattern (advanced)
 
-If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/posts/23025270) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Capo notes
 
@@ -59,17 +66,15 @@ To play along with Kris Kristofferson's version, use a capo on the 2nd fret. To 
                                  D                                  G
             Of the sleeping city sidewalk and Sunday morning coming down
 
-    [Use same chords for remaining verse & chorus sections]
+    In the [G] park I saw a daddy with a [C] laughing little [D] girl that he was [G] swinging
+    And I [G] stopped beside a Sunday school and [Em] listened to the songs they were [D] singing
+    Then I [G] headed down the street and somewhere [C] far away a lonely bell was [G] ringing [Em]
+    And it [C] echoed through the [D] canyons like the [C] disappearing dreams of yester[D]day
 
-    In the park I saw a daddy with a laughing little girl that he was swinging
-    And I stopped beside a Sunday school and listened to the songs they were singing
-    Then I headed down the street and somewhere far away a lonely bell was ringing
-    And it echoed through the canyons like the disappearing dreams of yesterday
-
-            ...On a Sunday morning sidewalk I'm wishing, Lord, that I was stoned
-            'Cause there's something in a Sunday that makes a body feel alone
-            And there's nothing short of dying that's half as lonesome as the sound
-            Of the sleeping city sidewalk and Sunday morning coming down
+            [G]...On a Sunday morning [C] sidewalk I'm wishing, Lord, that I was [G] stoned
+            'Cause there's [G] something in a [D] Sunday that makes a body feel [G] alone
+            And there's [G] nothing short of [C] dying that's half as lonesome as the [G] sound
+            Of the [G] sleeping city [D] sidewalk and Sunday morning coming [G] down
 
 
 ## Walkdown riffs
