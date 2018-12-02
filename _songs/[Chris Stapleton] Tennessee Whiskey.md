@@ -200,19 +200,55 @@ Once you have this, if you want, you can try to squeeze in some quick chord stru
         A           A           Bm          Bm          Bm          Bm          A           A            
         1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
 
-## Intro riffs
+Or, you could go back to the prior exercise (bass note => single strum) and bring in a single walking bass note. As follows:
 
-Here's the lead licks that are heard in the intro to the song. Note, these licks all begin on the "4" count of the measure they're in. This includes when the song begins, which is on the "4" count of lead-in measure before the first full measure of the song. After each lick, the full chord that follows gets its complete strum on the "4" count of the following measure.
+    E ––––––––0–x–––––––––0–x–––––––––2–x–––––––––2–x–––––––––2–x–––––––––2–x–––––––––0–x–––––––––0–x–––
+    B ––––––––2–x–––––––––2–x–––––––––3–x–––––––––3–x–––––––––3–x–––––––––3–x–––––––––2–x–––––––––2–x–––
+    G ––––––––2–x–––––––––2–x–––––––––4–x–––––––––4–x–––––––––4–x–––––––––4–x–––––––––2–x–––––––––2–x–––
+    D ––––––––2–x–––––––––2–x–––––––––4–x–––––––––4–x–––––––––4–x–––––––––4–x–––––––––2–x–––––––––2–x–––
+    A ––0–––––––x–––0–––––––x–––2–––––––x–––2–––––––x–––2–––––––x–––2–––––––x–––0–––––––x–––0–––––––x–––
+    E ––––––––––x–0–––––––––x–2–––––––––x–2–––––––––x–2–––––––––x–2–––––––––x–0–––––––––x–0–––––––––x–0–
+        A           A           Bm          Bm          Bm          Bm          A           A            
+        1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
+
+## Intro licks
+
+Here's the lead licks that are heard in the intro to the song. Note, these licks all begin on the "4" count of the measure they're in (exception: the third lick starts on the "5" count). This includes when the song begins, which is on the "4" count of lead-in measure before the first full measure of the song. After each lick, the full chord that follows gets its complete strum on the "4" count of the following measure.
 
 Also, I recommend you try this riff using just one finger (left index) for all the lead notes. This helps the slides fall into place much more easily. Using your left index finger allows it to easily be in position to play the full chords, if that's your goal. See my video lesson for reference here - it will help big time.
 
-    E –––––––––––––––––––  ––––––––––––––––––2––  ––––––––––––––––––2––  E –––––––––––––––––––
-    B ––––––––––––––––2––  ––––––––––––––––––3––  ––––––––––––––––––3––  B ––––––––––––––––2––
-    G ––––––––––––––––2––  ––––––––––––––––––4––  ––––––––––––––––––4––  G ––––––––––––––––2––
-    D ––––––––––––––––2––  ––––––––––––––––––4––  ––––––––––––––––––4––  D ––––––––––––––––2––
-    A ––––––––0––/4–––0––  –/4––2––0––/4––2––2––  –/4––4––4––/4––2––2––  A –/4––2–––0h2–0––0––
-    E ––0––2–––––––––––––  –––––––––––––––––––––  –––––––––––––––––––––  E –––––––––––––––––––
-                      A                      Bm                     Bm                     A
+    E –––––––––––––––(0)–  –––––––––––––––––––(2)–  ––––––––––––––––––(2)–  E –––––––––––––––(0)–
+    B –––––––––––––––(2)–  –––––––––––––––––––(3)–  ––––––––––––––––––(3)–  B –––––––––––––––(2)–
+    G –––––––––––––––(2)–  –––––––––––––––––––(4)–  ––––––––––––––––––(4)–  G –––––––––––––––(2)–
+    D –––––––––––––––(2)–  –––––––––––––––––––(4)–  ––––––––––––––––––(4)–  D –––––––––––––––(2)–
+    A ––––––––0––/4––(0)–  ––/4––2––0––/4––2––(2)–  ––/4––4––4––2–––––(2)–  A ––/4––2––0––0––(0)–
+    E ––0––2–––––––––––––  –––––––––––––––––––––––  ––––––––––––––––––––––  E –––––––––––––––––––
+                      A                       Bm                      Bm                      A
+
+Typed out in tab form with the counting included, it would look like this. The key thing to notice here is how the first lick comes in on the 4-5-6 counts of a partial measure that preceeds the first full measure.
+
+    E ––––––––|–––––––0–––––––––––––––––––|–––––––2––––––––––––––––––|–––––––2––––––––––––––––––|–––––––0––––––––––––––––––|–
+    B ––––––––|–––––––2–––––––––––––––––––|–––––––3––––––––––––––––––|–––––––3––––––––––––––––––|–––––––2––––––––––––––––––|–
+    G ––––––––|–––––––2–––––––––––––––––––|–––––––4––––––––––––––––––|–––––––4––––––––––––––––––|–––––––2––––––––––––––––––|–
+    D ––––––––|–––––––2–––––––––––––––––––|–––––––4––––––––––––––––––|–––––––4––––––––––––––––––|–––––––2––––––––––––––––––|–
+    A ––––––0–|–4–––––0–––––––––––––4–2–0–|–4–2–––2––––––––––––––4–4–|–4–2–––2––––––––––––4–2–0–|–0–––––0––––––––––––––––0–|–
+    E ––0–2–––|–––––––––––––––––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––0–2–––|–
+                      A                           Bm                         Bm                         A
+        4 5 6   1 2 3 4 5 6   1 2 3 4 5 6   1 2 3 4 5 6  1 2 3 4 5 6   1 2 3 4 5 6  1 2 3 4 5 6   1 2 3 4 5 6  1 2 3 4 5 6  
+
+## Intro licks with added basslines and chord strums
+
+This is my favorite! It takes the distinctive intro licks, but also adds some chord strums as well as some tidbits from the bassline tab we looked at earlier.
+
+    E ––––––––|–––––––0–––––––––––––––––––|–––––––2––––––––––––––––––|–––––––2––––––––––––––––––|––––––––––––––––––––––––––|–
+    B ––––––––|–––––––2–––––––––––––––––––|–––––––3––––––––––––––––––|–––––––3––––––––––––––––––|–––––––2h3––––2–––––––––––|–
+    G ––––––––|–––––––2–––––––––––––––––––|–––––––4––––––––––––––––––|–––––––4––––––––––––––––––|–––––––2––––––2–––––––––––|–
+    D ––––––––|–––––––2–––––––––––––––––––|–––––––4––––––––––––––––––|–––––––4––––––––––––––––––|–––––––2h4––––2–––––––––––|–
+    A ––––––0–|–4–––––0–––––––––––0–4–2–0–|–4–2–––2––––––––––––––4–4–|–4–2–––2––––––––––0–4–2–0–|–0–––––0––––––0–––––––––0–|–
+    E ––0–2–––|–––––––––––2–––0–––––––––––|–––––––––––2––0–––2–0–––––|–––––––––––2––0–––––––––––|––––––––––––––––––––0–2–––|–
+                      A                           Bm                         Bm                         A
+        4 5 6   1 2 3 4 5 6   1 2 3 4 5 6   1 2 3 4 5 6  1 2 3 4 5 6   1 2 3 4 5 6  1 2 3 4 5 6   1 2 3 4 5 6  1 2 3 4 5 6  
+
 
 ## Thanks and good luck!
 
