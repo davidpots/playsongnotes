@@ -11,9 +11,26 @@ patreon_lesson_url: https://www.patreon.com/posts/23065293
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zMI1W85oLRo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+- 0:00 Playthrough
+- 1:38 Greeting & agenda
+- 3:44 Backing track overview
+- 4:41 Exercise 1: muted strumming
+- 6:26 Exercise 2: full strumming
+- 8:04 Exercise 3: walking bassline
+- 10:05 Exercise 4: bass note + strum
+- 10:27 Exercise 5: intro lead licks
+- 11:38 Exercise 6: intro lead w/ bass & strumming
+- 12:56 Backing track misc. tips & tricks
+- 14:30 Farewell & thanks
+
 ## Backing track
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iKFtc8WcWPs?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Note, this track begins with:
+1. 2 measures of drums only, to help you get in sync with the rhythm, which leads to...
+2. 1 full sequence of 8 measures, with the lead guitar track playing, and then...
+3. 5+ minutes of the 8 measure sequence repeating over and over, without the lead guitar
 
 ## Print-friendly version of this lesson
 
