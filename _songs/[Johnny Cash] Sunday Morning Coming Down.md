@@ -27,16 +27,6 @@ patreon_lesson_url: https://www.patreon.com/posts/23025270
 
 To play along with Kris Kristofferson's version, use a capo on the 2nd fret. To play along with Johnny Cash's version, use a capo on the 1st fret. In my video lesson, I don't use a capo. It's up to you!
 
-## Chords needed
-
-    E ––––3–––––0–––––0–––––2–––––
-    B ––––0–––––0–––––1–––––3–––––
-    G ––––0–––––0–––––0–––––2–––––
-    D ––––0–––––2–––––2–––––0–––––
-    A ––––2–––––2–––––3–––––––––––
-    E ––––3–––––0–––––––––––––––––
-          G     Em    C     D
-
 ## Lyrics w/ chords
 
             G                              C              D                G
@@ -75,6 +65,18 @@ To play along with Kris Kristofferson's version, use a capo on the 2nd fret. To 
             'Cause there's [G] something in a [D] Sunday that makes a body feel [G] alone
             And there's [G] nothing short of [C] dying that's half as lonesome as the [G] sound
             Of the [G] sleeping city [D] sidewalk and Sunday morning coming [G] down
+
+
+## Chords needed
+
+    E ––––3–––––0–––––0–––––2–––––
+    B ––––0–––––0–––––1–––––3–––––
+    G ––––0–––––0–––––0–––––2–––––
+    D ––––0–––––2–––––2–––––0–––––
+    A ––––2–––––2–––––3–––––––––––
+    E ––––3–––––0–––––––––––––––––
+          G     Em    C     D
+
 
 
 ## Walkdown riffs

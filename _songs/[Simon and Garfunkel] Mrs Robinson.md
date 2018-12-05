@@ -6,6 +6,8 @@ song_title:  Mrs. Robinson
 artist: Simon and Garfunkel
 year: 1968
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23132342
 ---
 
 ## Video lesson
@@ -22,48 +24,9 @@ For an intermediate lesson showing some of the runs and fills, see this:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHUoA3flT4E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Chords needed
+## Print-friendly version of this lesson
 
-    E ––––0–––0–––3–––0–––0–––––––0–––2–––2–––0–––0––––
-    B ––––0–––3–––0–––0–––1–––0–––1–––3–––1–––2–––2––––
-    G ––––1–––1–––0–––0–––0–––0–––2–––2–––2–––2–––0––––
-    D ––––2–––2–––0–––2–––2–––0–––2–––0–––0–––2–––2––––
-    A ––––2–––2–––2–––2–––3–––2–––0–––––––––––0–––0––––
-    E ––––0–––0–––3–––0––––––––––––––––––––––––––––––––
-          E   E7  G   Em  C  G/B  Am  D   D7  A   A7
-
-## Chord progressions
-
-Intro & filler riff:
-
-    E   /   /   /     ...played w/ bass-line riff
-
-Verse:
-
-    "We'd like to know a little bit about you for our files..."
-
-    E   /   /   E7   /   A   /   A7  /
-    D   G   C   Am   /   E   /   D7  /  
-
-Chorus:
-
-    "And here's to you, Mrs. Robinson..."
-
-    G   Em  G   Em   C   /   D   /
-    G   Em  G   Em   C   /   Am  /   -->  intro w/ riff
-
-## Strumming pattern
-
-There's some flexibility with how you strum, though I think the most important thing is to accent the 2nd (and possibly 4th) beat of every four-beat measure. You might start with practicing down-strums only, on the 2nd and 4th beats:
-
-            ↓               ↓      
-    1   +   2   +   3   +   4   +  
-
-Once you have that, you can add to it by adding some additional strums (played not quite as loud) on these other beats. Again, make sure the 2nd and 4th beats are where most of your accent is.
-
-            >               >      
-    ↓       ↓   ↑       ↑   ↓   ↑  
-    1   +   2   +   3   +   4   +   
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23132342). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Lyrics with chords
 
@@ -147,6 +110,51 @@ Once you have that, you can add to it by adding some additional strums (played n
                 E
         Hey hey hey...
 
+## Chords needed
+
+    E ––––0–––0–––3–––0–––0–––––––0–––2–––2–––0–––0––––
+    B ––––0–––3–––0–––0–––1–––0–––1–––3–––1–––2–––2––––
+    G ––––1–––1–––0–––0–––0–––0–––2–––2–––2–––2–––0––––
+    D ––––2–––2–––0–––2–––2–––0–––2–––0–––0–––2–––2––––
+    A ––––2–––2–––2–––2–––3–––2–––0–––––––––––0–––0––––
+    E ––––0–––0–––3–––0––––––––––––––––––––––––––––––––
+          E   E7  G   Em  C  G/B  Am  D   D7  A   A7
+
+## Chord progressions
+
+Intro & filler riff:
+
+    E   /   /   /     ...played w/ bass-line riff
+
+Verse:
+
+    "We'd like to know a little bit about you for our files..."
+
+    E   /   /   E7   /   A   /   A7  /
+    D   G   C   Am   /   E   /   D7  /  
+
+Chorus:
+
+    "And here's to you, Mrs. Robinson..."
+
+    G   Em  G   Em   C   /   D   /
+    G   Em  G   Em   C   /   Am  /   -->  intro w/ riff
+
+## Strumming pattern
+
+There's some flexibility with how you strum, though I think the most important thing is to accent the 2nd (and possibly 4th) beat of every four-beat measure. You might start with practicing down-strums only, on the 2nd and 4th beats:
+
+            ↓               ↓      
+    1   +   2   +   3   +   4   +  
+
+Once you have that, you can add to it by adding some additional strums (played not quite as loud) on these other beats. Again, make sure the 2nd and 4th beats are where most of your accent is.
+
+            >               >      
+    ↓       ↓   ↑       ↑   ↓   ↑  
+    1   +   2   +   3   +   4   +   
+
+
+
 ## Intro and fill riff
 
 Repeat this as desired (usually two or four times is what I do). If you prefer, you can strum the E-chord for the full duration of this 8-count section, while accenting the bass-line melody notes. Or you can play a straight E chord and ignore the melody notes – it's up to you.
@@ -222,7 +230,6 @@ Specifically:
     A –––––––––––3–––––––2–––––––0–––––––––––––––––––––––
     E –––––––––––––––––––––––––––––––––––––––––––––––––––
          D       D/C     D/B     D/A
-
 
 ## Thanks for reading!
 

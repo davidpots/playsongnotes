@@ -6,15 +6,76 @@ song_title:  Danny's Song
 artist: Loggins and Messina
 year: 1971
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/22930633
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QWKt_jnwM4o?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## PDF print-out of this lesson
+## Print-friendly PDF of this lesson available!
 
-If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
+[Support me on Patreon](https://www.patreon.com/posts/22930633) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+## Lyrics w/ chords
+
+    INTRO
+
+        D
+
+    VERSE
+
+        D                   C               Bm
+        ...People smile and tell me I'm the lucky one
+                  E7                            A
+        And we've just begun... think I'm gonna have a son
+        D               C              Bm              
+        He will be like she and me, as free as a dove
+            E7                                A
+        Conceived in love... the sun is gonna shine above
+
+    CHORUS
+              G                     A
+              ...And even though we ain't got money
+              D              Bm
+              ...I'm so in love with ya honey
+                  G               A                D      Bm
+              And everything will bring a chain of love------
+              G                     A
+              ...And in the morning when I rise
+              D                   C
+              ...Bring a tear of joy to my eyes
+                  Bm      E7    A
+              And tell me every---thing is gonna be all right
+
+                    (use same chords for remaining verse & chorus sections)
+
+        Seems as though a month ago I was quiet and shy
+        Never got high... oh, I was a sorry guy
+        And now I smile and face the girl that shares my name
+        Now I'm through with the game
+        This boy'll never be the same
+
+            [ chorus ]
+
+        Pisces Virgo rising is a very good sign
+        Strong and kind... and the little boy is mine
+        Now I see a family where there once was none
+        Now we've just begun
+        Yeah we're gonna fly to the sun
+
+            [ chorus ]
+
+        Love the girl who holds the world in a paper cup
+        Drink it up... love her and she'll bring ya luck
+        And if you find she helps your mind
+        Buddy, take her home
+        Don't ya live alone
+        Try to earn what lovers own
+
+            [ chorus ]
+
 
 ## Chords needed
 
@@ -113,64 +174,6 @@ And here are specific examples, per chords in the actual song:
          D                       Bm                      E7
 
 See my video lesson for context. Don't over think it! I'm sure you could get wild and crazy complicated with this - but for now, I want to get you started with what's above.
-
-## Lyrics w/ chords
-
-    INTRO
-
-        D
-
-    VERSE
-
-        D                   C               Bm
-        ...People smile and tell me I'm the lucky one
-                  E7                            A
-        And we've just begun... think I'm gonna have a son
-        D               C              Bm              
-        He will be like she and me, as free as a dove
-            E7                                A
-        Conceived in love... the sun is gonna shine above
-
-    CHORUS
-              G                     A
-              ...And even though we ain't got money
-              D              Bm
-              ...I'm so in love with ya honey
-                  G               A                D      Bm
-              And everything will bring a chain of love------
-              G                     A
-              ...And in the morning when I rise
-              D                   C
-              ...Bring a tear of joy to my eyes
-                  Bm      E7    A
-              And tell me every---thing is gonna be all right
-
-                    (use same chords for remaining verse & chorus sections)
-
-        Seems as though a month ago I was quiet and shy
-        Never got high... oh, I was a sorry guy
-        And now I smile and face the girl that shares my name
-        Now I'm through with the game
-        This boy'll never be the same
-
-            [ chorus ]
-
-        Pisces Virgo rising is a very good sign
-        Strong and kind... and the little boy is mine
-        Now I see a family where there once was none
-        Now we've just begun
-        Yeah we're gonna fly to the sun
-
-            [ chorus ]
-
-        Love the girl who holds the world in a paper cup
-        Drink it up... love her and she'll bring ya luck
-        And if you find she helps your mind
-        Buddy, take her home
-        Don't ya live alone
-        Try to earn what lovers own
-
-            [ chorus ]
 
 ## Good luck!
 
