@@ -8,7 +8,7 @@ permalink: /downloads/
     <p style="margin: 0;"><strong>Psst... I just launched a Patreon page!</strong> Get print-friendly PDFs for each new lesson I make for only $3/month. <a href="https://www.patreon.com/songnotes">Learn more »</a></p>
   </div> -->
 
-## Free PDF downloads
+## Free PDF sampler pack
 
 Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
 
@@ -31,7 +31,7 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <li><strong><a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">Honky Tonk Heroes</a></strong> by Wayon Jennings</li>
 </ul>
 
-## PDF Downloads available to Patreon supporters
+## Premium PDFs available to Patreon supporters
 
 All those supporting me on Patreon ($3/month) have access to this growing list of PDFs I've been creating since August 2018. I have been adding ~2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Here's what's currently available. Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
 
