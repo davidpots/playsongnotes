@@ -19,7 +19,7 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <li><strong><a href="/printables/[Game of Thrones] Theme Song.pdf">Game of Thrones</a></strong> theme song</li>
   <!-- <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li> -->
   <!-- <li><strong><a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">Sunday Morning Coming Down</a></strong> by Johnny Cash</li> -->
-  <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li>
+  <!-- <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li> -->
   <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li>
   <li><strong><a href="/printables/[Neil Young] Harvest Moon.pdf">Harvest Moon</a></strong> by Neil Young</li>
   <li><strong><a href="/printables/[Nirvana] About a Girl.pdf">About a Girl</a></strong> by Nirvana</li>
