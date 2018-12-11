@@ -6,11 +6,66 @@ song_title:  Knockin' on Heaven's Door
 artist: Bob Dylan
 year: 1973
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23257233
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cZFvQcTLkhE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23257233). For a few bucks a month, you get access to PDFs of all my new lessons.
+
+## Lyrics w/ chords
+
+    INTRO
+        G     D     Am    Am
+        G     D     C     C         
+                        ....play twice
+
+    VERSE
+        G                 D                Am
+        ...Mama, take this badge off of me
+        G           D             C
+        ...I can't use it anymore
+        G                   D                 Am
+        ...It's gettin' dark, too dark to see
+        G             D                       C
+        ...I feel I'm knockin' on heaven's door
+
+    CHORUS
+        G                D                      Am
+        ...Knock, knock, knockin' on heaven's door
+        G                D                      C
+        ...Knock, knock, knockin' on heaven's door
+        G                D                      Am
+        ...Knock, knock, knockin' on heaven's door
+        G                D                      C
+        ...Knock, knock, knockin' on heaven's door
+
+    VERSE #2
+        G             D                 Am
+        ...Mama put my guns in the ground
+        G          D                 C
+        ...I can't shoot them anymore
+        G                 D                  Am
+        ...That cold black cloud is comin' down
+        G               D                    C
+        ...I feel I'm knockin' on heaven's door
+
+    CHORUS
+        G                D                      Am
+        ...Knock, knock, knockin' on heaven's door
+        G                D                      C
+        ...Knock, knock, knockin' on heaven's door
+        G                D                      Am
+        ...Knock, knock, knockin' on heaven's door
+        G                D                      C
+        ...Knock, knock, knockin' on heaven's door
+
+        [repeat chorus as desired, end]
 
 ## Chords needed
 
@@ -36,12 +91,10 @@ As I note in my video lesson, if you're having trouble with the chord transition
 
 ## Chord progression
 
-Repeat this for the entire song:
+Repeat this for the entire song. Intro, verse, and chorus -- they all use this basic progression. Remember, 4 counts per measure.
 
     G . . . D . . . Am . . . Am . . .
     G . . . D . . . C  . . . C  . . .
-
-Intro, verse, and chorus -- they all use this basic progression.
 
 ## Strumming pattern
 
@@ -72,32 +125,6 @@ And finally, when you can do what's above reliably well enough, add a single ups
 
 Repeat this pattern for the entire song. Though of course, should you wish, you could get creative and use any strumming pattern you like.
 
-## Lyrics w/ chords
-
-Again, remember that the whole song uses the same progression -- so I'm not going to type it out for all the verses and choruses. Here's a little to get you started:
-
-    G                 D                Am
-    ...Mama, take this badge off of me
-    G           D             C
-    ...I can't use it anymore
-    G                   D                 Am
-    ...It's gettin' dark, too dark to see
-    G             D                       C
-    ...I feel I'm knockin' on heaven's door
-
-And the chorus:
-
-    G                D                      Am
-    ...Knock, knock, knockin' on heaven's door
-    G                D                      C
-    ...Knock, knock, knockin' on heaven's door
-    G                D                      Am
-    ...Knock, knock, knockin' on heaven's door
-    G                D                      C
-    ...Knock, knock, knockin' on heaven's door
-
-Use this same progression for each verse and each chorus.
-
 ## Flourish and fills
 
 Here's a few simple ways to spice up the simple chord progression used in this song.
@@ -118,7 +145,7 @@ At the end of every chorus, I often like to "walk down" from C to G, meaning I'l
 
 In the Bob Dylan version, as well as my video lesson, you can hear times when there's the high-E string ringing nicely -- it's because of an added pinky on either the C or the Am chord. Listen along for context, but quite simply, here's how you play it:
 
-    E –––3–––––3––––    <-- add your right pinky on this 3rd fret note
+    E –––3–––––3––––    <-- add your left pinky on this 3rd fret note
     B –––1–––––1––––
     G –––0–––––2––––
     D –––2–––––2––––
