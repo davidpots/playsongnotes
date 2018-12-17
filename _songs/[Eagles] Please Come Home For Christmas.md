@@ -2,7 +2,7 @@
 layout: song
 has_video_lesson: true
 title: Guitar lesson for "Please Come Home for Christmas" by The Eagles
-song_title:  Hotel California
+song_title:  Please Come Home for Christmas
 artist: The Eagles
 year: 1978
 categories: guitar
@@ -22,6 +22,12 @@ Coming soon!
 <!-- [Support me on Patreon](https://www.patreon.com/posts/20970359) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
 
 Coming soon!
+
+## Backing track
+
+You can currently find the backing track here:
+
+<audio controls src="/audio/song-eagles-please-come-home-for-xmas-temp-backing-track.mp3">Your browser does not support the <code>audio</code> element.</audio>
 
 ## Lyrics with chords
 
