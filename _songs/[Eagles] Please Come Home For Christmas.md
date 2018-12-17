@@ -6,22 +6,21 @@ song_title:  Please Come Home for Christmas
 artist: The Eagles
 year: 1978
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url:  -->
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/sEEG2eSfvB8?showinfo=0" frameborder="0" allowfullscreen></iframe><br /> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwKxgI-6q-g?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Print-friendly PDF of this lesson available!
 
-<!-- [Support me on Patreon](https://www.patreon.com/posts/20970359) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
+[Support me on Patreon](https://www.patreon.com/posts/printable-lesson-23379862) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Backing track
 
