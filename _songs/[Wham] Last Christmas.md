@@ -6,12 +6,14 @@ song_title:  Last Christmas
 artist: Wham!
 year: 1984
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23522694
 ---
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMQNMJklGO4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- Coming soon! -->
 
 Lesson timestamps:
 
@@ -21,6 +23,10 @@ Lesson timestamps:
 - 4:18 Strumming patterns
 - 7:30 Modifying each chord shape
 - 10:21 Mixing the chorus melody w/ chords
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23522694). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Lyrics w/ chords
 
