@@ -26,7 +26,10 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 
 You can currently find the backing track here. Note, this is only the first verse - looping over and over. The idea is to let you practice your chords, strumming, etc - with a steady background track to have on for reference.
 
-<audio controls src="/audio/song-eagles-please-come-home-for-xmas-temp-backing-track.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWMQ7XGOBk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+
+<!--
+<audio controls src="/audio/song-eagles-please-come-home-for-xmas-temp-backing-track.mp3">Your browser does not support the <code>audio</code> element.</audio> -->
 
 ## Lyrics with chords
 
