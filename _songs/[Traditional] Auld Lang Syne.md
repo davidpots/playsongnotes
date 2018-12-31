@@ -6,22 +6,21 @@ song_title:  Auld Land Syng
 artist: (traditional)
 year: 1788
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23649592/
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: _______ -->
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/________?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/le3yjFIo748?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](________). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23649592/). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Guitar arrangement
 
@@ -94,6 +93,18 @@ If the F7 section gives you trouble, use this voicing. I got this via Justin San
     E –––––               
         F7     
 
+### Switching from the C to F7
+
+The most difficult part of this song, for me, is switching from the C to the F7. Here's one important tip when practicing this - which is your right pinky is staying on the high-E string for both chords! Specifically, it's moving up from the 3rd fret to the 5th fret (of the high E-string). This is a helpful thing to keep in mind, as it is one less finger that needs to switch strings. Here's a simple deconstruction of this progression to practice - do it slow over and over again, until you can do it without mistakes. From there, slowly speed it up until you can play it at the pace of the normal song.
+
+    E –––3–––5–––   <= left pinky stays on this string for both chords!
+    B –––1–––4–––
+    G –––0–––5–––
+    D –––2–––3–––
+    A –––3–––––––
+    E –––––––––––
+         C   F7  
+
 ### F major chord
 
 Don't let the F chord in the 7th measure throw you off. You don't need to do any barring! Here's two ways to play it. The first way (left) shows you a 4-string version, where you're only playing the thickest four strings. However, if this voicing is too difficult - try the right version - which ignores the 6th (lowest) string. This lets you only worry about 3 strings, which is much easier to switch to in a hurry. In a pinch, I'll use this version so I can be sure I stay in time (especially when playing with people singing).
@@ -106,17 +117,6 @@ Don't let the F chord in the 7th measure throw you off. You don't need to do any
     E ––1–– <= left index                 E –––––       
         F                                     F*    
 
-### Switching from the C to F7
-
-The most difficult part of this song, for me, is switching from the C to the F7. Here's one important tip when practicing this - which is your right pinky is staying on the high-E string for both chords! Specifically, it's moving up from the 3rd fret to the 5th fret (of the high E-string). This is a helpful thing to keep in mind, as it is one less finger that needs to switch strings. Here's a simple deconstruction of this progression to practice - do it slow over and over again, until you can do it without mistakes. From there, slowly speed it up until you can play it at the pace of the normal song.
-
-    E –––3–––5–––   <= left pinky stays on this string for both chords!
-    B –––1–––4–––
-    G –––0–––5–––
-    D –––2–––3–––
-    A –––3–––––––
-    E –––––––––––
-         C   F7  
 
 ## Lyrics
 
