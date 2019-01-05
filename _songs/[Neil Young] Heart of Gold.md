@@ -6,6 +6,8 @@ song_title:  Heart of Gold
 artist: Neil Young
 year: 1972
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23773015/
 ---
 
 ## Video lesson
@@ -23,18 +25,24 @@ Video timestamps:
 
 ## PDF print-out of this lesson
 
-<!-- If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there! -->
-
-Coming soon!
+[Support me on Patreon](https://www.patreon.com/posts/23773015) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Lyrics with chords
 
     (~85 BPM)
 
     INTRO
-        Em7  /   D   Em  x2 (with riff)
-        Em   C   D   G   x3 (with harmonica)
-        Em7  /   D   Em  x1 (with riff)
+        E ––––––––––0–––0–––0–––0–––0–––0–––2–––––––2–––0––––––––––––––––––|–––––
+        B ––––––––––3–––3–––3–––3–––3–––3–––3–––––––3–––0––––––––––––––––––|–––––
+        G ––––––––––0–––0–––0–––0–––0–––0–––2–––––––2–––0––––––––––––––––––|–––––
+        D ––––––––––2–––2–––2–––2–––2–––2–––0–––––––0–––2–––––––––––0–––2––|–––––
+        A ––––––––––2–––2–––2–––2–––2–––2–––––––––––––––2–––––––0h2––––––––|–––––
+        E ––0–––––––0–––0–––0–––0–––0–––0–––––––––––––––0––––––––––––––––––|––0––
+            Em7                             D           Em
+            1   +   2   +   3   +   4   +   1   +   2   +   3   +   4   +     1
+
+        And then play:    Em   C   D   G   x3 (with harmonica)
+          Followed by:    Em7  /   D   Em  x1 (with riff)
 
     VERSE
         Em           C     D            G   
