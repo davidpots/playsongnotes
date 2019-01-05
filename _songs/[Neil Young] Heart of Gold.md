@@ -10,9 +10,16 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/R_X4GnNuMtQ?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hTIxx5E7i0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+Video timestamps:
+
+- 0:00 Preview & Greeting
+- 1:14 How to play the riff
+- 7:33 Chords needed
+- 9:35 Strumming pattern
+- 15:10 Full playthrough w/ lyrics
+- 17:57 Farewell
 
 ## PDF print-out of this lesson
 
@@ -25,9 +32,9 @@ Coming soon!
     (~85 BPM)
 
     INTRO
-        Em7  /   D   Em  x2
-        Em   C   D   G   x4 (with harmonica)
-        Em7  /   D   Em  x1
+        Em7  /   D   Em  x2 (with riff)
+        Em   C   D   G   x3 (with harmonica)
+        Em7  /   D   Em  x1 (with riff)
 
     VERSE
         Em           C     D            G   
@@ -48,7 +55,7 @@ Coming soon!
             ...And I'm getting old
 
     BREAK
-        Em   C   D   G   x4 (with harmonica)
+        Em   C   D   G   x3 (with harmonica)
         Em7  /   D   Em  x1
 
     VERSE
@@ -70,7 +77,7 @@ Coming soon!
             ...And I'm getting old
 
     BREAK
-        Em   C   D   G   x4 (with harmonica)
+        Em   C   D   G   x3 (with harmonica)
 
     CHORUS
             Em7                        D           Em
@@ -126,30 +133,30 @@ If you want an absolute simplified version of this, understand here are the chor
 
 If you're just starting out, I recommend doing a single down-strum on each of the 4 counts of every measure. Practice this strumming motion without any chords at first (mute all the strings with your left hand), and when comfortable try adding the verse progression of Em-C-D-G with this pattern.
 
-    1   +   2   +   3   +   4   +   
+    1   +   2   +   3   +   4   +             D = downstrum
     D       D       D       D   
 
 From there, you can fill things out a bit by doing down-strums on every eighth note - which means on every count, but also on the "+" count between the quarter notes. However, you'll want to keep your accented strums on the beat (signified by a ">" symbol here).
 
-    1   +   2   +   3   +   4   +   
-    D   D   D   D   D   D   D   D    
+    1   +   2   +   3   +   4   +             D = downstrum
+    D   D   D   D   D   D   D   D             > = accented strum
     >       >       >       >  
 
 And finally, to fill things out a bit more - you can add an up-strum on the sixteenth count just after the "2+" and also after the "4+". Maintain your accented strums on the quarter note counts (each numbered beat).
 
-    1 e + a 2 e + a 3 e + a 4 e + a
-    D   D   D   D U D   D   D   D U  
-    >       >       >       >  
+    1 e + a 2 e + a 3 e + a 4 e + a           D = downstrum
+    D   D   D   D U D   D   D   D U           U = upstrum
+    >       >       >       >                 > = accented strum
 
 ## "And I'm getting old..."
 
 The one section that deviates from the core on-the-beat strumming is when he sings "And I'm getting old..." -- which happens in the chorus sections. It's important to get this timing right, if you can, as it adds some nice rhythmic distinction to the song. Notice how you're playing on the same 3 counts for each of the two measures shown here (the "1", "1+", and "2+" counts of each measure). You're on the C chord for the first 5-6 counts, and then switch to the G for the final 2-3 counts. You can fill in additional strums in the back part of each measure, but the counts shown below are where you'll want to place emphasis. And for extra credit even further, try to apply a mute of all the strings on the "2" count of each measure. See my video lesson for reference.
 
-               "And I'm getting old..."
-        C   /       /                   C   /       G
-        1   +   2   +   3   +   4   +   1   +   2   +   3   +   4   +
-        v   v       v           v   v ^ v   v       v           v   v ^
-        >   >       >                   >   >       >                   
+           "And I'm getting old..."
+    C   /       /                   C   /       G
+    1   +   2   +   3   +   4   +   1   +   2   +   3   +   4   +
+    v   v       v           v   v ^ v   v       v           v   v ^
+    >   >       >                   >   >       >                   
 
 ## Chord progression cheat sheet
 
@@ -157,7 +164,7 @@ For a bird's eye view of the the progressions needed, here's a write up without 
 
     INTRO
     Em7 . . . D . Em .    x2, with riff
-    Em  . C . D . G  .    x4, with harmonica
+    Em  . C . D . G  .    x3, with harmonica
     Em7 . . . D . Em .    x1, with riff
 
     VERSE
