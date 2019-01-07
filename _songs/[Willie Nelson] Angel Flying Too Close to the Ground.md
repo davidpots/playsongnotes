@@ -6,6 +6,8 @@ song_title:  Angel Flying Too Close to the Ground
 artist: Willie Nelson
 year: 1980
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23810049
 ---
 
 ## Video lesson
@@ -21,6 +23,10 @@ Lesson agenda:
 - 7:32 Strumming pattern
 - 9:17 Walk-up and walk-down tabs
 - 11:13 Playthrough
+
+## PDF print-out of this lesson
+
+[Support me on Patreon](https://www.patreon.com/posts/23810049) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Lyrics w/ chords
 
