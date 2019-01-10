@@ -6,16 +6,41 @@ song_title:  Say It Ain't So
 artist: Weezer
 year: 1994
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23879773
 ---
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9kbA1RnvEjo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Lyrics
+Lesson timestamps:
 
-    INTRO
-        C#m   G#    A    E         ...played with riff
+- 0:00 Playthrough
+- 1:55 About this lesson
+- 3:24 Chords used
+- 5:37 Chord progression timing
+- 6:01 Main riff
+- 11:38 Verse strum, reggae style
+- 13:27 Verse strum, full chords
+- 15:16 Chorus
+- 17:21 Bridge
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23879773). For a few bucks a month, you get access to PDFs of all my new lessons.
+
+## Chords w/ lyrics
+
+    INTRO (play twice, then let E chord ring)
+
+        E –––4–––––4–x–x–––4–––––––––––––––––––––––5–x–x–––0––––––––––––––––
+        B –––4h5–––5–x–x–––4–––––––––––––0–––––––––5–x–x–––0––––––––––––––––
+        G –––4–––––4–x–x–––5–––––––––––5–––––5/6–––6–x–x–––1–––––––––––9\–––
+        D –––4h6–––6–x–x–––6–––––––––6–––––––6/7–––7–x–x–––2–––––––––––9\–––
+        A –––4–––––––––––––6–––––––6–––––––––6/7–––––––––––2––––––9h11––––––
+        E –––––––––––––––––4–––4–––––––––––––4/5–––––––––––0–––0––––––––––––
+             C#m           G#                  A           E
 
     INTERLUDE
 
@@ -117,7 +142,7 @@ Most of the song, except for the bridge, uses these 4 chords in this order (repe
 
 The timing is generally as follows. Note this is a group of 3 beats, then 5 beats, then 3 beats, then 5 beats. As opposed to all measures being 4 beats equally.
 
-    C#m         G#              A           E
+    C#m         G#                  A           E
     /   /   /   /   /   /   /   /   /   /   /   /   /   /   /   /   
     1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4
 
