@@ -44,6 +44,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 <li><strong><a href="{{song.patreon_lesson_url}}">{{ song.song_title }}</a></strong> <span class="small">by {{ song.artist }}</span></li>
       {% endif %}
     {% endfor %}
+    <li>...new songs added every week</li>
 </ul>
 
 ### Warm Up Exercises:
