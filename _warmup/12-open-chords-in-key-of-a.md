@@ -1,10 +1,10 @@
 ---
 layout: warmup
-title: Open chords in the Key of E
+title: Open chords in the Key of A
 slug: "12"
 date: 2018-12-26
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/23572977/
+patreon_lesson_url: https://www.patreon.com/posts/23932562/
 ---
 
 ## Video Overview
@@ -13,9 +13,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23572977/
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23572977/). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23932562/). For a few bucks a month, you get access to PDFs of all my new lessons. -->
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## Editor's notes
 
