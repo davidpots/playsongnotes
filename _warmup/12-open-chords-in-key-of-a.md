@@ -13,7 +13,7 @@ patreon_lesson_url: https://www.patreon.com/posts/23932562/
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23932562/). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23932562/). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 <!-- Coming soon... -->
 
