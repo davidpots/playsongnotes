@@ -6,40 +6,29 @@ song_title:  Pancho and Lefty
 artist: Willie Nelson and Merle Haggard
 year: 1972
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/23986615
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9h9OfWGIK8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Editor's notes
+## Print-friendly version of this lesson
 
-Another song I very recently fell deeply in love with for the first time. I first came across the Willie & Merle version (which I enjoyed), and then discovered Townes Van Zandt (who wrote this song) – who I embarrassingly didn't even know existed. I began devouring his music, and this song in particular. Aside from his finger style work, I wouldn't describe his guitar arrangements as flashy or readily distinct as Willie's -- which really allows for his lyrics to shine through in an unreal way. It was hearing his version of the song that really let the raw emotion and sentiment creep in. I couldn't get enough, and of course being in love with Willie's guitar style right now -- went to him and Merle's version so I could finally learn that very cool intro riff. One day I'll learn the solo, and do a lesson for it! But it will probably be a bit down the road. In the meantime, enjoy.
-
-## Chords needed
-
-    E ––––2–––3–––0–––2––––
-    B ––––3–––0–––2–––3––––
-    G ––––2–––0–––2–––4––––
-    D ––––0–––0–––2–––4––––
-    A ––––––––2–––0–––2––––
-    E ––––––––3––––––––––––
-          D   G   A   Bm
-
-## Chord progression cheat sheet
-
-Verse:
-
-    | D . . . | D . . . | A . . . | A . . . |
-    | G . . . | G . . . | D . . . | A . . . |
-
-Chorus:
-
-    | G  . . . | G  . . . | D . . . | G . . . |
-    | Bm . . . | G  D  A . . . | A  . . . |
-    | G  . . . | Bm . . . | Bm . . . |
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23986615). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Lyrics w/ chords
+
+    INTRO RIFF:
+
+    E ––10––––9–––7–––9–––7–––5–5–––––––5–––––3–––2–––3–––2–––0–2––––––––
+    B ––10––––10––8–––10––8–––5–7–––––––7–––––3–––3–––3–––3–––3–3––––––––
+    G ––11––––9–––7–––9–––7–––7–7–––––––7–––––4–––2–––4–––2–––2–2––––––––
+    D ––0–––––––––––––––––––––––––––––––0––––––––––––––––––––––––––––––––
+    A –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
     D                                A
     ...Living on the road my friend... was gonna keep you free and clean
@@ -103,7 +92,9 @@ Chorus:
         Bm                   G    D  A           G          Bm
         ...They only let him slip a--way, out of kindness I suppose
 
+## Editor's notes
 
+Another song I very recently fell deeply in love with for the first time. I first came across the Willie & Merle version (which I enjoyed), and then discovered Townes Van Zandt (who wrote this song) – who I embarrassingly didn't even know existed. I began devouring his music, and this song in particular. Aside from his finger style work, I wouldn't describe his guitar arrangements as flashy or readily distinct as Willie's -- which really allows for his lyrics to shine through in an unreal way. It was hearing his version of the song that really let the raw emotion and sentiment creep in. I couldn't get enough, and of course being in love with Willie's guitar style right now -- went to him and Merle's version so I could finally learn that very cool intro riff. One day I'll learn the solo, and do a lesson for it! But it will probably be a bit down the road. In the meantime, enjoy.
 
 ## Intro riff
 
@@ -130,6 +121,29 @@ At first, I was convinced this was it -- and for sure, if you wanted to you coul
     A –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
     E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+## Chords needed
+
+    E ––––2–––3–––0–––2––––
+    B ––––3–––0–––2–––3––––
+    G ––––2–––0–––2–––4––––
+    D ––––0–––0–––2–––4––––
+    A ––––––––2–––0–––2––––
+    E ––––––––3––––––––––––
+          D   G   A   Bm
+
+## Chord progression cheat sheet
+
+Verse:
+
+    | D . . . | D . . . | A . . . | A . . . |
+    | G . . . | G . . . | D . . . | A . . . |
+
+Chorus:
+
+    | G  . . . | G  . . . | D . . . | G . . . |
+    | Bm . . . | G  D  A . . . | A  . . . |
+    | G  . . . | Bm . . . | Bm . . . |
 
 ## Solo
 
