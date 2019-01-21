@@ -11,6 +11,17 @@ patreon_lesson_url: https://www.patreon.com/posts/24033565/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OGAMzzpeIew?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Video timestamps:
+
+- 0:00 Playthrough & lesson overview
+- 1:44 Start w/ the chords & progression
+- 3:00 Alternating bass notes
+- 4:41 Alternate chord voicings for G and A
+- 6:55 Adding palm muting
+- 7:35 Walking up to each chord
+- 9:23 Adding pinky flourish notes
+- 10:48 Putting it all together
+
 <!-- Coming soon... -->
 
 ## Print-friendly version of this lesson
