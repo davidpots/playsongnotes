@@ -6,11 +6,92 @@ song_title:  Light On
 artist: Maggie Rogers
 year: 2019
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24140548
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bEqojO6_u2s?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24140548/). For a few bucks a month, you get access to PDFs of all my new lessons.
+
+## Lyrics w/ chords
+
+    * capo 2nd fret
+
+    INTRO
+
+        E ––0––|–––––––––––––––       E ––3––|–––––––––––––––       E ––0––|–––––––––––––––
+        B ––1––|––1–0––1–1––0––       B ––0––|––1–0––1–1––0––       B ––1––|––1–0––1–1––0––
+        G ––0––|––0–0––0–0––0–– x1    G ––0––|––0–0––0–0––0–– x1    G ––2––|––2–2––2–2––2–– x2
+        D ––2––|–––––––––––––––       D ––0––|–––––––––––––––       D ––3––|–––––––––––––––
+        A ––3––|–––––––––––––––       A ––2––|–––––––––––––––       A –––––|–––––––––––––––
+        E –––––|–––––––––––––––       E ––3––|–––––––––––––––       E –––––|–––––––––––––––
+            C                             G                            Fmaj7       
+
+    VERSE
+                    C
+        Would you believe me now...
+             G                             Fmaj7
+        If I told you I got caught up in a wave, almost gave it away
+                  C
+        Would you hear me out...     
+             G                            Fmaj7             
+        If I told you I was terrified for days, thought I was gonna break
+
+    PRE-CHORUS
+            Am                               G
+            Oh, I couldn't stop it, tried to slow it all down
+            Fmaj7
+            Crying in the bathroom, had to figure it out
+                 Am                        G                Fmaj7
+            With everyone around me saying, "You must be so happy now"
+
+    CHORUS
+                                C                            G
+                Oh, if you keep reaching out, then I'll keep coming back
+                              Fmaj7
+                And if you're gone for good, then I'm okay with that
+                Am                           G          Em                 Fmaj7
+                ...If you leave the light on, then I'll leave the light on
+
+                     C
+        And do you believe me now
+               G                               Fmaj7
+        That I always had the best intentions, babe? Always wanted to stay...
+                C
+        Can you feel me now
+                 G                        Fmaj7
+        That I'm vulnerable in oh-so many ways? Oh, and I'll never change
+
+            Am                               G
+            Oh, I couldn't stop it, tried to figure it out
+                Fmaj7       
+            But everything kept moving, and the noise got too loud
+                 Am                        G
+            With everyone around me saying, "you should be so happy now"
+
+                [chorus]
+
+                Am     G               Fadd9
+                ...Oh, leave the light on
+                Am               G               Fadd9
+                ...Oh, would you leave the light on
+
+                [chorus]
+
+## Chord shapes used
+
+    E –––0––––3––––0––––0––––0–––
+    B –––1––––3––––1––––1––––0–––
+    G –––0––––0––––2––––2––––0–––
+    D –––2––––0––––3––––2––––2–––
+    A –––3––––2–––––––––0––––2–––
+    E ––––––––3––––––––––––––0–––
+         C    G  Fmaj7  Am   Em
 
 ## Intro tab, easiest version
 
@@ -22,7 +103,7 @@ The easiest way to approach this is to put your hands in the chord shapes below,
     D ––2––|–––––––––––––––    D ––0––|–––––––––––––––    D ––3––|–––––––––––––––      the on/off melody note
     A ––3––|–––––––––––––––    A ––2––|–––––––––––––––    A –––––|–––––––––––––––      on all 3 chords
     E –––––|–––––––––––––––    E ––3––|–––––––––––––––    E –––––|–––––––––––––––
-        C                          G                        Fmaj7       
+        C                          G                         Fmaj7       
 
 ## Intro tab, advanced
 
@@ -42,37 +123,6 @@ Here's the timing chart I used when training my fingers to play their parts inde
     Melody rhythm => |     O     0     O     O   0     |         O = index finger on
                      | 1 e + a 2 e + a 3 e + a 4 e + a |         0 = index finger off
     Thumb rhythm  => | x           x       x       x   |
-
-## Lyrics w/ chords
-
-Capo 2nd fret.
-
-    VERSE
-                C
-    Would you believe me now...
-         G                             Fmaj7
-    If I told you I got caught up in a wave, almost gave it away
-              C
-    Would you hear me out...     
-         G                            Fmaj7             
-    If I told you I was terrified for days, thought I was gonna break
-
-    PRE-CHORUS
-
-        Am                               G
-        Oh, I couldn't stop it, tried to slow it all down
-        Fmaj7
-        Crying in the bathroom, had to figure it out
-             Am                        G                Fmaj7
-        With everyone around me saying, "You must be so happy now"
-
-    CHORUS
-                            C                            G
-            Oh, if you keep reaching out, then I'll keep coming back
-                          Fmaj7
-            And if you're gone for good, then I'm okay with that
-            Am                           G          Em                 Fmaj7
-            ...If you leave the light on, then I'll leave the light on
 
 ## Best videos of this song
 
