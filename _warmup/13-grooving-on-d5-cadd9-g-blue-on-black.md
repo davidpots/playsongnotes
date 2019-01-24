@@ -54,8 +54,8 @@ Big picture, the three chords you'll need for this exercise are D5, Cadd9, and G
 
 For the D5 chord, here's a comparison to a typical D-major chord. The goal with the D5 is to not play the thinnest (high E) string. If you can, the ideal is to mute it (by lightly letting one of your left-hand fingers touch it, but not press it down). This will let you strum it as part of the chord, but have it not make a sound.
 
-    E |–––2–––  <== left middle finger     E |–––x–––  <== don't play this string!
-    B |–––3–––  <== left right finger      B |–––3–––  <== left right finger
+    E |–––2–––  <== left middle finger     E |–––––––  <== don't play this string!
+    B |–––3–––  <== left ring finger       B |–––3–––  <== left ring finger
     G |–––2–––  <== left index finger      G |–––2–––  <== left index finger
     D |–––0–––                             D |–––0–––
     A |–––––––                             A |–––––––
