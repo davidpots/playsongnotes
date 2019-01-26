@@ -3,10 +3,9 @@ layout: warmup
 title: "Blue on Black" grooving on D5-Cadd9-G
 slug: "13"
 date: 2019-01-26
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24237877/
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/23932562/ -->
 
 ## Video Overview
 
@@ -16,9 +15,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23932562/ -->
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23932562/). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24237877/). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## Editor's notes
 
