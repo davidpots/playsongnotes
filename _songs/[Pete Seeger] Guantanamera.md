@@ -62,6 +62,10 @@ Video timestamps:
 
         [ chorus ]
 
+## Editor's notes
+
+Guantanamera is a song I've had on my list for a few years now, and after a couple recent viewer requests it found itself on the top of the list. I first heard it via Pete Seeger, and in spending some time learning it discovered several other fun versions of it (The Sandpipers version is probably my favorite, musically). I'll teach you the chords (no capo), some easy strumming patterns, and then crank up the difficulty a bit and show you a fancy intro riff as well as a few ways to add flourish while playing. I hope you enjoy!
+
 ## On capo and chords used
 
 My approach with this lesson is to show you this song with the simplest possible chords, using standard tuning. As such, I'm teaching in the key of A –– and only using the chords of A, D, and E. No doubt, there are more complicated ways to play it (e.g., Pete Seeger looks like he uses drop-D tuning and an E-minor chord) –– but I think the spirit of this song can totally be captured with these 3 chords, so I'm choosing to use them and keep it beginner friendly. Using these chords, here's where to put the capo if you want to play along with some famous versions of this song:
@@ -141,8 +145,7 @@ One tricky part with this riff is making the E-major chord work. Here's a finger
 ## Additional information about this song
 
 ### Financial Times article about this song's history
-Here's a short article about this song's history, and the ways it has been adapted over the years. Very cool stuff.
-https://www.ft.com/content/2a530e04-c407-11e4-a02e-00144feab7de
+[Here's a short article](https://www.ft.com/content/2a530e04-c407-11e4-a02e-00144feab7de) about this song's history, and the ways it has been adapted over the years. Very cool stuff.
 
 ### Highest resolution video of Pete Seeger playing this that I've found
 It looks like he is playing capo 6, in drop-D, using the chords D-G-A. However, to my ear, it sounds like he's playing A-D-E (with capo 6). Either way, it's nice we have this video!
