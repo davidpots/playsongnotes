@@ -1,0 +1,153 @@
+---
+layout: song
+has_video_lesson: true
+title: Guitar lesson for "Guantanamera" by Pete Seeger
+song_title:  Guantanamera
+artist: Pete Seeger
+year: 1963
+categories: guitar
+---
+
+## Video lesson
+
+Coming soon!
+
+Video timestamps:
+
+- 0:00 Playthrough & overview
+- 1:36 Chords needed
+- 3:45 Verse & Chorus progressions
+- 6:10 Strumming patterns
+- 11:04 Fancy intro riff
+- 15:57 Adding melodic flourish
+- 17:39 Farewell
+
+## Lyrics w/ chords
+
+    (Capo 4 = Pete Seeger's Carnegie Hall version) (Capo 6 = The Sandpipers 1966 version)
+
+    INTRO
+        A
+
+    CHORUS
+        D             E         A             E
+        Guantanamera... guajira guantanamera...
+        A       D      E            A       D      E
+        Guantanamer----a... guajira guantanamer----a...
+
+    VERSE
+              A         D    E           A          D      E
+    Yo soy un hombre sincero... de donde crecen las palmas
+              A         D    E          D              E
+    Yo soy un hombre sincero... de donde crec----en las palmas
+               A       D    E              A          D    E
+    Y antes de morirme quiero... echar mis versos del alm--a
+
+        [ chorus ]
+
+             A              D     E          A           D    E
+    Mi verso es de un verde claro... y de un carmin encendido
+             A              D     E          D           E
+    Mi verso es de un verde claro... y de un carmin encendido
+             A       D       E                  A              D   E
+    Mi verso es un ciervo heri--do... que busca en el monte ampar--o
+
+        [ chorus ]
+            A            D      E         A       D          E
+    Con los pobres de la tierra... quiero yo mi suerte echar
+            A            D      E         D               E
+    Con los pobres de la tierra... quiero yo mi suerte echar
+          A          D    E             A         D   E
+    El arroyo de la sierra... me complace mas que el mar
+
+        [ chorus ]
+
+## On capo and chords used
+
+My approach with this lesson is to show you this song with the simplest possible chords, using standard tuning. As such, I'm teaching in the key of A –– and only using the chords of A, D, and E. No doubt, there are more complicated ways to play it (e.g., Pete Seeger looks like he uses drop-D tuning and an E-minor chord) –– but I think the spirit of this song can totally be captured with these 3 chords, so I'm choosing to use them and keep it beginner friendly. Using these chords, here's where to put the capo if you want to play along with some famous versions of this song:
+
+- Capo 4 to play with Pete Seeger's Carnegie Hall Concert version
+- Capo 5 to play with the Sandpiper's version
+- Capo 6 to play with Pete Seeger's Sweden 1968 version
+
+## Chord shapes needed
+
+The three chords I'm using can be played like this. The strings go from thickest (at the bottom) to thinnest (at the top).
+
+    E –––0––––2––––0––––
+    B –––2––––3––––0––––
+    G –––2––––2––––1––––
+    D –––2––––0––––2––––
+    A –––0–––––––––2––––
+    E –––––––––––––0––––
+         A    D    E
+
+## Chord progressions
+
+Here's a birds-eye-view of the chord changes you'll need in this song. Read these lines from left to right, and then top to bottom. Each measure has 4 beats.
+
+    Chorus:   "Guantanamera, guajira Guantanamera..."
+               | D . . . | E . . . | A . . . | E . . . |
+               | A . D . | E . . . | A . D . | E . . . |
+
+    Verse:    "Yo soy un hombre sincero..."
+               | A . D . | E . . . | A . D . | E . . . |
+               | A . D . | E . . . | D . . . | E . . . |
+               | A . D . | E . . . | A . D . | E . . . |
+
+
+## Strumming patterns
+
+For starters, begin with all down strums... but if you can, put the accent (emphasis) on the 2 and 4 counts.
+
+    1 + 2 + 3 + 4 +
+    D   D   D   D           D = down strum
+        >       >           > = accented strum
+
+From there, you can dial it up a little bit by adding an up-strum on the "+" count after the 2 and the 4. Note the accents, which come on the "2 +" and "4 +" parts of the four-count sequence. This is optional, but I find it gives it a nice sound that imitates Pete Seeger.
+
+    1 + 2 + 3 + 4 +         U = up strum
+    D   D U D   D U         D = down strum
+        > >     > >         > = accented strum
+
+Finally, you can down steady down-up-down-up strumming to really flesh it out -– but keep the accented strums on the "2 +" and "4 +" counts.
+
+    1 + 2 + 3 + 4 +         U = up strum
+    D U D U D U D U         D = down strum
+        > >     > >         > = accented strum
+
+## Sandpiper-style intro in open position
+
+As I show in the video lesson, here's a nice little sequence you can do that imitates the riff you hear at the beginning of The Sandpipers version of this song. It requires a bit of pinky stretching. One bit of advice: this is easier to play if you have a capo on, since the width of each fret is reduced higher up on the fretboard. I usually do capo 5, give or take, if I want to play this.
+
+    E ––––0–0––––2–5–2––––4–––––4––2–4––2––
+    B ––––2––––––3––––––––0––––––––0–––––––
+    G ––––2––––––2––––––––1––––––––1–––––––
+    D ––––2––––––0––––––––2––––––––2–––––––
+    A ––0––––––––––––––––––––––––––––––––––
+    E –––––––––––––––––––––––––––––––––––––
+        A        D        E        E
+
+One tricky part with this riff is making the E-major chord work. Here's a fingering guide. The trick is to use your left middle and index fingers on the 4th and 3rd strings, which free up your left ring and pinky to play the high-E string notes.
+
+    E ––0––                  E ––2–– <= left ring     E ––4–– <= left pinky                              
+    B ––0––                  B ––0––                  B ––0––                              
+    G ––1–– <= left index    G ––1–– <= left index    G ––1–– <= left index               
+    D ––2–– <= left middle   D ––2–– <= left middle   D ––2–– <= left middle               
+    A –––––                  A –––––                  A –––––                               
+    E –––––                  E –––––                  E –––––                              
+        E                        E                        E                                
+
+## Additional information about this song
+
+### Financial Times article about this song's history
+Here's a short article about this song's history, and the ways it has been adapted over the years. Very cool stuff.
+https://www.ft.com/content/2a530e04-c407-11e4-a02e-00144feab7de
+
+### Highest resolution video of Pete Seeger playing this that I've found
+It looks like he is playing capo 6, in drop-D, using the chords D-G-A. However, to my ear, it sounds like he's playing A-D-E (with capo 6). Either way, it's nice we have this video!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G1az3ik6wSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### The Sandpipers version
+I hadn't heard this version until I started learning this song... it's definitely my favorite! Check it out:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2g5WUQnlbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
