@@ -225,7 +225,7 @@ Also, I recommend you try this riff using just one finger (left index) for all t
     E ––0––2–––––––––––––  –––––––––––––––––––––––  ––––––––––––––––––––––  E –––––––––––––––––––
                       A                       Bm                      Bm                      A
 
-Typed out in tab form with the counting included, it would look like this. The key thing to notice here is how the first lick comes in on the 4-5-6 counts of a partial measure that preceeds the first full measure.
+Typed out in tab form with the counting included, it would look like this. The key thing to notice here is how the first lick comes in on the 4-5-6 counts of a partial measure that precedes the first full measure.
 
     E ––––––––|–––––––0–––––––––––––––––––|–––––––2––––––––––––––––––|–––––––2––––––––––––––––––|–––––––0––––––––––––––––––|–
     B ––––––––|–––––––2–––––––––––––––––––|–––––––3––––––––––––––––––|–––––––3––––––––––––––––––|–––––––2––––––––––––––––––|–

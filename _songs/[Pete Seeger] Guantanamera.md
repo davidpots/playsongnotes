@@ -6,11 +6,13 @@ song_title:  Guantanamera
 artist: Pete Seeger
 year: 1963
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24356142
 ---
 
 ## Video lesson
 
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEP4bfVNJYA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Video timestamps:
 
@@ -21,6 +23,12 @@ Video timestamps:
 - 11:04 Fancy intro riff
 - 15:57 Adding melodic flourish
 - 17:39 Farewell
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24356142). For a few bucks a month, you get access to PDFs of all my new lessons.
+
+<!-- Coming soon! -->
 
 ## Lyrics w/ chords
 
