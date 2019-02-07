@@ -16,6 +16,11 @@ Coming soon!
 
 ## Chords w/ lyrics
 
+    (capo 1st fret to play w/ the Kenny Rogers version)
+
+    INTRO
+         D
+
     VERSE
          D                         G               D
     On a warm summer's eve... on a train bound for nowhere
@@ -91,11 +96,14 @@ Coming soon!
 
 ## Capo 1st fret (optional)
 
-...
+If you want to play along with the Kenny Rogers version of the song, slap a capo on the 1st fret and use the chords I show. Then, after the first chorus - move the capo up to the 2nd fret and continue to use chords in the key of D. If you don't want to bother with moving your capo up one fret, I recommend simply modulating up from the key of D to the key of E. In other words, here are the chords you'll need:
+
+    First half of the song:    D G A
+    Second half of the song:   E A B7
 
 ## Chords needed
 
-...
+Here's the three chords you'll need while playing in the key of D. Very straightforward D, G, and A.
 
     E –––2–––3–––0–––
     B –––3–––0–––2–––
@@ -105,7 +113,7 @@ Coming soon!
     E –––––––3–––––––
          D   G   A   
 
-...
+If you do choose to modulate up a key (without bothering with moving the capo), here's the chords that will replace the D, G, and A. If you've never played the B7 chord before, don't let it scare you away - it's a nice way to get the sound of a "B" major chord but without having to barre any strings.
 
     E –––0–––0–––2–––
     B –––0–––2–––0–––
@@ -115,29 +123,88 @@ Coming soon!
     E –––0–––––––––––
          E   A   B7   
 
-## Chord progression
+## Chord progressions
 
-...
+Big picture, the song has two progressions and they look like this. For every letter below AND for each "/", you're playing four counts (one measure) of that chord. The "/" character below means that you should stay on the prior chord for one additional measure.
 
-    Verse     | D . . . | G . D . | D . . . | D . A . |
-              | D . . . | G . D . | G . D . | A . D . |
+    Verse     D   /   G   D   /   /   /   A
+              D   /   G   D   G   D   A   D
 
-    Chorus    | D . . . | G . D . | G . D . | D . A . |
-              | D . . . | G . D . | G . D . | A . D . |
+    Chorus    D   /   G   D   G   D   D   A
+              D   /   G   D   G   D   A   D
 
-## Strumming pattern
+## Strumming patterns
 
-    1 + 2 + 3 + 4 + 
-    D   D     U D U
-    *
+### Simple strum
 
-### ...
+When starting to strum it, I recommend doing a single down strum on the "1" count of each measure. Do this until you learn the chord progression and feel comfortable with the chord changes. Even if you're comfortable with the intermediate strums I show below, you'll want to use this very simple approach on the final verse ("Somewhere in the darkness, the gambler he broke even...").
 
-    E –––––––2–––––––2––––
-    B –––––––3–––––––3––––
-    G –––––––2–––––––2––––
-    D –––0–––––––0––––––––
-    A ––––––––––––––––––––
-    E ––––––––––––––––––––
-         D  
-         1 + 2 + 3 + 4 +
+    1 + 2 + 3 + 4 +       d = down strum
+    d
+
+In tab form, that looks like this:
+
+         D                         G                         A
+    E –––2––––––––––––––––    E –––3––––––––––––––––    E –––0––––––––––––––––
+    B –––3––––––––––––––––    B –––0––––––––––––––––    B –––2––––––––––––––––
+    G –––2––––––––––––––––    G –––0––––––––––––––––    G –––2––––––––––––––––
+    D –––0––––––––––––––––    D –––0––––––––––––––––    D –––2––––––––––––––––
+    A ––––––––––––––––––––    A –––2––––––––––––––––    A –––0––––––––––––––––
+    E ––––––––––––––––––––    E –––3––––––––––––––––    E ––––––––––––––––––––
+         1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +
+         d                         d                         d
+
+### Medium strum
+
+Then, bring in down strums on each quarter note. If you can, try to emphasize the strums on the 2 and 4 counts, and ease up on the strums that happen on the 1 and 3 counts. This creates a nice backbeat sound, which spoken would be typed as "down DOWN down DOWN down DOWN down DOWN" (etc).
+
+    1 + 2 + 3 + 4 +       d = down strum
+    d       d             * = strum root note only
+    *                    
+
+In tab form, that would look like this:
+
+         D                         G                         A
+    E –––––––––––2––––––––    E –––––––––––3––––––––    E –––––––––––0––––––––
+    B –––––––––––3––––––––    B –––––––––––0––––––––    B –––––––––––2––––––––
+    G –––––––––––2––––––––    G –––––––––––0––––––––    G –––––––––––2––––––––
+    D –––0––––––––––––––––    D –––––––––––0––––––––    D –––––––––––2––––––––
+    A ––––––––––––––––––––    A –––––––––––2––––––––    A –––0––––––––––––––––
+    E ––––––––––––––––––––    E –––3––––––––––––––––    E ––––––––––––––––––––
+         1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +
+         d       d                 d       d                 d       d      
+         *                         *                         *              
+
+You could even double up this "medium" strum, by doing two of these root-strum sequences within each single 4-count measure. Specifically, this:
+
+         D                         G                         A
+    E –––––––2–––––––2––––    E –––––––3–––––––3––––    E –––––––0–––––––0––––
+    B –––––––3–––––––3––––    B –––––––0–––––––0––––    B –––––––2–––––––2––––
+    G –––––––2–––––––2––––    G –––––––0–––––––0––––    G –––––––2–––––––2––––
+    D –––0–––––––0––––––––    D –––––––0–––––––0––––    D –––––––2–––––––2––––
+    A ––––––––––––––––––––    A –––––––2–––––––2––––    A –––0–––––––0––––––––
+    E ––––––––––––––––––––    E –––3–––––––3––––––––    E ––––––––––––––––––––
+         1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +
+         d   d   d   d             d   d   d   d             d   d   d   d   
+         *       *                 *       *                 *       *       
+
+### Full strum
+
+Finally, the ideal strum you'll want to work toward would be as shown below. One new thing going here is you'll only want to strum the root note (i.e., the thickest string used in the chord) on the 1-count of the measure. Maintain your accents on the 2 and 4 counts. Typed out, this would be "(down) DOWN down-up-DOWN-up, (down) DOWN down-up-DOWN-up" (etc).
+
+    1 + 2 + 3 + 4 +       d = down strum        u = up strum
+    d   d   d u d u       > = accented strum    * = strum root note only
+    *   >       >  
+
+This final strum in tab form would look like this:
+
+         D                         G                         A
+    E –––––––2–––2–2–2–2––    E –––––––3–––3–3–3–3––    E –––––––0–––0–0–0–0––
+    B –––––––3–––3–3–3–3––    B –––––––0–––0–0–0–0––    B –––––––2–––2–2–2–2––
+    G –––––––2–––2–2–2–2––    G –––––––0–––0–0–0–0––    G –––––––2–––2–2–2–2––
+    D –––0–––0–––0–0–0–0––    D –––––––0–––0–0–0–0––    D –––––––2–––2–2–2–2––
+    A ––––––––––––––––––––    A –––––––2–––2–2–2–2––    A –––0–––0–––0–0–0–0––
+    E ––––––––––––––––––––    E –––3–––3–––3–3–3–3––    E ––––––––––––––––––––
+         1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +
+         d   d   d u d u           d   d   d u d u           d   d   d u d u
+         *   >       >             *   >       >             *   >       >  

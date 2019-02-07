@@ -26,43 +26,47 @@ categories: guitar
         Take it down to L.A.
        A                          Bm
         Find a place to call my own... and try to fix up
-       E                    A     A2
+       E                    A     Asus2
         Start a brand new day
 
        A                                Bm
         The woman I'm thinking of, she... loved me all up
        E                     A
         But I'm so down today
-       A                                Bm                   E  E7
+       A                                Bm                   E  Esus4
         She's so fine, she's in my mind... I hear her calling
 
     CHORUS    
-           A                  Bm
-            See the lonely boy... out on the weekend
-           E                  A
-            Trying to make it pay
-           A                    Bm
-            Can't relate to joy... he tries to speak and
-           E               A
-            Can't begin to say
+           A                     D6/A
+           ...See the lonely boy... out on the weekend
+           Dmaj7/A               A
+           ...Trying to make it pay
+           A                      D6/A
+           ...Can't relate to joy... he tries to speak and
+           Dmaj7/A             A
+           ...Can't begin to say
 
     BREAK
                 Bm  ... E  ... Bm ... E ...
                 C#m ... F# ... Bm ... E ...
 
-        She got pictures on the wall... they make me look up
-        From her big brass bed
-        Now I'm running down the road... trying to stay up
-        Somewhere in her head
+        A                          Bm
+        ...She got pictures on the wall, they make me look up
+        E                        A
+        ...From her big brass bed
+        A                            Bm
+        ...Now I'm running down the road, trying to stay up
+        E                       A  Asus2
+        ...Somewhere in her head
 
-        The woman I'm thinking of... she loved me all up
-        But I'm so down today
+        A                                  Bm
+        ...The woman I'm thinking of, she... loved me all up
+        E                         A
+        ...But I'm so down--- today
+        A                               Bm                    E  Esus4
         She's so fine, she's in my mind... I hear her calling
 
-            See the lonely boy... out on the weekend
-            Trying to make it pay
-            Can't relate to joy... he tries to speak and
-            Can't begin to say
+            [ Chorus ]
 
     OUTRO
                 Bm  ... E  ... Bm ... E ...
@@ -75,23 +79,23 @@ categories: guitar
 Here are the basic chords used to play this song, at its simplest. There are some more complex chord variations and riffs (shown below), but these should do you for your basic needs.
 
     e-|----0----0-----2-----0----0-----4-----2-----
-    B-|----2----0-----3-----0----3-----5-----2-----
-    G-|----2----2-----4-----1----1-----6-----3-----
+    B-|----2----0-----3-----0----0-----5-----2-----
+    G-|----2----2-----4-----1----2-----6-----3-----
     D-|----2----2-----4-----2----2-----6-----4-----
     A-|----0----0-----2-----2----2-----4-----4-----
     E-|---------------------0----0-----------2-----
-           A    A2    Bm    E    E7   C#m    F#
+           A  Asus2   Bm    E  Esus4  C#m    F#
 
 ### Advanced Chords for the Chorus
 If you want to sound more like Neil Young does when playing the chorus, try these chords out. It isn't as easy, but nicely mixes the sound up. Thanks to this source for these tabs: http://hyperrust.org/OLD-ChordTab/OutOnWeekend.html
 
-    e-|---5---------------------7---------------------9---------------------9---
-    B-|---5---------------------7--------------------10---------------------9---
-    G-|---6---------------------7--------------------11---------------------9---
-    D-|---7---------------------7--------------------12---------------------7--- (repeat)
+    e-|---5---------------------7---------------------9---------------------5---
+    B-|---5---------------------7--------------------10---------------------5---
+    G-|---6---------------------7--------------------11---------------------6---
+    D-|---7---------------------7---------------------0---------------------7--- (repeat)
     A-|---0---------------------0---------------------0---------------------0---
     E-|-------------------------------------------------------------------------
-          A                    D6/A                Dmaj7/A                Amaj7
+          A                    D6/A                Dmaj7/A                  A
         "...See the lonely boy... out on the weekend... trying to make it pay..."
 
 ## Chord progressions
@@ -106,7 +110,7 @@ If you want to sound more like Neil Young does when playing the chorus, try thes
     | A . . . | Bm . . . | E . . . | A . . . | (repeat)
 
     "She's so fine, she's in my mind, I hear her calling..."
-    | A . . . | Bm . . . | E . E7 . |
+    | A . . . | Bm . . . | E . E4 . |
 
     CHORUS
     "See the lonely boy, out on the weekend..."
