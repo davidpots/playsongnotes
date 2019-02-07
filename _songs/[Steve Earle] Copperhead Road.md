@@ -6,22 +6,31 @@ song_title: Copperhead Road
 artist: Steve Earle
 year: 1988
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24534853
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22543461 -->
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8t85szwFjM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+Video timestamps:
+
+- 0:00 Playthrough & overview
+- 2:11 Chords needed
+- 4:15 Mastering the D hammer-on
+- 5:21 Playing the riff w/ 1 finger
+- 6:57 Mastering the D pinky stretch
+- 8:53 Learning the full riff
+- 14:48 Verse & chorus
+- 16:44 Strumming pattern
+- 21:02 Final advice
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-22543461). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24534853). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Lyrics with chords
 
