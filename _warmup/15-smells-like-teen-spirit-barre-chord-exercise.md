@@ -10,9 +10,9 @@ patreon_lesson_url: https://www.patreon.com/posts/24596181/ -->
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/LbzdtWfoIQk?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Z0v5L9rurs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## Print-friendly version of this lesson
 
@@ -39,7 +39,7 @@ If you want to play the distinctive intro and chorus riff, here's the main riff.
 
 ## Verse riff (barre chord exercise)
 
-Here's the exercise itself. The "easy" way to play this verse section, via solo guitar, would be to only worry about the 5th and 6th strings. But let's go after those notes on the 1st and 2nd string - which will require us to barre the entire 1st fret (tough, but doable) with our left index finger. We'll want to hold this barre through the "3 +" account in the first measure. After that, release it and rest - because once this sequence repeats, you'll need to do the barre again. This on-and-of, barre-and-rest approach is a nice way to learn that won't burn you out too quick, and also emulates the reality of playing barre chords in most songs (i.e., switch to and from them while staying in time.)
+Here's the exercise itself. The "easy" way to play this verse section, via solo guitar, would be to only worry about the 5th and 6th strings. But let's go after those notes on the 1st and 2nd string - which will require us to barre the entire 1st fret (tough, but doable) with our left index finger. We'll want to hold this barre through the "3 +" account in the first measure. After that, release it and rest - because once this sequence repeats, you'll need to do the barre again. This on-and-off, barre-and-rest approach is a nice way to learn that won't burn you out too quick, and also emulates the reality of playing barre chords in most songs (i.e., switch to and from them while staying in time.)
 
         ******* BARRE ******** ================ R E S T ===============
     E ––––––––––––––1––––––––––––––––––––––––––––––––––––––––––––––––––––
