@@ -3,10 +3,9 @@ layout: warmup
 title: Barre Chord Exercise for Smells Like Teen Spirit
 slug: "15"
 date: 2019-02-13
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24697299/
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/24596181/ -->
 
 ## Video Overview
 
@@ -16,9 +15,9 @@ patreon_lesson_url: https://www.patreon.com/posts/24596181/ -->
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24596181/). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24697299). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## Editor's notes
 
