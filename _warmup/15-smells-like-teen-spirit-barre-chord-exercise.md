@@ -1,6 +1,6 @@
 ---
 layout: warmup
-title: Barre Chord Exercise: Smells Like Teen Spirit
+title: Barre Chord Exercise for Smells Like Teen Spirit
 slug: "15"
 date: 2019-02-13
 ---
