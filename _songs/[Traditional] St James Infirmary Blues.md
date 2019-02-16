@@ -6,22 +6,32 @@ song_title:  St. James Infirmary Blues
 artist: (traditional)
 year: 1929
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24744092/
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/23649592/ -->
+
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PJyM26qPOHg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Video timestamps:
+
+- 0:00 Playthrough & greeting
+- 2:05 Chords shapes needed
+- 6:20 Chord progression
+- 6:55 Strumming patterns
+- 9:39 Adv. strumming tips
+- 13:40 Fills & licks
+- 21:02 Farewell
 <!-- Coming soon! -->
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23649592/). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24744092/). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Lyrics w/ chords
 
