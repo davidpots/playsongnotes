@@ -22,6 +22,20 @@ Video timestamps:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pdI3_nqJO8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## My lesson for St James Infirmary Blues
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJyM26qPOHg?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Video timestamps:
+
+- 0:00 Playthrough & greeting
+- 2:05 Chords shapes needed
+- 6:20 Chord progression
+- 6:55 Strumming patterns
+- 9:39 Adv. strumming tips
+- 13:40 Fills & licks
+- 21:02 Farewell
+
 <!-- Coming soon! -->
 
 ## Print-friendly version of this lesson
