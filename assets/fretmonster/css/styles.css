@@ -1,0 +1,92 @@
+
+.absolute-center {
+  top: 0; right: 0; bottom: 0; left: 0;
+  margin: auto;
+  display: table;
+}
+
+/* Scrollable overflowing tables, via http://www.maxdesign.com.au/2013/03/22/simple-responsive-table/ */
+
+        /* Makes the table scrollable, if overflows */
+        .table_wrapper {
+        	width: 100%;
+        	overflow-y: auto;
+        	_overflow: auto;
+        	margin: 0 0 1em; 
+          padding: 1em; }
+        
+        /* These next two lines add the scrollbar before you scroll (if overflow is present) */
+        .table_wrapper::-webkit-scrollbar {
+        	-webkit-appearance: none;
+        	width: 14px;
+        	height: 14px; }
+
+        .table_wrapper::-webkit-scrollbar-thumb {
+        	border-radius: 8px;
+        	border: 3px solid #fff;
+        	background-color: rgba(0, 0, 0, .3); }
+
+table {
+  border-collapse: collapse; 
+}
+
+td {
+  padding: 0;
+}
+
+.cell { 
+  height: 1.5em;
+}
+
+.string { 
+  border-bottom: 1px solid #aaa; 
+}
+
+.fret--hasNote {
+  width: 3em;
+}
+
+.fret--open {
+  border-right: 4px solid #aaa;
+}
+
+.fret--hasBG {
+  background: #f4f4f4;
+  border-right: 1px solid #aaa;
+}
+
+.fret--trailer {
+  width: 1em;
+  border-right: none;
+}
+
+.string:first-child .fret {
+  background: none;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+
+
+.note { 
+  z-index: 1;
+  height: 1.5em;
+  width: 1.5em;
+  background: orange;
+  border-radius: .75em;
+  position: absolute;
+  top: .75em;
+  left: 50%;
+  margin-left: -0.75em; 
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+
+}
+
+
+
+
+
+.measure { max-width: 60rem; }
+.wrap { margin-left: auto; margin-right: auto; }

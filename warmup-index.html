@@ -1,27 +1,4 @@
 ---
-layout: default
-permalink: /warmup/index.html
+layout: fretmonster
+permalink: /fretmonster
 ---
-
-<div style="padding: 32px;">
-  <p>Warm-up exercises I've made so far. Plenty more to come soon!</p>
-  <ul>
-
-    <!-- {% assign sorted_songs = (site.songs | sort: 'song_title') %} -->
-
-    {% assign warmups = site.warmup | sort: 'date' %}
-
-    {% for w in warmups reversed %}
-      <li><a class="underline" href="{{ w.url | relative_url }}"><strong>Warm Up #{{ w.slug }}: {{ w.title }} </strong></a><br /><em>{{ w.date | date: "%B %-d, %Y"}}</em></li>
-    {% endfor %}
-  </ul>
-
-
-
-  <!-- <ul>
-    <li><a class="underline" href="/warmup/3/"><strong>Warm Up #3 "Sultans of Swing" chorus lick</strong></a><br /><em>Sept 19, 2018</em></li>
-    <li><a class="underline" href="/warmup/2/"><strong>Warm Up #2: Easy E Fingerpicking</strong></a><br /><em>Sept 3, 2018</em></li>
-    <li><a class="underline" href="/warmup/1/"><strong>Warm Up #1: Simple blues riff in Drop-D</strong></a><br /><em>July 25, 2018</em></li>
-  </ul> -->
-  <p><a href="/">Back to the homepage &raquo;</a></p>
-</div>
