@@ -67,3 +67,9 @@ What makes this variation tougher is a few things. First, you're doubling up the
             E –|–––––––––––––––––––––––––3–3–2–––|–0–––––––––––––––0–––––––2–2–4–––|–––––––––––––––––––––––––––––––––|–––––––––3–3–2–––0–––––––––––––||
                  A                                 E                                 A               D                 A               E
                  1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+## Playing A-major with a single finger
+
+Check out this video I made on this helpful technique, that can be used with this warmup exercise:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUrKhHAT0Fk?showinfo=0" frameborder="0" allowfullscreen></iframe>
