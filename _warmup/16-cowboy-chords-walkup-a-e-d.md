@@ -3,10 +3,9 @@ layout: warmup
 title: Cowboy chords and walking bass lines
 slug: "16"
 date: 2019-02-22
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24901786/
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/24697299/ -->
 
 ## Video Overview
 
@@ -16,13 +15,13 @@ patreon_lesson_url: https://www.patreon.com/posts/24697299/ -->
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24697299). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24901786). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## Editor's notes
 
-While practicing Colter Wall's song "Thinkin' on a Woman" I found myself taking a detour into this little rhythm figure, which features some cowboy chord walk ups & walk downs between A, E, and D. Combined with some alternating bass notes and some slap strumming, you have yourself one fun little exercise. I'll teach you how to play it in two ways: one easier, and one a bit more difficult. Either way, quite the fun warm up exercise to mess around with. And for homework, I do very much listening to Colter Wall – he's a young country artist from Saskatchewan who can write, and sing, one heck of a song.
+While practicing Colter Wall's song "Thinkin' on a Woman" I found myself taking a detour into this little rhythm figure, which features some cowboy chord walk ups & walk downs between A, E, and D. Combined with some alternating bass notes and some slap strumming, you have yourself one fun little exercise. I'll teach you how to play it in two ways: one easier, and one a bit more difficult. Either way, quite the fun warm up exercise to mess around with. And for homework, I do very much recommend listening to Colter Wall – he's a young country artist from Saskatchewan who can write, and sing, one heck of a song.
 
 ## Easier exercise riff
 
