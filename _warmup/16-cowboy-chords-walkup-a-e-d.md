@@ -1,6 +1,6 @@
 ---
 layout: warmup
-title: Cowboy chord walkin' up & down between A, E, and D
+title: Cowboy chords and walking bass lines
 slug: "16"
 date: 2019-02-22
 ---
