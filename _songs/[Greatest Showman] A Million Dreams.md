@@ -6,6 +6,8 @@ song_title:  A Million Dreams
 artist: Greatest Showman
 year: 2017
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/24994190
 ---
 
 ## Video Lesson
@@ -17,6 +19,11 @@ Guitar cover (me playing the intro, verse, pre-chorus, and chorus).
 Guitar lesson (me carefully explaining how to play each section of the song).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpGEmNv265Q?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24994190). For a few bucks a month, you get access to PDFs of all my new lessons.
+
 
 ## Intro tab
 
