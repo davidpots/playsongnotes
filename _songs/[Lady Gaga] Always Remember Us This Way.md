@@ -11,28 +11,25 @@ categories: guitar
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
 
-## Video lesson
-
-Guitar lesson:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QVSTZNG-AyM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 Lesson timestamps:
 
-- 0:00 Lesson preview & agenda
-- 1:45 Chords shapes needed
-- 4:53 Chord progressions
-- 7:04 Strumming patterns
-- 11:18 Chorus: strum & timing
-- 14:05 Chorus: advanced voicings
-- 16:23 Putting it all together
-- 18:03 Farewell & thanks
+- 0:00 Lesson preview & agenda
+- 1:45 Chords shapes needed
+- 4:53 Chord progressions
+- 7:04 Strumming patterns
+- 11:18 Chorus: strum & timing
+- 14:05 Chorus: advanced voicings
+- 16:23 Putting it all together
+- 18:03 Farewell & thanks
 
 ## Print-friendly PDF of this lesson available!
 
 <!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
 
-Coming soon...
+Coming around 7:30am (Central US time) on Thursday morning... stay tuned!
 
 ## Lyrics w/ chords
 
