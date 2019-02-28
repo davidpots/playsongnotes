@@ -12,7 +12,7 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22497311
 
 ## Video lesson
 
-<!-- Guitar lesson: -->
+Guitar lesson:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7JlEf5Y7lw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 

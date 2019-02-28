@@ -214,6 +214,33 @@ After the verse sections are over, I usually strum the rest of the song. Quite s
     1 + 2 + 3 + 4 +
     D   D U   U D U
 
-## Good luck!
+## Thanks and good luck!
 
-I hope this helps, and as always let me know if you have any questions.
+I hope this helps, and as always let me know if you have any questions. While you're here, check out my other lessons for songs from A Star is Born:
+
+### Always Remember Us This Way
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QVSTZNG-AyM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Lesson timestamps:
+
+– 0:00 Lesson preview & agenda
+– 1:45 Chords shapes needed
+– 4:53 Chord progressions
+– 7:04 Strumming patterns
+– 11:18 Chorus: strum & timing
+– 14:05 Chorus: advanced voicings
+– 16:23 Putting it all together
+– 18:03 Farewell & thanks
+
+### Maybe It's Time
+
+Guitar lesson:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7JlEf5Y7lw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<!-- Coming soon! -->
+
+Play-along cover (full song):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
