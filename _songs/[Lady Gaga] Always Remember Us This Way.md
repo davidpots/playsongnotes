@@ -19,14 +19,14 @@ Guitar lesson:
 
 Lesson timestamps:
 
-– 0:00 Lesson preview & agenda
-– 1:45 Chords shapes needed
-– 4:53 Chord progressions
-– 7:04 Strumming patterns
-– 11:18 Chorus: strum & timing
-– 14:05 Chorus: advanced voicings
-– 16:23 Putting it all together
-– 18:03 Farewell & thanks
+- 0:00 Lesson preview & agenda
+- 1:45 Chords shapes needed
+- 4:53 Chord progressions
+- 7:04 Strumming patterns
+- 11:18 Chorus: strum & timing
+- 14:05 Chorus: advanced voicings
+- 16:23 Putting it all together
+- 18:03 Farewell & thanks
 
 ## Print-friendly PDF of this lesson available!
 
