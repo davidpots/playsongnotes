@@ -10,9 +10,18 @@ categories: guitar
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9lVBiRmHztM?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+### Playalong cover:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FqssPCLOMw8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+### Full video lesson:
+
+I plan on posting the full lesson on Sunday, March 3rd. Check back then!
+
+## Print-friendly PDF of this lesson available!
+
+<!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
+
+Coming soon! Look for it Saturday, March 2nd around 8am.
 
 ## Chords w/ lyrics
 
@@ -208,3 +217,22 @@ This final strum in tab form would look like this:
          1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +           1 + 2 + 3 + 4 +
          d   d   d u d u           d   d   d u d u           d   d   d u d u
          *   >       >             *   >       >             *   >       >  
+
+## Related lesson I made for this song
+
+Here's a lesson on made showing how to improvise around the chord progression this song uses. The result is a fun way to capture the meldoy notes of the song with your picking & strumming:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OGAMzzpeIew?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Video timestamps:
+
+- 0:00 Playthrough & lesson overview
+- 1:44 Start w/ the chords & progression
+- 3:00 Alternating bass notes
+- 4:41 Alternate chord voicings for G and A
+- 6:55 Adding palm muting
+- 7:35 Walking up to each chord
+- 9:23 Adding pinky flourish notes
+- 10:48 Putting it all together
+
+Notes and tabs for this lesson <a class="underline" href="/practice/8/">can be found here</a>. Enjoy!
