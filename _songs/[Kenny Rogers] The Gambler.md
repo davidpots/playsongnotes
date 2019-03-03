@@ -6,6 +6,8 @@ song_title:  The Gambler
 artist: Kenny Rogers
 year: 1978
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25099962
 ---
 
 ## Video lesson
@@ -31,9 +33,9 @@ Timestamps:
 
 ## Print-friendly PDF of this lesson available!
 
-<!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
+[Support me on Patreon](https://www.patreon.com/posts/25099962) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
-Coming soon! Look for it Sunday, March 3nd around 8am.
+<!-- Coming soon! Look for it Sunday, March 3nd around 8am. -->
 
 ## Chords w/ lyrics
 
