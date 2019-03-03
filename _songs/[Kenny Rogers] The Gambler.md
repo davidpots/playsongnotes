@@ -107,20 +107,20 @@ Coming soon! Look for it Saturday, March 2nd around 8am.
 
 If you want to play along with the Kenny Rogers version of the song, slap a capo on the 1st fret and use the chords I show. Then, after the first chorus - move the capo up to the 2nd fret and continue to use chords in the key of D. If you don't want to bother with moving your capo up one fret, I recommend simply modulating up from the key of D to the key of E. In other words, here are the chords you'll need:
 
-    First half of the song:    D G A
+    First half of the song:    D G A7
     Second half of the song:   E A B7
 
 ## Chords needed
 
-Here's the three chords you'll need while playing in the key of D. Very straightforward D, G, and A.
+Here's the three chords you'll need while playing in the key of D. Very straightforward D, G, and A. I also may use an A7 instead of an A sometimes (including within this lesson) - note that you can use either, they'll both sound good.
 
-    E –––2–––3–––0–––
-    B –––3–––0–––2–––
-    G –––2–––0–––2–––
-    D –––0–––0–––2–––
-    A –––––––2–––0–––
-    E –––––––3–––––––
-         D   G   A   
+    E –––2–––3–––0––– –––0–––
+    B –––3–––0–––2––– –––2–––
+    G –––2–––0–––2––– –––0–––
+    D –––0–––0–––2––– –––2–––
+    A –––––––2–––0––– –––0–––
+    E –––––––3––––––– –––––––
+         D   G   A       A7   
 
 If you do choose to modulate up a key (without bothering with moving the capo), here's the chords that will replace the D, G, and A. If you've never played the B7 chord before, don't let it scare you away - it's a nice way to get the sound of a "B" major chord but without having to barre any strings.
 
