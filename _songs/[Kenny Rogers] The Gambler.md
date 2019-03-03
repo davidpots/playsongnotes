@@ -15,13 +15,25 @@ categories: guitar
 
 ### Full video lesson:
 
-I plan on posting the full lesson on Sunday, March 3rd. Check back then!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bA_YhZqe0HY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Timestamps:
+
+- 0:28 Greeting & lesson overview
+- 1:01 Quick capo disclaimer
+- 1:40 Chord shapes needed
+- 3:04 Timing & chord progression
+- 6:17 Strumming patterns
+- 11:25 Adding alternating bass notes
+- 13:05 Changing key in the 2nd half
+- 14:37 Full play-along cover
+- 17:22 Farewell & thanks
 
 ## Print-friendly PDF of this lesson available!
 
 <!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
 
-Coming soon! Look for it Saturday, March 2nd around 8am.
+Coming soon! Look for it Sunday, March 3nd around 8am.
 
 ## Chords w/ lyrics
 
