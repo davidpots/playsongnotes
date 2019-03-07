@@ -10,9 +10,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23324554/ -->
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/DaQriT9sWqE?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a01k8UjZ5xQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon! Look for it Thursday, March 7.
+<!-- Coming soon! Look for it Thursday, March 7. -->
 
 ## Print-friendly version of this lesson
 
