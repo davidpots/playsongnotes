@@ -3,22 +3,19 @@ layout: tip
 title: Add easy flourish to C-F-G-Am
 slug: "21"
 date: 2019-03-04
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25204139
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/23324554/ -->
 
 ## Video Overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a01k8UjZ5xQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<!-- Coming soon! Look for it Thursday, March 7. -->
-
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23324554). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25204139). For a few bucks a month, you get access to PDFs of all my new lessons.
 
-Coming soon! Look for it Thursday, March 7.
+<!-- Coming soon! Look for it Thursday, March 7. -->
 
 ## Editor's notes
 
