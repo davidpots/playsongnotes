@@ -6,6 +6,8 @@ song_title: Under the Bridge
 artist: Red Hot Chili Peppers
 year: 1991
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25204139
 ---
 
 ## Play-along cover
@@ -15,11 +17,9 @@ categories: guitar
 Want to see a full lesson, where I explain things step by step? Let me know!
 <!-- Coming soon! -->
 
-## PDF print-out of this lesson
+## Print-friendly PDF of this lesson available!
 
-<!-- If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there! -->
-
-Coming sometime early on Saturday, March 9. Check back soon!
+[Support me on Patreon](https://www.patreon.com/posts/25204139) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Intro tab
 
