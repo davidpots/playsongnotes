@@ -8,17 +8,18 @@ year: 1991
 categories: guitar
 ---
 
-## Video lesson
+## Play-along cover
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2LbsW-wmdY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+Want to see a full lesson, where I explain things step by step? Let me know!
+<!-- Coming soon! -->
 
 ## PDF print-out of this lesson
 
 <!-- If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there! -->
 
-Coming soon!
+Coming sometime early on Saturday, March 9. Check back soon!
 
 ## Intro tab
 
