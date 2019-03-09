@@ -7,7 +7,7 @@ artist: Red Hot Chili Peppers
 year: 1991
 categories: guitar
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25204139
+patreon_lesson_url: https://www.patreon.com/posts/25250503
 ---
 
 ## Play-along cover
@@ -19,7 +19,7 @@ Want to see a full lesson, where I explain things step by step? Let me know!
 
 ## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/25204139) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+[Support me on Patreon](https://www.patreon.com/posts/25250503) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Intro tab
 
