@@ -6,11 +6,9 @@ song_title:  Plush
 artist: Stone Temple Pilots
 year: 1992
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25388934
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
-
 
 ## Video Lesson
 
@@ -20,9 +18,9 @@ patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
 
 ## Print-friendly PDF of this lesson available!
 
-<!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
+[Support me on Patreon](https://www.patreon.com/posts/25388934) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
-Coming later today!
+<!-- Coming later today! -->
 
 ## Lyrics w/ chords
 
