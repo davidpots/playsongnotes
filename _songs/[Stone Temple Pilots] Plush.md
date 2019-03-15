@@ -14,9 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ik8ii6Yagk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Print-friendly PDF of this lesson available!
 
