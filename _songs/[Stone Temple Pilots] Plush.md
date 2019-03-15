@@ -1,3 +1,29 @@
+---
+layout: song
+has_video_lesson: true
+title: Guitar lesson for "Plush" by Stone Temple Pilots
+song_title:  Plush
+artist: Stone Temple Pilots
+year: 1992
+categories: guitar
+---
+
+<!-- patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
+
+
+## Video Lesson
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+
+Coming soon!
+
+## Print-friendly PDF of this lesson available!
+
+<!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
+
+Coming later today!
+
 ## Lyrics w/ chords
 
     (to play with STP, tune down 1 whole step to DGCFAD)
@@ -65,7 +91,6 @@
 
     OUTRO [w/ intro riff, end on G]
         To find it... to find it... to find it
-
 
 ## Tuning note
 
