@@ -11,18 +11,17 @@ categories: guitar
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148 -->
 
-
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/7K5LJiWlatU?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKMf0mR3N7s?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## PDF print-out of this lesson
 
 <!-- If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="https://www.patreon.com/posts/printable-lesson-22821148">downloads page</a>. You'll find it there! -->
 
-Coming soon...
+Coming later today! Check back in a bit.
 
 ## Intro tab
 
