@@ -6,10 +6,9 @@ song_title:  Let Him Roll
 artist: Guy Clark
 year: 1975
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25432156
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148 -->
 
 ## Video lesson
 
@@ -19,9 +18,9 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148 -->
 
 ## PDF print-out of this lesson
 
-<!-- If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="https://www.patreon.com/posts/printable-lesson-22821148">downloads page</a>. You'll find it there! -->
+[Support me on Patreon](https://www.patreon.com/posts/25432156) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
-Coming later today! Check back in a bit.
+<!-- Coming later today! Check back in a bit. -->
 
 ## Intro tab
 
