@@ -14,6 +14,16 @@ patreon_lesson_url: https://www.patreon.com/posts/25432156
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKMf0mR3N7s?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Lesson timestamps:
+
+- 0:00 Playthrough & overview
+- 2:21 Chord shapes needed
+- 7:40 Travis picking 101 (right thumb bass notes)
+- 10:29 Intro: understanding the chord progression
+- 13:19 Intro: Add simplified melody notes
+- 15:59 Intro: Adding "full" melody notes
+- 20:29 Verse: how it's different from the intro
+- 23:28 Verse: with lyrics
 <!-- Coming soon... -->
 
 ## PDF print-out of this lesson

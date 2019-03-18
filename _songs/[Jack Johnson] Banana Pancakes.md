@@ -200,11 +200,11 @@ Tabbed out, it would be:
 
 ### Chorus & bridge strumming pattern
 
-This one is a bit more constant and less puncuated. You still want to keep the accent on the 2 and 4, but in this case those counts will have a muted downstrum that's accented. This is very common for Jack Johnson. See my video lesson for reference!
+This one is a bit more constant and less punctuated. You still want to keep the accent on the 2 and 4, but in this case those counts will have a muted downstrum that's accented. This is very common for Jack Johnson. See my video lesson for reference!
 
     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
     D  U  x  U  D  U  x  U  D  U  x  U  D  U  x  U
-         >           >           >           >  
+          >           >           >           >  
 
 ## Good luck!
 
