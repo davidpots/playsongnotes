@@ -6,11 +6,17 @@ song_title:  Banana Pancakes
 artist: Jack Johnson
 year: 2005
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25521268
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q4D_7WsdgdY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/posts/25521268) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Lyrics w/ chords
 
