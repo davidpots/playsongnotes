@@ -3,10 +3,9 @@ layout: practice
 title: Travis picking finger technique (right-hand index & pinky)
 slug: "11"
 date: 2019-03-18
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25555059
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085 -->
 
 ## Video Overview
 
@@ -14,9 +13,7 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085 -->
 
 ## Print-friendly version of this lesson
 
-Coming later today!
-
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-21390085). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-friendly PDF of my notes for this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25555059). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's Notes
 
