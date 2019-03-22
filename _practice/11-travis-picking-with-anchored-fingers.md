@@ -1,6 +1,6 @@
 ---
 layout: practice
-title: Anchoring your pinky while fingerpicking
+title: Travis picking finger technique (right-hand index & pinky)
 slug: "11"
 date: 2019-03-18
 ---
@@ -10,9 +10,11 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085 -->
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/BXYjZc_g1Uo?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78VhRTZx3KA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Print-friendly version of this lesson
+
+Coming later today!
 
 <!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-21390085). For a few bucks a month, you get access to PDFs of all my new lessons. -->
 
@@ -20,7 +22,15 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085 -->
 
 Over the past week, I've been practicing my Travis fingerpicking with a distinct focus on two techniques that are new to me. First, I've been working on anchoring my right pinky on the guitar near the sound hole - which adds stability to my picking hand (so it isn't floating in space). Second, I'm focusing on only using my right index finger to pick notes played on the thinnest three strings —— this might seem like it complicates things, but in practice I find it actually frees up my mind from wondering which finger to use. In combination, these technique have made Travis picking a whole lotta fun to practice – and I want to share with you the exercises I've been using.
 
-For context, I found myself in this groove while starting to practice the John Moreland song "Hang Me in the Tulsa County Stars". Watching live video of him playing, I noticed he is using the two techniques I describe above. These are things I'd read about before, but seeing them used made me determined to give them a whirl. The exercises to follow us the opening intro to that song, as well as the intro to "Clay Pigeons" which is one the only other songs I'm able to Travis pick at this time. Ultimately, I'm noticing my confidence with this style go up – which feels great! I look forward to learning it on various other songs of this style. In the meantime, here's the notes from this recent practice milestone. - David Potsiadlo (March 18, 2019)
+For context, I found myself in this groove while starting to practice the John Moreland song "Hang Me in the Tulsa County Stars". Watching live video of him playing, I noticed he is using the two techniques I describe above. These are things I'd read about before, but seeing them used made me determined to give them a whirl. The exercises to follow us the opening intro to that song, as well as the intro to "Clay Pigeons" which is one the only other songs I'm able to Travis pick at this time. Ultimately, I'm noticing my confidence with this style go up – which feels great! I look forward to learning it on various other songs of this style. In the meantime, here's the notes from this recent practice milestone.
+
+Here's the video of John Moreland playing "Hang Me in the Tulsa County Stars," which kicked off this entire exercise:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7s-oZALFMZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I hope this helps out if you too are looking to learn how to Travis pick! Special thanks to Barkley for the support on Patreon, as well as recommending this song – I've had John Moreland on repeat all week and have been loving his music.
+
+- David Potsiadlo (March 18, 2019)
 
 ## Chords we'll be using
 
