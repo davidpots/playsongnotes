@@ -28,9 +28,7 @@ Here's the video of John Moreland playing "Hang Me in the Tulsa County Stars," w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7s-oZALFMZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I hope this helps out if you too are looking to learn how to Travis pick! Special thanks to Barkley for the support on Patreon, as well as recommending this song – I've had John Moreland on repeat all week and have been loving his music.
-
-- David Potsiadlo (March 18, 2019)
+I hope this helps out if you too are looking to learn how to Travis pick! Special thanks to Barkley for the support on Patreon, as well as recommending this song – I've had John Moreland on repeat all week and have been loving his music. _- David Potsiadlo (March 18, 2019)_
 
 ## Chords we'll be using
 
