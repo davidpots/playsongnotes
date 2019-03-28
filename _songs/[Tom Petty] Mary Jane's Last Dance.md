@@ -6,6 +6,8 @@ song_title:  Mary Jane's Last Dance
 artist: Tom Petty and The Heartbreakers
 year: 1993
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25683306
 ---
 
 ## Video lesson
@@ -28,6 +30,69 @@ Here's what I cover in the video lesson (jump ahead to any point you like):
 - 9:40 Lead guitar riff
 - 11:33 Farewell
 
+## Print-friendly PDF of this lesson available!
+
+[Support me on Patreon](https://www.patreon.com/posts/25683306) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+## Lyrics w/ chords
+
+    INTRO
+        Am - G - D - Am  (repeat)
+
+    VERSE
+        Am                G
+        She grew up in an Indiana town
+              D                     Am
+        Had a good-lookin' mama who never was around
+                Am                   G
+        But she grew up tall and she grew up right
+                  D                  Am                    Am-G-D-Am x2, with harmonica
+        With them Indiana boys on an Indiana night
+
+                  Am                     G
+        Well, she moved down here at the age of eighteen
+            D                       Am
+        She blew the boys away, was more than they'd seen
+        Am                      G
+        I was introduced and we both started grooving
+          D                           Am
+        I said, I dig you baby, but I got to keep moving
+
+        Am      G  D                  Am         Am G D Am
+        ....On....... keep moving on....
+
+
+    CHORUS
+            Em                         Em                             A
+            Last dance with Mary Jane, one more time to kill the pain----
+            Em                                Em                          A   G (let ring)
+            I feel summer creeping in and I'm... tired of this town again-----
+
+    ADD'L VERSES
+
+        Well, I don't know, but I've been told
+        You never slow down, you never grow old
+        I'm tired of screwing up, tired of going down
+        Tired of myself, tired of this town
+
+        Oh, my my... Oh, hell yes
+        Honey, put on that party dress
+        Buy me a drink, sing me a song
+        Take me as I come 'cause I can't stay long
+
+            [ chorus ]
+
+        There's pigeons down on Market Square
+        She's standing in her underwear
+        Lookin' down from a hotel room
+        Nightfall will be coming soon
+
+        Oh, my my... Oh, hell yes
+        You got to put on that party dress
+        It was too cold to cry when I woke up alone
+        I hit my last number and walked to the road
+
+            [ chorus ]
 
 ## Quick note about guitar tuning
 
@@ -69,13 +134,13 @@ For the chorus, you'll change it up to use this. Note how you're doing much less
 Want a basic strumming pattern? Try this. This is what I use for the verse. This uses four equal counts for each chord. You could play the intro with this also, if you wanted...
 
     Am              G               D               Am
-    ↓       ↓   ↓ ↑ ↓       ↓   ↓ ↑ ↓       ↓   ↓ ↑ ↓       ↓   ↓ ↑
+    d       d   d u d       d   d u d       d   d u d       d   d u
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 To step things up a notch: I use this fancier strumming for the intro riff.
 
     Am              G               D               Am
-    ↓       ↓     ↑ ↓ ↑ ↓   ↓     ↑ ↓ ↑ ↓   ↓     ↑ ↓ ↑ ↓   ↓
+    d       d     u d u d   d     u d u d   d     u d u d   d
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 ## Verse hammer-ons
@@ -165,42 +230,6 @@ Finally, here's a "simple" way to play the distinctive lead lick you hear during
     D –––––––––––––7–––––––––––––––––––––––––7–––––7–––––
     A –––––––––––––––––––––––––––––––––––––––––––––––––––
     E –––––––––––––––––––––––––––––––––––––––––––––––––––
-
-## Lyrics w/ chords
-
-For context, here are the chords shown on top of the lyrics for the first verse and first chorus. Repeat the same progressions for all future verses and chorus sections in the song.
-
-    INTRO
-
-        Am - G - D - Am  (repeat as desired)
-
-    VERSE
-
-        Am                G
-        She grew up in an Indiana town
-              D                     Am
-        Had a good looking mama who never was around
-                Am                   G
-        But she grew up tall and she grew up right
-                  D                    Am            
-        With them Indiana boys on them Indiana nights
-
-                    Am-G-D-Am x2, with harmonica
-
-                    (use this progression for every verse)
-
-    CHORUS
-
-        Em
-        Last dance with Mary Jane
-        Em                              A
-        One more time to kill the pain-----
-        Em
-        I feel summer creepin' in and I'm...
-        Em                           A     G (let ring)
-        ...Tired of this town again-----
-
-                    (use this progression for each chorus)
 
 ## Good luck!
 
