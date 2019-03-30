@@ -10,15 +10,19 @@ patreon_lesson_url: https://www.patreon.com/posts/24901786/ -->
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8GSHjffgXe0?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Nw-Or7MSo8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon...
+- 1:40 Exercise #1
+- 6:41 Exercise #2
+- 9:09 Exercise #3
+
+<!-- Coming soon... -->
 
 ## Print-friendly version of this lesson
 
 <!-- For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24901786). For a few bucks a month, you get access to PDFs of all my new lessons. -->
 
-Coming soon...
+Coming later today! Check back soon 👍
 
 ## Editor's notes
 
