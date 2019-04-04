@@ -22,7 +22,7 @@ Here's a great performane of the song - you can hear so much more intricacy in h
 
 ## PDF print-out of this lesson
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25806683). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads).
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25806683). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
 ## Lyrics w/ chords
 
