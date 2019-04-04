@@ -6,15 +6,17 @@ song_title:  American Girl
 artist: Tom Petty
 year: 1976
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25807082
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg0pnZ_Q4dI?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-<!-- ## PDF print-out of this lesson
+## PDF print-out of this lesson
 
-If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there! -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25807082). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample)(http://playsongnotes.com/downloads)].
 
 ## Lyrics w/ chords
 
