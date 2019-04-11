@@ -6,10 +6,9 @@ song_title:  If I Had a Boat
 artist: Lyle Lovett
 year: 1987
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26032668
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25918682 -->
 
 ## Video Lesson
 
@@ -29,9 +28,9 @@ Video timestamps:
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25918682). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26032668). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Lyrics w/ chords
 
