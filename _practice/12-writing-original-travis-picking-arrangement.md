@@ -3,10 +3,9 @@ layout: practice
 title: How I composed a multi-part fingerstyle guitar arrangement
 slug: "12"
 date: 2019-04-12
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26077237
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25555059 -->
 
 ## Video Overview
 
@@ -14,9 +13,9 @@ patreon_lesson_url: https://www.patreon.com/posts/25555059 -->
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-friendly PDF of my notes for this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25555059). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26077237). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Editor's notes
 
