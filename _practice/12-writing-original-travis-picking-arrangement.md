@@ -1,6 +1,26 @@
+---
+layout: practice
+title: How I created a multi-part fingerstyle guitar arrangement
+slug: "12"
+date: 2019-04-12
+---
+
+<!-- patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25555059 -->
+
+## Video Overview
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/78VhRTZx3KA?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+
+## Print-friendly version of this lesson
+
+<!-- For a print-friendly PDF of my notes for this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25555059). For a few bucks a month, you get access to PDFs of all my new lessons. -->
+
+Coming soon!
+
 ## Editor's notes
 
-As part of my recent practicing, I found myself exploring some Travis picking sequences using familiar chords – and an hour later, unexpectedly came up with with the following song. It started with a few melodies I wanted to explore. Once I spent some time with them & wrote down the chords, I worked out the remaining gaps – and here's what resulted. This is no doubt inspired by the last several songs I'd learned in this style: Let Him Roll (Guy Clark), Hang Me in the Tulsa County Stars (John Moreland), Clay Pigeons (John Prine), and If I Had a Boat (Lyle Lovett). With each of these songs under my belt, my Travis picking confidence grew – and it felt great to get to this point where I could make up my own sequence using all I've learned so far.
+Hey friends! In this video I'll dive into the process I recently undertook of composing a multi-part arrangement for fingerstyle guitar. This happened quite unexpectedly: it started with me messing with some familiar Travis picking patterns while I watched the NCAA men's basketball finals the other night. As I continued to play, I began to settle into some melodies – and an hour later, unexpectedly was able to stitch them all together into following instrumental song/arrangement. This is no doubt inspired by the last several songs I'd learned in this style: Let Him Roll (Guy Clark), Hang Me in the Tulsa County Stars (John Moreland), Clay Pigeons (John Prine), and If I Had a Boat (Lyle Lovett). With each of these songs under my belt, my Travis picking confidence has grown – and it felt great to get to this point where I could make up my own sequence using all I've learned so far. I hope you enjoy the song, as well as this dive into the process of putting it all together. - David Potsiadlo (Apr 12, 2019)
 
 ## Chords
 
