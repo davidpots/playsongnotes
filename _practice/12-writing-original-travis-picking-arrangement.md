@@ -1,6 +1,6 @@
 ---
 layout: practice
-title: How I created a multi-part fingerstyle guitar arrangement
+title: How I composed a multi-part fingerstyle guitar arrangement
 slug: "12"
 date: 2019-04-12
 ---
@@ -10,7 +10,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25555059 -->
 
 ## Video Overview
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/78VhRTZx3KA?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ju8j71RHfq0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Print-friendly version of this lesson
 
