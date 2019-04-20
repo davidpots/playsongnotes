@@ -6,22 +6,33 @@ song_title: Wildflowers
 artist: Tom Petty
 year: 1994
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26240703
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25807082 -->
+
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA4AKs83Lxc?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
+Lesson timestamps:
+
+- 0:00 Playthrough & overview
+- 1:26 Capo 5th fret
+- 1:53 Chords for intro & verse
+- 5:38 Chord hammer-ons & flourish
+- 7:28 Strumming the intro & verse
+- 13:31 Bride chords & strumming
+- 18:41 Farewell
+
 <!-- Coming soon... -->
 
 ## PDF print-out of this lesson
 
-<!-- For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25807082). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). -->
+For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26240703). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
-Coming soon...
+<!-- Coming soon... -->
 
 ## Lyrics and chords
 
