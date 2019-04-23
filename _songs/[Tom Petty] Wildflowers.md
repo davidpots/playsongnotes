@@ -23,7 +23,7 @@ Lesson timestamps:
 - 1:53 Chords for intro & verse
 - 5:38 Chord hammer-ons & flourish
 - 7:28 Strumming the intro & verse
-- 13:31 Bride chords & strumming
+- 13:31 Bridge chords & strumming
 - 18:41 Farewell
 
 <!-- Coming soon... -->
