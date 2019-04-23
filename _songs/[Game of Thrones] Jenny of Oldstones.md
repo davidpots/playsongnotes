@@ -6,6 +6,8 @@ song_title: Jenny of Oldstones
 artist: Game of Thrones
 year: 2019
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26303236
 ---
 
 ## Video lesson
@@ -23,13 +25,17 @@ Timestamps:
 – 12:23 Step 6: Experiment with bass note patterns
 – 13:23 Farewell!
 
+## Sing-along cover with lyrics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HuQWwlOUOPw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <!-- Coming soon! -->
 
-## PDF chord sheet w/ tabs
+## Print-friendly version of this lesson
 
-<!-- The PDF chord sheet I made for this lesson is available on my Patreon page. Monthly supporters get access to the chord sheet for this, and dozens of other lessons. -->
+For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26303236). For a few bucks a month, you get access to PDFs of all my new & recent lessons.
 
-Coming later today! Stay tuned...
+
 
 ## Check out my lesson for the Game of Thrones theme song
 
