@@ -12,6 +12,17 @@ categories: guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D91MLr19uRw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Timestamps:
+
+– 0:00 Cover & lesson overview
+– 2:18 Step 1: Figure out which key the song is in
+– 3:14 Step 2: Use a capo to simplify the chords
+– 3:42 Step 3: Tab out the melody
+– 7:10 Step 4: Establish a "home base" groove
+– 10:28 Step 5: Experiment with strumming
+– 12:23 Step 6: Experiment with bass note patterns
+– 13:23 Farewell!
+
 <!-- Coming soon! -->
 
 ## PDF chord sheet w/ tabs
