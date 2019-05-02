@@ -4,7 +4,7 @@ has_video_lesson: true
 title: Guitar lesson for "Imagine" by John Lennon -- playsongnotes.com
 song_title:  Imagine
 artist: John Lennon
-year: 1972
+year: 1971
 categories: guitar
 ---
 
@@ -15,7 +15,7 @@ patreon_lesson_url: https://www.patreon.com/posts/23503056 -->
 
 In this lesson I'll teach you how to play "Imagine" by John Lennon on the acoustic guitar. I'll show you the intro & verse riff, explain the chords, demonstrate the strumming patterns, and teach you how to add some fun flourish to various chords in order to capture Lennon's piano sound. I hope you enjoy!
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/QehjXVLXdfQ?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QehjXVLXdfQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Video timestamps:
 
