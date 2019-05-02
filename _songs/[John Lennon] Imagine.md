@@ -27,6 +27,6 @@ Video timestamps:
 
 ## Print-friendly version of this lesson
 
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26533929). One month minimum ($3, cancel anytime) gets you access, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26533929). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 <!-- Coming soon! -->
