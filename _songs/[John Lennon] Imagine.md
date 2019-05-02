@@ -9,7 +9,7 @@ categories: guitar
 ---
 
 <!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/23503056 -->
+patreon_lesson_url: https://www.patreon.com/posts/26533929 -->
 
 ## Video lesson
 
@@ -27,6 +27,6 @@ Video timestamps:
 
 ## Print-friendly version of this lesson
 
-<!-- For get the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26435441). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). -->
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26533929). One month minimum ($3, cancel anytime) gets you access, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
-Coming soon!
+<!-- Coming soon! -->
