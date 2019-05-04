@@ -11,7 +11,7 @@ categories: guitar
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20756378 -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/hGmfxLfWc3k?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hGmfxLfWc3k?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## About this lesson
 
