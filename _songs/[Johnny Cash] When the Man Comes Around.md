@@ -6,6 +6,8 @@ song_title: When the Man Comes Around
 artist: Johnny Cash
 year: 2002
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26674074
 ---
 
 ## Video lesson
@@ -20,6 +22,10 @@ Lesson contents:
 - 5:39 Verse strumming: easy version
 - 7:48 Pre-chorus & chorus (strumming, etc)
 - 15:21 Verse strumming: advanced version
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26674074). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Lyrics and chords
 

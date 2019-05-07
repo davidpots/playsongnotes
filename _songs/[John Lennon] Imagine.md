@@ -6,10 +6,9 @@ song_title:  Imagine
 artist: John Lennon
 year: 1971
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26533929
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/26533929 -->
 
 ## Video lesson
 
