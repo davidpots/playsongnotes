@@ -6,6 +6,8 @@ song_title:  "Sleeping on the Blacktop"
 artist: Colter Wall
 year: 2015
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26779443
 ---
 
 ## How to play the intro riff
@@ -15,11 +17,11 @@ categories: guitar
 
 ## Print-friendly PDF tabs of this lesson
 
-Coming later this morning! Check back soon...
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26779443). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Editor's notes
 
-In my lesson above, I show you how to play the intro walk-down as well as the main riff heard in this song. Note, that I'm playing it in standard tuning with no capo. Colter Wall seems to play this with a capo 2nd fret and his guitar tuned down one whole step. Also, he's adding a bunch of additional notes & fills that I don't teach in my video – just because my aim is to keep it relatively simple and focused. If you want to learn it exactly like him, I would still recommend using my video as a starting point... it'll get you 90% of the way there.
+In my lesson above, I show you how to play the intro walk-down as well as the main riff heard in "Sleeping on the Blacktop" by Colter Wall. Note, that I'm playing it in standard tuning with no capo. Colter Wall seems to play this with a capo 2nd fret and his guitar tuned down one whole step. Also, he's adding a bunch of additional notes & fills that I don't teach in my video – just because my aim is to keep it relatively simple and focused. If you want to learn it exactly like him, I would still recommend using my video as a starting point... it'll get you 90% of the way there.
 
 Video timestamps:
 

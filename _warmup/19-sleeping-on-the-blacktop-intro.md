@@ -3,10 +3,9 @@ layout: warmup
 title: Colter Wall's Sleeping on the Blacktop intro riff
 slug: "19"
 date: 2019-05-11
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26779443
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/26191868 -->
 
 ## Video Overview
 
@@ -16,7 +15,7 @@ patreon_lesson_url: https://www.patreon.com/posts/26191868 -->
 
 ## Print-friendly PDF tabs of this lesson
 
-Coming later this morning! Check back soon...
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26779443). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Editor's notes
 
