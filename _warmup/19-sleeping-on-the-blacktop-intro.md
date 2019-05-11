@@ -14,9 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/26191868 -->
 
 <!-- Coming soon... -->
 
-## Print-friendly version of this lesson
+## Print-friendly PDF tabs of this lesson
 
-Coming later this morning!
+Coming later this morning! Check back soon...
 
 ## Editor's notes
 
