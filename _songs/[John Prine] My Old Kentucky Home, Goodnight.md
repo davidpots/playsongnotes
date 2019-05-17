@@ -6,18 +6,19 @@ song_title:  My Old Kentucky Home, Goodnight
 artist: John Prine
 year: 2019
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/26928505
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148 -->
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRENHZjtzlk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## PDF print-out of this lesson
 
-Coming within the hour... check back soon!
+<!-- Coming within the hour... check back soon! -->
 
-<!-- To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26533929). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project! -->
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26928505). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Editor's notes
 
