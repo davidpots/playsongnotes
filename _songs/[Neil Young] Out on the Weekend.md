@@ -6,11 +6,28 @@ song_title:  Out on the Weekend
 artist: Neil Young
 year: 1972
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27089906
 ---
+
+<!-- https://www.patreon.com/posts/27089906 -->
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PbKgfvlDrow?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Timestamps for this lesson:
+
+- 0:00 Playthrough & overview
+- 3:30 Chords used
+- 4:54 Strumming: basic pattern
+- 7:04 Strumming: flourish notes
+- 9:15 Strumming: muted technique
+- 10:58 Chorus chord voicings
+
+## PDF print-out of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27089906). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Chords w/ lyrics
 

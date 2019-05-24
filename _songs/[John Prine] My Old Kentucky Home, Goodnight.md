@@ -10,8 +10,6 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26928505
 ---
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRENHZjtzlk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## PDF print-out of this lesson
