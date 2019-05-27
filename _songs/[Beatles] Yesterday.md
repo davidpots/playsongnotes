@@ -31,7 +31,3 @@ Posting later this week... stay tuned!
 Hey friends! I'm excited to show you this play-along cover of "Yesterday" by the Beatles, which I've been practicing quite a bit. I'll show you two ways to play this: one a bit more close to The Beatles picking style, and another that leans into a bit more of a fingerstyle arrangement that still manages to keep things simple. My goal with this is to show you the most accessible & approachable way to play the song – even if that means I cut a few very small corners here and there. As usual, I'll teach you the chord shapes, some strumming options, and go deep into the fingerpicking with thorough tabs to guide you through it. I very much recommend the PDF song notes I've created for this lesson, as they're a great companion for the video.
 
 Have any other Beatles songs you want to see lessons for? Let me know! I'd like to do a few more in the month or two to come, as the movie "Yesterday" gets ready for theatrical release.
-
-## Good luck!
-
-Thanks for reading! I hope this helped you. Let me know what other Beatles songs you want to see lessons for!
