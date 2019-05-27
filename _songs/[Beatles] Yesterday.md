@@ -6,26 +6,25 @@ song_title:  Yesterday
 artist: The Beatles
 year: 1965
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27161783
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/20756378 -->
+
 
 ## Play-along cover
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/4BXzDOrjRro?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzijoSnQNfk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Full video lesson
 
 Posting later this week... stay tuned!
 
-## Print-friendly PDF of lyrics/tabs/chords available!
+## Print-friendly PDF of lyrics/tabs/chords
 
-<!-- [Support me on Patreon](https://www.patreon.com/posts/printable-lesson-20756378) to get access to a print-friendly PDF chord sheet (w/ lyrics, tabs, etc) for this song. This will also give you access to future chord sheets I make. -->
-
-Check back soon! Posting later this morning.
+[Support me on Patreon](https://www.patreon.com/posts/27161783) to get access to a print-friendly PDF chord sheet (w/ lyrics, tabs, etc) for this song. One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Editor's notes
 
