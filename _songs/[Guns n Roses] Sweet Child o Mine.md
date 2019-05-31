@@ -6,15 +6,28 @@ song_title:  Sweet Child O' Mine
 artist: Guns N' Roses
 year: 1988
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27269521
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aMYqAN8FRo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Quick note about tuning!
+## Print-friendly version of this lesson
 
-Guns N' Roses plays with everything tuned down 1/2 step (E becomes Eb, A becomes Ab, etc). In my video lesson, I'm staying in standard tuning to keep things simple.
+To download the print-friendly PDF I mention in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27269521). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+
+## Quick notes about my acoustic arrangement
+
+*I'm in standard tuning*
+Slash tunes all strings on his guitar down 1/2 step (Eb Ab Db Gb Bb Eb). To keep things easy for you, I'm going to keep things in standard tuning (E A D G B E).
+
+*I'm using an easier fretboard position*
+Slash plays things up between the 11th & 15th frets (tough!), but I'll bring the riff down one octave so it uses the familiar D-major chord position (easy!).
+
+*I'm simplifying a few of the notes*
+For the sake of practicality, I'm deviating from what Slash plays for just a few of the notes. 99% of listeners won't notice the difference!
 
 ## Intro riff (without ending sequence)
 
