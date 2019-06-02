@@ -6,6 +6,8 @@ song_title: Tennessee Flat Top Box
 artist: Johnny Cash
 year: 1961
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27317834
 ---
 
 ## Video lesson
@@ -15,6 +17,10 @@ My cover / playthrough:
 
 My full lesson explaining everything:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dP2hYluC8CQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I mention in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27317834). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Capo to play along with Johnny Cash
 
@@ -57,19 +63,19 @@ This one is very similar to the intro riff, the only difference being how it beg
 
 Play through these two sections twice:
 
-    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    B –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    G –––––––––––––––––––––––––––––––––––––––––0–0–––––––––––––––
-    D ––––––––––––––––––––––––––––––––––––––2–––––––2––3––2––0–––
-    A –––––0––2––3–––––0––2––3–––––0––2––3–––––––––––––––––––––––
-    E ––3–––––––––––3–––––––––––3––––––––––––––––––––––––––––––––
+    E ||––––––––––––––––––––––––––––––––––––––––––––––––––––––––––|–
+    B ||––––––––––––––––––––––––––––––––––––––––––––––––––––––––––|–
+    G ||–––––––––––––––––––––––––––––––––––––––––0–0––––––––––––––|–
+    D ||––––––––––––––––––––––––––––––––––––––2–––––––2––3––2––0––|–
+    A ||–––––0––2––3–––––0––2––3–––––0––2––3––––––––––––––––––––––|–
+    E ||––3–––––––––––3–––––––––––3–––––––––––––––––––––––––––––––|–
 
-    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    B –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    G ––3/4––4–4––––––––––––3/4––4–4–––––––––––––––––––––––––––––
-    D ––4/5––5–5––0––0–0––––4/5––5–5––0––0–0––––/5––3––2––0––––––
-    A –––––––––––––––––––––––––––––––––––––––––––––––––––––––3–––
-    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    E –|––––––––––––––––––––––––––––––––––––––––––––––––––––––––––||
+    B –|––––––––––––––––––––––––––––––––––––––––––––––––––––––––––||
+    G –|–3/4––4–4––––––––––––3/4––4–4–––––––––––––––––––––––––––––||
+    D –|–4/5––5–5––0––0–0––––4/5––5–5––0––0–0––––/5––3––2––0––––––||
+    A –|––––––––––––––––––––––––––––––––––––––––––––––––––––––3–––||
+    E –|––––––––––––––––––––––––––––––––––––––––––––––––––––––––––||
 
 Then, play this to end it and transition into the next verse:
 
