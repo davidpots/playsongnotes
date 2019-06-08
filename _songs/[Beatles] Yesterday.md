@@ -10,8 +10,6 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27161783
 ---
 
-
-
 ## Play-along cover
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RzijoSnQNfk?showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -20,7 +18,7 @@ patreon_lesson_url: https://www.patreon.com/posts/27161783
 
 ## Full video lesson
 
-Posting later this week... stay tuned!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYGC06x7B9E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Print-friendly PDF of lyrics/tabs/chords
 
@@ -28,6 +26,19 @@ Posting later this week... stay tuned!
 
 ## Editor's notes
 
-Hey friends! I'm excited to show you this play-along cover of "Yesterday" by the Beatles, which I've been practicing quite a bit. I'll show you two ways to play this: one a bit more close to The Beatles picking style, and another that leans into a bit more of a fingerstyle arrangement that still manages to keep things simple. My goal with this is to show you the most accessible & approachable way to play the song – even if that means I cut a few very small corners here and there. As usual, I'll teach you the chord shapes, some strumming options, and go deep into the fingerpicking with thorough tabs to guide you through it. I very much recommend the PDF song notes I've created for this lesson, as they're a great companion for the video.
+Hey friends! Here's my full lesson for Yesterday by The Beatles. I'll teach you how to play it in standard tuning (the Beatles tune down 1 whole step), showing you two different fingerstyle approaches you can use to get the job done. One of them is more in the style of The Beatles (17:27), while the other uses the same chords & notes, but uses a more spacious fingerpicking pattern – which I prefer when playing it (28:01). Otherwise, I'll start with the chord shapes, explain some ways to simplify some of the difficult transitions, and go over the general chord progression basics. In the end, you'll have everything you need to play this song - whether you want to imitate the Beatles style, or do something more straightforward & strummy.
+
+Timestamps for my full lesson:
+
+- 0:00 Lesson preview & greeting
+- 1:12 Tuning: standard vs. whole step down?
+- 1:40 How to play the chords
+- 6:49 Simplifying the F#m and B7
+- 10:14 Chord progression basics
+- 14:35 Strumming vs. fingerpicking?
+- 17:27 Fingerpicking tab (var. 1 of 2)
+- 28:01 Fingerpicking tab (var. 2 of 2)
+- 30:02 Advanced chorus walk-down
+- 32:15 Farewell
 
 Have any other Beatles songs you want to see lessons for? Let me know! I'd like to do a few more in the month or two to come, as the movie "Yesterday" gets ready for theatrical release.
