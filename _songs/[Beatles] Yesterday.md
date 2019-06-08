@@ -22,7 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/27161783
 
 ## Print-friendly PDF of lyrics/tabs/chords
 
-[Support me on Patreon](https://www.patreon.com/posts/27161783) to get access to a print-friendly PDF chord sheet (w/ lyrics, tabs, etc) for this song. One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+There are two ways to get the PDF chord sheet for this lesson:
+
+- *[Support me on Patreon](https://www.patreon.com/posts/27161783)* - one month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). The monthly support is tremendously helpful in supporting this independent project of mine.
+- *[One-time purchase for $3](https://gumroad.com/l/songnotes-yesterday)* - checkout takes seconds, no monthly fees, keep the PDF forever.
 
 ## Editor's notes
 
