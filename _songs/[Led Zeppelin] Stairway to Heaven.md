@@ -7,16 +7,26 @@ artist: Led Zeppelin
 year: 1971
 categories: guitar
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25334786
+patreon_lesson_url: https://www.patreon.com/posts/27574943
 ---
 
 ## Video lesson
 
+### Intro (part 1)
+
+Part 2 is coming next (second half of June 2019).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0RybdmubxzY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+### Interlude
+
+"Oh, it makes me wonder" part heard between 2:14-2:38 of the song.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jimGTqxnxtg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/25334786) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+[Support me on Patreon](https://www.patreon.com/posts/27574943) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for both of these lessons (intro AND interlude). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Intro, part 1
 
@@ -41,6 +51,10 @@ The key to learning this, if your'e just getting started with it, is to learn th
          Am        Am/G#       Am/G      D/F#        Fadd9              G/B Am
 
 Once you get these worked out, adding the fingerpicking is much easier an ordeal.
+
+## Interlude tab
+
+Available on [my Patreon page](https://www.patreon.com/posts/27574943).
 
 ## Stay tuned for the rest!
 
