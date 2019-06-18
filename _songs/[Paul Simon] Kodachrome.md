@@ -6,11 +6,25 @@ song_title: Kodachrome
 artist: Paul Simon
 year: 1973
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27711802
 ---
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC0EnK6p1nQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Video timestamps:
+
+- 0:00 Playthrough & agenda
+- 3:27 Chords used
+- 4:56 Strumming pattern
+- 6:13 Intro riff
+- 12:26 Chorus & outro
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27711802). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Lyrics & chords
 
