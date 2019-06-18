@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: "Guitar lesson for Sleeping on the Blacktop by Colter Wall"
 song_title:  "Sleeping on the Blacktop"
 artist: Colter Wall
 year: 2015
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/26779443
 ---
 

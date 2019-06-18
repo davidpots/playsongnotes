@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Lonesome Town" by Ricky Nelson -- playsongnotes.com
 song_title: Lonesome Town
 artist: Ricky Nelson
 year: 1958
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/26435441
 ---
 

@@ -3,7 +3,7 @@ layout: warmup
 title: Cowboy chords and walking bass lines
 slug: "16"
 date: 2019-02-22
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/24901786/
 ---
 

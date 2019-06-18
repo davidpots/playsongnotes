@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Last Christmas" by Wham!
 song_title:  Last Christmas
 artist: Wham!
 year: 1984
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/23522694
 ---
 

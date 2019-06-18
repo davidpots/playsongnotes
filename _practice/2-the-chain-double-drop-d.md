@@ -3,7 +3,7 @@ layout: practice
 title: '"The Chain" and Double-Drop D tuning'
 slug: "2"
 date: 2018-08-06
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-20607117
 ---
 

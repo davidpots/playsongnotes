@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Apple Blossom" by The White Stripes -- playsongnotes.com
 song_title:  Apple Blossom
 artist: The White Stripes
 year: 2000
-categories: guitar
+
 ---
 
 ## Video lesson

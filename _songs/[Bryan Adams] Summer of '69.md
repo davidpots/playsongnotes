@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Summer of '69" by Bryan Adams -- playsongnotes.com
 song_title:  Summer of '69
 artist: Bryan Adams
 year: 1984
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821743
 ---
 

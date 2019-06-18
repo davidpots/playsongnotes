@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Ukulele lesson for "Blank Space" by Taylor Swift -- playsongnotes.com
 song_title: Blank Space
 artist: Taylor Swift
 year: 2014
-categories: ukulele
+
 ---
 
 ## Video lesson

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Magic" by Rudy Mancuso & Maia Mitchell
 song_title:  Magic
 artist: Rudy Mancuso & Maia Mitchell
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

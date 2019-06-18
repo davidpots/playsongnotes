@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Despacito" by Luis Fonsi ft Justin Bieber -- playsongnotes.com
 song_title:  Despacito
 artist: Luis Fonsi
 artist_featured: Justin Bieber
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

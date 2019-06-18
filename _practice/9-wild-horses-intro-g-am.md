@@ -3,7 +3,7 @@ layout: practice
 title: Adding fills to the Wild Horses intro
 slug: "9"
 date: 2019-01-24
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/24194426
 ---
 

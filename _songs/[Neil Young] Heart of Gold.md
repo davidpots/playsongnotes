@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Heart of Gold" by Neil Young
 song_title:  Heart of Gold
 artist: Neil Young
 year: 1972
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/23773015/
 ---
 

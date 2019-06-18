@@ -3,7 +3,7 @@ layout: warmup
 title: Open chords in the Key of E
 slug: "11"
 date: 2018-12-26
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/repost-printable-23986840
 ---
 

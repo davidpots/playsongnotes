@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "River" by Eminem ft. Ed Sheeran
 song_title:  River
 artist: Ed Sheeran
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

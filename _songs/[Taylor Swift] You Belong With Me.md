@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: false
+
 title: Guitar lesson for "You Belong With Me" by Taylor Swift
 song_title: You Belong With Me
 artist: Taylor Swift
 year: 2008
-categories: guitar
+
 ---
 
 ## Tune down 1/2 step to play along with Taylor Swift

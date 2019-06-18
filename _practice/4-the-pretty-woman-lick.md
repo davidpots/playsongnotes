@@ -3,7 +3,7 @@ layout: practice
 title: The "Pretty Woman" lick, played 4 different ways
 slug: "4"
 date: 2018-10-13
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/22030862
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: false
+
 title: Guitar lesson for "I Won't Give Up" by Jason Mraz
 song_title:  I Won't Give Up
 artist: Jason Mraz
 year: 2012
-categories: guitar
+
 ---
 
 ## Video lesson

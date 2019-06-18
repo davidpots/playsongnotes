@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Where Did You Sleep Last Night" by Nirvana
 song_title:  Where Did You Sleep Last Night
 artist: Nirvana
 year: 1994
-categories: guitar
+
 ---
 
 ## Video lesson

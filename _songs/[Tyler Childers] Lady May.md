@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Lady May" by Tyler Childers
 song_title:  Lady May
 artist: Tyler Childers
 year: 2017
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/21287497
 ---
 

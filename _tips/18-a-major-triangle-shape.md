@@ -3,7 +3,7 @@ layout: tip
 title: Playing A-major with big fingers or a small fretboard
 slug: "18"
 date: 2018-11-27
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/22959683
 ---
 

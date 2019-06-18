@@ -3,7 +3,7 @@ layout: warmup
 title: Open chords in key of D w/ major & minor triads
 slug: "14"
 date: 2019-02-09
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/24596181/
 ---
 

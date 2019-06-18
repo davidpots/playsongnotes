@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "True Colors" by Justin Timberlake and Anna Kendrick -- playsongnotes.com
 song_title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
 year: 2016
-categories: guitar
+
 ---
 
 ## Video lesson

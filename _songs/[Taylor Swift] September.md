@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "September" as covered by Taylor Swift
 song_title:  September
 artist: Taylor Swift
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Meet Me In The Hallway" by Harry Styles -- playsongnotes.com
 song_title:  Meet Me In The Hallway
 artist: Harry Styles
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

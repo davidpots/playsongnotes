@@ -3,7 +3,7 @@ layout: warmup
 title: Murder ballad groove in A-minor
 slug: "5"
 date: 2018-10-01
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/21795147
 ---
 

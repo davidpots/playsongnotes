@@ -3,7 +3,7 @@ layout: warmup
 title: Mudfootball G-D7 Shuffle
 slug: "6"
 date: 2018-10-07
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/21907252
 ---
 

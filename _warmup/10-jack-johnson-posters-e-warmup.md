@@ -3,7 +3,7 @@ layout: warmup
 title: Backyard grooving in E-major ("Posters" by Jack Johnson)
 slug: "10"
 date: 2018-11-20
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/22883540
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Shallow" by Lady Gaga & Bradley Cooper
 song_title:  Shallow
 artist: Lady Gaga & Bradley Cooper
 year: 2018
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/21995927
 ---
 

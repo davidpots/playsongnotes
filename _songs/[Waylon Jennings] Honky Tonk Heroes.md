@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Honky Tonk Heroes" by Waylon Jennings
 song_title:  Honky Tonk Heroes
 artist: Waylon Jennings
 year: 1973
-categories: guitar
+
 ---
 
 ## Video lesson

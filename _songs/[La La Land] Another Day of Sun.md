@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Another Day of Sun" from La La Land -- playsongnotes.com
 song_title:  Another Day of Sun
 artist: La La Land
 year: 2016
-categories: guitar
+
 ---
 
 ## Video lesson

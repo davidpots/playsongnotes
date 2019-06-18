@@ -40,7 +40,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% assign sorted_songs = (site.songs | sort: 'song_title') %}
 <ul>
     {% for song in sorted_songs %}
-      {% if song.patreon_lesson_available == true %}
+      {% if song.patreon_lesson_url %}
 <li><strong><a href="{{song.patreon_lesson_url}}">{{ song.song_title }}</a></strong> <span class="small">by {{ song.artist }}</span></li>
       {% endif %}
     {% endfor %}
@@ -52,7 +52,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% assign sorted_warmups = site.warmup | sort: 'date' | reverse %}
 <ul>
     {% for warmup in sorted_warmups %}
-      {% if warmup.patreon_lesson_available == true %}
+      {% if warmup.patreon_lesson_url %}
 <li><strong><a href="{{warmup.patreon_lesson_url}}">#{{ warmup.slug }}: {{ warmup.title }}</a></strong> <span class="small">{{ warmup.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
@@ -63,7 +63,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% assign sorted_plogs = site.practice | sort: 'date' | reverse %}
 <ul>
     {% for plog in sorted_plogs %}
-      {% if plog.patreon_lesson_available == true %}
+      {% if plog.patreon_lesson_url %}
 <li><strong><a href="{{plog.patreon_lesson_url}}">#{{ plog.slug }}: {{ plog.title }}</a></strong> <span class="small">{{ plog.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
@@ -74,7 +74,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% assign sorted_tips = site.tips | sort: 'date' | reverse %}
 <ul>
     {% for tip in sorted_tips %}
-      {% if tip.patreon_lesson_available == true %}
+      {% if tip.patreon_lesson_url %}
 <li><strong><a href="{{tip.patreon_lesson_url}}">#{{ tip.slug }}: {{ tip.title }}</a></strong> <span class="small">{{ tip.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}

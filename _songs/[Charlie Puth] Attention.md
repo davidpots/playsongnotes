@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Attention" by Charlie Puth
 song_title:  Attention
 artist: Charlie Puth
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -3,7 +3,7 @@ layout: tip
 title: Add easy flourish to C-F-G-Am
 slug: "21"
 date: 2019-03-04
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/25204139
 ---
 

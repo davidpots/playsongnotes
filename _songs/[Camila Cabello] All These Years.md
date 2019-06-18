@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "All These Years" by Camila Cabello
 song_title:  All These Years
 artist: Camila Cabello
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Runnin' Down a Dream" by Tom Petty
 song_title:  Runnin' Down a Dream
 artist: Tom Petty
 year: 1989
-categories: guitar
+
 ---
 
 ## Video lesson

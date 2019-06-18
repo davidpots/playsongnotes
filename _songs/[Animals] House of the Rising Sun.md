@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "House of the Rising Sun" by The Animals
 song_title:  House of the Rising Sun
 artist: The Animals
 year: 1964
-categories: guitar
+
 ---
 
 ## Video lesson

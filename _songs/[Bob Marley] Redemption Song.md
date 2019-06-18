@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Redemption Song" by Bob Marley -- playsongnotes.com
 song_title:  Redemption Song
 artist: Bob Marley
 year: 1980
-categories: guitar
+
 ---
 
 ## Video lesson

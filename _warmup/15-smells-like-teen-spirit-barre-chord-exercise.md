@@ -3,7 +3,7 @@ layout: warmup
 title: Barre Chord Exercise for Smells Like Teen Spirit
 slug: "15"
 date: 2019-02-13
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/24697299/
 ---
 

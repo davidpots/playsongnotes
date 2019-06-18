@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Creep" by Radiohead
 song_title:  Creep
 artist: Radiohead
 year: 1993
-categories: guitar
+
 ---
 
 ## Video lesson

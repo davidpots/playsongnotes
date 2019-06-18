@@ -3,7 +3,7 @@ layout: practice
 title: Adding pinky accent notes to a chord progression
 slug: "5"
 date: 2018-11-11
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22651220
 ---
 

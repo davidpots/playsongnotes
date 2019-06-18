@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "On the Road Again" by Willie Nelson
 song_title:  On the Road Again
 artist: Willie Nelson
 year: 1980
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -3,7 +3,7 @@ layout: warmup
 title: Colter Wall's Sleeping on the Blacktop intro riff
 slug: "19"
 date: 2019-05-11
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/26779443
 ---
 

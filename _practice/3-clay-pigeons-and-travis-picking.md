@@ -3,7 +3,7 @@ layout: practice
 title: Learning to Travis Pick with "Clay Pigeons"
 slug: "3"
 date: 2018-09-13
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085
 ---
 

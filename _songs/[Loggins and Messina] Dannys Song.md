@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Danny's Song" by Loggins and Messina
 song_title:  Danny's Song
 artist: Loggins and Messina
 year: 1971
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/22930633
 ---
 

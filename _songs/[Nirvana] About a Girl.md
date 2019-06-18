@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "About a Girl" by Nirvana
 song_title:  About a Girl
 artist: Nirvana
 year: 1994
-categories: guitar
+
 ---
 
 ## Video lesson

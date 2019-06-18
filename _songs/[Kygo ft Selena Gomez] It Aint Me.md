@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "It Ain't Me" by Kygo -- playsongnotes.com
 song_title:  It Ain't Me
 artist: Kygo
 artist_featured: Selena Gomez
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

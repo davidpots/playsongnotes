@@ -3,7 +3,7 @@ layout: tip
 title: An easier way to play F#m (no barre chord)
 slug: "23"
 date: 2019-06-04
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/27377464
 ---
 

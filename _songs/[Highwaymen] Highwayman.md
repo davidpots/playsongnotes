@@ -1,12 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar & ukulele lesson for "Highwayman" by The Highwaymen -- playsongnotes.com
 song_title:  Highwayman
 artist: The Highwaymen
 year: 1985
-categories: guitar, ukulele
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/24575218
 ---
 

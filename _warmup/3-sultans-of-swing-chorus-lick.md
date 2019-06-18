@@ -3,7 +3,7 @@ layout: warmup
 title: '"Sultans of Swing" chorus lick'
 slug: "3"
 date: 2018-09-18
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/21510622
 ---
 

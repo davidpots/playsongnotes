@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Sorry Not Sorry" by Demi Lovato -- playsongnotes.com
 song_title:  Sorry Not Sorry
 artist: Demi Lovato
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

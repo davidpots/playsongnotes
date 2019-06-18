@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Rivers of Babylon" by Sublime -- playsongnotes.com
 song_title:  Rivers of Babylon
 artist: Sublime
 year: 1998
-categories: guitar
+
 ---
 
 ## Video lesson

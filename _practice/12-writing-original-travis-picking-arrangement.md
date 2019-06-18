@@ -3,7 +3,7 @@ layout: practice
 title: How I composed a multi-part fingerstyle guitar arrangement
 slug: "12"
 date: 2019-04-12
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/26077237
 ---
 

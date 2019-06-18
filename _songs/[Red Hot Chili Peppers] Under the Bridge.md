@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Under the Bridge" by Red Hot Chili Peppers
 song_title: Under the Bridge
 artist: Red Hot Chili Peppers
 year: 1991
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/25250503
 ---
 

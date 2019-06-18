@@ -3,7 +3,7 @@ layout: tip
 title: Guitar chords on a ukulele
 slug: "20"
 date: 2018-12-13
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/23324554/
 ---
 

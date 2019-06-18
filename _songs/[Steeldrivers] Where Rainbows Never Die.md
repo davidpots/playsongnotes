@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Where Rainbows Never Die" by The Steeldrivers
 song_title:  Where Rainbows Never Die
 artist: The Steeldrivers
 year: 2010
-categories: guitar
+
 ---
 
 ## Video lesson

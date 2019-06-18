@@ -1,14 +1,14 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Always Remember Us This Way" by Lady Gaga
 song_title:  Always Remember Us This Way
 artist: Lady Gaga
 year: 2018
-categories: guitar
+
 ---
 
-<!-- patreon_lesson_available: true
+<!-- 
 patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QVSTZNG-AyM?showinfo=0" frameborder="0" allowfullscreen></iframe>

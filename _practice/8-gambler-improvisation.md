@@ -3,7 +3,7 @@ layout: practice
 title: Improvised guitar pickin' on "The Gambler"
 slug: "8"
 date: 2019-01-16
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/24033565/
 ---
 

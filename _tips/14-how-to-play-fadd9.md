@@ -3,7 +3,7 @@ layout: tip
 title: How to play Fadd9
 slug: "14"
 date: 2018-09-24
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21646757
 ---
 

@@ -3,7 +3,7 @@ layout: tip
 title: Palm muting basics
 slug: "16"
 date: 2018-10-30
-patreon_lesson_available: true
+
 patreon_lesson_url: https://www.patreon.com/posts/22409071
 ---
 

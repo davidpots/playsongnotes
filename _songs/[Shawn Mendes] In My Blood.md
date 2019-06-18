@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "In My Blood" by Shawn Mendes
 song_title:  In My Blood
 artist: Shawn Mendes
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

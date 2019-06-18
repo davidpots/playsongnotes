@@ -1,12 +1,12 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Guantanamera" by Pete Seeger
 song_title:  Guantanamera
 artist: Pete Seeger
 year: 1963
-categories: guitar
-patreon_lesson_available: true
+
+
 patreon_lesson_url: https://www.patreon.com/posts/24356142
 ---
 

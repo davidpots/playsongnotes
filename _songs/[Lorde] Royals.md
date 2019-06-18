@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Royals" by Lorde -- playsongnotes.com
 song_title:  Royals
 artist: Lorde
 year: 2013
-categories: guitar
+
 ---
 
 ## Video lesson

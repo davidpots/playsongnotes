@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Man of the Woods" by Justin Timberlake
 song_title:  Man of the Woods
 artist: Justin Timberlake
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson
