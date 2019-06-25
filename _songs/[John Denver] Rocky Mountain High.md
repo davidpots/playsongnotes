@@ -6,6 +6,8 @@ song_title: Rocky Mountain High
 artist: John Denver
 year: 1972
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27883309
 ---
 
 ## Video lesson
@@ -18,6 +20,10 @@ categories: guitar
 - 10:45 Chords shapes needed
 - 11:58 Verse w/ strumming
 - 13:27 Chorus
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27883309). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Lyrics w/ chords
 
@@ -131,7 +137,7 @@ Here's how to play the chords used in this song. Remember, we're in drop-D tunin
 
 ## Strumming
 
-If you prefer to strum, here's a patter you can use for the entire song. I show it here with the D / Em / G / A for context.
+If you prefer to strum, here's a pattern you can use for the entire song. I show it here with the D / Em / G / A for context.
 
     D                               Em              G       A
     ↓   ↓ ↑ ↓   ↓ ↑ ↓   ↓ ↑ ↓   ↓ ↑ ↓   ↓ ↑ ↓   ↓ ↑ ↓   ↓ ↑ ↓   ↓ ↑
