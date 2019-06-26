@@ -3,10 +3,9 @@ layout: tip
 title: Ring Finger Barre Strength Exercise
 slug: "25"
 date: 2019-06-25
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/27916357
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/27795273 -->
 
 ## Video Overview
 
@@ -14,9 +13,9 @@ patreon_lesson_url: https://www.patreon.com/posts/27795273 -->
 
 ## Print-friendly version of this lesson
 
-<!-- To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27795273). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project! -->
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27916357). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
-Check back in a few minutes! Posting it now...
+<!-- Check back in a few minutes! Posting it now... -->
 
 <!-- Coming later this morning! Check back soon... -->
 
