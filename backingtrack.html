@@ -4,3 +4,13 @@ permalink: /backingtrack/1
 ---
 
 <h2>Hello! I'm still getting this part of the site built - but in the meantime you can find the Tennessee Whiskey backing track exercises <a href="http://www.playsongnotes.com/practice/7">right here</a>.</h2>
+
+
+{% assign songs_by_artist = site.songs | group_by: 'artist' | sort: 'song_title' %}
+
+{% for artist in songs_by_artist %}
+  <h3>{{artist.name}}</h3>
+  {% for song in artist.items %}
+  <p>{{song.song_title}}</p>
+  {% endfor %}
+{% endfor %}
