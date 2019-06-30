@@ -6,11 +6,17 @@ song_title:  Strangers
 artist: The Kinks
 year: 1970
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28015769
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IkG_FCZ-s4g?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28015769). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Chord progressions
 
@@ -141,7 +147,7 @@ Now, of course -- there are other positions and voicings you could use for many 
                 We are not two, we are one
                    E       E7       Am         F
                 Strangers on this road we are on
-                 C           G          C  C/B
+                 C           G          C  C/B  F  C  G  G7  C (end)
                 We are not two, we are one
 
 ## Thanks!
