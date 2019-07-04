@@ -6,16 +6,15 @@ song_title:  You've Got a Friend in Me
 artist: Randy Newman
 year: 1995
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28140715
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862 -->
 
 ## Fingerstyle intro lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pCgwYSW99RI?showinfo=0" frameborder="0" allowfullscreen></iframe><br /> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pCgwYSW99RI?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Coming soon!
+<!-- Coming soon! -->
 
 ### Lesson timestamps
 
@@ -26,7 +25,7 @@ Coming soon!
 
 ### PDF chord sheet w/ tabs
 
-[Get the PDF via my Patreon page](https://www.patreon.com/posts/printable-lesson-23379862) - supporting me for $3/month to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to the many chord sheets I've already made for other lessons. Thanks for your support!
+[Get the PDF via my Patreon page](https://www.patreon.com/posts/28140715) - supporting me for $3/month to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to the many chord sheets I've already made for other lessons. Thanks for your support!
 
 [Check out a free sample](http://playsongnotes.com/downloads) of my PDF chord sheets if you'd like to learn more.
 

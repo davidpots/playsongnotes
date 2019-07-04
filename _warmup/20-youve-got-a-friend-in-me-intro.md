@@ -3,10 +3,9 @@ layout: warmup
 title: Fingerstyle intro to "You've got a Friend in Me"
 slug: "20"
 date: 2019-07-03
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28140715
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/26779443 -->
 
 ## Video lesson
 
@@ -16,7 +15,7 @@ patreon_lesson_url: https://www.patreon.com/posts/26779443 -->
 
 ## Print-friendly PDF tabs of this lesson
 
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26779443). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28140715). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Editor's notes
 
