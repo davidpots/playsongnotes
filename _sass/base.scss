@@ -32,10 +32,10 @@
   }
   .lesson-list--title {
     font-weight: bold;
-    display: block;
   }
   .lesson-list--artist {
     font-size: 14px;
+    display: block;
   }
   .lesson-list--year {
     position: absolute;
@@ -43,5 +43,12 @@
     right: 18px;
     font-size: 14px;
     color: #aaa;
+  }
+  .lesson-list--pdf {
+    font-size: 11px;
+    background: yellow;
+    border-radius: 2px;
+    padding: 1px 3px 0px;
+    display: inline-block;
   }
 }

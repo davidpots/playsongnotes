@@ -81,8 +81,12 @@ layout: default
         <a href="{{ song.url | relative_url }}">
           <div class="lesson-list--item-wrap">
             <span class="lesson-list--title">{{ song.song_title | escape }}</span>
+            {% if song.patreon_lesson_available == true %}
+              <span class="lesson-list--pdf">PDF</span>
+            {% endif %}
             <span class="lesson-list--artist">{{ song.artist }}</span>
           </div>
+
           <span class="lesson-list--year">{{ song.year }}</span>
         </a>
       </li>

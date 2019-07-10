@@ -3,7 +3,7 @@ layout: song
 has_video_lesson: true
 title: Guitar lesson for "Game of Thrones" theme song (easy version) -- playsongnotes.com
 song_title: Game of Thrones (theme)
-artist: Ramin Djawadi
+artist: Game of Thrones
 year: 2011
 categories: guitar
 ---

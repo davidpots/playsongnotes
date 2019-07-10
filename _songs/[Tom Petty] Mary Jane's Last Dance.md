@@ -3,7 +3,7 @@ layout: song
 has_video_lesson: true
 title: Guitar lesson for "Mary Jane's Last Dance" by Tom Petty and the Heartbreakers
 song_title:  Mary Jane's Last Dance
-artist: Tom Petty and The Heartbreakers
+artist: Tom Petty
 year: 1993
 categories: guitar
 patreon_lesson_available: true

@@ -35,19 +35,38 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 All those supporting me on Patreon ($3/month) have access to this growing list of PDFs I've been creating since August 2018. I have been adding ~2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Here's what's currently available. Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
 
-### Full song lessons:
+{% assign songs_by_artist = site.songs | group_by: 'artist' | sort: 'song_title' %}
 
-    {% assign sorted_songs = (site.songs | sort: 'song_title') %}
-<ul>
-    {% for song in sorted_songs %}
+<div style="column-count: 3; column-width: 300px;">
+{% for artist in songs_by_artist %}
+
+    {% assign artist_count = 0 %}
+
+    {% for song in artist.items %}
+
       {% if song.patreon_lesson_available == true %}
-<li><strong><a href="{{song.patreon_lesson_url}}">{{ song.song_title }}</a></strong> <span class="small">by {{ song.artist }}</span></li>
+        {% assign artist_count = artist_count | plus: 1 %}
       {% endif %}
-    {% endfor %}
-    <li>...new songs added every week</li>
-</ul>
 
-### Warm Up Exercises:
+    {% endfor %}
+
+      {% if artist_count > 0 %}
+        <h3 class="mbn">{{artist.name}}</h3>
+        <ul>
+        {% for song in artist.items %}
+        {% if song.patreon_lesson_available == true %}
+          <li><a href="{{song.patreon_lesson_url}}"><strong>{{song.song_title}}</strong></a></li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+      {% endif %}
+
+
+{% endfor %}
+</div>
+
+
+## Warm Up Exercise PDFs:
 
     {% assign sorted_warmups = site.warmup | sort: 'date' | reverse %}
 <ul>
@@ -58,7 +77,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% endfor %}
 </ul>
 
-### Practice Log:
+## Practice Log PDFs:
 
     {% assign sorted_plogs = site.practice | sort: 'date' | reverse %}
 <ul>
@@ -69,7 +88,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% endfor %}
 </ul>
 
-### Tips & Techniques:
+## Tips & Technique PDFs:
 
     {% assign sorted_tips = site.tips | sort: 'date' | reverse %}
 <ul>
