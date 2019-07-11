@@ -35,6 +35,10 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 All those supporting me on Patreon ($3/month) have access to this growing list of PDFs I've been creating since August 2018. I have been adding ~2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Here's what's currently available. Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
 
+{% assign number_of_pdfs = 0 %}
+
+
+
 {% assign songs_by_artist = site.songs | group_by: 'artist' | sort: 'song_title' %}
 
 <div style="column-count: 3; column-width: 300px;">
@@ -55,6 +59,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
         <ul>
         {% for song in artist.items %}
         {% if song.patreon_lesson_available == true %}
+          {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
           <li><a href="{{song.patreon_lesson_url}}"><strong>{{song.song_title}}</strong></a></li>
         {% endif %}
         {% endfor %}
@@ -72,6 +77,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 <ul>
     {% for warmup in sorted_warmups %}
       {% if warmup.patreon_lesson_available == true %}
+      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
 <li><strong><a href="{{warmup.patreon_lesson_url}}">#{{ warmup.slug }}: {{ warmup.title }}</a></strong> <span class="small">{{ warmup.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
@@ -83,6 +89,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 <ul>
     {% for plog in sorted_plogs %}
       {% if plog.patreon_lesson_available == true %}
+      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
 <li><strong><a href="{{plog.patreon_lesson_url}}">#{{ plog.slug }}: {{ plog.title }}</a></strong> <span class="small">{{ plog.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
@@ -94,12 +101,14 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 <ul>
     {% for tip in sorted_tips %}
       {% if tip.patreon_lesson_available == true %}
+      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
 <li><strong><a href="{{tip.patreon_lesson_url}}">#{{ tip.slug }}: {{ tip.title }}</a></strong> <span class="small">{{ tip.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>
 
+## {{number_of_pdfs}} PDFs, and counting!
 
-If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my indepedent efforts (and costs) of creating all these lessons to share with the world. Thank you.
+If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my independent efforts (and costs) of creating all these lessons to share with the world. Thank you.
 
 <a style="display: inline-block; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
