@@ -6,12 +6,29 @@ song_title:  Apple Blossom
 artist: The White Stripes
 year: 2000
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28342366
 ---
 
 ## Video lesson
 
 Here's my video lesson, definitely check this out to see how everything below is played:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xhX8QinM3vk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28342366). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+
+## Editor's notes
+
+Hey friends! Here's a new PDF for my lesson teaching "Apple Blossom" by The White Stripes (it also appears on Jack White's acoustic album from 2016). It includes chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar. This is a song I enjoyed quite a bit during my college days (1999-2003), but I fell in love with it again after hearing it used in Quentin Tarantino's movie "The Hateful Eight".
+
+Video timestamps:
+
+- 3:22 Chords Used
+- 4:08 Verse Strumming Technique
+- 5:57 Refrain Strumming Technique
+- 7:54 Barre Chords
 
 ## Lyrics
 
