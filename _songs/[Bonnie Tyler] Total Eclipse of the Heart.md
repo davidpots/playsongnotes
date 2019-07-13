@@ -6,15 +6,17 @@ song_title:  Total Eclipse of the Heart
 artist: Bonnie Tyler
 year: 1983
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qWA8I5OOFno?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## PDF print-out of this lesson
+## Print-friendly version of this lesson
 
-If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there!
+To download the print-friendly PDF I show in my video lesson, [visit my Patreon page](https://www.patreon.com/posts/22744103). This song is part of my free sampler pack. For all of my other songs, one month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Capo 1st fret
 
