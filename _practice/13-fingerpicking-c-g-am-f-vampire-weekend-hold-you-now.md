@@ -3,10 +3,11 @@ layout: practice
 title: Fingerpicking C-G-Am-F (based on Vampire Weekend's "Hold You Now")
 slug: "13"
 date: 2019-07-16
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28420165
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/26077237 -->
+
 
 ## Video Overview
 
@@ -23,9 +24,9 @@ Lesson timestamps:
 
 ## Print-friendly version of this lesson
 
-<!-- For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26077237). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). -->
+For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28420165). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Editor's notes
 
