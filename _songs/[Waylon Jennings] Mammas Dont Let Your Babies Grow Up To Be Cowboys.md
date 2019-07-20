@@ -6,6 +6,8 @@ song_title:  Mammas Don't Let Your Babies Grow Up to be Cowboys
 artist: Waylon Jennings
 year: 1978
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28515581
 ---
 
 ## Video lesson
@@ -19,6 +21,10 @@ Video lesson index:
 - 2:29 Strumming patterns
 - 6:10 Verse #1 playthrough
 - 7:29 Key change in verse #2
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28515581). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Chords needed
 
