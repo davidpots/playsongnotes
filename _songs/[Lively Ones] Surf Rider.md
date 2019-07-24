@@ -6,10 +6,11 @@ song_title:  Surf Rider
 artist: The Lively Ones
 year: 1963
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28613126
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/27161783 -->
+
 
 ## Full video lesson
 
@@ -17,9 +18,9 @@ patreon_lesson_url: https://www.patreon.com/posts/27161783 -->
 
 ## Print-friendly PDF of tabs & chords
 
-<!-- *[Support me on Patreon](https://www.patreon.com/posts/27161783)* - one month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). The monthly support is tremendously helpful in supporting this independent project of mine. -->
+*[Support me on Patreon](https://www.patreon.com/posts/28613126)* - one month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). The monthly support is tremendously helpful in supporting this independent project of mine.
 
-Coming soon!
+<!-- Coming soon! -->
 
 ## Editor's notes
 
@@ -27,10 +28,10 @@ Here's an acoustic lesson for "Surf Rider", an instrumental song by Lively Ones 
 
 Timestamps for my video:
 
-0:00 Playthrough & overview
-1:38 Intro riff
-14:02 Main riff - basics
-21:38 Main riff - misc tricks
+- 0:00 Playthrough & overview
+- 1:38 Intro riff
+- 14:02 Main riff - basics
+- 21:38 Main riff - misc tricks
 
 ## Advanced fingerstyle cover
 
