@@ -11,6 +11,53 @@
   "base/type"
 ;
 
+// Header styling
+
+.header-nav {
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+  background: #fff;
+  .header-nav-inner-wrap {
+    padding-top: 15px;
+    padding-bottom: 6px
+  }
+}
+.header-logo {
+  float: left;
+  img {
+    width: 200px;
+  }
+}
+.header-links {
+  float: right;
+  margin-bottom: 0;
+  padding-left: 0;
+  position: relative;
+  top: -5px;
+  li {
+    list-style: none;
+    display: inline-block;
+    a {
+      background: #eee;
+      border: 1px solid #eee;
+      padding: 6px 12px 5px 13px;
+      border-radius: 16px;
+      display: inline-block;
+      font-size: 14px;
+      color: $gray;
+      font-weight: bold;
+      &:hover {
+        background: #f1f1f1;
+        border-color: #aaa;
+      }
+    }
+  }
+}
+@media only screen and (max-width: $breakpoint--mobile) {
+  .header-nav-inner-wrap { padding-bottom: 3px; }
+  .header-logo img { width: 140px; }
+  .header-links li a { font-size: 12px; padding: 4px 10px; }
+}
+
 // Homepage logo
 
     .logo-vertical {
