@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample PDF downloads with chords and tabs - songnotes.com
+title: Print-friendly PDF Downloads for Song Notes guitar lessons - playsongnotes.com
 permalink: /downloads/
 ---
 
