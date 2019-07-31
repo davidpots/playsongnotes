@@ -6,6 +6,8 @@ song_title:  On the Road Again
 artist: Willie Nelson
 year: 1980
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28793602
 ---
 
 ## Video lesson
@@ -18,6 +20,10 @@ Lesson agenda:
 - 1:48 Chords needed
 - 5:30 Strumming pattern
 - 7:04 Verse & chorus progressions
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28793602). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Capo 4th fret to play with Willie
 
@@ -67,7 +73,7 @@ On this page, I'm teaching this song using chords in the key of C (which are eas
 
 ## How to play the chords
 
-Here's the easiest way to play the chords. Of course, I'm showing a simplified F below (use a full F if your'e able to play it). You can also use an E7 and G7 if you wish - but these aren't required.
+Here's the easiest way to play the chords. Of course, I'm showing a simplified F below (use a full F if you're able to play it). You can also use an E7 and G7 if you wish - but these aren't required.
 
     E –––0–––1–––0–––––––3–––
     B –––1–––3–––0–––1–––0–––
@@ -83,6 +89,12 @@ To keep things simple, I recommend all downstrums (4 per measure) with accents o
 
     1 + 2 + 3 + 4 +
     D   D   D   D
+        >       >
+
+From there, you could add some upstrums within this pattern – specifically in the final half.
+
+    1 + 2 + 3 + 4 +
+    D   D   D U D U
         >       >
 
 ## Chord progressions
