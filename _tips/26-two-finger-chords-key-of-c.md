@@ -3,10 +3,11 @@ layout: tip
 title: 2-finger chords in the key of C
 slug: "26"
 date: 2019-08-02
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28859774
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/27916357 -->
+
 
 ## Video Lesson
 
@@ -14,9 +15,9 @@ patreon_lesson_url: https://www.patreon.com/posts/27916357 -->
 
 ## Print-friendly version of this lesson
 
-<!-- To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27916357). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project! -->
+To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28859774). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
-Check back in a few minutes! Posting it now...
+<!-- Check back in a few minutes! Posting it now... -->
 
 <!-- Coming later this morning! Check back soon... -->
 
