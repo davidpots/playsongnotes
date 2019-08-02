@@ -10,7 +10,7 @@ patreon_lesson_url: https://www.patreon.com/posts/27916357 -->
 
 ## Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5KRIXXbu0n8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2ZHdyESf3Q?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Print-friendly version of this lesson
 
