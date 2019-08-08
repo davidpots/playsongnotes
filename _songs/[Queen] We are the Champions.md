@@ -6,11 +6,17 @@ song_title:  We Are the Champions
 artist: Queen
 year: 1977
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/28985222
 ---
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqoY-V_O5P0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF with all my notes & tabs for this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28985222). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Lyrics with chords
 
@@ -45,18 +51,28 @@ categories: guitar
 
     [ use same chords for 2nd verse & chorus ]
 
-    I've taken my bows... and my curtain calls
-    You brought me fame & fortune & everything that goes w/ it
-    I thank you all
+                  Am     Em                 Am     Em
+    I've taken my bows...... and my curtain calls
+                   Am                     Em                                Am   Em
+    You brought me fame & fortune & everything that goes w/ it, I thank you all
+                            C      F                C     F
     But it's been no bed of roses... no pleasure cruise
+                    C                    G/B         Am
     I consider it a challenge before the whole human race
+          D           G
     And I ain't gonna lose... (and I need just go!)
-    On... and on... and on... and on
+    G4       G   G4      G   G4           A
+    On...... and on..... and on...... and on
 
+        D          F#m           Bm       G  A
         We are the champions, my friends
+            D             F#m               G    B7
         And we'll keep on fighting 'til the end
+        Em                      Gm         A6    A
         We are the champions... we are the champions
+        D           C              F          G         G6/A
         No time for losers, 'cause we are the champions
+                      Dm  G/D  Dm  G/D  Dm  G6/A
         ......of the world
 
         (repeat chorus as desired)

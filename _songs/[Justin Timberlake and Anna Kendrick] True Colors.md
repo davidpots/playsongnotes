@@ -6,15 +6,23 @@ song_title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
 year: 2016
 categories: guitar
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/22348676
 ---
+
+
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jujtsxzfCbs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Print-friendly version of this lesson
+
+To download the print-friendly PDF with my notes/tabs/lyrics for this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/22348676). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+
 ## Lyrics w/ chords
 
-INTRO
+    INTRO
 
     E –––3––––––––3––3––––––––3––3––––––––––––––––––––––
     B –––1––0––1–––––0––0––1–––––1––0––1––––––0––1––––––
@@ -24,7 +32,7 @@ INTRO
     E ––––––––––––––––––––––––––––––––––––––––––––––––––
          Am         G/B          C         F
 
-VERSE
+    VERSE
                  Am  G/B     C             F
     You with the sad eyes... don't be discouraged
           Am      G/B       C            F
@@ -43,7 +51,7 @@ VERSE
         Am          G/B              F         C
     Just call me up... 'cause I will always be there
 
-CHORUS
+    CHORUS
                        F     C       G
         And I see your true colors shining through
                    F     C          F              G
