@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Never Be the Same" by Camila Cabello
 song_title:  Never Be the Same
 artist: Camila Cabello
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

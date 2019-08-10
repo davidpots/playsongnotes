@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Feeling Whitney" by Post Malone
 song_title:  Feeling Whitney
 artist: Post Malone
 year: 2016
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---

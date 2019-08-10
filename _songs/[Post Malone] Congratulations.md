@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Congratulations" by Post Malone
 song_title:  Congratulations
 artist: Post Malone
 year: 2016
-categories: guitar
+
 ---
 
 ## Video lesson

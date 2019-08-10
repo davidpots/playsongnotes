@@ -5,7 +5,7 @@ title: Guitar lesson for "Africa" by Toto
 song_title:  Africa
 artist: Toto
 year: 1982
-categories: guitar
+
 ---
 
 ## Video lesson

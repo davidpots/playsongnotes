@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Havana" by Camila Cabello
 song_title:  Havana
 artist: Camila Cabello
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

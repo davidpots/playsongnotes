@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "The Year That Clayton Delaney Died" by Tom T. Hall
 song_title:  The Year That Clayton Delaney Died
 artist: Tom T. Hall
 year: 1971
-categories: guitar
+
 ---
 
 ## Video lesson

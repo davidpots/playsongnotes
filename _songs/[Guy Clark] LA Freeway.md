@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "LA Freeway" by Guy Clark
 song_title:  LA Freeway
 artist: Guy Clark
 year: 1975
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148
 ---

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Tennessee Flat Top Box" by Johnny Cash
 song_title: Tennessee Flat Top Box
 artist: Johnny Cash
 year: 1961
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27317834
 ---

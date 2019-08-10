@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "First Call" (horse racing / military bugle wake-up call)
 song_title:  First Call
 artist: (traditional)
 year: --
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26596736
 ---

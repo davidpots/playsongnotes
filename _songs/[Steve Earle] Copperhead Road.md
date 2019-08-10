@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Copperhead Road" by Steve Earle
 song_title: Copperhead Road
 artist: Steve Earle
 year: 1988
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24534853
 ---

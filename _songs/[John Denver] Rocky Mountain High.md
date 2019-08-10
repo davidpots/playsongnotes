@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Rocky Mountain High" by John Denver
 song_title: Rocky Mountain High
 artist: John Denver
 year: 1972
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27883309
 ---

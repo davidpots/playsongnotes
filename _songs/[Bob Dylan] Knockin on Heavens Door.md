@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Knockin' on Heaven's Door" by Bob Dylan
 song_title:  Knockin' on Heaven's Door
 artist: Bob Dylan
 year: 1973
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23257233
 ---

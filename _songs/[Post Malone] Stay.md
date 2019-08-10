@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Stay" by Post Malone
 song_title:  Stay
 artist: Post Malone
 year: 2018
-categories: guitar
+
 ---
 
 ## Video Lesson

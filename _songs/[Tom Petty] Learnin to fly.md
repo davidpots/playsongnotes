@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Learnin' To Fly" by Tom Petty
 song_title:  Learnin' To Fly
 artist: Tom Petty
 year: 1991
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---

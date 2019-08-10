@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Sweet Child O' Mine" by Guns N' Roses (intro riff w/ tab)
 song_title:  Sweet Child O' Mine
 artist: Guns N' Roses
 year: 1988
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27269521
 ---

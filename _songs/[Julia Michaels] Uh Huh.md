@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Uh Huh" by Julia Michaels -- playsongnotes.com
 song_title:  Uh Huh
 artist: Julia Michaels
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

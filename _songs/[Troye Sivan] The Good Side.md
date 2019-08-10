@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "The Good Side" by Troye Sivan
 song_title:  The Good Side
 artist: Troye Sivan
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

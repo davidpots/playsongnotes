@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Remember Me" from Coco
 song_title:  Remember Me
 artist: Coco
 year: 2017
-categories: guitar
+
 ---
 
 ## Video Lesson

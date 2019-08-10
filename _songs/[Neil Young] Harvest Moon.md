@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Harvest Moon" by Neil Young
 song_title:  Harvest Moon
 artist: Neil Young
 year: 1992
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---

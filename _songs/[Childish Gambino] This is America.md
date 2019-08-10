@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "This is America" by Childish Gambino (easy acoustic riff)
 song_title:  This is America
 artist: Childish Gambino
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Wish You Were Here" by Pink Floyd -- playsongnotes.com
 song_title:  Wish You Were Here
 artist: Pink Floyd
 year: 1975
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22930200
 ---

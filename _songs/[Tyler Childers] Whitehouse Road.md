@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Whitehouse Road" by Tyler Childers
 song_title:  Whitehouse Road
 artist: Tyler Childers
 year: 2017
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25806683
 ---

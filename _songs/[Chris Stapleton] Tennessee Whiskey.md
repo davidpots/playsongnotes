@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Tennessee Whiskey" by Chris Stapleton
 song_title:  Tennessee Whiskey
 artist: Chris Stapleton
 year: 2015
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Gone Till November" by Wyclef Jean
 song_title:  Gone Till November
 artist: Wyclef Jean
 year: 1997
-categories: guitar
+
 ---
 
 ## Video lesson

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Breezeblocks" by Alt-J -- playsongnotes.com
 song_title:  Breezeblocks
 artist: Alt J
 year: 2012
-categories: guitar
+
 ---
 
 ## Video lesson

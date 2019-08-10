@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "2002" by Anne-Marie
 song_title:  '2002'
 artist: Anne-Marie
 year: 2018
-categories: guitar
+
 ---
 
 ## Video Lesson

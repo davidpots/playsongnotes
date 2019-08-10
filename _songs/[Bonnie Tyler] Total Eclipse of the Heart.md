@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Total Eclipse of the Heart" by Bonnie Tyler
 song_title:  Total Eclipse of the Heart
 artist: Bonnie Tyler
 year: 1983
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---

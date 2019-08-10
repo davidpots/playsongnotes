@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Pancho and Lefty" by Willie Nelson and Merle Haggard -- playsongnotes.com
 song_title:  Pancho and Lefty
 artist: Willie Nelson and Merle Haggard
 year: 1972
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23986615
 ---

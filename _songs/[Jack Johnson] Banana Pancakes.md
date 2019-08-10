@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Banana Pancakes" by Jack Johnson
 song_title:  Banana Pancakes
 artist: Jack Johnson
 year: 2005
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25521268
 ---

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Please Come Home for Christmas" by The Eagles
 song_title:  Please Come Home for Christmas
 artist: The Eagles
 year: 1978
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 ---

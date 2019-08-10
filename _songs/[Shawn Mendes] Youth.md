@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Youth" by Shawn Mendes ft. Khalid
 song_title:  Youth
 artist: Shawn Mendes
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

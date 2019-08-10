@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Surf Rider" by The Lively Ones
 song_title:  Surf Rider
 artist: The Lively Ones
 year: 1963
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28613126
 ---

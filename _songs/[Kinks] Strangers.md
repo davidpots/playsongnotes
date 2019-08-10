@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Strangers" by The Kinks -- playsongnotes.com
 song_title:  Strangers
 artist: The Kinks
 year: 1970
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28015769
 ---

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Candle in the Wind" by Ed Sheeran
 song_title:  Candle in the Wind
 artist: Ed Sheeran
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

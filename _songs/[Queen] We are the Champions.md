@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "We Are the Champions" by Queen
 song_title:  We Are the Champions
 artist: Queen
 year: 1977
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28985222
 ---

@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Imagine" by John Lennon -- playsongnotes.com
 song_title:  Imagine
 artist: John Lennon
 year: 1971
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26533929
 ---

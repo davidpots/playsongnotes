@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Filthy" by Justin Timberlake
 song_title:  Filthy
 artist: Justin Timberlake
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

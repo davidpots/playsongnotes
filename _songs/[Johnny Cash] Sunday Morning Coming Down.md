@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Sunday Morning Coming Down" (Johnny Cash / Kris Kristofferson)
 song_title:  Sunday Morning Coming Down
 artist: Johnny Cash
 year: 1970
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23025270
 ---

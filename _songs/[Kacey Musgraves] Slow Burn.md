@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Slow Burn" by Kacey Musgraves
 song_title:  Slow Burn
 artist: Kacey Musgraves
 year: 2018
-categories: guitar
+
 ---
 
 ## Video lesson

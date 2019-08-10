@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "How I Go" by Yellowcard -- playsongnotes.com
 song_title: How I Go
 artist: Yellowcard
 year: 2006
-categories: guitar
+
 ---
 
 ## Video lesson

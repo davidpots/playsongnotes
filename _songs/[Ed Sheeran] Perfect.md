@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Perfect" by Ed Sheeran
 song_title:  Perfect
 artist: Ed Sheeran
 year: 2017
-categories: guitar
+
 ---
 
 ## Video lesson

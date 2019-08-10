@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Let It Go" from Frozen -- playsongnotes.com
 song_title:  Let It Go
 artist: Frozen
 year: 2014
-categories: guitar
+
 ---
 
 ## Video lesson

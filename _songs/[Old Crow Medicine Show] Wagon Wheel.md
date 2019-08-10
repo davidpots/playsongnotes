@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Wagon Wheel" by Old Crow Medicine Show -- playsongnotes.com
 song_title:  Wagon Wheel
 artist: Old Crow Medicine Show
 year: 2004
-categories: guitar
+
 ---
 
 ## Video lesson

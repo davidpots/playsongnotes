@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Norwegian Wood" by The Beatles
 song_title:  Norwegian Wood
 artist: The Beatles
 year: 1965
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20756378
 ---

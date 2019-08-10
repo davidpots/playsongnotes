@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "Angel Flying Too Close to the Ground" by Willie Nelson
 song_title:  Angel Flying Too Close to the Ground
 artist: Willie Nelson
 year: 1980
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23810049
 ---

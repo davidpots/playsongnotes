@@ -1,11 +1,11 @@
 ---
 layout: song
-has_video_lesson: true
+
 title: Guitar lesson for "St. James Infirmary Blues"
 song_title:  St. James Infirmary Blues
 artist: (traditional)
 year: 1929
-categories: guitar
+
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24744092/
 ---

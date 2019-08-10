@@ -5,7 +5,7 @@ title: Guitar lesson for "Love Story" by Taylor Swift
 song_title: Love Story
 artist: Taylor Swift
 year: 2006
-categories: guitar
+
 ---
 
 ## Chord progressions used in this song
