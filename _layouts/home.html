@@ -55,7 +55,7 @@ layout: default
 <h3 class="mtl">What I've been practicing:</h3>
   <ul class="list-plain lesson-list">
 
-    {% assign sorted_practice = (site.practice | sort: 'slug') %}
+    {% assign sorted_practice = site.practice | sort: 'slug' %}
 
     {% for practice in sorted_practice %}
       <li>
@@ -74,7 +74,7 @@ layout: default
 <h3 class="mtl">Browse all video lessons:</h3>
   <ul class="list-plain lesson-list">
 
-    {% assign sorted_songs = (site.songs | sort: 'song_title') %}
+    {% assign sorted_songs = site.songs | sort: 'song_title' %}
 
     {% for song in sorted_songs %}
       <li>

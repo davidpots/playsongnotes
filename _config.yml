@@ -25,7 +25,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 # theme: minima // Disabled because I don't want no gem-based theme (DP May 28, 2017)
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
