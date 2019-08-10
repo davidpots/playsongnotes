@@ -12,11 +12,11 @@ categories: guitar
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7x0E0BsAIE?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
-Coming soon!
+Coming soon...
 
 ## Print-friendly PDF
 
-Coming soon!
+Coming soon...
 
 ## Editor's notes
 
