@@ -16,6 +16,8 @@ Full lesson:
 Cover:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## About this lesson
 
 Welcome to my guitar lesson for an acoustic version of "City of Stars," specifically the duet version that is the 9th track of the La La Land soundtrack. This lesson will show you a relatively "strum-along" version of the song, which uses some strumming and some fingerpicking. Some important notes:

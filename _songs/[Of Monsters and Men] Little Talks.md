@@ -12,6 +12,8 @@ year: 2012
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I02SOAqr8Vg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Chords w/ lyrics
 
     (Capo 1st fret)

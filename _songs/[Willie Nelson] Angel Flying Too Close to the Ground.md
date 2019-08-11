@@ -14,7 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23810049
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uN1wtE6TffI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Lesson agenda:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Lesson agenda
 
 - 0:00 Greeting & lesson agenda
 - 1:18 Song structure
@@ -24,9 +26,7 @@ Lesson agenda:
 - 9:17 Walk-up and walk-down tabs
 - 11:13 Playthrough
 
-## PDF print-out of this lesson
 
-[Support me on Patreon](https://www.patreon.com/posts/23810049) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Lyrics w/ chords
 

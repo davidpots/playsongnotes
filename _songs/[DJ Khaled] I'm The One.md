@@ -13,6 +13,12 @@ year: 2017
 
 <iframe  width="560" height="315" src="https://www.youtube.com/embed/wXhF6C8AOIE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
 ## Editor's notes
 
 While I don't hear a guitar in the studio version of this song, it's fun to work out some different ways to imitate the rhythmic sound you hear (using your guitar) in a few different ways. I'll show some of the ways I like to play this song in my lesson here. Have fun with things... because the song uses 4 chords that repeat the whole time, the door is open for you to explore some fun ways to add spice within those narrow confines.

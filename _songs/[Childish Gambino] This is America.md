@@ -12,6 +12,13 @@ year: 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ns2vlwQkpxw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
 ## Overview
 
 The tabs below show an easy, simplified, accessible version of the acoustic riff you hear in this song. I'm not pretending this is "exactly" how it's played in the actual song - but it's close enough, and I think quite beginner friendly compared to what is actually being played.

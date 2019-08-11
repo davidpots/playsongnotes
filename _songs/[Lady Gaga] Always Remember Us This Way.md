@@ -11,10 +11,13 @@ year: 2018
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
 
+## Video lesson
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QVSTZNG-AyM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-Lesson timestamps:
+## Lesson timestamps
 
 - 0:00 Lesson preview & agenda
 - 1:45 Chords shapes needed

@@ -16,9 +16,7 @@ patreon_lesson_url: https://www.patreon.com/posts/28613126
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bsKlf0yQ4h8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly PDF of tabs & chords
-
-*[Support me on Patreon](https://www.patreon.com/posts/28613126)* - one month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). The monthly support is tremendously helpful in supporting this independent project of mine.
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 <!-- Coming soon! -->
 

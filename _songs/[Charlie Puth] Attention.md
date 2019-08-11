@@ -12,6 +12,12 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mr_EhvP9LLA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 ## Capo 6th fret
 
 In order to play the riff in a "fun" way that's also easy and approachable (using open chord shapes), put a capo on the 6th fret. While it's possible to play this riff without a capo and still be in key with Charlie Puth (using chords in the key of F#), I'm not going to focus on that in this lesson.

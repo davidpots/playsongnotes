@@ -15,6 +15,8 @@ For a print-ready PDF of this lesson, [become a supporter on my Patreon page](ht
 
 <!-- Coming soon! Look for it Thursday, March 7. -->
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Editor's notes
 
 Hey friends! I recently needed to restring my guitar — and thought it may be helpful to record the entire process, from beginning to end. To be clear, I don't pretend to be an expert when it comes to changing strings or guitar maintenance. Likewise, this isn't a "tutorial" per se. Instead, it's meant to be an honest depiction of what the process looks like for me. Unlike other videos I've made, this one is done in a single unedited take – to help portray how long this really takes.

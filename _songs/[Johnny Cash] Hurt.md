@@ -14,9 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22543461
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly version of this lesson
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-22543461). For a few bucks a month, you get access to PDFs of all my new lessons.
+
 
 ## Lyrics w/ chords
 

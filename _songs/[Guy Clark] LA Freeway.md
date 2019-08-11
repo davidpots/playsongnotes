@@ -14,9 +14,11 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7K5LJiWlatU?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## PDF print-out of this lesson
 
-If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="https://www.patreon.com/posts/printable-lesson-22821148">downloads page</a>. You'll find it there!
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 
 ## Capo 2nd fret
 

@@ -12,6 +12,8 @@ year: 1971
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dbpd_loJUu8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Capo 1st fret
 
 If you want to play along with the album version, through a capo on the 1st fret and use the chords I show here. This is how Tim T. Hall plays this song. You don't need the capo - without it, you'll just be a half-step lower in pitch (which is okay if you're not playing along with his recorded version).

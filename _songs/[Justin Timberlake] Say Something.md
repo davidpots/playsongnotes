@@ -12,6 +12,8 @@ year: 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4gByzn1LrHQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Capo 3rd fret
 
 Otherwise you'll need to play Cm-Eb-Bb-F.

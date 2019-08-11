@@ -12,6 +12,12 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cjBxw8wuE-E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
 ## Capo and chords needed
 
 Without a capo, this song is in the key of F. Here's a map of the chords you'd need, depending on where you used a capo (if at all):

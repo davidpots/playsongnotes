@@ -12,6 +12,8 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Se-QFYkaFuo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Capo on 1st fret...
 
 If you want to play along with the album version, toss a capo on the first fret! Note, in my video lesson I'm not using a capo.

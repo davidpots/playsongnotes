@@ -11,6 +11,10 @@ patreon_lesson_url: https://www.patreon.com/posts/23065293
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zMI1W85oLRo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Timestamps
+
 - 0:00 Playthrough
 - 1:38 Greeting & agenda
 - 3:44 Backing track overview
@@ -31,10 +35,6 @@ Note, this track begins with:
 1. 2 measures of drums only, to help you get in sync with the rhythm, which leads to...
 2. 1 full sequence of 8 measures, with the lead guitar track playing, and then...
 3. 5+ minutes of the 8 measure sequence repeating over and over, without the lead guitar
-
-## Print-friendly version of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23065293). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Editor's notes
 

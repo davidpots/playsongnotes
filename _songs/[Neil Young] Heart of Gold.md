@@ -14,7 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23773015/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hTIxx5E7i0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Video timestamps:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Video timestamps
 
 - 0:00 Preview & Greeting
 - 1:14 How to play the riff
@@ -23,9 +25,6 @@ Video timestamps:
 - 15:10 Full playthrough w/ lyrics
 - 17:57 Farewell
 
-## PDF print-out of this lesson
-
-[Support me on Patreon](https://www.patreon.com/posts/23773015) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to future chord sheets I make.
 
 ## Lyrics with chords
 

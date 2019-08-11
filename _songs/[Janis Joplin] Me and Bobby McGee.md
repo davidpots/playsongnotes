@@ -15,7 +15,13 @@ patreon_lesson_url: https://www.patreon.com/posts/27233343
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSv0ZxZQnxs?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Timestamps for this lesson:
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
+## Timestamps for this lesson:
 
 - 0:00 Playthrough (partial)
 - 0:57 Greeting
@@ -24,9 +30,9 @@ Timestamps for this lesson:
 - 6:07 Changing keys from G to A
 - 9:33 Playthrough (complete)
 
-## Print-friendly version of this lesson
 
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27233343). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+
+
 
 ## Chords needed
 

@@ -14,7 +14,12 @@ patreon_lesson_url: https://www.patreon.com/posts/25432156
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKMf0mR3N7s?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Lesson timestamps:
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+## Video timestamps:
 
 - 0:00 Playthrough & overview
 - 2:21 Chord shapes needed
@@ -26,9 +31,9 @@ Lesson timestamps:
 - 23:28 Verse: with lyrics
 <!-- Coming soon... -->
 
-## PDF print-out of this lesson
 
-[Support me on Patreon](https://www.patreon.com/posts/25432156) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+
 
 <!-- Coming later today! Check back in a bit. -->
 

@@ -16,9 +16,14 @@ patreon_lesson_url: https://www.patreon.com/posts/20970359
 
 Note, if you're in the USA this video is likely blocked because of frustrating copyright issues. You can still view it on my Facebook page, though: [https://www.facebook.com/songnotes/videos/1261105190576796/](https://www.facebook.com/songnotes/videos/1261105190576796/)
 
-## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/20970359) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
+
 
 ## Lesson order
 

@@ -9,6 +9,8 @@ date: 2018-07-24
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MjDFMhFr11M?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Simple blues riff
 
 After tuning your thickest string down from an E to D, start with these foundational riffs. Accent the 1st and 3rd counts in each 4-count sequence.

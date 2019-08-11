@@ -14,14 +14,20 @@ patreon_lesson_url: https://www.patreon.com/posts/23025270
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEUgFGKD8x8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+## Video timestamps
+
 - 2:36 Chords needed
 - 3:55 Strumming pattern (easy)
 - 7:18 Walk-down transition riffs
 - 11:40 Strumming pattern (advanced)
 
-## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/23025270) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+
 
 ## Capo notes
 

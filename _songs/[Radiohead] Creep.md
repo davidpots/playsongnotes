@@ -12,6 +12,8 @@ year: 1993
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T5N1Z1RYxGk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Lyrics w/ chords
 
     INTRO
@@ -37,7 +39,7 @@ year: 1993
 
     I don’t care if it hurts... I wanna have control
     I want a perfect body... I want a perfect soul
-     I want you to notice... when I’m not around
+ I want you to notice... when I’m not around
     You’re so very special... I wish I was special
 
         But I’m a creep... I’m a weirdo
@@ -50,7 +52,7 @@ year: 1993
         Run... Run...
 
     Whatever makes you happy... whatever you want
-     You’re so very special... I wish I was special
+ You’re so very special... I wish I was special
 
         But I’m a creep... I’m a weirdo
         What the hell am I doing here?

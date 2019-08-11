@@ -16,9 +16,11 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 
 <!-- Coming soon! -->
 
-## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/printable-lesson-23379862) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 
 <!-- Coming soon! -->
 

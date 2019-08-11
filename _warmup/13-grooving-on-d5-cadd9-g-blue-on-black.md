@@ -13,9 +13,7 @@ patreon_lesson_url: https://www.patreon.com/posts/24237877/
 
 <!-- Coming soon! -->
 
-## Print-friendly version of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24237877/). For a few bucks a month, you get access to PDFs of all my new lessons.
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 <!-- Coming soon... -->
 

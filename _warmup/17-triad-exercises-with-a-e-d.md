@@ -13,6 +13,10 @@ patreon_lesson_url: https://www.patreon.com/posts/25735022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Nw-Or7MSo8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Timestamps
+
 - 0:00 Playthrough & Greeting
 - 1:40 Exercise #1
 - 6:41 Exercise #2
@@ -20,9 +24,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25735022
 
 <!-- Coming soon... -->
 
-## Print-friendly version of this lesson
 
-For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25735022). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 <!-- Coming later today! Check back soon 👍 -->
 

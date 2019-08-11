@@ -12,6 +12,8 @@ year: 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3lu1FB2XY4g?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Capo 2nd fret
 
 I recommend playing this with capo 2nd fret, which is how Troye Sivan (or his guitarist) plays it. It allows you to capture the same "high E string left open" sound that is characteristic of this song. That said, I also show a no capo version in my video above.

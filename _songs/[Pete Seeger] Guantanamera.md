@@ -14,7 +14,12 @@ patreon_lesson_url: https://www.patreon.com/posts/24356142
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oEP4bfVNJYA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Video timestamps:
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+## Video timestamps
 
 - 0:00 Playthrough & overview
 - 1:36 Chords needed
@@ -23,10 +28,6 @@ Video timestamps:
 - 11:04 Fancy intro riff
 - 15:57 Adding melodic flourish
 - 17:39 Farewell
-
-## Print-friendly version of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/24356142). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 <!-- Coming soon! -->
 

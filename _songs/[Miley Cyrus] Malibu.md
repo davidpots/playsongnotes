@@ -12,6 +12,8 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9gab3_AywE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Chord progressions
 
 Here are the three progressions you'll need in order to play this entire song. For the verse, note you'll bounce between the two progressions a few time before moving on to the chorus. See my video lesson for context where I play it through.

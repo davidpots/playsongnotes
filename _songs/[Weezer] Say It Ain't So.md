@@ -14,7 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23879773
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9kbA1RnvEjo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Lesson timestamps:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Lesson timestamps
 
 - 0:00 Playthrough
 - 1:55 About this lesson
@@ -25,10 +27,6 @@ Lesson timestamps:
 - 13:27 Verse strum, full chords
 - 15:16 Chorus
 - 17:21 Bridge
-
-## Print-friendly version of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/23879773). For a few bucks a month, you get access to PDFs of all my new lessons.
 
 ## Chords w/ lyrics
 

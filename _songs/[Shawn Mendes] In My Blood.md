@@ -12,6 +12,9 @@ year: 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJjDUOqqjlY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 ## Capo 5th fret to keep it simple
 
 Head's up, this will be an easy lesson of the song – meaning I'm going to use a capo on the 5th fret. This lets you use easier chords and avoid playing the F - Bb - Dm - Bb chords that are used without a capo. See my video lesson for additional reference.

@@ -14,17 +14,15 @@ patreon_lesson_url: https://www.patreon.com/posts/28515581
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xoSN0eOjWxc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Video lesson index:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Timestamps:
 
 - 0:00 Lesson overview
 - 1:28 Chords needed
 - 2:29 Strumming patterns
 - 6:10 Verse #1 playthrough
 - 7:29 Key change in verse #2
-
-## Print-friendly version of this lesson
-
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28515581). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Chords needed
 

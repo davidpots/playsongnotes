@@ -10,19 +10,19 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21995927
 ---
 
-## Video lesson
-
-Guitar lesson:
+## Full lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnYes88W2ic?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Play-along cover (full song):
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Play-along cover
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5_kih9CqnZ4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+
+
 
 ## Lyrics w/ chords
 

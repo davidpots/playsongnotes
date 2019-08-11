@@ -14,6 +14,8 @@ Here's my lesson, including a play-through with chords and tabs overlaid. Please
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zM906jWgEFc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Use a capo!
 
 Unless you want to play it in E-flat, which I don't, then add a capo on the 3rd fret. Then you use chords in the family of C (much easier) and be able to play along with the soundtrack, or my lesson.

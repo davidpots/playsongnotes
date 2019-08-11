@@ -11,7 +11,9 @@ patreon_lesson_url: https://www.patreon.com/posts/26077237
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ju8j71RHfq0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Lesson timestamps:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Lesson timestamps
 
 - 0:00 Preview & lesson overview
 - 1:54 Playthrough w/ tab
@@ -23,9 +25,7 @@ Lesson timestamps:
 - 10:46 Connecting the end to the beginning
 - 13:19 Farewell & final thoughts
 
-## Print-friendly version of this lesson
 
-For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26077237). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
 <!-- Coming soon! -->
 

@@ -12,6 +12,12 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRjqZT3OgR4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
 ## Fingerstyle tabs
 
 Here's my arrangement of this song. I put this together based on (1) listening to all versions on the soundtrack, (2) listening to many versions other folks have posted online, and (3) adjusting things to suit my skill level. If this helps you, fantastic! If not, I hope you find what you're looking for!

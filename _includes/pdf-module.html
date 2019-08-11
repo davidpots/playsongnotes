@@ -1,0 +1,13 @@
+{% if include.has_patreon_url %}
+
+  <h2>Print-friendly PDF</h2>
+
+  <p>To download the print-friendly PDF I show in my video lesson, <a href="{{include.patreon_url}}">become a supporter on my Patreon page</a>. One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons (<a href="http://playsongnotes.com/downloads">view a free sample</a>). Thanks for supporting me and this project!</p>
+
+{% else %}
+
+  <h2>Print-friendly version of this lesson</h2>
+
+  <p>I haven't yet made a PDF version of this lesson. If you'd like to request that I make one, <a href="mailto:play.songnotes@gmail.com?subject=PDF Request for '{{include.song_name}}'">shoot me an email</a> and please let me know - I am always adding back catalog lessons to my PDF library.</p>
+
+{% endif %}

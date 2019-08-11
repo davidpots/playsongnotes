@@ -14,9 +14,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25918682
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v1JPceBN_ec?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly version of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25918682). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 

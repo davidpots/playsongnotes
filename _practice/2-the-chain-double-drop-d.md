@@ -15,9 +15,7 @@ Here's my video lesson where I demonstrate and share some of what I learned:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wqe2dQjUnVw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly version of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/printable-lesson-20607117). For a few bucks a month, you get access to PDFs of all my new lessons.
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## First, tune to double-drop D
 

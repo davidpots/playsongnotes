@@ -17,9 +17,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25250503
 Want to see a full lesson, where I explain things step by step? Let me know!
 <!-- Coming soon! -->
 
-## Print-friendly PDF of this lesson available!
-
-[Support me on Patreon](https://www.patreon.com/posts/25250503) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Intro tab
 

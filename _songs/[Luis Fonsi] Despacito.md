@@ -13,6 +13,8 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kK6w56i4C1M?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## One 4-chord progression for the entire song!
 
 This entire song uses a single 4-chord progression, repeating over and over. This makes things super simple to memorize, since you don't need to remember something different for the verse vs. chorus vs. intro, etc. A choice you'll have to make is whether or not you use a capo. If you don't use a capo, you'll need to play one barre chord (B minor). You could use a capo on the 2nd or 7th fret -- the latter allowing you to play the progression using no capo. This can be handy if you don't know barre chords yet.

@@ -12,6 +12,11 @@ year: 1960
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXrNumLcMGY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 ## Chords needed
 
 Here is how to play the guitar chords used in this song. Very standard for Johnny Cash. If the B7 is new to you, don't let it scare you away -- it is a truly valuable open chord to have in your arsenal (especially if you haven't tackled barre chords yet).

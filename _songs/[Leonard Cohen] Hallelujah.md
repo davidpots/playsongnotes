@@ -14,7 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/26843157
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F0w3xI4A054?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Video timestamps:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Video timestamps
 
 - 0:00 Preview & overview
 - 1:20 Strumming pattern & rhythm basics
@@ -23,10 +25,6 @@ Video timestamps:
 - 5:42 Verse, part 2
 - 6:33 Chorus
 - 7:30 End of chorus turn-around riff
-
-## Print-friendly PDF tabs of this lesson
-
-To download the print-friendly PDF I made for this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26843157). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Chords w/ lyrics
 

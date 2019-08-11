@@ -14,7 +14,9 @@ patreon_lesson_url: https://www.patreon.com/posts/28793602
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/piPpGni_dZA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Lesson agenda:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Lesson agenda
 
 - 0:00 Greeting & lesson agenda
 - 1:48 Chords needed

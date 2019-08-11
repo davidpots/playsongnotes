@@ -12,6 +12,11 @@ year: 1978
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TZcIrtgCUA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 ## About this lesson
 
 Welcome to my guitar lesson for a solo acoustic version of "Badlands", originally by Bruce Springsteen. This wasn't ever my favorite Springsteen song, but it turned out to be the first one I learned. One of the things that hooked me was stumbling upon this acoustic cover by Julien Baker, which had a sparse and stripped down feel that won me over immediately. I went about learning the song myself, and this lesson is the result.

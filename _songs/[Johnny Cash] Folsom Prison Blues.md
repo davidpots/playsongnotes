@@ -14,7 +14,11 @@ patreon_lesson_url: https://www.patreon.com/posts/24118585
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GNvaiI37AzM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Lesson timestamps:
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+## Lesson timestamps:
 
 – 0:00 Playthrough
 – 0:44 Chords needed
@@ -23,9 +27,6 @@ Lesson timestamps:
 – 3:40 Strumming w/ alternating bass notes
 – 5:43 Farewell
 
-## Print-friendly PDF of lyrics/tabs/chords available!
-
-[Support me on Patreon](https://www.patreon.com/posts/printable-lesson-24118585) to get access to a print-friendly PDF chord sheet (w/ lyrics, tabs, etc) for this song. This will also give you access to future chord sheets I make.
 
 ## Lyrics with chords
 

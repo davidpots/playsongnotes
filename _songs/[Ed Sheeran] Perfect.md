@@ -16,6 +16,8 @@ Coming soon!
 
 
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 
 ## Good luck!
 

@@ -16,7 +16,9 @@ patreon_lesson_url: https://www.patreon.com/posts/26240703
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA4AKs83Lxc?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Lesson timestamps:
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Lesson timestamps
 
 - 0:00 Playthrough & overview
 - 1:26 Capo 5th fret
@@ -28,9 +30,7 @@ Lesson timestamps:
 
 <!-- Coming soon... -->
 
-## PDF print-out of this lesson
 
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26240703). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
 <!-- Coming soon... -->
 

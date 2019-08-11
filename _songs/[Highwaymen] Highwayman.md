@@ -23,9 +23,10 @@ Ukulele lesson:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TfAj8Txz238?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly PDF of lyrics/tabs/chords available!
 
-[Support me on Patreon](https://www.patreon.com/posts/24575218) to get access to a print-friendly PDF chord sheet (w/ lyrics, tabs, etc) for this song. This will also give you access to future chord sheets I make.
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 
 
 ## Lyrics with chords

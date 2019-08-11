@@ -12,10 +12,13 @@ year: 1990
 
 I haven't made one yet! If you want to request I make a video lesson for this song, send me an email: play.songnotes [at] gmail [dot] com. That will certainly help bump it toward the top of my list.
 
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Lyrics w/ chords
 
     (guitar: capo 5th fret, use chords below)
-    
+
     (ukulele: no capo, use chords below)
 
     INTRO

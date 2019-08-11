@@ -14,6 +14,8 @@ Here's my video lesson! All tabs and notes below are used and demonstrated withi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-cGtB7Ugw58?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Chord progression cheat sheet
 
 For quick references to the _general_ tonal progressions used in this song, refer to this. For instructions & notes on exactly how to approach and play the chords on guitar, see further down this page. There are plenty of chord idiosyncrasies involving modified bass notes, atypical open strings, etc that I'm not worried about covering just yet.

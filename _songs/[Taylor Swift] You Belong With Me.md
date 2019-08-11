@@ -14,6 +14,8 @@ Note that the album version of this song is a 1/2 step below the chords shown be
 
 You can still use the chords below and play the song in standard tuning - but note you'll be in a different key than Taylor Swift and it won't sound right if you play along.
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Chords needed
 
 Here is how to play the basic chords in this song:

@@ -12,9 +12,12 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ua_VdR6t2DA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-<!-- ## PDF print-out of this lesson
 
-If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there! -->
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 
 ## Capo 3rd fret
 

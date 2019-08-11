@@ -14,6 +14,8 @@ patreon_lesson_url: https://www.patreon.com/posts/25806683
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G_t7sCI53Fg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Excellent solo Tyler Childers version
 
 Here's a great performane of the song - you can hear so much more intricacy in his guitarwork, compared to the album version. This is what I'm basing this lesson off of.

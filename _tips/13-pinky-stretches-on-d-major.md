@@ -9,6 +9,8 @@ date: 2018-08-04
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UyZ6maC6FxM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## How to master difficult pinky stretches with D-major
 
 It is relatively common, when using a D-major chord, to have a song require you to put a finger down on the 4th fret of either the 3rd or 4th string. In this lesson, I'll explain how to go about practicing this technique - because it isn't easy at first!

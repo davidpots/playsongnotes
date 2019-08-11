@@ -18,9 +18,11 @@ My cover / playthrough:
 My full lesson explaining everything:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dP2hYluC8CQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Print-friendly version of this lesson
 
-To download the print-friendly PDF I mention in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27317834). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 
 ## Capo to play along with Johnny Cash
 

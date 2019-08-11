@@ -16,9 +16,8 @@ patreon_lesson_url: https://www.patreon.com/posts/29059866
 
 <!-- Coming soon... -->
 
-## Print-friendly PDF
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/29059866). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Editor's notes
 

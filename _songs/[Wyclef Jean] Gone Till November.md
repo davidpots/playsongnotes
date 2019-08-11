@@ -12,6 +12,10 @@ year: 1997
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oPtIRPcZZzg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Timestamps
+
 - 0:00 Playthrough & lesson overview
 - 1:28 Step 1: It all starts w/ the E major chord
 - 2:12 Step 2: Playing the riff melody with 1 finger

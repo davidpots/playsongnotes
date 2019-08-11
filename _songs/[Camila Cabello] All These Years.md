@@ -12,6 +12,7 @@ year: 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/scbLcaopAPk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-## Want to see lyrics and tabs for this song?
 
-Let me know! And I'll get around to adding them. For now, see the video above. Good luck!
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}

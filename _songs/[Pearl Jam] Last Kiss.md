@@ -12,6 +12,8 @@ year: 1999
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VSQYoXbbD6Y?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Chords needed
 
 The entire song uses these four chords, in this order, over and over. Very straight forward. For the G, you can play the 3rd fret on the B string if you want - that's a correct way to play G also.
@@ -114,7 +116,7 @@ The key is to keep your strumming hand (arm) moving up and down continuously, bu
     We hadn’t driven very far
     There in the road straight ahead
     A car was stalled, the engines dead
-     I couldn’t stop so I swerved to the right
+ I couldn’t stop so I swerved to the right
     I’ll never forget the sound that night
     The screamin’ tires, the bustin’ glass
     The painful scream that I heard last
@@ -130,7 +132,7 @@ The key is to keep your strumming hand (arm) moving up and down continuously, bu
     There were people standing all around
     Something warm flowing through my eyes
     But somehow I found my baby that night
-     I lifted her head, she looked at me and said
+ I lifted her head, she looked at me and said
     Hold me darling, just a little while
     I held her close, I kissed her our last kiss
     I found the love that I knew I would miss

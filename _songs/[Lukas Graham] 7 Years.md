@@ -13,6 +13,8 @@ year: 2015
 Here's my video lesson showing you how to play this song:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4L28ORWMSyw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Chord progression cheat-sheet
 
 The basic progression used for most of the song (verse & chorus sections) is as follows:

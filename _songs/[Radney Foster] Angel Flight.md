@@ -17,11 +17,7 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103 -->
 
 Coming soon!
 
-## Print-friendly version of this lesson
-
-<!-- For a print-friendly PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/26435441). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)). -->
-
-Coming soon!
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Lyrics with chords
 

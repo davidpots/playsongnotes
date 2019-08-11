@@ -12,6 +12,8 @@ year: 1994
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEvcrR2m7_w?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Lyrics & Chords
 
     INTRO
@@ -25,7 +27,7 @@ year: 1994
                E
         ... ..I feel, I feel, I feel... I feel a bati man
                E                           (+ riff)
-         ....Outside my cell, deputies creep
+ ....Outside my cell, deputies creep
                E                         
         ...And in this cell... all I do
                A                     

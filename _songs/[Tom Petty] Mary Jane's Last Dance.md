@@ -16,7 +16,9 @@ Here's my video lesson for this song:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Here's what I cover in the video lesson (jump ahead to any point you like):
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Timestamps
 
 - 0:00 Preview / playthrough
 - 0:54 Lesson overview & tuning notes
@@ -30,9 +32,7 @@ Here's what I cover in the video lesson (jump ahead to any point you like):
 - 9:40 Lead guitar riff
 - 11:33 Farewell
 
-## Print-friendly PDF of this lesson available!
 
-[Support me on Patreon](https://www.patreon.com/posts/25683306) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support!
 
 ## Lyrics w/ chords
 

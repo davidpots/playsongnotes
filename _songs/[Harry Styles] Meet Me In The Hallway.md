@@ -12,6 +12,12 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMXlgiGSHr4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 ## Notes on my approach to this song
 
 Straight up, this isn't meant to be 100% accurate to how it's played on the album. It's damn close, and these chords will let you play along with the album -- but I have no interest in capturing a perfect record of every single note played on every instrument heard on the studio version (there's too much going on, I'm not good enough, etc). Rather, I want to show you how I enjoy playing this song. If this helps you, fantastic! If you think this is garbage and sacrilege, I emplore you to look elsewhere.

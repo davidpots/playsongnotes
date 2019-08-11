@@ -12,7 +12,12 @@ year: 2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ab4gjpBRvNM?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Lesson overview:
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+## Lesson timestamps:
 
 - 0:00 Lesson overview
 - 1:08 Capo 3rd fret

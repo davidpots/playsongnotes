@@ -16,6 +16,9 @@ year: 2010
 
 If you'd like a print-friendly PDF of this lesson for offline use, view my <a href="http://playsongnotes.com/downloads/">downloads page</a>. You'll find it there! -->
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
 ## Marin riff
 
 Here's the main riff you hear, which is repeated in the intro and verse.

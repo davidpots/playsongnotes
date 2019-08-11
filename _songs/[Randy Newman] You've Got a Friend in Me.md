@@ -16,18 +16,16 @@ patreon_lesson_url: https://www.patreon.com/posts/28140715
 
 <!-- Coming soon! -->
 
-### Lesson timestamps
+
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Lesson timestamps
 
 - 0:00 Playthrough & overview
 - 1:40 Left hand: chord shapes
 - 6:07 Right hand: fingerstyle
 - 13:19 Adv. rhythm technique
-
-### PDF chord sheet w/ tabs
-
-[Get the PDF via my Patreon page](https://www.patreon.com/posts/28140715) - supporting me for $3/month to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to the many chord sheets I've already made for other lessons. Thanks for your support!
-
-[Check out a free sample](http://playsongnotes.com/downloads) of my PDF chord sheets if you'd like to learn more.
 
 ## Full song lesson
 

@@ -14,6 +14,13 @@ patreon_lesson_url: https://www.patreon.com/posts/27883309
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hsuk09Kockw?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+
+
+## Video timestamps
+
 - 0:00 Playthrough & greeting
 - 2:07  Tuning & capo
 - 2:51  How to play the main riff
@@ -21,9 +28,11 @@ patreon_lesson_url: https://www.patreon.com/posts/27883309
 - 11:58 Verse w/ strumming
 - 13:27 Chorus
 
-## Print-friendly version of this lesson
 
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/27883309). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
+
+
+
+
 
 ## Lyrics w/ chords
 
