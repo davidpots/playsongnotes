@@ -1,11 +1,9 @@
 ---
 layout: song
-
 title: Guitar lesson for "Angel Flight" by Radney Foster -- playsongnotes.com
 song_title: Angel Flight
 artist: Radney Foster
 year: 2009
-
 ---
 
 <!-- patreon_lesson_available: true
@@ -13,11 +11,13 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103 -->
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9lVBiRmHztM?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Re_hK47ZZjo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll teach you how to play "Angel Flight" by Radney Foster. This song uses the chords of E-A-B-C#m, but is unconventional in the voicing used for each chord. Specifically, we'll be leaving the thinnest two strings open at all times. This not only makes it sound a bit more interesting, but also makes it far easier to play... which is nice! I'll teach you these chords, explain the intro riff (with tabs), and talk about strumming pattern. I Thanks very much to Patreon supporter Dennis for this request.
 
 ## Lyrics with chords
 
