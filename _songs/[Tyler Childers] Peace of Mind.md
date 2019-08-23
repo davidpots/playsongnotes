@@ -4,25 +4,28 @@ title: Guitar lesson for "Peace of Mind" by Tyler Childers - Song Notes by David
 song_title:  Peace of Mind
 artist: Tyler Childers
 year: 2019
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/29385250
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/21287497 -->
 
 ## Video Lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/bmRLWIJ2dLc?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAbmPt6n9Tg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon!
+<!-- Coming soon! -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+Hey friends! In this lesson I'll teach you how to play "Peace of Mind" by Tyler Childers (track 7 off his 2nd album, "Country Squire"). This is a very straightforward waltz-strumming song that only uses three chords. I'll not only teach the chords, but explain a few ways to step-by-step get used to the 3/4-time strumming pattern – including the alternating bass note technique. I hope you enjoy! And I very highly recommend this entire album from Childers – I've had it on repeat. While the guitar parts don't stand out as much as they do in his first album, his songwriting and vocals are A+ in my book.
+
+Here's what I cover in this lesson:
 
 - 0:00 Playthrough & overview
 - 1:14 Capo & chords
 - 1:52 Strumming: waltz basics
-- 4:33 Strumming: alternating bass notes
+- 4:33 Strumming: alternating bass notes (with tabs)
 - 6:30 Verse
 - 9:03 Chorus
 - 10:06 Farewell
@@ -86,3 +89,9 @@ Coming soon!
             Lord, the [E] zeros on the end keep pushing further to the [A] right
             Like a [A] freight train haulin' sorrow... and [A] movin' ever onward
             Through the [B7] tunnel of forever... to the never endin' [E] light
+
+## Tyler Childers' version of this song
+
+Here's the official version of this song, if you want to hear it:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgudUwFHSqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
