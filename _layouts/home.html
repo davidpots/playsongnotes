@@ -6,7 +6,8 @@ layout: default
 
 <div class="container--col-8">
 
-  <div class="center mtm"><img class="logo-vertical" src="{{site.baseurl}}/images/logo/songnotes-logo-vertical.svg" /></div>
+  <!-- <div class="center mtm"><img class="logo-vertical" src="{{site.baseurl}}/images/logo/songnotes-logo-vertical.svg" /></div> -->
+  <h1 class="center mtxl mbl">Pick up your guitar and play!</h1>
   <p class="center mbl">Easy-to-follow guitar lessons.<br />Made by @davidpots in Austin, TX.</p>
   <p class="center small">If these lessons are helpful to you, please <br />consider donating to the <a class="underline" href="https://paypal.me/songnotes">tip jar</a>. Thanks!</p>
 
@@ -71,7 +72,7 @@ layout: default
   </ul> -->
 
 
-<h3 class="mtl">Browse all video lessons:</h3>
+<h3 id="heading-songs" class="mtl">Song video lessons:</h3>
   <ul class="list-plain lesson-list">
 
     {% assign sorted_songs = site.songs | sort: 'song_title' %}

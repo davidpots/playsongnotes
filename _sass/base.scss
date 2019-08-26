@@ -37,12 +37,23 @@
     list-style: none;
     display: inline-block;
     a {
+      // color: #3DA7ff;
+      font-weight: bold;
+      font-size: 13px;
+      text-transform: uppercase;
+      margin-right: 20px;
+      &:hover {
+        border-bottom: 2px solid #3DA7ff;
+      }
+    }
+    a.pill-link {
+      margin: 0;
       background: #eee;
       border: 1px solid #eee;
       padding: 6px 12px 5px 13px;
       border-radius: 16px;
       display: inline-block;
-      font-size: 14px;
+      font-size: 13px;
       color: $gray;
       font-weight: bold;
       &:hover {
@@ -56,6 +67,12 @@
   .header-nav-inner-wrap { padding-bottom: 3px; }
   .header-logo img { width: 140px; }
   .header-links li a { font-size: 12px; padding: 4px 10px; }
+}
+
+@media only screen and (max-width: 900px) {
+  .header-links .normal-link {
+    display: none;
+  }
 }
 
 // Homepage logo
