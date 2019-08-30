@@ -4,18 +4,33 @@ title: Guitar lesson for "Wind" by Cat Stevens -- playsongnotes.com
 song_title:  The Wind
 artist: Cat Stevens
 year: 1971
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/29562940
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/20970359 -->
+
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/sEEG2eSfvB8?showinfo=0" frameborder="0" allowfullscreen></iframe><br /> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLdUfxYg_28?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
-Coming soon!
+<!-- Coming soon! -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll show & explain how to play "The Wind" by Cat Stevens, from his 1971 album Teaser and the Firecat. This is a short but fantastic Cat Stevens song, combining fingerstyle verses with strummed chorus. I'll explain the chords, talk through the fingerpicking (main riff included), and break down the verse and chorus sections. I hope you enjoy!
+
+## Timestamps
+
+- 0:00 Playthrough & overview
+- 1:53 Chord shapes
+- 4:29 Intro & main riff
+- 12:52 Verse
+- 15:47 Chorus (strummed)
+- 19:55 Chorus (fingerpicked)
+- 22:21 Farewell
 
 ## Lyrics w/ chords
 
