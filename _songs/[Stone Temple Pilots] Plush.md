@@ -12,13 +12,28 @@ patreon_lesson_url: https://www.patreon.com/posts/25388934
 
 ## Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ik8ii6Yagk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/alPm8GDqB90?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- Coming soon! -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 <!-- Coming later today! -->
+
+## Lesson timestamps
+
+- 0:00 Greeting & overview
+- 1:57 Full playthrough
+- 3:53 Intro riff
+- 10:30 Verse
+- 17:04 Chorus
+- 17:50 Pre-chorus
+- 21:53 Refrain
+- 26:50 Farewell
+
+## Play-along cover
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ik8ii6Yagk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 
