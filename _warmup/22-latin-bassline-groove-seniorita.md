@@ -10,9 +10,9 @@ patreon_lesson_url: https://www.patreon.com/posts/29409818 -->
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/vFAbkYs3zss?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8m3e3Vj7v4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon...
+<!-- Coming soon... -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
