@@ -3,10 +3,11 @@ layout: warmup
 title: Latin Bassline Groove from "Senriorita"
 slug: "22"
 date: 2019-09-08
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/29803885
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/29409818 -->
+
 
 ## Video lesson
 
@@ -14,9 +15,9 @@ patreon_lesson_url: https://www.patreon.com/posts/29409818 -->
 
 <!-- Coming soon... -->
 
-PDF coming soon... check back within the hour!
+<!-- PDF coming soon... check back within the hour! -->
 
-<!-- {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %} -->
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
