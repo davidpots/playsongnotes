@@ -30,8 +30,8 @@ Video timestamps:
 - 13:48 Exercise 4: Adding fills (advanced)
 - 16:45 Farewell
 
-## Listen to "Senriorita" for context!
+## The song this exercise is based on
 
-I especially recommend giving this song a lesson, as you can hear this exact bassline groove in full effect! Even if you don't care for pop music, hearing the groove within this song is a nice way to get the rhythm established in your ear.
+I especially recommend giving the song Señiorita a listen, as you can hear this exact bassline groove in full effect! Even if you don't care for pop music, hearing the groove within this song is a nice way to get the rhythm established in your ear.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3NcL3yUK4S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
