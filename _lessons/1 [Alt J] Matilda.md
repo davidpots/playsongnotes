@@ -4,6 +4,7 @@ title: Guitar lesson for "Matilda" by Alt J -- playsongnotes.com
 song_title:  Matilda
 artist: Alt J
 year: 2012
+date_published: 2013-11-10
 category: full_song
 yt_video_id: 9lVBiRmHztM
 slug: "1"

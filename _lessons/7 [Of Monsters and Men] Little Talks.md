@@ -5,6 +5,7 @@ title: Guitar lesson for "Little Talks" by Of Monsters and Men -- playsongnotes.
 song_title:  Little Talks
 artist: Of Monsters and Men
 year: 2012
+date_published: 2013-11-17
 category: full_song
 yt_video_id: I02SOAqr8Vg
 slug: "7"

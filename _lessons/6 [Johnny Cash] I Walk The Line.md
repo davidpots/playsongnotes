@@ -5,6 +5,7 @@ title: Guitar lesson for "I Walk the Line" by Johnny Cash -- playsongnotes.com
 song_title:  I Walk the Line
 artist: Johnny Cash
 year: 1956
+date_published: 2013-11-17
 category: full_song
 yt_video_id: VPf0HLvc3L8
 slug: "6"

@@ -5,6 +5,7 @@ title: Guitar lesson for "Royals" by Lorde -- playsongnotes.com
 song_title:  Royals
 artist: Lorde
 year: 2013
+date_published: 2013-11-12
 category: full_song
 yt_video_id: PFAGFlrf1bM
 slug: "5"
