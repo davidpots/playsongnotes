@@ -6,8 +6,8 @@ song_title:  I Walk the Line
 artist: Johnny Cash
 year: 1956
 date_published: 2013-11-17
-category: full_song
 yt_video_id: VPf0HLvc3L8
+category: full_song
 slug: "6"
 redirect_from:
   - /songs/johnny-cash-i-walk-the-line/
