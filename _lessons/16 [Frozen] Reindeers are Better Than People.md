@@ -5,7 +5,11 @@ title: Guitar lesson for "Reindeers are Better Than People" from Frozen -- plays
 song_title:  Reindeers are Better Than People
 artist: Frozen
 year: 2014
-
+category: full_song
+yt_video_id: _________
+slug: "16"
+redirect_from:
+  - /songs/frozen-reindeers-are-better-than-people/
 ---
 
 ## Video lesson

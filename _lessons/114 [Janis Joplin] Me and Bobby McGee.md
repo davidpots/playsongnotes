@@ -5,7 +5,11 @@ title: Guitar lesson for "Me and Bobby McGee" by Janis Joplin
 song_title: Me and Bobby McGee
 artist: Janis Joplin
 year: 1971
-
+category: full_song
+yt_video_id: _________
+slug: "114"
+redirect_from:
+  - /songs/janis-joplin-me-and-bobby-mcgee/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27233343
 ---

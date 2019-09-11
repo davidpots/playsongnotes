@@ -5,7 +5,11 @@ title: Guitar lesson for "Somewhere Over the Rainbow / What a Wonderful World" b
 song_title:  Somewhere Over the Rainbow / What a Wonderful World
 artist: Israel Kamakawiwoole
 year: 1990
-
+category: full_song
+yt_video_id: _________
+slug: "260"
+redirect_from:
+  - /songs/israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/
 ---
 
 ## Video lesson

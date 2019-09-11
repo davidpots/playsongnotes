@@ -5,7 +5,11 @@ title: Guitar lesson for "Let It Go" from Frozen -- playsongnotes.com
 song_title:  Let It Go
 artist: Frozen
 year: 2014
-
+category: full_song
+yt_video_id: _________
+slug: "13"
+redirect_from:
+  - /songs/frozen-let-it-go/
 ---
 
 ## Video lesson

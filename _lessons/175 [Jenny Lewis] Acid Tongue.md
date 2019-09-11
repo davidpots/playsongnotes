@@ -5,7 +5,11 @@ title: Guitar lesson for "Acid Tongue" by Jenny Lewis
 song_title:  Acid Tongue
 artist: Jenny Lewis
 year: 2008
-
+category: full_song
+yt_video_id: _________
+slug: "175"
+redirect_from:
+  - /songs/jenny-lewis-acid-tongue/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21567003
 ---

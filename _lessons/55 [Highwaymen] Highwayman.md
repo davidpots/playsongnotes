@@ -7,6 +7,11 @@ artist: The Highwaymen
 year: 1985
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24575218
+category: full_song
+yt_video_id: _________
+slug: "55"
+redirect_from:
+  - /songs/highwaymen-highwayman/
 ---
 
 ## Video lessons

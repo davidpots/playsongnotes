@@ -5,7 +5,11 @@ title: Guitar lesson for the intro of "My Old Kentucky Home, Goodnight" by John 
 song_title:  My Old Kentucky Home, Goodnight
 artist: John Prine
 year: 2019
-
+category: full_song
+yt_video_id: _________
+slug: "238"
+redirect_from:
+  - /songs/john-prine-my-old-kentucky-home-goodnight/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26928505
 ---

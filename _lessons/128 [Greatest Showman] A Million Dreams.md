@@ -5,7 +5,11 @@ title: Guitar lesson for "A Million Dreams" from The Greatest Showman
 song_title:  A Million Dreams
 artist: Greatest Showman
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "128"
+redirect_from:
+  - /songs/greatest-showman-a-million-dreams/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24994190
 ---

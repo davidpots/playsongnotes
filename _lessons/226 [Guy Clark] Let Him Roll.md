@@ -5,7 +5,11 @@ title: Guitar lesson for "Let Him Roll" by Guy Clark
 song_title:  Let Him Roll
 artist: Guy Clark
 year: 1975
-
+category: full_song
+yt_video_id: _________
+slug: "226"
+redirect_from:
+  - /songs/guy-clark-let-him-roll/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25432156
 ---

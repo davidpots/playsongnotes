@@ -8,7 +8,11 @@ year: 1992
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
-
+category: full_song
+yt_video_id: _________
+slug: "103"
+redirect_from:
+  - /songs/eric-clapton-layla/
 ---
 
 ## Video lesson

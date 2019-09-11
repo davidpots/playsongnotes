@@ -5,7 +5,11 @@ title: Guitar lesson for "Jenny of Oldstones" from Game of Thrones (Florence and
 song_title: Jenny of Oldstones
 artist: Game of Thrones
 year: 2019
-
+category: full_song
+yt_video_id: _________
+slug: "234"
+redirect_from:
+  - /songs/game-of-thrones-jenny-of-oldstones/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26303236
 ---
