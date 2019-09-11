@@ -5,7 +5,11 @@ title: "Guitar lesson for Thinkin' on a Woman by Colter Wall"
 song_title:  "Thinkin' on a Woman"
 artist: Colter Wall
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "259"
+redirect_from:
+  - /songs/colter-wall-thinkin-on-a-woman/
 ---
 
 ## Video lesson

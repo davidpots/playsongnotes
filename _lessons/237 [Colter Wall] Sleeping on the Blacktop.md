@@ -5,7 +5,11 @@ title: "Guitar lesson for Sleeping on the Blacktop by Colter Wall"
 song_title:  "Sleeping on the Blacktop"
 artist: Colter Wall
 year: 2015
-
+category: full_song
+yt_video_id: _________
+slug: "237"
+redirect_from:
+  - /songs/colter-wall-sleeping-on-the-blacktop/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26779443
 ---

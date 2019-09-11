@@ -5,7 +5,11 @@ title: Guitar lesson for "Don't Say" by The Chainsmokers -- playsongnotes.com
 song_title:  Don't Say
 artist: The Chainsmokers
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "58"
+redirect_from:
+  - /songs/chainsmokers-don-t-say/
 ---
 
 ## Video lesson

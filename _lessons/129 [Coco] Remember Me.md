@@ -5,7 +5,11 @@ title: Guitar lesson for "Remember Me" from Coco
 song_title:  Remember Me
 artist: Coco
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "129"
+redirect_from:
+  - /songs/coco-remember-me/
 ---
 
 ## Video Lesson

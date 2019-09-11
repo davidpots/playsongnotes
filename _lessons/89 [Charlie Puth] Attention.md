@@ -5,7 +5,11 @@ title: Guitar lesson for "Attention" by Charlie Puth
 song_title:  Attention
 artist: Charlie Puth
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "89"
+redirect_from:
+  - /songs/charlie-puth-attention/
 ---
 
 ## Video lesson
