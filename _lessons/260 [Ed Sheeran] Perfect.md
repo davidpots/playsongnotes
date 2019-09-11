@@ -5,7 +5,11 @@ title: Guitar lesson for "Perfect" by Ed Sheeran
 song_title:  Perfect
 artist: Ed Sheeran
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "260"
+redirect_from:
+  - /songs/ed-sheeran-perfect/
 ---
 
 ## Video lesson

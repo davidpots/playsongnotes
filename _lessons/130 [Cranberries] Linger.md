@@ -5,7 +5,11 @@ title: Guitar lesson for "Linger" by The Cranberries
 song_title:  Linger
 artist: The Cranberries
 year: 1993
-
+category: full_song
+yt_video_id: _________
+slug: "130"
+redirect_from:
+  - /songs/cranberries-linger/
 ---
 
 ## Video lesson

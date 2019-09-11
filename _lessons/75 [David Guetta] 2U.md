@@ -6,7 +6,11 @@ song_title:  2U
 artist: David Guetta
 artist_featured: Justin Bieber
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "75"
+redirect_from:
+  - /songs/david-guetta-2u/
 ---
 
 ## Video lesson

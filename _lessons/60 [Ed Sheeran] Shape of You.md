@@ -5,7 +5,11 @@ title: Guitar lesson for "Shape of You" by Ed Sheeran -- playsongnotes.com
 song_title:  Shape of You
 artist: Ed Sheeran
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "60"
+redirect_from:
+  - /songs/ed-sheeran-shape-of-you/
 ---
 
 ## Video lesson

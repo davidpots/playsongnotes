@@ -5,7 +5,11 @@ title: Guitar lesson for "Hotel California" by The Eagles -- playsongnotes.com
 song_title:  Hotel California
 artist: The Eagles
 year: 1976
-
+category: full_song
+yt_video_id: _________
+slug: "31"
+redirect_from:
+  - /songs/eagles-hotel-california/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20970359
 ---

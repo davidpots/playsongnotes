@@ -5,7 +5,11 @@ title: Guitar lesson for "Candle in the Wind" by Ed Sheeran
 song_title:  Candle in the Wind
 artist: Ed Sheeran
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "143"
+redirect_from:
+  - /songs/ed-sheeran-candle-in-the-wind/
 ---
 
 ## Video lesson
