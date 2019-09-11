@@ -5,6 +5,9 @@ title: Guitar lesson for "How Far I'll Go" by Alessia Cara (from Moana) -- plays
 song_title:  How Far I'll Go
 artist: Alessia Cara
 year: 2016
+slug: "101"
+redirect_from:
+  - /songs/alessia-cara-how-far-i-ll-go/
 
 ---
 

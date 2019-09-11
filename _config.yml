@@ -27,11 +27,16 @@ markdown: kramdown
 # theme: minima // Disabled because I don't want no gem-based theme (DP May 28, 2017)
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+
 exclude:
   - Gemfile
   - Gemfile.lock
 
 collections:
+  lessons:
+    output: true
+    permalink: /:collection/:slug/
   songs:
     output: true
     permalink: /:collection/:name/
