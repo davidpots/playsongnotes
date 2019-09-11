@@ -5,7 +5,11 @@ title: Guitar lesson for "Badlands" by Bruce Springsteen -- playsongnotes.com
 song_title:  Badlands
 artist: Bruce Springsteen
 year: 1978
-
+category: full_song
+yt_video_id: _________
+slug: "44"
+redirect_from:
+  - /songs/bruce-springsteen-badlands/
 ---
 
 ## Video lesson

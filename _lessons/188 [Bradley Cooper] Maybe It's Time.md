@@ -5,7 +5,11 @@ title: Guitar lesson for "Maybe It's Time" from A Star is Born
 song_title:  Maybe It's Time
 artist: Bradley Cooper
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "188"
+redirect_from:
+  - /songs/bradley-cooper-maybe-it-s-time/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22497311
 ---

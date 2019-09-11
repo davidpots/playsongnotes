@@ -5,7 +5,11 @@ title: Guitar lesson for "Real Friends" by Camila Cabello
 song_title:  Real Friends
 artist: Camila Cabello
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "119"
+redirect_from:
+  - /songs/camila-cabello-real-friends/
 ---
 
 ## Video lesson
