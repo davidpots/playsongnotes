@@ -5,8 +5,12 @@ title: Guitar lesson for "Wagon Wheel" by Old Crow Medicine Show -- playsongnote
 song_title:  Wagon Wheel
 artist: Old Crow Medicine Show
 year: 2004
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/29901798
 
 ---
+
+
 
 ## Video lesson
 
@@ -107,13 +111,13 @@ If you want to play this along with the Old Crow Medicine Show album recording, 
 ### Guitar Chords Used
 Here is how to play the guitar chords used in this song. Only four chords, nice and simple. Note, these chords work perfectly with the Darius Rucker version of this song as well.
 
-    e-|---3---2---0----2---
-    B-|---0---3---0----3---
-    G-|---0---2---0----2---
-    D-|---0---0---2----0---
-    A-|---2-------2--------
+    e-|---3---2---0----0---
+    B-|---0---3---0----1---
+    G-|---0---2---0----0---
+    D-|---0---0---2----2---
+    A-|---2-------2----3---
     E-|---3-------0--------
-          G   D   Em   D
+          G   D   Em   C
 
 ### On Bob Dylan Originally Writing This Song
 Obligatory note that Old Crow Medicine Show did not originally write this entire song. It was based on a sketch/incomplete recording by Bob Dylan, which featured only the chorus sections (the verses were mumbled and indecipherable). Ketch Secor of Old Crow Medicine Show then completed the verses and used them with Dylan's choruses. Read more about it on the Wikipedia entry for this song: http://en.wikipedia.org/wiki/Wagon_Wheel_(song)
