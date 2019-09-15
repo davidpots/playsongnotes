@@ -5,6 +5,11 @@ title: Guitar lesson for "Simple Man" by Lynyrd Skynyrd -- playsongnotes.com
 song_title:  Simple Man
 artist: Lynyrd Skynyrd
 year: 1973
+category: full_song
+yt_video_id: _________
+slug: "56"
+redirect_from:
+  - /songs/lynyrd-skynyrd-simple-man/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21108513

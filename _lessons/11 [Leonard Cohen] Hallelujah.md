@@ -5,6 +5,11 @@ title: Guitar lesson for "Hallelujah" by Leonard Cohen -- playsongnotes.com
 song_title:  Hallelujah
 artist: Leonard Cohen
 year: 1984
+category: full_song
+yt_video_id: _________
+slug: "11"
+redirect_from:
+  - /songs/leonard-cohen-hallelujah/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26843157

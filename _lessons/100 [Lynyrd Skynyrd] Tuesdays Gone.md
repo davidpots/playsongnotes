@@ -5,6 +5,11 @@ title: Guitar lesson for "Tuesday's Gone" by Lynyrd Skynyrd
 song_title:  Tuesday's Gone
 artist: Lynyrd Skynyrd
 year: 1973
+category: full_song
+yt_video_id: _________
+slug: "100"
+redirect_from:
+  - /songs/lynyrd-skynyrd-tuesdays-gone/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103

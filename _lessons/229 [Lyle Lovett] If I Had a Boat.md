@@ -5,6 +5,11 @@ title: Guitar lesson for "If I Had a Boat" by Lyle Lovett
 song_title:  If I Had a Boat
 artist: Lyle Lovett
 year: 1987
+category: full_song
+yt_video_id: _________
+slug: "229"
+redirect_from:
+  - /songs/lyle-lovett-if-i-had-a-boat/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26032668

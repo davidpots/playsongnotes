@@ -5,6 +5,11 @@ title: Guitar lesson for "Where Did You Sleep Last Night" by Nirvana
 song_title:  Where Did You Sleep Last Night
 artist: Nirvana
 year: 1994
+category: full_song
+yt_video_id: _________
+slug: "102"
+redirect_from:
+  - /songs/nirvana-where-did-you-sleep-last-night/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103

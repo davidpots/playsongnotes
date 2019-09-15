@@ -5,6 +5,11 @@ title: Guitar lesson for "They Can't See" by Michael Tyler -- playsongnotes.com
 song_title:  They Can't See
 artist: Michael Tyler
 year: 2017
+category: full_song
+yt_video_id: _________
+slug: "81"
+redirect_from:
+  - /songs/michael-tyler-they-can-t-see/
 
 ---
 

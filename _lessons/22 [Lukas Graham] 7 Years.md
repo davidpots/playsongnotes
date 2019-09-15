@@ -5,6 +5,11 @@ title: Guitar lesson for "7 Years" by Lukas Graham -- playsongnotes.com
 song_title: 7 Years
 artist: Lukas Graham
 year: 2015
+category: full_song
+yt_video_id: _________
+slug: "22"
+redirect_from:
+  - /songs/lukas-graham-7-years/
 
 ---
 

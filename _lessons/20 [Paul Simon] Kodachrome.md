@@ -5,6 +5,11 @@ title: Guitar lesson for "Kodachrome" by Paul Simon -- playsongnotes.com
 song_title: Kodachrome
 artist: Paul Simon
 year: 1973
+category: full_song
+yt_video_id: _________
+slug: "20"
+redirect_from:
+  - /songs/paul-simon-kodachrome/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27711802

@@ -5,6 +5,11 @@ title: Guitar lesson for "Stairway to Heaven" intro by Led Zeppelin -- playsongn
 song_title:  Stairway to Heaven
 artist: Led Zeppelin
 year: 1971
+category: full_song
+yt_video_id: _________
+slug: "69"
+redirect_from:
+  - /songs/led-zeppelin-stairway-to-heaven/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27574943

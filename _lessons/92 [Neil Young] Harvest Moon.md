@@ -5,6 +5,11 @@ title: Guitar lesson for "Harvest Moon" by Neil Young
 song_title:  Harvest Moon
 artist: Neil Young
 year: 1992
+category: full_song
+yt_video_id: _________
+slug: "92"
+redirect_from:
+  - /songs/neil-young-harvest-moon/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103

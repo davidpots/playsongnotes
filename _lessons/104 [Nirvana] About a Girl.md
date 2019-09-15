@@ -5,6 +5,11 @@ title: Guitar lesson for "About a Girl" by Nirvana
 song_title:  About a Girl
 artist: Nirvana
 year: 1994
+category: full_song
+yt_video_id: _________
+slug: "104"
+redirect_from:
+  - /songs/nirvana-about-a-girl/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103

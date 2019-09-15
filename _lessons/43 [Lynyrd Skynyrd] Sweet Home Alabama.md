@@ -5,6 +5,11 @@ title: Guitar lesson for "Sweet Home Alabama" by Lynyrd Skynyrd -- playsongnotes
 song_title:  Sweet Home Alabama
 artist: Lynyrd Skynyrd
 year: 1974
+category: full_song
+yt_video_id: _________
+slug: "43"
+redirect_from:
+  - /songs/lynyrd-skynyrd-sweet-home-alabama/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22280189

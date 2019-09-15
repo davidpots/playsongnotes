@@ -5,6 +5,11 @@ title: Guitar lesson for "Malibu" by Miley Cyrus -- playsongnotes.com
 song_title:  Malibu
 artist: Miley Cyrus
 year: 2017
+category: full_song
+yt_video_id: _________
+slug: "67"
+redirect_from:
+  - /songs/miley-cyrus-malibu/
 
 ---
 

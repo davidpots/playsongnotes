@@ -5,6 +5,11 @@ title: Guitar lesson for "Light On" by Maggie Rogers
 song_title:  Light On
 artist: Maggie Rogers
 year: 2019
+category: full_song
+yt_video_id: _________
+slug: "208"
+redirect_from:
+  - /songs/maggie-rogers-light-on/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24140548

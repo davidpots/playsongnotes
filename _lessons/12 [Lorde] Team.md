@@ -5,6 +5,11 @@ title: Guitar lesson for "Team" by Lorde -- playsongnotes.com
 song_title:  Team
 artist: Lorde
 year: 2013
+category: full_song
+yt_video_id: _________
+slug: "12"
+redirect_from:
+  - /songs/lorde-team/
 
 ---
 

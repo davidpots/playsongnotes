@@ -5,6 +5,11 @@ title: Guitar lesson for "Last Kiss" by Pearl Jam
 song_title:  Last Kiss
 artist: Pearl Jam
 year: 1999
+category: full_song
+yt_video_id: _________
+slug: "87"
+redirect_from:
+  - /songs/pearl-jam-last-kiss/
 
 ---
 

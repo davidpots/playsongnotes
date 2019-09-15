@@ -5,6 +5,11 @@ title: Guitar lesson for "All Apologies" by Nirvana (intro & verse riff w/ tab)
 song_title:  All Apologies
 artist: Nirvana
 year: 1993
+category: full_song
+yt_video_id: _________
+slug: "155"
+redirect_from:
+  - /songs/nirvana-all-apologies/
 
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28292619
