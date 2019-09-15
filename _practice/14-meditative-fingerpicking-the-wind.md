@@ -18,6 +18,8 @@ patreon_lesson_url: https://www.patreon.com/posts/28420165 -->
 
 <!-- {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %} -->
 
+## Print-friendly PDF for this lesson
+
 Uploading within the hour! Check back soon.
 
 <!-- Coming soon! -->
