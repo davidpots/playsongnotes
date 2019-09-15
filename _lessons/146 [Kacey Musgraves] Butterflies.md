@@ -5,7 +5,11 @@ title: Guitar lesson for "Butterflies" by Kacey Musgraves
 song_title:  Butterflies
 artist: Kacey Musgraves
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "146"
+redirect_from:
+  - /songs/kacey-musgraves-butterflies/
 ---
 
 ## Video lesson

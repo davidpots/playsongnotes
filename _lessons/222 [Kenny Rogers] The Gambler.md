@@ -5,7 +5,11 @@ title: Guitar lesson for "The Gambler" by Kenny Rogers
 song_title:  The Gambler
 artist: Kenny Rogers
 year: 1978
-
+category: full_song
+yt_video_id: _________
+slug: "222"
+redirect_from:
+  - /songs/kenny-rogers-the-gambler/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25099962
 ---

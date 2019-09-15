@@ -5,7 +5,11 @@ title: Guitar lesson for "Someone in the Crowd" from La La Land -- playsongnotes
 song_title:  Someone in the Crowd
 artist: La La Land
 year: 2016
-
+category: full_song
+yt_video_id: _________
+slug: "40"
+redirect_from:
+  - /songs/la-la-land-someone-in-the-crowd/
 ---
 
 ## Video lesson

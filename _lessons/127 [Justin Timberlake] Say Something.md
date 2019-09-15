@@ -5,7 +5,11 @@ title: Guitar lesson for "Say Something" by Justin Timberlake ft. Chris Stapleto
 song_title:  Say Something
 artist: Chris Stapleton
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "127"
+redirect_from:
+  - /songs/justin-timberlake-say-something/
 ---
 
 ## Video lesson

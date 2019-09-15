@@ -5,7 +5,11 @@ title: Guitar lesson for "Filthy" by Justin Timberlake
 song_title:  Filthy
 artist: Justin Timberlake
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "120"
+redirect_from:
+  - /songs/justin-timberlake-filthy/
 ---
 
 ## Video lesson

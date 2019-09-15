@@ -5,7 +5,11 @@ title: Guitar lesson for "Lola" by The Kinks
 song_title:  Lola
 artist: The Kinks
 year: 1971
-
+category: full_song
+yt_video_id: _________
+slug: "165"
+redirect_from:
+  - /songs/kinks-lola/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-25593108
 ---

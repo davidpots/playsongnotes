@@ -5,7 +5,11 @@ title: Guitar lesson for "True Colors" by Justin Timberlake and Anna Kendrick --
 song_title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
 year: 2016
-
+category: full_song
+yt_video_id: _________
+slug: "32"
+redirect_from:
+  - /songs/justin-timberlake-and-anna-kendrick-true-colors/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22348676
 ---

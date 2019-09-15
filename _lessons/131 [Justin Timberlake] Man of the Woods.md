@@ -5,7 +5,11 @@ title: Guitar lesson for "Man of the Woods" by Justin Timberlake
 song_title:  Man of the Woods
 artist: Justin Timberlake
 year: 2018
-
+category: full_song
+yt_video_id: _________
+slug: "131"
+redirect_from:
+  - /songs/justin-timberlake-man-of-the-woods/
 ---
 
 ## Video lesson

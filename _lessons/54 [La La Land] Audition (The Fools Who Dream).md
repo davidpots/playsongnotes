@@ -5,7 +5,11 @@ title: Guitar lesson for "Audition (The Fools Who Dream)" from La La Land -- pla
 song_title:  Audition (The Fools Who Dream)
 artist: La La Land
 year: 2016
-
+category: full_song
+yt_video_id: _________
+slug: "54"
+redirect_from:
+  - /songs/la-la-land-audition-the-fools-who-dream/
 ---
 
 ## Video lesson

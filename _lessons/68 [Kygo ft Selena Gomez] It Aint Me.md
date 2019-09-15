@@ -6,7 +6,11 @@ song_title:  It Ain't Me
 artist: Kygo
 artist_featured: Selena Gomez
 year: 2017
-
+category: full_song
+yt_video_id: _________
+slug: "68"
+redirect_from:
+  - /songs/kygo-ft-selena-gomez-it-aint-me/
 ---
 
 ## Video lesson

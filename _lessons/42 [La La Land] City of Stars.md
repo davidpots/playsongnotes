@@ -5,7 +5,11 @@ title: Guitar lesson for "City of Stars" from La La Land -- playsongnotes.com
 song_title:  City of Stars
 artist: La La Land
 year: 2016
-
+category: full_song
+yt_video_id: _________
+slug: "42"
+redirect_from:
+  - /songs/la-la-land-city-of-stars/
 ---
 
 ## Video lesson
