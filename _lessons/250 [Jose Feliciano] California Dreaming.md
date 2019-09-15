@@ -5,7 +5,11 @@ title: Guitar lesson for "California Dreamin'" by Jose Feliciano
 song_title:  California Dreamin'
 artist: Jose Feliciano
 year: 1968
-
+category: full_song
+yt_video_id: _________
+slug: "250"
+redirect_from:
+  - /songs/jose-feliciano-california-dreaming/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29059866
 ---

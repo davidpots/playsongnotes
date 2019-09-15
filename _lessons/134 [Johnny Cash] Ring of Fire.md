@@ -5,7 +5,11 @@ title: Guitar lesson for "Ring of Fire" by Johnny Cash
 song_title: Ring of Fire
 artist: Johnny Cash
 year: 1963
-
+category: full_song
+yt_video_id: _________
+slug: "134"
+redirect_from:
+  - /songs/johnny-cash-ring-of-fire/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22061680
 ---

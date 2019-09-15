@@ -5,7 +5,11 @@ title: Guitar lesson for "Hurt" by Johnny Cash
 song_title: Hurt
 artist: Johnny Cash
 year: 2002
-
+category: full_song
+yt_video_id: _________
+slug: "90"
+redirect_from:
+  - /songs/johnny-cash-hurt/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22543461
 ---

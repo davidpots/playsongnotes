@@ -5,7 +5,11 @@ title: Guitar lesson for "Give My Love To Rose" by Johnny Cash -- playsongnotes.
 song_title:  Give My Love To Rose
 artist: Johnny Cash
 year: 1960
-
+category: full_song
+yt_video_id: _________
+slug: "18"
+redirect_from:
+  - /songs/johnny-cash-give-my-love-to-rose/
 ---
 
 ## Video lesson

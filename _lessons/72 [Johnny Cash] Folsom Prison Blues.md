@@ -5,7 +5,11 @@ title: Guitar lesson for "Folsom Prison Blues" by Johnny Cash -- playsongnotes.c
 song_title: Folsom Prison Blues
 artist: Johnny Cash
 year: 1957
-
+category: full_song
+yt_video_id: _________
+slug: "72"
+redirect_from:
+  - /songs/johnny-cash-folsom-prison-blues/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24118585
 ---

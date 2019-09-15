@@ -5,7 +5,11 @@ title: Guitar lesson for "When the Man Comes Around" by Johnny Cash
 song_title: When the Man Comes Around
 artist: Johnny Cash
 year: 2002
-
+category: full_song
+yt_video_id: _________
+slug: "159"
+redirect_from:
+  - /songs/johnny-cash-when-the-man-comes-around/
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26674074
 ---
