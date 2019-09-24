@@ -5,7 +5,8 @@ title: Guitar lesson for "Creep" by Radiohead
 song_title:  Creep
 artist: Radiohead
 year: 1993
-
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/30194939
 ---
 
 ## Video lesson
