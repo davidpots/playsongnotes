@@ -8,10 +8,9 @@ year: 2019
 category: full_song
 yt_video_id: _________
 slug: "259"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/30423659
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25388934 -->
 
 ## Video Lesson
 
