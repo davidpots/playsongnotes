@@ -3,10 +3,11 @@ layout: practice
 title: How to read & write strumming patterns
 slug: "27"
 date: 2019-10-06
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/30540917
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/29981439 -->
+
 
 ## Video Overview
 
