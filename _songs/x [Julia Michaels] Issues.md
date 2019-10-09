@@ -5,7 +5,8 @@ title: Guitar lesson for "Issues" by Julia Michaels -- playsongnotes.com
 song_title:  Issues
 artist: Julia Michaels
 year: 2017
-
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/30623762
 ---
 
 ## Video lesson

@@ -24,55 +24,55 @@ year: 1956
         A  ... D ... A ... E ...
         B7 ... E ... E ... E ...  (see below for guitar tab)
 
-    VERSE #1
+    VERSE #1 (key of E)
                  B7                           E
         I keep a close watch on this heart of mine
                   B7                     E
         I keep my eyes wide open all the time
                    A                         E
         I keep the ends out for the tie that binds
-                       B7               E
+                       B7               E       (walk up) A
         Because you're mine, I walk the line
 
-    VERSE #2
-            (key change! walk up to A )
-
+    VERSE #2 (key of A)
+            A
+            Hmmmmmm....
                       E                      A
             I find it very, very easy to be true
                      E                           A  
             I find myself alone when each day is through
                         D                       A
             Yes, I'll admit that I'm a fool for you
-                           E                A
+                           E                A       (walk up) D
             Because you're mine, I walk the line
 
-    VERSE #3        
-                (key change! walk up to D )
-
+    VERSE #3 (key of D)
+                D
+                Hmmmmmm....
                            A                        D
                 As sure as night is dark and day is light
                            A                       D
                 I keep you on my mind both day and night
                          G                                D
                 And happiness I've known proves that it's right
-                               A                D
+                               A                D       (walk down) A
                 Because you're mine, I walk the line
 
-    VERSE #4
-            (key change! walk down to A )
-
+    VERSE #4 (key of A)
+            A
+            Hmmmmmm....
                          E                      A
             You've got a way to keep me on your side
                         E                           A
             You give me cause for love that I can't hide
                       D                             A
             For you I know I'd even try to turn the tide
-                           E                A
+                           E                A        (walk down) E
             Because you're mine, I walk the line
 
-    VERSE #5
-        (key change! walk down to E )
-
+    VERSE #5 (key of E)
+        E
+        Hmmmmmm....
                  B7                           E
         I keep a close watch on this heart of mine
                   B7                     E
@@ -80,9 +80,7 @@ year: 1956
                    A                         E
         I keep the ends out for the tie that binds
                        B7               E
-        Because you're mine, I walk the line
-
-                                  (end on E, fade out)
+        Because you're mine, I walk the line     [stay on E, fade out to end]
 
 ## Notes and tabs
 
