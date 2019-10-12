@@ -39,7 +39,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 
 
-{% assign songs_by_artist = site.songs | group_by: 'artist' | sort: 'song_title' %}
+{% assign songs_by_artist = site.lessons | group_by: 'artist' | sort: 'song_title' %}
 
 <div style="column-count: 3; column-width: 300px;">
 {% for artist in songs_by_artist %}
