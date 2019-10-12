@@ -39,36 +39,38 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 
 
-{% assign songs_by_artist = site.lessons | group_by: 'artist' | sort: 'song_title' %}
-
+{% assign songs_by_artist = site.lessons | group_by: "artist" | sort: "name" %}
 <div style="column-count: 3; column-width: 300px;">
 {% for artist in songs_by_artist %}
+{% assign artist_count = 0 %}
 
-    {% assign artist_count = 0 %}
+{% for song in artist.items %}
 
-    {% for song in artist.items %}
-
-      {% if song.patreon_lesson_available == true %}
-        {% assign artist_count = artist_count | plus: 1 %}
-      {% endif %}
-
-    {% endfor %}
-
-      {% if artist_count > 0 %}
-        <h3 class="mbn">{{artist.name}}</h3>
-        <ul>
-        {% for song in artist.items %}
-        {% if song.patreon_lesson_available == true %}
-          {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-          <li><a href="{{song.patreon_lesson_url}}"><strong>{{song.song_title}}</strong></a></li>
-        {% endif %}
-        {% endfor %}
-        </ul>
-      {% endif %}
-
+  {% if song.patreon_lesson_available == true %}
+    {% assign artist_count = artist_count | plus: 1 %}
+  {% endif %}
 
 {% endfor %}
+
+{% if artist_count > 0 %}
+  <h3 class="mbn">{{artist.name}}</h3>
+  <ul>
+
+  {% assign sorted_by_song_name = artist.items | sort: "song_title" %}
+  {% for song in sorted_by_song_name %}
+  {% if song.patreon_lesson_available == true %}
+    {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
+  <li><a href="{{song.patreon_lesson_url}}"><strong>{{song.song_title}}</strong></a></li>
+  {% endif %}
+  {% endfor %}
+
+
+  </ul>
+{% endif %}
+{% endfor %}
 </div>
+
+
 
 
 ## Warm Up Exercise PDFs:
