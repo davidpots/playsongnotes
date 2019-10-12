@@ -7,10 +7,11 @@ year: 1970
 category: full_song
 yt_video_id: _________
 slug: "261"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/30708535
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/30423659 -->
+
 
 ## Video Lesson
 
