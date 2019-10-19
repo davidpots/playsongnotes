@@ -13,6 +13,8 @@ redirect_from:
   - /songs/johnny-cash-i-walk-the-line/
   - /lessons/262
   - /songs/x-johnny-cash-i-walk-the-line/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/30878699
 ---
 
 ## Intro riff (lesson #262)
@@ -31,7 +33,7 @@ Lesson timestamps:
 
 ## Full song (lesson #6)
 
-Here's an older video I did (from 2014) showing how to play the intro and all verses.
+Here's an older video I did (from 2014) showing how to play all the verse sections, including the walk ups & walk downs between each verse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPf0HLvc3L8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
