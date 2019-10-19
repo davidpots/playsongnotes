@@ -39,6 +39,8 @@ Here's an older video I did (from 2014) showing how to play all the verse sectio
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
+<a href="{{page.patreon_lesson_url}}"><img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/30878699/5a4f059d5ebe4d70bac27df0b94145ca/1.png?token-time=1572652800&token-hash=2CfreVWdcof6jZ_S2_1N_JPaixklIVrFkLn3Pu93os0%3D" /></a>
+
 ## Chords w/ lyrics
 
     (capo 1st fret)
