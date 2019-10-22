@@ -24,12 +24,12 @@ patreon_lesson_url: https://www.patreon.com/posts/24118585
 
 ## Lesson timestamps:
 
-– 0:00 Playthrough
-– 0:44 Chords needed
-– 1:41 Verse structure w/ simple strum
-– 2:50 Intro riff
-– 3:40 Strumming w/ alternating bass notes
-– 5:43 Farewell
+- 0:00 Playthrough
+- 0:44 Chords needed
+- 1:41 Verse structure w/ simple strum
+- 2:50 Intro riff
+- 3:40 Strumming w/ alternating bass notes
+- 5:43 Farewell
 
 
 ## Lyrics with chords
