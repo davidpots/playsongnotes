@@ -37,7 +37,7 @@ Video timestamps:
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-
+<img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/30423659/cf7c6baa2d10419095eb0590b7c85a41/1.png?token-time=1573084800&token-hash=IYj_uno8UseKs8uC65t3560BUV_QGhrWeNFnfXBjp3M%3D" />
 
 ## Editor's notes
 
