@@ -21,6 +21,8 @@ patreon_lesson_url: https://www.patreon.com/posts/30131752 -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
+<img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/31073686/8e33e53ef718468ea662ee1711779bfd/1.png?token-time=1573344000&token-hash=iHiZaT3bwm78Hn3dYGXPquO5N7dZzU0TmCgAPY20OTg%3D" width="700" />
+
 ## Editor's notes
 
 In this lesson I'll show you a fun fingerstyle exercise based on a C-major walkdown progression. Using 2 different arrangements, I'll teach how you can use common chords in the key of C to capture the sound of a descending bass line throughout an 8-measure progression. This is inspired by the guitar work heard in Taylor Swift's song "Death by 1000 Cuts" – though you'll need a capo 4th fret to play along with her song (using the tabs I show).
