@@ -78,8 +78,8 @@ layout: default
     {% assign sorted_songs = site.lessons | sort: 'song_title' %}
 
     {% for song in sorted_songs %}
-      {% if song.category == full_song %}
-      
+      {% if song.category == "full_song" %}
+
       <li>
         <a href="{{ song.url | relative_url }}">
           <div class="lesson-list--item-wrap">
