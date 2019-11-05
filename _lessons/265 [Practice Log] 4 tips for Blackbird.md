@@ -25,7 +25,16 @@ patreon_lesson_url: https://www.patreon.com/posts/31322903 -->
 
 ## Editor's notes
 
-Here's 4 quick tips to keep in mind when going about learning "Blackbird" by The Beatles –– which is a song I'm currently learning for the very first time! I wanted to capture these insights while they're fresh, even though I'm not necessarily fluent in performing the song just yet. Whether you go about learning Blackbird from my lesson or from some other teacher, these tips will help you get over some of the initial hurdles you may encounter.
+Here's 4 quick tips to keep in mind when going about learning "Blackbird" by The Beatles –– which is a song I'm currently learning for the very first time! I wanted to capture these insights while they're fresh. Whether you go about learning Blackbird from my lesson (coming soon) or from some other teacher, these tips will help you get over some of the initial hurdles you may encounter.
+
+Things I talk about:
+
+1. You don't have to play the entire song
+2. You don't have to play it the exact way Paul does
+3. It's okay to avoid the third string when starting out
+4. It's okay to simplify the 2 difficult chords
+
+The point is to have fun, and not feel pressured by the weight of this song when getting started. From there, you can take it as as you want to go -- whether your goal is to play it like Paul, or you just want to casually futz around with the chord shapes. Have fun!
 
 ## Watch Paul McCartney play it live
 
