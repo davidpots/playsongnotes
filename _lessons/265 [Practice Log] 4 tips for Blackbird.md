@@ -10,16 +10,16 @@ slug: "265"
 ---
 
 <!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/31073686 -->
+patreon_lesson_url: https://www.patreon.com/posts/31322903 -->
 
 
 
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/LJGLWm8IHv8?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwnL0t87I3Y?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon...
+<!-- Coming soon... -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
@@ -29,6 +29,6 @@ Here's 4 quick tips to keep in mind when going about learning "Blackbird" by The
 
 ## Watch Paul McCartney play it live
 
-If you're curious how he plays it, give this a watch! Notice how strummy he is, both with his thumb and his index finger. As I state in my video, it's okay if you don't play it exactly like him! 
+If you're curious how he plays it, give this a watch! Notice how strummy he is, both with his thumb and his index finger. As I state in my video, it's okay if you don't play it exactly like him!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RDxfjUEBT9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
