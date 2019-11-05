@@ -19,6 +19,8 @@ patreon_lesson_url: https://www.patreon.com/posts/31322903
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
+<img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/31322903/b50e783e98e8499eb00f23142785934c/1.png?token-time=1574121600&token-hash=HTjrwDBwULNcKYUjAISsbwD3KDDYC8Yb2Vc54UgTMKk%3D" width="720" alt="Blackbird (The Beatles) PDF preview, with chords and tabs" />
+
 ## Editor's notes
 
 Here's 4 quick tips to keep in mind when going about learning "Blackbird" by The Beatles –– which is a song I'm currently learning for the very first time! I wanted to capture these insights while they're fresh. Whether you go about learning Blackbird from my lesson (coming soon) or from some other teacher, these tips will help you get over some of the initial hurdles you may encounter.
