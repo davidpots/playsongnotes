@@ -22,6 +22,11 @@ layout: default
     <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">Lesson #{{ page.slug }}</p>
   {% endif %}
 
+  {% if page.category == "practice_log" %}
+    <p class="h3 mbn">Practice Log</p>
+    <h1 class="mtn mbn">{{ page.title | escape }}</h1>
+    <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">Lesson #{{ page.slug }}</p>
+  {% endif %}
 
 
 
