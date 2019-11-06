@@ -4,6 +4,7 @@ title: 4 tips for learning Blackbird
 category: practice_log
 song_title: Blackbird
 artist: The Beatles
+date: 2019-11-03
 year: 1968
 yt_video_id: _________
 slug: "265"
