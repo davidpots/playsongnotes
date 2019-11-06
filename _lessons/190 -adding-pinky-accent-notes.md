@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Adding pinky accent notes to a chord progression
-slug: "5"
+slug: "190"
 date: 2018-11-11
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22651220
+redirect_from:
+  - /practice/5
 ---
 
 ## Video Overview

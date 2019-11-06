@@ -39,7 +39,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 
 
-{% assign songs_by_artist = site.lessons | group_by: "artist" | sort: "name" %}
+{% assign songs_by_artist = site.lessons | where: "category", "full_song" | group_by: "artist" | sort: "name" %}
 <div style="column-count: 3; column-width: 300px;">
 {% for artist in songs_by_artist %}
 {% assign artist_count = 0 %}
@@ -87,12 +87,12 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 ## Practice Log PDFs:
 
-    {% assign sorted_plogs = site.practice | sort: 'date' | reverse %}
+    {% assign sorted_plogs = site.lessons | where: "category","practice_log" | sort: 'date' | reverse %}
 <ul>
     {% for plog in sorted_plogs %}
       {% if plog.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{plog.patreon_lesson_url}}">#{{ plog.slug }}: {{ plog.title }}</a></strong> <span class="small">{{ plog.date | date: "%b %-d, %Y" }}</span></li>
+<li><strong><a href="{{plog.patreon_lesson_url}}">{{ plog.title }}</a></strong> • <span class="small">Lesson #{{ plog.slug }} • {{ plog.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>

@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Travis picking finger technique (right-hand index & pinky)
-slug: "11"
+slug: "227"
 date: 2019-03-18
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25555059
+redirect_from:
+  - /practice/11
 ---
 
 ## Video Overview

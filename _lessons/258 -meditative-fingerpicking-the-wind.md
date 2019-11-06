@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Meditative fingerpicking practice, inspired by "The Wind" by Cat Stevens
-slug: "14"
+slug: "258"
 date: 2019-09-15
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29981439
+redirect_from:
+  - /practice/14
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: How to spice up a 2-chord song (feat. Tennessee Whiskey)
-slug: "6"
+slug: "191"
 date: 2018-11-14
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22729990
+redirect_from:
+  - /practice/6
 ---
 
 ## Video Overview

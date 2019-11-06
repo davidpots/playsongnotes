@@ -11,10 +11,10 @@ permalink: /practice/index.html
 
     <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
 
-    {% assign practices = site.practice | sort: 'date' %}
+    {% assign practices = site.lessons | where: "category","practice_log" | sort: 'date' %}
 
     {% for p in practices reversed %}
-      <li><a class="underline" href="{{ p.url | relative_url }}"><strong>Practice Log #{{ p.slug }}: {{ p.title }} </strong></a><br /><em>{{ p.date | date: "%B %-d, %Y"}}</em></li>
+      <li><a class="underline" href="{{ p.url | relative_url }}"><strong>{{ p.title }} </strong></a><span class="small"> • Lesson #{{ p.slug }} • {{ p.date | date: "%B %-d, %Y"}}</span></li>
     {% endfor %}
   </ul>
 

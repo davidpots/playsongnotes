@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Improvised guitar pickin' on "The Gambler"
-slug: "8"
+slug: "207"
 date: 2019-01-16
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24033565/
+redirect_from:
+  - /practice/8
 ---
 
 ## Video lesson

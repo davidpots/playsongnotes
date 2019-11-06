@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Fingerpicking C-G-Am-F (based on Vampire Weekend's "Hold You Now")
-slug: "13"
+slug: "247"
 date: 2019-07-16
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28420165
+redirect_from:
+  - /practice/13
 ---
 
 

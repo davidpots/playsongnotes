@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: The "Pretty Woman" lick, played 4 different ways
-slug: "4"
+slug: "183"
 date: 2018-10-13
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22030862
+redirect_from:
+  - /practice/4
 ---
 
 ## Video Overview

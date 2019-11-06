@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: How I composed a multi-part fingerstyle guitar arrangement
-slug: "12"
+slug: "230"
 date: 2019-04-12
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26077237
+redirect_from:
+  - /practice/12
 ---
 
 ## Video Overview

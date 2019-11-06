@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Practicing with a backing track (feat. Tennessee Whiskey)
-slug: "7"
+slug: "195"
 date: 2018-12-01
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23065293
+redirect_from:
+  - /practice/7
 ---
 
 ## Video lesson

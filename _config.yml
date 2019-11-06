@@ -40,9 +40,6 @@ collections:
   songs:
     output: true
     permalink: /:collection/:name/
-  practice:
-    output: true
-    permalink: /:collection/:slug/
   warmup:
     output: true
     permalink: /:collection/:slug/

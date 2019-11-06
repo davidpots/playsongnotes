@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: '"The Chain" and Double-Drop D tuning'
-slug: "2"
+slug: "168"
 date: 2018-08-06
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-20607117
+redirect_from:
+  - /practice/2
 ---
 
 ## Let's play around with Double-drop D tuning!

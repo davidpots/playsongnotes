@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: A-minor blues improvisation w/ backing track
-slug: "10"
+slug: "217"
 date: 2019-02-20
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24872694
+redirect_from:
+  - /practice/10
 ---
 
 ## Video lesson:

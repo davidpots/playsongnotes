@@ -10,10 +10,11 @@ yt_video_id: _________
 slug: "220"
 redirect_from:
   - /songs/lady-gaga-always-remember-us-this-way/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/25021126
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
+
 
 ## Video lesson
 
@@ -31,12 +32,6 @@ patreon_lesson_url: https://www.patreon.com/posts/21995927 -->
 - 14:05 Chorus: advanced voicings
 - 16:23 Putting it all together
 - 18:03 Farewell & thanks
-
-## Print-friendly PDF of this lesson available!
-
-<!-- [Support me on Patreon](https://www.patreon.com/posts/21995927) to get access to a print-friendly PDF chord sheet (w/ tabs, etc) for this lesson. This will also give you access to chord sheets I've already made for other lessons. Thanks for your support! -->
-
-Coming around 7:30am (Central US time) on Thursday morning... stay tuned!
 
 ## Lyrics w/ chords
 

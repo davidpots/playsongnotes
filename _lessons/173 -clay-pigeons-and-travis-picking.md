@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Learning to Travis Pick with "Clay Pigeons"
-slug: "3"
+slug: "173"
 date: 2018-09-13
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085
+redirect_from:
+  - /practice/3
 ---
 
 ## Video Overview

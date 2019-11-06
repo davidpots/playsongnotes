@@ -1,10 +1,13 @@
 ---
-layout: practice
+layout: song
 title: Adding fills to the Wild Horses intro
-slug: "9"
+slug: "209"
 date: 2019-01-24
+category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24194426
+redirect_from:
+  - /practice/9
 ---
 
 ## Video lesson

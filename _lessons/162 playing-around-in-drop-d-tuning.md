@@ -1,8 +1,11 @@
 ---
-layout: practice
+layout: song
 title: Playing around in Drop-D tuning
-slug: "1"
+slug: "162"
+category: practice_log
 date: 2018-07-20
+redirect_from:
+  - /practice/1
 ---
 
 ## Video Overview
