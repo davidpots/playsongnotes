@@ -10,6 +10,8 @@ yt_video_id: _________
 slug: "154"
 redirect_from:
   - /songs/wyclef-jean-gone-till-november/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/31429770
 ---
 
 ## Video lesson
