@@ -28,6 +28,13 @@ layout: default
     <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">Lesson #{{ page.slug }}</p>
   {% endif %}
 
+  {% if page.category == "tip_technique" %}
+    <p class="h3 mbn">Tips & Techniques</p>
+    <h1 class="mtn mbn">{{ page.title | escape }}</h1>
+    <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">Lesson #{{ page.slug }}</p>
+  {% endif %}
+
+
 
 
   <!-- Content -->

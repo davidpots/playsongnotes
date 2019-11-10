@@ -99,12 +99,12 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 ## Tips & Technique PDFs:
 
-    {% assign sorted_tips = site.tips | sort: 'date' | reverse %}
+    {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date' | reverse %}
 <ul>
     {% for tip in sorted_tips %}
       {% if tip.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{tip.patreon_lesson_url}}">#{{ tip.slug }}: {{ tip.title }}</a></strong> <span class="small">{{ tip.date | date: "%b %-d, %Y" }}</span></li>
+<li><strong><a href="{{tip.patreon_lesson_url}}">{{ tip.title }}</a></strong> • <span class="small">Lesson #{{ tip.slug }} • {{ tip.date | date: "%b %-d, %Y" }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>

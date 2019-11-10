@@ -11,10 +11,10 @@ permalink: /tips/index.html
 
     <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
 
-    {% assign tips = site.tips | sort: 'date' %}
+    {% assign tips = site.lessons | where: "category","tip_technique" | sort: 'date' %}
 
     {% for t in tips reversed %}
-      <li><a class="underline" href="{{ t.url | relative_url }}"><strong>Tip #{{ t.slug }}: {{ t.title }} </strong></a><br /><em>{{ t.date | date: "%B %-d, %Y"}}</em></li>
+      <li><a class="underline" href="{{ t.url | relative_url }}"><strong>{{ t.title }} </strong></a><br /><em>{{ t.date | date: "%B %-d, %Y"}} • Lesson #{{ t.slug }}</em></li>
     {% endfor %}
   </ul>
 
