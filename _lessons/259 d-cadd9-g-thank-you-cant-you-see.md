@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/23/
 title: D-Cadd9-G riffin' on "Thank You" and "Can't You See"
-slug: "23"
+slug: "259"
 date: 2019-09-21
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30131752

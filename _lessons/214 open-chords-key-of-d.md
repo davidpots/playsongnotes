@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/14/
 title: Open chords in key of D w/ major & minor triads
-slug: "14"
+slug: "214"
 date: 2019-02-09
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24596181/

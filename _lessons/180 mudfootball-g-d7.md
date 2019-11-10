@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/6/
 title: Mudfootball G-D7 Shuffle
-slug: "6"
+slug: "180"
 date: 2018-10-07
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21907252

@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/7/
 title: Transitioning between Em7 - D/F# - G
-slug: "7"
+slug: "185"
 date: 2018-10-07
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22255965

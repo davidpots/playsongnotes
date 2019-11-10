@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/19/
 title: Colter Wall's Sleeping on the Blacktop intro riff
-slug: "19"
+slug: "237"
 date: 2019-05-11
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26779443

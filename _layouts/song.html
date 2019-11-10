@@ -13,7 +13,7 @@ layout: default
   {% if page.category == "full_song" %}
     <p class="h3 mbn">Guitar lesson for</p>
     <h1 class="mtn mbn">{{ page.song_title | escape }}</h1>
-    <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">by <span>{{ page.artist | escape }}</span></p>
+    <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">by <span>{{ page.artist | escape }}</span> • Lesson #{{ page.slug }}</p>
   {% endif %}
 
   {% if page.category == "warmup" %}

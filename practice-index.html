@@ -6,7 +6,7 @@ permalink: /practice/index.html
 {% include header-nav.html %}
 
 <div class="container ptl">
-  <p>Practice log videos I've made</p>
+  <p>Practice log videos I've made:</p>
   <ul>
 
     <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
@@ -14,7 +14,7 @@ permalink: /practice/index.html
     {% assign practices = site.lessons | where: "category","practice_log" | sort: 'date' %}
 
     {% for p in practices reversed %}
-      <li><a class="underline" href="{{ p.url | relative_url }}"><strong>{{ p.title }} </strong></a><span class="small"> • Lesson #{{ p.slug }} • {{ p.date | date: "%B %-d, %Y"}}</span></li>
+      <li class="mbs"><a class="underline" href="{{ p.url | relative_url }}"><strong>{{ p.title }} </strong></a><br /><em><span class="small">{{ p.date | date: "%B %-d, %Y"}} • Lesson #{{ p.slug }}</span></em></li>
     {% endfor %}
   </ul>
 

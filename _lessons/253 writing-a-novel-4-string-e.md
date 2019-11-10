@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/21/
 title: 4-finger magic with E major
-slug: "21"
+slug: "253"
 date: 2019-08-24
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29409818

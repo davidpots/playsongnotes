@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/11/
 title: Open chords in the Key of E
-slug: "11"
+slug: "202"
 date: 2018-12-26
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/repost-printable-23986840

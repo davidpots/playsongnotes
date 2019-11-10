@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/17/
 title: Triad exercises using A, D, & E
-slug: "17"
+slug: "228"
 date: 2019-03-29
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25735022

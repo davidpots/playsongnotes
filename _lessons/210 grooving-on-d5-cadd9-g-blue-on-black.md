@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/13/
 title: '"Blue on Black" grooving on D5-Cadd9-G'
-slug: "13"
+slug: "210"
 date: 2019-01-26
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24237877/

@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/22/
 title: Latin Bassline Groove from "Senriorita"
-slug: "22"
+slug: "257"
 date: 2019-09-08
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29803885

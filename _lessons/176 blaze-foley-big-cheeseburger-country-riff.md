@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/4/
 title: Blaze Foley country strumming
-slug: "4"
+slug: "176"
 date: 2018-09-21
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21601306

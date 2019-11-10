@@ -6,15 +6,15 @@ permalink: /warmup/index.html
 {% include header-nav.html %}
 
 <div class="container ptl">
-  <p>Warm-up exercises I've made so far. Plenty more to come soon!</p>
+  <p>Warm-up exercises I've made:</p>
   <ul>
 
     <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
 
-    {% assign warmups = site.warmup | sort: 'date' %}
+    {% assign warmups = site.lessons | where: "category","warmup" | sort: 'date' %}
 
     {% for w in warmups reversed %}
-      <li><a class="underline" href="{{ w.url | relative_url }}"><strong>Warm Up #{{ w.slug }}: {{ w.title }} </strong></a><br /><em>{{ w.date | date: "%B %-d, %Y"}}</em></li>
+      <li class="mbs"><a class="underline" href="{{ w.url | relative_url }}"><strong>{{ w.title }} </strong></a><br /><em class="small">{{ w.date | date: "%B %-d, %Y"}} • Lesson #{{ w.slug}}</em></li>
     {% endfor %}
   </ul>
 

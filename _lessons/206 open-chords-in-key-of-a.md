@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/12/
 title: Open chords in the Key of A
-slug: "12"
+slug: "206"
 date: 2019-01-12
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23932562/

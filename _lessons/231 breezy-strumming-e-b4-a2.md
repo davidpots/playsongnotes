@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/18/
 title: Breezy strumming on E-Bsus4-Asus2
-slug: "18"
+slug: "231"
 date: 2019-04-15
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26191868

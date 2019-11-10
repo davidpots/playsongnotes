@@ -6,7 +6,7 @@ permalink: /tips/index.html
 {% include header-nav.html %}
 
 <div class="container ptl">
-  <p>Tips & Technique videos I've made</p>
+  <p>Tips & Technique videos I've made:</p>
   <ul>
 
     <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
@@ -14,7 +14,7 @@ permalink: /tips/index.html
     {% assign tips = site.lessons | where: "category","tip_technique" | sort: 'date' %}
 
     {% for t in tips reversed %}
-      <li><a class="underline" href="{{ t.url | relative_url }}"><strong>{{ t.title }} </strong></a><br /><em>{{ t.date | date: "%B %-d, %Y"}} • Lesson #{{ t.slug }}</em></li>
+      <li class="mbs"><a class="underline" href="{{ t.url | relative_url }}"><strong>{{ t.title }} </strong></a><br /><em class="small">{{ t.date | date: "%B %-d, %Y"}} • Lesson #{{ t.slug }}</em></li>
     {% endfor %}
   </ul>
 

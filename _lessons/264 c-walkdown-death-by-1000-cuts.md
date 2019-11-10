@@ -1,18 +1,14 @@
 ---
 layout: song
-title: "Fingerstyle Walkdown in C"
 category: warmup
-song_title: Death by 1000 Cuts
-artist: Taylor Swift
-year: 2019
-yt_video_id: _________
+title: "'1000 Cuts' Fingerstyle Walkdown Exercise in C"
 slug: "264"
+redirect_from:
+  - /warmup/24/
+date: 2019-10-26
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31073686
 ---
-
-
-
 
 ## Video lesson
 

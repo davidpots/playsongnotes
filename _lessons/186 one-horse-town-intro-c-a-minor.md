@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/8/
 title: '"One Horse Town" intro riff'
-slug: "8"
+slug: "186"
 date: 2018-10-27
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22343641

@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/9/
 title: A-minor pentatonic walk-down groove
-slug: "9"
+slug: "189"
 date: 2018-11-06
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22591518

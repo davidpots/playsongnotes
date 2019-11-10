@@ -1,7 +1,10 @@
 ---
-layout: warmup
+layout: song
+category: warmup
+redirect_from:
+  - /warmup/20/
 title: Fingerstyle intro to "You've got a Friend in Me"
-slug: "20"
+slug: "246"
 date: 2019-07-03
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28140715
