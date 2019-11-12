@@ -10,6 +10,8 @@ yt_video_id: _________
 slug: "18"
 redirect_from:
   - /songs/johnny-cash-give-my-love-to-rose/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/31510807
 ---
 
 ## Video lesson
