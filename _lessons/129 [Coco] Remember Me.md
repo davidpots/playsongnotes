@@ -10,6 +10,8 @@ yt_video_id: _________
 slug: "129"
 redirect_from:
   - /songs/coco-remember-me/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/31611592
 ---
 
 ## Video Lesson
