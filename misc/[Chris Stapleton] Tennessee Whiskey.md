@@ -7,10 +7,13 @@ artist: Chris Stapleton
 year: 2015
 category: full_song_no_video
 yt_video_id: _________
-slug: "/chris-stapleton-tennessee-whiskey/"
+permalink: /chris-stapleton-tennessee-whiskey/
 redirect_from:
   - /songs/chris-stapleton-tennessee-whiskey/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video lesson
 

@@ -7,10 +7,13 @@ artist: Taylor Swift
 year: 2006
 category: full_song_no_video
 yt_video_id: _________
-slug: "/taylor-swift-love-story/"
+permalink: /taylor-swift-love-story/
 redirect_from:
   - /songs/taylor-swift-love-story/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 

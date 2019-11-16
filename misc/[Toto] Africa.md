@@ -7,10 +7,14 @@ artist: Toto
 year: 1982
 category: full_song_no_video
 yt_video_id: _________
-slug: "/toto-africa/"
+permalink: /toto-africa/
 redirect_from:
   - /songs/toto-africa/
+  - /lessons/toto-africa/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video lesson
 

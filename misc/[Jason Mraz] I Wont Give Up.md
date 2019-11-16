@@ -7,10 +7,13 @@ artist: Jason Mraz
 year: 2012
 category: full_song_no_video
 yt_video_id: _________
-slug: "/jason-mraz-i-wont-give-up/"
+permalink: /jason-mraz-i-wont-give-up/
 redirect_from:
   - /songs/jason-mraz-i-wont-give-up/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video lesson
 

@@ -2,11 +2,14 @@
 layout: song
 category: tip_technique
 title: Having fun with D/F#
-slug: "how-to-play-d-over-f-sharp"
+permalink: "/how-to-play-d-over-f-sharp"
 date: 2018-10-24
 redirect_from:
   - /tips/15/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video Overview
 

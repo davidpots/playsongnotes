@@ -1,7 +1,7 @@
 ---
 layout: song
 category: warmup
-title: "'1000 Cuts' Fingerstyle Walkdown Exercise in C"
+title: '"Death By 1000 Cuts" Fingerstyle Walkdown Exercise (Key of C)'
 slug: "264"
 redirect_from:
   - /warmup/24/

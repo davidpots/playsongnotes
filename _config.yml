@@ -46,3 +46,6 @@ collections:
   tips:
     output: true
     permalink: /:collection/:slug/
+  misc:
+    output: true
+    permalink: /lessons/:slug/

@@ -7,10 +7,13 @@ artist: Taylor Swift
 year: 2008
 category: full_song_no_video
 yt_video_id: _________
-slug: "/taylor-swift-you-belong-with-me/"
+permalink: /taylor-swift-you-belong-with-me/
 redirect_from:
   - /songs/taylor-swift-you-belong-with-me/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Tune down 1/2 step to play along with Taylor Swift
 

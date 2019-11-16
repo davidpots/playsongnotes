@@ -7,10 +7,13 @@ artist: Colter Wall
 year: 2018
 category: full_song_no_video
 yt_video_id: _________
-slug: "/colter-wall-thinkin-on-a-woman/"
+permalink: /colter-wall-thinkin-on-a-woman/
 redirect_from:
   - /songs/colter-wall-thinkin-on-a-woman/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video lesson
 

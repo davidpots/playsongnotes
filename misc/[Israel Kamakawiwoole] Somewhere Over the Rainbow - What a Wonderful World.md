@@ -7,10 +7,14 @@ artist: Israel Kamakawiwoole
 year: 1990
 category: full_song_no_video
 yt_video_id: _________
-slug: "/israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/"
+permalink: /israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/
 redirect_from:
   - /songs/israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/
+  - /lessons/israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video lesson
 

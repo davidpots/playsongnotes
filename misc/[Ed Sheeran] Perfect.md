@@ -7,10 +7,13 @@ artist: Ed Sheeran
 year: 2017
 category: full_song_no_video
 yt_video_id: _________
-slug: "/ed-sheeran-perfect/"
+permalink: /ed-sheeran-perfect/
 redirect_from:
   - /songs/ed-sheeran-perfect/
 ---
+
+<h1>{{page.title}}</h1>
+<hr />
 
 ## Video lesson
 
