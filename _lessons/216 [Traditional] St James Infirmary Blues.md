@@ -33,7 +33,9 @@ patreon_lesson_url: https://www.patreon.com/posts/24744092/
 - 21:02 Farewell
 <!-- Coming soon! -->
 
+## My backing track for this song
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1pdI3_nqJO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Coming soon! -->
 
