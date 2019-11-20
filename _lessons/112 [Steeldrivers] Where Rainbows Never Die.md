@@ -126,70 +126,70 @@ Conventional strumming pattern:
 
 * Capo 2nd fret
 
-INTRO
-    e –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
-    B –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
-    G –|–––––2––––––––2–––––2–––––––––––––––––0––0––0––0––|–
-    D –|––0–––––––––––2–––––2––––––––4––––––––0––0––0––0––|–  x4
-    A –|–––––––––––0–––––0–––––0––2–––––––––––2––2––2––2––|–
-    E –|––––––––3–––––––––––––––––––––––2––3––3––3––3––3––|–
-          1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-          D        A              Bm       G
-VERSE
-    D    A                     Bm   G        D       A    Bm  G
-    ........I'm an old man now... I can't do nothing
-    D    A               Bm   G          D       A    Bm  G
-    ....Young folks don't pay me no mind
-    D   A         Bm     G        D        A    Bm  G
-    ....But in my day I sure was something
-       D      A        Bm    G       D        A    Bm  G
-    Before I felt the heavy hand of time
+    INTRO
+        e –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
+        B –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
+        G –|–––––2––––––––2–––––2–––––––––––––––––0––0––0––0––|–
+        D –|––0–––––––––––2–––––2––––––––4––––––––0––0––0––0––|–  x4
+        A –|–––––––––––0–––––0–––––0––2–––––––––––2––2––2––2––|–
+        E –|––––––––3–––––––––––––––––––––––2––3––3––3––3––3––|–
+              1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+              D        A              Bm       G
+    VERSE
+        D    A                     Bm   G        D       A    Bm  G
+        ........I'm an old man now... I can't do nothing
+        D    A               Bm   G          D       A    Bm  G
+        ....Young folks don't pay me no mind
+        D   A         Bm     G        D        A    Bm  G
+        ....But in my day I sure was something
+           D      A        Bm    G       D        A    Bm  G
+        Before I felt the heavy hand of time
 
-    (D / A / Bm / G)
-    I'm an old man now... I'm bound for glory
-    Time to lay these burdens down
-    Had enough of this old world of worry
-    Gonna trade my troubles for a crown
+        (D / A / Bm / G)
+        I'm an old man now... I'm bound for glory
+        Time to lay these burdens down
+        Had enough of this old world of worry
+        Gonna trade my troubles for a crown
 
-    (D / A / Bm / G)
-    I will make my way across the fields of cotton
-    And wade through muddy waters one last time
-        D      A        Bm      G
-    And in my dreams I come out clean
+        (D / A / Bm / G)
+        I will make my way across the fields of cotton
+        And wade through muddy waters one last time
+            D      A        Bm      G
+        And in my dreams I come out clean
 
-CHORUS
-        Bm        Bm/A            G     D/F#           Em       G (let ring)
-        ...When I reach the other side, waste away the sunsets
-        (G)                     D
-        ...Where rainbows never die
+    CHORUS
+            Bm        Bm/A            G     D/F#           Em       G (let ring)
+            ...When I reach the other side, waste away the sunsets
+            (G)                     D
+            ...Where rainbows never die
 
-    [ instrumental verse x4 ]
+        [ instrumental verse x4 ]
 
-BRIDGE
-            A
-            ...I've got on last thing to do
-            G
-            ...One more mile before I'm through
-            A
-            ...Casting off these early chains
-            G                     A
-            ...Going where theres no more pain
+    BRIDGE
+                A
+                ...I've got on last thing to do
+                G
+                ...One more mile before I'm through
+                A
+                ...Casting off these early chains
+                G                     A
+                ...Going where theres no more pain
 
-    [ instrumental verse ]
+        [ instrumental verse ]
 
-    (D / A / Bm / G)
-    I will make my way across the fields of cotton
-    And wade through muddy waters one last time
-    And in my dreams I come out clean
+        (D / A / Bm / G)
+        I will make my way across the fields of cotton
+        And wade through muddy waters one last time
+        And in my dreams I come out clean
 
-        Bm        Bm/A            G     D/F#           Em       G (let ring)
-        ...When I reach the other side, waste away the sunsets
-        (G)                     D
-        ...Where rainbows never die
+            Bm        Bm/A            G     D/F#           Em       G (let ring)
+            ...When I reach the other side, waste away the sunsets
+            (G)                     D
+            ...Where rainbows never die
 
-    (D / A / Bm / G)
-    I'm an old man now... can't do nothing
-    Young folks don't pay me no mind      (end on D)
+        (D / A / Bm / G)
+        I'm an old man now... can't do nothing
+        Young folks don't pay me no mind      (end on D)
 
 
 ## Good luck!
