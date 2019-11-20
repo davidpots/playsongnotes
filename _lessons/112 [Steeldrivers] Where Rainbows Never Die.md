@@ -124,7 +124,7 @@ Conventional strumming pattern:
 
 ## Lyrics w/ chords
 
-* Capo 2nd fret
+Capo 2nd fret
 
     INTRO
         e –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
@@ -190,7 +190,6 @@ Conventional strumming pattern:
         (D / A / Bm / G)
         I'm an old man now... can't do nothing
         Young folks don't pay me no mind      (end on D)
-
 
 ## Good luck!
 
