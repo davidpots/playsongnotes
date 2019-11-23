@@ -4,6 +4,8 @@ title: 12 easy ways to modify the A-major chord
 date_published: 2019-11-23
 category: tip_technique
 slug: "267"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/31795113
 ---
 
 ## Video lesson
