@@ -1,7 +1,7 @@
 ---
 layout: song
 title: '"My Favorite Picture of You" by Guy Clark'
-song_name: My Favorite Picture of You
+song_title: My Favorite Picture of You
 artist: Guy Clark
 year: 2013
 category: full_song
