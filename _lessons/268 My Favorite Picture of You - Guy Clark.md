@@ -36,8 +36,8 @@ Here's my timestamps for this lesson:
 
 I hope you enjoy! If you're hungry for more Guy Clark, I also have lessons for these songs:
 
-- "LA Freeway" (http://playsongnotes.com/lessons/101/)
-- "Let Him Roll" (http://playsongnotes.com/lessons/226/)
+- [LA Freeway](http://playsongnotes.com/lessons/101/)
+- [Let Him Roll](http://playsongnotes.com/lessons/226/)
 
 Thanks all, and enjoy!
 David Pots.
