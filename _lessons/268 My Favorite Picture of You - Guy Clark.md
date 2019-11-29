@@ -6,10 +6,11 @@ artist: Guy Clark
 year: 2013
 category: full_song
 slug: "268"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/31947589
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/31795113 -->
+
 
 ## Video lesson
 
