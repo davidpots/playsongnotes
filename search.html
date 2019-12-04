@@ -1,7 +1,7 @@
 ---
 layout: page
 title: List of all lessons
-permalink: /lessons/
+permalink: /search/
 ---
 
 {% comment %}
@@ -50,10 +50,17 @@ permalink: /lessons/
   {% endif %}
 {% endfor %}
   ];
+
+
+var searchQueryText;
+var latest_lesson_number = {{latest_lesson_number}};
+
 $(document).ready(function(){
 
-  for (i = 0; i < {{latest_lesson_number}}; i++) {
-    $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>');
+  if (searchTerm) {
+      setTimeout(function(){
+        updateSearchHeading();
+      }, 10);
   }
 
 });
@@ -61,17 +68,30 @@ $(document).ready(function(){
 <script src="/js/search.js"></script>
 
 
+<!-- '<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>' -->
 
 
 
 
+<h2>Welcome to my new search page</h2>
+<p>This is brand stinking new - so it's rough around the edges. Note, that it's <strong>case sensitive</strong> for now. Keep that in mind when searching (use uppercase for names, etc).</p>
 
+<form action="/search/" method="get">
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search" id="search-button">
+</form>
 
+<div id="noQueryPrompt"></div>
+<p id="yesQueryPrompt"><span id="numResultsFound"></span> results found for <span id="searchQuery"></span></p>
 
-
-
-
-## List of all lessons
-I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below.
+<!-- <p>I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below.</p> -->
 
 <ul id="search-results" class="song-listing-wrapper"></ul>
+
+  <p>Try some example searches:</p>
+  <ul>
+    <li><a href="?query=Neil Young">Neil Young</a> or <a href="?query=Johnny Cash">Johnny Cash</a></li>
+    <li><a href="?query=minor">minor</a> or <a href="?query=Fingerstyle">Fingerstyle</a></li>
+    <li><a href="?query=268">268</a> or <a href="?query=159">159</a></li>
+    <li><a href="?query=Warm Up Exercise">Warm Up Exercise</a> or <a href="?query=Practice Log">Practice Log</a></li>
+  </ul>

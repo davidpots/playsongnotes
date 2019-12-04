@@ -36,6 +36,10 @@ layout: default
 <p>Don't forget to check out <a href="/downloads">my full library of PDFs</a> (which includes a free sampler pack).</p>
 
 <h2 id="heading-songs" class="mtl">Song video lessons:</h2>
+<form action="/search/" method="get">
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search" id="search-button">
+</form>
   <ul class="list-plain lesson-list">
 
     {% assign sorted_songs = site.lessons | where: "category", "full_song" | sort: 'song_title' %}

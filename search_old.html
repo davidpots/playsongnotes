@@ -1,28 +1,13 @@
 ---
-layout: page
-title: List of all lessons
-permalink: /lessons/
+layout: default
 ---
-
-{% comment %}
-  # ======================================================
-  # Figure out number of the latest lesson: latest_lesson_number
-  # ======================================================
-{% endcomment %}
-{% for i in (1..1000) reversed %}
-  {% assign song = site.lessons | where: 'slug', i %}
-  {% if song[0] %}
-    {% assign latest_lesson_number = song[0].slug %}
-    {% break %}
-  {% endif %}
-{% endfor %}
 
 <script src="/js/jquery.js"></script>
 <script>
-{% assign num_to_show = latest_lesson_number %}
+{% assign num_to_show = 10 %}
 {% assign shown_so_far = 0 %}
   var lessons = [
-{% for i in (1..num_to_show) reversed %}
+{% for i in (1..275) reversed %}
   {% assign lesson = site.lessons | where: 'slug', i %}
   {% if lesson[0] %}
     {% assign shown_so_far = shown_so_far | plus:1 %}
@@ -50,28 +35,21 @@ permalink: /lessons/
   {% endif %}
 {% endfor %}
   ];
+
+
 $(document).ready(function(){
 
-  for (i = 0; i < {{latest_lesson_number}}; i++) {
-    $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>');
+  for (i = 0; i < 5; i++) {
+    $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'">'+ lessons[i].title +'</a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label"><a href="'+ lessons[i].patreon_url +'">PDF</a></p></li>');
   }
 
 });
+
+
 </script>
+
 <script src="/js/search.js"></script>
 
 
-
-
-
-
-
-
-
-
-
-
-## List of all lessons
-I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below.
 
 <ul id="search-results" class="song-listing-wrapper"></ul>

@@ -128,10 +128,16 @@
 
 // Nov 2019 update - lesson item
 
+.song-listing-wrapper {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 480px;
+}
+
 .song-listing {
+  list-style: none;
   border-top: 1px solid #EEE;
   padding: 12px 0;
-  max-width: 480px;
   margin: 0;
   position: relative;
   h3 {
@@ -140,7 +146,7 @@
       color: #000;
       display: block;
       &:hover span {
-        border-bottom: 1px solid black;
+        border-bottom: 2px solid black;
       }
     }
   }
@@ -154,13 +160,47 @@
     top: 12px;
     right: 0px;
     display: inline-block;
-    a {
-      color: #000;
-      background: #FEDC45;
-      font-weight: bold;
-      display: inline-block;
-      padding: 2px 5px;
-      font-size: 11px;
-    }
+    color: #000;
+    background: #FEDC45;
+    font-weight: bold;
+    padding: 2px 5px;
+    font-size: 11px;
   }
+  p.featured_label[data-patreon-url=""] {
+    opacity: .1;
+    cursor: default;
+  }
+}
+
+
+
+// search
+
+#search-box {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 0px 12px;
+  font-size: 18px;
+  height: 32px;
+  margin: 0 0 24px 0;
+}
+
+#search-button {
+  background: $blue;
+  color: white;
+  display: inline-block;
+  margin: 0;
+  padding: 0 12px;
+  height: 32px;
+  &:hover {
+    cursor:pointer;
+  }
+}
+
+#noQueryPrompt {
+
+}
+
+#yesQueryPrompt {
+  display: none;
 }
