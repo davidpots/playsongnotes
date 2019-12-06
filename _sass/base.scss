@@ -189,7 +189,7 @@
 #search-button {
   box-sizing: border-box;
   background: $blue;
-  border-radius: white;
+  border-radius: none;
   color: white;
   display: inline-block;
   margin: 0;
@@ -199,6 +199,8 @@
   &:hover {
     cursor:pointer;
   }
+  -webkit-border-radius:0px;
+  -webkit-appearance: none;
 }
 
 #noQueryPrompt {
