@@ -9,7 +9,7 @@ permalink: /downloads/
   </div> -->
 
 <div style="text-align: center;">
-  <form action="/search/" method="get" style="width: 80%; position: relative; text-align: left; margin: 0 auto;">
+  <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
       <input type="submit" value="Search" id="search-button" style="float: left; width: 20%; max-width: 120px;">
