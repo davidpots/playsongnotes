@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "I Walk the Line" by Johnny Cash -- playsongnotes.com
+title: "I Walk the Line" by Johnny Cash (Full Song)
 song_title:  I Walk the Line
 artist: Johnny Cash
 year: 1956

@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "When the Man Comes Around" by Johnny Cash
+title: "When the Man Comes Around" by Johnny Cash
 song_title: When the Man Comes Around
 artist: Johnny Cash
 year: 2002

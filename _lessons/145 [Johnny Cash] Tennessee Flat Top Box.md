@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Tennessee Flat Top Box" by Johnny Cash
+title: "Tennessee Flat Top Box" by Johnny Cash
 song_title: Tennessee Flat Top Box
 artist: Johnny Cash
 year: 1961

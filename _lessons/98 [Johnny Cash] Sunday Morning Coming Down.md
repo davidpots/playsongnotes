@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Sunday Morning Coming Down" (Johnny Cash / Kris Kristofferson)
+title: "Sunday Morning Coming Down" by Kris Kristofferson / Johnny Cash
 song_title:  Sunday Morning Coming Down
 artist: Johnny Cash
 year: 1970

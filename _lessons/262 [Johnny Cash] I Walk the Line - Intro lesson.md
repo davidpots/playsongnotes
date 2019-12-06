@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Johnny Cash's "I Walk the Line" Intro Riff
+title: "I Walk the Line" by Johnny Cash (Intro riff)
 song_title:  I Walk the Line (Intro Riff)
 artist: Johnny Cash
 year: 1956

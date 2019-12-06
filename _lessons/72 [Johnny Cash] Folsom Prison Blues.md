@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Folsom Prison Blues" by Johnny Cash -- playsongnotes.com
+title: "Folsom Prison Blues" by Johnny Cash
 song_title: Folsom Prison Blues
 artist: Johnny Cash
 year: 1957
