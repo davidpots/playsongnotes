@@ -183,14 +183,18 @@
   font-size: 18px;
   height: 32px;
   margin: 0 0 24px 0;
+  box-sizing: border-box;
 }
 
 #search-button {
+  box-sizing: border-box;
   background: $blue;
+  border-radius: white;
   color: white;
   display: inline-block;
   margin: 0;
-  padding: 0 12px;
+  padding: 0 7px;
+  font-size: 14px;
   height: 32px;
   &:hover {
     cursor:pointer;
