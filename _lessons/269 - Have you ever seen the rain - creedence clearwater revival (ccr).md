@@ -34,11 +34,11 @@ Here's my timestamps for this lesson:
 - 12:53 Double-strumming in the intro
 - 14:49 Farewell
 
-I hope you enjoy! If you're hungry for more CCR, I also have lessons for this songs:
+I hope you enjoy! If you're hungry for more CCR, I also have lessons for this song:
 
 - [Lookin' Out My Backdoor](http://playsongnotes.com/lessons/261/)
 
-Thanks all, and enjoy!
+Thanks all,
 David Pots.
 
 ## Techniques I reference in this lesson
