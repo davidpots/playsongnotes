@@ -6,10 +6,11 @@ artist: Creedence Clearwater Revival
 year: 1970
 category: full_song
 slug: "269"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32143542
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/31947589 -->
+
 
 ## Video lesson
 
