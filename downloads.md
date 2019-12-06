@@ -8,6 +8,13 @@ permalink: /downloads/
     <p style="margin: 0;"><strong>Psst... I just launched a Patreon page!</strong> Get print-friendly PDFs for each new lesson I make for only $3/month. <a href="https://www.patreon.com/songnotes">Learn more »</a></p>
   </div> -->
 
+<div style="text-align: center;">
+  <form action="/search/" method="get" style="display: inline-block; text-align: left;">
+    <input style="font-size: 14px; width: 320px;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
+    <input type="submit" value="Search" id="search-button">
+  </form>
+</div>
+
 ## Free PDF sampler pack
 
 Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).

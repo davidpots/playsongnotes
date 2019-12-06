@@ -7,8 +7,18 @@ layout: default
 <div class="container--col-8">
 
   <h1 class="center mtxl mbl">Pick up your guitar and play!</h1>
+
+<div style="text-align: center;">
+  <form action="/search/" method="get" style="display: inline-block; text-align: left;">
+    <input style="font-size: 14px; width: 320px;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
+    <input type="submit" value="Search" id="search-button">
+  </form>
+</div>
+
+
   <p class="center mbl">Easy-to-follow guitar lessons.<br />Made by @davidpots in Austin, TX.</p>
   <p class="center small">If these lessons are helpful to you, please <br />consider donating to the <a class="underline" href="https://paypal.me/songnotes">tip jar</a>. Thanks!</p>
+
 
   <p class="center small mbs">Subscribe and never miss a lesson:</p>
 
@@ -36,10 +46,7 @@ layout: default
 <p>Don't forget to check out <a href="/downloads">my full library of PDFs</a> (which includes a free sampler pack).</p>
 
 <h2 id="heading-songs" class="mtl">Song video lessons:</h2>
-<form action="/search/" method="get">
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search" id="search-button">
-</form>
+
   <ul class="list-plain lesson-list">
 
     {% assign sorted_songs = site.lessons | where: "category", "full_song" | sort: 'song_title' %}
