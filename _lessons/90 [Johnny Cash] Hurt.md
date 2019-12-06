@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Hurt" by Johnny Cash
+title: '"Hurt" by Johnny Cash'
 song_title: Hurt
 artist: Johnny Cash
 year: 2002

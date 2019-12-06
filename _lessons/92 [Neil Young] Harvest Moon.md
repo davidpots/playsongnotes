@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Harvest Moon" by Neil Young
+title: '"Harvest Moon" by Neil Young'
 song_title:  Harvest Moon
 artist: Neil Young
 year: 1992

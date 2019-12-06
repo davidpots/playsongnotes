@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "I've Been Everywhere" by Johnny Cash
+title: "\"I've Been Everywhere\" by Johnny Cash"
 song_title: I've Been Everywhere
 artist: Johnny Cash
 year: 1996

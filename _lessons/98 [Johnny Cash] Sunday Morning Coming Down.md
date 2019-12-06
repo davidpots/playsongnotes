@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Sunday Morning Coming Down" by Kris Kristofferson / Johnny Cash
+title: '"Sunday Morning Coming Down" by Kris Kristofferson / Johnny Cash'
 song_title:  Sunday Morning Coming Down
 artist: Johnny Cash
 year: 1970

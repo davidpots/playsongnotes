@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Heart of Gold" by Neil Young
+title: '"Heart of Gold" by Neil Young'
 song_title:  Heart of Gold
 artist: Neil Young
 year: 1972

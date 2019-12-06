@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Ring of Fire" by Johnny Cash
+title: '"Ring of Fire" by Johnny Cash'
 song_title: Ring of Fire
 artist: Johnny Cash
 year: 1963

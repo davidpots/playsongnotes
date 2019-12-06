@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Give My Love To Rose" by Johnny Cash
+title: '"Give My Love To Rose" by Johnny Cash'
 song_title:  Give My Love To Rose
 artist: Johnny Cash
 year: 1960

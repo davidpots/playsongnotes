@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Folsom Prison Blues" by Johnny Cash
+title: '"Folsom Prison Blues" by Johnny Cash'
 song_title: Folsom Prison Blues
 artist: Johnny Cash
 year: 1957

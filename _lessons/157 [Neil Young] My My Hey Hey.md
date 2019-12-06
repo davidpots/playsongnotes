@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "My My, Hey Hey" by Neil Young (intro riff w/ tab)
+title: '"My My, Hey Hey" by Neil Young'
 song_title:  My My, Hey Hey
 artist: Neil Young
 year: 1979
