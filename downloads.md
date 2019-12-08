@@ -17,6 +17,10 @@ permalink: /downloads/
   </form>
 </div>
 
+## How to access my premium PDFs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aobiSjuwipI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## Free PDF sampler pack
 
 Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
