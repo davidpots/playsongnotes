@@ -73,7 +73,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
   {% for song in sorted_by_song_name %}
   {% if song.patreon_lesson_available == true %}
     {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-  <li><a href="{{song.patreon_lesson_url}}"><strong>{{song.song_title}}</strong></a></li>
+  <li><a href="{{song.url}}"><strong>{{song.song_title}}</strong></a></li>
   {% endif %}
   {% endfor %}
 
@@ -93,7 +93,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% for warmup in sorted_warmups %}
       {% if warmup.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{warmup.patreon_lesson_url}}">{{ warmup.title }}</a></strong><br /> <span class="small">{{ warmup.date | date: "%b %-d, %Y" }} • Lesson #{{ warmup.slug }}</span></li>
+<li><strong><a href="{{warmup.url}}">{{ warmup.title }}</a></strong><br /> <span class="small">{{ warmup.date | date: "%b %-d, %Y" }} • Lesson #{{ warmup.slug }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>
@@ -105,7 +105,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% for plog in sorted_plogs %}
       {% if plog.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{plog.patreon_lesson_url}}">{{ plog.title }}</a></strong><br /><span class="small">{{ plog.date | date: "%b %-d, %Y" }} • Lesson #{{ plog.slug }}</span></li>
+<li><strong><a href="{{plog.url}}">{{ plog.title }}</a></strong><br /><span class="small">{{ plog.date | date: "%b %-d, %Y" }} • Lesson #{{ plog.slug }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>
@@ -117,7 +117,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% for tip in sorted_tips %}
       {% if tip.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{tip.patreon_lesson_url}}">{{ tip.title }}</a></strong><br /><span class="small">{{ tip.date | date: "%b %-d, %Y" }} • Lesson #{{ tip.slug }}</span></li>
+<li><strong><a href="{{tip.url}}">{{ tip.title }}</a></strong><br /><span class="small">{{ tip.date | date: "%b %-d, %Y" }} • Lesson #{{ tip.slug }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>
