@@ -1,25 +1,24 @@
 ---
 layout: song
 
-title: Guitar lesson for "Badlands" by Bruce Springsteen -- playsongnotes.com
+title: '"Badlands" by Bruce Springsteen (Play-along cover)'
 song_title:  Badlands
 artist: Bruce Springsteen
 year: 1978
-category: full_song
+category: playalong_cover
 yt_video_id: _________
 slug: "44"
 redirect_from:
   - /songs/bruce-springsteen-badlands/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32378911
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TZcIrtgCUA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
-
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
-
 
 ## About this lesson
 

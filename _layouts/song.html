@@ -34,6 +34,14 @@ layout: default
     <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">Lesson #{{ page.slug }}</p>
   {% endif %}
 
+  {% if page.category == "playalong_cover" %}
+    <p class="h3 mbn">Play-along Cover</p>
+    <h1 class="mtn mbn">{{ page.song_title | escape }}</h1>
+    <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">by <span>{{ page.artist | escape }}</span> • Lesson #{{ page.slug }}</p>
+  {% endif %}
+
+
+
 
 
 
