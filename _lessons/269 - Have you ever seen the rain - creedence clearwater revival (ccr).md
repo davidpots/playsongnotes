@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Have You Ever Seen the Rain" by Creedence Clearwater Revival'
+title: '"Have You Ever Seen the Rain" by Creedence Clearwater Revival (Full song lesson)'
 song_title: Have You Ever Seen the Rain
 artist: Creedence Clearwater Revival
 year: 1970
@@ -12,11 +12,11 @@ patreon_lesson_url: https://www.patreon.com/posts/32143542
 
 
 
-## Video lesson
+## Full song lesson (#269)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1O1RPrzNLI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Play-along cover
+## Play-along cover (#270)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xyPx_vN-F4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
 

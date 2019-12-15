@@ -1,11 +1,11 @@
 ---
 layout: song
 
-title: Gloria (The Lumineers) // guitar lesson and play-along cover // Song Notes by David Pots
+title: '"Gloria" by The Lumineers (Play-along cover)'
 song_title:  Gloria
 artist: The Lumineers
 year: 2019
-category: full_song
+category: playalong_cover
 yt_video_id: _________
 slug: "266"
 redirect_to:
