@@ -4,10 +4,9 @@ title: 2-string blues riffs for beginners (step by step)
 category: warmup
 date: 2019-12-14
 slug: "271"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32369696
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32143542 -->
 
 ## Video lesson
 
@@ -21,7 +20,7 @@ Hey friends! In this lesson I'll show you how to use 2-string fretboard patterns
 
 ## Tabs of some of the riffs I play
 
-In my video, I show several different riffs using the variations on the prior page. Here are those same riffs in tab form, in case that helps. The main thing I want you to understand here is that the pattern being used in each riff works the same for all three chords. All that changes is the strings you are playing. But the pattern itself is always the same. 
+In my video, I show several different riffs using the variations on the prior page. Here are those same riffs in tab form, in case that helps. The main thing I want you to understand here is that the pattern being used in each riff works the same for all three chords. All that changes is the strings you are playing. But the pattern itself is always the same.
 
 Variation 1: just started with the power chords. Use your index finger to play the 2nd fret note on each of these chords.
 
