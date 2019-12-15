@@ -21,6 +21,8 @@ Hey friends! In this lesson I'll show you how to use 2-string fretboard patterns
 
 ## Tabs of some of the riffs I play
 
+In my video, I show several different riffs using the variations on the prior page. Here are those same riffs in tab form, in case that helps. The main thing I want you to understand here is that the pattern being used in each riff works the same for all three chords. All that changes is the strings you are playing. But the pattern itself is always the same. 
+
 Variation 1: just started with the power chords. Use your index finger to play the 2nd fret note on each of these chords.
 
     E –––––––––––––
@@ -43,6 +45,16 @@ Variation 2: adding the left ring finger (on and off) to the 4th fret of each ch
 
 Variation 3: bringing in the 4th fret of the thickest string, played with left ring finger.
 
+    E –––––––––––––––  –––––––––––––––  –––––––––––––––
+    B –––––––––––––––  –––––––––––––––  –––––––––––––––
+    G –––––––––––––––  ––––––––2–4–2––  –––––––––––––––
+    D ––––––––2–4–2––  ––0––4–––––––––  –––––––––––––––
+    A ––0––4–––––––––  –––––––––––––––  ––––––––2–4–2––
+    E –––––––––––––––  –––––––––––––––  ––0––4–––––––––
+        A                D                E          
+
+Variation 4 & 5: adding the left pinky to the mix (5th fret of 2nd-thickest string).
+
     E –––––––––––––––––  –––––––––––––––––  –––––––––––––––––
     B –––––––––––––––––  –––––––––––––––––  –––––––––––––––––
     G –––––––––––––––––  ––––––2–4–5–4–2––  –––––––––––––––––
@@ -51,7 +63,6 @@ Variation 3: bringing in the 4th fret of the thickest string, played with left r
     E –––––––––––––––––  –––––––––––––––––  ––0–4––––––––––––
         A                  D                  E             
 
-Variation 4 & 5: adding the left pinky to the mix (5th fret of 2nd-thickest string).
 
 ## The songs that inspired this lesson
 
