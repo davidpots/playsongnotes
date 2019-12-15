@@ -19,6 +19,40 @@ patreon_lesson_url: https://www.patreon.com/posts/32143542 -->
 
 Hey friends! In this lesson I'll show you how to use 2-string fretboard patterns to play blues-flavored bass lines using the chords A, D, and E. The best part is, these patterns are repeatable: learn them once, use them in any of the three chords listed above. Whether you want to incorporate this into your strumming or only focus on the bass lines, there's tons of fun to be had. In the end, this makes for a pretty great warm-up exercise to work into your casual guitar playing.
 
+## Tabs of some of the riffs I play
+
+Variation 1: just started with the power chords. Use your index finger to play the 2nd fret note on each of these chords.
+
+    E –––––––––––––
+    B –––––––––––––
+    G ––––––2––––––
+    D ––2–––0––––––
+    A ––0–––––––2––
+    E ––––––––––0––
+        A   D   E
+
+Variation 2: adding the left ring finger (on and off) to the 4th fret of each chord.
+
+    E –––––––––––  –––––––––––  –––––––––––
+    B –––––––––––  –––––––––––  –––––––––––
+    G –––––––––––  ––2–2–4–2––  –––––––––––
+    D ––2–2–4–2––  ––0–0–0–0––  –––––––––––
+    A ––0–0–0–0––  –––––––––––  ––2–2–4–2––
+    E –––––––––––  –––––––––––  ––0–0–0–0––
+        A            D            E         
+
+Variation 3: bringing in the 4th fret of the thickest string, played with left ring finger.
+
+    E –––––––––––––––––  –––––––––––––––––  –––––––––––––––––
+    B –––––––––––––––––  –––––––––––––––––  –––––––––––––––––
+    G –––––––––––––––––  ––––––2–4–5–4–2––  –––––––––––––––––
+    D ––––––2–4–5–4–2––  ––0–4––––––––––––  –––––––––––––––––
+    A ––0–4––––––––––––  –––––––––––––––––  ––––––2–4–5–4–2––
+    E –––––––––––––––––  –––––––––––––––––  ––0–4––––––––––––
+        A                  D                  E             
+
+Variation 4 & 5: adding the left pinky to the mix (5th fret of 2nd-thickest string).
+
 ## The songs that inspired this lesson
 
 I should note, this lesson is inspired by these two Bruce Springsteen song, which feature the riffs I bake into this lesson.
