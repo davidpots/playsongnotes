@@ -7,10 +7,11 @@ year: 1969
 category: full_song
 date: 2019-12-16
 slug: "272"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32519143
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32369696 -->
+
 
 ## Video lesson
 
