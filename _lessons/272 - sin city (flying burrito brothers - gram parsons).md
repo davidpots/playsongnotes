@@ -12,30 +12,41 @@ slug: "272"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32369696 -->
 
-## Editor's notes
-
-Hi friends, here's my initial notes on "Sin City" by the Flying Burrito Brothers. I'll probably be recording a lesson for this sometime mid-December 2019, with a PDF to follow. In the meantime, here's my notes.
-
-
 ## Video lesson
 
 Coming soon!
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
+## Editor's notes
+
+Hi friends! Here's a guitar lesson showing you how to play "Sin City" by Gram Parsons / The Flying Burrito Brothers (1969). I'll explain the capo situation, teach you the chords, the progressions, the strumming, and even show a few ways to play the intro (tabs included).
+
+Up until this week, I'd never heard this song. It came on via some playlist of suggested songs while driving, and immediately stuck its teeth into me. After listening to a few versions, I found that the Beck & Emmylou Harris version (from a Gram Parsons tribute) was actually the most helpful while learning the song -- probably because it had the best audio quality, while also being relatively minimal with its solo acoustic guitar. Whether you want to play that version, a different Gram Parsons version, or the original Flying Burrito Brothers version, you should be set with my lesson here.
+
+Lesson timestamps:
+
+- 0:00 Lesson overview
+- 1:37 Capo notes
+- 3:01 Chords used
+- 4:00 Rhythm & strumming
+- 8:40 Verse & chorus progressions
+- 12:51 Intro riff (3 versions)
+- 19:37 Farewell
 
 ## Lyrics w/ chords
 
-    INTRO
-        ––––––0–|–0h2–2–––––––|–3–––2–––0–––|–––––––––0–––|–2–––––––––––||
-        ––––3–––|–3–––3–––––––|–2–––2–––2–––|–3–––––––0–––|–3–––––––––––||
-        ––2–––––|–2–––2–––––––|–0–––––––––––|–0–––––––0–––|–2–––––––––––||
-        ––––––––|–0–––––––––––|–2–––––––––––|–0–––––––0–––|–0–––––––––––||
-        ––––––––|–––––––––––––|–0–––––––––––|–x–––––––x–––|–––––––––––––||
-        ––––––––|–––––––––––––|–––––––––––––|–3–––––––3–––|–––––––––––––||
-          + 3 +   1 + 2 + 3 +   1 + 2 + 3 +   1 + 2 + 3 +   1 + 2 + 3 +
-                  D             A7            G             D
+    * Capo 1st fret to play with Flying Burrito Brothers (see more capo notes below)
 
+    INTRO
+        E ––––––0–|–0h2–2–––––––|–3–––2–––0–––|–––––––––0–––|–2–––––––––––||
+        B ––––3–––|–3–––3–––––––|–2–––2–––2–––|–3–––––––0–––|–3–––––––––––||
+        G ––2–––––|–2–––2–––––––|–0–––––––––––|–0–––––––0–––|–2–––––––––––||
+        D ––––––––|–0–––––––––––|–2–––––––––––|–0–––––––0–––|–0–––––––––––||
+        A ––––––––|–––––––––––––|–0–––––––––––|–x–––––––x–––|–––––––––––––||
+        E ––––––––|–––––––––––––|–––––––––––––|–3–––––––3–––|–––––––––––––||
+            + 3 +   1 + 2 + 3 +   1 + 2 + 3 +   1 + 2 + 3 +   1 + 2 + 3 +
+                    D             A7            G             D
     VERSE
                  D                      A7             D         G
         This old town... is filled with sin... it'll swallow you in
@@ -65,7 +76,14 @@ Coming soon!
              D                 A7           D
         So please show... your I.D. at the door
 
-            [ chorus ]
+                     G                  A7                 D
+            This old earthquake's gonna leave--- me in the poor house
+               G                 D             A7
+            It seems like this whole town's insane
+                   G              A7        D           G
+            On the thirty-first floor... a gold plated door
+                   D              A7              D
+            Won't keep out... the Lord's burning rain
 
         [ instrumental verse ]
 
@@ -90,9 +108,10 @@ Coming soon!
 
 Using the chords in this lesson, you can play along with notable versions of this song by using a capo as follows:
 
-- Flying Burrito Brothers album version: capo ___
-- Gram & Emmylou "Complete Reprise Sessions": capo ____
-- Beck & Emmylou tribute album version: capo ____
+- Capo 1st fret = Flying Burrito Brothers album version
+- Capo 1st fret = Beck & Emmylou tribute album version
+- No capo       = Gram & Emmylou "Complete Reprise Sessions"
+- No capo       = Flying Burrito Brothers & Gene Clark "Live Radio" version
 
 ## Chord progressions
 
@@ -122,7 +141,6 @@ Chorus:
     G           A7          D           G
     1 + 2 + 3 + 1 + 2 + 3 + 1 + 2 + 3 + 1 + 2 + 3 +
     D           A7          D           D
-
 
 ## Intro tabs
 
@@ -164,6 +182,10 @@ Beck & Emmylou Harris tribute album intro tab:
 Flying Burrito Brothers original album version:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_LY8XPS6Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Beck & Emmylou Harris tribute version:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bm0pym62kuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Gram & Emmylou "Complete Reprise Sessions" – nice stripped down duet, one acoustic guitar:
 
