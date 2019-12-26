@@ -1,8 +1,8 @@
 ---
 layout: song
-title: '"Sin City" by Flying Burrito Brothers / Gram Parsons'
+title: '"Sin City" by Gram Parsons (Full song lesson)'
 song_title: Sin City
-artist: Flying Burrito Brothers
+artist: Gram Parsons
 year: 1969
 category: full_song
 date: 2019-12-16
@@ -13,9 +13,13 @@ patreon_lesson_url: https://www.patreon.com/posts/32519143
 
 
 
-## Video lesson
+## Full song lesson (#272)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YS0up2Oo8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Play-along cover (#273)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRj0-b3YxhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
