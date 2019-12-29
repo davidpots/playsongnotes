@@ -7,10 +7,11 @@ year: 1972
 category: full_song
 date: 2019-12-29
 slug: "274"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32695612
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32519143 -->
+
 
 ## Intro guitar lesson
 
