@@ -50,3 +50,68 @@ Rolling Stones studio album version:
 Rolling Stones live version:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tIfQipkkOqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lyrics with chords
+
+    (Capo 2nd fret)
+
+    INTRO
+        G      D      G  (C) G
+        C      A7     G      G
+        C      A7     G      G
+        C      A7     G      C
+        G      D      G  (C) G
+
+    VERSE
+        C                     A7               G
+        Wadin'... through the waste... stormy winter
+        C                      A7                   G                
+        And there's... not a friend... to help you through
+        C                      A7                   G            C   
+        Tryin'... to stop the waves... behind your eyeballs, uh huh
+        G                   D                    G      (C)  G       
+        Drop your reds... drop your greens and blues
+
+        C                      A7          G                         
+        Thank you... for your wine... California
+        G                      A7                   G                
+        Thank you... for your sweet... and bitter fruits
+        G                A7               G           C              
+        Yes I... got the desert... in my toenail, uh huh
+        G               D              G      (C)  G                 
+        And I hid the speed inside my shoe
+
+    CHORUS
+                C                   A7               G               
+            But come on... come on down... Sweet Virginia---
+            C                  A7               G                    
+            Come on... honey child... I beg of you----
+            C                   A7                G            C     
+            Come on... come on down... you got it in ya--- uh huh
+            G                  D                  G       (C)  G     
+            Got to scrape the shit right off your shoes
+
+    BREAK / SOLO
+            C      A7     G      G
+            C      A7     G      G
+            C      A7     G      C
+            G      D      G  (C) G
+
+                                C                   A7               G
+            Yeah, I want you to come on... come on down... Sweet Virginia----
+                           C                 A7               G      
+            I want you to come on... honey child... I beg of you----
+                        C                 A7                G          C        
+            I want you come on... honey child... you got it in ya, uh huh
+            G                    D                    G    (C) G                
+            Got to scrape that shit right off your shoes.......... one more time!
+
+                 C                  A7               G
+            But come on... come on down... Sweet Virginia
+            C                   A7               G                             
+            Come on... come on down... I beg of you
+            C                   A7                G          C                 
+            Come on... come on down... you got it in ya, uh huh
+            G                    D                  C        G                 
+            Got to scrape that shit right off your shoes-------
+                                            [let final two chords ring]
