@@ -92,10 +92,10 @@ Rolling Stones live version:
             Got to scrape the shit right off your shoes
 
     BREAK / SOLO
-            C      A7     G      G
-            C      A7     G      G
-            C      A7     G      C
-            G      D      G  (C) G
+                C      A7     G      G
+                C      A7     G      G
+                C      A7     G      C
+                G      D      G  (C) G
 
                                 C                   A7               G
             Yeah, I want you to come on... come on down... Sweet Virginia----
@@ -115,3 +115,12 @@ Rolling Stones live version:
             G                    D                  C        G                 
             Got to scrape that shit right off your shoes-------
                                             [let final two chords ring]
+
+## Chord progression (key of G)
+
+Verse:
+
+    | C . . . | A7 . . . | G      G
+    C      A7     G      G
+    C      A7     G      C
+    G      D      G  (C) G

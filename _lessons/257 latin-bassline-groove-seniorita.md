@@ -3,7 +3,7 @@ layout: song
 category: warmup
 redirect_from:
   - /warmup/22/
-title: Latin Bassline Groove from "Senriorita"
+title: Latin Bassline Groove from "Seniorita"
 slug: "257"
 date: 2019-09-08
 patreon_lesson_available: true
@@ -24,7 +24,7 @@ patreon_lesson_url: https://www.patreon.com/posts/29803885
 
 ## Editor's notes
 
-In this lesson I'll show you a warm up exercise based on the song Senriorita by Shawn Mendes and Camilla Cabello. This exercise specifically focuses on the bassline heard during the song. I'll start by teaching the bassline by itself, and then from there add a few layers of spice & flourish. This includes some percussive techniques you can use to add flair, but also includes adding full chord shapes and some fills to transition between each chord. In the end, this results in a very satisfying array of exercises you can dive into and have fun with. Great for warming up! I hope you enjoy.
+In this lesson I'll show you a warm up exercise based on the song Seniorita by Shawn Mendes and Camilla Cabello. This exercise specifically focuses on the bassline heard during the song. I'll start by teaching the bassline by itself, and then from there add a few layers of spice & flourish. This includes some percussive techniques you can use to add flair, but also includes adding full chord shapes and some fills to transition between each chord. In the end, this results in a very satisfying array of exercises you can dive into and have fun with. Great for warming up! I hope you enjoy.
 
 Video timestamps:
 
