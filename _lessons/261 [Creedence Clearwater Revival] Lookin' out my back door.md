@@ -6,6 +6,7 @@ artist: Creedence Clearwater Revival
 year: 1970
 category: full_song
 yt_video_id: _________
+hidden_tags: CCR, creedance
 slug: "261"
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30708535

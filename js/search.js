@@ -29,12 +29,29 @@ function runSearch(searchTerm) {
   // Go through all items...
   for (i = 0; i < latest_lesson_number; i++) {
 
-    if (
-        (lessons[i].title.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].category.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].slug.search(new RegExp(searchQueryText, 'i')) >= 0)
-      ) {
+    // {% if lessons[i].title %}
+    //   {% assign lesson_title = lessons[i].title | replace: '"','\"' %}
+    // {% else %}
+    //   {% assign lesson_title = "" %}
+    // {% endif %}
 
-      $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>');
+    // if ( lessons[i].title ) {
+    //   lesson_title = lessons[i].title;
+    // } else {
+    //   lesson_title = "";
+    // }
+
+    if (lessons[i] != null){
+
+      if (
+          (lessons[i].title.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].category.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].slug.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].hidden_tags.search(new RegExp(searchQueryText, 'i')) >= 0)
+        ) {
+
+        $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>');
+      }
+
     }
+
       // If this item has search term in TITLE or SLUG or CATEGORY, display it
   }
   // updateSearchHeading();

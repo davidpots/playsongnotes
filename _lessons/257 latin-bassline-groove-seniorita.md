@@ -6,6 +6,7 @@ redirect_from:
 title: Latin Bassline Groove from "Seniorita"
 slug: "257"
 date: 2019-09-08
+hidden_tags: Shawn Mendes, Camilla Cabello, bass line
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29803885
 ---

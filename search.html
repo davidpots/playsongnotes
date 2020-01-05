@@ -30,7 +30,19 @@ permalink: /search/
       {% break %}
     {% endif %}
       {
-    {% assign lesson_title = lesson[0].title | replace: '"','\"' %}
+    {% comment %} ================================================= {% endcomment %}
+    {% if lesson[0].title %}
+      {% assign lesson_title = lesson[0].title | replace: '"','\"' %}
+    {% else %}
+      {% assign lesson_title = "" %}
+    {% endif %}
+    {% comment %} ================================================= {% endcomment %}
+    {% if lesson[0].hidden_tags %}
+      {% assign lesson_hidden_tags = lesson[0].hidden_tags | replace: '"','\"' %}
+    {% else %}
+      {% assign lesson_hidden_tags = "" %}
+    {% endif %}
+    {% comment %} ================================================= {% endcomment %}
     {% case lesson[0].category %}
       {% when 'full_song' %}
         {% assign lesson_category = "Full Song" %}
@@ -46,6 +58,7 @@ permalink: /search/
         "title": "{{ lesson_title }}",
         "category": "{{ lesson_category }}",
         "url": "{{ lesson[0].url }}",
+        "hidden_tags": "{{ lesson_hidden_tags }}",
         "patreon_url": "{{ lesson[0].patreon_lesson_url}}",
         "slug": "{{ lesson[0].slug }}"
       },

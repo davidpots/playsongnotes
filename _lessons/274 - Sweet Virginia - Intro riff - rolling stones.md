@@ -7,11 +7,10 @@ year: 1972
 category: full_song
 date: 2019-12-29
 slug: "274"
+hidden_tags: Keith Richards, Mick Jagger, British, the stones
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32695612
 ---
-
-
 
 ## Intro guitar lesson
 

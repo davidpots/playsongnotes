@@ -1,6 +1,5 @@
 ---
 layout: song
-
 title: Guitar lesson for "Wildflowers" by Tom Petty
 song_title: Wildflowers
 artist: Tom Petty

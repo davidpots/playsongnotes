@@ -1,6 +1,5 @@
 ---
 layout: song
-
 title: Guitar lesson for "Jenny of Oldstones" from Game of Thrones (Florence and the Machine)
 song_title: Jenny of Oldstones
 artist: Game of Thrones

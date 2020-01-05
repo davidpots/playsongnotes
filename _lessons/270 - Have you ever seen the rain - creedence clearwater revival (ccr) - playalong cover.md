@@ -6,6 +6,7 @@ artist: Creedence Clearwater Revival
 year: 1970
 category: playalong_cover
 slug: "270"
+hidden_tags: CCR, creedance
 redirect_to:
   - /lessons/269
 patreon_lesson_available: true
