@@ -40,6 +40,11 @@ layout: default
     <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn">by <span>{{ page.artist | escape }}</span> • Lesson #{{ page.slug }}</p>
   {% endif %}
 
+  {% if page.category == "generic" %}
+    <h1 class="mtn mbn">{{ page.title | escape }}</h1>
+    <p style="border-bottom: 1px solid #ddd; padding-bottom: 12px;" class="h3 mtn"><span>{{ page.date | date: "%b %-d, %Y" }}</span></p>
+  {% endif %}
+
 
 
 
