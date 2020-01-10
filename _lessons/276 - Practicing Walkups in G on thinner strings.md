@@ -4,11 +4,10 @@ title: Practicing Walk Ups & Walk Downs in G
 category: warmup
 date: 2020-01-07
 slug: "276"
-hidden_tags:
+hidden_tags: bassline, exercise
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33023582
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32695612 -->
 
 ## Video lesson
 
@@ -34,6 +33,6 @@ Here's a related lesson I did doing this same technique using the chords of E, A
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a78aVcgsJQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Likewise, here's a lesson I made showing this same technique using the chords of A, D, and E.
+Likewise, here's a lesson I made showing this same technique using the chords of A, D, and E. The PDF for this lesson <a href="https://www.patreon.com/posts/24901786">is available here</a>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GSHjffgXe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
