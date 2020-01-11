@@ -4,11 +4,15 @@ title: 'My 12 most popular guitar lessons of 2019'
 category: generic
 date: 2020-01-04
 slug: "275"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32888140
 ---
 
 ## Video rundown of my top 12 lessons
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-goFZZnG9Uk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
