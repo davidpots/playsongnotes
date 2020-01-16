@@ -1,9 +1,13 @@
 ---
 layout: song
 title: '"Walk Right In" by The Rooftop Singers'
+song_title: Walk Right In
+artist: The Rooftop Singers
+year: 1962
 category: full_song
 date: 2020-01-16
 slug: "277"
+hidden_tags: forrest gump, roof top, sit right down
 ---
 
 <!-- patreon_lesson_available: true
