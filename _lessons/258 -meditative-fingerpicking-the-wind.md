@@ -4,6 +4,7 @@ title: Meditative fingerpicking practice, inspired by "The Wind" by Cat Stevens
 slug: "258"
 date: 2019-09-15
 category: practice_log
+hidden_tags: fingerpicking, fingerstyle, finger picking, finger style
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29981439
 redirect_from:

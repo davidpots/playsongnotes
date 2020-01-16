@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 yt_video_id: _________
 slug: "220"
+hidden_tags: a star is born, star is born, shallow
 redirect_from:
   - /songs/lady-gaga-always-remember-us-this-way/
 patreon_lesson_available: true

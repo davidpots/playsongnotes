@@ -6,6 +6,7 @@ artist: Guy Clark
 year: 2013
 category: full_song
 slug: "268"
+hidden_tags: fingerpicking, fingerstyle, finger picking, finger style
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31947589
 ---

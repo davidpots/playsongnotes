@@ -8,6 +8,7 @@ year: 2019
 category: full_song
 yt_video_id: _________
 slug: "238"
+hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, travis picking
 redirect_from:
   - /songs/john-prine-my-old-kentucky-home-goodnight/
 patreon_lesson_available: true

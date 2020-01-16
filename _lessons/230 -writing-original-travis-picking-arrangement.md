@@ -4,6 +4,7 @@ title: How I composed a multi-part fingerstyle guitar arrangement
 slug: "230"
 date: 2019-04-12
 category: practice_log
+hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, travis picking
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26077237
 redirect_from:

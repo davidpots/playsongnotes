@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 yt_video_id: _________
 slug: "188"
+hidden_tags: bradley cooper, shallow
 redirect_from:
   - /songs/bradley-cooper-maybe-it-s-time/
 patreon_lesson_available: true

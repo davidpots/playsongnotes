@@ -4,6 +4,7 @@ category: tip_technique
 title: Fingerstyle F with wrapped thumb
 slug: "244"
 date: 2019-06-21
+hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, travis picking
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27795273
 redirect_from:

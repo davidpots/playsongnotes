@@ -6,6 +6,7 @@ slug: "264"
 redirect_from:
   - /warmup/24/
 date: 2019-10-26
+hidden_tags: fingerpicking, fingerstyle, finger picking, finger style
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31073686
 ---
