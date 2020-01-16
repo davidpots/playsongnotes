@@ -73,7 +73,8 @@
   .header-logo a { width: 280px; margin: 4px auto 16px;  display: block; }
   .header-logo img { width: 100%; }
   .header-links { margin-bottom: 5px; text-align: center; float: none; }
-  .header-links li a.pill-link { font-size: 12px; padding: 4px 8px; margin-bottom: 5px; }
+  .header-links li {margin-left: 0;}
+  .header-links li a.pill-link { font-size: 11px; padding: 4px 8px; margin-bottom: 5px; }
 }
 
 @media only screen and (max-width: 900px) {
