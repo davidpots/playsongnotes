@@ -8,10 +8,11 @@ category: full_song
 date: 2020-01-16
 slug: "277"
 hidden_tags: forrest gump, roof top, sit right down
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33200047
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33023582 -->
+
 
 ## Video lesson
 
