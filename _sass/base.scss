@@ -36,12 +36,13 @@
   li {
     list-style: none;
     display: inline-block;
+    margin-left: 4px;
     a {
       // color: #3DA7ff;
       font-weight: bold;
       font-size: 13px;
-      text-transform: uppercase;
-      margin-right: 20px;
+      // text-transform: uppercase;
+      // margin-right: 20px;
       &:hover {
         border-bottom: 2px solid #3DA7ff;
       }
@@ -62,11 +63,17 @@
       }
     }
   }
+  li:first-child {
+    margin-left: 0;
+  }
 }
 @media only screen and (max-width: $breakpoint--mobile) {
   .header-nav-inner-wrap { padding-bottom: 3px; }
-  .header-logo img { width: 140px; }
-  .header-links li a { font-size: 12px; padding: 4px 10px; }
+  .header-logo { float: none; }
+  .header-logo a { width: 280px; margin: 4px auto 16px;  display: block; }
+  .header-logo img { width: 100%; }
+  .header-links { margin-bottom: 5px; text-align: center; float: none; }
+  .header-links li a.pill-link { font-size: 12px; padding: 4px 8px; margin-bottom: 5px; }
 }
 
 @media only screen and (max-width: 900px) {
