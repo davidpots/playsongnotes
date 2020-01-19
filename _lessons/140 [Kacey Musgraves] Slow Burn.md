@@ -20,56 +20,129 @@ redirect_from:
 
 ## How to play the chords
 
-Here's how I play the chords:
+The easiest way to play the chords is as follows (left). However, the two best things you can do to spice up the song is use the Asus2 (in place of a regular A) and this Dsus2, both shown on the right.
 
-    E –––0––––0––––3––––0––––––0–––––
-    B –––2––––0––––0––––3––––––1–––––
-    G –––2––––0––––0––––0––––––0–––––
-    D –––2––––2––––0––––4––––––2–––––
-    A –––0––––2––––2––––5––––––3–––––
-    E ––––––––0––––3–––––––––––––––––
-         A    Em   G   Dsus2   C   
-
-For the Dsus2, you have some other options depending on your taste. Pick one to suit you. It looks like she may play the D/A style chord:          
-
-    E ––––0––––––0––––
-    B ––––3––––––3––––
-    G ––––2––––––0––––
-    D ––––0––––––4––––
-    A –––––––––––5––––
-    E –––––––––––5––––
-        Dsus2   D/A
+    E –––0––––0––––3––––0––––0–––        E –––––0–––––––0–––––
+    B –––2––––0––––0––––3––––1–––        B –––––0–––––––3–––––
+    G –––2––––0––––0––––2––––0–––        G –––––2–––––––0–––––
+    D –––2––––2––––0––––0––––2–––        D –––––2–––––––4–––––
+    A –––0––––2––––2–––––––––3–––        A –––––0–––––––5–––––
+    E ––––––––0––––3–––––––––––––        E –––––––––––––––––––
+         A    Em   G  Dsus2  C                Asus2   Dsus2  
 
 ## Chords progression
 
-Most of the song uses this progression:
+With the exception of the bridge, the entire song uses this progression.
 
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     A               Em              G               Dsus2
 
-Sometimes, she'll swap out the E minor and play a C instead, such as:
+Sometimes, she'll swap out the E minor and play a C instead, such as this. Watch live videos of her playing for reference.
 
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     A               C               G               Dsus2
 
 ## Strumming pattern
 
-To keep it very easy, start with all down strums:
-
-    1 + 2 + 3 + 4 +
-    D   D   D   D
-
-If you want to take it further, add an accent to the "3" count. See my video lesson for reference.
+To keep it very easy, start with all down strums. If you can add, an accent to the "3" count.
 
     1 + 2 + 3 + 4 +
     D   D   D   D
             >
 
-Next, if you wish, add alternating up-strums between each down strum. Keep the accent on the 3!
+And from there, you could add an up-strum on the "+" count following the 4.
+
+    1 + 2 + 3 + 4 +
+    D   D   D   D U
+            >
+
+Finally: if you wish, add alternating up-strums between each down strum. Keep the accent on the 3!
 
     1 + 2 + 3 + 4 +
     D U D U D U D U
             >
+
+For an "advanced" strumming pattern, you can use this -- which takes 2 measures to play.
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D   D   D U   U D   D   D U
+            >               >
+
+## Lyrics with chords
+
+    INTRO
+        A . . . Em . . . G . . . Dsus2 . . . x2
+
+    VERSE
+        A                Em           G                        Dsus2    A Em G Dsus2
+        Born in a hurry, always late, haven't been early since '88
+           A          Em             G                    Dsus2            A Em G Dsus2
+        Texas is hot, I can be cold, Grandma cried when I pierced my nose
+        A                Em
+        Good in a glass, good on green...
+        G                             Dsus2                A Em G
+        Good when you're putting your hands all over me
+
+    CHORUS
+            Dsus2              A           Em   G
+            I'm alright with a slow burn-------
+            Dsus2                   A            E   G   Dsus2
+            Taking my time, let the world turn-----------
+                      A                   Em            
+            I'm gonna do it my way, it'll be alright...
+            G                         Dsus2
+            If we burn it down and it takes all night
+                   A            Em    G    Dsus2
+            It's a slow burn---------------------- yeah
+
+                [BREAK:   A-Em-G-Dsus2  ]
+
+           A              Em                  
+        In Tennessee, the sun's goin' down...
+            G                   Dsus2               A Em G Dsus2
+        But in Beijing, they're heading out to work
+                      A                         Em
+        You know, the bar down the street don't close for an hour...
+        G                      Dsus2                     A     Em  G  
+        We should take a walk..... and look at all the flowers
+
+            Dsus2              A           Em   G
+            I'm alright with a slow burn-------
+            Dsus2                   A            E   G   Dsus2
+            Taking my time, let the world turn-----------
+                      A                   Em            
+            I'm gonna do it my way, it'll be alright...
+            G                         Dsus2
+            If we burn it down and it takes all night
+                   A            Em    G    Dsus2
+            It's a slow burn----------------------
+
+                C                              Em    
+                ...Mmmmm, whatever feels good.......
+                A     Em   G   Dsus2    A     Em   G   Dsus2  
+                Ahhhh......             Ahhhh......             (repeat "ahh" 4x)
+
+          [BREAK: A-Em-G-Dsus2 x2, with lighter strumming]
+
+        A         Em                   G                   
+        Old soul, waiting my turn... I know a few things...
+                 Dsus2              A     Em   G    
+        ...but I still got a lot to learn
+           Dsus2              A          Em   G    Dsus2
+        So I'm alright with a slow burn-----------
+        A          Em   G    Dsus2     A          Em   G    Dsus2    
+        Slow burn---------             Slow burn---------           
+                                                    (repeat, end on Asus2)
+
+## Kacey Musgraves versions of this song
+
+Her album version:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC7cmWkBoz4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Her SNL performance -- I love this one! It's where I first learned about Kacey Musgraves and I think it's a great performance.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IS6fWkZkrFc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Good luck!
 
