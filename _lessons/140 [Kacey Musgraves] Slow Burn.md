@@ -10,6 +10,8 @@ yt_video_id: _________
 slug: "140"
 redirect_from:
   - /songs/kacey-musgraves-slow-burn/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33283103
 ---
 
 ## Video lesson
@@ -140,9 +142,9 @@ Her album version:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NC7cmWkBoz4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Her SNL performance -- I love this one! It's where I first learned about Kacey Musgraves and I think it's a great performance.
+Her Late Show w/ Stephen Colbert version  -- I love this one! It's where I first learned about Kacey Musgraves and I think it's a great performance.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IS6fWkZkrFc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIYqhhUNanA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Good luck!
 
