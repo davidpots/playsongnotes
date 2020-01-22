@@ -4,10 +4,10 @@ title: Sierra Ferrell "In Dreams"-inspired riff
 category: warmup
 date: 2020-01-21
 slug: "278"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33351761
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32369696 -->
 
 ## Video lesson
 
@@ -25,20 +25,20 @@ The song this riff comes from is "In Dreams" by Sierra Ferrell, a young up-and-c
 
 Here's timestamps for this lesson:
 
-0:00 Lesson overview
-1:50 Chord shapes needed
-2:16 Strumming basics
-3:51 Full tab, explained
-11:30 Farewell
-
-## Learn more about the Carter Scratch
-
-Here's a nice video that NPR Music put out, featuring artist Courtney Marie Andrews explaining & demonstrating the Carter Scratch technique. The production of this video, along with her explanation, are super helpful!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cc4AxM0Nxa8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+- 0:00 Lesson overview
+- 1:50 Chord shapes needed
+- 2:16 Strumming basics
+- 3:51 Full tab, explained
+- 11:30 Farewell
 
 ## Sierra Ferrell's "In Dreams"
 
 Here's the song that this riff is taken from -- you can hear it in the intro, right off the bat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6fPqmceCf90?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## Learn more about the Carter Scratch
+
+Here's a nice video that NPR Music put out, featuring artist Courtney Marie Andrews explaining & demonstrating the Carter Scratch technique. The production of this video, along with her explanation, are super helpful!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cc4AxM0Nxa8?showinfo=0" frameborder="0" allowfullscreen></iframe>
