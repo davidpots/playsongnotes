@@ -72,7 +72,7 @@ Also, note the A-major shown above will likely need to be played with your index
 
 ## Example of song riffs that use these positions:
 
-*Norwegian Wood* by the Beatles (my lesson coming soon):
+*Norwegian Wood* by the Beatles ([view my lesson](http://playsongnotes.com/lessons/169/)):
 
     e ––––2–2–2––––––––––––2–2–2–––––––––2–2–2–––––––––––0h2–2–2—–2–2–2––
     B ––––3–3–3––3–3–3–––––3–3–3–––––––––3–3–3–––––––––––3–––3–3—–3–3–3––

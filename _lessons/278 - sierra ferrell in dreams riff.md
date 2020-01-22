@@ -31,6 +31,12 @@ Here's timestamps for this lesson:
 - 3:51 Full tab, explained
 - 11:30 Farewell
 
+## Need help with the pinky stretch on the D?
+
+Check out my video teaching that technique:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UyZ6maC6FxM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## Sierra Ferrell's "In Dreams"
 
 Here's the song that this riff is taken from -- you can hear it in the intro, right off the bat.
