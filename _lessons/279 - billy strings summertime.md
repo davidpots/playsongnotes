@@ -1,9 +1,12 @@
 ---
 layout: song
-title: Practicing Walk Ups & Walk Downs in G
-category: warmup
+title: '"Summertime" by Billy Strings'
+song_title: Summertime
+artist: Billy Strings
+year: 2019
+category: full_song
 date: 2020-01-14
-slug: "278"
+slug: "279"
 ---
 
 <!-- patreon_lesson_available: true
@@ -17,7 +20,7 @@ My video lesson is coming soon. Here's the song I'll be learning:
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-## Editor's notes
+<!-- ## Editor's notes
 
 Just found this a few days ago, and can't stop watching. Started to play it, here's my progress.
 
@@ -35,4 +38,4 @@ Keep the simple strum, but now play the full progression.
 
 ## Day 4: dial up the strumming a bit
 
-## Day 5: learn the runs
+## Day 5: learn the runs -->
