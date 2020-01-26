@@ -7,10 +7,11 @@ year: 2019
 category: full_song
 date: 2020-01-26
 slug: "281"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33467609
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33023582 -->
+
 
 ## Video lesson
 
