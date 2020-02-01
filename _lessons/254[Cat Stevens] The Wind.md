@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "Wind" by Cat Stevens -- playsongnotes.com
+title: Guitar lesson for "The Wind" by Cat Stevens -- playsongnotes.com
 song_title:  The Wind
 artist: Cat Stevens
 year: 1971
@@ -12,7 +12,6 @@ slug: "254"
 redirect_from:
   - /songs/cat-stevens-the-wind/
 ---
-
 
 
 ## Video lesson

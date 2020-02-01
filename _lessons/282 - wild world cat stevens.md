@@ -7,12 +7,9 @@ year: 1970
 category: full_song
 slug: "282"
 date: 2020-01-31
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33635432/
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33467609 -->
-
-
 
 ## Video lesson
 
