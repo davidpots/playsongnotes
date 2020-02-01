@@ -5,8 +5,8 @@ song_title: Wild World
 artist: Cat Stevens
 year: 1970
 category: full_song
-date: 2020-02-01
 slug: "282"
+date: 2020-01-31
 ---
 
 <!-- patreon_lesson_available: true
