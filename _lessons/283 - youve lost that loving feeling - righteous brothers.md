@@ -15,6 +15,8 @@ patreon_lesson_url: https://www.patreon.com/posts/33878045/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mXiF9DBhWRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 ## Editor's notes
 
 Hey friends! Here's a new lesson for the classic tune "You've Lost that Lovin' Feelin'" by the Righteous Brothers (1964) – which you may also know from the famous bar-singing scene in Top Gun. I'll teach you an arrangement based off the Mike Massé cover on YouTube – which makes for a fantastic solo acoustic version of this song. I'll show the chords, progressions, strumming patterns, and more. Note I'm in standard tuning to keep things as approachable as possible (tune down 1/2 step if you want to play along w/ the Righteous Bros or Mike Massé's version).
@@ -29,7 +31,7 @@ Here's the timestamps for my video:
 
 Enjoy!
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
 
 ## Mike Massé's version of this song
 
