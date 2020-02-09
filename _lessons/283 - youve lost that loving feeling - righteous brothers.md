@@ -14,14 +14,23 @@ patreon_lesson_url: https://www.patreon.com/posts/33635432/ -->
 
 ## Video lesson
 
-Coming soon! Look for it the weekend of Feb 8, 2020.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXiF9DBhWRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Editor's notes
 
-Coming soon!
+Hey friends! Here's a new lesson for the classic tune "You've Lost that Lovin' Feelin'" by the Righteous Brothers (1964) – which you may also know from the famous bar-singing scene in Top Gun. I'll teach you an arrangement based off the Mike Massé cover on YouTube – which makes for a fantastic solo acoustic version of this song. I'll show the chords, progressions, strumming patterns, and more. Note I'm in standard tuning to keep things as approachable as possible (tune down 1/2 step if you want to play along w/ the Righteous Bros or Mike Massé's version).
+
+Here's the timestamps for my video:
+
+- 0:00 Lesson overview
+- 2:26 Tuning & chords needed
+- 4:45 Chord progressions
+- 8:18 Strumming patterns
+- 14:19 Misc. tips & tricks
+
+Enjoy!
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
-
 
 ## Mike Massé's version of this song
 
@@ -29,12 +38,16 @@ Great cover here by Mike Massé and Sterling Cottam. Can't recommend it enough, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KtNoJyV6atM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## The scene from Top Gun
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLzVbz2HHzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Lyrics with chords
 
     VERSE
-        (no chord)            C                                        D
+        (no chord)            D7sus2                                    D
         ............You never close your eyes anymore when I kiss your lips
-                       C                                    D
+                       D7sus2                                D
         And there's no tenderness like before in your fingertips
 
     PRE-CHORUS
@@ -51,9 +64,9 @@ Great cover here by Mike Massé and Sterling Cottam. Can't recommend it enough, 
 
         [use the same chords as above for each repeated section below]
 
-                        C                                          D
+                        D7sus2                                      D
         Now, there's no welcome look in your eyes when I reach for you
-                        C                                      D
+                        D7sus2                                 D
         And girl you're starting to criticize little things I do
 
                         Em                     F#m           G               A
@@ -101,13 +114,13 @@ To play this song along with the Righteous Brothers version of this song, tune y
 
 Here's the tabs for the chord shapes I use in my lesson. Note that the "D7sus2" may likely have some other name (e.g., Cadd6/D) – but regardless of the name, just learn the shape below and put it to use.
 
-    E ––––0–––2–––0––––2–––3–––0–––0–––
-    B ––––1–––3–––0––––2–––0–––2–––1–––
-    G ––––2–––2–––0––––2–––0–––2–––0–––
-    D ––––0–––0–––2––––4–––0–––2–––2–––
-    A ––––––––––––2––––4–––2–––0–––3–––
-    E ––––––––––––0––––2–––3–––––––––––
-       D7sus2 D   Em  F#m  G   A   C
+    E ––––0–––2–––0––––2–––3–––0–––
+    B ––––1–––3–––0––––2–––0–––2–––
+    G ––––2–––2–––0––––2–––0–––2–––
+    D ––––0–––0–––2––––4–––0–––2–––
+    A ––––––––––––2––––4–––2–––0–––
+    E ––––––––––––0––––2–––3–––––––
+       D7sus2 D   Em  F#m  G   A   
 
 ## Chord progressions
 
@@ -144,3 +157,10 @@ For a full strumming pattern, I recommend this. It's what Mike Massé uses in hi
 
     1 + 2 + 3 + 4 +
     D   D U   U D U       "down, down up, up down up"
+
+For the refrain I use this strum pattern. The reason is all chord changes are happening on the 1
+and 3 counts, which we want to pair with downstrums. I’ve accented the 1 and 3 counts below to
+reflect this.
+
+    1 + 2 + 3 + 4 +
+    D   D U D   D U           "DOWN, down up, DOWN, down up"
