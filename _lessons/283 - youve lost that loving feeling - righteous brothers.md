@@ -7,10 +7,9 @@ year: 1964
 category: full_song
 slug: "283"
 date: 2020-02-05
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/33878045/
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33635432/ -->
 
 ## Video lesson
 
