@@ -32,7 +32,7 @@ I'm putting the finishing touches on it this week. It will become available when
 
 Full lesson coming soon! In the meantime...
 
-...here's a quick preview of the PDF chord sheet I'm writing up for the ROMEO & JULIET (Dire Straits) guitar lesson I'm making this week. The fully lesson isn't out yet, but in this video I'll give you a peek at everything I'll be including in the chord sheet: intro tab (simplified, instead of the open G version); lyrics w/ chords; strumming patterns; chord progressions; and more. Check it out, and look for the full lesson coming in a few days!
+...here's a quick preview of the PDF chord sheet I'm writing up for the ROMEO & JULIET (Dire Straits) guitar lesson I'm making this week. The full lesson isn't out yet, but in this video I'll give you a peek at everything I'll be including in the chord sheet: intro tab (simplified, instead of the open G version); lyrics w/ chords; strumming patterns; chord progressions; and more. Check it out, and look for the full lesson coming in a few days!
 
 ## Lyrics with chords
 
@@ -141,13 +141,13 @@ Chorus:
     D       A       Bm      G       D       A       Bm      G   A
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-    D       G       Bm      G       Em              G       A       D
+    D       G       Bm      G       Em              G       Bm  A   D
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1
 
 Adv. ending to the chorus:
 
     "When you gonna realize..."
-    Em                  /F# G           A     Bm    D
+    Em                  /F# G       /A  Bm    A     D
     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1
 
 ## Learning a simplified version of the intro
