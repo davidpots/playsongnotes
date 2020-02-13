@@ -3,7 +3,7 @@ layout: song
 title: '"Romeo and Juliet" by Dire Straits'
 song_title: "Romeo and Juliet"
 artist: Dire Straits
-year: 1980
+year: 1981
 category: full_song
 slug: "284"
 date: 2020-02-12
