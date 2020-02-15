@@ -14,25 +14,29 @@ patreon_lesson_url: https://www.patreon.com/posts/33878045/ -->
 
 ## Video lesson
 
-My lesson is coming up this weekend, February 15-16. [Subscribe to my YouTube channel](https://youtube.com/playsongnotes) so you don't miss it!
+Here's my video lesson:
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/mXiF9DBhWRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddsCIJMwTnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %} -->
+- 0:00 Greeting & overview
+- 1:42 Capo & tuning notes
+- 3:00 Chord shapes needed
+- 4:18 Chord progressions & strumming
+- 11:17 Playthrough of verse & chorus
+- 13:12 Intro tab, step by step
+- 21:41 Farewell
 
-## Print-friendly PDF chord sheet
-
-Here's a tour of the chord sheet I'll be releasing for this song:
+Here's a tour of the chord sheet I'll be releasing for this song. [Get it here!](page.patreon_lesson_url)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0o_yRKqt26s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I'm putting the finishing touches on it this week. It will become available when my full video drops (Feb 15-16). [Support me on Patreon](https://patreon.com/songnotes) to get notified when it is available (this also gives you access to my 160+ other PDF chord sheets).
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
-Full lesson coming soon! In the meantime...
+Hey there friends! Here's my lesson for the Dire Straits song "Romeo & Juliet". I'll be showing you an "easy" way to pick up your guitar and play this song, specifically (1) using no capo, (2) in standard tuning, and (3) using a simplified version of the intro. All this together allows you to quickly jump into the song, hopefully keeping things accessible. As per normal, I'll explain the chord shapes, the verse & chorus progressions, talk about strumming, and then break down the intro riff step-by-step.
 
-...here's a quick preview of the PDF chord sheet I'm writing up for the ROMEO & JULIET (Dire Straits) guitar lesson I'm making this week. The full lesson isn't out yet, but in this video I'll give you a peek at everything I'll be including in the chord sheet: intro tab (simplified, instead of the open G version); lyrics w/ chords; strumming patterns; chord progressions; and more. Check it out, and look for the full lesson coming in a few days!
+Best of luck with things! Again, keep on reading for additional notes on how to play this 100% exactly like Dire Straits does. In the meantime, I hope you enjoy this lesson and the PDF chord sheet I've made for this song.
 
 ## Lyrics with chords
 
