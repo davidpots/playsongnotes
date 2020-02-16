@@ -165,3 +165,25 @@ reflect this.
 
     1 + 2 + 3 + 4 +
     D   D U D   D U           "DOWN, down up, DOWN, down up"
+
+## Refrain "doo wop"-sounding bass line
+
+In my playthrough, I play the following bass line (all on the 4th string) when I first get to the refrain. Start off by getting a hang of the 5th and 7th frets (played with left index and left ring, respectively):
+
+    E –––––––––––––––––––––––––––––––––|–––
+    B –––––––––––––––––––––––––––––––––|–––
+    G –––––––––––––––––––––––––––––––––|–––
+    D –0–––––––5–––––––7–––––––5–––––––|–0–  ....repeat
+    A –––––––––––––––––––––––––––––––––|–––
+    E –––––––––––––––––––––––––––––––––|–––
+       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+And then from there, you can play the following, which repeats each note on the "+" count just before you switch to the next note. This can be tricky, but it adds a nice rhythmic sound!
+
+    E –––––––––––––––––––––––––––––––––|–––
+    B –––––––––––––––––––––––––––––––––|–––
+    G –––––––––––––––––––––––––––––––––|–––
+    D –0–––––0–5–––––5–7–––––7–5–7–––5–|–0–  ....repeat
+    A –––––––––––––––––––––––––––––––––|–––
+    E –––––––––––––––––––––––––––––––––|–––
+       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
