@@ -99,3 +99,9 @@ Not final (duh)
     Ab –––4–––4–––4–4–4–––––2–––2–––2–2–2––––4––4––4–4–4–––0––0––0–0–0––
     Eb –––2–––2–––2–2–2–––––––––––––––––––––––––––––––––––––––––––––––––
           F#                B                C#m           A
+
+## Other videos
+
+Here's the official video from Smashing Pumpkins.
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/4aeETEoNfOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
