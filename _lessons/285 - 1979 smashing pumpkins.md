@@ -22,13 +22,15 @@ Coming soon! Check back this weekend.
 
 ## Editor's notes
 
-Just starting to learn 1979 after many Patron requests. Practicing it this week (Feb 17), look for the lesson this weekend (Feb 22-23).
+Just starting to learn 1979 after many Patron requests. Practicing it this week (Feb 17), look for the lesson this weekend (Feb 22-23). After my first day of practice, I'd added my initial notes below. More to come...
 
-## Lyrics with chords
+## Tuning notes
 
-Coming soon...
+Tune down 1/2 step to play along with the band version. This probably makes the bend you repeat quite often easier to do too, I imagine?
 
 ## Day 1 of practice
+
+Keep it simple at first – don't expect yourself to capture the subtle nuance of the droning 6th string, the bend you do in the 3rd measure of the intro/verse, etc.
 
 Start with the bass notes...
 
@@ -104,4 +106,9 @@ Not final (duh)
 
 Here's the official video from Smashing Pumpkins.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/4aeETEoNfOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4aeETEoNfOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Lyrics with chords
+
+Coming soon...
