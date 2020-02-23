@@ -127,3 +127,9 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my independent efforts (and costs) of creating all these lessons to share with the world. Thank you.
 
 <a style="display: inline-block; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+
+<hr />
+
+## Prefer to buy the PDFs individually?
+
+I currently don't sell any of my PDFs for individual purchase -- but maybe I will one day in the future. <a href="mailto:play.songnotes@gmail.com">Shoot me an email</a> if this is something you're theoretically interested in. I can't promise anything, but it's always helpful for me to understand what my audience is looking for as possible alternatives to supporting me monthly via Patreon. Thanks!
