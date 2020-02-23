@@ -7,22 +7,34 @@ year: 1995
 category: full_song
 slug: "285"
 date: 2020-02-18
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/34261805
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/34051720 -->
 
 ## Video lesson
 
-Coming soon! Check back this weekend.
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ddsCIJMwTnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUeOl2tFVbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
+^ The link above goes live at 7am CST on Sunday, Feb 23. Clicking it before then will lead you to a dead page.
+
 ## Editor's notes
 
-Just starting to learn 1979 after many Patron requests. Practicing it this week (Feb 17), look for the lesson this weekend (Feb 22-23). After my first day of practice, I'd added my initial notes below. More to come...
+Here's a guitar lesson showing you how to play an acoustic version of 1979 by The Smashing Pumpkins (played in standard tuning). In this tutorial, I'll break down the two main riffs used in great details, tabs included, before showing additional advice for utilizing a variety chord voicings & strumming patterns. Put it all together, and you'll know what you need to pull this song off in a few different ways.
+
+Timestamps of what I teach:
+
+- 0:00 Lesson overview
+- 2:05 Intro & Verse Riff
+- • Starting with the bass notes (2:05)
+- • Adding octaves & muted strings (6:24)
+- • Adding open strings & the bend (8:44)
+- 15:38 Chorus Riff
+- 20:58 Bridge
+- 22:12 Misc. Chord Voicings
+- 24:13 Misc. Strumming Tips
 
 ## Tuning notes
 
@@ -185,13 +197,13 @@ Okay, there are a lot of ways to play the chords you hear in this song. Sometime
 
 Here are the chords, grouped by chord name.
 
-    Eb –––0–––0–––    Eb –––0–––0–––0–––    Eb –––––(0)–(0)––    Eb –––0–––2–––x–––
-    Bb –––0–––0–––    Bb –––0–––0–––0–––    Bb ––4––(0)–(0)––    Bb –––0–––2–––x–––
-    Gb –––1–––9–––    Gb –––2–––6–––6–––    Gb ––4–––4–––8–––    Gb –––9–––2–––x–––
-    Db –––2–––9–––    Db –––2–––7–––7–––    Db ––4–––4–––9–––    Db –––7–––4–––4–––
-    Ab –––2–––7–––    Ab –––0–––0–––7–––    Ab ––2–––2–––9–––    Ab –––9–––4–––4–––
-    Eb –––0–––0–––    Eb –––––––––––5–––    Eb ––––––––––7–––    Eb –––––––2–––2–––
-            E                   A                    B                    F#m
+    Eb ––0–––0––    Eb ––0–––0–––0––    Eb ––0––0––0––    Eb –––––(0)–(0)–    Eb ––0––2––x––
+    Bb ––0–––0––    Bb ––0–––0–––0––    Bb ––0––0––0––    Bb ––4––(0)–(0)–    Bb ––0––2––x––
+    Gb ––1–––9––    Gb ––8–––8–––9––    Gb ––2––6––6––    Gb ––4–––4–––8––    Gb ––9––2––x––
+    Db ––2–––9––    Db ––9–––9–––9––    Db ––2––7––7––    Db ––4–––4–––9––    Db ––7––4––4––
+    Ab ––2–––7––    Ab ––7–––6–––6––    Ab ––0––0––7––    Ab ––2–––2–––9––    Ab ––9––4––4––
+    Eb ––0–––0––    Eb ––0––––––––––    Eb ––––––––5––    Eb ––––––––––7––    Eb –––––2––2––
+           E               E/Eb                 A                  B                 F#m   
 
 ## Strumming
 
