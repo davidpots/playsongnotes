@@ -10,12 +10,21 @@ yt_video_id: _________
 slug: "15"
 redirect_from:
   - /songs/neil-diamond-sweet-caroline/
+  - /lessons/286
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34346197
 
 ---
 
+## Play-along cover
+
+This is played with no capo, using a relatively easy strumming pattern. Note this is lesson #286, which redirects to this page.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NnzWkdOZVY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## Video lesson
+
+This one is recorded with capo 2nd fret, to match Neil Diamond's album version.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XHpS7HDaymo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
