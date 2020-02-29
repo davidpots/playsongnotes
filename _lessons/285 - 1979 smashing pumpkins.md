@@ -14,11 +14,17 @@ patreon_lesson_url: https://www.patreon.com/posts/34261805
 
 ## Video lesson
 
+My video showing you how to play it like Smashing Pumpkins (lesson #285):
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUeOl2tFVbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+My cover version, which uses a strummier "easy" arrangement (lesson #287):
 
-^ The link above goes live at 7am CST on Sunday, Feb 23. Clicking it before then will lead you to a dead page.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/917KRUQ747o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+PDFs chord sheets for each versions are available via the link below.
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
