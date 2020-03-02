@@ -9,4 +9,6 @@ date: 2019-12-26
 slug: "273"
 redirect_to:
   - /lessons/272
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/32519143
 ---

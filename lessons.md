@@ -43,6 +43,8 @@ permalink: /lessons/
     {% case lesson[0].category %}
       {% when 'full_song' %}
         {% assign lesson_category = "Full Song" %}
+      {% when 'playalong_cover' %}
+        {% assign lesson_category = "Play-along Cover" %}
       {% when 'warmup' %}
         {% assign lesson_category = "Warm Up Exercise" %}
       {% when 'practice_log' %}
