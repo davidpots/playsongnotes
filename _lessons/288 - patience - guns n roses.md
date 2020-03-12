@@ -15,8 +15,6 @@ patreon_lesson_url: https://www.patreon.com/posts/34261805 -->
 
 ## Video lesson
 
-Coming soon...
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mgCLd0uyp0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
@@ -24,6 +22,14 @@ Coming soon...
 ## Editor's notes
 
 Hey friends! Here's a tutorial on how to play the 1989 acoustic classic "Patience" by Guns N' Roses. I'll teach you the chords, lyrics, strumming, progressions, runs n' fills, and show you everything else you need to know to pick up this song and play. Note you'll need to tune down 1/2 step to play this along with Guns n Roses -- though my lesson will be in standard tuning.
+
+Video timestamps:
+
+- 0:00 Lesson overview
+- 1:15 Tuning & chords shapes
+- 3:38 Progressions & strumming
+- 10:14 Basic riffs & fills
+- 13:13 Playthrough of full song
 
 ## Lyrics with chords
 
