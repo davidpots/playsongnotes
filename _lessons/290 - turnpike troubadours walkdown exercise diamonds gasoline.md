@@ -4,10 +4,9 @@ title: 'Walk-down exercise inspired by the Turnpike Troubadours'
 category: warmup
 slug: "290"
 date: 2020-03-15
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/34901234
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/34822415 -->
 
 ## Video lesson
 
