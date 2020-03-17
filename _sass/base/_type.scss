@@ -25,6 +25,7 @@
 
         // Headings
         h1,h2,h3,h4,h5,h6 {
+          font-family:   $font-family--bold;
           color:         $font-color--strong;
           font-weight:   $font-weight--strong;
           margin-top:    $space--medium;
@@ -120,9 +121,9 @@
 
         strong,
         .strong,
-        .bold           { font-weight: $font-weight--strong; }
+        .bold           { font-family: $font-family--bold; }
         .weak           { color: $gray-light; }
-        .normal         { font-weight: $font-weight--normal; }
+        .normal         { font-family: $font-weight--normal; }
         .mono           { font-family: $font-family--monospace; }
         .italic         { font-style: italic; }
         .caps           { text-transform: uppercase; }
