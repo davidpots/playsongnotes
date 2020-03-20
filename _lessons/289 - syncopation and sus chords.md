@@ -5,10 +5,9 @@ category: tip_technique
 slug: "289"
 tags: [Tips & Techniques, Learning Chords, Strumming]
 date: 2020-03-19
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/35077534
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/34822415 -->
 
 ## Video lesson
 
