@@ -4,6 +4,7 @@ title: Practicing Walk Ups & Walk Downs in G
 category: warmup
 date: 2020-01-07
 slug: "276"
+tags: [Warm Up Exercise, Key of G, Walking Bass Lines]
 hidden_tags: bassline, exercise
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33023582

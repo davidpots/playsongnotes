@@ -4,6 +4,7 @@ category: tip_technique
 title: Slap strumming basics (percussive rhythm technique)
 slug: "197"
 date: 2018-12-07
+tags: [Tips & Techniques, Strumming]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23199900
 redirect_from:

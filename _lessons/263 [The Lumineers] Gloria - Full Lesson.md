@@ -6,6 +6,7 @@ artist: The Lumineers
 year: 2019
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Key of C, Folk, Rock]
 slug: "263"
 redirect_from:
   - /lessons/266

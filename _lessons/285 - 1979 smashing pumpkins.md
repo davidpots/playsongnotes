@@ -5,6 +5,7 @@ song_title: "1979"
 artist: The Smashing Pumpkins
 year: 1995
 category: full_song
+tags: [Full Song Lesson, Key of E, 1990s, Rock]
 slug: "285"
 date: 2020-02-18
 patreon_lesson_available: true

@@ -4,6 +4,7 @@ title: 'Walk-down exercise inspired by the Turnpike Troubadours'
 category: warmup
 slug: "290"
 date: 2020-03-15
+tags: [Warm Up Exercise, Key of C, 2010s, Country, Walking Bass Lines]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34901234
 ---

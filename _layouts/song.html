@@ -54,7 +54,7 @@ layout: default
       <ul class="tag-list">
         {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
-          <li><a href="/search?query={{ tag_name }}">{{ tag_name }}</a></li>
+          <li><a href="/search?query={{ tag_name | uri_escape }}">{{ tag_name }}</a></li>
         {% endfor %}
       </ul>
     {% endif %}

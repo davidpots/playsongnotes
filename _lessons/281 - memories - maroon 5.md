@@ -5,6 +5,7 @@ song_title: Memories
 artist: Maroon 5
 year: 2019
 category: full_song
+tags: [Full Song Lesson, Key of G, 2010s, Pop]
 date: 2020-01-26
 slug: "281"
 patreon_lesson_available: true

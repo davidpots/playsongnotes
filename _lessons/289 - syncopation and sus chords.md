@@ -3,6 +3,7 @@ layout: song
 title: 'Syncopation and Sus Chords'
 category: tip_technique
 slug: "289"
+tags: [Tips & Techniques, Learning Chords, Strumming]
 date: 2020-03-19
 ---
 

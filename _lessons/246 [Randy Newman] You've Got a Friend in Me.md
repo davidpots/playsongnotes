@@ -8,6 +8,8 @@ year: 1995
 category: full_song
 yt_video_id: _________
 slug: "246"
+tags: [Full Song Lesson, 1990s, Key of C, Movie Songs, Fingerstyle]
+hidden_tags: [Toy Story]
 redirect_from:
   - /songs/randy-newman-you-ve-got-a-friend-in-me/
 patreon_lesson_available: true

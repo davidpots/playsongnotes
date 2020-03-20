@@ -6,6 +6,7 @@ artist: Gram Parsons
 year: 1969
 category: full_song
 date: 2019-12-16
+tags: [Full Song Lesson, Key of D, 1960s, Country]
 slug: "272"
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32519143

@@ -4,6 +4,7 @@ title: '"Wild World" by Cat Stevens'
 song_title: Wild World
 artist: Cat Stevens
 year: 1970
+tags: [Full Song Lesson, Key of C, 1970s, Folk]
 category: full_song
 slug: "282"
 date: 2020-01-31

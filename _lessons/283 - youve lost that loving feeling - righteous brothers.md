@@ -4,6 +4,8 @@ title: '"You''ve Lost that Lovin'' Feelin''" by The Righteous Brothers'
 song_title: "You've Lost that Lovin' Feelin'"
 artist: The Righteous Brothers
 year: 1964
+tags: [Full Song Lesson, Key of D, 1960s, Movie Songs, Soul]
+hidden_tags: [Top Gun]
 category: full_song
 slug: "283"
 date: 2020-02-05

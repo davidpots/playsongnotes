@@ -4,6 +4,7 @@ category: warmup
 redirect_from:
   - /warmup/18/
 title: Breezy strumming on E-Bsus4-Asus2
+tags: [Warm Up Exercise, Learning Chords, Strumming]
 slug: "231"
 date: 2019-04-15
 patreon_lesson_available: true

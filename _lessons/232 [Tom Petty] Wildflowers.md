@@ -6,6 +6,7 @@ artist: Tom Petty
 year: 1994
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1990s, Key of C, Rock]
 slug: "232"
 redirect_from:
   - /songs/tom-petty-wildflowers/

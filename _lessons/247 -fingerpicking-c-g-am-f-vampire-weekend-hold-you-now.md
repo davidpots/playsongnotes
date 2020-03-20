@@ -4,7 +4,8 @@ title: Fingerpicking C-G-Am-F (based on Vampire Weekend's "Hold You Now")
 slug: "247"
 date: 2019-07-16
 category: practice_log
-hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, travis picking
+tags: [Practice Log, 2010s, Rock, Key of C, Fingerstyle]
+hidden_tags: [fingerpicking, finger picking, finger style, travis picking]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28420165
 redirect_from:

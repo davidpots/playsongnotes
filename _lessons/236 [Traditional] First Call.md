@@ -6,6 +6,7 @@ song_title:  First Call
 artist: (traditional)
 year: --
 category: full_song
+tags: [Warm Up Exercise, Traditional]
 yt_video_id: _________
 slug: "236"
 redirect_from:

@@ -5,6 +5,7 @@ song_title: Summertime
 artist: Billy Strings
 year: 2019
 category: full_song
+tags: [Full Song Lesson, Key of G, 2010s, Soul, Country]
 date: 2020-01-14
 slug: "279"
 ---

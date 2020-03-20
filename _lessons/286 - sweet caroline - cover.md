@@ -4,6 +4,7 @@ category: playalong_cover
 title: Sweet Caroline
 slug: "286"
 date: 2020-02-27
+tags: [Play-Along Cover, Key of A, 1960s, Classic Rock]
 redirect_to:
   - /lessons/15
 patreon_lesson_available: true

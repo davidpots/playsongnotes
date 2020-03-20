@@ -7,6 +7,7 @@ year: 1995
 category: playalong_cover
 slug: "287"
 date: 2020-02-29
+tags: [Play-Along Cover, Key of E, 1990s, Rock]
 redirect_to:
   - /lessons/285
 patreon_lesson_available: true

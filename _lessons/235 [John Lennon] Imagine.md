@@ -7,6 +7,8 @@ artist: John Lennon
 year: 1971
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1970s, Classic Rock]
+hidden_tags: [The Beatles]
 slug: "235"
 redirect_from:
   - /songs/john-lennon-imagine/

@@ -5,6 +5,7 @@ song_title: "Romeo and Juliet"
 artist: Dire Straits
 year: 1981
 category: full_song
+tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle]
 slug: "284"
 date: 2020-02-12
 patreon_lesson_available: true

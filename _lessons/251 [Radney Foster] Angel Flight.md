@@ -1,12 +1,13 @@
 ---
 layout: song
-title: Guitar lesson for "Angel Flight" by Radney Foster -- playsongnotes.com
+title: Guitar lesson for "Angel Flight" by Radney Foster
 song_title: Angel Flight
 artist: Radney Foster
 year: 2009
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29234388
 category: full_song
+tags: [Full Song Lesson, Key of E, 2000s, Country]
 yt_video_id: _________
 slug: "251"
 redirect_from:

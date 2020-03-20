@@ -6,6 +6,7 @@ artist: Creedence Clearwater Revival
 year: 1970
 category: playalong_cover
 slug: "270"
+tags: [Play-Along Cover, 1970s, Key of C, Classic Rock]
 hidden_tags: CCR, creedance
 redirect_to:
   - /lessons/269

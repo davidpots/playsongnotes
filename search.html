@@ -37,6 +37,12 @@ permalink: /search/
       {% assign lesson_title = "" %}
     {% endif %}
     {% comment %} ================================================= {% endcomment %}
+    {% if lesson[0].tags %}
+      {% assign lesson_tags = lesson[0].tags | replace: '"','\"' %}
+    {% else %}
+      {% assign lesson_tags = "" %}
+    {% endif %}
+    {% comment %} ================================================= {% endcomment %}
     {% if lesson[0].hidden_tags %}
       {% assign lesson_hidden_tags = lesson[0].hidden_tags | replace: '"','\"' %}
     {% else %}
@@ -58,6 +64,7 @@ permalink: /search/
         "title": "{{ lesson_title }}",
         "category": "{{ lesson_category }}",
         "url": "{{ lesson[0].url }}",
+        "tags": "{{ lesson_tags }}",
         "hidden_tags": "{{ lesson_hidden_tags }}",
         "patreon_url": "{{ lesson[0].patreon_lesson_url}}",
         "slug": "{{ lesson[0].slug }}"

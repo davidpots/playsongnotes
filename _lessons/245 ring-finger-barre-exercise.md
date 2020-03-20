@@ -4,6 +4,7 @@ category: tip_technique
 title: Ring Finger Barre Strength Exercise
 slug: "245"
 date: 2019-06-25
+tags: [Tips & Techniques, Learning Chords]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27916357
 redirect_from:

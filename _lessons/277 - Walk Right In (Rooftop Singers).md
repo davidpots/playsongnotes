@@ -7,6 +7,7 @@ year: 1962
 category: full_song
 date: 2020-01-16
 slug: "277"
+tags: [Full Song Lesson, Key of G, 1960s, Folk, Walking Bass Lines]
 hidden_tags: forrest gump, roof top, sit right down
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33200047

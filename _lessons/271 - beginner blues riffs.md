@@ -4,6 +4,7 @@ title: 2-string blues riffs for beginners (step by step)
 category: warmup
 date: 2019-12-14
 slug: "271"
+tags: [Warm Up Exercise, Key of A, Blues, Bruce Springsteen]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32369696
 ---

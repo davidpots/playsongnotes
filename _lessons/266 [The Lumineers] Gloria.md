@@ -7,6 +7,7 @@ artist: The Lumineers
 year: 2019
 category: playalong_cover
 yt_video_id: _________
+tags: [Play-Along Cover, 2010s, Key of C, Folk, Rock]
 slug: "266"
 redirect_to:
   - /lessons/263

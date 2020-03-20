@@ -6,8 +6,9 @@ song_title:  Yesterday
 artist: The Beatles
 year: 1965
 category: full_song
+tags: [Full Song Lesson, 1960s, Classic Rock, Fingerstyle]
 slug: "242"
-hidden_tags: fingerpicking, fingerstyle, finger picking, finger style
+hidden_tags: fingerpicking, finger picking, finger style
 redirect_from:
   - /songs/beatles-yesterday/
 patreon_lesson_available: true

@@ -7,6 +7,8 @@ artist: Jose Feliciano
 year: 1968
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1960s, Fingerstyle, Classic Rock, Movie Songs]
+hidden_tags: [Once Upon a Time in Hollywood]
 slug: "250"
 redirect_from:
   - /songs/jose-feliciano-california-dreaming/
