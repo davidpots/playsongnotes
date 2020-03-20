@@ -12,12 +12,18 @@ patreon_lesson_url: https://www.patreon.com/posts/34822415 -->
 
 ## Video lesson
 
-Coming soon!
+<!-- Coming soon! -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/mgCLd0uyp0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJLc3cWlYR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
-Coming soon!
+Hey friends! Here's a quick rhythm technique video, where I talk about sus chords, strumming, and syncopation -- which latter term referring to strumming on the "off" beat. Even if you don't know what these terms mean, I'm certain your ear will immediately hear what I'm talking about. A great many songs use sus chords (e.g., Dsus2, Asus4, etc) -- and they're often played in a way where syncopation is embraced. I wanted to do a quick deep dive into this topic, and visually show via my PDF diagram what exactly is going on with this technique. I hope you enjoy!
+
+## Learn more about syncopation
+
+Here's a podcast episode of [Music Student 101](https://musicstudent101.com/86-syncopation.html) where they talk at length about syncopation, breaking it down into simple terms. The examples they play are especially helpful. I recommend for sure!
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/25mVAYSduDTH3YDqCyX0UP" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
