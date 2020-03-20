@@ -6,6 +6,7 @@ artist: Guns N' Roses
 year: 1989
 category: full_song
 slug: "288"
+tags: [Full Song Lesson, Play-Along Cover, Key of G, 1980s, Rock]
 date: 2020-03-04
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34822415
