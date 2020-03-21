@@ -8,7 +8,7 @@ year: 1978
 category: full_song
 yt_video_id: _________
 slug: "222"
-tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
+tags: [Full Song Lesson, Play-Along Cover, 1970s, Country, Key of D, Key of E]
 redirect_from:
   - /songs/kenny-rogers-the-gambler/
 patreon_lesson_available: true
@@ -252,4 +252,4 @@ Video timestamps:
 - 9:23 Adding pinky flourish notes
 - 10:48 Putting it all together
 
-Notes and tabs for this lesson <a class="underline" href="/practice/8/">can be found here</a>. Enjoy!
+Notes and tabs for this lesson <a class="underline" href="/lessons/207/">can be found here</a>. Enjoy!

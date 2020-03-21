@@ -8,7 +8,7 @@ tags: [Practice Log, 1970s, Key of D, Country, Walking Bass Lines]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24033565/
 redirect_from:
-  - /practice/8
+  - /practice/8/
 ---
 
 ## Video lesson
