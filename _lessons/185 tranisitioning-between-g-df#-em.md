@@ -4,6 +4,7 @@ category: warmup
 redirect_from:
   - /warmup/7/
 title: Transitioning between Em7 - D/F# - G
+tags: [Warm Up Exercise, Key of Em, Key of G, Learning Chords]
 slug: "185"
 date: 2018-10-07
 patreon_lesson_available: true

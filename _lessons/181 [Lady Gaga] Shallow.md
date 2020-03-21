@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 yt_video_id: _________
 slug: "181"
+tags: [Full Song Lesson, Key of Em, 2010s, Movie Songs, Country]
 hidden_tags: a star is born, star is born
 redirect_from:
   - /songs/lady-gaga-shallow/

@@ -6,6 +6,7 @@ song_title:  Sweet Child O' Mine
 artist: Guns N' Roses
 year: 1988
 category: full_song
+tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle]
 yt_video_id: _________
 slug: "156"
 redirect_from:

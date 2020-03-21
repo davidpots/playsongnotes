@@ -6,6 +6,7 @@ song_title: I've Been Everywhere
 artist: Johnny Cash
 year: 1996
 category: full_song
+tags: [Full Song Lesson, Country, Key of E, 1990s]
 yt_video_id: _________
 slug: "170"
 redirect_from:

@@ -4,6 +4,8 @@ category: warmup
 redirect_from:
   - /warmup/8/
 title: '"One Horse Town" intro riff'
+tags: [Warm Up Exercise, Country, 2010s, Key of Am]
+hidden_tags: [Blackberry Smoke]
 slug: "186"
 date: 2018-10-27
 patreon_lesson_available: true

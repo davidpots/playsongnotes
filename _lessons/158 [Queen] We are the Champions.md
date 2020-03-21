@@ -5,6 +5,7 @@ title: Guitar lesson for "We Are the Champions" by Queen
 song_title:  We Are the Champions
 artist: Queen
 year: 1977
+tags: [Full Song Lesson, Key of Am, Key of D, 1970s, Classic Rock]
 category: full_song
 yt_video_id: _________
 slug: "158"

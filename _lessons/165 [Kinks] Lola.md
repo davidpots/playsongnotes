@@ -5,6 +5,7 @@ title: Guitar lesson for "Lola" by The Kinks
 song_title:  Lola
 artist: The Kinks
 year: 1971
+tags: [Full Song Lessons, Classic Rock, Key of E, 1970s]
 category: full_song
 yt_video_id: _________
 slug: "165"

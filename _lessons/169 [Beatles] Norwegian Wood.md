@@ -6,6 +6,7 @@ song_title:  Norwegian Wood
 artist: The Beatles
 year: 1965
 category: full_song
+tags: [Full Song Lesson, Classic Rock, Key of D, 1960s]
 slug: "169"
 redirect_from:
   - /songs/beatles-norwegian-wood/

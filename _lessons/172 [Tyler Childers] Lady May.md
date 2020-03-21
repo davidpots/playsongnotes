@@ -6,6 +6,7 @@ song_title:  Lady May
 artist: Tyler Childers
 year: 2017
 category: full_song
+tags: [Full Song Lesson, Country, Key of C, 2010s]
 yt_video_id: _________
 slug: "172"
 redirect_from:

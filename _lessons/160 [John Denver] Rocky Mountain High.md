@@ -5,6 +5,7 @@ title: Guitar lesson for "Rocky Mountain High" by John Denver
 song_title: Rocky Mountain High
 artist: John Denver
 year: 1972
+tags: [Full Song Lesson, Key of D, Drop D, 1970s, Country]
 category: full_song
 yt_video_id: _________
 slug: "160"

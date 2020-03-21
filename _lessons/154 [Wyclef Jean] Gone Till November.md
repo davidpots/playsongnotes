@@ -7,6 +7,7 @@ artist: Wyclef Jean
 year: 1997
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1990s, Drop E, Fingerstyle]
 slug: "154"
 redirect_from:
   - /songs/wyclef-jean-gone-till-november/

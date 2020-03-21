@@ -5,6 +5,7 @@ title: '"When the Man Comes Around" by Johnny Cash'
 song_title: When the Man Comes Around
 artist: Johnny Cash
 year: 2002
+tags: [Full Song Lesson, Key of C, 2000s, Country]
 category: full_song
 yt_video_id: _________
 slug: "159"

@@ -4,6 +4,8 @@ category: warmup
 redirect_from:
   - /warmup/4/
 title: Blaze Foley country strumming
+tags: [Warm Up Exercise, Country, Key of C, 1980s]
+hidden_tags: [Big Cheeseburgers and Good French Fries]
 slug: "176"
 date: 2018-09-21
 patreon_lesson_available: true

@@ -4,6 +4,7 @@ category: warmup
 redirect_from:
   - /warmup/2/
 title: Easy E Fingerpicking Fun
+tags: [Warm Up Exercise, Learning Chords, Key of E]
 slug: "171"
 date: 2018-09-02
 patreon_lesson_available: true

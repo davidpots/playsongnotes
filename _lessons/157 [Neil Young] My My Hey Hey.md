@@ -6,6 +6,7 @@ song_title:  My My, Hey Hey
 artist: Neil Young
 year: 1979
 category: full_song
+tags: [Full Song Lesson, Key of Am, 1970s, Classic Rock]
 yt_video_id: _________
 slug: "157"
 redirect_from:

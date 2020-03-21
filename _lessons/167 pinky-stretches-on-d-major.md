@@ -3,6 +3,7 @@ layout: song
 category: tip_technique
 title: How to stretch your pinky on D-major
 slug: "167"
+tags: [Tips & Techniques, Learning Chords, Key of D]
 date: 2018-08-04
 redirect_from:
   - /tips/13/

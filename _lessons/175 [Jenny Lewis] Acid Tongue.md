@@ -6,6 +6,7 @@ song_title:  Acid Tongue
 artist: Jenny Lewis
 year: 2008
 category: full_song
+tags: [Full Song Lesson, Rock, Key of G, 2000s]
 yt_video_id: _________
 slug: "175"
 redirect_from:

@@ -4,6 +4,7 @@ category: warmup
 redirect_from:
   - /warmup/1/
 title: Two-finger blues in Drop-D
+tags: [Warm Up Exercise, Key of D, Drop D, Blues]
 slug: "163"
 date: 2018-07-24
 ---
