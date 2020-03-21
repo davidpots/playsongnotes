@@ -6,6 +6,7 @@ song_title:  Heart of Gold
 artist: Neil Young
 year: 1972
 category: full_song
+tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 yt_video_id: _________
 slug: "204"
 redirect_from:

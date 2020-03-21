@@ -8,6 +8,7 @@ year: 1963
 category: full_song
 yt_video_id: _________
 slug: "211"
+tags: [Full Song Lesson, Key of A, Folk, 1960s]
 redirect_from:
   - /songs/pete-seeger-guantanamera/
 patreon_lesson_available: true

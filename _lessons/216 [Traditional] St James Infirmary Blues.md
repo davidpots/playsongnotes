@@ -8,6 +8,7 @@ year: 1929
 category: full_song
 yt_video_id: _________
 slug: "216"
+tags: [Full Song Lesson, 1920s, Blues, Key of Am]
 redirect_from:
   - /songs/traditional-st-james-infirmary-blues/
 patreon_lesson_available: true

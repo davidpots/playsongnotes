@@ -6,6 +6,8 @@ redirect_from:
 title: Cowboy chords and walking bass lines
 slug: "219"
 date: 2019-02-22
+tags: [Warm Up Exercise, 2010s, Country, Key of A, Walking Bass Lines]
+hidden_tags: [Colter Wall, Thinking on a Woman, Thinkin on a Woman]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24901786/
 ---

@@ -6,7 +6,8 @@ song_title:  If I Had a Boat
 artist: Lyle Lovett
 year: 1987
 category: full_song
-hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, travis picking
+tags: [Full Song Lesson, Key of G, 1980s, Country, Fingerstyle, Travis Picking]
+hidden_tags: [fingerpicking, finger picking, finger style]
 yt_video_id: _________
 slug: "229"
 redirect_from:

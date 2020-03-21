@@ -8,6 +8,7 @@ year: 1988
 category: full_song
 yt_video_id: _________
 slug: "213"
+tags: [Full Song Lesson, Key of D, Country, 1980s]
 redirect_from:
   - /songs/steve-earle-copperhead-road/
 patreon_lesson_available: true

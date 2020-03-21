@@ -4,6 +4,7 @@ title: How to spice up a 2-chord song (feat. Tennessee Whiskey)
 slug: "191"
 date: 2018-11-14
 category: practice_log
+tags: [Practice Log, Learning Chords, Strumming, Key of A, Licks & Fills]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22729990
 redirect_from:

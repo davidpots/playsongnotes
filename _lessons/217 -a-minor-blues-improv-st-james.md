@@ -6,6 +6,8 @@ date: 2019-02-20
 category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24872694
+tags: [Practice Log, Blues, Backing Track, Key of Am, Licks & Fills]
+hidden_tags: [St James Infirmary Blues]
 redirect_from:
   - /practice/10
 ---

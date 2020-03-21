@@ -4,6 +4,7 @@ category: warmup
 redirect_from:
   - /warmup/17/
 title: Triad exercises using A, D, & E
+tags: [Warm Up Exercise, Learning Chords, Key of A]
 slug: "228"
 date: 2019-03-29
 patreon_lesson_available: true

@@ -8,6 +8,8 @@ year: 1788
 category: full_song
 yt_video_id: _________
 slug: "203"
+tags: [Full Song Lesson, Key of C, Traditional, Holiday]
+hidden_tags: [New Years]
 redirect_from:
   - /songs/traditional-auld-lang-syne/
 patreon_lesson_available: true

@@ -7,6 +7,8 @@ artist: Wham!
 year: 1984
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, Key of C, 1980s, Pop, Holiday]
+hidden_tags: [George Michael]
 slug: "200"
 redirect_from:
   - /songs/wham-last-christmas/

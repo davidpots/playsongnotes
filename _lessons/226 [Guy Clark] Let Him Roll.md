@@ -7,6 +7,7 @@ artist: Guy Clark
 year: 1975
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, Key of C, 1970s, Country, Fingerstyle, Travis Picking]
 slug: "226"
 redirect_from:
   - /songs/guy-clark-let-him-roll/

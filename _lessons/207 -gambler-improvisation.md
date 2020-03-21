@@ -4,6 +4,7 @@ title: Improvised guitar pickin' on "The Gambler"
 slug: "207"
 date: 2019-01-16
 category: practice_log
+tags: [Practice Log, 1970s, Key of D, Country, Walking Bass Lines]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24033565/
 redirect_from:

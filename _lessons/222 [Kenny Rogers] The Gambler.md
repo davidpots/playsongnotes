@@ -8,6 +8,7 @@ year: 1978
 category: full_song
 yt_video_id: _________
 slug: "222"
+tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
 redirect_from:
   - /songs/kenny-rogers-the-gambler/
 patreon_lesson_available: true

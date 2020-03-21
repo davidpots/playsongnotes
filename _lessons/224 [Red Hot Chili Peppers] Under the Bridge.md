@@ -7,6 +7,7 @@ artist: Red Hot Chili Peppers
 year: 1991
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, Key of D, Rock, 1990s]
 slug: "224"
 redirect_from:
   - /songs/red-hot-chili-peppers-under-the-bridge/

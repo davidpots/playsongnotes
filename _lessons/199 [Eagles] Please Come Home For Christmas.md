@@ -8,6 +8,7 @@ year: 1978
 category: full_song
 yt_video_id: _________
 slug: "199"
+tags: [Full Song Lesson, Key of A, Backing Track, 1970s, Classic Rock, Holiday]
 redirect_from:
   - /songs/eagles-please-come-home-for-christmas/
 patreon_lesson_available: true
