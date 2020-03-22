@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Whitehouse Road" by Tyler Childers
+title: '"Whitehouse Road" by Tyler Childers'
 song_title:  Whitehouse Road
 artist: Tyler Childers
 year: 2017
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, Drop D, Key of D, Country, 2010s]
 slug: "109"
 redirect_from:
   - /songs/tyler-childers-whitehouse-road/

@@ -6,6 +6,7 @@ song_title:  Feathered Indians
 artist: Tyler Childers
 year: 2017
 category: full_song
+tags: [Full Song Lesson, Key of D, Country, 2010s]
 yt_video_id: _________
 slug: "107"
 redirect_from:
