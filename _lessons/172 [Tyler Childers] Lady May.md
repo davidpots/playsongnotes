@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Lady May" by Tyler Childers
+title: '"Lady May" by Tyler Childers'
 song_title:  Lady May
 artist: Tyler Childers
 year: 2017

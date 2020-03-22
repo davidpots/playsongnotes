@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Peace of Mind" by Tyler Childers
+title: '"Peace of Mind" by Tyler Childers'
 song_title:  Peace of Mind
 artist: Tyler Childers
 year: 2019

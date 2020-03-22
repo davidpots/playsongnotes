@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: "Feathered Indians" by Tyler Childers
+title: '"Feathered Indians" by Tyler Childers'
 song_title:  Feathered Indians
 artist: Tyler Childers
 year: 2017
