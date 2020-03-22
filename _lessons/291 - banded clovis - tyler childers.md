@@ -7,11 +7,10 @@ year: 2017
 tags: [Full Song Lesson, 2010s, Key of E, Country]
 category: full_song
 slug: "291"
-date: 2020-03-16
+date: 2020-03-22
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/35143105
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/34822415 -->
 
 ## Video lesson
 
