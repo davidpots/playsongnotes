@@ -4,6 +4,7 @@ title: '"Banded Clovis" by Tyler Childers'
 song_title: "Banded Clovis"
 artist: Tyler Childers
 year: 2017
+tags: [Full Song Lesson, 2010s, Key of E, Country]
 category: full_song
 slug: "291"
 date: 2020-03-16
@@ -14,21 +15,30 @@ patreon_lesson_url: https://www.patreon.com/posts/34822415 -->
 
 ## Video lesson
 
-Coming soon...
+<!-- Coming soon... -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/mgCLd0uyp0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTDV1wownpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
-Coming soon...
+Hey friends! I'm proud to share this new Tyler Childers lesson for "Banded Clovis" from his 2017 album Purgatory. Tyler is maybe my favorite new country artist of the last few years, and this song in particular captures the raw, gritty, primal acoustic guitar sound that quite a few of his songs embrace. Tonally this one only uses the chords of E A B7, but the real magic (and difficulty) comes in mastering the intro riff, which plays around quite heartily with a deep melody on the thickest 3 strings, combined with strumming. I'll explain it all in my video lesson, give it a watch!
+
+Timestamps of what I teach in the lesson:
+
+- 1:30 Capo & Chord Shapes
+- 3:46 Strumming Basics
+- 5:47 Chord Progression & Verse
+- 7:07 Intro (overview & basic melody)
+- 9:15 Intro (adding advanced flourish)
+- 15:20 Farewell
 
 ## Lyrics with chords
 
 Capo 3rd fret.
 
-    INTRO (see PDF chord sheet for riff)
+    INTRO (see PDF chord sheet for the tab)
         E   E   A   E
         E   E   B7  E
         E   E   E

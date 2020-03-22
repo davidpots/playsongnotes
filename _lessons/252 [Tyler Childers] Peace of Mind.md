@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "Peace of Mind" by Tyler Childers - Song Notes by David Pots
+title: "Peace of Mind" by Tyler Childers
 song_title:  Peace of Mind
 artist: Tyler Childers
 year: 2019
