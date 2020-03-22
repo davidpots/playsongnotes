@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Total Eclipse of the Heart" by Bonnie Tyler
+title: '"Total Eclipse of the Heart" by Bonnie Tyler'
 song_title:  Total Eclipse of the Heart
 artist: Bonnie Tyler
 year: 1983
