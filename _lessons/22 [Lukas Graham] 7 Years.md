@@ -6,6 +6,7 @@ song_title: 7 Years
 artist: Lukas Graham
 year: 2015
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of G]
 yt_video_id: _________
 slug: "22"
 redirect_from:

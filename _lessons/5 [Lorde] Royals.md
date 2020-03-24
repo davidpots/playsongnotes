@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Royals" by Lorde -- playsongnotes.com
+title: '"Royals" by Lorde'
 song_title:  Royals
 artist: Lorde
 year: 2013
 date_published: 2013-11-12
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of D]
 yt_video_id: PFAGFlrf1bM
 slug: "5"
 redirect_from:

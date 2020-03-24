@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for the intro of "My Old Kentucky Home, Goodnight" by John Prine
+title: '"My Old Kentucky Home, Goodnight" by John Prine'
 song_title:  My Old Kentucky Home, Goodnight
 artist: John Prine
 year: 2019

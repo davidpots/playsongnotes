@@ -8,6 +8,7 @@ year: 1956
 date_published: 2013-11-17
 yt_video_id: VPf0HLvc3L8
 category: full_song
+tags: [Full Song Lesson, 1950s, Country, Key of E, Key of A, Key of D, Walking Bass Lines]
 slug: "6"
 redirect_from:
   - /songs/johnny-cash-i-walk-the-line/

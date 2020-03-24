@@ -6,6 +6,7 @@ song_title:  Give My Love To Rose
 artist: Johnny Cash
 year: 1960
 category: full_song
+tags: [Full Song Lesson, 1960s, Country, Key of A, Walking Bass Lines]
 yt_video_id: _________
 slug: "18"
 redirect_from:

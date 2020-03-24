@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Take Me Home Country Roads" by John Denver
+title: '"Take Me Home Country Roads" by John Denver'
 song_title:  Take Me Home Country Roads
 artist: John Denver
 year: 1971

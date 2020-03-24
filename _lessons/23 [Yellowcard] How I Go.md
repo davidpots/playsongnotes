@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "How I Go" by Yellowcard -- playsongnotes.com
+title: '"How I Go" by Yellowcard'
 song_title: How I Go
 artist: Yellowcard
 year: 2006
 category: full_song
+tags: [Full Song Lesson, 2000s, Rock, Key of E]
 yt_video_id: _________
 slug: "23"
 redirect_from:

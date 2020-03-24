@@ -1,11 +1,11 @@
 ---
 layout: song
 category: full_song
-title: Guitar lesson for "Hallelujah" by Leonard Cohen -- playsongnotes.com
+title: '"Hallelujah" by Leonard Cohen'
 song_title:  Hallelujah
 artist: Leonard Cohen
 year: 1984
-
+tags: [Full Song Lesson, 1980s, Folk, Rock, Key of C]
 yt_video_id: _________
 slug: "11"
 redirect_from:

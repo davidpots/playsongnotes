@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Rocky Mountain High" by John Denver
+title: '"Rocky Mountain High" by John Denver'
 song_title: Rocky Mountain High
 artist: John Denver
 year: 1972

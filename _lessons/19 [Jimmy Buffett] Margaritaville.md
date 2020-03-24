@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Ukulele lesson for "Margaritaville" by Jimmy Buffett -- playsongnotes.com
+title: '"Margaritaville" by Jimmy Buffett (ukulele lesson)'
 song_title: Margaritaville
 artist: Jimmy Buffett
 year: 1977
 category: full_song
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Ukulele]
 yt_video_id: _________
 slug: "19"
 redirect_from:

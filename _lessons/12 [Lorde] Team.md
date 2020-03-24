@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Team" by Lorde -- playsongnotes.com
+title: '"Team" by Lorde'
 song_title:  Team
 artist: Lorde
 year: 2013
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: _________
 slug: "12"
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "Angel Flight" by Radney Foster
+title: '"Angel Flight" by Radney Foster'
 song_title: Angel Flight
 artist: Radney Foster
 year: 2009

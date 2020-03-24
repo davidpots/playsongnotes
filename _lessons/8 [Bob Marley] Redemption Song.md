@@ -1,13 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Redemption Song" by Bob Marley -- playsongnotes.com
+title: '"Redemption Song" by Bob Marley'
 song_title:  Redemption Song
 artist: Bob Marley
 year: 1980
 category: full_song
 yt_video_id: _________
 slug: "8"
+tags: [Full Song Lesson, 1980s, Rock, Key of G]
 redirect_from:
   - /songs/bob-marley-redemption-song/
 patreon_lesson_available: true

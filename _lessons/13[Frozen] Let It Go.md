@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Let It Go" from Frozen -- playsongnotes.com
+title: '"Let It Go" from Frozen'
 song_title:  Let It Go
 artist: Frozen
 year: 2014
 category: full_song
+tags: [Full Song Lesson, 2010s, Movie Songs, Key of G]
 yt_video_id: _________
 slug: "13"
 redirect_from:

@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Maybe It's Time" from A Star is Born
+title: '"Maybe It''s Time" from A Star is Born'
 song_title:  Maybe It's Time
 artist: Bradley Cooper
 year: 2018

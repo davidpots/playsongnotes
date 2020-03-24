@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Shallow" by Lady Gaga & Bradley Cooper
+title: '"Shallow" by Lady Gaga & Bradley Cooper'
 song_title:  Shallow
 artist: Lady Gaga & Bradley Cooper
 year: 2018

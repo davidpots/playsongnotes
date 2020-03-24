@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Ukulele lesson for "Blank Space" by Taylor Swift -- playsongnotes.com
+title: '"Blank Space" by Taylor Swift'
 song_title: Blank Space
 artist: Taylor Swift
 year: 2014
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Ukulele, Key of G]
 yt_video_id: _________
 slug: "21"
 redirect_from:

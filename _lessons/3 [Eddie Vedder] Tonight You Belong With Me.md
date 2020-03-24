@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Tonight You Belong with Me" by Eddie Vedder -- playsongnotes.com
+title: '"Tonight You Belong with Me" by Eddie Vedder'
 song_title:  Tonight You Belong with Me
 artist: Eddie Vedder
 year: 2011
 date_published: 2013-11-10
 category: full_song
+tags: [Full Song Lesson, 1920s, Movie Songs, Key of D]
 yt_video_id: X-GnXcLskeY
 slug: "3"
 redirect_from:

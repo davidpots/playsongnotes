@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Copperhead Road" by Steve Earle
+title: '"Copperhead Road" by Steve Earle'
 song_title: Copperhead Road
 artist: Steve Earle
 year: 1988

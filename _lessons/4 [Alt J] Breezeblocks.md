@@ -1,13 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Breezeblocks" by Alt-J -- playsongnotes.com
+title: '"Breezeblocks" by Alt-J'
 song_title:  Breezeblocks
 artist: Alt J
 year: 2012
 date_published: 2013-11-12
 category: full_song
 yt_video_id: jDt2zAf4XMU
+tags: [Full Song Lesson, 2010s, Rock, Key of C]
 slug: "4"
 redirect_from:
   - /songs/alt-j-breezeblocks/

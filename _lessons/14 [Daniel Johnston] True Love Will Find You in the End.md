@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "True Love Will Find You in the End" by Daniel Johnston -- playsongnotes.com
+title: '"True Love Will Find You in the End" by Daniel Johnston'
 song_title:  True Love Will Find You in the End
 artist: Daniel Johnston
 year: 1990
+tags: [Full Song Lesson, 1990s, Folk, Key of G]
 category: full_song
 yt_video_id: _________
 slug: "14"

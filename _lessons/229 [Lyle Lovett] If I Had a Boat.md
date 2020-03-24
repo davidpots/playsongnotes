@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "If I Had a Boat" by Lyle Lovett
+title: '"If I Had a Boat" by Lyle Lovett'
 song_title:  If I Had a Boat
 artist: Lyle Lovett
 year: 1987

@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "The Gambler" by Kenny Rogers
+title: '"The Gambler" by Kenny Rogers'
 song_title:  The Gambler
 artist: Kenny Rogers
 year: 1978

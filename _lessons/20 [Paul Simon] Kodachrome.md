@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Kodachrome" by Paul Simon -- playsongnotes.com
+title: '"Kodachrome" by Paul Simon'
 song_title: Kodachrome
 artist: Paul Simon
 year: 1973
 category: full_song
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Walking Bass Lines]
 yt_video_id: _________
 slug: "20"
 redirect_from:

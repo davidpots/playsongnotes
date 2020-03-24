@@ -6,6 +6,7 @@ artist: Alt J
 year: 2012
 date_published: 2013-11-10
 category: full_song
+tags: [Full Song Lesson, 2010s, Rock, Key of D]
 yt_video_id: 9lVBiRmHztM
 slug: "1"
 redirect_from:

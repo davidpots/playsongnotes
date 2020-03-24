@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Don't Let Me Down" by The Chainsmokers -- playsongnotes.com
+title: '"Don''t Let Me Down" by The Chainsmokers'
 song_title:  Don't Let Me Down
 artist: The Chainsmokers
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: _________
 slug: "24"
 redirect_from:

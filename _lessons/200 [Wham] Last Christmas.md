@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Last Christmas" by Wham!
+title: '"Last Christmas" by Wham!'
 song_title:  Last Christmas
 artist: Wham!
 year: 1984
