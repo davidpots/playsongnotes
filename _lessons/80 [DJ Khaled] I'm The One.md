@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "I'm The One" by DJ Khaled ft Justin Bieber -- playsongnotes.com
+title: "I''m The One" by DJ Khaled ft Justin Bieber'
 song_title:  I'm The One
 artist: DJ Khaled
 artist_featured: Justin Bieber, Lil Wayne, Quavo, Chance The Rapper

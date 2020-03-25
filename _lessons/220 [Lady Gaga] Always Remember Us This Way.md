@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Always Remember Us This Way" by Lady Gaga
+title: '"Always Remember Us This Way" by Lady Gaga'
 song_title:  Always Remember Us This Way
 artist: Lady Gaga
 year: 2018
