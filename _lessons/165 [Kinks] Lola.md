@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Lola" by The Kinks
+title: '"Lola" by The Kinks'
 song_title:  Lola
 artist: The Kinks
 year: 1971

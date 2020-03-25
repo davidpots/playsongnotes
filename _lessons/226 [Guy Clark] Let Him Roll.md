@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Let Him Roll" by Guy Clark
+title: '"Let Him Roll" by Guy Clark'
 song_title:  Let Him Roll
 artist: Guy Clark
 year: 1975

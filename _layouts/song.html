@@ -13,7 +13,7 @@ layout: default
   {% if page.category == "full_song" %}
     {% assign lesson_head_prehead = "Guitar lesson for" %}
     {% assign lesson_head_title = page.song_title | escape %}
-    {% capture lesson_head_subhead %}by {{ page.artist | escape }}&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}by <a class="lesson-head-sublink" href="/search?query={{ page.artist | escape }}">{{ page.artist | escape }}</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{ page.slug }}{% endcapture %}
   {% endif %}
   
   {% if page.category == "warmup" %}

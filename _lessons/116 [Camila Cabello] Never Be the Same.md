@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Never Be the Same" by Camila Cabello
+title: '"Never Be the Same" by Camila Cabello'
 song_title:  Never Be the Same
 artist: Camila Cabello
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of G]
 yt_video_id: _________
 slug: "116"
 redirect_from:

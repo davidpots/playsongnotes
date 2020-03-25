@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Feeling Whitney" by Post Malone
+title: '"Feeling Whitney" by Post Malone'
 song_title:  Feeling Whitney
 artist: Post Malone
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C, Fingerstyle]
 yt_video_id: _________
 slug: "91"
 redirect_from:

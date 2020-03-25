@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "The Year That Clayton Delaney Died" by Tom T. Hall
+title: '"The Year That Clayton Delaney Died" by Tom T. Hall'
 song_title:  The Year That Clayton Delaney Died
 artist: Tom T. Hall
 year: 1971
+tags: [Full Song Lesson, 1970s, Country, Key of C, Walking Bass Lines]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29202320
 category: full_song

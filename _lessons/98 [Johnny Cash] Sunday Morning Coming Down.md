@@ -6,6 +6,7 @@ song_title:  Sunday Morning Coming Down
 artist: Johnny Cash
 year: 1970
 category: full_song
+tags: [Full Song Lesson, 1970s, Country, Key of G]
 yt_video_id: _________
 slug: "98"
 redirect_from:

@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Gone Till November" by Wyclef Jean
+title: '"Gone Till November" by Wyclef Jean (intro riff)'
 song_title:  Gone Till November
 artist: Wyclef Jean
 year: 1997

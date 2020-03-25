@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "St. James Infirmary Blues"
+title: '"St. James Infirmary Blues"'
 song_title:  St. James Infirmary Blues
 artist: (traditional)
 year: 1929

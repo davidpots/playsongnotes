@@ -6,6 +6,7 @@ song_title:  Harvest Moon
 artist: Neil Young
 year: 1992
 category: full_song
+tags: [Full Song Lesson, 1990s, Rock, Key of D, Drop D]
 yt_video_id: _________
 slug: "92"
 redirect_from:

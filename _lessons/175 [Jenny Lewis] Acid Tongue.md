@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Acid Tongue" by Jenny Lewis
+title: '"Acid Tongue" by Jenny Lewis'
 song_title:  Acid Tongue
 artist: Jenny Lewis
 year: 2008

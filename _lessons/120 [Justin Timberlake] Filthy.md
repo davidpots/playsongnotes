@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Filthy" by Justin Timberlake
+title: '"Filthy" by Justin Timberlake'
 song_title:  Filthy
 artist: Justin Timberlake
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of G]
 yt_video_id: _________
 slug: "120"
 redirect_from:

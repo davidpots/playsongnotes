@@ -1,13 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Mammas Don't Let Your Babies Grow Up to be Cowboys" by Waylon Jennings and Willie Nelson
+title: '"Mammas Don''t Let Your Babies Grow Up to be Cowboys" by Waylon Jennings and Willie Nelson'
 song_title:  Mammas Don't Let Your Babies Grow Up to be Cowboys
 artist: Waylon Jennings
 year: 1978
 category: full_song
 yt_video_id: _________
 slug: "118"
+tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
 redirect_from:
   - /songs/waylon-jennings-mammas-dont-let-your-babies-grow-up-to-be-cowboys/
 patreon_lesson_available: true

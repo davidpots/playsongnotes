@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Under the Bridge" by Red Hot Chili Peppers
+title: '"Under the Bridge" by Red Hot Chili Peppers'
 song_title: Under the Bridge
 artist: Red Hot Chili Peppers
 year: 1991

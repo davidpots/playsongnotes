@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Magic" by Rudy Mancuso & Maia Mitchell
+title: '"Magic" by Rudy Mancuso & Maia Mitchell'
 song_title:  Magic
 artist: Rudy Mancuso & Maia Mitchell
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of Am]
 yt_video_id: _________
 slug: "138"
 redirect_from:

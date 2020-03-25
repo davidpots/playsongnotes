@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "First Call" (horse racing / military bugle wake-up call)
+title: '"First Call" (horse racing / military bugle wake-up call)'
 song_title:  First Call
 artist: (traditional)
 year: --

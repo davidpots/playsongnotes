@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Norwegian Wood" by The Beatles
+title: '"Norwegian Wood" by The Beatles'
 song_title:  Norwegian Wood
 artist: The Beatles
 year: 1965

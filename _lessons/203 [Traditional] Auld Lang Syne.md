@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Auld Land Syng"
+title: '"Auld Land Syng" (New Years Song)'
 song_title:  Auld Land Syng
 artist: (traditional)
 year: 1788

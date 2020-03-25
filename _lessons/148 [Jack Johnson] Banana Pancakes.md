@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "Banana Pancakes" by Jack Johnson
+title: '"Banana Pancakes" by Jack Johnson'
 song_title:  Banana Pancakes
 artist: Jack Johnson
 year: 2005
+tags: [Full Song Lesson, 2000s, Rock, Pop, Key of G]
 category: full_song
 yt_video_id: _________
 slug: "148"

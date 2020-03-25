@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Stay" by Post Malone
+title: '"Stay" by Post Malone'
 song_title:  Stay
 artist: Post Malone
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: _________
 slug: "142"
 redirect_from:

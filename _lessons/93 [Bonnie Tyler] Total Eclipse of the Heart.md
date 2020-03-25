@@ -7,6 +7,7 @@ artist: Bonnie Tyler
 year: 1983
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1980s, Classic Rock, Key of G]
 slug: "93"
 redirect_from:
   - /songs/bonnie-tyler-total-eclipse-of-the-heart/

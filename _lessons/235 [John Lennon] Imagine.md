@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Imagine" by John Lennon -- playsongnotes.com
+title: '"Imagine" by John Lennon'
 song_title:  Imagine
 artist: John Lennon
 year: 1971

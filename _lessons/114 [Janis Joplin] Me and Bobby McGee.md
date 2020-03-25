@@ -1,11 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Me and Bobby McGee" by Janis Joplin
+title: '"Me and Bobby McGee" by Janis Joplin'
 song_title: Me and Bobby McGee
 artist: Janis Joplin
 year: 1971
 category: full_song
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
+hidden_tags: [Kris Kristofferson]
 yt_video_id: _________
 slug: "114"
 redirect_from:

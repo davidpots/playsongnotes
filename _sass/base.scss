@@ -272,4 +272,8 @@ iframe {
 .lesson-head-subhead {
   margin: 0 0 8px 0;
   font-size: $font-size--small;
+  .lesson-head-sublink {
+    color: inherit;
+    text-decoration: underline;
+  }
 }

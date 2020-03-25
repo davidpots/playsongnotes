@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Youth" by Shawn Mendes ft. Khalid
+title: '"Youth" by Shawn Mendes ft. Khalid'
 song_title:  Youth
 artist: Shawn Mendes
 year: 2018
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Pop, Fingerstyle]
 slug: "150"
 redirect_from:
   - /songs/shawn-mendes-youth/

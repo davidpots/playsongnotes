@@ -6,6 +6,8 @@ song_title: Hurt
 artist: Johnny Cash
 year: 2002
 category: full_song
+tags: [Full Song Lesson, 2000s, Country, Key of Am]
+hidden_tags: [nine inch nails, nin, trent reznor]
 yt_video_id: _________
 slug: "90"
 redirect_from:

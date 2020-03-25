@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "The Good Side" by Troye Sivan
+title: '"The Good Side" by Troye Sivan'
 song_title:  The Good Side
 artist: Troye Sivan
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of D]
 yt_video_id: _________
 slug: "125"
 redirect_from:

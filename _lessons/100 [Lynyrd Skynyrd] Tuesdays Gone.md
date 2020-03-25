@@ -1,13 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Tuesday's Gone" by Lynyrd Skynyrd
+title: '"Tuesday''s Gone" by Lynyrd Skynyrd'
 song_title:  Tuesday's Gone
 artist: Lynyrd Skynyrd
 year: 1973
 category: full_song
 yt_video_id: _________
 slug: "100"
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of A, Movie Songs]
 redirect_from:
   - /songs/lynyrd-skynyrd-tuesdays-gone/
 

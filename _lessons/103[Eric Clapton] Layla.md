@@ -1,11 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "Layla" by Eric Clapton
+title: '"Layla" by Eric Clapton'
 song_title:  Layla
 artist: Eric Clapton
 year: 1992
-
+tags: [Full Song Lesson, 1990s, Classic Rock, Key of Dm]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 category: full_song

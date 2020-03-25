@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Danny's Song" by Loggins and Messina
+title: '"Danny''s Song" by Loggins and Messina'
 song_title:  Danny's Song
 artist: Loggins and Messina
 year: 1971
 category: full_song
+tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of D, Fingerstyle]
 yt_video_id: _________
 slug: "95"
 redirect_from:

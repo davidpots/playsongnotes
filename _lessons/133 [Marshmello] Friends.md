@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Friends" by Marshmello & Anne-Marie
+title: '"Friends" by Marshmello & Anne-Marie'
 song_title:  Friends
 artist: Marshmello & Anne-Marie
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: _________
 slug: "133"
 redirect_from:

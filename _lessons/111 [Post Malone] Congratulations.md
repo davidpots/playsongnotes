@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Congratulations" by Post Malone
+title: '"Congratulations" by Post Malone'
 song_title:  Congratulations
 artist: Post Malone
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of E]
 yt_video_id: _________
 slug: "111"
 redirect_from:

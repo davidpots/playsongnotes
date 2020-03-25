@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Échame La Culpa" by Luis Fonsi and Demi Lovato
+title: '"Échame La Culpa" by Luis Fonsi and Demi Lovato'
 song_title:  Echame La Culpa
 artist: Luis Fonsi
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: _________
 slug: "126"
 redirect_from:

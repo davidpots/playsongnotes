@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "Family is Family" by Kacey Musgraves
+title: '"Family is Family" by Kacey Musgraves'
 song_title:  Family is Family
 artist: Kacey Musgraves
 year: 2015
+tags: [Full Song Lesson, 2010s, Country, Key of C]
 category: full_song
 yt_video_id: _________
 slug: "147"

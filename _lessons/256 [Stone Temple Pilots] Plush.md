@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Plush" by Stone Temple Pilots
+title: '"Plush" by Stone Temple Pilots'
 song_title:  Plush
 artist: Stone Temple Pilots
 year: 1992

@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "You've Got a Friend in Me" by Randy Newman (from Toy Story)
+title: '"You''ve Got a Friend in Me" by Randy Newman (from Toy Story)'
 song_title:  You've Got a Friend in Me
 artist: Randy Newman
 year: 1995

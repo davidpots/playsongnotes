@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "All Apologies" by Nirvana (intro & verse riff w/ tab)
+title: '"All Apologies" by Nirvana (intro & verse riff w/ tab)'
 song_title:  All Apologies
 artist: Nirvana
 year: 1993

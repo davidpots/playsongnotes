@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Slow Burn" by Kacey Musgraves
+title: '"Slow Burn" by Kacey Musgraves'
 song_title:  Slow Burn
 artist: Kacey Musgraves
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Country, Key of A]
 yt_video_id: _________
 slug: "140"
 redirect_from:

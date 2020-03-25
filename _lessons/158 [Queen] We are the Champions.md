@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "We Are the Champions" by Queen
+title: '"We Are the Champions" by Queen'
 song_title:  We Are the Champions
 artist: Queen
 year: 1977

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "Lookin' Out My Back Door" by Creedence Clearwater Revival (easy fingerstyle)
+title: '"Lookin'' Out My Back Door" by Creedence Clearwater Revival (easy fingerstyle)'
 song_title:  Lookin' Out My Back Door
 artist: Creedence Clearwater Revival
 year: 1970

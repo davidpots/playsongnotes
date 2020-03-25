@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Havana" by Camila Cabello
+title: '"Havana" by Camila Cabello'
 song_title:  Havana
 artist: Camila Cabello
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of Em, Fingerstyle]
 yt_video_id: _________
 slug: "115"
 redirect_from:

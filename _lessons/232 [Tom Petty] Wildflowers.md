@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "Wildflowers" by Tom Petty
+title: '"Wildflowers" by Tom Petty'
 song_title: Wildflowers
 artist: Tom Petty
 year: 1994

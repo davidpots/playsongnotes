@@ -7,6 +7,7 @@ artist: Johnny Cash
 year: 1963
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1960s, Country, Key of G]
 slug: "134"
 redirect_from:
   - /songs/johnny-cash-ring-of-fire/

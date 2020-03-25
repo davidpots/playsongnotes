@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Knockin' on Heaven's Door" by Bob Dylan
+title: '"Knockin'' on Heaven''s Door" by Bob Dylan'
 song_title:  Knockin' on Heaven's Door
 artist: Bob Dylan
 year: 1973
 category: full_song
+tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of G]
 slug: "88"
 redirect_from:
   - /songs/bob-dylan-knockin-on-heavens-door/

@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "LA Freeway" by Guy Clark
+title: '"LA Freeway" by Guy Clark'
 song_title:  LA Freeway
 artist: Guy Clark
 year: 1975
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1970s, Country, Key of G]
 slug: "101"
 redirect_from:
   - /songs/guy-clark-la-freeway/

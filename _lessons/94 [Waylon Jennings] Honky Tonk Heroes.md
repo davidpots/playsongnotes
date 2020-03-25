@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Honky Tonk Heroes" by Waylon Jennings
+title: '"Honky Tonk Heroes" by Waylon Jennings'
 song_title:  Honky Tonk Heroes
 artist: Waylon Jennings
 year: 1973
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1970s, Country, Key of D, Walking Bass Lines]
 slug: "94"
 redirect_from:
   - /songs/waylon-jennings-honky-tonk-heroes/

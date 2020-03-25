@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "House of the Rising Sun" by The Animals
+title: '"House of the Rising Sun" by The Animals'
 song_title:  House of the Rising Sun
 artist: The Animals
 year: 1964
 category: full_song
+tags: [Full Song Lesson, 1960s, Classic Rock, Key of Am]
 slug: "96"
 redirect_from:
   - /songs/animals-house-of-the-rising-sun/

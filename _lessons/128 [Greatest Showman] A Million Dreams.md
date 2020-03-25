@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "A Million Dreams" from The Greatest Showman
+title: '"A Million Dreams" from The Greatest Showman'
 song_title:  A Million Dreams
 artist: Greatest Showman
 year: 2017
+tags: [Full Song Lesson, 2010s, Movie Songs, Key of G]
 category: full_song
 yt_video_id: _________
 slug: "128"

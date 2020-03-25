@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "High and Dry" by Radiohead
+title: '"High and Dry" by Radiohead'
 song_title:  High and Dry
 artist: Radiohead
 year: 1995
 category: full_song
+tags: [Full Song Lesson, 1990s, Rock, Key of E]
 yt_video_id: _________
 slug: "105"
 redirect_from:

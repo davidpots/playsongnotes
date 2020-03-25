@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Creep" by Radiohead
+title: '"Creep" by Radiohead'
 song_title:  Creep
 artist: Radiohead
 year: 1993
 category: full_song
+tags: [Full Song Lesson, 1990s, Rock, Key of G]
 yt_video_id: _________
 slug: "153"
 redirect_from:

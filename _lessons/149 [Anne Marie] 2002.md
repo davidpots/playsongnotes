@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "2002" by Anne-Marie
+title: '"2002" by Anne-Marie'
 song_title:  '2002'
 artist: Anne-Marie
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 slug: "149"
 redirect_from:
   - /songs/anne-marie-2002/

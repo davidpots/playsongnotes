@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "Matilda" by Alt J -- playsongnotes.com
+title: '"Matilda" by Alt J'
 song_title:  Matilda
 artist: Alt J
 year: 2012

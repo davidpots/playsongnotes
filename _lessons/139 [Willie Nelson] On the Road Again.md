@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "On the Road Again" by Willie Nelson
+title: '"On the Road Again" by Willie Nelson'
 song_title:  On the Road Again
 artist: Willie Nelson
 year: 1980
 category: full_song
+tags: [Full Song Lesson, 1980s, Country, Key of C]
 yt_video_id: _________
 slug: "139"
 redirect_from:

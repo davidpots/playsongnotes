@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "American Girl" by Tom Petty
+title: '"American Girl" by Tom Petty'
 song_title:  American Girl
 artist: Tom Petty
 year: 1976
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
 slug: "113"
 redirect_from:
   - /songs/tom-petty-american-girl/

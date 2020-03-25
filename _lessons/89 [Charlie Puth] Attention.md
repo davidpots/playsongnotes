@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Attention" by Charlie Puth
+title: '"Attention" by Charlie Puth'
 song_title:  Attention
 artist: Charlie Puth
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of Am]
 yt_video_id: _________
 slug: "89"
 redirect_from:

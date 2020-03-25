@@ -1,13 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Game of Thrones" theme song (easy version) -- playsongnotes.com
+title: '"Game of Thrones" theme song (easy version)'
 song_title: Game of Thrones (theme)
 artist: Game of Thrones
 year: 2011
 category: full_song
 yt_video_id: _________
 slug: "84"
+tags: [Full Song Lesson, 2010s, Movie Songs, Key of C, Key of Am]
 redirect_from:
   - /songs/ramin-djawadi-game-of-thrones-theme-song/
 patreon_lesson_available: true

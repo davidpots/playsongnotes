@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Where Rainbows Never Die" by The Steeldrivers
+title: '"Where Rainbows Never Die" by The Steeldrivers'
 song_title:  Where Rainbows Never Die
 artist: The Steeldrivers
 year: 2010
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Country, Key of D]
 slug: "112"
 redirect_from:
   - /songs/steeldrivers-where-rainbows-never-die/

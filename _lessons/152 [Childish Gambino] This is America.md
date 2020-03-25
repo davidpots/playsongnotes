@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "This is America" by Childish Gambino (easy acoustic riff)
+title: '"This is America" by Childish Gambino (easy acoustic riff)'
 song_title:  This is America
 artist: Childish Gambino
 year: 2018
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Pop, Key of F]
 slug: "152"
 redirect_from:
   - /songs/childish-gambino-this-is-america/

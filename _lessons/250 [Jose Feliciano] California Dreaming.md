@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "California Dreamin'" by Jose Feliciano
+title: '"California Dreamin''" by Jose Feliciano'
 song_title:  California Dreamin'
 artist: Jose Feliciano
 year: 1968

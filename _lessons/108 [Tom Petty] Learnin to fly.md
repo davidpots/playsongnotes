@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Learnin' To Fly" by Tom Petty
+title: '"Learnin'' To Fly" by Tom Petty'
 song_title:  Learnin' To Fly
 artist: Tom Petty
 year: 1991
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1990s, Rock, Key of C]
 slug: "108"
 redirect_from:
   - /songs/tom-petty-learnin-to-fly/

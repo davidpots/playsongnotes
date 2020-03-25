@@ -7,7 +7,7 @@ artist: The Beatles
 date: 2019-11-03
 year: 1968
 yt_video_id: _________
-tags: [Practice Log, 1960s, Key of G, Classic Rock, Fingerstyle]
+tags: [Practice Log, 1960s, Key of G, Classic Rock, Fingerstyle, The Beatles]
 slug: "265"
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31322903

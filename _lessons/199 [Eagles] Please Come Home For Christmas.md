@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Please Come Home for Christmas" by The Eagles
+title: '"Please Come Home for Christmas" by The Eagles'
 song_title:  Please Come Home for Christmas
 artist: The Eagles
 year: 1978

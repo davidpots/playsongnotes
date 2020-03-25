@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Guitar lesson for "The Wind" by Cat Stevens
+title: '"The Wind" by Cat Stevens'
 song_title:  The Wind
 artist: Cat Stevens
 year: 1971

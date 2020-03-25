@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Surf Rider" by The Lively Ones
+title: '"Surf Rider" by The Lively Ones'
 song_title:  Surf Rider
 artist: The Lively Ones
 year: 1963

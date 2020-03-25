@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Remember Me" from Coco
+title: '"Remember Me" from Coco'
 song_title:  Remember Me
 artist: Coco
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Key of C, Movie Songs, Fingerstyle]
 yt_video_id: _________
 slug: "129"
 redirect_from:

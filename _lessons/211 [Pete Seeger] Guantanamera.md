@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Guantanamera" by Pete Seeger
+title: '"Guantanamera" by Pete Seeger'
 song_title:  Guantanamera
 artist: Pete Seeger
 year: 1963

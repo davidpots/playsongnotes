@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Yesterday" by The Beatles
+title: '"Yesterday" by The Beatles'
 song_title:  Yesterday
 artist: The Beatles
 year: 1965

@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "September" as covered by Taylor Swift
+title: '"September" as covered by Taylor Swift'
 song_title:  September
 artist: Taylor Swift
 year: 2018
+tags: [Full Song Lesson, 2010s, Pop, Classic Rock, Key of C]
 category: full_song
 yt_video_id: _________
 slug: "144"

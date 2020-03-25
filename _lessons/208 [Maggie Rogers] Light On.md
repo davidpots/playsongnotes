@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: Guitar lesson for "Light On" by Maggie Rogers
+title: '"Light On" by Maggie Rogers'
 song_title:  Light On
 artist: Maggie Rogers
 year: 2019

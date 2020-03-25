@@ -6,6 +6,7 @@ song_title: Tennessee Flat Top Box
 artist: Johnny Cash
 year: 1961
 category: full_song
+tags: [Full Song Lesson, 1960s, Country, Key of G, Walking Bass Lines]
 yt_video_id: _________
 slug: "145"
 redirect_from:

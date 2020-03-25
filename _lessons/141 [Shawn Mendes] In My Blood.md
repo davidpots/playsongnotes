@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "In My Blood" by Shawn Mendes
+title: '"In My Blood" by Shawn Mendes'
 song_title:  In My Blood
 artist: Shawn Mendes
 year: 2018
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: _________
 slug: "141"
 redirect_from:

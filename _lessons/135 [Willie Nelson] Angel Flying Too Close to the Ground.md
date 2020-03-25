@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Angel Flying Too Close to the Ground" by Willie Nelson
+title: '"Angel Flying Too Close to the Ground" by Willie Nelson'
 song_title:  Angel Flying Too Close to the Ground
 artist: Willie Nelson
 year: 1980
 category: full_song
+tags: [Full Song Lesson, 1980s, Country, Key of A]
 yt_video_id: _________
 slug: "135"
 redirect_from:
