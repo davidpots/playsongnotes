@@ -7,7 +7,7 @@ artist: Justin Timberlake and Anna Kendrick
 year: 2016
 category: full_song
 yt_video_id: _________
-tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C]
+tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C, Fingerstyle]
 slug: "32"
 redirect_from:
   - /songs/justin-timberlake-and-anna-kendrick-true-colors/

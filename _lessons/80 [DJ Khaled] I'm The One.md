@@ -6,6 +6,8 @@ song_title:  I'm The One
 artist: DJ Khaled
 artist_featured: Justin Bieber, Lil Wayne, Quavo, Chance The Rapper
 year: 2017
+tags: [Full Song Lesson, 20102, Pop, Key of G]
+hidden_tags: [Justin Bieber, Lil Wayne, Quavo, Chance The Rapper]
 category: full_song
 yt_video_id: _________
 slug: "80"

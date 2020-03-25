@@ -1,12 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Dead Flowers" by Townes Van Zandt -- playsongnotes.com
+title: '"Dead Flowers" by Townes Van Zandt'
 song_title:  Dead Flowers
 artist: Townes Van Zandt
 artist_original: Rolling Stones
 year: 1971
 cover: true
+tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of C, Movie Songs]
+hidden_tags: [Rolling Stones, Big Lebowski]
 category: full_song
 yt_video_id: _________
 slug: "79"

@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Go Flex" by Post Malone -- playsongnotes.com
+title: '"Go Flex" by Post Malone'
 song_title:  Go Flex
 artist: Post Malone
 year: 2016
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Pop, Key of F]
 slug: "66"
 redirect_from:
   - /songs/post-malone-go-flex/

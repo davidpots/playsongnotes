@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Meet Me In The Hallway" by Harry Styles -- playsongnotes.com
+title: '"Meet Me In The Hallway" by Harry Styles'
 song_title:  Meet Me In The Hallway
 artist: Harry Styles
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of D]
 yt_video_id: _________
 slug: "71"
 redirect_from:

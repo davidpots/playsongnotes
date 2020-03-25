@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Despacito" by Luis Fonsi ft Justin Bieber -- playsongnotes.com
+title: '"Despacito" by Luis Fonsi ft Justin Bieber'
 song_title:  Despacito
 artist: Luis Fonsi
 artist_featured: Justin Bieber
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of D, Key of G, Key of C]
 yt_video_id: _________
 slug: "78"
 redirect_from:

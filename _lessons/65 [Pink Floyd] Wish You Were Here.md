@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Wish You Were Here" by Pink Floyd -- playsongnotes.com
+title: '"Wish You Were Here" by Pink Floyd'
 song_title:  Wish You Were Here
 artist: Pink Floyd
 year: 1975
 category: full_song
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
 yt_video_id: _________
 slug: "65"
 redirect_from:

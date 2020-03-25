@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Sweet Creature" by Harry Styles -- playsongnotes.com
+title: '"Sweet Creature" by Harry Styles'
 song_title:  Sweet Creature
 artist: Harry Styles
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of G, Fingerstyle]
 yt_video_id: _________
 slug: "73"
 redirect_from:

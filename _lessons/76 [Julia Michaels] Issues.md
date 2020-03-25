@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Issues" by Julia Michaels -- playsongnotes.com
+title: '"Issues" by Julia Michaels'
 song_title:  Issues
 artist: Julia Michaels
 year: 2017
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Pop, Key of G]
 slug: "76"
 redirect_from:
   - /songs/julia-michaels-issues/

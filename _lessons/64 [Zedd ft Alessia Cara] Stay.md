@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Stay" by Alessia Cara and Zedd -- playsongnotes.com
+title: '"Stay" by Alessia Cara and Zedd'
 song_title:  Stay
 artist: Alessia Cara and Zedd
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of Em]
 yt_video_id: _________
 slug: "64"
 redirect_from:

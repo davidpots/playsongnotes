@@ -6,6 +6,7 @@ song_title: Folsom Prison Blues
 artist: Johnny Cash
 year: 1957
 category: full_song
+tags: [Full Song Lesson, 1950s, Country, Key of E]
 yt_video_id: _________
 slug: "72"
 redirect_from:
