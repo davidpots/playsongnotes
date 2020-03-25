@@ -8,6 +8,7 @@ artist_featured: Justin Bieber
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of D, Key of G, Key of C]
+hidden_tags: [Justin Bieber]
 yt_video_id: _________
 slug: "78"
 redirect_from:
