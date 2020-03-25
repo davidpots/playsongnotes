@@ -7,6 +7,7 @@ artist: Neil Young
 year: 1972
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of A]
 slug: "28"
 redirect_from:
   - /songs/neil-young-out-on-the-weekend/

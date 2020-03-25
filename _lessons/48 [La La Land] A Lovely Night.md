@@ -1,11 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "A Lovely Night" from La La Land -- playsongnotes.com
+title: '"A Lovely Night" from La La Land'
 song_title:  A Lovely Night
 artist: La La Land
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Key of C, Movie Songs]
+hidden_tags: [Emma Stone, Ryan Gosling]
 yt_video_id: _________
 slug: "48"
 redirect_from:

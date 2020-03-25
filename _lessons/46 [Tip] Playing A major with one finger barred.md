@@ -2,6 +2,7 @@
 layout: song
 title: How to play A-major with one finger (barred on 2nd fret)
 date_published: 2017-02-13
+tags: [Tips & Techniques, Learning Chords, Key of A]
 category: tip_technique
 slug: "46"
 ---

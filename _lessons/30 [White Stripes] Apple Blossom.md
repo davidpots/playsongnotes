@@ -1,12 +1,14 @@
 ---
 layout: song
 
-title: Guitar lesson for "Apple Blossom" by The White Stripes -- playsongnotes.com
+title: '"Apple Blossom" by The White Stripes'
 song_title:  Apple Blossom
 artist: The White Stripes
 year: 2000
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2000s, Rock, Key of Am]
+hidden_tags: [Hateful Eight, Tarantino]
 slug: "30"
 redirect_from:
   - /songs/white-stripes-apple-blossom/

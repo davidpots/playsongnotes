@@ -6,6 +6,7 @@ song_title:  Badlands
 artist: Bruce Springsteen
 year: 1978
 category: playalong_cover
+tags: [Play-Along Cover, 1970s, Classic Rock, Key of D]
 yt_video_id: _________
 slug: "44"
 redirect_from:

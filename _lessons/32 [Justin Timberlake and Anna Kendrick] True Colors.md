@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "True Colors" by Justin Timberlake and Anna Kendrick -- playsongnotes.com
+title: '"True Colors" by Justin Timberlake and Anna Kendrick'
 song_title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
 year: 2016
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C]
 slug: "32"
 redirect_from:
   - /songs/justin-timberlake-and-anna-kendrick-true-colors/

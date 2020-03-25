@@ -1,11 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "City of Stars" from La La Land -- playsongnotes.com
+title: '"City of Stars" from La La Land'
 song_title:  City of Stars
 artist: La La Land
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Movie Songs, Key of D]
+hidden_tags: [Ryan Gosling]
 yt_video_id: _________
 slug: "42"
 redirect_from:

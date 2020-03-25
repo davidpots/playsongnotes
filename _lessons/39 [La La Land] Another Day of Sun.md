@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Another Day of Sun" from La La Land -- playsongnotes.com
+title: '"Another Day of Sun" from La La Land'
 song_title:  Another Day of Sun
 artist: La La Land
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Movie Songs, Key of C]
 yt_video_id: _________
 slug: "39"
 redirect_from:

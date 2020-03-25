@@ -1,11 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Audition (The Fools Who Dream)" from La La Land -- playsongnotes.com
+title: '"Audition (The Fools Who Dream)" from La La Land'
 song_title:  Audition (The Fools Who Dream)
 artist: La La Land
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Key of D, Movie Songs]
+hidden_tags: [Emma Stone]
 yt_video_id: _________
 slug: "54"
 redirect_from:

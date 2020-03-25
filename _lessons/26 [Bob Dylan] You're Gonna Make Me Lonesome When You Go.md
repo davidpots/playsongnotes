@@ -1,11 +1,11 @@
 ---
 layout: song
-
-title: Guitar lesson for "You're Gonna Make Me Lonesome When You Go" by Bob Dylan -- playsongnotes.com
+title: '"You''re Gonna Make Me Lonesome When You Go" by Bob Dylan'
 song_title:  You're Gonna Make Me Lonesome When You Go
 artist: Bob Dylan
 year: 1975
 category: full_song
+tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of E]
 slug: "26"
 redirect_from:
   - /songs/bob-dylan-you-re-gonna-make-me-lonesome-when-you-go/

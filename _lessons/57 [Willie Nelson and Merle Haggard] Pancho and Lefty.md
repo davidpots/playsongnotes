@@ -1,9 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "Pancho and Lefty" by Willie Nelson and Merle Haggard -- playsongnotes.com
+title: '"Pancho and Lefty" by Willie Nelson and Merle Haggard'
 song_title:  Pancho and Lefty
 artist: Willie Nelson and Merle Haggard
+tags: [Full Song Lesson, 1970s, Country, Key of D]
+hidden_tags: [Townes Van Zandt]
 year: 1972
 category: full_song
 yt_video_id: _________

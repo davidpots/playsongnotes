@@ -4,6 +4,7 @@ category: tip_technique
 title: Walking up & down between the E, A, and B7 (bass note transitions)
 slug: "49"
 date: 2017-02-27
+tags: [Tips & Techniques, Key of E, Walking Bass Lines]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33107748/
 ---

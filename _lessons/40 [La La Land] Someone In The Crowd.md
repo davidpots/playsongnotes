@@ -1,11 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Someone in the Crowd" from La La Land -- playsongnotes.com
+title: '"Someone in the Crowd" from La La Land'
 song_title:  Someone in the Crowd
 artist: La La Land
 year: 2016
 category: full_song
+tags: [Full Song Lesson, 2010s, Movie Songs, Key of C]
+hidden_tags: [Emma Stone]
 yt_video_id: _________
 slug: "40"
 redirect_from:

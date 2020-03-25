@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Mary" by Sublime -- playsongnotes.com
+title: '"Mary" by Sublime'
 song_title:  Mary
 artist: Sublime
 year: 1994
 category: full_song
+tags: [Full Song Lesson, 1990s, Rock, Key of C]
 yt_video_id: _________
 slug: "45"
 redirect_from:

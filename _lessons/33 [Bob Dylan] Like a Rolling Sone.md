@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Like a Rolling Stone" by Bob Dylan -- playsongnotes.com
+title: '"Like a Rolling Stone" by Bob Dylan'
 song_title:  Like a Rolling Stone
 artist: Bob Dylan
 year: 1965
 category: full_song
 slug: "33"
+tags: [Full Song Lesson, 1960s, Folk, Classic Rock, Key of C]
 redirect_from:
   - /songs/bob-dylan-like-a-rolling-sone/
 patreon_lesson_available: true

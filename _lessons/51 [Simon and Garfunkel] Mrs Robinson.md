@@ -1,11 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Mrs. Robinson" by Simon and Garfunkel -- playsongnotes.com
+title: '"Mrs. Robinson" by Simon and Garfunkel'
 song_title:  Mrs. Robinson
 artist: Simon and Garfunkel
 year: 1968
 category: full_song
+tags: [Full Song Lesson, Play-Along Cover, 1960s, Key of E, Key of G, Movie Songs]
+hidden_tags: [Paul Simon]
 yt_video_id: _________
 slug: "51"
 redirect_from:

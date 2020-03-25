@@ -1,11 +1,12 @@
 ---
 layout: song
 
-title: Guitar lesson for "Shape of You" by Ed Sheeran -- playsongnotes.com
+title: '"Shape of You" by Ed Sheeran'
 song_title:  Shape of You
 artist: Ed Sheeran
 year: 2017
 category: full_song
+tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of D, Key of E]
 yt_video_id: _________
 slug: "60"
 redirect_from:

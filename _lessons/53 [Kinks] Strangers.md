@@ -1,12 +1,13 @@
 ---
 layout: song
 
-title: Guitar lesson for "Strangers" by The Kinks -- playsongnotes.com
+title: '"Strangers" by The Kinks'
 song_title:  Strangers
 artist: The Kinks
 year: 1970
 category: full_song
 yt_video_id: _________
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of C, Movie Songs]
 slug: "53"
 redirect_from:
   - /songs/kinks-strangers/

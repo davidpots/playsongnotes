@@ -1,10 +1,11 @@
 ---
 layout: song
 
-title: Guitar lesson for "Sweet Home Alabama" by Lynyrd Skynyrd -- playsongnotes.com
+title: '"Sweet Home Alabama" by Lynyrd Skynyrd'
 song_title:  Sweet Home Alabama
 artist: Lynyrd Skynyrd
 year: 1974
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
 category: full_song
 yt_video_id: _________
 slug: "43"

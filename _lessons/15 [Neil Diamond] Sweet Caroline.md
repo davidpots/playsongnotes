@@ -7,7 +7,7 @@ artist: Neil Diamond
 year: 1969
 category: full_song
 yt_video_id: _________
-tags: [Full Song Lesson, 1960s, Classic Rock, Key of A]
+tags: [Full Song Lesson, Play-Along Cover, 1960s, Classic Rock, Key of A]
 slug: "15"
 redirect_from:
   - /songs/neil-diamond-sweet-caroline/
