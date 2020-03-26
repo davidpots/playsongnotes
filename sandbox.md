@@ -4,6 +4,70 @@ title: Sandbox of Song Notes layout stuff
 permalink: /sandbox/
 ---
 
+## Search test
+
+<div class="row">
+  <div class="col col-3">
+    <div style="">
+      <h4>Browse by category</h4>
+      <ul>
+        <li><a href="?query=Full Song Lesson">Full Song Lesson</a></li>
+        <li><a href="?query=Play-Along Covers">Play-Along Covers</a></li>
+        <li><a href="?query=Warm Up Exercises">Warm Up Exercises</a></li>
+        <li><a href="?query=Tips & Techniques">Tips & Techniques</a></li>
+      </ul>
+      <h4>Browse by song decade</h4>
+      <ul>
+        <li><a href="?query=2000s">2000s</a></li>
+        <li><a href="?query=1990s">1990s</a></li>
+        <li><a href="?query=1980s">1980s</a></li>
+        <li><a href="?query=1970s">1970s</a></li>
+        <li><a href="?query=1960s">1960s</a></li>
+        <li><a href="?query=1950s">1950s</a></li>
+      </ul>
+      <h4>Browse by genre</h4>
+      <ul>
+        <li><a href="?query=Classic Rock">Classic Rock</a></li>
+        <li><a href="?query=Country">Country</a></li>
+        <li><a href="?query=Rock">Rock</a></li>
+        <li><a href="?query=Pop">Pop</a></li>
+        <li><a href="?query=Holiday">Holiday</a></li>
+      </ul>
+      <h4>Browse by technique</h4>
+      <ul>
+        <li><a href="?query=Learning Chords">Learning Chords</a></li>
+        <li><a href="?query=Strumming">Strumming</a></li>
+        <li><a href="?query=Fingerstyle">Fingerstyle</a></li>
+        <li><a href="?query=Travis Picking">Travis Picking</a></li>
+      </ul>
+      <h4>Browse by musical key</h4>
+      <ul>
+        <li><a href="?query=Key of C">Key of C</a></li>
+        <li><a href="?query=Key of D">Key of D</a></li>
+        <li><a href="?query=Key of E">Key of E</a></li>
+        <li><a href="?query=Key of F">Key of F</a></li>
+        <li><a href="?query=Key of G">Key of G</a></li>
+        <li><a href="?query=Key of A">Key of A</a></li>
+      </ul>
+      <h4>Browse by popular artist</h4>
+      <ul>
+        <li><a href="?query=Johnny Cash">Johnny Cash</a></li>
+        <li><a href="?query=Tyler Childers">Tyler Childers</a></li>
+        <li><a href="?query=Tom Petty">Tom Petty</a></li>
+        <li><a href="?query=Neil Young">Neil Young</a></li>
+        <li><a href="?query=Nirvana">Nirvana</a></li>
+        <li><a href="?query=Lynyrd Skynyrd">Lynyrd Skynyrd</a></li>
+        <li><a href="?query=Willie Nelson">Willie Nelson</a></li>
+        <li><a href="?query=John Denver">John Denver</a></li>
+        <li><a href="?query=Guns N' Roses">Guns N' Roses</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="col col-9">
+    <div style="background: green; height: 1800px;">col-8</div>
+  </div>
+</div>
+
 ## Shows the first item successfully!
 
 {% assign individual_post = site.lessons | where: 'slug', 1 %}

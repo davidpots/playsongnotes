@@ -140,15 +140,16 @@
 .song-listing-wrapper {
   margin: 0 auto;
   padding: 0;
-  max-width: 480px;
 }
 
 .song-listing {
   list-style: none;
-  border-top: 1px solid #EEE;
-  padding: 12px 0;
-  margin: 0;
+  border: 1px solid #EEE;
+  background: white;
+  padding: 12px;
+  margin: 0 0 8px 0;
   position: relative;
+  border-radius: 2px;
   h3 {
     margin: 0 72px 0 0;
     a {
@@ -167,7 +168,7 @@
   p.featured_label {
     position: absolute;
     top: 12px;
-    right: 0px;
+    right: 12px;
     display: inline-block;
     color: #000;
     background: #FEDC45;
