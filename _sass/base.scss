@@ -191,11 +191,11 @@
 
 #search-box {
   border: 1px solid #ddd;
-  border-radius: 2px;
-  padding: 0px 12px;
-  font-size: 18px;
-  height: 32px;
-  margin: 0 0 24px 0;
+  border-radius: 3px;
+  padding: 0px 16px;
+  font-size: 16px;
+  height: 48px;
+  margin: 0 0 28px 0;
   box-sizing: border-box;
 }
 
@@ -207,8 +207,8 @@
   display: inline-block;
   margin: 0;
   padding: 0 7px;
-  font-size: 14px;
-  height: 32px;
+  font-size: 16px;
+  height: 48px;
   &:hover {
     cursor:pointer;
   }
@@ -217,11 +217,17 @@
 }
 
 #noQueryPrompt {
-
+  background: rgba(0,0,0,0.04);
+  border-radius: 4px;
+  border: 1px dashed rgba(0,0,0,0.1);
+  text-align: center;
+  padding: 128px 0;
+  margin: 0 0 24px 0;
 }
 
 #yesQueryPrompt {
   display: none;
+  margin-bottom: 24px;
 }
 
 
@@ -277,4 +283,30 @@ iframe {
     color: inherit;
     text-decoration: underline;
   }
+}
+
+
+// SEARCH container styling
+
+.search-ui-wrapper {
+  overflow: hidden;
+  width: auto;
+}
+
+@media screen and (max-width: $breakpoint--desktop) {
+  .search-filters-container {
+    padding-top: 16px;
+  }
+}
+
+@media screen and (min-width: $breakpoint--desktop) {
+    .search-results-container {
+      float: right; // desktop only
+      width: 70%;
+    }
+
+    .search-filters-container {
+      float: left; // desktop only
+      width: 25%;
+    }
 }

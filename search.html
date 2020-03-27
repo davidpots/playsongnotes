@@ -94,85 +94,86 @@ $(document).ready(function(){
 
 
 
-<div style="text-align: center;">
-  <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
+<div style="text-align: center; margin-top: 16px;">
+  <form action="/search/" method="get" style="width: 100%; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
-      <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
+      <input style="float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
       <input type="submit" value="Search" id="search-button" style="float: left; width: 20%; max-width: 120px;">
     </div>
   </form>
 </div>
 
-<div id="noQueryPrompt"></div>
+
 <p id="yesQueryPrompt"><span id="numResultsFound"></span> results found for <span id="searchQuery"></span></p>
+<!-- <p class="strong hide-on-desktop"><a href="#search-filters">Filter by category...</a></p> -->
 
 <!-- <p>I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below.</p> -->
 
 
 
-<div class="row">
-  <div class="col col-9">
-    <div>
-      <ul id="search-results" class="song-listing-wrapper"></ul>
+    <div class="search-ui-wrapper">
+
+        <div class="search-results-container">
+          <div id="noQueryPrompt">🔍 Search by artist, song, or lesson number</div>
+          <ul id="search-results" class="song-listing-wrapper"></ul>
+        </div>
+
+        <div id="search-filters" class="search-filters-container">
+          <h4 class="mtn mbs">Browse by category</h4>
+          <ul>
+            <li><a href="?query=Full Song Lesson">Full Song Lesson</a></li>
+            <li><a href="?query=Play-Along Cover">Play-Along Covers</a></li>
+            <li><a href="?query=Warm Up Exercise">Warm Up Exercises</a></li>
+            <li><a href="?query=Tips & Techniques">Tips & Techniques</a></li>
+          </ul>
+          <h4 class="mbs">Browse by song decade</h4>
+          <ul>
+            <li><a href="?query=2000s">2000s</a></li>
+            <li><a href="?query=1990s">1990s</a></li>
+            <li><a href="?query=1980s">1980s</a></li>
+            <li><a href="?query=1970s">1970s</a></li>
+            <li><a href="?query=1960s">1960s</a></li>
+            <li><a href="?query=1950s">1950s</a></li>
+          </ul>
+          <h4 class="mbs">Browse by genre</h4>
+          <ul>
+            <li><a href="?query=Classic Rock">Classic Rock</a></li>
+            <li><a href="?query=Country">Country</a></li>
+            <li><a href="?query=Rock">Rock</a></li>
+            <li><a href="?query=Pop">Pop</a></li>
+            <li><a href="?query=Holiday">Holiday</a></li>
+          </ul>
+          <h4 class="mbs">Browse by technique</h4>
+          <ul>
+            <li><a href="?query=Learning Chords">Learning Chords</a></li>
+            <li><a href="?query=Strumming">Strumming</a></li>
+            <li><a href="?query=Fingerstyle">Fingerstyle</a></li>
+            <li><a href="?query=Travis Picking">Travis Picking</a></li>
+          </ul>
+          <h4 class="mbs">Browse by musical key</h4>
+          <ul>
+            <li><a href="?query=Key of C">Key of C</a></li>
+            <li><a href="?query=Key of D">Key of D</a></li>
+            <li><a href="?query=Key of E">Key of E</a></li>
+            <li><a href="?query=Key of F">Key of F</a></li>
+            <li><a href="?query=Key of G">Key of G</a></li>
+            <li><a href="?query=Key of A">Key of A</a></li>
+          </ul>
+          <h4 class="mbs">Browse by popular artist</h4>
+          <ul>
+            <li><a href="?query=Johnny Cash">Johnny Cash</a></li>
+            <li><a href="?query=Tyler Childers">Tyler Childers</a></li>
+            <li><a href="?query=Tom Petty">Tom Petty</a></li>
+            <li><a href="?query=Neil Young">Neil Young</a></li>
+            <li><a href="?query=Nirvana">Nirvana</a></li>
+            <li><a href="?query=Lynyrd Skynyrd">Lynyrd Skynyrd</a></li>
+            <li><a href="?query=Willie Nelson">Willie Nelson</a></li>
+            <li><a href="?query=John Denver">John Denver</a></li>
+            <li><a href="?query=Guns N' Roses">Guns N' Roses</a></li>
+          </ul>
+        </div>
+
     </div>
-  </div>
-  <div class="col col-3">
-    <div style="">
-      <h4>Browse by category</h4>
-      <ul>
-        <li><a href="?query=Full Song Lesson">Full Song Lesson</a></li>
-        <li><a href="?query=Play-Along Cover">Play-Along Covers</a></li>
-        <li><a href="?query=Warm Up Exercise">Warm Up Exercises</a></li>
-        <li><a href="?query=Tips & Techniques">Tips & Techniques</a></li>
-      </ul>
-      <h4>Browse by song decade</h4>
-      <ul>
-        <li><a href="?query=2000s">2000s</a></li>
-        <li><a href="?query=1990s">1990s</a></li>
-        <li><a href="?query=1980s">1980s</a></li>
-        <li><a href="?query=1970s">1970s</a></li>
-        <li><a href="?query=1960s">1960s</a></li>
-        <li><a href="?query=1950s">1950s</a></li>
-      </ul>
-      <h4>Browse by genre</h4>
-      <ul>
-        <li><a href="?query=Classic Rock">Classic Rock</a></li>
-        <li><a href="?query=Country">Country</a></li>
-        <li><a href="?query=Rock">Rock</a></li>
-        <li><a href="?query=Pop">Pop</a></li>
-        <li><a href="?query=Holiday">Holiday</a></li>
-      </ul>
-      <h4>Browse by technique</h4>
-      <ul>
-        <li><a href="?query=Learning Chords">Learning Chords</a></li>
-        <li><a href="?query=Strumming">Strumming</a></li>
-        <li><a href="?query=Fingerstyle">Fingerstyle</a></li>
-        <li><a href="?query=Travis Picking">Travis Picking</a></li>
-      </ul>
-      <h4>Browse by musical key</h4>
-      <ul>
-        <li><a href="?query=Key of C">Key of C</a></li>
-        <li><a href="?query=Key of D">Key of D</a></li>
-        <li><a href="?query=Key of E">Key of E</a></li>
-        <li><a href="?query=Key of F">Key of F</a></li>
-        <li><a href="?query=Key of G">Key of G</a></li>
-        <li><a href="?query=Key of A">Key of A</a></li>
-      </ul>
-      <h4>Browse by popular artist</h4>
-      <ul>
-        <li><a href="?query=Johnny Cash">Johnny Cash</a></li>
-        <li><a href="?query=Tyler Childers">Tyler Childers</a></li>
-        <li><a href="?query=Tom Petty">Tom Petty</a></li>
-        <li><a href="?query=Neil Young">Neil Young</a></li>
-        <li><a href="?query=Nirvana">Nirvana</a></li>
-        <li><a href="?query=Lynyrd Skynyrd">Lynyrd Skynyrd</a></li>
-        <li><a href="?query=Willie Nelson">Willie Nelson</a></li>
-        <li><a href="?query=John Denver">John Denver</a></li>
-        <li><a href="?query=Guns N' Roses">Guns N' Roses</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
 
 
 

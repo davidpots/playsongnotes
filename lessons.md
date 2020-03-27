@@ -83,6 +83,6 @@ $(document).ready(function(){
 
 
 ## List of all lessons
-I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below.
+I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below. You can also [browse by category](/search) if you're looking for something specific!
 
 <ul id="search-results" class="song-listing-wrapper"></ul>

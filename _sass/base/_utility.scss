@@ -28,6 +28,14 @@
         .half-width { width: 50% }
         .full-width { width: 100% }
 
+        @media screen and (min-width: $breakpoint--desktop) {
+          .hide-on-desktop { display: none; }
+        }
+        @media screen and (max-width: $breakpoint--desktop) {
+          .hide-on-mobile { display: none; }
+        }
+
+
 // Lists
 
         .list-plain {
