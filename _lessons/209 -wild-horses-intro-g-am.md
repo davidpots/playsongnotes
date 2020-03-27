@@ -5,7 +5,7 @@ slug: "209"
 date: 2019-01-24
 category: practice_log
 tags: [Practice Log, Key of G, Classic Rock, 1970s, Licks & Fills]
-hidden_tags: [Rolling Stones]
+hidden_tags: [The Rolling Stones]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24194426
 redirect_from:
