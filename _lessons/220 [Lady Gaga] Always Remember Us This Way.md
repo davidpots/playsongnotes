@@ -3,7 +3,7 @@ layout: song
 
 title: '"Always Remember Us This Way" by Lady Gaga'
 song_title:  Always Remember Us This Way
-artist: Lady Gaga
+artist: A Star is Born
 year: 2018
 category: full_song
 yt_video_id: _________

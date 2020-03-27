@@ -3,7 +3,7 @@ layout: song
 
 title: '"Shallow" by Lady Gaga & Bradley Cooper'
 song_title:  Shallow
-artist: Lady Gaga & Bradley Cooper
+artist: A Star is Born
 year: 2018
 category: full_song
 yt_video_id: _________

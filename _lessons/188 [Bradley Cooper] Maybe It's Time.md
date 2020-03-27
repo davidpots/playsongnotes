@@ -3,7 +3,7 @@ layout: song
 
 title: '"Maybe It''s Time" from A Star is Born'
 song_title:  Maybe It's Time
-artist: Bradley Cooper
+artist: A Star is Born
 year: 2018
 category: full_song
 yt_video_id: _________
