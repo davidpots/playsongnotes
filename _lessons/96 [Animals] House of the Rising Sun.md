@@ -12,7 +12,7 @@ redirect_from:
   - /songs/animals-house-of-the-rising-sun/
   - /lessons/293
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22744103
+patreon_lesson_url: https://www.patreon.com/posts/35467639
 ---
 
 ## Video lesson
