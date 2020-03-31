@@ -10,11 +10,18 @@ tags: [Full Song Lesson, 1960s, Classic Rock, Key of Am]
 slug: "96"
 redirect_from:
   - /songs/animals-house-of-the-rising-sun/
+  - /lessons/293
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
 
 ## Video lesson
+
+### Easy fingerstyle version (lesson #293)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KibnZCT6oYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Strumming version (lesson #96)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjNnsAY-ijc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -118,8 +125,8 @@ If you want to roughly mimic the guitar sound of The Animals, you'll want to plu
     E –––––––0–––––  –––––––0–––––  –––––––2–––––  –––––––1–––––  –––––––0–––––  <= right ring
     B –––––1–––1–––  –––––1–––1–––  –––––3–––3–––  –––––1–––1–––  –––––0–––0–––  <= right middle
     G –––2–––––––2–  –––0–––––––0–  –––2–––––––2–  –––2–––––––2–  –––1–––––––1–  <= right index
-    D –––––––––––––  –––––––––––––  –0–––––––––––  –3–––––––––––  –––––––––––––
-    A –0–––––––––––  –3–––––––––––  –––––––––––––  –––––––––––––  –––––––––––––
+    D –––––––––––––  –––––––––––––  –0–––––––––––  –3–––––––––––  –––––––––––––  <= right thumb
+    A –0–––––––––––  –3–––––––––––  –––––––––––––  –––––––––––––  –––––––––––––  <= right thumb
     E –––––––––––––  –––––––––––––  –––––––––––––  –––––––––––––  –0–––––––––––  <= right thumb
        Am             C              D              F              E           
 
