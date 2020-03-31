@@ -10,10 +10,11 @@ slug: "293"
 date: 2020-03-31
 redirect_to:
   - /lessons/96
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/35467639
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35143105 -->
+
 
 ## Video lesson
 
