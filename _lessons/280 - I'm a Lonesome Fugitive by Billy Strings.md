@@ -29,101 +29,95 @@ And here's an amazing [lesson by Marcel](https://lessonswithmarcel.com/2019/08/2
 
 ## Lyrics w/ chords
 
-CHORUS
-         G              C                   D
-    I'd like to settle down but they won't let me
-       C                           D        (walk down)
-    A fugitive must be a rolling stone
-         G                  C                D
-    Down every road there's always one more city
-        C                D             G
-    I'm on the run, the highway is my home
+    INTRO (played with lead riff)
+      
+          | G   | C   | D   | D   |
+          | C   | D   | G   | G   |
 
-VERSE
-                     X               X                X                       
-            Well, I raised a lot of Cain back in my younger days
-                     X                                    X     (walk down)         
-            While my Mama used to pray those crops would fail
-                X                  X                X                 
-            Now I'm... a lonesome fugitive... with just two ways
-                X                               X     (cool riff to end verse)                         
-            Outrun the law or spend my life in jail
+    CHORUS
+                     G              C                   D
+                I'd like to settle down but they won't let me
+                   C                           D        (walk down)
+                A fugitive must be a rolling stone
+                     G                  C                D
+                Down every road there's always one more city
+                    C                D             G
+                I'm on the run, the highway is my home
 
-         X              X                   X                    
-    I'd like to settle down but they won't let me
-       X                           X        (w/d)
-    A fugitive must be a rolling stone
-         X                  X                X               
-    Down every road there's always one more city
-        X                X             C        G          (cool riff to end verse)
-    I'm on the run, the highway is my home
+    VERSE
+                 G              C               D              D
+        Well, I raised a lot of Cain back in my younger days
+                 C            C                      D     (walk down)         
+        While my Mama used to pray those crops would fail
+            G                  C                D              D  
+        Now I'm... a lonesome fugitive... with just two ways
+            C             C                 D       D  (cool riff to end verse)                         
+        Outrun the law or spend my life in jail
 
-    [ instrumental verse ]
+                I'd [G] like to settle [C] down but they won't [D] let me   [D]
+                A [C] fugitive must [C] be a rolling [D] stone [D]
+                Down [G] every road there's [C] always one more [D] city [D]
+                I'm [C] on the run, the [D] highway, it's my [C] home [G]
 
-                 X                   X                             X     
-            I'd like... to take you with me, but can't afford the luxury
-                X                          X        (walk down)                      
-            Of having one I love to come along
-                        X                x                   X                
-            Lord, you'd only... slow me down... they'd catch up with me
-                X                             D                           
-            For he who travels fastest goes alone
+    INSTRUMENTAL BREAK (played 2x, with solo)
+          | G   | C   | D   | D   |
+          | C   | D   | G   | G   |
 
-         X              X                   X                    
-    I'd like to settle down but they won't let me
-       X                           X        (w/d)
-    A fugitive must be a rolling stone
-         X                  X                X               
-    Down every road there's always one more city
-        X                X             G           (cool riff to end verse)
-    I'm on the run, the highway is my home
+             G                   C                             D        D
+        I'd like... to take you with me, but can't afford the luxury
+            C           C                 D      D   (walk down)                      
+        Of having one I love... to come along
+                    G                C                   D            D    
+        Lord, you'd only... slow me down... they'd catch up with me
+            C              C              D            D                
+        For he who travels fastest goes alone
 
-    [ instrumental verse x3 ]
+                I'd [G] like to settle [C] down but they won't [D] let me   [D]
+                A [C] fugitive must [C] be a rolling [D] stone [D]
+                Down [G] every road there's [C] always one more [D] city [D]
+                I'm [C] on the run, the [D] highway, it's my [G] home [G]
 
-         X              X                   X                    
-    I'd like to settle down but they won't let me
-       X                           X        (w/d)
-    A fugitive must be a rolling stone
-         X                  X                X               
-    Down every road there's always one more city
-        X                X             G
-    I'm on the run, the highway is my home
-            X                X                    G
-    Oh, I'm on the run, the highway it's my home
+    INSTRUMENTAL BREAK (played multiple times, with solos)
+          | G   | C   | D   | D   |
+          | C   | D   | G   | G   |
 
+    FINAL CHORUS
+                [ Played quieter... ]
+                I'd [G] like to settle [C] down but they won't [D] let me   [D]
+                A [C] fugitive must [C] be a rolling [D] stone [D]
+                
+                [ Played at normal volume... ]
+                Down [G] every road there's [C] always one more [D] city [D]
+                I'm [C] on the run, the [D] highway, it's my [G] home [G]
+                
+                [ Played quieter, let chords ring ]
+                I'm [C] on the run, the [D] highway, it's my [G] home [G]
 
-INTRO
-G C D D
-C D G G
+## Chord progressions
 
-I'd like to settle down
-G C D D
-C C D D
-G C D D
-C D G G
+### Intro & instrumental breaks
 
-        raised lot
-        G C D D
-        C C D D
-        G C D D
-        C C D D
+During the instrumental breaks (played with solos), they repeat this same progression many times.
 
-I'd like to settle down
-G C D D
-C C D D
-G C D D
-C D C G
+    G C D D
+    C D G G
 
-                inst (play twice)
-                G C D D
-                C D G G
+### Chorus:
 
-        I'd like to take you with me
-        G C D D
-        C C D D
-        G C D D
-        C C D D
+Note, only in the 2nd chorus, the second-to-last chord is a "C" before resolving to the final "G".
 
-                inst
-                G C D D
-                C D G G
+    "I'd like to settle down but they won't let me..."
+
+    G C D D
+    C C D D
+    G C D D
+    C D G G
+
+### Verse
+
+    "Well, I raised a lot of Cain back in my younger days..."
+    
+    G C D D
+    C C D D
+    G C D D
+    C C D D
