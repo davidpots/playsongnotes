@@ -4,15 +4,13 @@ title: '"Hello in There" (intro riff) by John Prine'
 song_title: "Hello in There"
 artist: John Prine
 year: 1971
-tags: [Full Song Lesson, 1970s, Fingerstyle, Travis Picking, Country]
+tags: [Full Song Lesson, Warm Up Exercise, Key of Gs, 1970s, Fingerstyle, Travis Picking, Country]
 category: full_song
 slug: "295"
 date: 2020-04-05
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/35915445
 ---
-
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35467639 -->
 
 ## Video lesson
 
@@ -24,7 +22,7 @@ patreon_lesson_url: https://www.patreon.com/posts/35467639 -->
 
 ## Editor's notes
 
-Hey friends! Here's a lesson showing you how to fingerpick the intro to "Hello In There" by John Prine, as hear on his fantastic self-titled debut album from 1971. This tutorial will get deep into the travis picking technique that Prine uses in this song, which is defined by the right thumb playing alternating strings (bass notes) while the right index & middle fingers play the melody notes independently. This fingerstyle technique can be tricky to learn, but as with all my lessons -- I'll break things down step by step for you, guiding you along the way. And of course, my PDF chord sheet will give you the tabs, explanations, and diagrams you'll need to learn the necessary skills.
+Hey friends! Here's a lesson showing you how to fingerpick the intro to "Hello In There" by John Prine, as heard on his fantastic self-titled debut album from 1971. This tutorial will get deep into the travis picking technique that Prine uses in this song, which is defined by the right thumb playing alternating strings (bass notes) while the right index & middle fingers play the melody notes independently. This fingerstyle technique can be tricky to learn, but as with all my lessons -- I'll break things down step by step for you, guiding you along the way. And of course, my PDF chord sheet will give you the tabs, explanations, and diagrams you'll need to learn the necessary skills.
 
 Here's the timestamps for this video, jump ahead if you know what you're looking for:
 
@@ -35,6 +33,12 @@ Here's the timestamps for this video, jump ahead if you know what you're looking
 - 9:33 Travis picking: adding the melody notes
 - 15:44 Full intro playthrough with tab
 - 17:12 Farewell & parting advice
+
+And be sure to check out my other John Prine lessons if you're a fan of his music!
+
+- Clay Pigeons (full song lesson) - http://playsongnotes.com/lessons/294/
+- My Old Kentucky Home, Goodnight - http://playsongnotes.com/lessons/238/
+- Travis Picking basics (using Clay Pigeons) - http://playsongnotes.com/lessons/173/
 
 ## Intro tab
 
