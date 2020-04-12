@@ -15,6 +15,13 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
 
+  <!-- <meta property="og:url"         content="http://www.playsongnotes.com" />
+  <meta property="og:type"        content="website" /> -->
+  <meta property="og:title"       content={% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} />
+  <!-- <meta property="og:description" content="Easy-to-follow guitar lessons & PDF chord-sheets. Made with care by David Pots." /> -->
+  <meta property="og:image"       content="http://playsongnotes.com/images/brand/Song%20Notes%20Cover%20Image%20-%20wide.png?raw=true" />
+
+
 
   {% include google-analytics.html %}
   <!-- {% if jekyll.environment == 'production' and site.google_analytics %} -->
