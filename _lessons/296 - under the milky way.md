@@ -4,7 +4,7 @@ title: '"Under the Milky Way" by The Church'
 song_title: "Under the Milky Way"
 artist: The Church
 year: 1988
-tags: [Full Song Lesson, Key of C, 1980s, Rock]
+tags: [Full Song Lesson, Key of C, 1980s, Rock, Movie Songs]
 category: full_song
 slug: "296"
 date: 2020-04-05
@@ -15,19 +15,32 @@ patreon_lesson_url: https://www.patreon.com/posts/35915445 -->
 
 ## Video lesson
 
-Coming soon...
+<!-- Coming soon... -->
 
-
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/mGY1X2t4KZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/apK0ORMWbzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
-Coming soon...
+Hey friends! In this lesson I'll teach you how to play the 1988 song "Under the Milky Way" by The Church. The song combines slight hints of late 80s New Wave / alt rock sounds, along with multiple acoustic guitars (one of which is a 12-string). I'll focus my tutorial on a solo acoustic version, played without capo, that best captures the combined sound of everything you hear on the album version. Chord-wise, things are fairly straightforward: A-minor and a few variations, Fmaj7 (easy!), G, and E-minor make up the bulk of what you'll be playing. Strumming can be tricky, but I'll break it down carefully and show a simplified version if you want something more accessible. Finally, at the end of the lesson I'll do a full playthrough to show you how to put it all together.
+
+Here's timestamps for my video lesson:
+
+- 0:00 Lesson overview
+- 2:55 Intro chords
+- 8:19 Intro strumming
+- 10:18 Verse chords & strumming
+- 13:11 Simplified strumming pattern
+- 14:19 Chorus & refrain
+- 15:45 Misc tips & advice
+- 18:07 Full playthrough
+
+Thanks to Patreon supporter Mark for requesting this one! This tune was a favorite of mine in college, when many of my roommates and I would watch Donnie Darko over and over again – which features a soundtrack with this and many other 1980 songs ([here's the scene](https://www.youtube.com/watch?v=lgoHQfZoLB8) with this song being used).
 
 ## Lyrics with chords
+
+No capo. Key of C (or, A-minor which has the same notes). Tempo = ~136 bpm.
 
     INTRO
 
@@ -35,19 +48,21 @@ Coming soon...
 
     VERSE
 
-        Am                   Am7                Fmaj7   G
+        Am                   Am4                Fmaj7   G
         ...Sometimes on this place gets kind of empty
-        Am              Am7                   Fmaj7   G
+        Am              Am4                   Fmaj7   G
         ...Sound of the breath fades with the light
-        Am          Am7          Fmaj7         G
+        Am          Am4          Fmaj7         G
         ...I think about... the loveless fascination
-        Am           Am7          Fmaj7   G
+        Am           Am4          Fmaj7   G
         ...Under the Milky Way tonight
+        
+        [Full band kicks in with bass... verse chords change slightly]
 
-        [Am] Lower the [Am7] curtain down in [Fmaj7] Memphis [Em]
-        [Am] Lower the [Am7] curtain down, alright [Fmaj7] [Em]
-        [Am] I got no [Am7] time... for [Fmaj7] private consultation [Em]
-        [Am] Under the [Am7] Milky Way [Fmaj7] tonight [Em]
+        [Am] Lower the [Am4] curtain down in [Fmaj7] Memphis [Em]
+        [Am] Lower the [Am4] curtain down, alright [Fmaj7] [Em]
+        [Am] I got no [Am4] time... for [Fmaj7] private consultation [Em]
+        [Am] Under the [Am4] Milky Way [Fmaj7] tonight [Em]
 
     CHORUS
             G                            Fmaj7
@@ -55,10 +70,10 @@ Coming soon...
             G                                  Fmaj7
             ...Might have known what you would find
 
-        [Am] And its [Am7] something quite peculiar [Fmaj7] [Em]
-        [Am] Something [Am7] shimmering and [Fmaj7] white [Em]
-        [Am] It leaves you [Am7] here... [Fmaj7] despite your destination [Em]
-        [Am] Under the [Am7] Milky Way [Fmaj7] tonight [Em]
+        [Am] And its [Am4] something quite peculiar [Fmaj7] [Em]
+        [Am] Something [Am4] shimmering and [Fmaj7] white [Em]
+        [Am] It leaves you [Am4] here... [Fmaj7] despite your destination [Em]
+        [Am] Under the [Am4] Milky Way [Fmaj7] tonight [Em]
 
             [G] Wish I knew what you were [Fmaj7] looking for
             [G] Might have known what you would [Fmaj7] find
@@ -68,10 +83,10 @@ Coming soon...
     SOLO
                 | C . . . | G . . . | Am . . . | Am . . . | (x4)
 
-        [Am] And its [Am7] something quite peculiar [Fmaj7] [Em]
-        [Am] Something [Am7] shimmering and [Fmaj7] white [Em]
-        [Am] It leaves you [Am7] here... [Fmaj7] despite your destination [Em]
-        [Am] Under the [Am7] Milky Way [Fmaj7] tonight [Em]
+        [Am] And its [Am4] something quite peculiar [Fmaj7] [Em]
+        [Am] Something [Am4] shimmering and [Fmaj7] white [Em]
+        [Am] It leaves you [Am4] here... [Fmaj7] despite your destination [Em]
+        [Am] Under the [Am4] Milky Way [Fmaj7] tonight [Em]
 
             [G] Wish I knew what you were [Fmaj7] looking for
             [G] Might have known what you would [Fmaj7] find
@@ -80,39 +95,53 @@ Coming soon...
 
         [Am - Am7 - Fmaj7 - Em  x2]
 
-        [Am] Under the [Am7] Milky Way [Fmaj7] tonight [Em]
+        [Am] Under the [Am4] Milky Way [Fmaj7] tonight [Em]
+
                                 [...play this final line 4x, end]
 
-## Chord shapes used
+## Intro chords
 
-Here's the chord shapes you'll need if you're playing without a capo (which is what I do in my video lesson). As I note below, I'll use the Am7 and A-minor sus4 interchangeably in this song. The sus4 variant is technically what the non-capo'd guitarist is playing, but I find the Am7 to capture the sound that the capo-5 guitarist is playing -- which you can hear on the album. Again, the choice is yours as to which of these two chords you use. During the verse I sometimes use the sus4 variant, while in the intro I like the Am7. Also, for the Fmaj7 note it sounds fine if you include the open 5th string (A) -- I consider this optional.
+Getting right to the point, here's 3 ways to play the intro chords. There are actually multiple guitars heard on the album version: one without a capo (playing "option 2" below), and the other capo 5th fret. I'm including "option 1", which has an Am7 chord, because this Am7 captures the "sound" of the "Capo 5" Em7 chord. I prefer to play the "option 1" variation for the intro, as it best captures the sound of the recorded version's intro. See my video lesson for reference!
 
-    e –––0–––  ––3–––––––––  –––0––––3––––3––––0–––
-    B –––1–––  ––1–––––3–––  –––1––––0––––0––––1–––
-    G –––2–––  ––2–––––2–––  –––2––––0––––0––––0–––
-    D –––2–––  ––2–––––2–––  –––3––––0––––2––––2–––
-    A –––0–––  ––0–––––0–––  ––(0)–––2––––2––––3–––
-    E –––––––  ––––––––––––  ––––––––3––––0––––––––
-         Am     Am7 Amsus4    Fmaj7  G    Em   C
+     No capo (option 1):         No capo (option 2):            Capo 5:                     
+                                                                                                
+    e –––0––––3––––0––––3–––     e ––0––––0–––––––0––––3–––     e –––0––––0––––0–––(2)––
+    B –––1––––1––––1––––0–––     B ––1––––3–––––––1––––0–––     B –––0––––3––––0––––3–––
+    G –––2––––2––––2––––0–––     G ––2––––2–––––––2––––0–––     G –––0––––0––––0––––2–––
+    D –––2––––2––––3––––0–––     D ––2––––2–––––––3––––0–––     D –––2––––2––––2––––0–––
+    A –––0––––0–––(0)–––2–––     A ––0––––0––––––(0)–––2–––     A –––2––––2––––3––––––––
+    E ––––––––––––––––––3–––     E ––––––––––––––––––––3–––     E –––0––––0–––––––––––––
+         Am  Am7 Fmaj7  G            Am Amsus4  Fmaj7  G             Em  Em7 Cmaj7  D   
 
-### About the A-minor 7 vs. A-minor sus4 chord
+## Strumming the intro & first verse
 
-Heads up, where I show an Am7 in the verse you can instead play an A-minor sus4. I'm sure many would say the sus4 is the "correct" way to play the A-minor, as even the guitarist states that's how he plays it in interviews, etc. But...
+    Am            Am7                 Fmaj7         G
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D   D U D U   U D   D U D U   D   D   D U D U   U D   D U D U
 
-In reality, there's also a guitar with capo 5th fret in the recording of this song (playing the chords of Em-Em7-Cmaj7-D). And on that Em7 chord, the 3rd fret of the B string can clearly be heard on the recording -- and in my opinion, is vital to the sound of the intro strumming especially. Accordingly, I prefer the Am7 because that 3rd fret of the high-E string captures the sound that this would-be second guitar plays. Ultimately, it's up to you whether you use Am7 or Am-sus4. I even tend to favor the sus4 variant during the verses. Just calling this out so you're informed and can make the decision that works best for you.
+## Chords for the verse
 
-### About the F# bass note...
+The first verse uses the same chords as the intro. Once the second verse starts (and the full band kicks in, specifically with the bass) -- there's a few changes. For one, the final chord "G" becomes an "E-minor". Also, the second chord is played over an F# bass note -- which is incredibly hard to pull off via solo guitar, but I wanted to include here. Personally, I use the Amsus4 version ("option 1" above) when singing the verse, as that chord goes well with the vocal melody.
 
-Also, while I don't show it in the lesson -- there is an F# note (2nd fret of low E string) that's played as the bass note of the Am7 (or Amsus4) in the second verse onward -- i.e., when the bass kicks in. This is a non-conventional bass note to be played under an A-minor chord, which adds quite a bit of distinction to the sound of this song. I find this very difficult and non-practical to play in a solo acoustic rendition. But, if you want to attempt it -- wrap your left thumb around the neck of the guitar to add a bass note to to that chord.
+    Easy verse chords:             Harder version, with descending bass notes:
+  
+    e ––0––––––0––––––0––––0–––    e ––0––––––0––––––0––––0–––
+    B ––1––––––3––––––1––––0–––    B ––1––––––3––––––1––––0–––
+    G ––2––––––2––––––2––––0–––    G ––2––––––2––––––2––––0–––
+    D ––2––––––2––––––3––––2–––    D ––2––––––2––––––3––––2–––
+    A ––0––––––0–––––(0)–––2–––    A ––0––––––x––––––x––––2–––
+    E –––––––––––––––––––––0–––    E –––––––––2––––––1––––0–––
+        Am  Amsus4  Fmaj7  Em          Am  Amsus4  Fmaj7  Em  
 
-## Strumming pattern
+## Strumming for the verse
 
-The main pattern used throughout this song is as follows. Note it is a 2-measure pattern (i.e., requiring 8 beats to play the full sequence, then it is repeated). This is the pattern I use in the "Chord Progression" section later in this document.
+    Am            Amsus4              Fmaj7         Em
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D   D   D U D U   U D   D U D U   D   D   D U D U   U D   D U D U
 
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    D   D   D U D U   U D   D U D U
+## A simpler strumming pattern...
 
-If you want something simpler, just use this more straightforward pattern.
+If you want something simpler to use while playing this song (intro, verse, etc)... just use this more straightforward pattern. Keep all chord changes on the "1" count. This avoids complicated rhythms & chord changes will make it much tougher to sing & play at the same time.
 
     1 + 2 + 3 + 4 +
     D   D   D U D U
@@ -125,7 +154,7 @@ Intro & verse:
     
 Verse, after bass kicks in (2nd verse onward):
 
-    | Am    | Am7   | Fmaj7   | Em     |
+    | Am    | Am4   | Fmaj7   | Em     |
     
 Chorus:
 
@@ -135,27 +164,23 @@ Refrain:
 
     | C     | G     | Am      | Am     |
 
-## Chord progression with strumming
+## Chorus and refrain
 
-Here's the chord progression mapped against the strumming, which lyrics for reference. Note how the chord 2nd and 4th chord changes happen on the "up" strum just before the "1" count. This can tricky to master at first.
-
-### Intro & first verse
-
-    "Sometimes... place...            empty..."
-    Am            Am7                 Fmaj7         G
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    D   D   D U D U   U D   D U D U   D   D   D U D U   U D   D U D U
+### Chord shapes
     
-### Second verse onward
+    Chorus:              Refrain:
 
-The Am7 has a F# bass note (2nd fret of low E string). By no means required, but including it here in case you're interested. You can play this by wrapping your left thumb on the 2nd fret of the low E string -- which is tricky, and honestly I don't bother.
-
-    "Lower the    curtain down in     Memphis..."
-    Am            Am7*                Fmaj7         Em
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    D   D   D U D U   U D   D U D U   D   D   D U D U   U D   D U D U
+    e –––3–––––0––––     –––0–––3–––0–––
+    B –––0–––––1––––     –––1–––0–––1–––
+    G –––0–––––2––––     –––0–––0–––2–––
+    D –––0–––––3––––     –––2–––0–––2–––
+    A –––2––––(0)–––     –––3–––2–––0–––
+    E –––3––––––––––     –––––––3–––––––
+         G   Fmaj7          C   G   Am        
 
 ### Chorus
+
+Play this twice.
 
     "Wish I knew what you were        looking for..."
     G                                 Fmaj7
@@ -163,6 +188,8 @@ The Am7 has a F# bass note (2nd fret of low E string). By no means required, but
     D   D   D U D U   U D   D U D U   D   D   D U D U   U D   D U D U
 
 ### Refrain
+
+Play this 4 times.
 
     C             G                   Am
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
