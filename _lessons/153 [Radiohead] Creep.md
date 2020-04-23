@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "153"
 redirect_from:
   - /songs/radiohead-creep/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/pdf-creep-by-153-30194939
 ---
 
 ## Video lesson
