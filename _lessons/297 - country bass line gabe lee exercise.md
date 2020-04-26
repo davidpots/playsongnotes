@@ -5,10 +5,11 @@ category: warmup
 slug: "297"
 date: 2020-04-26
 tags: [Warm Up Exercise, Key of D, Country, Walking Bass Lines]
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/36417027
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/34901234 -->
+
 
 ## Video lesson
 
