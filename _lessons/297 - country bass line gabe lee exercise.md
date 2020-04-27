@@ -9,8 +9,6 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36417027
 ---
 
-
-
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k23LvhhilmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

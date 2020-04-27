@@ -13,7 +13,7 @@ redirect_from:
   - /songs/neil-young-my-my-hey-hey/
 
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/20913460
+patreon_lesson_url: https://www.patreon.com/posts/36440222
 ---
 
 ## Video lesson
@@ -31,10 +31,11 @@ patreon_lesson_url: https://www.patreon.com/posts/20913460
         E ||–––––––0–0–––––––––––3–3–3–––––––––––0–0–––0–0–0–0–––0–0–––––0–0–0––
         B ||–––––––1–1–––––––––––0–0–0–––––––––––1–1–––1–1–1–1–––1–1–––––1–1–1––
         G ||–––––––2–2–––––––––––0–0–0–––––––––––2–2–––2–2–2–2–––2–2–––––2–2–2––
-        D ||–––––––2–2–––––––0–––0–0–0–––––––––––3–3–––3–3–3–3–––3–3–––––3–3–3––
+        D ||–––––––2–2–––––––0–––0–0–0–––––––––––3–3–––3–3–3–3–––3–3–––––3–3–3––  x4
         A ||–––0–––––––0–2–3–––––––––––2–0–––0––––––––––––––––––––––––––––––––––
         E ||––––––––––––––––––(3)––––––––––3––––––––––––––––––––––––––––––––––––
-    		       Am              G               Fmaj7
+               Am              G               Fmaj7
+               1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
     VERSE
         Am    G       Fmaj7
@@ -46,24 +47,40 @@ patreon_lesson_url: https://www.patreon.com/posts/20913460
         Am    G       Fmaj7
         ...My my, hey hey
 
-          (repeat intro riff)
+            [ play intro riff 1x ]
 
-          (use same chords for all verses below)
+        Am              G                Fmaj7
+        ...Out of the blue, and into the black
+        Am                G                    Fmaj7
+        ...They give you this, but you pay for that
+        C                  Em7          Am         Fmaj7
+        ...And once you're gone you can never come   back
+                    Am              G               Fmaj7
+        When you're... out of the blue and into the black
+        
+            [ instrumental verse 1x, using intro riff & harmonica ]
 
-        Out of the blue and into the black
-        They give you this, but you pay for that
-        And once you're gone you can never come back
-        When you're out of the blue and into the black
+        Am             G                     Fmaj7
+        ...The king is gone, but he's not forgotten
+        Am             G                 Fmaj7
+        ...This is the story of a Johnny Rotten
+        C                 Em7      Am               Fmaj7
+        ...It's better to burn out... than it is to rust
+        Am              G                    Fmaj7
+        ...The king is gone, but he's not forgotten
+        
+            [ play intro riff 1x ]
 
-        The king is gone, but he's not forgotten
-        This is the story of a Johnny Rotten
-        It's better to burn out than it is to rust
-        The king is gone, but he's not forgotten
-
-        Hey hey, my my
-        Rock and roll can never die
-        There's more to the picture than meets the eye
-        Hey hey, my my
+        Am     G       Fmaj7
+        ...Hey hey, my my
+        Am          G              Fmaj7
+        ...Rock and roll can never die
+        C                      Em7     Am                Fmaj7
+        ...There's more to the picture... than meets the eye
+        Am     G       Fmaj7
+        ...Hey hey, my my
+        
+            [ instrumental verse 1x, using intro riff & harmonica, fade to end ]
 
 ## Tune down a whole step to play with Neil's version
 
@@ -81,12 +98,12 @@ To play along with Neil Young's version (e.g., on Rust Never Sleeps) you'll need
 
 ## Strumming pattern
 
-I'm a bit torn on this -- do you copy Neil, or use your own pattern? He's so lose with his strumming, I'm hesitant to try to quantify it into a single pattern. Here's what I recommend to start with -- do with this what you will:
+I'm a bit torn on this -- do you copy Neil, or use your own pattern? He's so loose with his strumming, I'm hesitant to try to quantify it into a single pattern. Here's what I recommend to start with -- do with this what you will:
 
     1 + 2 + 3 + 4 +
     D   D   D U D U
 
-Use that for all verses and refrains, no matter what chord you're playing. For example:
+Use that for all verses and refrains –– no matter which chord you're playing. For example:
 
     Am              G               Fmaj7
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
