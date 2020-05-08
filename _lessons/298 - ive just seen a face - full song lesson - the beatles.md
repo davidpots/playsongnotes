@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"I''ve Just Seen a Face" by The Beatles'
+title: '"I''ve Just Seen a Face" by The Beatles (full song)'
 song_title: "I've Just Seen a Face"
 artist: The Beatles
 year: 1965
@@ -12,15 +12,19 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36733328
 ---
 
-
-
-
-
 ## Video lesson
 
 <!-- Coming soon... -->
 
+### Full song lesson (#298)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7e0p8lIhhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Intro riff lesson (#299)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCTBez-eWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note, the same 6-page PDF chord sheet (linked below) works for both of video lessons shown above.
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
@@ -30,7 +34,7 @@ Hey friends! Here’s my lesson for The Beatles classic “I’ve Just Seen a Fa
 
 Note, I teach the intro to this song in a separate video lesson (#299) – which should be released by May 6, 2020.
 
-Timestamps for this lesson:
+Timestamps for my full song lesson (#298):
 
 - 0:00 Lesson preview & talking
 - 1:41 Chord shapes needed
@@ -41,6 +45,16 @@ Timestamps for this lesson:
 - 10:29 Instrumental verse solo tab
 - 11:41 Intro riff, crash course
 - 13:22 Farewell
+
+Timestamps for my intro riff lesson (#299):
+
+- 0:00 Lesson overview
+- 1:50 Chord shapes & finger positions
+- 6:10 Intro chord progression
+- 8:55 Intro picking sequence, with tab
+- 10:10 Adding accents & dynamics
+- 16:57 Fingerstyle or using a pick?
+- 19:33 Farewell
 
 ## My Other Lessons for The Beatles
 
