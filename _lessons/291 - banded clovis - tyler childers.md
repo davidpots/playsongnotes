@@ -22,7 +22,7 @@ patreon_lesson_url: https://www.patreon.com/posts/35143105
 
 ## Editor's notes
 
-Hey friends! I'm proud to share this new Tyler Childers lesson for "Banded Clovis" from his 2017 album Purgatory. Tyler is maybe my favorite new country artist of the last few years, and this song in particular captures the raw, gritty, primal acoustic guitar sound that quite a few of his songs embrace. Tonally this one only uses the chords of E A B7, but the real magic (and difficulty) comes in mastering the intro riff, which plays around quite heartily with a deep melody on the thickest 3 strings, combined with strumming. I'll explain it all in my video lesson, give it a watch!
+Hello friends! I'm proud to share this new Tyler Childers lesson for "Banded Clovis" from his 2017 album Purgatory. Tyler is maybe my favorite new country artist of the last few years, and this song in particular captures the raw, gritty, primal acoustic guitar sound that quite a few of his songs embrace. Tonally this one only uses the chords of E A B7, but the real magic (and difficulty) comes in mastering the intro riff, which plays around quite heartily with a deep melody on the thickest 3 strings, combined with strumming. I'll explain it all in my video lesson, give it a watch!
 
 Timestamps of what I teach in the lesson:
 
