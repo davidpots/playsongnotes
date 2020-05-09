@@ -16,7 +16,7 @@ Hey friends - here's my lesson that breaks down the classic Beatles intro guitar
 
 Note the PDF chord sheet for this video also includes notes on playing the full song.
 
-Timestamps:
+Timestamps for this intro riff lesson:
 
 - 0:00 Lesson overview
 - 1:50 Chord shapes & finger positions

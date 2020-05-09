@@ -18,7 +18,13 @@ patreon_lesson_url: https://www.patreon.com/posts/35077534 -->
 
 ## Editor's notes
 
-Hey friends! In this video I answer a question many of you have emailed in: which guitar pick do I use? I’ll answer the question, explaining why I use the pick I’ve favored for the past 10 years or so ((Dunlop .46mm “Delrin” 41P.46, light pink)[Dunlop 41P.46 Delrin, Light Pink, .46mm, 12/Player’s Pack https://www.amazon.com/dp/B003KV7UVI/ref=cm_sw_r_cp_tai_zHFTEb5AMG998]) — and why I’ve settled on this pick after experimenting with a few similar ones over the years.
+Hey friends! In this video I answer a question many of you have emailed in: which guitar pick do I use? I’ll answer the question, explaining why I use the pick I’ve favored for the past 10 years or so ((Dunlop .46mm “Delrin” 41P.46, light pink)[https://amzn.to/3drJIKr]) — and why I’ve settled on this pick after experimenting with a few similar ones over the years.
+
+I recommend buying the pick from a local guitar store. But if that's not possible, here's a link to get it from Amazon (purchasing after clicking this link gives a few cents back to me):
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=songnotes04-20&marketplace=amazon&region=US&placement=B003KV7UVI&asins=B003KV7UVI&linkId=d369017a097e327f68a414a5934f5d79&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+## Why I like this pick
 
 The two main reasons I like the Dunlop .46mm Delrin style pick:
 
