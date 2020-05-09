@@ -10,11 +10,13 @@ date: 2020-05-08
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35077534 -->
 
-## Video lesson
+## The guitar pick I recommend...
+
+Watch a video explanation & overview of my preferred pick here!
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/DpicbUhlRcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+<!-- {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %} -->
 
 ## Editor's notes
 
@@ -28,7 +30,7 @@ I recommend buying the pick from a local guitar store. But if that's not possibl
 
 The two main reasons I like the Dunlop .46mm Delrin style pick:
 
-1. It’s flexible enough to create a softer sound on the strings, but not too flimsy as to not let you project individual strings when necessary.
+1. It’s flexible enough to create a softer sound on the strings, but not too flimsy as to prevent you from projecting individual strings when necessary. I've experimented with picks from Dunlop in both directions -- the next thinner version, and the next more stiff version... in both attempts, I felt like I was moving away from the sweet spot that the .46mm provides.
 2. It’s material has a nice “grip” on my thumb and index finger, which I find much more helpful than nylon when it comes to keeping control of the pick (and not dropping it).
 
 In the video I'll talk through all this and more, with some visual examples and guitar playing demonstrations to accompany some of the points I make. I hope you find this helpful... thanks to all of you who asked this question!
