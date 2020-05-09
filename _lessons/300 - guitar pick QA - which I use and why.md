@@ -20,7 +20,7 @@ Watch a video explanation & overview of my preferred pick here!
 
 ## Editor's notes
 
-Hey friends! In this video I answer a question many of you have emailed in: which guitar pick do I use? I’ll answer the question, explaining why I use the pick I’ve favored for the past 10 years or so -- (Dunlop .46mm “Delrin” 41P.46, light pink)[https://amzn.to/3drJIKr] — and why I’ve settled on this pick after experimenting with a few similar ones over the years.
+Hey friends! In this video I answer a question many of you have emailed in: which guitar pick do I use? I’ll answer the question, explaining why I use the pick I’ve favored for the past 10 years or so ([Dunlop .46mm “Delrin” 41P.46, light pink](https://amzn.to/3drJIKr)) — and why I’ve settled on this pick after experimenting with a few similar ones over the years.
 
 I recommend buying the pick from a local guitar store. But if that's not possible, here's a link to get it from Amazon (purchasing after clicking this link gives a few cents back to me):
 
