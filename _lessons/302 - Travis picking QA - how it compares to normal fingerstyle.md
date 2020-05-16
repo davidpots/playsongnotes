@@ -5,14 +5,11 @@ category: tip_technique
 slug: "302"
 tags: [Tips & Techniques, Fingerstyle, Travis Picking, Questions & Answers, Key of C]
 date: 2020-05-16
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/37186031
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35077534 -->
-
 ## Video lesson
-
-Watch a video explanation & overview of my preferred pick here!
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/IzI9S0obKlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,7 +17,7 @@ Watch a video explanation & overview of my preferred pick here!
 
 ## Editor's notes
 
-Hey friends! Answering a listener question today from Patreon. The topic is Travis picking, and what makes it different from tranditional fingerstyle guitar. I'll explain the absolute basics of Travis picking, show how they're different than "normal" fingerpicking, and we'll look at one tab (the intro to Fleetwood Mac's Landslide) which can be played using either style.
+Hey friends! Answering a listener question today from Patreon. The topic is Travis picking, and what makes it different from traditional fingerstyle guitar. I'll explain the absolute basics of Travis picking, show how they're different than "normal" fingerpicking, and we'll look at one tab (the intro to Fleetwood Mac's Landslide) which can be played using either style.
 
 On the topic of Landslide in particular, this is a song I originally learned using "normal" fingerpicking, where each of my right-hand fingers was "assigned" to a string (e.g., thumb only played the 5th string for the C, G/B, and Am chords). In recent years I learned of the Travis Picking technique, where the thumb alternates between the 5th and 4th string on those same chords (for this particular riff) -- and I find it's a helpful example to look at when describing these techniques.
 
