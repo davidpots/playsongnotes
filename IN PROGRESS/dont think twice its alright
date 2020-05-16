@@ -1,0 +1,93 @@
+## Chord shapes
+
+Easy voicings:
+
+E –––0––––3––––0––––1––– –––0–––2–––
+B –––1––––0––––1––––1––– –––1–––1–––
+G –––0––––0––––2––––2––– –––3–––2–––
+D –––2––––0––––2––––3––– –––2–––0–––
+A –––3––––2––––0––––3––– –––3–––––––
+E ––––––––3–––––––––1––– –––––––––––
+     C    G    Am   F       C7  D7
+
+Advanced voicings:
+
+E –––0–––
+B –––1–––  <- left index
+G –––0–––
+D –––2–––  <- left middle
+A –––3–––  <- left pinky
+E –––3–––  <- left ring
+    C/G
+
+
+E –––1–––  <- left index
+B –––0–––
+G –––0–––
+D –––0–––
+A –––2–––  <- left middle
+E –––3–––  <- left ring
+     G7
+
+    E –––x–––  <- (don't play)              E –––x–––  <- (don't play)
+    B –––0–––                               B –––0–––
+    G –––0–––                               G –––0–––
+    D –––2–––  <- left middle               D –––3–––  <- left pinky
+    A –––x–––  <- (muted with left ring)    A –––x–––  <- (muted with left ring)
+    E –––3–––  <- left ring                 E –––3–––  <- left ring
+         G6                                      G7
+
+## Easy strumming
+
+For starters, I recommend only strumming a single down-strum on the 1 and 3 counts (within each 4-count measure).
+    
+    1 + 2 + 3 + 4 +
+    D       D              "down... down..."
+
+If you want to dial up the complexity a little bit, I recommend using this pattern. My preference is to only pluck the bass note of the chord on the "1" count (played with a down-strum), which helps emphasize the walking bass notes throughout the song.
+
+    1 + 2 + 3 + 4 +
+    D   D     U D U        "DOWN down... up down up"
+    –                      (bass)
+
+For the measures where you have a bass note transition happening within the 4-count sequence (e.g., changing from Am to Am/G on the "3" count), I'll use this pattern:
+
+    1 + 2 + 3 + 4 +
+    D   D U D   D U        "DOWN down up,  DOWN down up"
+    –       –              (bass)         (bass)
+
+## Progression, easy version
+
+If you're learning this song for the first time, I recommend learning the progressions shown here first. This will help familiarize you with the foundation of the song, upon which you can add plenty of complexity if you wish (which I'll show later). But if all you want is a campfire easy-strum verison of the song, this is all you need.
+
+Verse part 1:
+| C . . . | G . . . | Am . . . | Am . . . |
+| F . . . | F . . . | C  . . . | G  . . . |
+
+Verse part 2:
+| C  . . . | G  . . . | Am . . . | Am . . . |
+| D7 . . . | D7 . . . | G  . . . | G  . . . |
+
+Chorus:
+| C . . . | C . . . | C7 . . . | C7 . . . |
+| F . . . | F . . . | D7 . . . | D7 . . . |
+| C . . . | G . . . | Am . . . | F  . . . |
+| C . . . | G . . . | C  . . . | C  . . . |
+
+## Progression, slightly more advanced
+
+Same structure as the "easy" version, but with a bit more detail added around bass notes and walking bass lines. I recommend starting with the prior version & getting a grasp of the main foundation, which will make the additional detail shown in this version easier to spot & understand. Whether you strum or play fingerstyle, the progressions shown here will apply.
+
+Verse part 1:
+| C . . . | G . . . | Am . . . | Am . Am/G . |
+| F . . . | F . . . | C  . . . | G7    . . . |
+
+Verse part 2:
+| C     . . . | G     . . . | Am . .  . | Am . Am/G . |
+| D7/F# . . . | D7/F# . . . | G  . G6 . | G7    . . . |
+
+Chorus:
+| C . . . | C   . . . | C7     . . . | C7    . . . |
+| F . . . | F   . . . | D7/F#  . . . | D7/F# . . . |
+| C . . . | G/B . . . | Am .  Am/G . | F     . . . |
+| C . . . | G7  . . . | C      . . . | C     . . . |
