@@ -19,7 +19,7 @@ patreon_lesson_url: https://www.patreon.com/posts/36733328 -->
 
 ### Strum version (#301)
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/h7e0p8lIhhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgGpdaYZfxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Fingerstyle version (#303)
 
@@ -33,7 +33,7 @@ Note, the same 6-page PDF chord sheet (linked below) works for both of video les
 
 ## Editor's notes
 
-Hey friends! Here's my lesson teaching you how to play the Bob Dylan classic "Don't Think Twice, It's All Right". This specific video focuses on a strum-only version of the song; look for my fingerstyle lesson coming in just a few days. Whether or not you want to proceed to the fingerstyle version, this video will help teach you the basics: the chord shapes, the progressions, and some of the walking bass note transitions between various chords. In this video, the beginner-friendly stuff is presented up front (basic chords & strumming), while some more advanced items are saved for the back half. 
+Hey friends! Here's my lesson teaching you how to play the Bob Dylan classic "Don't Think Twice, It's All Right". This specific video focuses on a strum-only version of the song; look for my fingerstyle lesson coming in just a few days. Whether or not you want to proceed to the fingerstyle version, this video will help teach you the basics: the chord shapes, the progressions, and some of the walking bass note transitions between various chords. In this video, the beginner-friendly stuff is presented up front (basic chords & strumming), while some more advanced items are saved for the back half.
 
 Timestamps for this video:
 
@@ -79,7 +79,7 @@ See the PDF chord sheet for a print-friendly version of these notes.
         | C       | G       | Am  Am/G  | F        |    
         | C       | G       | C         | C        |
     
-    VERSE 
+    VERSE
                  C               G              Am         Am (Am/G)
         Well, it ain't no use to sit and wonder why, babe
         F           F             C         G7
@@ -94,7 +94,7 @@ See the PDF chord sheet for a print-friendly version of these notes.
             When your rooster crows at the break of dawn
             F                F          D7          D7
             ...Look out your window and.... I'll be gone
-            C          G/B         Am    Am/G    F 
+            C          G/B         Am    Am/G    F
             You're the reason I'm travel-ing on
                 C           G7              C       C
             But don't think twice, it's all right
@@ -102,9 +102,9 @@ See the PDF chord sheet for a print-friendly version of these notes.
     HARMONICA BREAK
              C   G7   Am  Am/G  F   F   C   C   C   C
 
-        And it [C] ain't no use in [G] turning on your [Am] light babe... 
-        The [F] light I never [C] know'd [G7] 
-        And it [C] ain't no use in [G] turning on your [Am] light, babe... 
+        And it [C] ain't no use in [G] turning on your [Am] light babe...
+        The [F] light I never [C] know'd [G7]
+        And it [C] ain't no use in [G] turning on your [Am] light, babe...
         [D7] I'm on the dark side of the [G] road [G6] [G7]
 
             But I [C] wish there was something you would... [C7] do or say
@@ -113,7 +113,7 @@ See the PDF chord sheet for a print-friendly version of these notes.
             But [C] don't think [G7] twice, it's all [C] right
 
         No, it [C] ain't no use in [G] calling out my [Am] name, gal
-        [F] like you never done [C] before [G7] 
+        [F] like you never done [C] before [G7]
         And it [C] ain't no use in [G] calling out my [Am] name, gal
         [D7] I can't hear you any [G] more [G6] [G7]
 
@@ -127,9 +127,9 @@ See the PDF chord sheet for a print-friendly version of these notes.
         [C] Goodbye is [G] too good a [Am] word, babe
         [D7] so I'll just say fare thee [G] well [G6] [G7]
 
-            [C] I ain't saying you treated [C7] me unkind... 
+            [C] I ain't saying you treated [C7] me unkind...
             You [F] could have done better but [D7] I don't mind
-            [C] You just kinda [G/B] wasted my [Am] precious [F] time 
+            [C] You just kinda [G/B] wasted my [Am] precious [F] time
             [C] Don't think [G7] twice, it's all [C] right
 
 
@@ -198,4 +198,3 @@ See my PDF for 4 ways to play the intro riff, fingerstyle.
 ## Fingerpicking the verse & chorus
 
 See my PDF for complete tabs on how to play these sections in a Travis picking style.
-
