@@ -8,10 +8,11 @@ tags: [Full Song Lesson, Key of C, 1960s, Folk, Fingerstyle, Travis Picking]
 category: full_song
 slug: "301"
 date: 2020-05-24
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/37472250
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/36733328 -->
+
 
 ## Video lesson
 
