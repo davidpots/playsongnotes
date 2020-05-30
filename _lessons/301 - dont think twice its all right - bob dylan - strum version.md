@@ -22,21 +22,7 @@ patreon_lesson_url: https://www.patreon.com/posts/37472250
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TgGpdaYZfxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Fingerstyle version (#303)
-
-Coming soon! Already recorded, just need to edit. Look for it early/mid-week (around May 26).
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JgCTBez-eWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-Note, the same 6-page PDF chord sheet (linked below) works for both of video lessons shown above.
-
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
-
-## Editor's notes
-
-Hey friends! Here's my lesson teaching you how to play the Bob Dylan classic "Don't Think Twice, It's All Right". This specific video focuses on a strum-only version of the song; look for my fingerstyle lesson coming in just a few days. Whether or not you want to proceed to the fingerstyle version, this video will help teach you the basics: the chord shapes, the progressions, and some of the walking bass note transitions between various chords. In this video, the beginner-friendly stuff is presented up front (basic chords & strumming), while some more advanced items are saved for the back half.
-
-Timestamps for this video:
+Timestamps for my strum-only video lesson:
 
 - 0:00 Lesson overview
 - 2:06 Basic chord shapes
@@ -48,6 +34,33 @@ Timestamps for this video:
 - 19:46 Adv. playthrough of verse & chorus (full strum)
 - 20:53 Adv. playthrough of verse & chorus (w/o a pick)
 - 22:22 Farewell
+
+### Fingerstyle version (#303)
+
+<!-- Coming soon! Already recorded, just need to edit. Look for it early/mid-week (around May 26). -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9v8GLpjBQ2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Timestamps for my fingerstyle video lesson:
+
+- 0:00 Lesson overview
+- 2:49 Chord shapes & progression, basic
+- 4:29 Chord shapes & progression, advanced
+- 13:09 Intro riff, v1 (super basic)
+- 15:11 Intro riff, v2 (traditional fingerstyle)
+- 17:46 Intro riff, v3 (Dylan's exact version)
+- 21:49 Intro riff, v4 (my secret stash version)
+- 24:17 Verse & chorus: general fingerpicking tips
+- 28:18 Verse & chorus: full fingerstyle playthrough
+- 30:49 Farewell
+
+Note, the same 6-page PDF chord sheet (linked below) works for both of video lessons shown above.
+
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+
+## Editor's notes
+
+Hey friends! Here's two video lessons I've made teaching you how to play the Bob Dylan classic "Don't Think Twice, It's All Right". My first video teaches a strum-only version, while the second goes deep on fingerstyle & Travis picking technique -- which is what Bob uses in his original album version. Both lessons include both beginner-friendly (as much as is possible) variations of the more difficult chords & techniques, while also going deep into advanced topics for those who are interested. I hope you enjoy!
 
 ## My other lessons for Bob Dylan songs
 
@@ -73,7 +86,7 @@ Looking for other lessons I've made for songs by Bob Dylan? Here you go!
 
 ## Lyrics with chords
 
-See the PDF chord sheet for a print-friendly version of these notes.
+Capo 4th fret. See the PDF chord sheet for a print-friendly version of these notes.
 
     INTRO
 
