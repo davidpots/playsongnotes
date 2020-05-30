@@ -4,7 +4,7 @@ title: '"Don''t Think Twice, It''s All Right" by Bob Dylan (strum version)'
 song_title: "Don't Think Twice, It's All Right"
 artist: Bob Dylan
 year: 1963
-tags: [Full Song Lesson, Key of C, 1960s, Folk, Fingerstyle, Travis Picking]
+tags: [Full Song Lesson, Key of C, 1960s, Folk]
 category: full_song
 slug: "301"
 date: 2020-05-24
