@@ -116,54 +116,51 @@ The key is to keep your strumming hand (arm) moving up and down continuously, bu
     ...The lord took her away from me
     G                               Em
     ...She’s gone to heaven so I’ve got to be good
-       C                        D
+       C                        D          G
     So I can see my baby when I leave this world
+    
+             [stay on G for 2 measures on "world"]
 
-        (use G-Em-C-D for the entire song!)
+        We were [G] out on a date in my [Em] daddy’s car
+        [C] We hadn’t driven [D] very far
+        [G] There in the road [Em] straight ahead
+        [C] A car was stalled, the [D] engines dead
+               [G] I couldn’t stop so I [Em] swerved to the right
+        I’ll [C] never forget the [D] sound that night
+        The [G] screamin’ tires, the [Em] bustin’ glass
+        The [C] painful scream that [D] I----- heard [G] last
 
-    We were out on a date in my daddy’s car
-    We hadn’t driven very far
-    There in the road straight ahead
-    A car was stalled, the engines dead
- I couldn’t stop so I swerved to the right
-    I’ll never forget the sound that night
-    The screamin’ tires, the bustin’ glass
-    The painful scream that I heard last
+            [stay on G for 2 measures on "last"]
 
-        (stay on G for 2 measures on "last")
+    Oh [G] where, oh where can my [Em] baby be
+    [C] The lord took her [D] away from me
+    [G] She’s gone to heaven so I’ve [Em] got to be good
+    So [C] I can see my baby when I [D] leave this [G] world
+    
+            [stay on G for 2 measures on "world"]
 
-    Oh where, oh where can my baby be
-    The Lord took her away from me
-    She’s gone to heaven so I’ve got to be good
-    So I can see my baby when I leave this world
+        When [G] I woke up the rain was [Em] pourin’ down
+        [C] There were people standing [D] all around
+        [G] Something warm flowing [Em] through my eyes
+        But [C] somehow I found... my [D] baby that night
+         I [G] lifted her head, she looked at [Em] me and said
+        [C] Hold me darling, just a [D] little while
+        I [G] held her close, I kissed her [Em] our last kiss
+        I [C] found the love that I [D] knew I would miss
 
-    When I woke up the rain was pourin’ down
-    There were people standing all around
-    Something warm flowing through my eyes
-    But somehow I found my baby that night
- I lifted her head, she looked at me and said
-    Hold me darling, just a little while
-    I held her close, I kissed her our last kiss
-    I found the love that I knew I would miss
+        Well, [G] now she’s gone, even [Em] though I hold her tight
+        I [C] lost my love, my [D] life---- that [G] night
 
-    Well, now she’s gone, even though I hold her tight
-    I lost my love, my life that night
+    Oh [G] where, oh where can my [Em] baby be
+    [C] The lord took her [D] away from me
+    [G] She’s gone to heaven so I’ve [Em] got to be good
+    So [C] I can see my baby when I [D] leave this [G] world
 
-    Oh where, oh where can my baby be
-    The Lord took her away from me
-    She’s gone to heaven so I’ve got to be good
-    So I can see my baby when I leave this world
-
-    Oooooh...
-    Oooh, ooooh...
-    Oooooh...
-    Oooh, ooooh...
-
-    Ooohhhhhh, oooooh...
-    Oooooooohhhhhh...
-    Ooohhhhhh, oooooh...
-    Ahhh...
-
+    [G] Oooooh, ooo [Em] oooh..... [C] Ooooh, ooo [D] oooh...
+    [G] Oooooh, ooo [Em] oooh..... [C] Ooooh, ooo [D] oooh...
+    
+    [ repeat "Oooh..." as desired, end on G ]
+    
 ## Good luck!
 
 I hope this helps, and as always let me know if you have any questions.
