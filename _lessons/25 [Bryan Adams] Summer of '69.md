@@ -8,6 +8,7 @@ year: 1984
 category: full_song
 yt_video_id: _________
 tags: [Full Song Lesson, 1980s, Classic Rock, Key of D]
+hidden_tags: [summer of 69]
 slug: "25"
 redirect_from:
   - /songs/bryan-adams-summer-of-69/

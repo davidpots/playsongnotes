@@ -11,8 +11,11 @@ tags: [Full Song Lesson, 1990s, Rock, Key of G]
 slug: "87"
 redirect_from:
   - /songs/pearl-jam-last-kiss/
-
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/37729033
 ---
+
+
 
 ## Video lesson
 
