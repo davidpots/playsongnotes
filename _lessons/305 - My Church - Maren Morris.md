@@ -110,17 +110,17 @@ Four counts per measure, and remember the counting is slow (77bpm, just over one
 
 Intro:
 
-		| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
+    | G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
 
 Verse:
 
-		| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
-		| G  .  .  .  | C  .  G  .  | G  .  D7 .  | C  .  G  .  |
+	| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
+	| G  .  .  .  | C  .  G  .  | G  .  D7 .  | C  .  G  .  |
 
 Chorus:
 
-		| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
-		| G  .  .  .  | C  .  Em .  | C  .  G  .  | D  .  G  .  |
+	| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
+	| G  .  .  .  | C  .  Em .  | C  .  G  .  | D  .  G  .  |
 
 ## Strumming pattern
 
@@ -149,14 +149,14 @@ If the pattern above is too tricky for you, try this simpler variation -- which 
 
 You know how I said you can do light brushes on all strums except the 2 and 4 count? Here's what I mean. On the first two down strums, we're going to focus on the thickest 1-2 strings of the chord being played. On the "2" count, we'll strum all the strings -- and add emphasis. And on the final "+ a" count, just brush the thinnest 1-2 strings. Repeat this for the second half of the measure. Here's an example tab for the main three chords -- play each sequence below TWICE to make up a full measure of 4 counts per that chord.
 
-		e ––––––––––3–––3–3–––      e ––––––––––0–––0–0–––      e ––––––––––2–––2–2–––
-		B ––––––––––0–––0–0–––      B ––––––––––1–––1–1–––      B ––––––––––1–––1–1–––
-		G ––––––––––0–––0–0–––      G ––––––––––0–––0–0–––      G ––2–––2–––2–––––––––
-		D ––––––––––0–––––––––      D ––2–––2–––2–––––––––      D ––0–––0–––0–––––––––
-		A ––2–––2–––2–––––––––      A ––3–––3–––3–––––––––      A ––––––––––––––––––––
-		E ––3–––3–––3–––––––––      E ––––––––––––––––––––      E ––––––––––––––––––––
-         G                           C                           D7
-         1 e + a 2 e + a             1 e + a 2 e + a             1 e + a 2 e + a
+	e ––––––––––3–––3–3–––      e ––––––––––0–––0–0–––      e ––––––––––2–––2–2–––
+	B ––––––––––0–––0–0–––      B ––––––––––1–––1–1–––      B ––––––––––1–––1–1–––
+	G ––––––––––0–––0–0–––      G ––––––––––0–––0–0–––      G ––2–––2–––2–––––––––
+	D ––––––––––0–––––––––      D ––2–––2–––2–––––––––      D ––0–––0–––0–––––––––
+	A ––2–––2–––2–––––––––      A ––3–––3–––3–––––––––      A ––––––––––––––––––––
+	E ––3–––3–––3–––––––––      E ––––––––––––––––––––      E ––––––––––––––––––––
+        G                           C                           D7
+        1 e + a 2 e + a             1 e + a 2 e + a             1 e + a 2 e + a
 
 ## Progression with strumming
 
@@ -174,44 +174,44 @@ Intro:
 
 Verse
 
-		"I've cussed on a Sunday..."
+	"I've cussed on a Sunday..."
     G                                 C             G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
-		"I’ve fallen down from grace..."
+	"I’ve fallen down from grace..."
     G                                 D7
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
-		"But I find holy redemption..."
+	"But I find holy redemption..."
     G                                 C             G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
-		"Roll the windows down and turn up the dial..."
+	"Roll the windows down and turn up the dial..."
     G             D7                  C             G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u 
 
 Chorus
 
-		"Can I get a hallelujah..."
+	"Can I get a hallelujah..."
     G                                 C             G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
-		"Feels like the Holy Ghost running through ya..."
+	"Feels like the Holy Ghost running through ya..."
     G                                 D7
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
-		"I find my sound revival..."
+	"I find my sound revival..."
     G                                 C             Em
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
-		"Yeah, I guess that's my church..."
+	"Yeah, I guess that's my church..."
     C             G                   D7            G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
     D       D     u D u D     u D u   D       D     u D u D     u D u
