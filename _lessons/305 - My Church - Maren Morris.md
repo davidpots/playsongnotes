@@ -7,23 +7,40 @@ year: 2016
 tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "305"
-date: 2020-06-03
+date: 2020-06-07
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/37982462
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/37472250 -->
 
 ## Video lesson
 
-Coming soon... 
+<!-- Coming soon...  -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/TgGpdaYZfxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ihr-5xXSvrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
-Coming soon...
+Hey friends! Here's a guitar lesson showing you how to play the Maren Morris song "My Church" from her 2016 album Hero. While big picture this might appear to be a straightforward song using only G-C-D, there's actually a bit of nuance I'll explain when it comes to things. For both the chord voicings and the strumming, I'll show you two different ways to approach things, which lets you tailor your approach to suit your skill level & preference.
+
+Timestamps for this video:
+
+- 0:00 Lesson overview
+- 2:05 Chord shapes needed
+- 6:44 Chord progressions
+- 9:12 Strumming (how Maren plays it)
+- 15:22 Strumming (how I like to play it)
+- 19:22 Misc tips n' tricks
+- 21:08 Full playthrough (capo 2)
+
+And here's a preview of the PDF chord sheet (link available above):
+
+<img src="/images/lessons/305-pdf-preview.jpg" />
+
+Thanks to Patreon supporters Jim and Isa for recommending this one! This has been one of my favorite Maren Morris songs over the past couple years, and I had a good time learning it.
+
+Thanks all, and have a great Sunday ✌️
 
 ## Capo 2nd fret to play with Maren's version...
 
@@ -80,7 +97,7 @@ This entire song uses G / C / D7, with one very occasional E-minor used. If you 
 
 ### Variation 1
 
-One way to keep the transition as easy as possible is to use the formations shown here. The important thing to note here is your left ring finger is on the 2nd string (B) for the G, Cadd9, and D chords -- making these transitions much simpler! Likewise, the G-Cadd9 transition is simplified because your left ring and pinky fingers are in the exact same spot for both chords (and, your left middle/index fingers stay in the same relative formation, being diagonal from each other). 
+One way to keep the transition as easy as possible is to use the formations shown here. The important thing to note here is your left ring finger is on the 2nd string (B) for the G, Cadd9, and D chords -- making these transitions much simpler! Likewise, the G-Cadd9 transition is simplified because your left ring and pinky fingers are in the exact same spot for both chords (and, your left middle/index fingers stay in the same relative formation, being diagonal from each other).
 
 It's okay that we're using a Cadd9 in place of a regular C here -- in fact, it looks like this is what Maren Morris is playing (looking at the NPR Tiny Desk performance). You lose out on the D7 in this version, but you gain simplicity in other ways.
 
@@ -89,7 +106,7 @@ It's okay that we're using a Cadd9 in place of a regular C here -- in fact, it l
     G ––0––                  ––0––                   ––2–– <= left index    ––0––
     D ––0––                  ––2–– <= left index     ––0––                  ––2–– <= left middle
     A ––2–– <= left index    ––3–– <= left middle    –––––                  ––2–– <= left index
-    E ––3–– <= left middle   –––––                   –––––                  ––0–– 
+    E ––3–– <= left middle   –––––                   –––––                  ––0––
         G                    Cadd9                     D                      Em
 
 ### Variation 2
@@ -101,7 +118,7 @@ This option takes a totally different approach to the G and C finger positions, 
     G ––0––                  ––0––                   ––2–– <= left middle   ––0––
     D ––0––                  ––2–– <= left middle    ––0––                  ––2–– <= left middle
     A ––2–– <= left middle   ––3–– <= left ring      –––––                  ––2–– <= left index
-    E ––3–– <= left ring     –––––                   –––––                  ––0–– 
+    E ––3–– <= left ring     –––––                   –––––                  ––0––
         G                      C                       D7                     Em
 
 ## Chord progressions
@@ -120,7 +137,7 @@ Verse:
 Chorus:
 
 	| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
-	| G  .  .  .  | C  .  Em .  | C  .  G  .  | D  .  G  .  |
+	| G  .  .  .  | C  .  Em .  | C  .  G  .  | D7 .  G  .  |
 
 ## Strumming pattern
 
@@ -165,55 +182,53 @@ Here's a helpful guide to practice the strum pattern Maren Morris uses within co
 Intro:
 
     G                                 C             G
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
     G                                 D7
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 Verse
 
 	"I've cussed on a Sunday..."
     G                                 C             G
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 	"I’ve fallen down from grace..."
     G                                 D7
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 	"But I find holy redemption..."
     G                                 C             G
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 	"Roll the windows down and turn up the dial..."
     G             D7                  C             G
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
-    D       D     u D u D     u D u   D       D     u D u D     u D u 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
+    D       D     u D u D     u D u   D       D     u D u D     u D u
 
 Chorus
 
 	"Can I get a hallelujah..."
     G                                 C             G
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 	"Feels like the Holy Ghost running through ya..."
     G                                 D7
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 	"I find my sound revival..."
     G                                 C             Em
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
 
 	"Yeah, I guess that's my church..."
     C             G                   D7            G
-    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a 
+    1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
     D       D     u D u D     u D u   D       D     u D u D     u D u
-
-
