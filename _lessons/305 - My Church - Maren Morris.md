@@ -131,13 +131,13 @@ Intro:
 
 Verse:
 
-	| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
-	| G  .  .  .  | C  .  G  .  | G  .  D7 .  | C  .  G  .  |
+    | G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
+    | G  .  .  .  | C  .  G  .  | G  .  D7 .  | C  .  G  .  |
 
 Chorus:
 
-	| G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
-	| G  .  .  .  | C  .  Em .  | C  .  G  .  | D7 .  G  .  |
+    | G  .  .  .  | C  .  G  .  | G  .  .  .  | D7 .  .  .  |
+    | G  .  .  .  | C  .  Em .  | C  .  G  .  | D7 .  G  .  |
 
 ## Strumming pattern
 
@@ -179,7 +179,9 @@ You know how I said you can do light brushes on all strums except the 2 and 4 co
 
 Here's a helpful guide to practice the strum pattern Maren Morris uses within context of the actual chords. The one new thing here: notice when a chord change happens on the "3" count (e.g., in the 2nd measure), she actually switches on the "a" count just before the "3" (i.e., a sixteenth note early). This may seem tricky but it actually works great work this strumming pattern, since you're starting an up-down-up-down on that same count.
 
-Intro:
+[ See PDF chord sheet for complete diagram ]
+
+<!-- Intro:
 
     G                                 C             G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
@@ -231,4 +233,4 @@ Chorus
 	"Yeah, I guess that's my church..."
     C             G                   D7            G
     1 e + a 2 e + a 3 e + a 4 e + a   1 e + a 2 e + a 3 e + a 4 e + a
-    D       D     u D u D     u D u   D       D     u D u D     u D u
+    D       D     u D u D     u D u   D       D     u D u D     u D u -->
