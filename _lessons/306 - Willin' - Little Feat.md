@@ -7,11 +7,11 @@ year: 1972
 tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 category: full_song
 slug: "306"
-date: 2020-06-12
+date: 2020-06-13
 ---
 
 <!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/37982462 -->
+patreon_lesson_url: https://www.patreon.com/posts/38161899 -->
 
 ## Video lesson
 
@@ -139,22 +139,17 @@ In my video, I break everything down step by step, in this order:
 
 I prefer using this pattern as the foundation for the entire song. On the "1" count only pluck the bass note of the chord you're on, and use full strums for all remaining up & down strums.
 
-    1 + 2 + 3 + 4 +
-    D   D     U D U     "Bass, down... up-down-up"
+    [ see PDF for diagram ]
 
 ### Strumming the split measures
 
 Sometimes, you'll need to "split" a 4-count measure into two 2-count measures, which will use this pattern. This happens at the distinctive sections with the G-Am7-G/B-C walk-ups, in a few other places. For more context, see my "chord progression" section below, as well as my video lesson.
 
-    1 + 2 +   1 + 2 +
-    D   D U   D   D U      "Bass, down-up... bass, down-up"
+    [ see PDF for diagram ]
 
 For example, here's a section of the song where such strumming is needed. I've shown the measures before and after for context (both of which use the "main" pattern above).
 
-               "Driven every...  rig...    ever...    made..."
-    G                  G         Am7       G/B        C                 C
-    1 + 2 + 3 + 4 +    1 + 2 +   1 + 2 +   1 + 2 +    1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
-    D   D     U D U    D   D U   D   D U   D   D U    D   D     U D U   D   D     U D U
+    [ see PDF for diagram ]
 
 ## Progressions
 
@@ -168,7 +163,7 @@ Intro:
 
 Verse:
 
-   "I've been warped by the rain..."
+    "I've been warped by the rain..."
     G                 D/F#              Em                C
     1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
 
@@ -178,29 +173,29 @@ Verse:
 
 Pre-Chorus:
 
-   "I've been from Tuscon to Tucumcari..."
+    "I've been from Tuscon to Tucumcari..."
     C                 D                 D                 G
     1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
 
-   "Driven every kind of rig..."
+    "Driven every kind of rig..."
     G         Am7       G/B             C                 C
     1 + 2 +   1 + 2 +   1 + 2 +         1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
 
-   "Driven the backroads..."
+    "Driven the backroads..."
     C                   C               D                 D (let ring, stop strumming)
     1 + 2 + 3 + 4 +     1 + 2 +         1 + 2 + 3 + 4 +   1
 
 Chorus:
 
-   "Weed, whites, and wine..."
+    "Weed, whites, and wine..."
     C                 G/B      Am7       <-- single strum (or bass note) only
     1 + 2 + 3 + 4 +   1 + 2 +  1 + 2 +
 
-   "And you show me a sign..."
+    "And you show me a sign..."
     G                 G                 D                 D
     1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
 
-   "I'll be willin'..."
+    "I'll be willin'..."
     G                 C     D*    C     G                 G
     1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
  
