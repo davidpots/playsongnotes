@@ -13,6 +13,10 @@ redirect_from:
   - /songs/camila-cabello-havana/
 ---
 
+<!-- patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/38165123 -->
+
+
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ua_VdR6t2DA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
