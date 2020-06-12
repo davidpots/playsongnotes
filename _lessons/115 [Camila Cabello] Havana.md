@@ -137,6 +137,55 @@ And if you want, you can silence the E-minor chord by resting your fingers on it
 
 That's it! From here you're good to go. Feel free to improvise further as you wish. Again, see my video for reference.
 
+## Lyrics with chords
+  
+    Capo 3rd fret
+    
+    INTRO
+        e ––––––––0––x––––––––––––––––––––––––––––––––––––––––
+        B ––––––––0––x––––––––1–––––––––––0––––––––0––1––0––––
+        G ––––––––0––x––––––––0–––––––––––2–––––––––––––––––––
+        D ––2––––––––––––––2–––––––––––1––––––––––––––––––––––
+        A ––––––––––––––3––––––––2––––––––––––––2–––––––––––––
+        E ––––––––––––––––––––––––––––––––––––––––––––––––––––
+            Em          C        B7
+            1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+
+    CHORUS
+          Em           C   B7
+        Havana, ooh na-na..... half of my heart is in
+          Em           C   B7
+        Havana, ooh na-na..... he took me back to
+               Em           C   B7
+        East Atlanta, na-na-na...... oh, but my heart is in
+          Em              C                   B7 (let ring)            (Em)
+        Havana... there's something about his manners... Havana, ooh na-na
+
+    VERSE
+               Em                  C                B7
+            He didn't walk up with that "how you doin'?"
+               Em                          C         B7
+            He said there's a lot of girls I can do with
+              Em               C        B7
+            I knew him forever in a minute
+                Em               C        B7
+            And papa says he got malo in him
+         
+            Em           C                B7
+            Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
+                             Em         C                B7
+            I knew it when I met him, I loved him when I left him... got me feelin' like
+            Em           C                B7
+            Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
+                              Em          C          B7 (let ring)        
+            And then I had to tell him, I had to go..... oh na-na-na-na-na (Woo)
+
+    [ Chorus ]
+        
+        [ Verse 2: Young Thug rap ]
+        
+    [ Chorus ]
+
 ## Good luck!
 
 Let me know if you have questions. I hope this was helpful.

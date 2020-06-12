@@ -15,6 +15,8 @@ patreon_lesson_url: https://www.patreon.com/posts/31322903
 
 ## Video lesson
 
+_Note, there's an obvious error in my video's PDF chord notation -- where I list the G as 8th & 10th fret (5th and 2nd strings, respectively), when it should be 10th and 12th fret. This has been corrected in the Patreon PDF! But my mistake lives on forever in this video. Wanted to give you a heads up!_
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BwnL0t87I3Y?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- Coming soon... -->
