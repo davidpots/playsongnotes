@@ -8,10 +8,9 @@ tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 category: full_song
 slug: "306"
 date: 2020-06-13
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/38161899
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/38161899 -->
 
 ## Video lesson
 
@@ -216,3 +215,23 @@ Next, we'll bring in the second half of the intro as well. This is entirely G, w
 Finally, let's start to bring in the strumming pattern. Start by strumming the bass note on the "1" count, and then doing a full strum of the chord on the "2" count. I don't show it here, but if you can, add an "up down up" on the "+ 4 +" at the end of each measure. Note, certain measures deviate from this pattern, specifically the C-D*-C measure. The most important part is to play something you're comfortable with and can maintain consistently, even if that's a simple "bass DOWN bass DOWN" on the one-TWO-three-FOUR beats.
 
     [ see PDF, page 4 ]
+
+## Related lessons I've made
+
+### Lesson #265
+
+One is this video showing you 4 tips on getting started with the Beatles classic Blackbird which uses the same chords as the intro to this one.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwnL0t87I3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Full lesson page with video & notes](http://playsongnotes.com/lessons/265/)
+- [Get PDF](https://www.patreon.com/posts/31322903)
+
+### Lesson #249
+
+Another is this lesson showing you 2-finger chords in the key of C, which is the same exact type of chord this lesson uses. Even though Willin' and Blackbird are in the key of G, there's a lot of overlap here. Joni Mitchell's "A Case of You" is an example of a song using these chords thatsi n the key of C.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2ZHdyESf3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Full lesson page with video & notes](http://playsongnotes.com/lessons/249/)
+- [Get PDF](https://www.patreon.com/posts/28859774)
