@@ -35,7 +35,7 @@ In my video, I break everything down step by step, in this order:
 
 ## Lyrics and chords
 
-    INTRO
+    INTRO (see PDF for strumming guide)
 
         e |–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–
         B |––––12–––––––––––|––––10–––––––––––|–––––8–––––––7–––|–5–––––––5–––––––|–
