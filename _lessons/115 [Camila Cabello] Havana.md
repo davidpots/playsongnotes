@@ -11,10 +11,11 @@ yt_video_id: _________
 slug: "115"
 redirect_from:
   - /songs/camila-cabello-havana/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/38165123
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/38165123 -->
+
 
 
 ## Video lesson
@@ -44,18 +45,54 @@ This entire song uses these three chords, in this order, over and over again.
     E –––0––––––––––––––
          Em   C    B7
 
-## Fingerstyle guitar riff
+## Lyrics with chords
+  
+    Capo 3rd fret
+    
+    INTRO
+        e ––––––––0––x––––––––––––––––––––––––––––––––––––––––
+        B ––––––––0––x––––––––1–––––––––––0––––––––0––1––0––––
+        G ––––––––0––x––––––––0–––––––––––2–––––––––––––––––––
+        D ––2––––––––––––––2–––––––––––1––––––––––––––––––––––
+        A ––––––––––––––3––––––––2––––––––––––––2–––––––––––––
+        E ––––––––––––––––––––––––––––––––––––––––––––––––––––
+            Em          C        B7
+            1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
 
-Here's the riff I play when performing this song:
+    CHORUS
+          Em           C   B7
+        Havana, ooh na-na..... half of my heart is in
+          Em           C   B7
+        Havana, ooh na-na..... he took me back to
+               Em           C   B7
+        East Atlanta, na-na-na...... oh, but my heart is in
+          Em              C                   B7 (let ring)            (Em)
+        Havana... there's something about his manners... Havana, ooh na-na
 
-    e ––––––––0––x––––––––––––––––––––––––––––––––––––––––
-    B ––––––––0––x––––––––1–––––––––––0––––––––0––1––0––––
-    G ––––––––0––x––––––––0–––––––––––2–––––––––––––––––––
-    D ––2––––––––––––––2–––––––––––1––––––––––––––––––––––
-    A ––––––––––––––3––––––––2––––––––––––––2–––––––––––––
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––
-        Em          C        B7
-        1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+    VERSE
+               Em                  C                B7
+            He didn't walk up with that "how you doin'?"
+               Em                          C         B7
+            He said there's a lot of girls I can do with
+              Em               C        B7
+            I knew him forever in a minute
+                Em               C        B7
+            And papa says he got malo in him
+         
+            Em           C                B7
+            Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
+                             Em         C                B7
+            I knew it when I met him, I loved him when I left him... got me feelin' like
+            Em           C                B7
+            Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
+                              Em          C          B7 (let ring)        
+            And then I had to tell him, I had to go..... oh na-na-na-na-na (Woo)
+
+    [ Chorus ]
+        
+        [ Verse 2: Young Thug rap ]
+        
+    [ Chorus ]
 
 ## How to learn the riff step by step
 
@@ -141,54 +178,30 @@ And if you want, you can silence the E-minor chord by resting your fingers on it
 
 That's it! From here you're good to go. Feel free to improvise further as you wish. Again, see my video for reference.
 
-## Lyrics with chords
-  
-    Capo 3rd fret
-    
-    INTRO
-        e ––––––––0––x––––––––––––––––––––––––––––––––––––––––
-        B ––––––––0––x––––––––1–––––––––––0––––––––0––1––0––––
-        G ––––––––0––x––––––––0–––––––––––2–––––––––––––––––––
-        D ––2––––––––––––––2–––––––––––1––––––––––––––––––––––
-        A ––––––––––––––3––––––––2––––––––––––––2–––––––––––––
-        E ––––––––––––––––––––––––––––––––––––––––––––––––––––
-            Em          C        B7
-            1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
 
-    CHORUS
-          Em           C   B7
-        Havana, ooh na-na..... half of my heart is in
-          Em           C   B7
-        Havana, ooh na-na..... he took me back to
-               Em           C   B7
-        East Atlanta, na-na-na...... oh, but my heart is in
-          Em              C                   B7 (let ring)            (Em)
-        Havana... there's something about his manners... Havana, ooh na-na
+## Similar lessons I've made
 
-    VERSE
-               Em                  C                B7
-            He didn't walk up with that "how you doin'?"
-               Em                          C         B7
-            He said there's a lot of girls I can do with
-              Em               C        B7
-            I knew him forever in a minute
-                Em               C        B7
-            And papa says he got malo in him
-         
-            Em           C                B7
-            Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
-                             Em         C                B7
-            I knew it when I met him, I loved him when I left him... got me feelin' like
-            Em           C                B7
-            Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
-                              Em          C          B7 (let ring)        
-            And then I had to tell him, I had to go..... oh na-na-na-na-na (Woo)
+Looking for other lessons that involve fingerstyle and a Latin-inspired bass line groove? Here's a few others!
 
-    [ Chorus ]
-        
-        [ Verse 2: Young Thug rap ]
-        
-    [ Chorus ]
+### Lesson #257: Seniorita by Camilla Cabello & Shawn Mendes
+
+[Video & PDF](http://playsongnotes.com/lessons/257/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8m3e3Vj7v4?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+
+
+
+### Lesson #250: California Dreamin' by Jose Feliciano
+
+[Video & PDF](http://playsongnotes.com/lessons/250/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7x0E0BsAIE?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+
+
+
+
+
+
 
 ## Good luck!
 
