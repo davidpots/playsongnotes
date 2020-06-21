@@ -10,9 +10,9 @@ slug: "303"
 date: 2020-05-30
 redirect_to:
   - /lessons/301
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/37472250
 ---
 
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37472250 -->
-
-
