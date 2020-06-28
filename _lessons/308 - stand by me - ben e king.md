@@ -8,10 +8,9 @@ tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 category: full_song
 slug: "308"
 date: 2020-06-27
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/38696125
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/38462103 -->
 
 ## Video lesson
 
@@ -20,8 +19,6 @@ patreon_lesson_url: https://www.patreon.com/posts/38462103 -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSXs-SAmqwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
-
-☝️ PDF will be posted Sunday morning (6/28) around 8am.
 
 ## Editor's notes
 
