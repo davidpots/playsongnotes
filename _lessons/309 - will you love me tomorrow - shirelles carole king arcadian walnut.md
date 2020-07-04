@@ -8,14 +8,13 @@ tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 category: full_song
 slug: "309"
 date: 2020-07-04
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/38961604
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/38696125 -->
 
 ## Video lesson
 
-Coming soon...
+<!-- Coming soon... -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BTs4IbU5ZvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -35,7 +34,7 @@ Timestamps for my video lesson:
 - 17:40 Adding melody notes while strumming
 - 20:28 Farewell
 
-I should note, my favorite version of this song is from the YouTuber Arcadian Walnut, whose fingerstyle cover is 100% perfection in my opinion (watch her cover version here). I'm using a chord progression very inspired by what she is playing -- with a few small tweaks just to make things fit for my style. To do full honor of her version, I've included some additional notes on her fingerpicking approach to this song within my notes for this song.
+I should note, for years now my favorite version of this song is from the YouTuber Arcadian Walnut, whose fingerstyle cover & vocal performance is 100% perfection in my opinion (watch her cover version here). I'm using a chord progression very inspired by what she is playing -- with a few small tweaks just to make things fit for my style. To do full honor of her version, I've included some additional notes on her fingerpicking approach to this song within my notes for this song.
 
 ## Original & famous versions of this song
 
