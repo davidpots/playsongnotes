@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Song Notes! Easy-to-follow guitar lessons, all hand-made by @davidpots
+title: Song Notes // Library of video guitar lessons and PDF chord sheets, all hand-made by David Pots.
 email: davidpots@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Easy to follow video guitar lessons, all hand-crafted by David Pots. In the 150+ available lessons, I'll show you the tabs, chords, fingerpicking technique, and other tips you'll need to learn your favorite songs on guitar.
+  Easy-to-follow video guitar lessons and PDF chord sheets, all hand-crafted by David Pots. Learn the chord shapes, progressions, strumming patterns, and lyrics to help you learn your favorite guitar songs -- with tabs included.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
