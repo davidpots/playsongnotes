@@ -8,10 +8,9 @@ tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "310"
 date: 2020-07-10
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/39197676
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/38961604 -->
 
 ## Video lesson
 
@@ -36,8 +35,6 @@ Timestamps for this video lesson:
 - 4:37 Strumming & chord progression
 - 8:54 G-riff & verse playthrough
 - 10:57 Farewell
-
-Preview of the attached PDF (download the full file at the bottom of this post, above the comments).
 
 ## Official music video
 
