@@ -35,13 +35,13 @@ Welcome to my guitar lesson for an acoustic version of "City of Stars," specific
 
 Here's all the chords you'll need for this song. For the "7th" chords (Bm7, F#7, A7, etc) you can, if you prefer, play the normal version of those chords. I'll include both normal and "7th" versions here just so you have them.
 
-    E –––0–––0–––0–––2–––2–––2––––2–––2–––2–––2–––3–––
-    B –––0–––2–––2–––3–––3–––2––––2–––3–––2–––1–––0–––
-    G –––0–––2–––0–––4–––2–––3––––3–––2–––2–––2–––0–––
-    D –––2–––2–––2–––4–––4–––4––––2–––0–––0–––0–––0–––
-    A –––2–––0–––0–––2–––2–––4––––4–––––––––––––––2–––
-    E –––0–––––––––––––––––––2––––2–––––––––––––––3–––
-        Em   A   A7  Bm Bm7  F#  F#7  D Dmaj7 D7  G
+    E –––0–––0–––0–––2–––2–––2–––2––––2–––2–––2–––2–––3–––
+    B –––0–––2–––2–––3–––3–––3–––2––––2–––3–––2–––1–––0–––
+    G –––0–––2–––0–––4–––2–––4–––3––––3–––2–––2–––2–––0–––
+    D –––2–––2–––2–––4–––4–––4–––4––––2–––0–––0–––0–––0–––
+    A –––2–––0–––0–––2–––2–––0–––4––––4–––––––––––––––2–––
+    E –––0–––––––––––––––––––––––2––––2–––––––––––––––3–––
+        Em   A   A7  Bm Bm7 Bm/A F#  F#7  D Dmaj7 D7  G
 
 ## Chord progressions
 
