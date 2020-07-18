@@ -25,11 +25,15 @@ Note, my video lesson is coming soon! Look for it the weekend of July 25th. If y
 
 This lesson is based on the Billy Strings & Marcus King cover of this song, which was posted to the Carter Vintage Guitars YouTube channel in March 2019. I'm not going to presume this is the "only" way Billy has played this song -- so when it comes to my arrangement, keep this in mind and stray off the path if you want.
 
-https://www.youtube.com/watch?v=1RNNQYpnukA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1RNNQYpnukA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- https://www.youtube.com/watch?v=1RNNQYpnukA -->
 
 I should note, the Billy & Marcus version above is very much similar to the Doc Watson version, which can be seen here:
 
-https://www.youtube.com/watch?v=Ik0ONlyFMn0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ik0ONlyFMn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- https://www.youtube.com/watch?v=Ik0ONlyFMn0 -->
 
 ## Chord shapes
 
