@@ -12,6 +12,8 @@ yt_video_id: _________
 slug: "42"
 redirect_from:
   - /songs/la-la-land-city-of-stars/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/39465384
 ---
 
 ## Video lesson
@@ -21,6 +23,8 @@ Full lesson:
 
 Cover:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Get the PDF below -- but note if you click the link below before Saturday, July 19th @ 7am CST -- the link below will not work (try back after the time above).
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
