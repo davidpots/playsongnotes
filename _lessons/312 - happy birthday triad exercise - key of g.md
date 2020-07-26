@@ -17,7 +17,7 @@ patreon_lesson_url: https://www.patreon.com/posts/39665187
 
 ## Editor's notes
 
-Hey friends -- here's a quick lesson for playing "Happy Birthday" in an arrangement that lean heavily into triad chord shapes (mainly on the thinnest 3-4 strings). Chord-wise this mostly uses G and D -- but we'll be adding and removing certain fingers at various points in order to let the melody of this classic tune shine through with what you're playing. And of course, these triads can be used in various circumstances in so many other songs and scenarios -- so you'll get a lot out of this one, beyond wishing someone a happy birthday. As always, tabs included in my chord sheet!
+Hey friends -- here's a quick lesson for playing "Happy Birthday" in an arrangement that leans heavily into triad chord shapes (mainly on the thinnest 3-4 strings). Chord-wise this mostly uses G and D -- but we'll be adding and removing certain fingers at various points in order to let the melody of this classic tune shine through with what you're playing. And of course, these triads can be used in various circumstances in so many other songs and scenarios -- so you'll get a lot out of this one, beyond wishing someone a happy birthday. As always, tabs included in my chord sheet!
 
 Timestamps:
 
