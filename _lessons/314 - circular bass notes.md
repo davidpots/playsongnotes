@@ -27,3 +27,19 @@ As I've learned song after song over the years, this is something I'm finally re
 This riff comes from the first 30 seconds of The Night I Painted the Sky, by Jimmy Buffett. This has long been one of my favorite songs, and the riff has always eluded me. It was only this past month (July 2020) when I attempted to learn it again – and was able to connect the dots to some other riffs I'd learned in the past few years.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yC3byQHTaw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Related lessons I've made
+
+Here's past lessons I've created that have this same technique re: circular bass notes.
+
+### 4-string E, to free up your pinky and ring finger (Lesson #253)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFAbkYs3zss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Jack Johnson's "Posters" riff (Lesson #193)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRcGpFex8Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Yellowcard's "How I Go" (Lesson #23)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cGtB7Ugw58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
