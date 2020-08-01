@@ -6,6 +6,7 @@ artist: Billy Strings
 year: 2019
 category: full_song
 tags: [Full Song Lesson, Key of G, 2010s, Soul, Country]
+hidden_tags: [Doc Watson, Marcus King]
 date: 2020-01-14
 slug: "279"
 ---
@@ -13,13 +14,32 @@ slug: "279"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33023582 -->
 
-## Video lesson
+## Video lessons
 
-Note, my video lesson is coming soon! Look for it the weekend of July 25th. If you want to get a head start, check out this lesson I just posted (July 18th) which teaches the three most difficult chords (and get the PDF diagram for the video below [at this link](https://www.patreon.com/posts/39450599)):
+### Getting started with the song (#279)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_JjZ2pZc3l8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YSYiHNd9GK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Timestamps:
+
+- 0:00 Lesson overview
+- 1:50 Chord shapes: big picture
+- 2:42 Chord shapes: Em D/F# G
+- 6:14 Chord shapes: Am C G B7
+- 7:01 Full tab, w/ strumming explained
+- 11:18 Advanced: silencing chords w/ left hand
+- 13:52 Advanced: adding flourish strums
+- 15:51 Farewell & PDF overview
+
+### Exactly how Billy Strings plays it (#316)
+
+Coming later today... check back soon!
 
 <!-- { % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title % } -->
+
+## Editor's notes
+
+Hey friends! Here's a lesson teaching you how to play the classic song "Summertime", specifically using the Billy Strings guitar arrangement from his cover with Marcus King. In my first lesson (#279), I'll be covering the 80% broad-stroke core of what Billy plays: chords, the progression, basic strumming, and some muting techniques. In a separate video (#316) I'll teach you the exact strumming, runs & fills Billy plays -- but watch this one first if you're just getting started with the song, as that other lesson builds off of this one. Note that this version of the song is similar, but not exactly the same to the Doc Watson version.
 
 ## The version I'm basing my upcoming lesson on
 
@@ -51,6 +71,8 @@ This was the trickiest part for me, when picking up this song from scratch. For 
     E ––0––                 E ––2–– <= L.middle     E ––3–– <= L.middle
         Em                     D/F#                     G
 
+See my PDF for the diagrams.
+
 ### The other chords
 
 The rest of the chords are more straightforward. Note for the C, Billy looks like he does a C/G sometimes (332010). Likewise, for the B7 note Billy is alternating the bass notes by moving his left middle finger to the F# (2nd fret of low E string), on the longer measures at least -- which I note as B7/F#.
@@ -67,18 +89,22 @@ The rest of the chords are more straightforward. Note for the C, Billy looks lik
 
 Whether strumming or playing fingerstyle, I always prefer playing these 3 chords by (1) first plucking the bass note -- and then (2) plucking the thinnest 3-4 strings. This is tremendously helpful when it comes to capturing the sound heard in the Billy Strings version, as well as that of Doc Watson etc.
 
-    e –––––0––      e –––––2––     e –––––3––     e –––––2––
+See my PDF for the diagram.
+
+    <!-- e –––––0––      e –––––2––     e –––––3––     e –––––2––
     B –––––0––      B –––––0––     B –––––3––     B –––––0––
     G –––––0––      G –––––2––     G –––––0––     G –––––2––
     D ––––(2)–      D ––––(0)–     D ––––(0)–     D ––––(0)–    ...repeat
     A ––––––––      A ––––––––     A ––––––––     A ––––––––
     E ––0–––––      E ––2–––––     E ––3–––––     E ––2–––––
-        Em              D/F#           G              D/F#
+        Em              D/F#           G              D/F# -->
 
 
 ## Chord progressions
 
-    INTRO
+See my PDF for the diagram.
+
+    <!-- INTRO
     | Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
 
     VERSE
@@ -88,7 +114,7 @@ Whether strumming or playing fingerstyle, I always prefer playing these 3 chords
     | G   Em   | Am  C    | Em        | B7       |
     
     ENDING
-    | G   Em   | Am  C    | Em        | B7       |
+    | G   Em   | Am  C    | Em        | B7       | -->
 
 ## Song structure
 
