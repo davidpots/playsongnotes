@@ -14,7 +14,7 @@ slug: "279"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33023582 -->
 
-{ % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title % }
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Video lessons
 
@@ -35,7 +35,15 @@ Timestamps:
 
 ### Exactly how Billy Strings plays it (#316)
 
-Coming later today... check back soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0QXbkNaW_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 0:00 Lesson overview
+- 1:56 Recap of chord shapes
+- 4:19 Strumming the intro Em-D/F#-G
+- 8:37 Runs & fills tab (measures 1-8)
+- 12:32 Runs & fills tab (measures 9-16)
+- 13:56 Full playthrough (measures 1-16)
+- 14:39 Farewell & final tips
 
 ## Editor's notes
 
