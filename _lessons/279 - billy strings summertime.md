@@ -14,6 +14,8 @@ slug: "279"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33023582 -->
 
+{ % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title % }
+
 ## Video lessons
 
 ### Getting started with the song (#279)
@@ -35,13 +37,11 @@ Timestamps:
 
 Coming later today... check back soon!
 
-<!-- { % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title % } -->
-
 ## Editor's notes
 
 Hey friends! Here's a lesson teaching you how to play the classic song "Summertime", specifically using the Billy Strings guitar arrangement from his cover with Marcus King. In my first lesson (#279), I'll be covering the 80% broad-stroke core of what Billy plays: chords, the progression, basic strumming, and some muting techniques. In a separate video (#316) I'll teach you the exact strumming, runs & fills Billy plays -- but watch this one first if you're just getting started with the song, as that other lesson builds off of this one. Note that this version of the song is similar, but not exactly the same to the Doc Watson version.
 
-## The version I'm basing my upcoming lesson on
+## The version I'm basing my lesson on
 
 This lesson is based on the Billy Strings & Marcus King cover of this song, which was posted to the Carter Vintage Guitars YouTube channel in March 2019. I'm not going to presume this is the "only" way Billy has played this song -- so when it comes to my arrangement, keep this in mind and stray off the path if you want.
 
