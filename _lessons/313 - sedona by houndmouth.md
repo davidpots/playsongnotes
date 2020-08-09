@@ -7,11 +7,14 @@ year: 2015
 category: full_song
 slug: "313"
 tags: [Full Song Lesson, 2010s, Key of C, Rock]
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/40261866
 ---
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/39956339 -->
+
 
 <!-- https://youtu.be/SyahJJ332uk -->
+
+
 
 ## Video lesson
 
