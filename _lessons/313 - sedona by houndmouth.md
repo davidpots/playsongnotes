@@ -23,9 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/40261866
 
 ## PDF coming later this morning!
 
-Check back in a few hours - it's scheduled to go live very soon.
+<!-- Check back in a few hours - it's scheduled to go live very soon. -->
 
-<!-- { % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title % } -->
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
