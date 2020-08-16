@@ -19,13 +19,26 @@ permalink: /downloads/
 
 ## How to access my premium PDFs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aobiSjuwipI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wUT2i9GHmM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Free PDF sampler pack
 
 Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
 
 <ul>
+  <li><strong><a href="https://www.patreon.com/posts/35467639">House of the Rising Sun</a></strong> by The Animals</li>  
+  <li><strong><a href="https://www.patreon.com/posts/34822415">Patience</a></strong> by Guns n' Roses</li>  
+  <li><strong><a href="https://www.patreon.com/posts/33878045">You've Lost that Loving Feeling</a></strong> by The Righteous Brothers</li>
+  <li><strong><a href="https://www.patreon.com/posts/38165123">Havana</a></strong> by Camila Cabello</li>
+  <li><strong><a href="https://www.patreon.com/posts/37186031">Travis Picking vs. Traditional Fingerstyle</a></strong> (tips & techniques)</li>  
+  <li><strong><a href="https://www.patreon.com/posts/31795113">Essential Mods for the A-minor chord</a></strong> (tips & techniques)</li>  
+  <li><strong><a href="https://www.patreon.com/posts/31073686">Fingerstyle Walkdown exercise, Key of C</a></strong> (warm up exercise)</li>
+  <li><strong><a href="https://www.patreon.com/posts/39665187">"Happy Birthday" triad exercise, Key of G</a></strong> (warm up exercise)</li>
+</ul>
+
+
+
+<!-- <ul>
   <li><strong><a href="/printables/[Animals] House of the Rising Sun.pdf">House of the Rising Sun</a></strong> by The Animals</li>
   <li><strong><a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">Total Eclipse of the Heart</a></strong> by Bonnie Tyler</li>
   <li><strong><a href="/printables/[Eric Clapton] Layla.pdf">Layla</a></strong> by Eric Clapton</li>
@@ -33,24 +46,22 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <!-- <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li> -->
   <!-- <li><strong><a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">Sunday Morning Coming Down</a></strong> by Johnny Cash</li> -->
   <!-- <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li> -->
-  <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li>
-  <li><strong><a href="/printables/[Neil Young] Harvest Moon.pdf">Harvest Moon</a></strong> by Neil Young</li>
-  <li><strong><a href="/printables/[Nirvana] About a Girl.pdf">About a Girl</a></strong> by Nirvana</li>
+  <!-- <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li> -->
+  <!-- <li><strong><a href="/printables/[Neil Young] Harvest Moon.pdf">Harvest Moon</a></strong> by Neil Young</li> -->
+  <!-- <li><strong><a href="/printables/[Nirvana] About a Girl.pdf">About a Girl</a></strong> by Nirvana</li>
   <li><strong><a href="/printables/[Nirvana] Where Did You Sleep Last Night.pdf">Where Did You Sleep Last Night</a></strong> by Nirvana</li>
   <li><strong><a href="/printables/[Post Malone] Feeling Whitney.pdf">Feeling Whitney</a></strong> by Post Malone</li>
   <li><strong><a href="/printables/[Radiohead] High and Dry.pdf">High and Dry</a></strong> by Radiohead</li>
   <li><strong><a href="/printables/[Tom Petty] Runnin Down a Dream.pdf">Runnin' Down a Dream</a></strong> by Tom Petty</li>
   <li><strong><a href="/printables/[Tom Petty] Learnin to Fly.pdf">Learnin' to Fly</a></strong> by Tom Petty</li>
   <li><strong><a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">Honky Tonk Heroes</a></strong> by Wayon Jennings</li>
-</ul>
+</ul> -->
 
 ## Premium PDFs available to Patreon supporters
 
 All those supporting me on Patreon ($3/month) have access to this growing list of PDFs I've been creating since August 2018. I have been adding ~2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Here's what's currently available. Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
 
 {% assign number_of_pdfs = 0 %}
-
-
 
 {% assign songs_by_artist = site.lessons | where: "category", "full_song" | group_by: "artist" | sort: "name" %}
 <div style="column-count: 3; column-width: 300px;">
