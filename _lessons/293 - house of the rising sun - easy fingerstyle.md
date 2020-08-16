@@ -1,7 +1,7 @@
 ---
 layout: song
 title: '"House of the Rising Sun" by The Animals (fingerstyle)'
-song_title: "House of the Rising Sun"
+song_title: "House of the Rising Sun (fingerstyle)"
 artist: The Animals
 year: 1964
 tags: [Full Song Lesson, 1960s, Key of Am, Classic Rock, Fingerstyle]

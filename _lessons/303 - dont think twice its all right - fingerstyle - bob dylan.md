@@ -1,7 +1,7 @@
 ---
 layout: song
 title: '"Don''t Think Twice, It''s All Right" by Bob Dylan (fingerstyle version)'
-song_title: "Don't Think Twice, It's All Right"
+song_title: "Don't Think Twice, It's All Right (fingerstyle)"
 artist: Bob Dylan
 year: 1963
 tags: [Full Song Lesson, Key of C, 1960s, Folk, Fingerstyle, Travis Picking]
