@@ -15,9 +15,6 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21646757 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/go9KU5MIv0c?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-- NOTE: From 1:25 to 2:23, I forgot to update the chord graphic I have on the screen. This is the part where I talk about putting your index finger down to barre the 2nd fret. If you're viewing on a large screen (desktop or laptop), you'll see the YouTube annotations I added to semi-correct this. On mobile, though, you won't see this – so just be aware. I do show the proper chart at the beginning and end of the video (x24432).
-
-
 <!-- Coming soon! -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
@@ -37,3 +34,5 @@ Here's the quick diagram, with finger positions noted. See my video for more det
          Bm
 
 ## Note about a minor mistake...
+
+NOTE: From 1:25 to 2:23, I forgot to update the chord graphic I have on the screen. This is the part where I talk about putting your index finger down to barre the 2nd fret. If you're viewing on a large screen (desktop or laptop), you'll see the YouTube annotations I added to semi-correct this. On mobile, though, you won't see this – so just be aware. I do show the proper chart at the beginning and end of the video (x24432).
