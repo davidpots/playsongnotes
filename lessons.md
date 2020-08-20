@@ -51,6 +51,8 @@ permalink: /lessons/
         {% assign lesson_category = "Practice Log" %}
       {% when 'tip_technique' %}
         {% assign lesson_category = "Tip & Technique" %}
+      {% when 'generic' %}
+        {% assign lesson_category = "General & About This Channel" %}
     {% endcase %}
         "title": "{{ lesson_title }}",
         "category": "{{ lesson_category }}",
