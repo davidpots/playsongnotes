@@ -1,11 +1,11 @@
 ---
 layout: song
-title: '"The Man Who Sold the World" by David Bowie (or Nirvana's cover)'
+title: '"The Man Who Sold the World" by David Bowie'
 song_title:  The Man Who Sold the World (ukulele)
 artist: David Bowie
 year: 1970
 category: full_song
-tags: [Full Song Lesson, Ukulele, Key of C, 1970s, Classic Rock]
+tags: [Full Song Lesson, Ukulele, Key of C, 1970s, Classic Rock, Nirvana]
 slug: "17"
 ---
 
