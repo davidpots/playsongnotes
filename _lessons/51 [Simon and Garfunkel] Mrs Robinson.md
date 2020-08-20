@@ -6,7 +6,7 @@ song_title:  Mrs. Robinson
 artist: Simon and Garfunkel
 year: 1968
 category: full_song
-tags: [Full Song Lesson, Play-Along Cover, 1960s, Key of E, Key of G, Movie Songs]
+tags: [Full Song Lesson, Play-Along Cover, 1960s, Key of E, Key of G, Movie Songs, Classic Rock, Folk]
 hidden_tags: [Paul Simon]
 yt_video_id: _________
 slug: "51"
