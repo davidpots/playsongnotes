@@ -72,12 +72,18 @@ For strumming pattern, I like to use the following approach -- where each chord'
     B = downstrum, bass note only
     D = downstrum, all strings of the chord
     U = upstrum
+    > = accented strum
 
-    B D  U D U
+    1 + 2 + 3 + 4 +
+    B   D     U D U
+        >
 
 Which when repeated in sequence looks like this:
 
-    B D  U D U B D  U D U B D  U D U B D  U D U B D  U D U (etc)
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    B   D     U D U B   D     U D U B   D     U D U B   D     U D U
+        >               >               >               >
+
 
 #### Simple bass-note emphasis
 
@@ -138,70 +144,52 @@ And so on.
 ## Lyrics and chords
 
     INTRO
-
-          E . . . Emaj7 . . . A . . . A . . .
-          E . . . E     . . . B . . . B . . .
-          E . . . Emaj7 . . . A . . . A . . .
-          E . . . B     . . . E . . . E . . .
+        E . . . Emaj7 . . . A . . . A . . .
+        E . . . E     . . . B . . . B . . .
+        E . . . Emaj7 . . . A . . . A . . .
+        E . . . B     . . . E . . . E . . .
 
     VERSE
-
-        E                 Emaj7
-        I've seen love go by my door
-             A
-        It's never been this close before
-        E                           B
+        E                 Emaj7            A               A
+        I've seen love go by my door, it's never been this close before
+        E                E          B         B
         ...Never been so easy or so slow
-                  E                   Emaj7
-        I've been shooting in the dark too long
-             A
-        When something's not right it's wrong
-        E                    B                 E
+                  E               Emaj7               A               A    
+        I've been shooting in the dark too long, when something's not right it's wrong
+        E                    B                 E           E
         You're gonna make me lonesome when you go
 
-        (repeat that same chord sequence for each verse)
+        [E] Dragon clouds so [Ebmaj7] high above, I've [A] only known [A] careless love
+        [E] ...It always [E] hits me from [B] below... [B]
+        [E] This time around it's [Ebmaj7] more correct, [A] right on target, [A] so direct
+        [E] You're gonna make me [B] lonesome when you [E] go... [E]
 
-        Dragon clouds so high above
-        I've only known careless love
-        It's always hit me from below
-        This time around it's more correct
-        Right on target, so direct
-        You're gonna make me lonesome when you go
-
-        Purple clover, Queen Anne lace
-        Crimson hair across your face
-        You could make me cry if you don't know
-        Can't remember what I was thinkin' of
-        You might be spoilin' me too much, love
-        You're gonna make me lonesome when you go
+        [E] Purple clover, [Ebmaj7] Queen Anne lace... [A] crimson hair [A] across your face
+        [E] You could make me [E] cry if you don't [B] know... [B]
+        [E] Can't remember what I was [Ebmaj7] thinking of, you [A] might be spoiling me [A] too much, love
+        [E] You're gonna make me [B] lonesome when you [E] go... [E]
 
     REFRAIN
-            A6                                   E
+            A6                A6                 E       E
             ...Flowers on the hillside, bloomin' crazy
-            A6                                    E
-            ...Crickets talkin' back and forth in rhyme
+            A6                           A6        E       E
+            ...Crickets talkin' back and forth, in rhyme
             F#            F#/E             F#      F#/E
             ...Blue river runnin' slow and lazy
-            A                                  B
+            A                 A                B            B
             I could stay with you forever, and never realize the time
 
-            (repeat that same chord sequence for each refrain)
+        [E] Situations have [Ebmaj7] ended sad, [A] relationships have [A] all been bad
+        [E] Mine've been like [E] Verlaine's and [B] Rimbaud... [B]
+        But [E] there's no way I [Ebmaj7] can compare, [A] all those scenes to [A] this affair
+        [E] You're gonna make me [B] lonesome when you [E] go... [E]
 
-        Situations have ended sad
-        Relationships have all been bad
-        Mine've been like Verlaine's and Rimbaud
-        But there's no way I can compare
-        All those scenes to this affair
-        You're gonna make me lonesome when you go
+            [A6] You're gonna make me [A6] wonder what I'm [E] doin'... [E]
+            [A6] Stayin' far [A6] behind, without [E] you... [E]
+            [F#] You're gonna make me [F#/E] wonder what I'm [F#] sayin'... [F#/E]
+            [A] You're gonna make me [A] give myself a [B] good talkin' [B] to
 
-            You're gonna make me wonder what I'm doin'
-            Stayin' far behind without you
-            You're gonna make me wonder what I'm sayin'
-            You're gonna make me give myself a good talkin' to
-
-        I'll look for you in old Honolula
-        San Francisco, Ashtabula
-        You're gonna have to leave me now, I know
-        But I'll see you in the sky above
-        In the tall grass, in the ones I love
-        You're gonna make me lonesome when you go
+        I'll [E] look for you in old [Ebmaj7] Honolula, [A] San Francisco, [A] Ashtabula
+        [E] You're gonna have to [E] leave me now, I [B] know... [B]
+        But I'll [E] see you in the [Ebmaj7] sky above, in the [A] tall grass, in the [A] ones I love
+        [E] You're gonna make me [Ebmaj7] lonesome when you [E] go... [E]
