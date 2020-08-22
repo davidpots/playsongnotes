@@ -9,13 +9,13 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of E]
 slug: "26"
 redirect_from:
   - /songs/bob-dylan-you-re-gonna-make-me-lonesome-when-you-go/
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/40734544
 ---
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
