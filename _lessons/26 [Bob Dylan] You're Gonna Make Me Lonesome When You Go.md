@@ -19,6 +19,59 @@ redirect_from:
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
+## Lyrics and chords
+
+    INTRO
+        E . . . Emaj7 . . . A . . . A . . .
+        E . . . E     . . . B . . . B . . .
+        E . . . Emaj7 . . . A . . . A . . .
+        E . . . B     . . . E . . . E . . .
+
+    VERSE
+        E                 Emaj7            A               A
+        I've seen love go by my door, it's never been this close before
+        E                E          B         B
+        ...Never been so easy or so slow
+                  E               Emaj7               A               A    
+        I've been shooting in the dark too long, when something's not right it's wrong
+        E                    B                 E           E
+        You're gonna make me lonesome when you go
+
+        [E] Dragon clouds so [Emaj7] high above, I've [A] only known [A] careless love
+        [E] ...It always [E] hits me from [B] below... [B]
+        [E] This time around it's [Emaj7] more correct, [A] right on target, [A] so direct
+        [E] You're gonna make me [B] lonesome when you [E] go... [E]
+
+        [E] Purple clover, [Emaj7] Queen Anne lace... [A] crimson hair [A] across your face
+        [E] You could make me [E] cry if you don't [B] know... [B]
+        [E] Can't remember what I was [Emaj7] thinking of, you [A] might be spoiling me [A] too much, love
+        [E] You're gonna make me [B] lonesome when you [E] go... [E]
+
+    REFRAIN
+            A6                A6                 E       E
+            ...Flowers on the hillside, bloomin' crazy
+            A6                           A6        E       E
+            ...Crickets talkin' back and forth, in rhyme
+            F#            F#/E             F#      F#/E
+            ...Blue river runnin' slow and lazy
+            A                 A                B            B
+            I could stay with you forever, and never realize the time
+
+        [E] Situations have [Emaj7] ended sad, [A] relationships have [A] all been bad
+        [E] Mine've been like [E] Verlaine's and [B] Rimbaud... [B]
+        But [E] there's no way I [Emaj7] can compare, [A] all those scenes to [A] this affair
+        [E] You're gonna make me [B] lonesome when you [E] go... [E]
+
+            [A6] You're gonna make me [A6] wonder what I'm [E] doin'... [E]
+            [A6] Stayin' far [A6] behind, without [E] you... [E]
+            [F#] You're gonna make me [F#/E] wonder what I'm [F#] sayin'... [F#/E]
+            [A] You're gonna make me [A] give myself a [B] good talkin' [B] to
+
+        I'll [E] look for you in old [Emaj7] Honolula, [A] San Francisco, [A] Ashtabula
+        [E] You're gonna have to [E] leave me now, I [B] know... [B]
+        But I'll [E] see you in the [Emaj7] sky above, in the [A] tall grass, in the [A] ones I love
+        [E] You're gonna make me [Emaj7] lonesome when you [E] go... [E]
+
 ## Chord progression cheat-sheet
 
 #### Verse
@@ -39,7 +92,7 @@ redirect_from:
 
 #### Verse chords
 
-As I note in my video lesson, there's a few caveats of note here. Whenever I play the E-major chord that precedes an E-major-7, I'll only play the highest 4 strings -- which lets the walk-down in the bass note be heard much more prominently. Also, my A-major is technically an Asus2 chord -- play whicever you like. Likewise, I'm doing a modified (easier) B where the highest two strings are left open. You can replace this with a normal B-major, if you like, obviously.
+As I note in my video lesson, there's a few caveats of note here. Whenever I play the E-major chord that precedes an E-major-7, I'll only play the highest 4 strings -- which lets the walk-down in the bass note be heard much more prominently. Also, my A-major is technically an Asus2 chord -- play whichever you like. Likewise, I'm doing a modified (easier) B where the highest two strings are left open. You can replace this with a normal B-major, if you like, obviously.
 
     E ||––––0–––––0–––––0–––––0–––––
     B ||––––0–––––0–––––0–––––0–––––
@@ -61,11 +114,22 @@ I'm playing an Aadd6 for the "A6" chord I note below. You could also make that a
     E ||––––––––––0–––––2––––––0–––––––––––––––––
             A6    E     F#    F#/E   A     B
 
+
+## Basic strumming pattern
+
+The basic pattern I use is as follows. This reads "Down, down... up-down-up" if you were to speak it out loud. I'll show you some ways to add some nuance to this next, but this core pattern by itself I find helpful to start with.
+
+    D = downstrum
+    U = upstrum
+
+    1 + 2 + 3 + 4 +
+    D   D     U D U
+
 ## Strumming with bass-note emphasis
 
 #### Strumming pattern basics
 
-For strumming pattern, I like to use the following approach -- where each chord's bass note is picked once at the beginning of each strum sequence. The bass down-strum is indicated by the "B" below:
+For a more advanced strumming pattern, I like to use the following approach -- where each chord's bass note is picked once at the beginning of each strum sequence. The bass down-strum is indicated by the "B" below:
 
     B = downstrum, bass note only
     D = downstrum, all strings of the chord
@@ -87,7 +151,9 @@ Which when repeated in sequence looks like this:
 
 In practice that look like this:
 
-    E ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––|–
+    See PDF for tab diagram.
+
+    <!-- E ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––|–
     B ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––|–
     G ||––––––1–––1–1–1–––––––1–––1–1–1–––––––2–––2–2–2–––––––2–––2–2–2–––––|–
     D ||–––0––2–––2–2–2––––1––1–––1–1–1–––––––2–––2–2–2–––––––2–––2–2–2–––––|–
@@ -101,13 +167,18 @@ In practice that look like this:
     D ||––––––2–––2–2–2–––––––2–––2–2–2–––––––4–––4–4–4–––––––4–––4–4–4–––––|–
     A ||––––––2–––2–2–2–––––––2–––2–2–2––––2––2–––2–2–2––––2––2–––2–2–2–––––|–
     E ||–––0––0–––0–0–0––––0––0–––0–0–0–––––––––––––––––––––––––––––––––––––|–
-           E               E               B               B
+           E               E               B               B -->
 
 And so on.
 
-#### Advanced bass-note emphasis:
+## Advanced bass-note emphasis
 
-    E ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––––0–0–––––|–
+Finally, here's a way to use the bass-note emphasis while periodically alternating bass notes on the chords that you stay on for more than one measure. This adds difficulty, but is quite fun to practice & play -- and I think sounds great.
+
+    See PDF for tab diagram.
+    
+    
+    <!-- E ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––––0–0–––––|–
     B ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––––0–0–––––|–
     G ||––––––1–––1–1–1–––––––1–––1–1–1–––––––2–––2–2–2–––––––2–––––2–2–––––|–
     D ||–––0––2–––2–2–2––––1––1–––1–1–1–––––––2–––2–2–2––––2––2–––––2–2–––––|–
@@ -137,57 +208,4 @@ And so on.
     D ||––––––2–––2–2–2–––––––4–––4–4–4–––––––2–––2–2–2–––––––2–––2–2–2–––––|–
     A ||––––––2–––2–2–2––––2––2–––2–2–2–––––––2–––2–2–2–––––––2–––2–2–2–––––|–
     E ||–––0––0–––0–0–0––––––––––––––––––––0––0–––0–0–0––––0––0–––0–0–0–––––|–
-           E               B               E               E
-
-## Lyrics and chords
-
-    INTRO
-        E . . . Emaj7 . . . A . . . A . . .
-        E . . . E     . . . B . . . B . . .
-        E . . . Emaj7 . . . A . . . A . . .
-        E . . . B     . . . E . . . E . . .
-
-    VERSE
-        E                 Emaj7            A               A
-        I've seen love go by my door, it's never been this close before
-        E                E          B         B
-        ...Never been so easy or so slow
-                  E               Emaj7               A               A    
-        I've been shooting in the dark too long, when something's not right it's wrong
-        E                    B                 E           E
-        You're gonna make me lonesome when you go
-
-        [E] Dragon clouds so [Ebmaj7] high above, I've [A] only known [A] careless love
-        [E] ...It always [E] hits me from [B] below... [B]
-        [E] This time around it's [Ebmaj7] more correct, [A] right on target, [A] so direct
-        [E] You're gonna make me [B] lonesome when you [E] go... [E]
-
-        [E] Purple clover, [Ebmaj7] Queen Anne lace... [A] crimson hair [A] across your face
-        [E] You could make me [E] cry if you don't [B] know... [B]
-        [E] Can't remember what I was [Ebmaj7] thinking of, you [A] might be spoiling me [A] too much, love
-        [E] You're gonna make me [B] lonesome when you [E] go... [E]
-
-    REFRAIN
-            A6                A6                 E       E
-            ...Flowers on the hillside, bloomin' crazy
-            A6                           A6        E       E
-            ...Crickets talkin' back and forth, in rhyme
-            F#            F#/E             F#      F#/E
-            ...Blue river runnin' slow and lazy
-            A                 A                B            B
-            I could stay with you forever, and never realize the time
-
-        [E] Situations have [Ebmaj7] ended sad, [A] relationships have [A] all been bad
-        [E] Mine've been like [E] Verlaine's and [B] Rimbaud... [B]
-        But [E] there's no way I [Ebmaj7] can compare, [A] all those scenes to [A] this affair
-        [E] You're gonna make me [B] lonesome when you [E] go... [E]
-
-            [A6] You're gonna make me [A6] wonder what I'm [E] doin'... [E]
-            [A6] Stayin' far [A6] behind, without [E] you... [E]
-            [F#] You're gonna make me [F#/E] wonder what I'm [F#] sayin'... [F#/E]
-            [A] You're gonna make me [A] give myself a [B] good talkin' [B] to
-
-        I'll [E] look for you in old [Ebmaj7] Honolula, [A] San Francisco, [A] Ashtabula
-        [E] You're gonna have to [E] leave me now, I [B] know... [B]
-        But I'll [E] see you in the [Ebmaj7] sky above, in the [A] tall grass, in the [A] ones I love
-        [E] You're gonna make me [Ebmaj7] lonesome when you [E] go... [E]
+           E               B               E               E -->
