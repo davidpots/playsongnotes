@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Patience" by Guns N'' Roses'
+title: '"Patience" by Guns N'' Roses (play-along cover)'
 song_title: "Patience"
 artist: Guns N' Roses
 year: 1989
