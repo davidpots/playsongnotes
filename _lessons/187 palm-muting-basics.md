@@ -5,6 +5,7 @@ title: Palm muting basics
 slug: "187"
 date: 2018-10-30
 tags: [Tips & Techniques, Strumming]
+hidden_tags: [mute, muted, percussion, percussive]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22409071
 redirect_from:
