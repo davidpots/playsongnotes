@@ -5,10 +5,11 @@ category: tip_technique
 slug: "325"
 tags: [Tips & Techniques, Strumming]
 date: 2020-08-23
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/40767963
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/39450599 -->
+
 
 ## Video lesson
 
