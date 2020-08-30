@@ -39,17 +39,9 @@ Hey friends! Here's 4 new PDF chord sheets for you, giving you the print-friendl
 - Betty by Taylor Swift
 - Welcome to Paradise by Green Day (in the style of Tyler Childers)
 
-<!-- Here's a preview of all four PDFs. They're attached at the bottom of this post! -->
+## Want lessons for these? Let me know which ones!
 
-A few quick things to add:
-
-- Lessons for these are all coming, eventually -- but please let me know which you'd like to see lessons for first! That'll help me prioritize, especially as I continue to learn new songs.
-- With the exception of the Green Day song, these are all songs from the last year or two -- and are a good sample of some of the newer music that's been catching my ear.
-- I've posted the audio of me playing each of these on my website -- you can listen here. While it's not the same as a video, it may be helpful if you want to follow along with the tabs that are in my PDFs.
-- I've also posted the official "by the artist" version of each song on my website -- handy place to listen to them all in one place, to hear what these songs all sound like.
-
-<!-- Thanks, and I hope you enjoy!
-David -->
+I plan on making lessons for each of these eventually -- but would love feedback you have on which songs you'd like to see lessons for first. That'll help me prioritize things. <a href="mailto:play.songnotes@gmail.com">Email me</a> and let me know.
 
 ## Listen to these songs yourself
 
