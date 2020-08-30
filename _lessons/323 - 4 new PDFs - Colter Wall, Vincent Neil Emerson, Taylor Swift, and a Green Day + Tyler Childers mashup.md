@@ -24,6 +24,8 @@ Video timestamps:
 - 2:37 Betty by Taylor Swift
 - 3:17 Welcome to Paradise by Green Day (in the Tyler Childers style)
 - 4:49 Farewell & send your requests
+
+<!--  -->
  
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
