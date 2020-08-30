@@ -17,6 +17,14 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Video timestamps:
+
+- 0:27 Saskatchewan in 1881 by Colter Wall
+- 1:23 Manhattan Island Serenade by Vincent Neil Emerson
+- 2:37 Betty by Taylor Swift
+- 3:17 Welcome to Paradise by Green Day (in the Tyler Childers style)
+- 4:49 Farewell & send your requests
+ 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
@@ -28,17 +36,17 @@ Hey friends! Here's 4 new PDF chord sheets for you, giving you the print-friendl
 - Betty by Taylor Swift
 - Welcome to Paradise by Green Day (in the style of Tyler Childers)
 
-Here's a preview of all four PDFs. They're attached at the bottom of this post!
+<!-- Here's a preview of all four PDFs. They're attached at the bottom of this post! -->
 
-A few quick notes:
+A few quick things to add:
 
 - Lessons for these are all coming, eventually -- but please let me know which you'd like to see lessons for first! That'll help me prioritize, especially as I continue to learn new songs.
 - With the exception of the Green Day song, these are all songs from the last year or two -- and are a good sample of some of the newer music that's been catching my ear.
 - I've posted the audio of me playing each of these on my website -- you can listen here. While it's not the same as a video, it may be helpful if you want to follow along with the tabs that are in my PDFs.
 - I've also posted the official "by the artist" version of each song on my website -- handy place to listen to them all in one place, to hear what these songs all sound like.
 
-Thanks, and I hope you enjoy!
-David
+<!-- Thanks, and I hope you enjoy!
+David -->
 
 ## Listen to these songs yourself
 
