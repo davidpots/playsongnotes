@@ -10,6 +10,8 @@ tags: [Full Song Lesson, Key of Em, Country, Classic Rock]
 hidden_tags: [Leon Russell]
 redirect_to:
   - /lessons/323
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/41023187
 ---
 
 <!-- patreon_lesson_available: true

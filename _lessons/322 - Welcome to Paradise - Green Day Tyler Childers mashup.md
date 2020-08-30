@@ -9,6 +9,8 @@ slug: "322"
 tags: [Full Song Lesson, Tyler Childers, Key of D, Drop D, Country, Pop]
 redirect_to:
   - /lessons/323
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/41023187
 ---
 
 <!-- patreon_lesson_available: true

@@ -4,10 +4,11 @@ title: '4 new PDFs: Tyler Childers covering Green Day, Colter Wall, Vincent Neil
 category: generic
 date: 2020-08-21
 slug: "323"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/41023187
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
+
 
 <!-- https://youtu.be/SyahJJ332uk -->
 
