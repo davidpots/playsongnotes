@@ -49,8 +49,7 @@ David
 Here's audio of how I play it:
 
 <audio controls>
-  <source src="horse.ogg" type="/audio/323_saskatchewan_playthrough.mp3">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="/audio/323_saskatchewan_playthrough.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -61,8 +60,7 @@ Your browser does not support the audio element.
 Here's audio of how I play it:
 
 <audio controls>
-  <source src="horse.ogg" type="/audio/323_mis_playthrough.mp3">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="/audio/323_mis_playthrough.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -73,8 +71,7 @@ Your browser does not support the audio element.
 Here's audio of how I play it:
 
 <audio controls>
-  <source src="horse.ogg" type="/audio/323_betty_playthrough.mp3">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="/audio/323_betty_playthrough.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -87,7 +84,6 @@ Here's Green Day's version... obviously, the version I put together sounds very 
 Here's audio of how I play it:
 
 <audio controls>
-  <source src="horse.ogg" type="/audio/323_wtparadise_playthrough.mp3">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="/audio/323_wtparadise_playthrough.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
