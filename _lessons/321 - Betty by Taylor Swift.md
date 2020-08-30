@@ -7,6 +7,8 @@ year: 2020
 category: full_song
 slug: "321"
 tags: [Full Song Lesson, Key of C, Pop, Country]
+redirect_to:
+  - /lessons/323
 ---
 
 <!-- patreon_lesson_available: true

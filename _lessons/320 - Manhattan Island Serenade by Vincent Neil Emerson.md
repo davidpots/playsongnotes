@@ -8,6 +8,8 @@ category: full_song
 slug: "320"
 tags: [Full Song Lesson, Key of Em, Country, Classic Rock]
 hidden_tags: [Leon Russell]
+redirect_to:
+  - /lessons/323
 ---
 
 <!-- patreon_lesson_available: true

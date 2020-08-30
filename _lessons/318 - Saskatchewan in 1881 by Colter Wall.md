@@ -7,6 +7,8 @@ year: 2018
 category: full_song
 slug: "318"
 tags: [Full Song Lesson, Country, Key of C]
+redirect_to:
+  - /lessons/323
 ---
 
 <!-- patreon_lesson_available: true
