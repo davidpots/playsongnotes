@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '4 new PDFs: Colter Wall, Vincent Neil Emerson, Taylor Swift, and a Green Day + Tyler Childers mashup'
+title: '4 new PDFs: Tyler Childers covering Green Day, Colter Wall, Vincent Neil Emerson, and Taylor Swift'
 category: generic
 date: 2020-08-21
 slug: "323"
@@ -11,14 +11,83 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 <!-- https://youtu.be/SyahJJ332uk -->
 
-## Video
+<!-- ## Video -->
 
-Coming soon!
+<!-- Coming soon! -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/z5jSdu4hH5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- { % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %} -->
+{ % include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
 ## Editor's notes
 
-Coming soon!
+Hey friends! Here's 4 new PDF chord sheets for you, giving you the print-friendly goods for 4 different songs I learned on a family road trip earlier this summer. Instead of waiting until I got lessons made for each of these, I wanted to get these to you ASAP so you can have at 'em in the meantime. The four songs in question:
+
+- Saskatchewan in 1881 by Colter Wall (simplified strum version)
+- Manhattan Island Serenade by Vincent Neil Emerson
+- Betty by Taylor Swift
+- Welcome to Paradise by Green Day (in the style of Tyler Childers)
+
+Here's a preview of all four PDFs. They're attached at the bottom of this post!
+
+A few quick notes:
+
+- Lessons for these are all coming, eventually -- but please let me know which you'd like to see lessons for first! That'll help me prioritize, especially as I continue to learn new songs.
+- With the exception of the Green Day song, these are all songs from the last year or two -- and are a good sample of some of the newer music that's been catching my ear.
+- I've posted the audio of me playing each of these on my website -- you can listen here. While it's not the same as a video, it may be helpful if you want to follow along with the tabs that are in my PDFs.
+- I've also posted the official "by the artist" version of each song on my website -- handy place to listen to them all in one place, to hear what these songs all sound like.
+
+Thanks, and I hope you enjoy!
+David
+
+## Listen to these songs yourself
+
+### "Saskatchewan in 1881" by Colter Wall
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-GLE_zo2MY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here's audio of how I play it:
+
+<audio controls>
+  <source src="horse.ogg" type="/audio/323_saskatchewan_playthrough.mp3">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+### "Manhattan Island Serenade" by Vincent Neil Emerson
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG4EcixbNL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here's audio of how I play it:
+
+<audio controls>
+  <source src="horse.ogg" type="/audio/323_mis_playthrough.mp3">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+### "Betty" by Taylor Swift
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TAPqXkZW_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here's audio of how I play it:
+
+<audio controls>
+  <source src="horse.ogg" type="/audio/323_betty_playthrough.mp3">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+### "Welcome to Paradise" by Green Day (in the style of Tyler Childers)
+
+Here's Green Day's version... obviously, the version I put together sounds very different as it's acoustic and uses country-inspired riffs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOcrKFiB_ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here's audio of how I play it:
+
+<audio controls>
+  <source src="horse.ogg" type="/audio/323_wtparadise_playthrough.mp3">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
