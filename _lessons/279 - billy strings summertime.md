@@ -98,32 +98,32 @@ The rest of the chords are more straightforward. Note for the C, Billy looks lik
 
 Whether strumming or playing fingerstyle, I always prefer playing these 3 chords by (1) first plucking the bass note -- and then (2) plucking the thinnest 3-4 strings. This is tremendously helpful when it comes to capturing the sound heard in the Billy Strings version, as well as that of Doc Watson etc.
 
-See my PDF for the diagram.
+    See my PDF for the diagram.
 
-    <!-- e –––––0––      e –––––2––     e –––––3––     e –––––2––
-    B –––––0––      B –––––0––     B –––––3––     B –––––0––
-    G –––––0––      G –––––2––     G –––––0––     G –––––2––
-    D ––––(2)–      D ––––(0)–     D ––––(0)–     D ––––(0)–    ...repeat
-    A ––––––––      A ––––––––     A ––––––––     A ––––––––
-    E ––0–––––      E ––2–––––     E ––3–––––     E ––2–––––
-        Em              D/F#           G              D/F# -->
+<!-- e –––––0––      e –––––2––     e –––––3––     e –––––2––
+B –––––0––      B –––––0––     B –––––3––     B –––––0––
+G –––––0––      G –––––2––     G –––––0––     G –––––2––
+D ––––(2)–      D ––––(0)–     D ––––(0)–     D ––––(0)–    ...repeat
+A ––––––––      A ––––––––     A ––––––––     A ––––––––
+E ––0–––––      E ––2–––––     E ––3–––––     E ––2–––––
+    Em              D/F#           G              D/F# -->
 
 
 ## Chord progressions
 
-See my PDF for the diagram.
+    See my PDF for the diagram.
 
-    <!-- INTRO
-    | Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
+<!-- INTRO
+| Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
 
-    VERSE
-    | Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
-    | Am       | C        | B7        | B7       |
-    | Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
-    | G   Em   | Am  C    | Em        | B7       |
-    
-    ENDING
-    | G   Em   | Am  C    | Em        | B7       | -->
+VERSE
+| Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
+| Am       | C        | B7        | B7       |
+| Em  D/F# | G   D/F# | Em   D/F# | G   D/F# |
+| G   Em   | Am  C    | Em        | B7       |
+
+ENDING
+| G   Em   | Am  C    | Em        | B7       | -->
 
 ## Song structure
 
