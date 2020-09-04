@@ -18,24 +18,26 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/z5jSdu4hH5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-## Editor's notes
+{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
-Hey friends -- here's the lyrics and chords to "Betty" from Taylor Swift's 2020 album "Folklore". Audio of me playing it can be heard here:
+## Video lesson
+
+I haven't made a video lesson for this song yet -- but here's a preview of the PDF I made.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Audio of me playing it on guitar
+
+You can also hear me playing it on guitar in this audio clip:
 
 <audio controls>
   <source src="/audio/323_betty_playthrough.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
-
-## Video lesson
-
-I haven't made a video lesson yet -- let me know if you'd like me to make one! In the meantime, here's a preview of the PDF I made:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Lyrics and chords
+
+Here's the lyrics and chords to Betty, from Taylor Swift's 2020 album "Folklore". A print-friendly version can be found in the PDF linked further up this page.
 
     C         G/B            Am               G                 
     ...Betty, I won't make assumptions, about why you switched your
