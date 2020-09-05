@@ -16,9 +16,9 @@ patreon_lesson_url: https://www.patreon.com/posts/31322903 -->
 
 ## Video lesson
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/BwnL0t87I3Y?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gp28WQCHDoA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Coming soon...
+<!-- Coming soon... -->
 
 {% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
 
@@ -36,7 +36,6 @@ Timestmaps for my video:
 - 11:26 5. The role the thinnest string plays
 - 14:48 6. Putting it all together
 - 19:00 Farewell & final advice
-- 21:56 Full playthrough
 
 ## Watch Neil Young play it live
 
