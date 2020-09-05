@@ -9,12 +9,11 @@ year: 1972
 yt_video_id: _________
 tags: [Practice Log, 1970s, Key of D, Classic Rock, Strumming]
 slug: "326"
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/41270135
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/31322903 -->
 
-## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gp28WQCHDoA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -24,9 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/31322903 -->
 
 ## Editor's notes
 
-Hey friends! Here's an entry in my "practice log" series of videos, where I share with you tips & tidbits as I make my way through tougher sections of certain songs. This specific video will be focusing on "Old Man" by Neil Young -- particularly that opening chord (Dm9), and how to strum it and sound just like Neil. Even given an exact tab, this is by no means an easy feat. As such, I'll share with you here the 5-6 exercises I created for myself when learning this opening chord -- in the likely event they may be helpful to you.
+Hey friends! In this video I'll focus on "Old Man" by Neil Young -- in particular, that opening chord (Dm9), and how to strum it and sound just like Neil. Even given an exact tab, this is by no means an easy feat. As such, I'll share with you here the 5-6 exercises I created for myself when learning this opening chord -- in the likely event they may be helpful to you. For context, this is an entry in my "practice log" series of videos, where I share with you tips & tidbits as I make my way through tougher sections of certain songs.
 
-Timestmaps for my video:
+Timestamps for my video:
 
 - 0:00 Lesson overview
 - 1:45 1. Learning the two chord shapes
@@ -36,6 +35,10 @@ Timestmaps for my video:
 - 11:26 5. The role the thinnest string plays
 - 14:48 6. Putting it all together
 - 19:00 Farewell & final advice
+
+## Video lesson for the full song
+
+Coming soon -- check back the weekend of September 12, 2020.
 
 ## Watch Neil Young play it live
 
