@@ -1,0 +1,145 @@
+I""#<h2 id="video-lesson">Video lesson</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9F34Iabi7eI?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2> HOLLY JOLLY CHRISMAS </h2>
+
+<h2 id="capo-and-chords-needed">Capo and chords needed</h2>
+
+<p>This entire song uses the same progression:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C#m . . . F#m . . . A . . . B . . .
+</code></pre></div></div>
+
+<p>These chords the vi, ii, IV, and V triads in the key of E major. By adding a capo, we can play the same relative progression but use different chord shapes. Here’s a map of the chords you’d need, depending on where you used a capo (if at all):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>          vi   ii   IV  V
+          ------------------
+No Capo   C#m  F#m  A   B
+Capo 2    Bm   Em   G   A
+Capo 4    Am   Dm   F   G
+Capo 9    Em   Am   C   D
+</code></pre></div></div>
+
+<p>In this lesson, I’ll show you how to play the chords and intro riff for each the keys above.</p>
+
+<h2 id="no-capo-key-of-e--c-minor">No capo (key of E / C# minor)</h2>
+
+<p>Chords needed:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––4––––2––––5––––7––––
+B –––5––––2––––5––––7––––
+G –––6––––2––––6––––8––––
+D –––6––––4––––7––––9––––
+A –––4––––4––––7––––9––––
+E ––––––––2––––5––––7––––
+    C#m  F#m   A    B
+</code></pre></div></div>
+
+<p>Intro riff, using one string:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E ––––––––––––––––––––––––––––––––––––––
+B ––––––––––––––––––––––––––––––––––––––
+G –––6–9–6–––6–9–6–––6–9–6–––8–6–4––––––
+D ––––––––––––––––––––––––––––––––––––––
+A ––––––––––––––––––––––––––––––––––––––
+E ––––––––––––––––––––––––––––––––––––––
+</code></pre></div></div>
+
+<p>Intro riff, using two strings:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E ––––––––––––––––––––––––––––––––––––––
+B –––––5–––––––5–––––––5–––––4––––––––––
+G –––6–––6–––6–––6–––6–––6–––––6–4––––––
+D ––––––––––––––––––––––––––––––––––––––
+A ––––––––––––––––––––––––––––––––––––––
+E ––––––––––––––––––––––––––––––––––––––
+</code></pre></div></div>
+
+<h2 id="capo-2-key-of-d--b-minor">Capo 2 (key of D / B minor)</h2>
+
+<p>Chords needed:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––2––––0––––3––––0––––
+B –––3––––0––––0––––2––––
+G –––4––––0––––0––––2––––
+D –––4––––2––––0––––2––––
+A –––2––––2––––2––––0––––
+E ––––––––0––––3–––––––––
+     Bm   Em   G    A
+</code></pre></div></div>
+
+<p>Intro riff:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––––––––––––––––––––––––––––––––––––––––
+B –––––3–––––––––3–––––––––3–––––––2–––––––
+G –––4–––4–––––4–––4–––––4–––4–––––––4–2–––
+D –––––––––––––––––––––––––––––––––––––––––
+A –––2–2–2–––––––––––––––––––––––––0–0–0–––
+E –––––––––––––0–0–0–––––3–3–3–––––––––––––
+     Bm        Em        G         A
+</code></pre></div></div>
+
+<h2 id="capo-4-key-of-c--a-minor">Capo 4 (key of C / A minor)</h2>
+
+<p>Chords needed:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––0––––1–––(1)–––3––––
+B –––1––––1––––1––––0––––
+G –––2––––2––––2––––0––––
+D –––2––––0––––3––––0––––
+A –––0––––––––(3)–––2––––
+E ––––––––––––(1)–––3––––
+     Am  Dm7   F    G
+</code></pre></div></div>
+
+<p>Intro riff:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––––––––––––––––––––––––––––––––––––––––
+B –––––1–––––––––1–––––––––1–––––––0–––––––
+G –––2–––2–––––2–––2–––––2–––2–––––––2–0–––
+D –––––––––––––0–0–0–––––3–3–3–––––––––––––
+A –––0–0–0–––––––––––––––––––––––––––––––––
+E –––––––––––––––––––––––––––––––––3–3–3–––
+     Am        Dm7       F         G
+</code></pre></div></div>
+
+<h2 id="capo-9-key-of-g--e-minor">Capo 9 (key of G / E minor)</h2>
+
+<p>Chords needed:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––0––––0––––0––––2––––
+B –––0––––1––––1––––3––––
+G –––0––––2––––0––––2––––
+D –––2––––2––––2––––0––––
+A –––2––––0––––3–––––––––
+E –––0–––––––––––––––––––
+     Em   Am   C    D
+</code></pre></div></div>
+
+<p>Intro riff, lower octave:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––––––––––––––––––––––––––––––––––––––––
+B –––––––––––––––––––––––––––––––––––––––––
+G –––––––––––––––––––––––––––––––––––––––––
+D –––2–5–2–––––2–5–2–––––2–5–2–––––4–2–0–––
+A –––––––––––––0–0–0–––––3–3–3–––––0–0–0–––
+E –––0–0–0–––––––––––––––––––––––––––––––––
+     Em        Am        C         D
+</code></pre></div></div>
+
+<p>Intro riff, higher octave:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––0–3–0–––––0–3–0–––––0–3–0–––––2–0–––––
+B ––(0)–––––––(1)–––––––(1)–––––––(3)––3–––
+G ––(0)–––––––(2)–––––––(0)–––––––(2)––––––
+D –––––––––––––––––––––––––––––––––0–0–0–––
+A –––––––––––––0–0–0–––––3–3–3–––––––––––––
+E –––0–0–0–––––––––––––––––––––––––––––––––
+     Em        Am        C         D
+</code></pre></div></div>
+
+<h2 id="enjoy">Enjoy!</h2>
+
+<p>Let me know if you have questions. I hope this is helpful!</p>
+:ET

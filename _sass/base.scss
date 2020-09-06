@@ -58,6 +58,7 @@
       font-size: 13px;
       color: $gray;
       font-weight: bold;
+      text-decoration: none;
       &:hover {
         background: #f1f1f1;
         border-color: #aaa;
@@ -155,6 +156,7 @@
     a {
       color: #000;
       display: block;
+      text-decoration: none;
       &:hover span {
         border-bottom: 2px solid black;
       }
@@ -262,6 +264,7 @@ iframe {
   margin-bottom: 7px;
   font-size: $font-size--xsmall;
   padding: 4px 8px;
+  text-decoration: none;
 }
 
 // Lesson Head
@@ -311,4 +314,61 @@ iframe {
       float: left; // desktop only
       width: 25%;
     }
+}
+
+
+// PDF Module v2
+
+.pdf_module_v2 {
+  background: #FFFBE8;
+  border: 1px solid #F4E6A3;
+  border-radius: 5px;
+  padding: 24px;
+  overflow: hidden;
+  width: auto;
+}
+.pdf_module_v2__image {
+  float: left;
+  width: 200px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+.pdf_module_v2__content {
+  float: right;
+  width: calc(100% - 200px - 24px);
+}
+.pdf_module_v2__headline {
+  font-size: 21px;
+  margin-top: 0;
+}
+.pdf_module_v2__list {
+}
+.pdf_module_v2__button {
+  display: inline-block;
+  background: #295BFA;
+  border-radius: 3px;
+  color: white;
+  padding: 10px 18px;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.pdf_module_v2__footnote {
+  // display: inline;
+  font-size: 12px;
+  line-height: 15px;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: $breakpoint--desktop) {
+  .pdf_module_v2__image {
+    float: none;
+    display: block;
+    margin: 0 auto 24px;
+    width: 320px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+  }
+  .pdf_module_v2__content {
+    float: none;
+    width: 100%;
+  }
 }

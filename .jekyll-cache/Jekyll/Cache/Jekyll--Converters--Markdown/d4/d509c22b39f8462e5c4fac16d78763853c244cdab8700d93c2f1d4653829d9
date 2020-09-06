@@ -1,0 +1,100 @@
+I"�<h2 id="video-lesson">Video lesson</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/86NqPVMOnK4?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2>PDF not yet available...</h2>
+
+<p>I have not yet made a PDF version of this lesson. If you'd like to request that I make one, <a href="mailto:play.songnotes@gmail.com?subject=PDF Request for 'They Can't See'">shoot me an email</a> and please let me know - I am always adding back catalog lessons to my PDF library.</p>
+<p class="small"><em><a href="http://playsongnotes.com/downloads">Here's a list</a> of the 150+ lessons I have made PDFs for.</em></p>
+
+<h2 id="chords-needed-for-99-of-the-song">Chords needed for 99% of the song</h2>
+
+<p>You’ll need to be able to play these chords. The C#m is most certainly going to the hardest of these, especially if you’ve never played barre chords before. If this vexes you, stay tuned – you can likely fake your way through the song and pull off the C#m without barring the full 4th fret.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E ––––0–––––4–––––0–––––0–––––
+B ––––0–––––5–––––2–––––0–––––
+G ––––1–––––6–––––2–––––2–––––
+D ––––2–––––6–––––2–––––2–––––
+A ––––2–––––4–––––0–––––0–––––
+E ––––0–––––––––––––––––––––––
+      E    C#m    A   Asus2      
+</code></pre></div></div>
+
+<h2 id="main-progression">Main progression</h2>
+
+<p>Pretty much the entire song uses this riff. You’re on each of these chords for a single measure (basically 4 counts), but what makes things interesting is how you’re only plucking 3 of the stirngs for each chord.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –|–––––––––––––––|––––––––(4)––––|–––––––––––––––|––––––––––(0)––|–
+B –|–––––––––––––––|––5––––––––––––|––2––0–––––––––|––0––––––––––––|–
+G –|––1––––––––––––|––6––––––––––––|––2––2–––––––––|––1––––––––––––|–
+D –|––2––––––––––––|–––––––––––––––|–––––––––––––––|–––––––––––––––|–
+A –|–––––––––––––––|––4––––––––––––|––0––––––––––––|–––––––––––––––|–
+E –|––0––––––––––––|–––––––––––––––|–––––––––––––––|––0––––––––––––|–
+      E               C#m             A               E
+</code></pre></div></div>
+
+<p>Understand that for each chord above, your left hand should be in the normal position for that chord:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –|––0––––––––––––|––4––––––––––––|––0––––––––––––|––0––––––––––––|–
+B –|––0––––––––––––|––5––––––––––––|––2––––––––––––|––0––––––––––––|–
+G –|––1––––––––––––|––6––––––––––––|––2––––––––––––|––1––––––––––––|–
+D –|––2––––––––––––|––6––––––––––––|––2––––––––––––|––2––––––––––––|–
+A –|––2––––––––––––|––4––––––––––––|––0––––––––––––|––2––––––––––––|–
+E –|––0––––––––––––|–––––––––––––––|–––––––––––––––|––0––––––––––––|–
+      E               C#m             A               E
+</code></pre></div></div>
+
+<p>But on your picking hand, your fingers are only targeting the strings that need to be played.</p>
+
+<p>For the E,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E ––(0)–––
+B ––(0)–––
+G –––1––––  &lt;-- right middle finger   
+D –––2––––  &lt;-- right index finger    
+A ––(2)–––                            
+E –––0––––  &lt;-- right thumb           
+     E      
+</code></pre></div></div>
+
+<p>For the C#m,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E ––(4)–––
+B –––5––––  &lt;-- right middle finger   
+G –––6––––  &lt;-- right index finger    
+D ––(6)–––                            
+A –––4––––  &lt;-- right thumb           
+E ––––––––
+    C#m   
+</code></pre></div></div>
+
+<p>For the A,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E ––(0)–––
+B –––2––––  &lt;-- right middle finger   
+G –––2––––  &lt;-- right index finger    
+D ––(2)–––                            
+A –––0––––  &lt;-- right thumb           
+E ––––––––
+     A  
+</code></pre></div></div>
+
+<p>And so on. Feel free to slightly deviate from these tabs if you wish (it sounds like Micahel Tyler does from time to time).</p>
+
+<h2 id="bridge-chords">Bridge chords</h2>
+
+<p>You’ll also need an F#m and B chords for the bridge (in addition to a C#m, which is shown above). Use the same strumming / fingerpicking approach shown above for those chords. If you can’t play a regular B, you can sub in a B7.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>–––2––––2––––2––––
+–––2––––4––––0––––
+–––2––––4––––2––––
+–––4––––4––––1––––
+–––4––––2––––2––––
+–––2––––––––––––––
+  F#m   B    B7
+</code></pre></div></div>
+
+<h2 id="thats-it">That’s it!</h2>
+
+<p>I hope this was helpful! This is a fun song – and that single progression isn’t a ton to memorize. Enjoy.</p>
+:ET

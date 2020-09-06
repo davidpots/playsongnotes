@@ -66,7 +66,7 @@ permalink: /lessons/
 $(document).ready(function(){
 
   for (i = 0; i < {{latest_lesson_number}}; i++) {
-    $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>');
+    $('#search-results').append('<li class="song-listing"><div style="overflow: hidden; width: auto;"><img style="width: 120px; float: left;" src="/images/pdfs/preview/'+lessons[i].slug+'.jpg" /><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></div></li>');
   }
 
 });
