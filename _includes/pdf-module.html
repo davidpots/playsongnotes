@@ -1,9 +1,15 @@
+{% if include.pdf_numpages == 1 %}
+  {% assign pdf_numpages_string = "1 page" %}
+{% else %}
+  {% assign pdf_numpages_string = include.pdf_numpages | append: " pages" %}
+{% endif %}
+
 {% if include.pdf_version == "v2" %}
 
   <div class="pdf_module_v2">
-    <div class="pdf_module_v2__image" style="background-image: url(https://playsongnotes.com/images/pdfs/preview/{{include.slug}}.jpg)"></div>
+    <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div>
     <div class="pdf_module_v2__content">
-      <h3 class="pdf_module_v2__headline">Get the PDF chord sheet <span>({{include.pdf_numpages}} pages)</span></h3>
+      <h3 class="pdf_module_v2__headline">Get the PDF chord sheet <span>({{pdf_numpages_string}})</span></h3>
       <ul class="pdf_module_v2__list">
         <li>Support me on Patreon.com to get access to this and <a href="/downloads">200+ other PDF chord sheets</a> I've made, plus new PDFs I make going forward (1-2 added each week).</li>
         <li>The cost is $3/month (one month minimum, cancel anytime). <a href="/downloads">Here's a free sample</a> if you're on the fence. Thanks for supporting me & this project!</li>

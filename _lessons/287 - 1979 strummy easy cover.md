@@ -10,9 +10,19 @@ date: 2020-02-29
 tags: [Play-Along Cover, Key of E, 1990s, Rock]
 redirect_to:
   - /lessons/285
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34261805
 ---
+
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34261805 -->

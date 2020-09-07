@@ -8,6 +8,8 @@ category: full_song
 tags: [Full Song Lesson, Key of E, 1990s, Rock]
 slug: "285"
 date: 2020-02-18
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34261805
 ---
@@ -23,9 +25,15 @@ My cover version, which uses a strummier "easy" arrangement (lesson #287):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/917KRUQ747o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-PDFs chord sheets for each versions are available via the link below.
+PDFs chord sheets for both versions are available via the link below.
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 
