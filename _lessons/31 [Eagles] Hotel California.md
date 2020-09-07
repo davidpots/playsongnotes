@@ -24,7 +24,13 @@ Note, if you're in the USA this video is likely blocked because of frustrating c
 
 
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 
 

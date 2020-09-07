@@ -23,7 +23,13 @@ patreon_lesson_url: https://www.patreon.com/posts/28613126
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bsKlf0yQ4h8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 <!-- Coming soon! -->
 

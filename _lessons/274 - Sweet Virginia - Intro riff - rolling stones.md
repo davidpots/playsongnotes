@@ -21,7 +21,13 @@ Here's my lesson on how to play the intro (first 20 measures). Check back later 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YS0up2Oo8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 

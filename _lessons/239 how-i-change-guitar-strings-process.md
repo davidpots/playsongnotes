@@ -19,7 +19,13 @@ For a print-ready PDF of this lesson, [become a supporter on my Patreon page](ht
 
 <!-- Coming soon! Look for it Thursday, March 7. -->
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 

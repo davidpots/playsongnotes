@@ -26,7 +26,13 @@ Hey friends! Here's the lyrics, chords, and chord progressions for the song "Man
 Your browser does not support the audio element.
 </audio>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Lyrics and chords
 
