@@ -8,6 +8,8 @@ tags: [Full Song Lesson, Key of C, 1960s, Folk]
 category: full_song
 slug: "301"
 date: 2020-05-24
+pdf_version: v2
+pdf_numpages: 6
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37472250
 ---
@@ -56,7 +58,13 @@ Timestamps for my fingerstyle video lesson:
 
 Note, the same 6-page PDF chord sheet (linked below) works for both of video lessons shown above.
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 
