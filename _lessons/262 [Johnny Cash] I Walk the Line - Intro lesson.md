@@ -9,6 +9,8 @@ slug: "262"
 tags: [Warm Up Exercise, 1950s, Key of E, Key of A, Key of D, Country, Walking Bass Lines]
 redirect_to:
   - /lessons/6
+pdf_version: v2
+pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30878699
 ---
