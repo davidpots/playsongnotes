@@ -11,6 +11,8 @@ slug: "151"
 tags: [Full Song Lesson, 1970s, Country, Key of G]
 redirect_from:
   - /songs/john-denver-take-me-home-country-roads/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21821096
 ---
@@ -20,7 +22,13 @@ patreon_lesson_url: https://www.patreon.com/posts/21821096
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ThjbFUX0gHA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 
 ## Video timestamps
