@@ -346,6 +346,7 @@ iframe {
     font-size: 14px;
     color: #C1B36D;
     padding-left: 6px;
+    white-space: nowrap;
   }
 }
 .pdf_module_v2__list {
@@ -372,8 +373,8 @@ iframe {
     float: none;
     display: block;
     margin: 0 auto 24px;
-    width: 320px;
-    height: 420px;
+    width: 300px;
+    height: 394px;
     box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
   }
   .pdf_module_v2__content {
