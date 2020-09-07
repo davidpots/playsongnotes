@@ -14,15 +14,27 @@ redirect_from:
   - /songs/johnny-cash-i-walk-the-line/
   - /lessons/262
   - /songs/x-johnny-cash-i-walk-the-line/
+pdf_version: v2
+pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30878699
 ---
 
-## Intro riff (lesson #262)
-
-Here's a new lesson focusing 100% on the intro riff. I break things down in detail, showing you three different ways to play it: (1) an easy approach starting with just the bass notes; (2) a slightly more difficult version adding single strums of each chord; and (3) a more advanced version that brings in muted strumming as well as the "book chicka" percussive sound heard in much of Johnny Cash's playing.
+## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4XAC7x1vTw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
+
+## Learning the intro riff (lesson #262)
+
+My video lesson above focuses 100% on the intro riff. I break things down in detail, showing you three different ways to play it: (1) an easy approach starting with just the bass notes; (2) a slightly more difficult version adding single strums of each chord; and (3) a more advanced version that brings in muted strumming as well as the "book chicka" percussive sound heard in much of Johnny Cash's playing.
 
 Lesson timestamps:
 
@@ -37,10 +49,6 @@ Lesson timestamps:
 Here's an older video I did (from 2014) showing how to play all the verse sections, including the walk ups & walk downs between each verse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPf0HLvc3L8?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
-
-<a href="{{page.patreon_lesson_url}}"><img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/30878699/5a4f059d5ebe4d70bac27df0b94145ca/1.png?token-time=1572652800&token-hash=2CfreVWdcof6jZ_S2_1N_JPaixklIVrFkLn3Pu93os0%3D" /></a>
 
 ## Chords w/ lyrics
 

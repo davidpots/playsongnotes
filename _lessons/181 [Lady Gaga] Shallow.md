@@ -12,6 +12,9 @@ tags: [Full Song Lesson, Key of Em, 2010s, Movie Songs, Country]
 hidden_tags: [a star is born, star is born]
 redirect_from:
   - /songs/lady-gaga-shallow/
+date: 2018-10-11
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21995927
 ---
@@ -20,7 +23,13 @@ patreon_lesson_url: https://www.patreon.com/posts/21995927
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnYes88W2ic?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Play-along cover
 
