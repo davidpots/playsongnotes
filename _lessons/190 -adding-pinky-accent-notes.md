@@ -2,7 +2,7 @@
 layout: song
 title: Adding pinky accent notes to a chord progression
 slug: "190"
-date: 2018-11-11
+date_published: 2018-11-11
 category: practice_log
 tags: [Practice Log, Key of C, Learning Chords]
 hidden_tags: [Delicate, Taylor Swift]

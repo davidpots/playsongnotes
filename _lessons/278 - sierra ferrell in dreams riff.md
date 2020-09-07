@@ -2,7 +2,7 @@
 layout: song
 title: Sierra Ferrell "In Dreams"-inspired riff
 category: warmup
-date: 2020-01-21
+date_published: 2020-01-21
 slug: "278"
 tags: [Warm Up Exercise, Key of D, 2010s, Country, Walking Bass Lines]
 patreon_lesson_available: true

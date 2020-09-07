@@ -7,7 +7,7 @@ year: 1981
 category: full_song
 tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle]
 slug: "284"
-date: 2020-02-12
+date_published: 2020-02-12
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34051720
 ---

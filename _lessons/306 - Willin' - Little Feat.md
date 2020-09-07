@@ -7,7 +7,7 @@ year: 1972
 tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 category: full_song
 slug: "306"
-date: 2020-06-13
+date_published: 2020-06-13
 pdf_version: v2
 pdf_numpages: 4
 patreon_lesson_available: true

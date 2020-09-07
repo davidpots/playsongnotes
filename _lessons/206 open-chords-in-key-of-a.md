@@ -6,7 +6,7 @@ redirect_from:
 title: Open chords in the Key of A
 slug: "206"
 tags: [Warm Up Exercise, Key of A, Learning Chords]
-date: 2019-01-12
+date_published: 2019-01-12
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23932562/
 ---

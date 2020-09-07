@@ -5,7 +5,7 @@ redirect_from:
   - /warmup/15/
 title: Barre Chord Exercise for Smells Like Teen Spirit
 slug: "215"
-date: 2019-02-13
+date_published: 2019-02-13
 tags: [Warm Up Exercise, 1990s, Rock, Learning Chords]
 hidden_tags: [Nirvana]
 patreon_lesson_available: true

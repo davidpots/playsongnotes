@@ -7,7 +7,7 @@ year: 1963
 tags: [Full Song Lesson, Key of C, 1960s, Folk]
 category: full_song
 slug: "301"
-date: 2020-05-24
+date_published: 2020-05-24
 pdf_version: v2
 pdf_numpages: 6
 patreon_lesson_available: true

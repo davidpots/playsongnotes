@@ -7,7 +7,7 @@ year: 1971
 tags: [Full Song Lesson, Warm Up Exercise, Key of Gs, 1970s, Fingerstyle, Travis Picking, Country]
 category: full_song
 slug: "295"
-date: 2020-04-05
+date_published: 2020-04-05
 pdf_version: v2
 pdf_numpages: 4
 patreon_lesson_available: true

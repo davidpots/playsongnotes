@@ -2,7 +2,7 @@
 layout: song
 title: A-minor blues improvisation w/ backing track
 slug: "217"
-date: 2019-02-20
+date_published: 2019-02-20
 category: practice_log
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24872694

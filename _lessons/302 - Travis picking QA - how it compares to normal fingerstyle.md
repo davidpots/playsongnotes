@@ -4,7 +4,7 @@ title: 'Travis Picking vs. "Normal" Fingerstyle'
 category: tip_technique
 slug: "302"
 tags: [Tips & Techniques, Fingerstyle, Travis Picking, Questions & Answers, Key of C]
-date: 2020-05-16
+date_published: 2020-05-16
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

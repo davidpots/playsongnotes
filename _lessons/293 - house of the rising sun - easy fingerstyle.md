@@ -7,7 +7,7 @@ year: 1964
 tags: [Full Song Lesson, 1960s, Key of Am, Classic Rock, Fingerstyle]
 category: full_song
 slug: "293"
-date: 2020-03-31
+date_published: 2020-03-31
 redirect_to:
   - /lessons/96
 pdf_version: v2

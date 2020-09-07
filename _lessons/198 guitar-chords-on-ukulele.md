@@ -3,7 +3,7 @@ layout: song
 category: tip_technique
 title: Guitar chords on a ukulele
 slug: "198"
-date: 2018-12-13
+date_published: 2018-12-13
 tags: [Tips & Techniques, Learning Chords, Ukulele]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23324554/

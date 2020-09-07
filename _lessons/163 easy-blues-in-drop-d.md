@@ -6,7 +6,7 @@ redirect_from:
 title: Two-finger acoustic blues in Drop-D Tuning
 tags: [Warm Up Exercise, Key of D, Drop D, Blues]
 slug: "163"
-date: 2018-07-24
+date_published: 2018-07-24
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41294133
 ---

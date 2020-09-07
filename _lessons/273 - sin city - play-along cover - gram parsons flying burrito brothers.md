@@ -6,7 +6,7 @@ artist: Gram Parsons
 year: 1969
 category: playalong_cover
 tags: [Play Along Cover, Key of C, 1960s, Country]
-date: 2019-12-26
+date_published: 2019-12-26
 slug: "273"
 redirect_to:
   - /lessons/272

@@ -2,7 +2,7 @@
 layout: song
 title: Practicing with a backing track (feat. Tennessee Whiskey)
 slug: "195"
-date: 2018-12-01
+date_published: 2018-12-01
 category: practice_log
 tags: [Practice Log, Backing Track, Key of A, Country, 2010s, Walking Bass Lines, Licks & Fills]
 hidden_tags: [Chris Stapleton]

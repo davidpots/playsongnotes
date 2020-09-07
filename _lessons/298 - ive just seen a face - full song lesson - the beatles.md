@@ -7,7 +7,7 @@ year: 1965
 tags: [Full Song Lesson, Key of G, 1960s, Classic Rock]
 category: full_song
 slug: "298"
-date: 2020-05-04
+date_published: 2020-05-04
 pdf_version: v2
 pdf_numpages: 6
 patreon_lesson_available: true

@@ -4,7 +4,7 @@ title: Playing around in Drop-D tuning
 slug: "162"
 category: practice_log
 tags: [Practice Log, Key of D, Drop D, Learning Chords]
-date: 2018-07-20
+date_published: 2018-07-20
 redirect_from:
   - /practice/1
 ---

@@ -43,7 +43,7 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <li><strong><a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">Total Eclipse of the Heart</a></strong> by Bonnie Tyler</li>
   <li><strong><a href="/printables/[Eric Clapton] Layla.pdf">Layla</a></strong> by Eric Clapton</li>
   <li><strong><a href="/printables/[Game of Thrones] Theme Song.pdf">Game of Thrones</a></strong> theme song</li>
-  <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li> 
+  <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li>
   <li><strong><a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">Sunday Morning Coming Down</a></strong> by Johnny Cash</li>
   <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li>
   <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li>
@@ -64,7 +64,8 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 {% assign number_of_pdfs = 0 %}
 
 {% assign songs_by_artist = site.lessons | where: "category", "full_song" | group_by: "artist" | sort: "name" %}
-<div style="column-count: 3; column-width: 300px;">
+
+<div class="multi_column_list">
 {% for artist in songs_by_artist %}
 {% assign artist_count = 0 %}
 
@@ -75,6 +76,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
   {% endif %}
 
 {% endfor %}
+
 
 {% if artist_count > 0 %}
   <h3 class="mbn">{{artist.name}}</h3>
@@ -97,38 +99,39 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 
 
+
 ## Warm Up Exercise PDFs:
 
-    {% assign sorted_warmups = site.lessons | where: "category","warmup" | sort: 'date' | reverse %}
+    {% assign sorted_warmups = site.lessons | where: "category","warmup" | sort: 'date_published' | reverse %}
 <ul>
     {% for warmup in sorted_warmups %}
       {% if warmup.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{warmup.url}}">{{ warmup.title }}</a></strong><br /> <span class="small">{{ warmup.date | date: "%b %-d, %Y" }} • Lesson #{{ warmup.slug }}</span></li>
+<li><strong><a href="{{warmup.url}}">{{ warmup.title }}</a></strong><br /> <span class="small">{{ warmup.date_published | date: "%b %-d, %Y" }} • Lesson #{{ warmup.slug }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>
 
 ## Practice Log PDFs:
 
-    {% assign sorted_plogs = site.lessons | where: "category","practice_log" | sort: 'date' | reverse %}
+    {% assign sorted_plogs = site.lessons | where: "category","practice_log" | sort: 'date_published' | reverse %}
 <ul>
     {% for plog in sorted_plogs %}
       {% if plog.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{plog.url}}">{{ plog.title }}</a></strong><br /><span class="small">{{ plog.date | date: "%b %-d, %Y" }} • Lesson #{{ plog.slug }}</span></li>
+<li><strong><a href="{{plog.url}}">{{ plog.title }}</a></strong><br /><span class="small">{{ plog.date_published | date: "%b %-d, %Y" }} • Lesson #{{ plog.slug }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>
 
 ## Tips & Technique PDFs:
 
-    {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date' | reverse %}
+    {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date_published' | reverse %}
 <ul>
     {% for tip in sorted_tips %}
       {% if tip.patreon_lesson_available == true %}
       {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{tip.url}}">{{ tip.title }}</a></strong><br /><span class="small">{{ tip.date | date: "%b %-d, %Y" }} • Lesson #{{ tip.slug }}</span></li>
+<li><strong><a href="{{tip.url}}">{{ tip.title }}</a></strong><br /><span class="small">{{ tip.date_published | date: "%b %-d, %Y" }} • Lesson #{{ tip.slug }}</span></li>
       {% endif %}
     {% endfor %}
 </ul>

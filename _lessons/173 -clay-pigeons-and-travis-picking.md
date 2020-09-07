@@ -2,7 +2,7 @@
 layout: song
 title: Learning to Travis Pick with "Clay Pigeons"
 slug: "173"
-date: 2018-09-13
+date_published: 2018-09-13
 category: practice_log
 tags: [Practice Log, Country, Key of G, 2000s, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking, finger picking, finger style, john prine, blaze foley]

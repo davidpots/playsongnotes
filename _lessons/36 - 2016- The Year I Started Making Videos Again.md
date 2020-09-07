@@ -2,7 +2,7 @@
 layout: song
 title: '2016: The Year I Started Making Videos Again'
 category: generic
-date: 2016-12-30
+date_published: 2016-12-30
 slug: "36"
 ---
 

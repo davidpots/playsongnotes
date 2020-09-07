@@ -3,7 +3,7 @@ layout: song
 title: 'Backwoods Pull-Off Exercise (Key of C)'
 category: warmup
 slug: "304"
-date: 2020-06-01
+date_published: 2020-06-01
 tags: [Warm Up Exercise, Key of C, Learning Chords]
 pdf_version: v2
 pdf_numpages: 2

@@ -3,7 +3,7 @@ layout: song
 title: 'Happy Birthday triad exercise (Key of G)'
 category: warmup
 slug: "312"
-date: 2020-07-23
+date_published: 2020-07-23
 tags: [Warm Up Exercise, Key of G, Learning Chords]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39665187

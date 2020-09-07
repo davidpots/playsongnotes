@@ -2,7 +2,7 @@
 layout: song
 title: Travis picking finger technique (right-hand index & pinky)
 slug: "227"
-date: 2019-03-18
+date_published: 2019-03-18
 category: practice_log
 tags: [Practice Log, Key of G, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking,finger picking, finger style, chris moreland, tulsa county stars]

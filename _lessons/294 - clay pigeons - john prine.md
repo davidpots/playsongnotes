@@ -8,7 +8,7 @@ tags: [Full Song Lesson, 1980s, 2000s, Fingerstyle, Travis Picking, Country, Key
 hidden_tags: [Blaze Foley]
 category: full_song
 slug: "294"
-date: 2020-04-08
+date_published: 2020-04-08
 pdf_version: v2
 pdf_numpages: 4
 patreon_lesson_available: true

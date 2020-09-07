@@ -4,7 +4,7 @@ title: 'Syncopation and Sus Chords'
 category: tip_technique
 slug: "289"
 tags: [Tips & Techniques, Learning Chords, Strumming]
-date: 2020-03-19
+date_published: 2020-03-19
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true

@@ -4,7 +4,7 @@ title: 'Silencing the strings on the 2 count (percussive technique)'
 category: tip_technique
 slug: "325"
 tags: [Tips & Techniques, Strumming]
-date: 2020-08-23
+date_published: 2020-08-23
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/40767963
 ---

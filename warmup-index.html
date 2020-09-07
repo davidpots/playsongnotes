@@ -11,10 +11,10 @@ permalink: /warmup/index.html
 
     <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
 
-    {% assign warmups = site.lessons | where: "category","warmup" | sort: 'date' %}
+    {% assign warmups = site.lessons | where: "category","warmup" | sort: 'date_published' %}
 
     {% for w in warmups reversed %}
-      <li class="mbs"><a class="underline" href="{{ w.url | relative_url }}"><strong>{{ w.title }} </strong></a><br /><em class="small">{{ w.date | date: "%B %-d, %Y"}} • Lesson #{{ w.slug}}</em></li>
+      <li class="mbs"><a class="underline" href="{{ w.url | relative_url }}"><strong>{{ w.title }} </strong></a><br /><em class="small">{{ w.date_published | date: "%B %-d, %Y"}} • Lesson #{{ w.slug}}</em></li>
     {% endfor %}
   </ul>
 

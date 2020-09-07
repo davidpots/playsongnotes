@@ -3,7 +3,7 @@ layout: song
 title: 'Riffs with Circular Bass Notes'
 category: warmup
 slug: "314"
-date: 2020-07-25
+date_published: 2020-07-25
 tags: [Warm Up Exercise, Key of E, Learning Chords]
 hidden_tags: [night I painted the sky]
 patreon_lesson_available: true

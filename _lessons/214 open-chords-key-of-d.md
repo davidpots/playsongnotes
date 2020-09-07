@@ -6,7 +6,7 @@ redirect_from:
 title: Open chords in key of D w/ major & minor triads
 slug: "214"
 tags: [Warm Up Exercise, Key of D, Learning Chords]
-date: 2019-02-09
+date_published: 2019-02-09
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24596181/
 ---

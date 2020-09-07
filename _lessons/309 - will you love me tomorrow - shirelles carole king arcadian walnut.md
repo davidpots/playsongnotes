@@ -7,7 +7,7 @@ year: 1960
 tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 category: full_song
 slug: "309"
-date: 2020-07-04
+date_published: 2020-07-04
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38961604
 ---

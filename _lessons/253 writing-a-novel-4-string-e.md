@@ -7,7 +7,7 @@ title: 4-finger magic with E major
 tags: [Warm Up Exercise, Key of E, 2010s, Learning Chords]
 hidden_tags: [Father John Misty]
 slug: "253"
-date: 2019-08-24
+date_published: 2019-08-24
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29409818
 ---

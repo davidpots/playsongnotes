@@ -2,7 +2,7 @@
 layout: song
 title: How I composed a multi-part fingerstyle guitar arrangement
 slug: "230"
-date: 2019-04-12
+date_published: 2019-04-12
 category: practice_log
 tags: [Practice Log, Key of G, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking, finger picking, finger style]

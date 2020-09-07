@@ -1,7 +1,7 @@
 ---
 layout: song
 title: 12 easy ways to modify the A-major chord
-date: 2019-11-23
+date_published: 2019-11-23
 category: tip_technique
 slug: "267"
 tags: [Tips & Techniques, Key of A, Learning Chords]

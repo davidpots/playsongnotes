@@ -5,7 +5,7 @@ redirect_from:
   - /warmup/13/
 title: '"Blue on Black" grooving on D5-Cadd9-G'
 slug: "210"
-date: 2019-01-26
+date_published: 2019-01-26
 tags: [Warm Up Exercise, Key of G, Country, 1990s]
 hidden_tags: [Kenny Wayne Shepherd]
 patreon_lesson_available: true

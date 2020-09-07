@@ -4,7 +4,7 @@ title: 'Strumming without a guitar pick'
 category: tip_technique
 slug: "317"
 tags: [Tips & Techniques, Strumming, Questions & Answers]
-date: 2020-08-07
+date_published: 2020-08-07
 ---
 
 <!-- patreon_lesson_available: true

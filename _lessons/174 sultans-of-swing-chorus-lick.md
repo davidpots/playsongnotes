@@ -7,7 +7,7 @@ title: '"Sultans of Swing" chorus lick'
 tags: [Warm Up Exercise, Classic Rock, Key of Dm, 1970s]
 hidden_tags: [Dire Straits]
 slug: "174"
-date: 2018-09-18
+date_published: 2018-09-18
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21510622
 ---

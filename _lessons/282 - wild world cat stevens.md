@@ -7,7 +7,7 @@ year: 1970
 tags: [Full Song Lesson, Key of C, 1970s, Folk]
 category: full_song
 slug: "282"
-date: 2020-01-31
+date_published: 2020-01-31
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33635432/
 ---

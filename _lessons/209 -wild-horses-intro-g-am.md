@@ -2,7 +2,7 @@
 layout: song
 title: Adding fills to the Wild Horses intro
 slug: "209"
-date: 2019-01-24
+date_published: 2019-01-24
 category: practice_log
 tags: [Practice Log, Key of G, Classic Rock, 1970s, Licks & Fills]
 hidden_tags: [The Rolling Stones]

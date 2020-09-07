@@ -2,7 +2,7 @@
 layout: song
 title: Practicing Walk Ups & Walk Downs in G
 category: warmup
-date: 2020-01-07
+date_published: 2020-01-07
 slug: "276"
 tags: [Warm Up Exercise, Key of G, Walking Bass Lines]
 hidden_tags: bassline, exercise

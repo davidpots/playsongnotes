@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-wide
 title: List of all lessons
 permalink: /lessons/
 ---
@@ -39,7 +39,9 @@ permalink: /lessons/
       {% break %}
     {% endif %}
       {
+
     {% assign lesson_title = lesson[0].title | replace: '"','\"' %}
+    
     {% case lesson[0].category %}
       {% when 'full_song' %}
         {% assign lesson_category = "Full Song" %}
@@ -57,7 +59,10 @@ permalink: /lessons/
         "title": "{{ lesson_title }}",
         "category": "{{ lesson_category }}",
         "url": "{{ lesson[0].url }}",
-        "patreon_url": "{{ lesson[0].patreon_lesson_url}}",
+        "date": "{{ lesson[0].date_published | date: '%b %-d, %Y' }}",
+        "patreon_url": "{{ lesson[0].patreon_lesson_url }}",
+        "pdf_image": "<img src='/images/pdfs/preview/{{ lesson[0].slug}}.jpg' />",
+        "pdf_v2": "{{ lesson[0].pdf_version }}",
         "slug": "{{ lesson[0].slug }}"
       },
   {% endif %}
@@ -66,7 +71,13 @@ permalink: /lessons/
 $(document).ready(function(){
 
   for (i = 0; i < {{latest_lesson_number}}; i++) {
-    $('#search-results').append('<li class="song-listing"><div style="overflow: hidden; width: auto;"><img style="width: 120px; float: left;" src="/images/pdfs/preview/'+lessons[i].slug+'.jpg" /><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></div></li>');
+    $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
+                                    <td>' + lessons[i].date + '</td>\
+                                    <td>' + lessons[i].pdf_image + '</td>\
+                                    <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
+                                    <td>' + lessons[i].category + '</td>\
+                                    <td><a data-patreon-url="' + lessons[i].patreon_url + '" href="' + lessons[i].patreon_url + '">PDF</td>\
+                                    <td></td></tr>');
   }
 
 });
@@ -87,4 +98,16 @@ $(document).ready(function(){
 ## List of all lessons
 I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below. You can also [browse by category](/search) if you're looking for something specific!
 
-<ul id="search-results" class="song-listing-wrapper"></ul>
+<table id="all_lessons_list">
+  <tbody>
+    <tr>
+      <th>Lesson ID</th>
+      <th>Date</th>
+      <th>PDF Preview</th>
+      <th>Title</th>
+      <th>Category</th>
+      <th>PDF</th>
+      <th>Redirects To?</th>
+    </tr>
+  </tbody>
+</table>

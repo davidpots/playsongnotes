@@ -3,7 +3,7 @@ layout: song
 category: tip_technique
 title: Fingerstyle F with wrapped thumb
 slug: "244"
-date: 2019-06-21
+date_published: 2019-06-21
 tags: [Tips & Techniques, Learning Chords, Fingerstyle, Travis Picking]
 hidden_tags: fingerpicking, finger picking, finger style, travis picking
 patreon_lesson_available: true

@@ -4,7 +4,7 @@ title: 'Which guitar pick I use & why'
 category: tip_technique
 slug: "300"
 tags: [Tips & Techniques, Strumming, Questions & Answers]
-date: 2020-05-08
+date_published: 2020-05-08
 ---
 
 <!-- patreon_lesson_available: true

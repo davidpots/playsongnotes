@@ -2,7 +2,7 @@
 layout: song
 title: The "Pretty Woman" lick, played 4 different ways
 slug: "183"
-date: 2018-10-13
+date_published: 2018-10-13
 tags: [Practice Log, Licks & Fills, Key of A, 1960s, Classic Rock]
 hidden_tags: [Roy Orbison]
 category: practice_log

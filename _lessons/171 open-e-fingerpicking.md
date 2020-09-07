@@ -6,7 +6,7 @@ redirect_from:
 title: Easy E Fingerpicking Fun
 tags: [Warm Up Exercise, Learning Chords, Key of E]
 slug: "171"
-date: 2018-09-02
+date_published: 2018-09-02
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21176858
 ---

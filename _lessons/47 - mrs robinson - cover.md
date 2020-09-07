@@ -6,7 +6,7 @@ artist: Simon & Garfunkel
 year: 1968
 category: playalong_cover
 slug: "47"
-date: 2017-02-17
+date_published: 2017-02-17
 tags: [Play-Along Cover, Key of E, 1960s, Classic Rock, Folk]
 redirect_to:
   - /lessons/51

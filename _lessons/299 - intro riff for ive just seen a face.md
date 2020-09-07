@@ -4,7 +4,7 @@ title: '"I''ve Just Seen a Face" by The Beatles (intro riff)'
 year: 1965
 category: warmup
 slug: "299"
-date: 2020-05-08
+date_published: 2020-05-08
 tags: [Warm Up Exercise, Key of G, 1960s, Classic Rock, Fingerstyle]
 redirect_to:
   - /lessons/298

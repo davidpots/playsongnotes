@@ -3,7 +3,7 @@ layout: song
 category: tip_technique
 title: Add easy flourish to C-F-G-Am
 slug: "223"
-date: 2019-03-04
+date_published: 2019-03-04
 tags: [Tips & Techniques, Key of C, Learning Chords]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25204139

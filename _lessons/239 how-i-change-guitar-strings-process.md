@@ -4,7 +4,7 @@ category: tip_technique
 title: How I change my acoustic guitar strings (from start to finish)
 tags: [Tips & Techniques]
 slug: "239"
-date: 2019-05-19
+date_published: 2019-05-19
 redirect_from:
   - /tips/22/
 ---

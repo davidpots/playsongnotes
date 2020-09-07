@@ -7,7 +7,7 @@ year: 1968
 tags: [Full Song Lesson, Key of C, 1960s, Country, Folk, Classic Rock]
 category: full_song
 slug: "307"
-date: 2020-06-21
+date_published: 2020-06-21
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

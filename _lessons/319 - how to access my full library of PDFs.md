@@ -2,7 +2,7 @@
 layout: song
 title: 'How to access my library of 200+ print-friendly PDF chord sheets'
 category: generic
-date: 2020-08-16
+date_published: 2020-08-16
 slug: "319"
 ---
 

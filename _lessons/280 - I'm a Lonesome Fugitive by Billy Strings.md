@@ -5,7 +5,7 @@ song_title: I'm a Lonesome Fugitive
 artist: Billy Strings
 year: 2019
 category: full_song
-date: 2020-01-11
+date_published: 2020-01-11
 tags: [Full Song Lesson, Key of G, 2010s, Country]
 hidden_tags: [Merle Haggard, Marcus King]
 slug: "280"

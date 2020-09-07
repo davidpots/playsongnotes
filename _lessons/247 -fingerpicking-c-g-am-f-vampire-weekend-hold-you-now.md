@@ -2,7 +2,7 @@
 layout: song
 title: Fingerpicking C-G-Am-F (based on Vampire Weekend's "Hold You Now")
 slug: "247"
-date: 2019-07-16
+date_published: 2019-07-16
 category: practice_log
 tags: [Practice Log, 2010s, Rock, Key of C, Fingerstyle]
 hidden_tags: [fingerpicking, finger picking, finger style, travis picking]

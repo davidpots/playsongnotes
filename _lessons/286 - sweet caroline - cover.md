@@ -3,7 +3,7 @@ layout: song
 category: playalong_cover
 title: '"Sweet Caroline" by Neil Diamond (Play-Along Cover)'
 slug: "286"
-date: 2020-02-27
+date_published: 2020-02-27
 tags: [Play-Along Cover, Key of A, 1960s, Classic Rock]
 redirect_to:
   - /lessons/15

@@ -3,7 +3,7 @@ layout: song
 title: 'Walk-down exercise inspired by the Turnpike Troubadours'
 category: warmup
 slug: "290"
-date: 2020-03-15
+date_published: 2020-03-15
 tags: [Warm Up Exercise, Key of C, 2010s, Country, Walking Bass Lines]
 pdf_version: v2
 pdf_numpages: 1

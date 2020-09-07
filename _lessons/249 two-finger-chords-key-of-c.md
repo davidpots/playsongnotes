@@ -3,7 +3,7 @@ layout: song
 category: tip_technique
 title: 2-finger chords in the key of C
 slug: "249"
-date: 2019-08-02
+date_published: 2019-08-02
 tags: [Tips & Techniques, 1970s, Fingerstyle, Learning Chords]
 hidden_tags: [Joni Mitchell, A Case of You]
 patreon_lesson_available: true

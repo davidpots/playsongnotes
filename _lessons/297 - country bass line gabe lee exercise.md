@@ -3,7 +3,7 @@ layout: song
 title: 'Country Bass Line Exercise in 6/8 Time'
 category: warmup
 slug: "297"
-date: 2020-04-26
+date_published: 2020-04-26
 tags: [Warm Up Exercise, Key of D, Country, Walking Bass Lines]
 pdf_version: v2
 pdf_numpages: 2

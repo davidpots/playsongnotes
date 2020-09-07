@@ -4,7 +4,7 @@ title: Learning the opening chord to Neil Young's Old Man
 category: practice_log
 song_title: Old Man
 artist: Neil Young
-date: 2020-09-04
+date_published: 2020-09-04
 year: 1972
 yt_video_id: _________
 tags: [Practice Log, 1970s, Key of D, Classic Rock, Strumming]

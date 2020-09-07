@@ -7,7 +7,7 @@ year: 2016
 tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "305"
-date: 2020-06-07
+date_published: 2020-06-07
 pdf_version: v2
 pdf_numpages: 5
 patreon_lesson_available: true

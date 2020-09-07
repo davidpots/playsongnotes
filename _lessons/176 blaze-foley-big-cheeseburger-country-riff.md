@@ -7,7 +7,7 @@ title: Blaze Foley country strumming
 tags: [Warm Up Exercise, Country, Key of C, 1980s]
 hidden_tags: [Big Cheeseburgers and Good French Fries]
 slug: "176"
-date: 2018-09-21
+date_published: 2018-09-21
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21601306
 ---
