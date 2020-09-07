@@ -9,6 +9,8 @@ hidden_tags: [Top Gun]
 category: full_song
 slug: "283"
 date_published: 2020-02-05
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33878045/
 ---

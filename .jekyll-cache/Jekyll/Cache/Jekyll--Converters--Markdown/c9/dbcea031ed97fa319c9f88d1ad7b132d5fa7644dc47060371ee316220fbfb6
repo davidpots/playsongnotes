@@ -1,4 +1,4 @@
-I"%®<div style="text-align: center;">
+I"/®<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -869,7 +869,7 @@
         "date": "Feb 12, 2020",
         "patreon_url": "https://www.patreon.com/posts/34051720",
         "pdf_image": "<img src='/images/pdfs/preview/284.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "284"
       },
   
@@ -889,7 +889,7 @@
         "date": "Feb 5, 2020",
         "patreon_url": "https://www.patreon.com/posts/33878045/",
         "pdf_image": "<img src='/images/pdfs/preview/283.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "283"
       },
   
@@ -909,7 +909,7 @@
         "date": "Jan 31, 2020",
         "patreon_url": "https://www.patreon.com/posts/33635432/",
         "pdf_image": "<img src='/images/pdfs/preview/282.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "282"
       },
   
@@ -929,7 +929,7 @@
         "date": "Jan 26, 2020",
         "patreon_url": "https://www.patreon.com/posts/33467609",
         "pdf_image": "<img src='/images/pdfs/preview/281.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "281"
       },
   
@@ -1069,7 +1069,7 @@
         "date": "Dec 29, 2019",
         "patreon_url": "https://www.patreon.com/posts/32695612",
         "pdf_image": "<img src='/images/pdfs/preview/274.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "274"
       },
   

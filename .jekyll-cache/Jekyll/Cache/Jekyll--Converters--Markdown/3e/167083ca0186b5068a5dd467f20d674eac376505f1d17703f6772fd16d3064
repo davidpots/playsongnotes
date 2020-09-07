@@ -1,4 +1,4 @@
-I"Ô”<div style="text-align: center;">
+I"3®<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -29,6 +29,7 @@
         "date": "Sep 4, 2020",
         "patreon_url": "https://www.patreon.com/posts/41270135",
         "pdf_image": "<img src='/images/pdfs/preview/326.jpg' />",
+        "pdf_v2": "",
         "slug": "326"
       },
   
@@ -48,6 +49,7 @@
         "date": "Aug 23, 2020",
         "patreon_url": "https://www.patreon.com/posts/40767963",
         "pdf_image": "<img src='/images/pdfs/preview/325.jpg' />",
+        "pdf_v2": "",
         "slug": "325"
       },
   
@@ -67,6 +69,7 @@
         "date": "Aug 22, 2020",
         "patreon_url": "https://www.patreon.com/posts/34822415",
         "pdf_image": "<img src='/images/pdfs/preview/324.jpg' />",
+        "pdf_v2": "",
         "slug": "324"
       },
   
@@ -86,6 +89,7 @@
         "date": "Aug 21, 2020",
         "patreon_url": "https://www.patreon.com/posts/41023187",
         "pdf_image": "<img src='/images/pdfs/preview/323.jpg' />",
+        "pdf_v2": "",
         "slug": "323"
       },
   
@@ -105,6 +109,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/41023187",
         "pdf_image": "<img src='/images/pdfs/preview/322.jpg' />",
+        "pdf_v2": "",
         "slug": "322"
       },
   
@@ -124,6 +129,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/41023187",
         "pdf_image": "<img src='/images/pdfs/preview/321.jpg' />",
+        "pdf_v2": "",
         "slug": "321"
       },
   
@@ -143,6 +149,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/41023187",
         "pdf_image": "<img src='/images/pdfs/preview/320.jpg' />",
+        "pdf_v2": "",
         "slug": "320"
       },
   
@@ -162,6 +169,7 @@
         "date": "Aug 16, 2020",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/319.jpg' />",
+        "pdf_v2": "",
         "slug": "319"
       },
   
@@ -181,6 +189,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/41023187",
         "pdf_image": "<img src='/images/pdfs/preview/318.jpg' />",
+        "pdf_v2": "",
         "slug": "318"
       },
   
@@ -200,6 +209,7 @@
         "date": "Aug 7, 2020",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/317.jpg' />",
+        "pdf_v2": "",
         "slug": "317"
       },
   
@@ -219,6 +229,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/39956339",
         "pdf_image": "<img src='/images/pdfs/preview/316.jpg' />",
+        "pdf_v2": "",
         "slug": "316"
       },
   
@@ -238,6 +249,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/40474671",
         "pdf_image": "<img src='/images/pdfs/preview/315.jpg' />",
+        "pdf_v2": "",
         "slug": "315"
       },
   
@@ -257,6 +269,7 @@
         "date": "Jul 25, 2020",
         "patreon_url": "https://www.patreon.com/posts/39722496",
         "pdf_image": "<img src='/images/pdfs/preview/314.jpg' />",
+        "pdf_v2": "",
         "slug": "314"
       },
   
@@ -276,6 +289,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/40261866",
         "pdf_image": "<img src='/images/pdfs/preview/313.jpg' />",
+        "pdf_v2": "",
         "slug": "313"
       },
   
@@ -295,6 +309,7 @@
         "date": "Jul 23, 2020",
         "patreon_url": "https://www.patreon.com/posts/39665187",
         "pdf_image": "<img src='/images/pdfs/preview/312.jpg' />",
+        "pdf_v2": "",
         "slug": "312"
       },
   
@@ -314,6 +329,7 @@
         "date": "Jul 18, 2020",
         "patreon_url": "https://www.patreon.com/posts/39450599",
         "pdf_image": "<img src='/images/pdfs/preview/311.jpg' />",
+        "pdf_v2": "",
         "slug": "311"
       },
   
@@ -333,6 +349,7 @@
         "date": "Jul 10, 2020",
         "patreon_url": "https://www.patreon.com/posts/39197676",
         "pdf_image": "<img src='/images/pdfs/preview/310.jpg' />",
+        "pdf_v2": "",
         "slug": "310"
       },
   
@@ -352,6 +369,7 @@
         "date": "Jul 4, 2020",
         "patreon_url": "https://www.patreon.com/posts/38961604",
         "pdf_image": "<img src='/images/pdfs/preview/309.jpg' />",
+        "pdf_v2": "",
         "slug": "309"
       },
   
@@ -371,6 +389,7 @@
         "date": "Jun 27, 2020",
         "patreon_url": "https://www.patreon.com/posts/38696125",
         "pdf_image": "<img src='/images/pdfs/preview/308.jpg' />",
+        "pdf_v2": "",
         "slug": "308"
       },
   
@@ -390,6 +409,7 @@
         "date": "Jun 21, 2020",
         "patreon_url": "https://www.patreon.com/posts/38462103",
         "pdf_image": "<img src='/images/pdfs/preview/307.jpg' />",
+        "pdf_v2": "v2",
         "slug": "307"
       },
   
@@ -409,6 +429,7 @@
         "date": "Jun 13, 2020",
         "patreon_url": "https://www.patreon.com/posts/38161899",
         "pdf_image": "<img src='/images/pdfs/preview/306.jpg' />",
+        "pdf_v2": "v2",
         "slug": "306"
       },
   
@@ -428,6 +449,7 @@
         "date": "Jun 7, 2020",
         "patreon_url": "https://www.patreon.com/posts/37982462",
         "pdf_image": "<img src='/images/pdfs/preview/305.jpg' />",
+        "pdf_v2": "v2",
         "slug": "305"
       },
   
@@ -447,6 +469,7 @@
         "date": "Jun 1, 2020",
         "patreon_url": "https://www.patreon.com/posts/37943206",
         "pdf_image": "<img src='/images/pdfs/preview/304.jpg' />",
+        "pdf_v2": "v2",
         "slug": "304"
       },
   
@@ -466,6 +489,7 @@
         "date": "May 30, 2020",
         "patreon_url": "https://www.patreon.com/posts/37472250",
         "pdf_image": "<img src='/images/pdfs/preview/303.jpg' />",
+        "pdf_v2": "",
         "slug": "303"
       },
   
@@ -485,6 +509,7 @@
         "date": "May 16, 2020",
         "patreon_url": "https://www.patreon.com/posts/37186031",
         "pdf_image": "<img src='/images/pdfs/preview/302.jpg' />",
+        "pdf_v2": "v2",
         "slug": "302"
       },
   
@@ -504,6 +529,7 @@
         "date": "May 24, 2020",
         "patreon_url": "https://www.patreon.com/posts/37472250",
         "pdf_image": "<img src='/images/pdfs/preview/301.jpg' />",
+        "pdf_v2": "v2",
         "slug": "301"
       },
   
@@ -523,6 +549,7 @@
         "date": "May 8, 2020",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/300.jpg' />",
+        "pdf_v2": "",
         "slug": "300"
       },
   
@@ -542,6 +569,7 @@
         "date": "May 8, 2020",
         "patreon_url": "https://www.patreon.com/posts/36733328",
         "pdf_image": "<img src='/images/pdfs/preview/299.jpg' />",
+        "pdf_v2": "",
         "slug": "299"
       },
   
@@ -561,6 +589,7 @@
         "date": "May 4, 2020",
         "patreon_url": "https://www.patreon.com/posts/36733328",
         "pdf_image": "<img src='/images/pdfs/preview/298.jpg' />",
+        "pdf_v2": "v2",
         "slug": "298"
       },
   
@@ -580,6 +609,7 @@
         "date": "Apr 26, 2020",
         "patreon_url": "https://www.patreon.com/posts/36417027",
         "pdf_image": "<img src='/images/pdfs/preview/297.jpg' />",
+        "pdf_v2": "v2",
         "slug": "297"
       },
   
@@ -599,6 +629,7 @@
         "date": "Apr 19, 2020",
         "patreon_url": "https://www.patreon.com/posts/36165070",
         "pdf_image": "<img src='/images/pdfs/preview/296.jpg' />",
+        "pdf_v2": "v2",
         "slug": "296"
       },
   
@@ -618,6 +649,7 @@
         "date": "Apr 5, 2020",
         "patreon_url": "https://www.patreon.com/posts/35915445",
         "pdf_image": "<img src='/images/pdfs/preview/295.jpg' />",
+        "pdf_v2": "v2",
         "slug": "295"
       },
   
@@ -637,6 +669,7 @@
         "date": "Apr 8, 2020",
         "patreon_url": "https://www.patreon.com/posts/35777763",
         "pdf_image": "<img src='/images/pdfs/preview/294.jpg' />",
+        "pdf_v2": "v2",
         "slug": "294"
       },
   
@@ -656,6 +689,7 @@
         "date": "Mar 31, 2020",
         "patreon_url": "https://www.patreon.com/posts/35467639",
         "pdf_image": "<img src='/images/pdfs/preview/293.jpg' />",
+        "pdf_v2": "v2",
         "slug": "293"
       },
   
@@ -675,6 +709,7 @@
         "date": "Mar 28, 2020",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/292.jpg' />",
+        "pdf_v2": "",
         "slug": "292"
       },
   
@@ -694,6 +729,7 @@
         "date": "Mar 22, 2020",
         "patreon_url": "https://www.patreon.com/posts/35143105",
         "pdf_image": "<img src='/images/pdfs/preview/291.jpg' />",
+        "pdf_v2": "v2",
         "slug": "291"
       },
   
@@ -713,6 +749,7 @@
         "date": "Mar 15, 2020",
         "patreon_url": "https://www.patreon.com/posts/34901234",
         "pdf_image": "<img src='/images/pdfs/preview/290.jpg' />",
+        "pdf_v2": "v2",
         "slug": "290"
       },
   
@@ -732,6 +769,7 @@
         "date": "Mar 19, 2020",
         "patreon_url": "https://www.patreon.com/posts/35077534",
         "pdf_image": "<img src='/images/pdfs/preview/289.jpg' />",
+        "pdf_v2": "v2",
         "slug": "289"
       },
   
@@ -751,6 +789,7 @@
         "date": "Mar 4, 2020",
         "patreon_url": "https://www.patreon.com/posts/34822415",
         "pdf_image": "<img src='/images/pdfs/preview/288.jpg' />",
+        "pdf_v2": "v2",
         "slug": "288"
       },
   
@@ -770,6 +809,7 @@
         "date": "Feb 29, 2020",
         "patreon_url": "https://www.patreon.com/posts/34261805",
         "pdf_image": "<img src='/images/pdfs/preview/287.jpg' />",
+        "pdf_v2": "v2",
         "slug": "287"
       },
   
@@ -789,6 +829,7 @@
         "date": "Feb 27, 2020",
         "patreon_url": "https://www.patreon.com/posts/34346197",
         "pdf_image": "<img src='/images/pdfs/preview/286.jpg' />",
+        "pdf_v2": "v2",
         "slug": "286"
       },
   
@@ -808,6 +849,7 @@
         "date": "Feb 18, 2020",
         "patreon_url": "https://www.patreon.com/posts/34261805",
         "pdf_image": "<img src='/images/pdfs/preview/285.jpg' />",
+        "pdf_v2": "v2",
         "slug": "285"
       },
   
@@ -827,6 +869,7 @@
         "date": "Feb 12, 2020",
         "patreon_url": "https://www.patreon.com/posts/34051720",
         "pdf_image": "<img src='/images/pdfs/preview/284.jpg' />",
+        "pdf_v2": "v2",
         "slug": "284"
       },
   
@@ -846,6 +889,7 @@
         "date": "Feb 5, 2020",
         "patreon_url": "https://www.patreon.com/posts/33878045/",
         "pdf_image": "<img src='/images/pdfs/preview/283.jpg' />",
+        "pdf_v2": "v2",
         "slug": "283"
       },
   
@@ -865,6 +909,7 @@
         "date": "Jan 31, 2020",
         "patreon_url": "https://www.patreon.com/posts/33635432/",
         "pdf_image": "<img src='/images/pdfs/preview/282.jpg' />",
+        "pdf_v2": "v2",
         "slug": "282"
       },
   
@@ -884,6 +929,7 @@
         "date": "Jan 26, 2020",
         "patreon_url": "https://www.patreon.com/posts/33467609",
         "pdf_image": "<img src='/images/pdfs/preview/281.jpg' />",
+        "pdf_v2": "v2",
         "slug": "281"
       },
   
@@ -903,6 +949,7 @@
         "date": "Jan 11, 2020",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/280.jpg' />",
+        "pdf_v2": "",
         "slug": "280"
       },
   
@@ -922,6 +969,7 @@
         "date": "Jan 14, 2020",
         "patreon_url": "https://www.patreon.com/posts/39956339",
         "pdf_image": "<img src='/images/pdfs/preview/279.jpg' />",
+        "pdf_v2": "",
         "slug": "279"
       },
   
@@ -941,6 +989,7 @@
         "date": "Jan 21, 2020",
         "patreon_url": "https://www.patreon.com/posts/33351761",
         "pdf_image": "<img src='/images/pdfs/preview/278.jpg' />",
+        "pdf_v2": "",
         "slug": "278"
       },
   
@@ -960,6 +1009,7 @@
         "date": "Jan 16, 2020",
         "patreon_url": "https://www.patreon.com/posts/33200047",
         "pdf_image": "<img src='/images/pdfs/preview/277.jpg' />",
+        "pdf_v2": "v2",
         "slug": "277"
       },
   
@@ -979,6 +1029,7 @@
         "date": "Jan 7, 2020",
         "patreon_url": "https://www.patreon.com/posts/33023582",
         "pdf_image": "<img src='/images/pdfs/preview/276.jpg' />",
+        "pdf_v2": "v2",
         "slug": "276"
       },
   
@@ -998,6 +1049,7 @@
         "date": "Jan 4, 2020",
         "patreon_url": "https://www.patreon.com/posts/32888140",
         "pdf_image": "<img src='/images/pdfs/preview/275.jpg' />",
+        "pdf_v2": "",
         "slug": "275"
       },
   
@@ -1017,6 +1069,7 @@
         "date": "Dec 29, 2019",
         "patreon_url": "https://www.patreon.com/posts/32695612",
         "pdf_image": "<img src='/images/pdfs/preview/274.jpg' />",
+        "pdf_v2": "v2",
         "slug": "274"
       },
   
@@ -1036,6 +1089,7 @@
         "date": "Dec 26, 2019",
         "patreon_url": "https://www.patreon.com/posts/32519143",
         "pdf_image": "<img src='/images/pdfs/preview/273.jpg' />",
+        "pdf_v2": "",
         "slug": "273"
       },
   
@@ -1055,6 +1109,7 @@
         "date": "Dec 16, 2019",
         "patreon_url": "https://www.patreon.com/posts/32519143",
         "pdf_image": "<img src='/images/pdfs/preview/272.jpg' />",
+        "pdf_v2": "",
         "slug": "272"
       },
   
@@ -1074,6 +1129,7 @@
         "date": "Dec 14, 2019",
         "patreon_url": "https://www.patreon.com/posts/32369696",
         "pdf_image": "<img src='/images/pdfs/preview/271.jpg' />",
+        "pdf_v2": "",
         "slug": "271"
       },
   
@@ -1093,6 +1149,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/32143542",
         "pdf_image": "<img src='/images/pdfs/preview/270.jpg' />",
+        "pdf_v2": "",
         "slug": "270"
       },
   
@@ -1112,6 +1169,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/32143542",
         "pdf_image": "<img src='/images/pdfs/preview/269.jpg' />",
+        "pdf_v2": "",
         "slug": "269"
       },
   
@@ -1131,6 +1189,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/31947589",
         "pdf_image": "<img src='/images/pdfs/preview/268.jpg' />",
+        "pdf_v2": "",
         "slug": "268"
       },
   
@@ -1150,6 +1209,7 @@
         "date": "Nov 23, 2019",
         "patreon_url": "https://www.patreon.com/posts/31795113",
         "pdf_image": "<img src='/images/pdfs/preview/267.jpg' />",
+        "pdf_v2": "",
         "slug": "267"
       },
   
@@ -1169,6 +1229,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/30423659",
         "pdf_image": "<img src='/images/pdfs/preview/266.jpg' />",
+        "pdf_v2": "",
         "slug": "266"
       },
   
@@ -1188,6 +1249,7 @@
         "date": "Nov 3, 2019",
         "patreon_url": "https://www.patreon.com/posts/31322903",
         "pdf_image": "<img src='/images/pdfs/preview/265.jpg' />",
+        "pdf_v2": "",
         "slug": "265"
       },
   
@@ -1207,6 +1269,7 @@
         "date": "Oct 26, 2019",
         "patreon_url": "https://www.patreon.com/posts/31073686",
         "pdf_image": "<img src='/images/pdfs/preview/264.jpg' />",
+        "pdf_v2": "",
         "slug": "264"
       },
   
@@ -1226,6 +1289,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/30423659",
         "pdf_image": "<img src='/images/pdfs/preview/263.jpg' />",
+        "pdf_v2": "",
         "slug": "263"
       },
   
@@ -1245,6 +1309,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/30878699",
         "pdf_image": "<img src='/images/pdfs/preview/262.jpg' />",
+        "pdf_v2": "v2",
         "slug": "262"
       },
   
@@ -1264,6 +1329,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/30708535",
         "pdf_image": "<img src='/images/pdfs/preview/261.jpg' />",
+        "pdf_v2": "",
         "slug": "261"
       },
   
@@ -1283,6 +1349,7 @@
         "date": "Oct 6, 2019",
         "patreon_url": "https://www.patreon.com/posts/30540917",
         "pdf_image": "<img src='/images/pdfs/preview/260.jpg' />",
+        "pdf_v2": "",
         "slug": "260"
       },
   
@@ -1302,6 +1369,7 @@
         "date": "Sep 21, 2019",
         "patreon_url": "https://www.patreon.com/posts/30131752",
         "pdf_image": "<img src='/images/pdfs/preview/259.jpg' />",
+        "pdf_v2": "",
         "slug": "259"
       },
   
@@ -1321,6 +1389,7 @@
         "date": "Sep 15, 2019",
         "patreon_url": "https://www.patreon.com/posts/29981439",
         "pdf_image": "<img src='/images/pdfs/preview/258.jpg' />",
+        "pdf_v2": "",
         "slug": "258"
       },
   
@@ -1340,6 +1409,7 @@
         "date": "Sep 8, 2019",
         "patreon_url": "https://www.patreon.com/posts/29803885",
         "pdf_image": "<img src='/images/pdfs/preview/257.jpg' />",
+        "pdf_v2": "",
         "slug": "257"
       },
   
@@ -1359,6 +1429,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25388934",
         "pdf_image": "<img src='/images/pdfs/preview/256.jpg' />",
+        "pdf_v2": "",
         "slug": "256"
       },
   
@@ -1381,6 +1452,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/29562940",
         "pdf_image": "<img src='/images/pdfs/preview/254.jpg' />",
+        "pdf_v2": "",
         "slug": "254"
       },
   
@@ -1400,6 +1472,7 @@
         "date": "Aug 24, 2019",
         "patreon_url": "https://www.patreon.com/posts/29409818",
         "pdf_image": "<img src='/images/pdfs/preview/253.jpg' />",
+        "pdf_v2": "",
         "slug": "253"
       },
   
@@ -1419,6 +1492,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/29385250",
         "pdf_image": "<img src='/images/pdfs/preview/252.jpg' />",
+        "pdf_v2": "",
         "slug": "252"
       },
   
@@ -1438,6 +1512,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/29234388",
         "pdf_image": "<img src='/images/pdfs/preview/251.jpg' />",
+        "pdf_v2": "",
         "slug": "251"
       },
   
@@ -1457,6 +1532,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/29059866",
         "pdf_image": "<img src='/images/pdfs/preview/250.jpg' />",
+        "pdf_v2": "",
         "slug": "250"
       },
   
@@ -1476,6 +1552,7 @@
         "date": "Aug 2, 2019",
         "patreon_url": "https://www.patreon.com/posts/28859774",
         "pdf_image": "<img src='/images/pdfs/preview/249.jpg' />",
+        "pdf_v2": "",
         "slug": "249"
       },
   
@@ -1495,6 +1572,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28613126",
         "pdf_image": "<img src='/images/pdfs/preview/248.jpg' />",
+        "pdf_v2": "",
         "slug": "248"
       },
   
@@ -1514,6 +1592,7 @@
         "date": "Jul 16, 2019",
         "patreon_url": "https://www.patreon.com/posts/28420165",
         "pdf_image": "<img src='/images/pdfs/preview/247.jpg' />",
+        "pdf_v2": "",
         "slug": "247"
       },
   
@@ -1533,6 +1612,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28140715",
         "pdf_image": "<img src='/images/pdfs/preview/246.jpg' />",
+        "pdf_v2": "",
         "slug": "246"
       },
   
@@ -1552,6 +1632,7 @@
         "date": "Jun 25, 2019",
         "patreon_url": "https://www.patreon.com/posts/27916357",
         "pdf_image": "<img src='/images/pdfs/preview/245.jpg' />",
+        "pdf_v2": "",
         "slug": "245"
       },
   
@@ -1571,6 +1652,7 @@
         "date": "Jun 21, 2019",
         "patreon_url": "https://www.patreon.com/posts/27795273",
         "pdf_image": "<img src='/images/pdfs/preview/244.jpg' />",
+        "pdf_v2": "",
         "slug": "244"
       },
   
@@ -1593,6 +1675,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27161783",
         "pdf_image": "<img src='/images/pdfs/preview/242.jpg' />",
+        "pdf_v2": "",
         "slug": "242"
       },
   
@@ -1612,6 +1695,7 @@
         "date": "Jun 4, 2019",
         "patreon_url": "https://www.patreon.com/posts/27377464",
         "pdf_image": "<img src='/images/pdfs/preview/241.jpg' />",
+        "pdf_v2": "",
         "slug": "241"
       },
   
@@ -1634,6 +1718,7 @@
         "date": "May 19, 2019",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/239.jpg' />",
+        "pdf_v2": "",
         "slug": "239"
       },
   
@@ -1653,6 +1738,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26928505",
         "pdf_image": "<img src='/images/pdfs/preview/238.jpg' />",
+        "pdf_v2": "",
         "slug": "238"
       },
   
@@ -1672,6 +1758,7 @@
         "date": "May 11, 2019",
         "patreon_url": "https://www.patreon.com/posts/26779443",
         "pdf_image": "<img src='/images/pdfs/preview/237.jpg' />",
+        "pdf_v2": "",
         "slug": "237"
       },
   
@@ -1691,6 +1778,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26596736",
         "pdf_image": "<img src='/images/pdfs/preview/236.jpg' />",
+        "pdf_v2": "",
         "slug": "236"
       },
   
@@ -1710,6 +1798,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26533929",
         "pdf_image": "<img src='/images/pdfs/preview/235.jpg' />",
+        "pdf_v2": "",
         "slug": "235"
       },
   
@@ -1729,6 +1818,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26303236",
         "pdf_image": "<img src='/images/pdfs/preview/234.jpg' />",
+        "pdf_v2": "",
         "slug": "234"
       },
   
@@ -1751,6 +1841,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26240703",
         "pdf_image": "<img src='/images/pdfs/preview/232.jpg' />",
+        "pdf_v2": "",
         "slug": "232"
       },
   
@@ -1770,6 +1861,7 @@
         "date": "Apr 15, 2019",
         "patreon_url": "https://www.patreon.com/posts/26191868",
         "pdf_image": "<img src='/images/pdfs/preview/231.jpg' />",
+        "pdf_v2": "",
         "slug": "231"
       },
   
@@ -1789,6 +1881,7 @@
         "date": "Apr 12, 2019",
         "patreon_url": "https://www.patreon.com/posts/26077237",
         "pdf_image": "<img src='/images/pdfs/preview/230.jpg' />",
+        "pdf_v2": "",
         "slug": "230"
       },
   
@@ -1808,6 +1901,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26032668",
         "pdf_image": "<img src='/images/pdfs/preview/229.jpg' />",
+        "pdf_v2": "",
         "slug": "229"
       },
   
@@ -1827,6 +1921,7 @@
         "date": "Mar 29, 2019",
         "patreon_url": "https://www.patreon.com/posts/25735022",
         "pdf_image": "<img src='/images/pdfs/preview/228.jpg' />",
+        "pdf_v2": "",
         "slug": "228"
       },
   
@@ -1846,6 +1941,7 @@
         "date": "Mar 18, 2019",
         "patreon_url": "https://www.patreon.com/posts/25555059",
         "pdf_image": "<img src='/images/pdfs/preview/227.jpg' />",
+        "pdf_v2": "",
         "slug": "227"
       },
   
@@ -1865,6 +1961,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25432156",
         "pdf_image": "<img src='/images/pdfs/preview/226.jpg' />",
+        "pdf_v2": "",
         "slug": "226"
       },
   
@@ -1887,6 +1984,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25250503",
         "pdf_image": "<img src='/images/pdfs/preview/224.jpg' />",
+        "pdf_v2": "",
         "slug": "224"
       },
   
@@ -1906,6 +2004,7 @@
         "date": "Mar 4, 2019",
         "patreon_url": "https://www.patreon.com/posts/25204139",
         "pdf_image": "<img src='/images/pdfs/preview/223.jpg' />",
+        "pdf_v2": "",
         "slug": "223"
       },
   
@@ -1925,6 +2024,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25099962",
         "pdf_image": "<img src='/images/pdfs/preview/222.jpg' />",
+        "pdf_v2": "",
         "slug": "222"
       },
   
@@ -1947,6 +2047,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25021126",
         "pdf_image": "<img src='/images/pdfs/preview/220.jpg' />",
+        "pdf_v2": "",
         "slug": "220"
       },
   
@@ -1966,6 +2067,7 @@
         "date": "Feb 22, 2019",
         "patreon_url": "https://www.patreon.com/posts/24901786/",
         "pdf_image": "<img src='/images/pdfs/preview/219.jpg' />",
+        "pdf_v2": "",
         "slug": "219"
       },
   
@@ -1988,6 +2090,7 @@
         "date": "Feb 20, 2019",
         "patreon_url": "https://www.patreon.com/posts/24872694",
         "pdf_image": "<img src='/images/pdfs/preview/217.jpg' />",
+        "pdf_v2": "",
         "slug": "217"
       },
   
@@ -2007,6 +2110,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24744092/",
         "pdf_image": "<img src='/images/pdfs/preview/216.jpg' />",
+        "pdf_v2": "",
         "slug": "216"
       },
   
@@ -2026,6 +2130,7 @@
         "date": "Feb 13, 2019",
         "patreon_url": "https://www.patreon.com/posts/24697299/",
         "pdf_image": "<img src='/images/pdfs/preview/215.jpg' />",
+        "pdf_v2": "",
         "slug": "215"
       },
   
@@ -2045,6 +2150,7 @@
         "date": "Feb 9, 2019",
         "patreon_url": "https://www.patreon.com/posts/24596181/",
         "pdf_image": "<img src='/images/pdfs/preview/214.jpg' />",
+        "pdf_v2": "",
         "slug": "214"
       },
   
@@ -2064,6 +2170,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24534853",
         "pdf_image": "<img src='/images/pdfs/preview/213.jpg' />",
+        "pdf_v2": "",
         "slug": "213"
       },
   
@@ -2086,6 +2193,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24356142",
         "pdf_image": "<img src='/images/pdfs/preview/211.jpg' />",
+        "pdf_v2": "",
         "slug": "211"
       },
   
@@ -2105,6 +2213,7 @@
         "date": "Jan 26, 2019",
         "patreon_url": "https://www.patreon.com/posts/24237877/",
         "pdf_image": "<img src='/images/pdfs/preview/210.jpg' />",
+        "pdf_v2": "",
         "slug": "210"
       },
   
@@ -2124,6 +2233,7 @@
         "date": "Jan 24, 2019",
         "patreon_url": "https://www.patreon.com/posts/24194426",
         "pdf_image": "<img src='/images/pdfs/preview/209.jpg' />",
+        "pdf_v2": "",
         "slug": "209"
       },
   
@@ -2143,6 +2253,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24140548",
         "pdf_image": "<img src='/images/pdfs/preview/208.jpg' />",
+        "pdf_v2": "",
         "slug": "208"
       },
   
@@ -2162,6 +2273,7 @@
         "date": "Jan 16, 2019",
         "patreon_url": "https://www.patreon.com/posts/24033565/",
         "pdf_image": "<img src='/images/pdfs/preview/207.jpg' />",
+        "pdf_v2": "",
         "slug": "207"
       },
   
@@ -2181,6 +2293,7 @@
         "date": "Jan 12, 2019",
         "patreon_url": "https://www.patreon.com/posts/23932562/",
         "pdf_image": "<img src='/images/pdfs/preview/206.jpg' />",
+        "pdf_v2": "",
         "slug": "206"
       },
   
@@ -2203,6 +2316,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23773015/",
         "pdf_image": "<img src='/images/pdfs/preview/204.jpg' />",
+        "pdf_v2": "v2",
         "slug": "204"
       },
   
@@ -2222,6 +2336,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23649592/",
         "pdf_image": "<img src='/images/pdfs/preview/203.jpg' />",
+        "pdf_v2": "",
         "slug": "203"
       },
   
@@ -2241,6 +2356,7 @@
         "date": "Dec 26, 2018",
         "patreon_url": "https://www.patreon.com/posts/repost-printable-23986840",
         "pdf_image": "<img src='/images/pdfs/preview/202.jpg' />",
+        "pdf_v2": "",
         "slug": "202"
       },
   
@@ -2263,6 +2379,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23522694",
         "pdf_image": "<img src='/images/pdfs/preview/200.jpg' />",
+        "pdf_v2": "",
         "slug": "200"
       },
   
@@ -2282,6 +2399,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-23379862",
         "pdf_image": "<img src='/images/pdfs/preview/199.jpg' />",
+        "pdf_v2": "",
         "slug": "199"
       },
   
@@ -2301,6 +2419,7 @@
         "date": "Dec 13, 2018",
         "patreon_url": "https://www.patreon.com/posts/23324554/",
         "pdf_image": "<img src='/images/pdfs/preview/198.jpg' />",
+        "pdf_v2": "",
         "slug": "198"
       },
   
@@ -2320,6 +2439,7 @@
         "date": "Dec 7, 2018",
         "patreon_url": "https://www.patreon.com/posts/23199900",
         "pdf_image": "<img src='/images/pdfs/preview/197.jpg' />",
+        "pdf_v2": "",
         "slug": "197"
       },
   
@@ -2342,6 +2462,7 @@
         "date": "Dec 1, 2018",
         "patreon_url": "https://www.patreon.com/posts/23065293",
         "pdf_image": "<img src='/images/pdfs/preview/195.jpg' />",
+        "pdf_v2": "",
         "slug": "195"
       },
   
@@ -2361,6 +2482,7 @@
         "date": "Nov 27, 2018",
         "patreon_url": "https://www.patreon.com/posts/22959683",
         "pdf_image": "<img src='/images/pdfs/preview/194.jpg' />",
+        "pdf_v2": "",
         "slug": "194"
       },
   
@@ -2380,6 +2502,7 @@
         "date": "Nov 20, 2018",
         "patreon_url": "https://www.patreon.com/posts/22883540",
         "pdf_image": "<img src='/images/pdfs/preview/193.jpg' />",
+        "pdf_v2": "",
         "slug": "193"
       },
   
@@ -2399,6 +2522,7 @@
         "date": "Nov 18, 2018",
         "patreon_url": "https://www.patreon.com/posts/22798346",
         "pdf_image": "<img src='/images/pdfs/preview/192.jpg' />",
+        "pdf_v2": "",
         "slug": "192"
       },
   
@@ -2418,6 +2542,7 @@
         "date": "Nov 14, 2018",
         "patreon_url": "https://www.patreon.com/posts/22729990",
         "pdf_image": "<img src='/images/pdfs/preview/191.jpg' />",
+        "pdf_v2": "",
         "slug": "191"
       },
   
@@ -2437,6 +2562,7 @@
         "date": "Nov 11, 2018",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-22651220",
         "pdf_image": "<img src='/images/pdfs/preview/190.jpg' />",
+        "pdf_v2": "",
         "slug": "190"
       },
   
@@ -2456,6 +2582,7 @@
         "date": "Nov 6, 2018",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-22591518",
         "pdf_image": "<img src='/images/pdfs/preview/189.jpg' />",
+        "pdf_v2": "",
         "slug": "189"
       },
   
@@ -2475,6 +2602,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-22497311",
         "pdf_image": "<img src='/images/pdfs/preview/188.jpg' />",
+        "pdf_v2": "",
         "slug": "188"
       },
   
@@ -2494,6 +2622,7 @@
         "date": "Oct 30, 2018",
         "patreon_url": "https://www.patreon.com/posts/22409071",
         "pdf_image": "<img src='/images/pdfs/preview/187.jpg' />",
+        "pdf_v2": "",
         "slug": "187"
       },
   
@@ -2513,6 +2642,7 @@
         "date": "Oct 27, 2018",
         "patreon_url": "https://www.patreon.com/posts/22343641",
         "pdf_image": "<img src='/images/pdfs/preview/186.jpg' />",
+        "pdf_v2": "",
         "slug": "186"
       },
   
@@ -2532,6 +2662,7 @@
         "date": "Oct 7, 2018",
         "patreon_url": "https://www.patreon.com/posts/22255965",
         "pdf_image": "<img src='/images/pdfs/preview/185.jpg' />",
+        "pdf_v2": "",
         "slug": "185"
       },
   
@@ -2554,6 +2685,7 @@
         "date": "Oct 13, 2018",
         "patreon_url": "https://www.patreon.com/posts/22030862",
         "pdf_image": "<img src='/images/pdfs/preview/183.jpg' />",
+        "pdf_v2": "",
         "slug": "183"
       },
   
@@ -2576,6 +2708,7 @@
         "date": "Oct 11, 2018",
         "patreon_url": "https://www.patreon.com/posts/21995927",
         "pdf_image": "<img src='/images/pdfs/preview/181.jpg' />",
+        "pdf_v2": "v2",
         "slug": "181"
       },
   
@@ -2595,6 +2728,7 @@
         "date": "Oct 7, 2018",
         "patreon_url": "https://www.patreon.com/posts/21907252",
         "pdf_image": "<img src='/images/pdfs/preview/180.jpg' />",
+        "pdf_v2": "",
         "slug": "180"
       },
   
@@ -2614,6 +2748,7 @@
         "date": "Oct 1, 2018",
         "patreon_url": "https://www.patreon.com/posts/21795147",
         "pdf_image": "<img src='/images/pdfs/preview/179.jpg' />",
+        "pdf_v2": "",
         "slug": "179"
       },
   
@@ -2636,6 +2771,7 @@
         "date": "Sep 24, 2018",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-21646757",
         "pdf_image": "<img src='/images/pdfs/preview/177.jpg' />",
+        "pdf_v2": "",
         "slug": "177"
       },
   
@@ -2655,6 +2791,7 @@
         "date": "Sep 21, 2018",
         "patreon_url": "https://www.patreon.com/posts/21601306",
         "pdf_image": "<img src='/images/pdfs/preview/176.jpg' />",
+        "pdf_v2": "",
         "slug": "176"
       },
   
@@ -2674,6 +2811,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/21567003",
         "pdf_image": "<img src='/images/pdfs/preview/175.jpg' />",
+        "pdf_v2": "",
         "slug": "175"
       },
   
@@ -2693,6 +2831,7 @@
         "date": "Sep 18, 2018",
         "patreon_url": "https://www.patreon.com/posts/21510622",
         "pdf_image": "<img src='/images/pdfs/preview/174.jpg' />",
+        "pdf_v2": "",
         "slug": "174"
       },
   
@@ -2712,6 +2851,7 @@
         "date": "Sep 13, 2018",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-21390085",
         "pdf_image": "<img src='/images/pdfs/preview/173.jpg' />",
+        "pdf_v2": "",
         "slug": "173"
       },
   
@@ -2731,6 +2871,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/21287497",
         "pdf_image": "<img src='/images/pdfs/preview/172.jpg' />",
+        "pdf_v2": "",
         "slug": "172"
       },
   
@@ -2750,6 +2891,7 @@
         "date": "Sep 2, 2018",
         "patreon_url": "https://www.patreon.com/posts/21176858",
         "pdf_image": "<img src='/images/pdfs/preview/171.jpg' />",
+        "pdf_v2": "",
         "slug": "171"
       },
   
@@ -2769,6 +2911,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/21054196",
         "pdf_image": "<img src='/images/pdfs/preview/170.jpg' />",
+        "pdf_v2": "",
         "slug": "170"
       },
   
@@ -2788,6 +2931,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/20756378",
         "pdf_image": "<img src='/images/pdfs/preview/169.jpg' />",
+        "pdf_v2": "",
         "slug": "169"
       },
   
@@ -2807,6 +2951,7 @@
         "date": "Aug 6, 2018",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-20607117",
         "pdf_image": "<img src='/images/pdfs/preview/168.jpg' />",
+        "pdf_v2": "",
         "slug": "168"
       },
   
@@ -2826,6 +2971,7 @@
         "date": "Aug 4, 2018",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/167.jpg' />",
+        "pdf_v2": "",
         "slug": "167"
       },
   
@@ -2848,6 +2994,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-25593108",
         "pdf_image": "<img src='/images/pdfs/preview/165.jpg' />",
+        "pdf_v2": "",
         "slug": "165"
       },
   
@@ -2870,6 +3017,7 @@
         "date": "Jul 24, 2018",
         "patreon_url": "https://www.patreon.com/posts/41294133",
         "pdf_image": "<img src='/images/pdfs/preview/163.jpg' />",
+        "pdf_v2": "",
         "slug": "163"
       },
   
@@ -2889,6 +3037,7 @@
         "date": "Jul 20, 2018",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/162.jpg' />",
+        "pdf_v2": "",
         "slug": "162"
       },
   
@@ -2911,6 +3060,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27883309",
         "pdf_image": "<img src='/images/pdfs/preview/160.jpg' />",
+        "pdf_v2": "",
         "slug": "160"
       },
   
@@ -2930,6 +3080,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26674074",
         "pdf_image": "<img src='/images/pdfs/preview/159.jpg' />",
+        "pdf_v2": "",
         "slug": "159"
       },
   
@@ -2949,6 +3100,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28985222",
         "pdf_image": "<img src='/images/pdfs/preview/158.jpg' />",
+        "pdf_v2": "",
         "slug": "158"
       },
   
@@ -2968,6 +3120,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/36440222",
         "pdf_image": "<img src='/images/pdfs/preview/157.jpg' />",
+        "pdf_v2": "",
         "slug": "157"
       },
   
@@ -2987,6 +3140,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27269521",
         "pdf_image": "<img src='/images/pdfs/preview/156.jpg' />",
+        "pdf_v2": "",
         "slug": "156"
       },
   
@@ -3006,6 +3160,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28292619",
         "pdf_image": "<img src='/images/pdfs/preview/155.jpg' />",
+        "pdf_v2": "",
         "slug": "155"
       },
   
@@ -3025,6 +3180,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/31429770",
         "pdf_image": "<img src='/images/pdfs/preview/154.jpg' />",
+        "pdf_v2": "",
         "slug": "154"
       },
   
@@ -3044,6 +3200,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/pdf-creep-by-153-30194939",
         "pdf_image": "<img src='/images/pdfs/preview/153.jpg' />",
+        "pdf_v2": "",
         "slug": "153"
       },
   
@@ -3063,6 +3220,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/152.jpg' />",
+        "pdf_v2": "",
         "slug": "152"
       },
   
@@ -3082,6 +3240,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/21821096",
         "pdf_image": "<img src='/images/pdfs/preview/151.jpg' />",
+        "pdf_v2": "v2",
         "slug": "151"
       },
   
@@ -3101,6 +3260,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/150.jpg' />",
+        "pdf_v2": "",
         "slug": "150"
       },
   
@@ -3120,6 +3280,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/149.jpg' />",
+        "pdf_v2": "",
         "slug": "149"
       },
   
@@ -3139,6 +3300,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25521268",
         "pdf_image": "<img src='/images/pdfs/preview/148.jpg' />",
+        "pdf_v2": "",
         "slug": "148"
       },
   
@@ -3158,6 +3320,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/147.jpg' />",
+        "pdf_v2": "",
         "slug": "147"
       },
   
@@ -3177,6 +3340,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/146.jpg' />",
+        "pdf_v2": "",
         "slug": "146"
       },
   
@@ -3196,6 +3360,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27317834",
         "pdf_image": "<img src='/images/pdfs/preview/145.jpg' />",
+        "pdf_v2": "",
         "slug": "145"
       },
   
@@ -3215,6 +3380,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/144.jpg' />",
+        "pdf_v2": "",
         "slug": "144"
       },
   
@@ -3234,6 +3400,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/143.jpg' />",
+        "pdf_v2": "",
         "slug": "143"
       },
   
@@ -3253,6 +3420,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/142.jpg' />",
+        "pdf_v2": "",
         "slug": "142"
       },
   
@@ -3272,6 +3440,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/141.jpg' />",
+        "pdf_v2": "",
         "slug": "141"
       },
   
@@ -3291,6 +3460,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/33283103",
         "pdf_image": "<img src='/images/pdfs/preview/140.jpg' />",
+        "pdf_v2": "",
         "slug": "140"
       },
   
@@ -3310,6 +3480,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28793602",
         "pdf_image": "<img src='/images/pdfs/preview/139.jpg' />",
+        "pdf_v2": "",
         "slug": "139"
       },
   
@@ -3329,6 +3500,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/138.jpg' />",
+        "pdf_v2": "",
         "slug": "138"
       },
   
@@ -3354,6 +3526,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23810049",
         "pdf_image": "<img src='/images/pdfs/preview/135.jpg' />",
+        "pdf_v2": "",
         "slug": "135"
       },
   
@@ -3373,6 +3546,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22061680",
         "pdf_image": "<img src='/images/pdfs/preview/134.jpg' />",
+        "pdf_v2": "",
         "slug": "134"
       },
   
@@ -3392,6 +3566,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/133.jpg' />",
+        "pdf_v2": "",
         "slug": "133"
       },
   
@@ -3411,6 +3586,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/29202320",
         "pdf_image": "<img src='/images/pdfs/preview/132.jpg' />",
+        "pdf_v2": "",
         "slug": "132"
       },
   
@@ -3430,6 +3606,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/131.jpg' />",
+        "pdf_v2": "",
         "slug": "131"
       },
   
@@ -3449,6 +3626,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/130.jpg' />",
+        "pdf_v2": "",
         "slug": "130"
       },
   
@@ -3468,6 +3646,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/31611592",
         "pdf_image": "<img src='/images/pdfs/preview/129.jpg' />",
+        "pdf_v2": "",
         "slug": "129"
       },
   
@@ -3487,6 +3666,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24994190",
         "pdf_image": "<img src='/images/pdfs/preview/128.jpg' />",
+        "pdf_v2": "",
         "slug": "128"
       },
   
@@ -3506,6 +3686,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/127.jpg' />",
+        "pdf_v2": "",
         "slug": "127"
       },
   
@@ -3525,6 +3706,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/126.jpg' />",
+        "pdf_v2": "",
         "slug": "126"
       },
   
@@ -3544,6 +3726,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/125.jpg' />",
+        "pdf_v2": "",
         "slug": "125"
       },
   
@@ -3569,6 +3752,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/122.jpg' />",
+        "pdf_v2": "",
         "slug": "122"
       },
   
@@ -3591,6 +3775,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/120.jpg' />",
+        "pdf_v2": "",
         "slug": "120"
       },
   
@@ -3610,6 +3795,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/119.jpg' />",
+        "pdf_v2": "",
         "slug": "119"
       },
   
@@ -3629,6 +3815,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28515581",
         "pdf_image": "<img src='/images/pdfs/preview/118.jpg' />",
+        "pdf_v2": "",
         "slug": "118"
       },
   
@@ -3648,6 +3835,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/117.jpg' />",
+        "pdf_v2": "",
         "slug": "117"
       },
   
@@ -3667,6 +3855,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/116.jpg' />",
+        "pdf_v2": "",
         "slug": "116"
       },
   
@@ -3686,6 +3875,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/38165123",
         "pdf_image": "<img src='/images/pdfs/preview/115.jpg' />",
+        "pdf_v2": "",
         "slug": "115"
       },
   
@@ -3705,6 +3895,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27233343",
         "pdf_image": "<img src='/images/pdfs/preview/114.jpg' />",
+        "pdf_v2": "",
         "slug": "114"
       },
   
@@ -3724,6 +3915,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25807082",
         "pdf_image": "<img src='/images/pdfs/preview/113.jpg' />",
+        "pdf_v2": "",
         "slug": "113"
       },
   
@@ -3743,6 +3935,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/31705934",
         "pdf_image": "<img src='/images/pdfs/preview/112.jpg' />",
+        "pdf_v2": "",
         "slug": "112"
       },
   
@@ -3762,6 +3955,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/111.jpg' />",
+        "pdf_v2": "",
         "slug": "111"
       },
   
@@ -3784,6 +3978,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25806683",
         "pdf_image": "<img src='/images/pdfs/preview/109.jpg' />",
+        "pdf_v2": "",
         "slug": "109"
       },
   
@@ -3803,6 +3998,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/40993576",
         "pdf_image": "<img src='/images/pdfs/preview/108.jpg' />",
+        "pdf_v2": "",
         "slug": "108"
       },
   
@@ -3822,6 +4018,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25918682",
         "pdf_image": "<img src='/images/pdfs/preview/107.jpg' />",
+        "pdf_v2": "",
         "slug": "107"
       },
   
@@ -3841,6 +4038,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/106.jpg' />",
+        "pdf_v2": "",
         "slug": "106"
       },
   
@@ -3860,6 +4058,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/105.jpg' />",
+        "pdf_v2": "",
         "slug": "105"
       },
   
@@ -3879,6 +4078,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/104.jpg' />",
+        "pdf_v2": "",
         "slug": "104"
       },
   
@@ -3898,6 +4098,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/103.jpg' />",
+        "pdf_v2": "",
         "slug": "103"
       },
   
@@ -3917,6 +4118,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/102.jpg' />",
+        "pdf_v2": "",
         "slug": "102"
       },
   
@@ -3936,6 +4138,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-22821148",
         "pdf_image": "<img src='/images/pdfs/preview/101.jpg' />",
+        "pdf_v2": "",
         "slug": "101"
       },
   
@@ -3955,6 +4158,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/100.jpg' />",
+        "pdf_v2": "",
         "slug": "100"
       },
   
@@ -3977,6 +4181,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23025270",
         "pdf_image": "<img src='/images/pdfs/preview/98.jpg' />",
+        "pdf_v2": "",
         "slug": "98"
       },
   
@@ -3999,6 +4204,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/35467639",
         "pdf_image": "<img src='/images/pdfs/preview/96.jpg' />",
+        "pdf_v2": "v2",
         "slug": "96"
       },
   
@@ -4018,6 +4224,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22930633",
         "pdf_image": "<img src='/images/pdfs/preview/95.jpg' />",
+        "pdf_v2": "",
         "slug": "95"
       },
   
@@ -4037,6 +4244,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/94.jpg' />",
+        "pdf_v2": "",
         "slug": "94"
       },
   
@@ -4056,6 +4264,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/93.jpg' />",
+        "pdf_v2": "",
         "slug": "93"
       },
   
@@ -4075,6 +4284,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/92.jpg' />",
+        "pdf_v2": "",
         "slug": "92"
       },
   
@@ -4094,6 +4304,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/91.jpg' />",
+        "pdf_v2": "",
         "slug": "91"
       },
   
@@ -4113,6 +4324,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-22543461",
         "pdf_image": "<img src='/images/pdfs/preview/90.jpg' />",
+        "pdf_v2": "",
         "slug": "90"
       },
   
@@ -4132,6 +4344,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/89.jpg' />",
+        "pdf_v2": "",
         "slug": "89"
       },
   
@@ -4151,6 +4364,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23257233",
         "pdf_image": "<img src='/images/pdfs/preview/88.jpg' />",
+        "pdf_v2": "",
         "slug": "88"
       },
   
@@ -4170,6 +4384,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/37729033",
         "pdf_image": "<img src='/images/pdfs/preview/87.jpg' />",
+        "pdf_v2": "",
         "slug": "87"
       },
   
@@ -4192,6 +4407,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25683306",
         "pdf_image": "<img src='/images/pdfs/preview/85.jpg' />",
+        "pdf_v2": "",
         "slug": "85"
       },
   
@@ -4211,6 +4427,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22744103",
         "pdf_image": "<img src='/images/pdfs/preview/84.jpg' />",
+        "pdf_v2": "",
         "slug": "84"
       },
   
@@ -4233,6 +4450,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/82.jpg' />",
+        "pdf_v2": "",
         "slug": "82"
       },
   
@@ -4252,6 +4470,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/81.jpg' />",
+        "pdf_v2": "",
         "slug": "81"
       },
   
@@ -4271,6 +4490,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/80.jpg' />",
+        "pdf_v2": "",
         "slug": "80"
       },
   
@@ -4290,6 +4510,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23634325",
         "pdf_image": "<img src='/images/pdfs/preview/79.jpg' />",
+        "pdf_v2": "",
         "slug": "79"
       },
   
@@ -4309,6 +4530,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/78.jpg' />",
+        "pdf_v2": "",
         "slug": "78"
       },
   
@@ -4331,6 +4553,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/30623762",
         "pdf_image": "<img src='/images/pdfs/preview/76.jpg' />",
+        "pdf_v2": "",
         "slug": "76"
       },
   
@@ -4350,6 +4573,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/75.jpg' />",
+        "pdf_v2": "",
         "slug": "75"
       },
   
@@ -4369,6 +4593,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/74.jpg' />",
+        "pdf_v2": "",
         "slug": "74"
       },
   
@@ -4388,6 +4613,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/73.jpg' />",
+        "pdf_v2": "",
         "slug": "73"
       },
   
@@ -4407,6 +4633,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24118585",
         "pdf_image": "<img src='/images/pdfs/preview/72.jpg' />",
+        "pdf_v2": "",
         "slug": "72"
       },
   
@@ -4426,6 +4653,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/71.jpg' />",
+        "pdf_v2": "",
         "slug": "71"
       },
   
@@ -4448,6 +4676,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27574943",
         "pdf_image": "<img src='/images/pdfs/preview/69.jpg' />",
+        "pdf_v2": "",
         "slug": "69"
       },
   
@@ -4467,6 +4696,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/68.jpg' />",
+        "pdf_v2": "",
         "slug": "68"
       },
   
@@ -4486,6 +4716,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/67.jpg' />",
+        "pdf_v2": "",
         "slug": "67"
       },
   
@@ -4505,6 +4736,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/66.jpg' />",
+        "pdf_v2": "",
         "slug": "66"
       },
   
@@ -4524,6 +4756,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22930200",
         "pdf_image": "<img src='/images/pdfs/preview/65.jpg' />",
+        "pdf_v2": "",
         "slug": "65"
       },
   
@@ -4543,6 +4776,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/64.jpg' />",
+        "pdf_v2": "",
         "slug": "64"
       },
   
@@ -4571,6 +4805,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/60.jpg' />",
+        "pdf_v2": "",
         "slug": "60"
       },
   
@@ -4590,6 +4825,7 @@
         "date": "Apr 21, 2017",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/59.jpg' />",
+        "pdf_v2": "",
         "slug": "59"
       },
   
@@ -4609,6 +4845,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/58.jpg' />",
+        "pdf_v2": "",
         "slug": "58"
       },
   
@@ -4628,6 +4865,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23986615",
         "pdf_image": "<img src='/images/pdfs/preview/57.jpg' />",
+        "pdf_v2": "",
         "slug": "57"
       },
   
@@ -4647,6 +4885,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/21108513",
         "pdf_image": "<img src='/images/pdfs/preview/56.jpg' />",
+        "pdf_v2": "",
         "slug": "56"
       },
   
@@ -4666,6 +4905,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/24575218",
         "pdf_image": "<img src='/images/pdfs/preview/55.jpg' />",
+        "pdf_v2": "",
         "slug": "55"
       },
   
@@ -4685,6 +4925,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/54.jpg' />",
+        "pdf_v2": "",
         "slug": "54"
       },
   
@@ -4704,6 +4945,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28015769",
         "pdf_image": "<img src='/images/pdfs/preview/53.jpg' />",
+        "pdf_v2": "",
         "slug": "53"
       },
   
@@ -4726,6 +4968,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23132342",
         "pdf_image": "<img src='/images/pdfs/preview/51.jpg' />",
+        "pdf_v2": "",
         "slug": "51"
       },
   
@@ -4748,6 +4991,7 @@
         "date": "Feb 27, 2017",
         "patreon_url": "https://www.patreon.com/posts/33107748/",
         "pdf_image": "<img src='/images/pdfs/preview/49.jpg' />",
+        "pdf_v2": "",
         "slug": "49"
       },
   
@@ -4767,6 +5011,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/48.jpg' />",
+        "pdf_v2": "",
         "slug": "48"
       },
   
@@ -4786,6 +5031,7 @@
         "date": "Feb 17, 2017",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/47.jpg' />",
+        "pdf_v2": "",
         "slug": "47"
       },
   
@@ -4805,6 +5051,7 @@
         "date": "Feb 13, 2017",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/46.jpg' />",
+        "pdf_v2": "",
         "slug": "46"
       },
   
@@ -4824,6 +5071,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/45.jpg' />",
+        "pdf_v2": "",
         "slug": "45"
       },
   
@@ -4843,6 +5091,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/32378911",
         "pdf_image": "<img src='/images/pdfs/preview/44.jpg' />",
+        "pdf_v2": "",
         "slug": "44"
       },
   
@@ -4862,6 +5111,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22280189",
         "pdf_image": "<img src='/images/pdfs/preview/43.jpg' />",
+        "pdf_v2": "",
         "slug": "43"
       },
   
@@ -4881,6 +5131,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/39465384",
         "pdf_image": "<img src='/images/pdfs/preview/42.jpg' />",
+        "pdf_v2": "",
         "slug": "42"
       },
   
@@ -4903,6 +5154,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/40.jpg' />",
+        "pdf_v2": "",
         "slug": "40"
       },
   
@@ -4922,6 +5174,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/39.jpg' />",
+        "pdf_v2": "",
         "slug": "39"
       },
   
@@ -4941,6 +5194,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26435441",
         "pdf_image": "<img src='/images/pdfs/preview/38.jpg' />",
+        "pdf_v2": "",
         "slug": "38"
       },
   
@@ -4963,6 +5217,7 @@
         "date": "Dec 30, 2016",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/36.jpg' />",
+        "pdf_v2": "",
         "slug": "36"
       },
   
@@ -4982,6 +5237,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23503056",
         "pdf_image": "<img src='/images/pdfs/preview/35.jpg' />",
+        "pdf_v2": "",
         "slug": "35"
       },
   
@@ -5001,6 +5257,7 @@
         "date": "Dec 17, 2016",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/34.jpg' />",
+        "pdf_v2": "",
         "slug": "34"
       },
   
@@ -5020,6 +5277,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25634912",
         "pdf_image": "<img src='/images/pdfs/preview/33.jpg' />",
+        "pdf_v2": "",
         "slug": "33"
       },
   
@@ -5039,6 +5297,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/22348676",
         "pdf_image": "<img src='/images/pdfs/preview/32.jpg' />",
+        "pdf_v2": "",
         "slug": "32"
       },
   
@@ -5058,6 +5317,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/20970359",
         "pdf_image": "<img src='/images/pdfs/preview/31.jpg' />",
+        "pdf_v2": "",
         "slug": "31"
       },
   
@@ -5077,6 +5337,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/28342366",
         "pdf_image": "<img src='/images/pdfs/preview/30.jpg' />",
+        "pdf_v2": "",
         "slug": "30"
       },
   
@@ -5096,6 +5357,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/29.jpg' />",
+        "pdf_v2": "",
         "slug": "29"
       },
   
@@ -5115,6 +5377,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27089906",
         "pdf_image": "<img src='/images/pdfs/preview/28.jpg' />",
+        "pdf_v2": "",
         "slug": "28"
       },
   
@@ -5134,6 +5397,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23879773",
         "pdf_image": "<img src='/images/pdfs/preview/27.jpg' />",
+        "pdf_v2": "",
         "slug": "27"
       },
   
@@ -5153,6 +5417,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/40734544",
         "pdf_image": "<img src='/images/pdfs/preview/26.jpg' />",
+        "pdf_v2": "",
         "slug": "26"
       },
   
@@ -5172,6 +5437,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/printable-lesson-22821743",
         "pdf_image": "<img src='/images/pdfs/preview/25.jpg' />",
+        "pdf_v2": "",
         "slug": "25"
       },
   
@@ -5191,6 +5457,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/24.jpg' />",
+        "pdf_v2": "",
         "slug": "24"
       },
   
@@ -5210,6 +5477,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/23.jpg' />",
+        "pdf_v2": "",
         "slug": "23"
       },
   
@@ -5229,6 +5497,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/pdf-7-years-by-32378843",
         "pdf_image": "<img src='/images/pdfs/preview/22.jpg' />",
+        "pdf_v2": "",
         "slug": "22"
       },
   
@@ -5248,6 +5517,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/21.jpg' />",
+        "pdf_v2": "",
         "slug": "21"
       },
   
@@ -5267,6 +5537,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/27711802",
         "pdf_image": "<img src='/images/pdfs/preview/20.jpg' />",
+        "pdf_v2": "",
         "slug": "20"
       },
   
@@ -5286,6 +5557,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/19.jpg' />",
+        "pdf_v2": "",
         "slug": "19"
       },
   
@@ -5305,6 +5577,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/31510807",
         "pdf_image": "<img src='/images/pdfs/preview/18.jpg' />",
+        "pdf_v2": "",
         "slug": "18"
       },
   
@@ -5324,6 +5597,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/17.jpg' />",
+        "pdf_v2": "",
         "slug": "17"
       },
   
@@ -5343,6 +5617,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/16.jpg' />",
+        "pdf_v2": "",
         "slug": "16"
       },
   
@@ -5362,6 +5637,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/34346197",
         "pdf_image": "<img src='/images/pdfs/preview/15.jpg' />",
+        "pdf_v2": "v2",
         "slug": "15"
       },
   
@@ -5381,6 +5657,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/14.jpg' />",
+        "pdf_v2": "",
         "slug": "14"
       },
   
@@ -5400,6 +5677,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/13.jpg' />",
+        "pdf_v2": "",
         "slug": "13"
       },
   
@@ -5419,6 +5697,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/12.jpg' />",
+        "pdf_v2": "",
         "slug": "12"
       },
   
@@ -5438,6 +5717,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/26843157",
         "pdf_image": "<img src='/images/pdfs/preview/11.jpg' />",
+        "pdf_v2": "",
         "slug": "11"
       },
   
@@ -5457,6 +5737,7 @@
         "date": "",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/10.jpg' />",
+        "pdf_v2": "",
         "slug": "10"
       },
   
@@ -5476,6 +5757,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/29901798",
         "pdf_image": "<img src='/images/pdfs/preview/9.jpg' />",
+        "pdf_v2": "",
         "slug": "9"
       },
   
@@ -5495,6 +5777,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/32569502",
         "pdf_image": "<img src='/images/pdfs/preview/8.jpg' />",
+        "pdf_v2": "",
         "slug": "8"
       },
   
@@ -5514,6 +5797,7 @@
         "date": "Nov 17, 2013",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/7.jpg' />",
+        "pdf_v2": "",
         "slug": "7"
       },
   
@@ -5533,6 +5817,7 @@
         "date": "Nov 17, 2013",
         "patreon_url": "https://www.patreon.com/posts/30878699",
         "pdf_image": "<img src='/images/pdfs/preview/6.jpg' />",
+        "pdf_v2": "v2",
         "slug": "6"
       },
   
@@ -5552,6 +5837,7 @@
         "date": "Nov 12, 2013",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/5.jpg' />",
+        "pdf_v2": "",
         "slug": "5"
       },
   
@@ -5571,6 +5857,7 @@
         "date": "Nov 12, 2013",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/4.jpg' />",
+        "pdf_v2": "",
         "slug": "4"
       },
   
@@ -5590,6 +5877,7 @@
         "date": "Nov 10, 2013",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/3.jpg' />",
+        "pdf_v2": "",
         "slug": "3"
       },
   
@@ -5609,6 +5897,7 @@
         "date": "Nov 10, 2013",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/2.jpg' />",
+        "pdf_v2": "",
         "slug": "2"
       },
   
@@ -5628,6 +5917,7 @@
         "date": "Nov 10, 2013",
         "patreon_url": "",
         "pdf_image": "<img src='/images/pdfs/preview/1.jpg' />",
+        "pdf_v2": "",
         "slug": "1"
       },
   
@@ -5636,9 +5926,9 @@
 $(document).ready(function(){
 
   for (i = 0; i < 326; i++) {
-    $('#all_lessons_list tr:last').after('<tr><td>' + lessons[i].slug + '</td>\
+    $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
                                     <td>' + lessons[i].date + '</td>\
-                                    <td>' + pdf_image + '</td>\
+                                    <td>' + lessons[i].pdf_image + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
                                     <td>' + lessons[i].category + '</td>\
                                     <td><a data-patreon-url="' + lessons[i].patreon_url + '" href="' + lessons[i].patreon_url + '">PDF</td>\

@@ -8,7 +8,9 @@ category: full_song
 date_published: 2019-12-29
 slug: "274"
 tags: [Full Song Lesson, Key of C, 1970s, Classic Rock]
-hidden_tags: Keith Richards, Mick Jagger, British, the stones
+hidden_tags: [Keith Richards, Mick Jagger, British, the stones]
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32695612
 ---

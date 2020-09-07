@@ -1,4 +1,4 @@
-I"t4<h2 id="video-lesson">Video lesson</h2>
+I"-5<h2 id="video-lesson">Video lesson</h2>
 
 <p>Here’s my video lesson:</p>
 
@@ -18,12 +18,18 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0o_yRKqt26s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h2><span style="background: #FFD646; padding: 5px 7px 4px; border-radius: 3px; font-size: 13px; display: inline-block; margin-right: 3px; position: relative; top: -5px;">PDF</span> Print-friendly chord sheet available for Patreon supporters</h2>
-<ul>
-    <li><a target="_blank" href="https://www.patreon.com/posts/34051720"><strong>Get the PDF here</strong></a> -- after clicking and logging in to Patreon, look for the file attached to the bottom of the post.</li>
-  </ul>
-
-<p class="small"><em>Supporting me on Patreon gives you access to the PDF for this as well as <a href="http://playsongnotes.com/downloads">200+ other lessons</a>. One month minimum ($3, cancel anytime) gets you access to everything... <a href="http://playsongnotes.com/downloads">here's a free sample</a>. Thanks for supporting me and this project!</em></p>
+<div class="pdf_module_v2">
+    <h3 class="pdf_module_v2__headline">Get the PDF chord sheet <span>(3 pages)</span></h3>
+    <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/284.jpg)"></div>
+    <div class="pdf_module_v2__content">
+      <ul class="pdf_module_v2__list">
+        <li>Support me on Patreon.com to get access to this and <a href="/downloads">200+ other PDF chord sheets</a> I've made, plus new PDFs I make going forward (1-2 added each week).</li>
+        <li>The cost is $3/month (one month minimum, cancel anytime). <a href="/downloads">Here's a free sample</a> if you're on the fence. Thanks for supporting me &amp; this project!</li>
+      </ul>
+      <a class="pdf_module_v2__button" target="_blank" href="https://www.patreon.com/posts/34051720"><strong>Download the PDF on Patreon</strong></a>
+      <p class="pdf_module_v2__footnote">After clicking the button and logging in to Patreon, look for the PDF attached to the bottom of the post.</p>
+    </div>
+  </div>
 
 <h2 id="editors-notes">Editor’s notes</h2>
 
