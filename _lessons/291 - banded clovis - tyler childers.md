@@ -8,6 +8,8 @@ tags: [Full Song Lesson, 2010s, Key of E, Country]
 category: full_song
 slug: "291"
 date: 2020-03-22
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35143105
 ---
@@ -18,7 +20,13 @@ patreon_lesson_url: https://www.patreon.com/posts/35143105
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TTDV1wownpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 

@@ -5,6 +5,8 @@ category: tip_technique
 slug: "289"
 tags: [Tips & Techniques, Learning Chords, Strumming]
 date: 2020-03-19
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35077534
 ---
@@ -15,7 +17,13 @@ patreon_lesson_url: https://www.patreon.com/posts/35077534
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OJLc3cWlYR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html has_patreon_url=page.patreon_lesson_url patreon_url=page.patreon_lesson_url song_name=page.song_title %}
+{% include pdf-module.html
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 
