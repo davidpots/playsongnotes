@@ -32,11 +32,15 @@ patreon_lesson_url: https://www.patreon.com/posts/30878699
      patreon_url = page.patreon_lesson_url
      song_name = page.song_title %}
 
-## Learning the intro riff (lesson #262)
+## Editor's notes
 
-My video lesson above focuses 100% on the intro riff. I break things down in detail, showing you three different ways to play it: (1) an easy approach starting with just the bass notes; (2) a slightly more difficult version adding single strums of each chord; and (3) a more advanced version that brings in muted strumming as well as the "book chicka" percussive sound heard in much of Johnny Cash's playing.
+In this lesson I'll teach you how to play the Johnny Cash classic "I Walk The Line" released in 1956. My tutorial is based on a solo acoustic guitar approach, which lets you capture the sound of the recorded album version all by yourself. In my video above (lesson #262) I'll focus entirely on the intro riff, showing you three different ways to pay it:
 
-Lesson timestamps:
+1. an easy approach starting with just the bass notes
+2. a slightly more difficult version adding single strums of each chord; and
+3. a more advanced version that brings in muted strumming as well as the "book chicka" percussive sound heard in much of Johnny Cash's playing.
+
+No matter your skill level, I trust that one of these approaches will be perfect for you. Timestamps for my video above are as follows:
 
 - 0:00 Lesson overview
 - 2:19 Variation 1: bass notes only
@@ -44,9 +48,9 @@ Lesson timestamps:
 - 21:27 Variation 3: adding muted "boom-chicka" strumming
 - 25:18 Farewell
 
-## Full song (lesson #6)
+### Full song lesson
 
-Here's an older video I did (from 2014) showing how to play all the verse sections, including the walk ups & walk downs between each verse.
+Here's an older video I did (from 2014) showing how to play all the verse sections, including the walk ups & walk downs between each verse. A focus in this lesson is how this song actually changes key in each verse, using a different I-IV-V set of chords.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPf0HLvc3L8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
