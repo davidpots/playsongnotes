@@ -330,6 +330,9 @@ iframe {
 .pdf_module_v2__image {
   float: left;
   width: 200px;
+  height: 262px;
+  background-repeat: no-repeat;
+  background-size: contain;
   box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
 }
 .pdf_module_v2__content {
@@ -339,6 +342,11 @@ iframe {
 .pdf_module_v2__headline {
   font-size: 21px;
   margin-top: 0;
+  span {
+    font-size: 14px;
+    color: #C1B36D;
+    padding-left: 6px;
+  }
 }
 .pdf_module_v2__list {
 }
@@ -365,6 +373,7 @@ iframe {
     display: block;
     margin: 0 auto 24px;
     width: 320px;
+    height: 420px;
     box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
   }
   .pdf_module_v2__content {

@@ -9,6 +9,7 @@ category: full_song
 slug: "307"
 date: 2020-06-21
 pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38462103
 ---
@@ -22,11 +23,12 @@ patreon_lesson_url: https://www.patreon.com/posts/38462103
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U9_R2HH7XyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html
-     slug=page.slug
-     pdf_version=page.pdf_version
-     has_patreon_url=page.patreon_lesson_url
-     patreon_url=page.patreon_lesson_url
-     song_name=page.song_title %}
+     slug = page.slug
+     pdf_numpages = page.pdf_numpages
+     pdf_version = page.pdf_version
+     has_patreon_url = page.patreon_lesson_url
+     patreon_url = page.patreon_lesson_url
+     song_name = page.song_title %}
 
 ## Editor's notes
 
