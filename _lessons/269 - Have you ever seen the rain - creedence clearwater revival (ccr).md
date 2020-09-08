@@ -8,19 +8,17 @@ category: full_song
 slug: "269"
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
 hidden_tags: CCR, creedance
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32143542
 ---
 
 
 
-## Full song lesson (#269)
+## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1O1RPrzNLI?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-## Play-along cover (#270)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xyPx_vN-F4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- Coming soon! -->
 
@@ -51,8 +49,12 @@ I hope you enjoy! If you're hungry for more CCR, I also have lessons for this so
 
 - [Lookin' Out My Backdoor](http://playsongnotes.com/lessons/261/)
 
-Thanks all,
-David Pots.
+
+## Play-along cover (#270)
+
+Here's a video of me playing the the entire song, with chords and lyrics shown for context.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyPx_vN-F4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Techniques I reference in this lesson
 

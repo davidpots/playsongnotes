@@ -8,19 +8,17 @@ category: full_song
 date_published: 2019-12-16
 tags: [Full Song Lesson, Key of D, 1960s, Country]
 slug: "272"
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32519143
 ---
 
 
 
-## Full song lesson (#272)
+## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YS0up2Oo8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Play-along cover (#273)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oRj0-b3YxhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html
      slug = page.slug
@@ -45,6 +43,12 @@ Lesson timestamps:
 - 8:40 Verse & chorus progressions
 - 12:51 Intro riff (3 versions)
 - 19:37 Farewell
+
+## Play-along cover (#273)
+
+Here's a play-through cover of the entire song, with chords and lyrics shown as I play it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRj0-b3YxhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 

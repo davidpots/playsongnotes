@@ -8,6 +8,8 @@ category: full_song
 tags: [Full Song Lesson, 2010s, Key of D, Country, Fingerstyle]
 slug: "268"
 hidden_tags: fingerpicking, finger picking, finger style
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31947589
 ---
