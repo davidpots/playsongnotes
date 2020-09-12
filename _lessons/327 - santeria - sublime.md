@@ -6,7 +6,7 @@ artist: Sublime
 year: 1996
 category: full_song
 slug: "327"
-tags: [Full Song Lesson, 1990s, Key of C]
+tags: [Full Song Lesson, 1990s, Key of C, Rock]
 ---
 
 <!-- pdf_version: v2
@@ -34,7 +34,7 @@ Coming soon...
 
 ## Editor's notes
 
-In this lesson I'll show you how I like to play a strummed, solo acoustic version of "Santeria" by Sublime (from their 1996 self-titled album). While originally played in the key of E, I'll be playing in the key of C -- which lets you utilize more traditional open chords, which are not only easier to play -- but also work very well for the laid back acoustic vibe I'm going for with this arrangement. Add a capo 4th fret, and you'll be able to play along with the Sublime version.
+In this lesson I'll show you how I like to play a strummed, solo acoustic version of "Santeria" by Sublime (from their 1996 self-titled album). While originally played in the key of E, I'll be playing in the key of C -- which lets you utilize more traditional open chords. This makes it easier to play, as well as lending itself very nicely for the laid back acoustic vibe I'm going for with this arrangement. Add a capo 4th fret, and you'll be able to play along with the Sublime version.
 
 ## Lyrics and chords
 
@@ -134,14 +134,16 @@ I prefer either of the following patterns for an acoustic version. One of them i
 
 Here's the tab for the first 2 chords of the solo, if your goal is to mimic the notes being played in Sublime's album version (which again, is in the key of E). This is just a fun, fairly do-able way to approximate the recognizable sound and maybe turn a few heads. For the remaining chords (Am-G), I don't have the rest of the solo tab worked out -- so I'll just noodle around on those.
 
-    E ||–0–––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–
-    B ||–1–––––––––––––1–|––––3b~~–3–––1–––|–0–––0–––0–––––1–|–0–––––––––––––––|–
-    G ||–0–––––––––0–2–––|–––––––––––––––––|–1–––––––––2–––––|–––––––––––––––––|–
-    D ||–2–––––0–2–––––––|–––––––––––––––––|–2–––––––––––––––|–––––––––––––––––|–
-    A ||–3–––––––––––––––|–––––––––––––––––|–2–––––––––––––––|–––––––––––––––––|–
-    E ||–––––––––––––––––|–––––––––––––––––|–0–––––––––––––––|–––––––––––––––––|–
-         C                 C                 E                 E
-         1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
+    [ See PDF for the tab ]
+
+<!-- E ||–0–––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–
+B ||–1–––––––––––––1–|––––3b~~–3–––1–––|–0–––0–––0–––––1–|–0–––––––––––––––|–
+G ||–0–––––––––0–2–––|–––––––––––––––––|–1–––––––––2–––––|–––––––––––––––––|–
+D ||–2–––––0–2–––––––|–––––––––––––––––|–2–––––––––––––––|–––––––––––––––––|–
+A ||–3–––––––––––––––|–––––––––––––––––|–2–––––––––––––––|–––––––––––––––––|–
+E ||–––––––––––––––––|–––––––––––––––––|–0–––––––––––––––|–––––––––––––––––|–
+     C                 C                 E                 E
+     1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + -->
 
 ## Sublime's album version
 
