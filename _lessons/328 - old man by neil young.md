@@ -7,12 +7,13 @@ year: 1972
 category: full_song
 slug: "328"
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
+pdf_version: v2
+pdf_numpages: 5
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/41525361
 ---
 
-<!-- pdf_version: v2
-pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
+
 
 
 

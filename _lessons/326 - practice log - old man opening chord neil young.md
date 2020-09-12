@@ -9,6 +9,8 @@ year: 1972
 yt_video_id: _________
 tags: [Practice Log, 1970s, Key of D, Classic Rock, Strumming]
 slug: "326"
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41270135
 ---
