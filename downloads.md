@@ -19,7 +19,16 @@ permalink: /downloads/
 
 ## How to access my premium PDFs
 
+<div class="featured_module">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-wUT2i9GHmM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<p>Support me on Patreon ($3/month, cancel anytime) to get access to the growing catalog of PDFs I’ve been creating since August 2018. I have been adding ~1-2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Thanks for your support!</p>
+
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+
+</div>
+
+<br /><br />
 
 ## Free PDF sampler pack
 
@@ -57,9 +66,11 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <li><strong><a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">Honky Tonk Heroes</a></strong> by Wayon Jennings</li>
 </ul> -->
 
+<br /><br />
+
 ## Premium PDFs available to Patreon supporters
 
-All those supporting me on Patreon ($3/month) have access to this growing list of PDFs I've been creating since August 2018. I have been adding ~2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Here's what's currently available. Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
+Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
 
 {% assign number_of_pdfs = 0 %}
 
@@ -98,7 +109,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 
 
-
+<br /><br />
 
 ## Warm Up Exercise PDFs:
 
@@ -112,6 +123,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% endfor %}
 </ul>
 
+<br /><br />
 ## Practice Log PDFs:
 
     {% assign sorted_plogs = site.lessons | where: "category","practice_log" | sort: 'date_published' | reverse %}
@@ -124,6 +136,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
     {% endfor %}
 </ul>
 
+<br /><br />
 ## Tips & Technique PDFs:
 
     {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date_published' | reverse %}
@@ -140,7 +153,7 @@ All those supporting me on Patreon ($3/month) have access to this growing list o
 
 If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my independent efforts (and costs) of creating all these lessons to share with the world. Thank you.
 
-<a style="display: inline-block; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
 
 <hr />
 
