@@ -8,6 +8,8 @@ category: full_song
 slug: "320"
 tags: [Full Song Lesson, 2020s, 1970s, Key of Em, Country, Classic Rock]
 hidden_tags: [Leon Russell]
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41023187
 ---

@@ -7,6 +7,8 @@ year: 1993
 category: full_song
 slug: "322"
 tags: [Full Song Lesson, Tyler Childers, 1990s, Key of D, Drop D, Country, Pop]
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41023187
 ---
