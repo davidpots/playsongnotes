@@ -10,6 +10,8 @@ tags: [Full Song Lesson, 2010s, Key of G, Classic Rock, Blues, Soul]
 hidden_tags: [Marcus King, Doc Watson]
 redirect_to:
   - /lessons/279
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39956339
 ---

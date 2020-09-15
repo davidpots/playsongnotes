@@ -9,6 +9,8 @@ tags: [Full Song Lesson, Key of G, 2010s, Soul, Country]
 hidden_tags: [Doc Watson, Marcus King]
 date_published: 2020-01-14
 slug: "279"
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39956339
 ---

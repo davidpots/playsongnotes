@@ -8,6 +8,8 @@ tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "310"
 date_published: 2020-07-10
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39197676
 ---

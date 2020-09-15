@@ -6,6 +6,8 @@ slug: "311"
 tags: [Tips & Techniques, Learning Chords, Strumming]
 hidden_tags: [fretting, fret, percussive, percussion]
 date_published: 2020-07-18
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39450599
 ---

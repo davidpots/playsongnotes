@@ -6,6 +6,10 @@ slug: "314"
 date_published: 2020-07-25
 tags: [Warm Up Exercise, Key of E, Learning Chords]
 hidden_tags: [night I painted the sky]
+pdf_version: v2
+pdf_numpages: 2
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39722496
 ---
