@@ -19,13 +19,7 @@ patreon_lesson_url: https://songnotes.ck.page/5b2e719313
 
 ## Video lesson
 
-### Easy fingerstyle version (lesson #293)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KibnZCT6oYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Strumming version (lesson #96)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hjNnsAY-ijc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html
      slug = page.slug
@@ -34,6 +28,27 @@ patreon_lesson_url: https://songnotes.ck.page/5b2e719313
      has_patreon_url = page.patreon_lesson_url
      patreon_url = page.patreon_lesson_url
      song_name = page.song_title %}
+
+## Editor's notes
+
+Hey friends -- here's my guitar lesson showing you how to play "House of the Rising Sun" by The Animals (though of course, this song existed well before them). In this tutorial I'll show you the chords, the progressions needed, talk about strumming patterns, and show a few different tab options for playing the intro and verse sections. Whether you want a beginner-friendly version or something more advanced (e.g. with raked strumming), my videos here should help you out big time!
+
+Here's timestamps for the video above:
+
+- 0:00 Lesson overview
+- 1:45 Chord shapes needed
+- 3:22 Chord progression basics
+- 4:43 Fingerstyle: learning the basics
+- 7:25 Fingerstyle: intro & verse tab
+- 12:02 Playthrough of intro & verses
+- 13:50 Farewell & final advice
+
+## My original video for this song (lesson #96)
+
+In addition to the video above, here's the original entry I made for this song a few years back. This one holds up just fine, and remains a worthy companion to the updated video at the top of this page.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjNnsAY-ijc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 ## Lyrics w/ chords
 
