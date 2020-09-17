@@ -11,10 +11,10 @@ slug: "96"
 redirect_from:
   - /songs/animals-house-of-the-rising-sun/
   - /lessons/293
-pdf_version: v2
+pdf_version: v2F
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35467639
+patreon_lesson_url: https://songnotes.ck.page/5b2e719313
 ---
 
 ## Video lesson
