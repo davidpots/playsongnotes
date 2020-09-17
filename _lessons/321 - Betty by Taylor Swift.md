@@ -7,10 +7,10 @@ year: 2020
 category: full_song
 slug: "321"
 tags: [Full Song Lesson, 2020s, Key of C, Pop, Country]
-pdf_version: v2
+pdf_version: v2F
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/41023187
+patreon_lesson_url: https://songnotes.ck.page/56e872cd4c
 ---
 
 <!-- patreon_lesson_available: true
@@ -20,6 +20,10 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/z5jSdu4hH5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
+## Video lesson
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUz_-KJL9KA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {% include pdf-module.html
      slug = page.slug
      pdf_numpages = page.pdf_numpages
@@ -28,11 +32,9 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
      patreon_url = page.patreon_lesson_url
      song_name = page.song_title %}
 
-## Video lesson
+## Editor's notes
 
-I haven't made a video lesson for this song yet -- but here's a preview of the PDF I made.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Hey friends! Here's a solo acoustic guitar lesson showing you how to play "Betty" by Taylor Swift, from her 2020 album folklore. This song is in the key of C, standard tuning, and mainly consists of a walkdown (C-C/B-Am-Am/G-F-G) that's used throughout the song, make it a bit easy to initially wrap your head around. I'll teach you that, and also explain the bridge and ending sections -- the latter of which has a key change. Enjoy!
 
 ## Audio of me playing it on guitar
 
@@ -115,6 +117,11 @@ Here's the lyrics and chords to Betty, from Taylor Swift's 2020 album "Folklore"
                     I [D] miss you....[A] [G-G]...Standing in your...[D] cardigan... [A] [G-G]
                     Kissing in my...[D] car again... [A] [G-G]... stopped at a streetlight
                     You know I miss [D] you.... [A] [G, let ring, end]
+
+## Taylor swift's 2020 ACM performance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/orXAg5dIMa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Taylor Swift's album version
 
