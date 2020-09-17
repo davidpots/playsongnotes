@@ -3,7 +3,6 @@ layout: page
 title: Print-friendly PDF Downloads for Song Notes guitar lessons - playsongnotes.com
 permalink: /downloads/
 ---
-
   <!-- <div style="background: #FFA; padding: 16px; margin: 24px auto; max-width: 480px;">
     <p style="margin: 0;"><strong>Psst... I just launched a Patreon page!</strong> Get print-friendly PDFs for each new lesson I make for only $3/month. <a href="https://www.patreon.com/songnotes">Learn more »</a></p>
   </div> -->
@@ -17,16 +16,34 @@ permalink: /downloads/
   </form>
 </div>
 
+
+<script src="/js/jquery.js"></script>
+<script>
+  $(document).ready(function(){
+    var urlParams = new URLSearchParams(window.location.search); //get all parameters
+    var thanks = urlParams.get('thanks'); //extract the foo parameter - this will return NULL if foo isn't a parameter
+    if(thanks == 'true') { //check if foo parameter is 'bar'
+      var thanksHTML = '<div class="featured_module"><h2 class="mtn">Your PDF is on the way!</h2>\
+                        <p class="mbn">Check your email -- the PDF you requested will be sent your way shortly. If it doesn\'t show up, check your spam folders. If you have more issues, <a href="mailto:hello@playsongnotes.com">email me directly</a> and I\'ll help you out.</p></div><br /><br />';
+      $('.thanks_container').append(thanksHTML);
+    }
+  });
+</script>
+
+
+  <div class="thanks_container">
+
+  </div>
+
+
 ## How to access my premium PDFs
 
-<div class="featured_module">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-wUT2i9GHmM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <p>Support me on Patreon ($3/month, cancel anytime) to get access to the growing catalog of PDFs I’ve been creating since August 2018. I have been adding ~1-2 new lessons a week (video and PDF), while also adding PDFs for older videos that are requested by fans. Thanks for your support!</p>
 
 <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
 
-</div>
 
 <br /><br />
 
