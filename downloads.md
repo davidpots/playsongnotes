@@ -39,6 +39,7 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <li><strong><a href="https://www.patreon.com/posts/34822415">Patience</a></strong> by Guns n' Roses</li>  
   <li><strong><a href="https://www.patreon.com/posts/33878045">You've Lost that Loving Feeling</a></strong> by The Righteous Brothers</li>
   <li><strong><a href="https://www.patreon.com/posts/38165123">Havana</a></strong> by Camila Cabello</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/321">Betty</a></strong> by Taylor Swift</li>
   <li><strong><a href="https://www.patreon.com/posts/37186031">Travis Picking vs. Traditional Fingerstyle</a></strong> (tips & techniques)</li>  
   <li><strong><a href="https://www.patreon.com/posts/31795113">Essential Mods for the A-minor chord</a></strong> (tips & techniques)</li>  
   <li><strong><a href="https://www.patreon.com/posts/31073686">Fingerstyle Walkdown exercise, Key of C</a></strong> (warm up exercise)</li>
