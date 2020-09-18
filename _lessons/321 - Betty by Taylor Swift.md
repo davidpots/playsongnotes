@@ -10,7 +10,9 @@ tags: [Full Song Lesson, 2020s, Key of C, Pop, Country]
 pdf_version: v2F
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://songnotes.ck.page/56e872cd4c
+patreon_lesson_url: https://www.patreon.com/posts/41023187
+free_pdf_available: true
+free_pdf_url: https://songnotes.ck.page/56e872cd4c
 ---
 
 <!-- patreon_lesson_available: true

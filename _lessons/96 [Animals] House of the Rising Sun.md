@@ -14,7 +14,9 @@ redirect_from:
 pdf_version: v2F
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://songnotes.ck.page/5b2e719313
+patreon_lesson_url: https://www.patreon.com/posts/35467639
+free_pdf_available: true
+free_pdf_url: https://songnotes.ck.page/5b2e719313
 ---
 
 ## Video lesson
