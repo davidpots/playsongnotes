@@ -7,7 +7,7 @@ year: 2020
 category: full_song
 slug: "321"
 tags: [Full Song Lesson, 2020s, Key of C, Pop, Country]
-pdf_version: v2F
+pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41023187
@@ -26,13 +26,7 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUz_-KJL9KA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Editor's notes
 

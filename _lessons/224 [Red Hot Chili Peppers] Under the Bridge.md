@@ -22,13 +22,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25250503
 Want to see a full lesson, where I explain things step by step? Let me know!
 <!-- Coming soon! -->
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Intro tab
 

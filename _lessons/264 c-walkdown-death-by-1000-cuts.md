@@ -18,13 +18,7 @@ patreon_lesson_url: https://www.patreon.com/posts/31073686
 
 <!-- Coming soon... -->
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 <img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/31073686/8e33e53ef718468ea662ee1711779bfd/1.png?token-time=1573344000&token-hash=iHiZaT3bwm78Hn3dYGXPquO5N7dZzU0TmCgAPY20OTg%3D" width="700" />
 

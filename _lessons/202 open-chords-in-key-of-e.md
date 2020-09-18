@@ -16,13 +16,7 @@ patreon_lesson_url: https://www.patreon.com/posts/repost-printable-23986840
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6n6bpW9FUN4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 <!-- Coming soon... -->
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 
 ## Editor's notes

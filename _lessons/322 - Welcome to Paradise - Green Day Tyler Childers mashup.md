@@ -31,13 +31,7 @@ Here's audio of me playing it:
 Your browser does not support the audio element.
 </audio>
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Video lesson
 

@@ -21,13 +21,7 @@ patreon_lesson_url: https://www.patreon.com/posts/26596736
 
 Hey friends! In this lesson I'll teach you a few easy acoustic guitar versions of "First Call", the very recognizable bugle call used in the military and at horse races. This melody only uses four notes, and can be played with your left hand staying (mostly) still in a single chord position. I'll show you a few ways to play it using different chord voicings, and likewise explain ways you can pull this melody out of any chord shape you may play going forward. I hope you enjoy!
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Lesson timestamps
 

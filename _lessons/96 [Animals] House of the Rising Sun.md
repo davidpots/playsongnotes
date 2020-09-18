@@ -11,7 +11,7 @@ slug: "96"
 redirect_from:
   - /songs/animals-house-of-the-rising-sun/
   - /lessons/293
-pdf_version: v2F
+pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35467639
@@ -23,13 +23,7 @@ free_pdf_url: https://songnotes.ck.page/5b2e719313
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KibnZCT6oYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html
-     slug = page.slug
-     pdf_numpages = page.pdf_numpages
-     pdf_version = page.pdf_version
-     has_patreon_url = page.patreon_lesson_url
-     patreon_url = page.patreon_lesson_url
-     song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Editor's notes
 
