@@ -18,11 +18,44 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 <!-- https://youtu.be/SyahJJ332uk -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/z5jSdu4hH5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+## Video lesson
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/84F_w1qslmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Editor's notes
 
-Here's a country-inspired arrangement of Green Day's "Welcome to Paradise" from their 1994 album Dookie. This one is arranged in the style of Tyler Childers, who is maybe my favorite country artist of the late 2010s. Similar to other songs Childers plays, I'm doing this one in the key of D (you can do drop-D as well), and adding some country inspired licks to fully pain the picture.
+Hey friends! Here's a new lesson where I'll show you a Tyler Childers-inspired arrangement of Green Day's 1990s classic WELCOME TO PARADISE (via their album "Dookie"). This one takes the raw, backwoods-style acoustic country sound (of Tyler Childers, but also artists like Steve Earle via Copperhead Road) and imagines how that type of guitar playing might be applied to a pop-punk song. The result is what's in this lesson, and I hope you enjoy!
+
+From a guitar POV, the heart of this arrangement is based on a D-riff (which can be played in Drop-D tuning), similar to that used in Tyler Childers' Feathered Indians and Whitehouse Road -- and also Steve Earle's Copperhead Road. This results in a droning, raw sound (lots of open D-string) with occasional flourish via reaching your pinky. I also use an occasional A-riff (via hammering-on the 5th string) for added acoustic flourish. I show it all in my video lesson, with tabs!
+
+Timestamps for this video:
+
+0:00 Playthrough & lesson overview
+2:38 Intro D-riff (4 measures w/ tab)
+11:05 Chord & strumming (verse & chorus)
+13:41 A-riff during the verse
+14:39 D-riff during the verse
+15:22 Chorus melody riff (w/ tab)
+
+## Related lessons I've made
+
+If you dig this style of playing, here's related lessons I've made -- all of these being in the key of D and having a similar outlaw country-ish sound. PDFs for each of these are available via the links below:
+
+- (Feathered Indians)[https://playsongnotes.com/lessons/107/] by Tyler Childers
+- (White House Road)[https://playsongnotes.com/lessons/109/] by Tyler Childers
+- (Copperhead Road)[https://playsongnotes.com/lessons/213/] by Steve Earle
+- (Rocky Mountain High)[https://playsongnotes.com/lessons/160/] by John Denver
+- (Where Rainbows Never Die)[https://playsongnotes.com/lessons/112/] by The Steeldrivers
+- (Honky Tonk Heroes)[https://playsongnotes.com/lessons/94/] by Waylon Jennings
+
+There's also these technique videos I've made, which may be helpful for this particular song:
+
+- (Stretching your pinky in D-major)[https://playsongnotes.com/lessons/112/]
+- (Playing A-major with one finger (barred index))[https://playsongnotes.com/lessons/46/]
+
+## Audio of me playing this song
 
 Here's audio of me playing it:
 
@@ -30,14 +63,6 @@ Here's audio of me playing it:
   <source src="/audio/323_wtparadise_playthrough.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-## Video lesson
-
-My video lesson for this song is coming soon. Meanwhile, here's a tour of the PDF I made:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lyrics and chords
 
