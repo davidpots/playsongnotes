@@ -26,34 +26,34 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 ## Editor's notes
 
-Hey friends! Here's a new lesson where I'll show you a Tyler Childers-inspired arrangement of Green Day's 1990s classic WELCOME TO PARADISE (via their album "Dookie"). This one takes the raw, backwoods-style acoustic country sound (of Tyler Childers, but also artists like Steve Earle via Copperhead Road) and imagines how that type of guitar playing might be applied to a pop-punk song. The result is what's in this lesson, and I hope you enjoy!
+Hey friends! Here's a new lesson where I'll show you a Tyler Childers-inspired arrangement of Green Day's 1990s classic Welcome to Paradise (via their album "Dookie"). This one takes the raw, backwoods-style acoustic country sound (of Tyler Childers, but also artists like Steve Earle via Copperhead Road) and imagines how that type of guitar playing might be applied to a pop-punk song. The result is what's in this lesson, and I hope you enjoy!
 
 From a guitar POV, the heart of this arrangement is based on a D-riff (which can be played in Drop-D tuning), similar to that used in Tyler Childers' Feathered Indians and Whitehouse Road -- and also Steve Earle's Copperhead Road. This results in a droning, raw sound (lots of open D-string) with occasional flourish via reaching your pinky. I also use an occasional A-riff (via hammering-on the 5th string) for added acoustic flourish. I show it all in my video lesson, with tabs!
 
 Timestamps for this video:
 
-0:00 Playthrough & lesson overview
-2:38 Intro D-riff (4 measures w/ tab)
-11:05 Chord & strumming (verse & chorus)
-13:41 A-riff during the verse
-14:39 D-riff during the verse
-15:22 Chorus melody riff (w/ tab)
+- 0:00 Playthrough & lesson overview
+- 2:38 Intro D-riff (4 measures w/ tab)
+- 11:05 Chord & strumming (verse & chorus)
+- 13:41 A-riff during the verse
+- 14:39 D-riff during the verse
+- 15:22 Chorus melody riff (w/ tab)
 
 ## Related lessons I've made
 
 If you dig this style of playing, here's related lessons I've made -- all of these being in the key of D and having a similar outlaw country-ish sound. PDFs for each of these are available via the links below:
 
-- (Feathered Indians)[https://playsongnotes.com/lessons/107/] by Tyler Childers
-- (White House Road)[https://playsongnotes.com/lessons/109/] by Tyler Childers
-- (Copperhead Road)[https://playsongnotes.com/lessons/213/] by Steve Earle
-- (Rocky Mountain High)[https://playsongnotes.com/lessons/160/] by John Denver
-- (Where Rainbows Never Die)[https://playsongnotes.com/lessons/112/] by The Steeldrivers
-- (Honky Tonk Heroes)[https://playsongnotes.com/lessons/94/] by Waylon Jennings
+- [Feathered Indians](https://playsongnotes.com/lessons/107/) by Tyler Childers
+- [White House Road](https://playsongnotes.com/lessons/109/) by Tyler Childers
+- [Copperhead Road](https://playsongnotes.com/lessons/213/) by Steve Earle
+- [Rocky Mountain High](https://playsongnotes.com/lessons/160/) by John Denver
+- [Where Rainbows Never Die](https://playsongnotes.com/lessons/112/) by The Steeldrivers
+- [Honky Tonk Heroes](https://playsongnotes.com/lessons/94/) by Waylon Jennings
 
 There's also these technique videos I've made, which may be helpful for this particular song:
 
-- (Stretching your pinky in D-major)[https://playsongnotes.com/lessons/112/]
-- (Playing A-major with one finger (barred index))[https://playsongnotes.com/lessons/46/]
+- [Stretching your pinky in D-major](https://playsongnotes.com/lessons/112/)
+- [Playing A-major with one finger (barred index)](https://playsongnotes.com/lessons/46/)
 
 ## Audio of me playing this song
 
