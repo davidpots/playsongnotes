@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1960s, Country, Key of G]
 slug: "134"
 redirect_from:
   - /songs/johnny-cash-ring-of-fire/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22061680
 ---
@@ -22,9 +24,19 @@ patreon_lesson_url: https://www.patreon.com/posts/22061680
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+Hey friends -- here's a guitar lesson teaching you how to play the Johnny Cash song "Ring of Fire" from 1963 (orig. written by June Carter and Merle Kilgore). In this tutorial I'll teach you how to play the chords, strumming, and explain how to mimic that Mariachi horn sound with your acoustic guitar (tab included). Typically, Johnny Cash played this with his full band, benefiting from their drum / bass / electric guitar -- but this lesson will teach you how to play the distinctive lead riff while strumming at the same time -- which roughly approximates the sound of multiple instruments. Check it out and enjoy!
+
+Timestamps:
+
+- 0:00 Playthrough & overview
+- 2:04 Chords and strumming basics
+- 6:25 Mariachi lead riff w/ tab
+
 ## Lyrics w/ chords
 
-    INTRO 
+    INTRO
 
         e ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
         B ––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -151,6 +163,15 @@ From here, I recommend keeping your hands in the G and C chord shapes - and if y
     E ––––––––3––––––––––––––––––3–––––3––––––––––––––––––3–––
               G            C     G     G           (D7)   G   
 
-## Good luck!
+## My other Johnny Cash guitar lessons
 
-Let me know if you have questions. I hope this was helpful. Be sure to check out my other Johnny Cash lessons, I have a bunch!
+I've got plenty others, all of which have PDF chord sheets available -- here they are!
+
+- [I Walk the Line](https://playsongnotes.com/lessons/262/)
+- [I've Been Everywhere](https://playsongnotes.com/lessons/170/)
+- [When the Man Comes Around](https://playsongnotes.com/lessons/159/)
+- [Tennessee Flat Top Box](https://playsongnotes.com/lessons/145/)
+- [Sunday Morning Coming Down](https://playsongnotes.com/lessons/98/)
+- [Hurt](https://playsongnotes.com/lessons/90/)
+- [Folsom Prison Blues](https://playsongnotes.com/lessons/72/)
+- [Give My Love to Rose](https://playsongnotes.com/lessons/18/)
