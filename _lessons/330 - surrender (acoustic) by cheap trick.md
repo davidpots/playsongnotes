@@ -24,9 +24,9 @@ patreon_lesson_url: https://www.patreon.com/posts/41525361 -->
 
 ## Video lesson
 
-Coming in the morning... check back around 8am (central time) on Sunday Sep 27.
+<!-- Coming in the morning... check back around 8am (central time) on Sunday Sep 27. -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/RYUD3wHVZXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJ41QwQ52ZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
