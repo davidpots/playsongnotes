@@ -262,3 +262,9 @@ See PDF for the tab in both key of C (verses 1 + 2) and key of D (verse 3).
           G                 G                 D                 A
 
  -->
+
+## Video of Cheap Trick's version of Surrender
+
+While my arrangement above is in a different key, this may be still helpful to listen to for context. Quick tip: you can play along with verse #3 of this official version using the "key of C" progression I show above... because Cheap Trick modulates up to the key of C for the final verse (they're in the key of B for verses 1+2).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_Km11HNzUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

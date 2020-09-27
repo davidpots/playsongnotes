@@ -35,7 +35,7 @@ title: Song Notes by David Pots.
     <p class="mbs small">Download print-friendly PDFs for each new lesson + all existing lessons for only $3/month (cancel anytime, no commitment). <span class="smaller"><a href="/downloads">View a free sample</a> or <a href="/downloads">watch a video tour</a> to learn more</span>.</p>
     <a style="margin-top: 4px; display: inline-block; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px; text-decoration: none;" href="http://patreon.com/songnotes">Support me on Patreon</a>
   </div>
-
+<br />
 <h2>My latest videos & PDFs</h2>
 
 <h3 class="mtl">Newest videos</h3>
@@ -47,32 +47,63 @@ title: Song Notes by David Pots.
 {% include latest-pdfs.html %}
 
 <p>Don't forget to check out <a href="/downloads">my full library of PDFs</a> (which includes a free sampler pack).</p>
+<br />
+<h2>Browse my all my lessons</h2>
+<h3>By lesson type</h3>
+<ul class="browse_tiles">
+  <li><a href="/search/?query=Full Song Lesson">Full Songs</a></li>
+  <li><a href="/search/?query=Play-Along Cover">Play-Along Covers</a></li>
+  <li><a href="/search/?query=Warm Up Exercise">Warmup Exercises</a></li>
+  <li><a href="/search/?query=Tips & Techniques">Tips & Techniques</a></li>
+</ul>
+<h3>By song decade</h3>
+<ul class="browse_tiles">
+  <li><a href="/search/?query=2000s">2000s</a></li>
+  <li><a href="/search/?query=1990s">1990s</a></li>
+  <li><a href="/search/?query=1980s">1980s</a></li>
+  <li><a href="/search/?query=1970s">1970s</a></li>
+  <li><a href="/search/?query=1960s">1960s</a></li>
+  <li><a href="/search/?query=1950s">1950s</a></li>
+</ul>
+<h3>By musical genre</h3>
+<ul class="browse_tiles">
+  <li><a href="/search/?query=Classic Rock">Classic Rock</a></li>
+  <li><a href="/search/?query=Country">Country</a></li>
+  <li><a href="/search/?query=Rock">Rock</a></li>
+  <li><a href="/search/?query=Pop">Pop</a></li>
+  <li><a href="/search/?query=Holiday">Holiday</a></li>
+</ul>
+<h3>By guitar technique</h3>
+<ul class="browse_tiles">
+  <li><a href="/search/?query=Learning Chords">Learning Chords</a></li>
+  <li><a href="/search/?query=Strumming">Strumming</a></li>
+  <li><a href="/search/?query=Fingerstyle">Fingerstyle</a></li>
+  <li><a href="/search/?query=Travis Picking">Travis Picking</a></li>
+</ul>
+<h3>By musical key</h3>
+<ul class="browse_tiles">
+  <li><a href="/search/?query=Key of C">Key of C</a></li>
+  <li><a href="/search/?query=Key of D">Key of D</a></li>
+  <li><a href="/search/?query=Key of E">Key of E</a></li>
+  <li><a href="/search/?query=Key of F">Key of F</a></li>
+  <li><a href="/search/?query=Key of G">Key of G</a></li>
+  <li><a href="/search/?query=Key of A">Key of A</a></li>
+</ul>
+<h3>By popular artist</h3>
+<ul class="browse_tiles">
+  <li><a href="/search/?query=Johnny Cash">Johnny Cash</a></li>
+  <li><a href="/search/?query=Tyler Childers">Tyler Childers</a></li>
+  <li><a href="/search/?query=Tom Petty">Tom Petty</a></li>
+  <li><a href="/search/?query=Neil Young">Neil Young</a></li>
+  <li><a href="/search/?query=Nirvana">Nirvana</a></li>
+  <li><a href="/search/?query=Lynyrd Skynyrd">Lynyrd Skynyrd</a></li>
+  <li><a href="/search/?query=Willie Nelson">Willie Nelson</a></li>
+  <li><a href="/search/?query=John Denver">John Denver</a></li>
+  <li><a href="/search/?query=Guns N' Roses">Guns N' Roses</a></li>
+</ul>
 
-<h2 id="heading-songs" class="mtl">Song video lessons:</h2>
 
-  <ul class="list-plain lesson-list">
 
-    {% assign sorted_songs = site.lessons | where: "category", "full_song" | sort: 'song_title' %}
-
-    {% for song in sorted_songs %}
-      {% if song.category == "full_song" %}
-
-      <li>
-        <a href="{{ song.url | relative_url }}">
-          <div class="lesson-list--item-wrap">
-            <span class="lesson-list--title">{{ song.song_title | escape }}</span>
-            {% if song.patreon_lesson_available == true %}
-              <span class="lesson-list--pdf">PDF</span>
-            {% endif %}
-            <span class="lesson-list--artist">{{ song.artist }}</span>
-          </div>
-
-          <span class="lesson-list--year">{{ song.year }}</span>
-        </a>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
 
 
 
