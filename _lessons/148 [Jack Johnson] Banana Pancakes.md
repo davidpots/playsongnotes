@@ -182,6 +182,20 @@ To properly transition from this riff into the G7 or Am7 chord, you'll need to a
     E ––/7–––––––––––7––0––5––x––5–––––/7–––––7––5––3––0––3––x––3–––
                                 Am7                             G7
 
+## Occasional verse filler riff
+
+There's a riff I play 0:17 seconds into my video lesson that I want to show the tab for here. It happens during the verse progression (G7-D7-Am7-C7)... where instead of going to the final "C7" chord I do this riff immediately after the Am7. The riff happens under the "*" asterisk shown below.
+
+                                *
+    e ––––––3–––––––5–––––––5–––––––––––
+    B ––––––3–––––––7–––––––5–––––––––––     Fingering below applies to the final 3 note riff only:
+    G ––––––4–––––––5–––––––5–––––––––––
+    D ––––––3–––––––7–––––––5–––––5–7––– <== use left index (5th fret) and left ring (7th fret)
+    A ––––––5–––5–––5–––––––7––/7––––––– <== slide with left ring finger
+    E ––3–––3–––––––––––5–––5–––––––––––
+        G       D7      Am7     
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
 ## Strumming patterns and rhythm
 
 This is the final piece of the puzzle. To play this like Jack Johnson, there are in fact two distinct strumming patterns used in this song: one during the verse, and another during the chorus & bridge. You can of course strum things however you want, but I'll teach you both of these patterns now.
