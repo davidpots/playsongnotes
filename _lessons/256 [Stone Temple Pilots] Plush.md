@@ -13,7 +13,7 @@ hidden_tags: [STP]
 redirect_from:
   - /songs/stone-temple-pilots-plush/
 pdf_version: v1
-pdf_numpages: 1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25388934
 ---
