@@ -25,7 +25,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25918682
 
 ## Editor's notes
 
-Tyler Childers is one of the very best new country artists I've heard in the past few years - and this opening track from his album "Purgatory" is a terribly fun one to play. Here's how to play it: intro riff, chords, and strumming. I'll show it all, with a very thorough walkthrough of the intro riff (which can be a bit difficult at first). Even if you don't pick up your guitar to play this song, I recommend giving Tyler Childers a listen! My other favorites by him include Whitehouse Road and Lady May (I have lessons for both).
+Tyler Childers is one of the very best new country artists I've heard in the past few years - and this opening track ("Feathered Indians") from his album Purgatory is a terrifically fun one to play. My tutorial here will teach you how to play it: intro riff, chords, and strumming. I'll show it all, with a very thorough walkthrough of the intro riff (which can be a bit difficult at first). Even if you don't pick up your guitar to play this song, I recommend giving Tyler Childers a listen! My other favorites by him include Whitehouse Road and Lady May (I have lessons for both).
 
 ## Lyrics w/ chords
 
