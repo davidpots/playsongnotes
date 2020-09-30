@@ -1,4 +1,4 @@
-I"	´<div style="text-align: center;">
+I"]µ<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -22,14 +22,15 @@
 
     
     
+
     
         "title": "\"Surrender\" (acoustic) by Cheap Trick",
         "category": "Full Song",
         "url": "/lessons/330/",
         "date": "",
-        "patreon_url": "",
+        "patreon_url": "https://www.patreon.com/posts/42072722",
         "pdf_image": "<img src='/images/pdfs/preview/330.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "330"
       },
   
@@ -42,6 +43,7 @@
 
     
     
+
     
         "title": "Rapid-fire Q&A: Up-strums, tricky rhythms, muting with your thumb, and more",
         "category": "General & About This Channel",
@@ -62,6 +64,7 @@
 
     
     
+
     
         "title": "\"Old Man\" by Neil Young",
         "category": "Full Song",
@@ -82,6 +85,7 @@
 
     
     
+
     
         "title": "\"Santeria\" by Sublime (easy-strum version)",
         "category": "Full Song",
@@ -102,6 +106,7 @@
 
     
     
+
     
         "title": "Learning the opening chord to Neil Young's Old Man",
         "category": "Practice Log",
@@ -122,6 +127,7 @@
 
     
     
+
     
         "title": "Silencing the strings on the 2 count (percussive technique)",
         "category": "Tip & Technique",
@@ -142,6 +148,7 @@
 
     
     
+
     
         "title": "\"Patience\" by Guns N' Roses (play-along cover)",
         "category": "Play-along Cover",
@@ -162,6 +169,7 @@
 
     
     
+
     
         "title": "4 new PDFs: Tyler Childers covering Green Day, Colter Wall, Vincent Neil Emerson, and Taylor Swift",
         "category": "General & About This Channel",
@@ -182,6 +190,7 @@
 
     
     
+
     
         "title": "\"Welcome to Paradise\" by Green Day, in the style of Tyler Childers",
         "category": "Full Song",
@@ -202,6 +211,7 @@
 
     
     
+
     
         "title": "\"Betty\" by Taylor Swift",
         "category": "Full Song",
@@ -222,6 +232,7 @@
 
     
     
+
     
         "title": "\"Manhattan Island Serenade\" by Vincent Neil Emerson",
         "category": "Full Song",
@@ -242,6 +253,7 @@
 
     
     
+
     
         "title": "How to access my library of 200+ print-friendly PDF chord sheets",
         "category": "General & About This Channel",
@@ -262,6 +274,7 @@
 
     
     
+
     
         "title": "\"Saskatchewan in 1881\" by Colter Wall",
         "category": "Full Song",
@@ -282,6 +295,7 @@
 
     
     
+
     
         "title": "Strumming without a guitar pick",
         "category": "Tip & Technique",
@@ -302,6 +316,7 @@
 
     
     
+
     
         "title": "\"Summertime\" by Billy Strings (advanced version)",
         "category": "Full Song",
@@ -322,6 +337,7 @@
 
     
     
+
     
         "title": "\"El Paso\" by Marty Robbins",
         "category": "Full Song",
@@ -342,6 +358,7 @@
 
     
     
+
     
         "title": "Riffs with Circular Bass Notes",
         "category": "Warm Up Exercise",
@@ -362,6 +379,7 @@
 
     
     
+
     
         "title": "\"Sedona\" by Houndmouth",
         "category": "Full Song",
@@ -382,6 +400,7 @@
 
     
     
+
     
         "title": "Happy Birthday triad exercise (Key of G)",
         "category": "Warm Up Exercise",
@@ -402,6 +421,7 @@
 
     
     
+
     
         "title": "How to silence the strings with your left hand",
         "category": "Tip & Technique",
@@ -422,6 +442,7 @@
 
     
     
+
     
         "title": "\"Keep the Wolves Away\" by Uncle Lucius",
         "category": "Full Song",
@@ -442,6 +463,7 @@
 
     
     
+
     
         "title": "\"Will You Love Me Tomorrow\" by The Shirelles",
         "category": "Full Song",
@@ -462,6 +484,7 @@
 
     
     
+
     
         "title": "\"Stand By Me\" by Ben E. King",
         "category": "Full Song",
@@ -482,6 +505,7 @@
 
     
     
+
     
         "title": "\"Mr. Bojangles\" by Jerry Jeff Walker",
         "category": "Full Song",
@@ -502,6 +526,7 @@
 
     
     
+
     
         "title": "\"Willin'\" by Little Feat",
         "category": "Full Song",
@@ -522,6 +547,7 @@
 
     
     
+
     
         "title": "\"My Church\" by Maren Morris",
         "category": "Full Song",
@@ -542,6 +568,7 @@
 
     
     
+
     
         "title": "Backwoods Pull-Off Exercise (Key of C)",
         "category": "Warm Up Exercise",
@@ -562,6 +589,7 @@
 
     
     
+
     
         "title": "\"Don't Think Twice, It's All Right\" by Bob Dylan (fingerstyle version)",
         "category": "Full Song",
@@ -582,6 +610,7 @@
 
     
     
+
     
         "title": "Travis Picking vs. \"Normal\" Fingerstyle",
         "category": "Tip & Technique",
@@ -602,6 +631,7 @@
 
     
     
+
     
         "title": "\"Don't Think Twice, It's All Right\" by Bob Dylan (strum version)",
         "category": "Full Song",
@@ -622,6 +652,7 @@
 
     
     
+
     
         "title": "Which guitar pick I use & why",
         "category": "Tip & Technique",
@@ -642,6 +673,7 @@
 
     
     
+
     
         "title": "\"I've Just Seen a Face\" by The Beatles (intro riff)",
         "category": "Warm Up Exercise",
@@ -662,6 +694,7 @@
 
     
     
+
     
         "title": "\"I've Just Seen a Face\" by The Beatles (full song)",
         "category": "Full Song",
@@ -682,6 +715,7 @@
 
     
     
+
     
         "title": "Country Bass Line Exercise in 6/8 Time",
         "category": "Warm Up Exercise",
@@ -702,6 +736,7 @@
 
     
     
+
     
         "title": "\"Under the Milky Way\" by The Church",
         "category": "Full Song",
@@ -722,6 +757,7 @@
 
     
     
+
     
         "title": "\"Hello in There\" (intro riff) by John Prine",
         "category": "Full Song",
@@ -742,6 +778,7 @@
 
     
     
+
     
         "title": "\"Clay Pigeons\" by John Prine (orig. by Blaze Foley)",
         "category": "Full Song",
@@ -762,6 +799,7 @@
 
     
     
+
     
         "title": "\"House of the Rising Sun\" by The Animals (fingerstyle)",
         "category": "Full Song",
@@ -782,6 +820,7 @@
 
     
     
+
     
         "title": "New! Browse my lessons by category, genre, decade, and more",
         "category": "General & About This Channel",
@@ -802,6 +841,7 @@
 
     
     
+
     
         "title": "\"Banded Clovis\" by Tyler Childers",
         "category": "Full Song",
@@ -822,6 +862,7 @@
 
     
     
+
     
         "title": "Walk-down exercise inspired by the Turnpike Troubadours",
         "category": "Warm Up Exercise",
@@ -842,6 +883,7 @@
 
     
     
+
     
         "title": "Syncopation and Sus Chords",
         "category": "Tip & Technique",
@@ -862,6 +904,7 @@
 
     
     
+
     
         "title": "\"Patience\" by Guns N' Roses (play-along cover)",
         "category": "Full Song",
@@ -882,6 +925,7 @@
 
     
     
+
     
         "title": "\"1979\"  by The Smashing Pumpkins (strum-along cover)",
         "category": "Play-along Cover",
@@ -902,6 +946,7 @@
 
     
     
+
     
         "title": "\"Sweet Caroline\" by Neil Diamond (Play-Along Cover)",
         "category": "Play-along Cover",
@@ -922,6 +967,7 @@
 
     
     
+
     
         "title": "\"1979\" by The Smashing Pumpkins",
         "category": "Full Song",
@@ -942,6 +988,7 @@
 
     
     
+
     
         "title": "\"Romeo and Juliet\" by Dire Straits",
         "category": "Full Song",
@@ -962,6 +1009,7 @@
 
     
     
+
     
         "title": "\"You've Lost that Lovin' Feelin'\" by The Righteous Brothers",
         "category": "Full Song",
@@ -982,6 +1030,7 @@
 
     
     
+
     
         "title": "\"Wild World\" by Cat Stevens",
         "category": "Full Song",
@@ -1002,6 +1051,7 @@
 
     
     
+
     
         "title": "\"Memories\" by Maroon 5",
         "category": "Full Song",
@@ -1022,6 +1072,7 @@
 
     
     
+
     
         "title": "\"I'm a Lonesome Fugitive\" by Billy Strings",
         "category": "Full Song",
@@ -1042,6 +1093,7 @@
 
     
     
+
     
         "title": "\"Summertime\" by Billy Strings",
         "category": "Full Song",
@@ -1062,6 +1114,7 @@
 
     
     
+
     
         "title": "Sierra Ferrell \"In Dreams\"-inspired riff",
         "category": "Warm Up Exercise",
@@ -1082,6 +1135,7 @@
 
     
     
+
     
         "title": "\"Walk Right In\" by The Rooftop Singers",
         "category": "Full Song",
@@ -1102,6 +1156,7 @@
 
     
     
+
     
         "title": "Practicing Walk Ups & Walk Downs in G",
         "category": "Warm Up Exercise",
@@ -1122,6 +1177,7 @@
 
     
     
+
     
         "title": "My 12 most popular guitar lessons of 2019",
         "category": "General & About This Channel",
@@ -1142,6 +1198,7 @@
 
     
     
+
     
         "title": "\"Sweet Virginia\" (intro) by The Rolling Stones",
         "category": "Full Song",
@@ -1162,6 +1219,7 @@
 
     
     
+
     
         "title": "\"Sin City\" by Gram Parsons (Play-along cover)",
         "category": "Play-along Cover",
@@ -1182,6 +1240,7 @@
 
     
     
+
     
         "title": "\"Sin City\" by Gram Parsons (Full song lesson)",
         "category": "Full Song",
@@ -1202,6 +1261,7 @@
 
     
     
+
     
         "title": "2-string blues riffs for beginners (step by step)",
         "category": "Warm Up Exercise",
@@ -1222,6 +1282,7 @@
 
     
     
+
     
         "title": "\"Have You Ever Seen the Rain\" by Creedence Clearwater Revival (Play-along cover)",
         "category": "Play-along Cover",
@@ -1242,6 +1303,7 @@
 
     
     
+
     
         "title": "\"Have You Ever Seen the Rain\" by Creedence Clearwater Revival (Full song lesson)",
         "category": "Full Song",
@@ -1262,6 +1324,7 @@
 
     
     
+
     
         "title": "\"My Favorite Picture of You\" by Guy Clark",
         "category": "Full Song",
@@ -1282,6 +1345,7 @@
 
     
     
+
     
         "title": "12 easy ways to modify the A-major chord",
         "category": "Tip & Technique",
@@ -1302,6 +1366,7 @@
 
     
     
+
     
         "title": "\"Gloria\" by The Lumineers (Play-along cover)",
         "category": "Play-along Cover",
@@ -1322,6 +1387,7 @@
 
     
     
+
     
         "title": "4 tips for learning Blackbird",
         "category": "Practice Log",
@@ -1342,6 +1408,7 @@
 
     
     
+
     
         "title": "\"Death By 1000 Cuts\" Fingerstyle Walkdown Exercise (Key of C)",
         "category": "Warm Up Exercise",
@@ -1362,6 +1429,7 @@
 
     
     
+
     
         "title": "\"Gloria\" by The Lumineers (Full song lesson)",
         "category": "Full Song",
@@ -1382,6 +1450,7 @@
 
     
     
+
     
         "title": "\"I Walk the Line\" by Johnny Cash (Intro riff)",
         "category": "Warm Up Exercise",
@@ -1402,6 +1471,7 @@
 
     
     
+
     
         "title": "\"Lookin' Out My Back Door\" by Creedence Clearwater Revival (easy fingerstyle)",
         "category": "Full Song",
@@ -1422,6 +1492,7 @@
 
     
     
+
     
         "title": "How to read & write strumming patterns",
         "category": "Tip & Technique",
@@ -1442,6 +1513,7 @@
 
     
     
+
     
         "title": "D-Cadd9-G riffin' on \"Thank You\" and \"Can't You See\"",
         "category": "Warm Up Exercise",
@@ -1462,6 +1534,7 @@
 
     
     
+
     
         "title": "Meditative fingerpicking practice, inspired by \"The Wind\" by Cat Stevens",
         "category": "Practice Log",
@@ -1482,6 +1555,7 @@
 
     
     
+
     
         "title": "Latin Bassline Groove from \"Seniorita\"",
         "category": "Warm Up Exercise",
@@ -1502,6 +1576,7 @@
 
     
     
+
     
         "title": "\"Plush\" by Stone Temple Pilots",
         "category": "Full Song",
@@ -1525,6 +1600,7 @@
 
     
     
+
     
         "title": "\"The Wind\" by Cat Stevens",
         "category": "Full Song",
@@ -1545,6 +1621,7 @@
 
     
     
+
     
         "title": "4-finger magic with E major",
         "category": "Warm Up Exercise",
@@ -1565,6 +1642,7 @@
 
     
     
+
     
         "title": "\"Peace of Mind\" by Tyler Childers",
         "category": "Full Song",
@@ -1585,6 +1663,7 @@
 
     
     
+
     
         "title": "\"Angel Flight\" by Radney Foster",
         "category": "Full Song",
@@ -1605,6 +1684,7 @@
 
     
     
+
     
         "title": "\"California Dreamin'\" by Jose Feliciano",
         "category": "Full Song",
@@ -1625,6 +1705,7 @@
 
     
     
+
     
         "title": "2-finger chords in the key of C",
         "category": "Tip & Technique",
@@ -1645,6 +1726,7 @@
 
     
     
+
     
         "title": "\"Surf Rider\" by The Lively Ones",
         "category": "Full Song",
@@ -1665,6 +1747,7 @@
 
     
     
+
     
         "title": "Fingerpicking C-G-Am-F (based on Vampire Weekend's \"Hold You Now\")",
         "category": "Practice Log",
@@ -1685,6 +1768,7 @@
 
     
     
+
     
         "title": "\"You've Got a Friend in Me\" by Randy Newman (from Toy Story)",
         "category": "Full Song",
@@ -1705,6 +1789,7 @@
 
     
     
+
     
         "title": "Ring Finger Barre Strength Exercise",
         "category": "Tip & Technique",
@@ -1725,6 +1810,7 @@
 
     
     
+
     
         "title": "Fingerstyle F with wrapped thumb",
         "category": "Tip & Technique",
@@ -1748,6 +1834,7 @@
 
     
     
+
     
         "title": "\"Yesterday\" by The Beatles",
         "category": "Full Song",
@@ -1768,6 +1855,7 @@
 
     
     
+
     
         "title": "An easier way to play F#m (no barre chord)",
         "category": "Tip & Technique",
@@ -1791,6 +1879,7 @@
 
     
     
+
     
         "title": "How I change my acoustic guitar strings (from start to finish)",
         "category": "Tip & Technique",
@@ -1811,6 +1900,7 @@
 
     
     
+
     
         "title": "\"My Old Kentucky Home, Goodnight\" by John Prine",
         "category": "Full Song",
@@ -1831,6 +1921,7 @@
 
     
     
+
     
         "title": "Colter Wall's Sleeping on the Blacktop intro riff",
         "category": "Warm Up Exercise",
@@ -1851,6 +1942,7 @@
 
     
     
+
     
         "title": "\"First Call\" (horse racing / military bugle wake-up call)",
         "category": "Full Song",
@@ -1871,6 +1963,7 @@
 
     
     
+
     
         "title": "\"Imagine\" by John Lennon",
         "category": "Full Song",
@@ -1891,6 +1984,7 @@
 
     
     
+
     
         "title": "\"Jenny of Oldstones\" from Game of Thrones (Florence and the Machine)",
         "category": "Full Song",
@@ -1914,6 +2008,7 @@
 
     
     
+
     
         "title": "\"Wildflowers\" by Tom Petty",
         "category": "Full Song",
@@ -1934,6 +2029,7 @@
 
     
     
+
     
         "title": "Breezy strumming on E-Bsus4-Asus2",
         "category": "Warm Up Exercise",
@@ -1954,6 +2050,7 @@
 
     
     
+
     
         "title": "How I composed a multi-part fingerstyle guitar arrangement",
         "category": "Practice Log",
@@ -1974,6 +2071,7 @@
 
     
     
+
     
         "title": "\"If I Had a Boat\" by Lyle Lovett",
         "category": "Full Song",
@@ -1994,6 +2092,7 @@
 
     
     
+
     
         "title": "Triad exercises using A, D, & E",
         "category": "Warm Up Exercise",
@@ -2014,6 +2113,7 @@
 
     
     
+
     
         "title": "Travis picking finger technique (right-hand index & pinky)",
         "category": "Practice Log",
@@ -2034,6 +2134,7 @@
 
     
     
+
     
         "title": "\"Let Him Roll\" by Guy Clark",
         "category": "Full Song",
@@ -2057,6 +2158,7 @@
 
     
     
+
     
         "title": "\"Under the Bridge\" by Red Hot Chili Peppers",
         "category": "Full Song",
@@ -2077,6 +2179,7 @@
 
     
     
+
     
         "title": "Add easy flourish to C-F-G-Am",
         "category": "Tip & Technique",
@@ -2097,6 +2200,7 @@
 
     
     
+
     
         "title": "\"The Gambler\" by Kenny Rogers",
         "category": "Full Song",
@@ -2120,6 +2224,7 @@
 
     
     
+
     
         "title": "\"Always Remember Us This Way\" by Lady Gaga",
         "category": "Full Song",
@@ -2140,6 +2245,7 @@
 
     
     
+
     
         "title": "Cowboy chords and walking bass lines",
         "category": "Warm Up Exercise",
@@ -2163,6 +2269,7 @@
 
     
     
+
     
         "title": "A-minor blues improvisation w/ backing track",
         "category": "Practice Log",
@@ -2183,6 +2290,7 @@
 
     
     
+
     
         "title": "\"St. James Infirmary Blues\"",
         "category": "Full Song",
@@ -2203,6 +2311,7 @@
 
     
     
+
     
         "title": "Barre Chord Exercise for Smells Like Teen Spirit",
         "category": "Warm Up Exercise",
@@ -2223,6 +2332,7 @@
 
     
     
+
     
         "title": "Open chords in key of D w/ major & minor triads",
         "category": "Warm Up Exercise",
@@ -2243,6 +2353,7 @@
 
     
     
+
     
         "title": "\"Copperhead Road\" by Steve Earle",
         "category": "Full Song",
@@ -2266,6 +2377,7 @@
 
     
     
+
     
         "title": "\"Guantanamera\" by Pete Seeger",
         "category": "Full Song",
@@ -2286,6 +2398,7 @@
 
     
     
+
     
         "title": "\"Blue on Black\" grooving on D5-Cadd9-G",
         "category": "Warm Up Exercise",
@@ -2306,6 +2419,7 @@
 
     
     
+
     
         "title": "Adding fills to the Wild Horses intro",
         "category": "Practice Log",
@@ -2326,6 +2440,7 @@
 
     
     
+
     
         "title": "\"Light On\" by Maggie Rogers",
         "category": "Full Song",
@@ -2346,6 +2461,7 @@
 
     
     
+
     
         "title": "Improvised guitar pickin' on \"The Gambler\"",
         "category": "Practice Log",
@@ -2366,6 +2482,7 @@
 
     
     
+
     
         "title": "Open chords in the Key of A",
         "category": "Warm Up Exercise",
@@ -2389,6 +2506,7 @@
 
     
     
+
     
         "title": "\"Heart of Gold\" by Neil Young",
         "category": "Full Song",
@@ -2409,6 +2527,7 @@
 
     
     
+
     
         "title": "\"Auld Land Syng\" (New Years Song)",
         "category": "Full Song",
@@ -2429,6 +2548,7 @@
 
     
     
+
     
         "title": "Open chords in the Key of E",
         "category": "Warm Up Exercise",
@@ -2452,6 +2572,7 @@
 
     
     
+
     
         "title": "\"Last Christmas\" by Wham!",
         "category": "Full Song",
@@ -2472,6 +2593,7 @@
 
     
     
+
     
         "title": "\"Please Come Home for Christmas\" by The Eagles",
         "category": "Full Song",
@@ -2492,6 +2614,7 @@
 
     
     
+
     
         "title": "Guitar chords on a ukulele",
         "category": "Tip & Technique",
@@ -2512,6 +2635,7 @@
 
     
     
+
     
         "title": "Slap strumming basics (percussive rhythm technique)",
         "category": "Tip & Technique",
@@ -2535,6 +2659,7 @@
 
     
     
+
     
         "title": "Practicing with a backing track (feat. Tennessee Whiskey)",
         "category": "Practice Log",
@@ -2555,6 +2680,7 @@
 
     
     
+
     
         "title": "Playing A-major with big fingers or a small fretboard",
         "category": "Tip & Technique",
@@ -2575,6 +2701,7 @@
 
     
     
+
     
         "title": "Backyard grooving in E-major (\"Posters\" by Jack Johnson)",
         "category": "Warm Up Exercise",
@@ -2595,6 +2722,7 @@
 
     
     
+
     
         "title": "How to play F#m (F sharp minor)",
         "category": "Tip & Technique",
@@ -2615,6 +2743,7 @@
 
     
     
+
     
         "title": "How to spice up a 2-chord song (feat. Tennessee Whiskey)",
         "category": "Practice Log",
@@ -2635,6 +2764,7 @@
 
     
     
+
     
         "title": "Adding pinky accent notes to a chord progression",
         "category": "Practice Log",
@@ -2655,6 +2785,7 @@
 
     
     
+
     
         "title": "A-minor pentatonic walk-down groove",
         "category": "Warm Up Exercise",
@@ -2675,6 +2806,7 @@
 
     
     
+
     
         "title": "\"Maybe It's Time\" from A Star is Born",
         "category": "Full Song",
@@ -2695,6 +2827,7 @@
 
     
     
+
     
         "title": "Palm muting basics",
         "category": "Tip & Technique",
@@ -2715,6 +2848,7 @@
 
     
     
+
     
         "title": "\"One Horse Town\" intro riff",
         "category": "Warm Up Exercise",
@@ -2735,6 +2869,7 @@
 
     
     
+
     
         "title": "Transitioning between Em7 - D/F# - G",
         "category": "Warm Up Exercise",
@@ -2758,6 +2893,7 @@
 
     
     
+
     
         "title": "The \"Pretty Woman\" lick, played 4 different ways",
         "category": "Practice Log",
@@ -2781,6 +2917,7 @@
 
     
     
+
     
         "title": "\"Shallow\" by Lady Gaga & Bradley Cooper",
         "category": "Full Song",
@@ -2801,6 +2938,7 @@
 
     
     
+
     
         "title": "Mudfootball G-D7 Shuffle",
         "category": "Warm Up Exercise",
@@ -2821,6 +2959,7 @@
 
     
     
+
     
         "title": "Murder ballad groove in A-minor",
         "category": "Warm Up Exercise",
@@ -2844,6 +2983,7 @@
 
     
     
+
     
         "title": "How to play Fadd9",
         "category": "Tip & Technique",
@@ -2864,6 +3004,7 @@
 
     
     
+
     
         "title": "Blaze Foley country strumming",
         "category": "Warm Up Exercise",
@@ -2884,6 +3025,7 @@
 
     
     
+
     
         "title": "\"Acid Tongue\" by Jenny Lewis",
         "category": "Full Song",
@@ -2904,6 +3046,7 @@
 
     
     
+
     
         "title": "\"Sultans of Swing\" chorus lick",
         "category": "Warm Up Exercise",
@@ -2924,6 +3067,7 @@
 
     
     
+
     
         "title": "Learning to Travis Pick with \"Clay Pigeons\"",
         "category": "Practice Log",
@@ -2944,6 +3088,7 @@
 
     
     
+
     
         "title": "\"Lady May\" by Tyler Childers",
         "category": "Full Song",
@@ -2964,6 +3109,7 @@
 
     
     
+
     
         "title": "Easy E Fingerpicking Fun",
         "category": "Warm Up Exercise",
@@ -2984,6 +3130,7 @@
 
     
     
+
     
         "title": "\"I've Been Everywhere\" by Johnny Cash",
         "category": "Full Song",
@@ -3004,6 +3151,7 @@
 
     
     
+
     
         "title": "\"Norwegian Wood\" by The Beatles",
         "category": "Full Song",
@@ -3024,6 +3172,7 @@
 
     
     
+
     
         "title": "\"The Chain\" and Double-Drop D tuning",
         "category": "Practice Log",
@@ -3044,6 +3193,7 @@
 
     
     
+
     
         "title": "How to stretch your pinky on D-major",
         "category": "Tip & Technique",
@@ -3067,6 +3217,7 @@
 
     
     
+
     
         "title": "\"Lola\" by The Kinks",
         "category": "Full Song",
@@ -3090,6 +3241,7 @@
 
     
     
+
     
         "title": "Two-finger acoustic blues in Drop-D Tuning",
         "category": "Warm Up Exercise",
@@ -3110,6 +3262,7 @@
 
     
     
+
     
         "title": "Playing around in Drop-D tuning",
         "category": "Practice Log",
@@ -3133,6 +3286,7 @@
 
     
     
+
     
         "title": "\"Rocky Mountain High\" by John Denver",
         "category": "Full Song",
@@ -3153,6 +3307,7 @@
 
     
     
+
     
         "title": "\"When the Man Comes Around\" by Johnny Cash",
         "category": "Full Song",
@@ -3173,6 +3328,7 @@
 
     
     
+
     
         "title": "\"We Are the Champions\" by Queen",
         "category": "Full Song",
@@ -3193,6 +3349,7 @@
 
     
     
+
     
         "title": "\"My My, Hey Hey\" by Neil Young",
         "category": "Full Song",
@@ -3213,6 +3370,7 @@
 
     
     
+
     
         "title": "\"Sweet Child O' Mine\" by Guns N' Roses",
         "category": "Full Song",
@@ -3233,6 +3391,7 @@
 
     
     
+
     
         "title": "\"All Apologies\" by Nirvana (intro & verse riff w/ tab)",
         "category": "Full Song",
@@ -3253,6 +3412,7 @@
 
     
     
+
     
         "title": "\"Gone Till November\" by Wyclef Jean (intro riff)",
         "category": "Full Song",
@@ -3273,6 +3433,7 @@
 
     
     
+
     
         "title": "\"Creep\" by Radiohead",
         "category": "Full Song",
@@ -3293,6 +3454,7 @@
 
     
     
+
     
         "title": "\"This is America\" by Childish Gambino (easy acoustic riff)",
         "category": "Full Song",
@@ -3313,6 +3475,7 @@
 
     
     
+
     
         "title": "\"Take Me Home Country Roads\" by John Denver",
         "category": "Full Song",
@@ -3333,6 +3496,7 @@
 
     
     
+
     
         "title": "\"Youth\" by Shawn Mendes ft. Khalid",
         "category": "Full Song",
@@ -3353,6 +3517,7 @@
 
     
     
+
     
         "title": "\"2002\" by Anne-Marie",
         "category": "Full Song",
@@ -3373,6 +3538,7 @@
 
     
     
+
     
         "title": "\"Banana Pancakes\" by Jack Johnson",
         "category": "Full Song",
@@ -3380,7 +3546,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/25521268",
         "pdf_image": "<img src='/images/pdfs/preview/148.jpg' />",
-        "pdf_v2": "",
+        "pdf_v2": "v2",
         "slug": "148"
       },
   
@@ -3393,6 +3559,7 @@
 
     
     
+
     
         "title": "\"Family is Family\" by Kacey Musgraves",
         "category": "Full Song",
@@ -3413,6 +3580,7 @@
 
     
     
+
     
         "title": "\"Butterflies\" by Kacey Musgraves",
         "category": "Full Song",
@@ -3433,6 +3601,7 @@
 
     
     
+
     
         "title": "\"Tennessee Flat Top Box\" by Johnny Cash",
         "category": "Full Song",
@@ -3453,6 +3622,7 @@
 
     
     
+
     
         "title": "\"September\" as covered by Taylor Swift",
         "category": "Full Song",
@@ -3473,6 +3643,7 @@
 
     
     
+
     
         "title": "\"Candle in the Wind\" by Ed Sheeran",
         "category": "Full Song",
@@ -3493,6 +3664,7 @@
 
     
     
+
     
         "title": "\"Stay\" by Post Malone",
         "category": "Full Song",
@@ -3513,6 +3685,7 @@
 
     
     
+
     
         "title": "\"In My Blood\" by Shawn Mendes",
         "category": "Full Song",
@@ -3533,6 +3706,7 @@
 
     
     
+
     
         "title": "\"Slow Burn\" by Kacey Musgraves",
         "category": "Full Song",
@@ -3553,6 +3727,7 @@
 
     
     
+
     
         "title": "\"On the Road Again\" by Willie Nelson",
         "category": "Full Song",
@@ -3573,6 +3748,7 @@
 
     
     
+
     
         "title": "\"Magic\" by Rudy Mancuso & Maia Mitchell",
         "category": "Full Song",
@@ -3599,6 +3775,7 @@
 
     
     
+
     
         "title": "\"Angel Flying Too Close to the Ground\" by Willie Nelson",
         "category": "Full Song",
@@ -3619,6 +3796,7 @@
 
     
     
+
     
         "title": "\"Ring of Fire\" by Johnny Cash",
         "category": "Full Song",
@@ -3639,6 +3817,7 @@
 
     
     
+
     
         "title": "\"Friends\" by Marshmello & Anne-Marie",
         "category": "Full Song",
@@ -3659,6 +3838,7 @@
 
     
     
+
     
         "title": "\"The Year That Clayton Delaney Died\" by Tom T. Hall",
         "category": "Full Song",
@@ -3679,6 +3859,7 @@
 
     
     
+
     
         "title": "\"Man of the Woods\" by Justin Timberlake",
         "category": "Full Song",
@@ -3699,6 +3880,7 @@
 
     
     
+
     
         "title": "\"Linger\" by The Cranberries",
         "category": "Full Song",
@@ -3719,6 +3901,7 @@
 
     
     
+
     
         "title": "\"Remember Me\" from Coco",
         "category": "Full Song",
@@ -3739,6 +3922,7 @@
 
     
     
+
     
         "title": "\"A Million Dreams\" from The Greatest Showman",
         "category": "Full Song",
@@ -3759,6 +3943,7 @@
 
     
     
+
     
         "title": "\"Say Something\" by Justin Timberlake ft. Chris Stapleton",
         "category": "Full Song",
@@ -3779,6 +3964,7 @@
 
     
     
+
     
         "title": "\"Ã‰chame La Culpa\" by Luis Fonsi and Demi Lovato",
         "category": "Full Song",
@@ -3799,6 +3985,7 @@
 
     
     
+
     
         "title": "\"The Good Side\" by Troye Sivan",
         "category": "Full Song",
@@ -3825,6 +4012,7 @@
 
     
     
+
     
         "title": "\"All These Years\" by Camila Cabello",
         "category": "Full Song",
@@ -3848,6 +4036,7 @@
 
     
     
+
     
         "title": "\"Filthy\" by Justin Timberlake",
         "category": "Full Song",
@@ -3868,6 +4057,7 @@
 
     
     
+
     
         "title": "\"Real Friends\" by Camila Cabello",
         "category": "Full Song",
@@ -3888,6 +4078,7 @@
 
     
     
+
     
         "title": "\"Mammas Don't Let Your Babies Grow Up to be Cowboys\" by Waylon Jennings and Willie Nelson",
         "category": "Full Song",
@@ -3908,6 +4099,7 @@
 
     
     
+
     
         "title": "\"River\" by Eminem ft. Ed Sheeran",
         "category": "Full Song",
@@ -3928,6 +4120,7 @@
 
     
     
+
     
         "title": "\"Never Be the Same\" by Camila Cabello",
         "category": "Full Song",
@@ -3948,6 +4141,7 @@
 
     
     
+
     
         "title": "\"Havana\" by Camila Cabello",
         "category": "Full Song",
@@ -3968,6 +4162,7 @@
 
     
     
+
     
         "title": "\"Me and Bobby McGee\" by Janis Joplin",
         "category": "Full Song",
@@ -3988,6 +4183,7 @@
 
     
     
+
     
         "title": "\"American Girl\" by Tom Petty",
         "category": "Full Song",
@@ -4008,6 +4204,7 @@
 
     
     
+
     
         "title": "\"Where Rainbows Never Die\" by The Steeldrivers",
         "category": "Full Song",
@@ -4028,6 +4225,7 @@
 
     
     
+
     
         "title": "\"Congratulations\" by Post Malone",
         "category": "Full Song",
@@ -4051,6 +4249,7 @@
 
     
     
+
     
         "title": "\"Whitehouse Road\" by Tyler Childers",
         "category": "Full Song",
@@ -4071,6 +4270,7 @@
 
     
     
+
     
         "title": "\"Learnin' To Fly\" by Tom Petty",
         "category": "Full Song",
@@ -4091,6 +4291,7 @@
 
     
     
+
     
         "title": "\"Feathered Indians\" by Tyler Childers",
         "category": "Full Song",
@@ -4111,6 +4312,7 @@
 
     
     
+
     
         "title": "\"Runnin' Down a Dream\" by Tom Petty",
         "category": "Full Song",
@@ -4131,6 +4333,7 @@
 
     
     
+
     
         "title": "\"High and Dry\" by Radiohead",
         "category": "Full Song",
@@ -4151,6 +4354,7 @@
 
     
     
+
     
         "title": "\"About a Girl\" by Nirvana",
         "category": "Full Song",
@@ -4171,6 +4375,7 @@
 
     
     
+
     
         "title": "\"Layla\" by Eric Clapton",
         "category": "Full Song",
@@ -4191,6 +4396,7 @@
 
     
     
+
     
         "title": "\"Where Did You Sleep Last Night\" by Nirvana",
         "category": "Full Song",
@@ -4211,6 +4417,7 @@
 
     
     
+
     
         "title": "\"LA Freeway\" by Guy Clark",
         "category": "Full Song",
@@ -4231,6 +4438,7 @@
 
     
     
+
     
         "title": "\"Tuesday's Gone\" by Lynyrd Skynyrd",
         "category": "Full Song",
@@ -4254,6 +4462,7 @@
 
     
     
+
     
         "title": "\"Sunday Morning Coming Down\" by Kris Kristofferson / Johnny Cash",
         "category": "Full Song",
@@ -4277,6 +4486,7 @@
 
     
     
+
     
         "title": "\"House of the Rising Sun\" by The Animals",
         "category": "Full Song",
@@ -4297,6 +4507,7 @@
 
     
     
+
     
         "title": "\"Danny's Song\" by Loggins and Messina",
         "category": "Full Song",
@@ -4317,6 +4528,7 @@
 
     
     
+
     
         "title": "\"Honky Tonk Heroes\" by Waylon Jennings",
         "category": "Full Song",
@@ -4337,6 +4549,7 @@
 
     
     
+
     
         "title": "\"Total Eclipse of the Heart\" by Bonnie Tyler",
         "category": "Full Song",
@@ -4357,6 +4570,7 @@
 
     
     
+
     
         "title": "\"Harvest Moon\" by Neil Young",
         "category": "Full Song",
@@ -4377,6 +4591,7 @@
 
     
     
+
     
         "title": "\"Feeling Whitney\" by Post Malone",
         "category": "Full Song",
@@ -4397,6 +4612,7 @@
 
     
     
+
     
         "title": "\"Hurt\" by Johnny Cash",
         "category": "Full Song",
@@ -4417,6 +4633,7 @@
 
     
     
+
     
         "title": "\"Attention\" by Charlie Puth",
         "category": "Full Song",
@@ -4437,6 +4654,7 @@
 
     
     
+
     
         "title": "\"Knockin' on Heaven's Door\" by Bob Dylan",
         "category": "Full Song",
@@ -4457,6 +4675,7 @@
 
     
     
+
     
         "title": "\"Last Kiss\" by Pearl Jam",
         "category": "Full Song",
@@ -4480,6 +4699,7 @@
 
     
     
+
     
         "title": "\"Mary Jane's Last Dance\" by Tom Petty and the Heartbreakers",
         "category": "Full Song",
@@ -4500,6 +4720,7 @@
 
     
     
+
     
         "title": "\"Game of Thrones\" theme song (easy version)",
         "category": "Full Song",
@@ -4523,6 +4744,7 @@
 
     
     
+
     
         "title": "\"Sorry Not Sorry\" by Demi Lovato",
         "category": "Full Song",
@@ -4543,6 +4765,7 @@
 
     
     
+
     
         "title": "\"They Can't See\" by Michael Tyler",
         "category": "Full Song",
@@ -4563,6 +4786,7 @@
 
     
     
+
     
         "title": "\"I'm The One\" by DJ Khaled ft Justin Bieber",
         "category": "Full Song",
@@ -4583,6 +4807,7 @@
 
     
     
+
     
         "title": "\"Dead Flowers\" by Townes Van Zandt",
         "category": "Full Song",
@@ -4603,6 +4828,7 @@
 
     
     
+
     
         "title": "\"Despacito\" by Luis Fonsi ft Justin Bieber",
         "category": "Full Song",
@@ -4626,6 +4852,7 @@
 
     
     
+
     
         "title": "\"Issues\" by Julia Michaels",
         "category": "Full Song",
@@ -4646,6 +4873,7 @@
 
     
     
+
     
         "title": "\"2U\" by David Guetta ft Justin Bieber",
         "category": "Full Song",
@@ -4666,6 +4894,7 @@
 
     
     
+
     
         "title": "\"Uh Huh\" by Julia Michaels",
         "category": "Full Song",
@@ -4686,6 +4915,7 @@
 
     
     
+
     
         "title": "\"Sweet Creature\" by Harry Styles",
         "category": "Full Song",
@@ -4706,6 +4936,7 @@
 
     
     
+
     
         "title": "\"Folsom Prison Blues\" by Johnny Cash",
         "category": "Full Song",
@@ -4726,6 +4957,7 @@
 
     
     
+
     
         "title": "\"Meet Me In The Hallway\" by Harry Styles",
         "category": "Full Song",
@@ -4749,6 +4981,7 @@
 
     
     
+
     
         "title": "\"Stairway to Heaven\" intro by Led Zeppelin",
         "category": "Full Song",
@@ -4769,6 +5002,7 @@
 
     
     
+
     
         "title": "\"It Ain't Me\" by Selena Gomez & Kygo",
         "category": "Full Song",
@@ -4789,6 +5023,7 @@
 
     
     
+
     
         "title": "\"Malibu\" by Miley Cyrus",
         "category": "Full Song",
@@ -4809,6 +5044,7 @@
 
     
     
+
     
         "title": "\"Go Flex\" by Post Malone",
         "category": "Full Song",
@@ -4829,6 +5065,7 @@
 
     
     
+
     
         "title": "\"Wish You Were Here\" by Pink Floyd",
         "category": "Full Song",
@@ -4849,6 +5086,7 @@
 
     
     
+
     
         "title": "\"Stay\" by Alessia Cara and Zedd",
         "category": "Full Song",
@@ -4878,6 +5116,7 @@
 
     
     
+
     
         "title": "\"Shape of You\" by Ed Sheeran",
         "category": "Full Song",
@@ -4898,6 +5137,7 @@
 
     
     
+
     
         "title": "How to play B-minor chord (Bm)",
         "category": "Tip & Technique",
@@ -4918,6 +5158,7 @@
 
     
     
+
     
         "title": "\"Don't Say\" by The Chainsmokers",
         "category": "Full Song",
@@ -4938,6 +5179,7 @@
 
     
     
+
     
         "title": "\"Pancho and Lefty\" by Willie Nelson and Merle Haggard",
         "category": "Full Song",
@@ -4958,6 +5200,7 @@
 
     
     
+
     
         "title": "\"Simple Man\" by Lynyrd Skynyrd",
         "category": "Full Song",
@@ -4978,6 +5221,7 @@
 
     
     
+
     
         "title": "\"Highwayman\" by The Highwaymen",
         "category": "Full Song",
@@ -4998,6 +5242,7 @@
 
     
     
+
     
         "title": "\"Audition (The Fools Who Dream)\" from La La Land",
         "category": "Full Song",
@@ -5018,6 +5263,7 @@
 
     
     
+
     
         "title": "\"Strangers\" by The Kinks",
         "category": "Full Song",
@@ -5041,6 +5287,7 @@
 
     
     
+
     
         "title": "\"Mrs. Robinson\" by Simon and Garfunkel",
         "category": "Full Song",
@@ -5064,6 +5311,7 @@
 
     
     
+
     
         "title": "Walking up & down between the E, A, and B7 (bass note transitions)",
         "category": "Tip & Technique",
@@ -5084,6 +5332,7 @@
 
     
     
+
     
         "title": "\"A Lovely Night\" from La La Land",
         "category": "Full Song",
@@ -5104,6 +5353,7 @@
 
     
     
+
     
         "title": "\"Mrs. Robinson\" by Simon & Garfunkel (play-along cover)",
         "category": "Play-along Cover",
@@ -5124,6 +5374,7 @@
 
     
     
+
     
         "title": "How to play A-major with one finger (barred on 2nd fret)",
         "category": "Tip & Technique",
@@ -5144,6 +5395,7 @@
 
     
     
+
     
         "title": "\"Mary\" by Sublime",
         "category": "Full Song",
@@ -5164,6 +5416,7 @@
 
     
     
+
     
         "title": "\"Badlands\" by Bruce Springsteen (Play-along cover)",
         "category": "Play-along Cover",
@@ -5184,6 +5437,7 @@
 
     
     
+
     
         "title": "\"Sweet Home Alabama\" by Lynyrd Skynyrd",
         "category": "Full Song",
@@ -5204,6 +5458,7 @@
 
     
     
+
     
         "title": "\"City of Stars\" from La La Land",
         "category": "Full Song",
@@ -5227,6 +5482,7 @@
 
     
     
+
     
         "title": "\"Someone in the Crowd\" from La La Land",
         "category": "Full Song",
@@ -5247,6 +5503,7 @@
 
     
     
+
     
         "title": "\"Another Day of Sun\" from La La Land",
         "category": "Full Song",
@@ -5267,6 +5524,7 @@
 
     
     
+
     
         "title": "\"Lonesome Town\" by Ricky Nelson",
         "category": "Full Song",
@@ -5290,6 +5548,7 @@
 
     
     
+
     
         "title": "2016: The Year I Started Making Videos Again",
         "category": "General & About This Channel",
@@ -5310,6 +5569,7 @@
 
     
     
+
     
         "title": "\"Happy Xmas (War is Over)\" by John Lennon",
         "category": "Full Song",
@@ -5330,6 +5590,7 @@
 
     
     
+
     
         "title": "\"How Far I'll Go\" by Alessia Cara (from Moana)",
         "category": "Full Song",
@@ -5350,6 +5611,7 @@
 
     
     
+
     
         "title": "\"Like a Rolling Stone\" by Bob Dylan",
         "category": "Full Song",
@@ -5370,6 +5632,7 @@
 
     
     
+
     
         "title": "\"True Colors\" by Justin Timberlake and Anna Kendrick",
         "category": "Full Song",
@@ -5390,6 +5653,7 @@
 
     
     
+
     
         "title": "\"Hotel California\" by The Eagles",
         "category": "Full Song",
@@ -5410,6 +5674,7 @@
 
     
     
+
     
         "title": "\"Apple Blossom\" by The White Stripes",
         "category": "Full Song",
@@ -5430,6 +5695,7 @@
 
     
     
+
     
         "title": "\"Freeway Time in LA County Jail\" by Sublime",
         "category": "Full Song",
@@ -5450,6 +5716,7 @@
 
     
     
+
     
         "title": "\"Out on the Weekend\" by Neil Young",
         "category": "Full Song",
@@ -5470,6 +5737,7 @@
 
     
     
+
     
         "title": "\"Say It Ain't So\" by Weezer",
         "category": "Full Song",
@@ -5490,6 +5758,7 @@
 
     
     
+
     
         "title": "\"You're Gonna Make Me Lonesome When You Go\" by Bob Dylan",
         "category": "Full Song",
@@ -5510,6 +5779,7 @@
 
     
     
+
     
         "title": "\"Summer of '69\" by Bryan Adams",
         "category": "Full Song",
@@ -5530,6 +5800,7 @@
 
     
     
+
     
         "title": "\"Don't Let Me Down\" by The Chainsmokers",
         "category": "Full Song",
@@ -5550,6 +5821,7 @@
 
     
     
+
     
         "title": "\"How I Go\" by Yellowcard",
         "category": "Full Song",
@@ -5570,6 +5842,7 @@
 
     
     
+
     
         "title": "\"7 Years\" by Lukas Graham",
         "category": "Full Song",
@@ -5590,6 +5863,7 @@
 
     
     
+
     
         "title": "\"Blank Space\" by Taylor Swift",
         "category": "Full Song",
@@ -5610,6 +5884,7 @@
 
     
     
+
     
         "title": "\"Kodachrome\" by Paul Simon",
         "category": "Full Song",
@@ -5630,6 +5905,7 @@
 
     
     
+
     
         "title": "\"Margaritaville\" by Jimmy Buffett (ukulele lesson)",
         "category": "Full Song",
@@ -5650,6 +5926,7 @@
 
     
     
+
     
         "title": "\"Give My Love To Rose\" by Johnny Cash",
         "category": "Full Song",
@@ -5670,6 +5947,7 @@
 
     
     
+
     
         "title": "\"The Man Who Sold the World\" by David Bowie",
         "category": "Full Song",
@@ -5690,6 +5968,7 @@
 
     
     
+
     
         "title": "\"Reindeers are Better Than People\" from Frozen",
         "category": "Full Song",
@@ -5710,6 +5989,7 @@
 
     
     
+
     
         "title": "\"Sweet Caroline\" by Neil Diamond",
         "category": "Full Song",
@@ -5730,6 +6010,7 @@
 
     
     
+
     
         "title": "\"True Love Will Find You in the End\" by Daniel Johnston",
         "category": "Full Song",
@@ -5750,6 +6031,7 @@
 
     
     
+
     
         "title": "\"Let It Go\" from Frozen",
         "category": "Full Song",
@@ -5770,6 +6052,7 @@
 
     
     
+
     
         "title": "\"Team\" by Lorde",
         "category": "Full Song",
@@ -5790,6 +6073,7 @@
 
     
     
+
     
         "title": "\"Hallelujah\" by Leonard Cohen",
         "category": "Full Song",
@@ -5810,6 +6094,7 @@
 
     
     
+
     
         "title": "\"Rivers of Babylon\" by Sublime",
         "category": "Full Song",
@@ -5830,6 +6115,7 @@
 
     
     
+
     
         "title": "\"Wagon Wheel\" by Old Crow Medicine Show",
         "category": "Full Song",
@@ -5850,6 +6136,7 @@
 
     
     
+
     
         "title": "\"Redemption Song\" by Bob Marley",
         "category": "Full Song",
@@ -5870,6 +6157,7 @@
 
     
     
+
     
         "title": "\"Little Talks\" by Of Monsters and Men",
         "category": "Full Song",
@@ -5890,6 +6178,7 @@
 
     
     
+
     
         "title": "\"I Walk the Line\" by Johnny Cash (Full Song)",
         "category": "Full Song",
@@ -5910,6 +6199,7 @@
 
     
     
+
     
         "title": "\"Royals\" by Lorde",
         "category": "Full Song",
@@ -5930,6 +6220,7 @@
 
     
     
+
     
         "title": "\"Breezeblocks\" by Alt-J",
         "category": "Full Song",
@@ -5950,6 +6241,7 @@
 
     
     
+
     
         "title": "\"Tonight You Belong with Me\" by Eddie Vedder",
         "category": "Full Song",
@@ -5970,6 +6262,7 @@
 
     
     
+
     
         "title": "\"Paper Ships\" by Dead Mans Bones",
         "category": "Full Song",
@@ -5990,6 +6283,7 @@
 
     
     
+
     
         "title": "\"Matilda\" by Alt J",
         "category": "Full Song",
@@ -6007,13 +6301,14 @@ $(document).ready(function(){
 
   for (i = 0; i < 330; i++) {
     $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
-                                    <td>' + lessons[i].date + '</td>\
-                                    <td>' + lessons[i].pdf_image + '</td>\
+                                    <td>' + lesson_patreon_url_size + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
+                                    <td>' + lessons[i].date + '</td>\
                                     <td>' + lessons[i].category + '</td>\
                                     <td><a data-patreon-url="' + lessons[i].patreon_url + '" href="' + lessons[i].patreon_url + '">PDF</td>\
                                     <td></td></tr>');
   }
+
 
 });
 </script>
