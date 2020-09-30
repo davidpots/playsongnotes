@@ -3,7 +3,7 @@
 {% else %}
   {% assign pdf_numpages_string = include.pdf_numpages | append: " pages" %}
 {% endif %}
-  
+
 {% if include.pdf_version == "v2" and include.free_pdf_available == true %}
 
   <div class="pdf_module_v2">
@@ -21,7 +21,7 @@
     </div>
   </div>
 
-{% elsif include.pdf_version == "v2" %}
+{% elsif include.pdf_version == "v2" or include.pdf_version == "v1" %}
 
   <div class="pdf_module_v2">
     <h3 class="pdf_module_v2__headline">Get the PDF chord sheet <span>({{pdf_numpages_string}})</span></h3>

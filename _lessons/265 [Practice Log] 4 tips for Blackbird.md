@@ -9,6 +9,8 @@ year: 1968
 yt_video_id: _________
 tags: [Practice Log, 1960s, Key of G, Classic Rock, Fingerstyle, The Beatles]
 slug: "265"
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31322903
 ---

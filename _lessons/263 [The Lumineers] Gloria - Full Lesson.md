@@ -10,6 +10,8 @@ tags: [Full Song Lesson, 2010s, Key of C, Folk, Rock]
 slug: "263"
 redirect_from:
   - /lessons/266
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30423659
 ---
@@ -18,7 +20,15 @@ patreon_lesson_url: https://www.patreon.com/posts/30423659
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iW7gGUq9rWc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Video timestamps:
+<!-- Coming soon! -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+Here's a play-along cover & full song lesson showing you how to play "Gloria" by The Lumineers. I had a blast learning this song – it uses only 4 chords (C G Am F) but the diversity of strumming and nuanced rhythm techniques really makes it fun to play. I'll teach the chords, the progressions, a few different strumming patterns, and explain some of the advanced stuff such as "pushed" chord changes which can be utilized to great effect here. I'll be playing in standard tuning... note, the Lumineers tune down 1/2 step to Eb Ab Db Gb Bb Eb.
+
+Video timestamps (for my full song lesson #263):
 
 - 0:00 Greeting & lesson overview
 - 2:00 Playthrough of each section
@@ -33,16 +43,7 @@ Video timestamps:
 - 23:34 How to play the verse (adv. progression)
 - 24:40 Farewell
 
-<!-- Coming soon! -->
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-## Editor's notes
-
-Here's a play-along cover & full song lesson showing you how to play "Gloria" by The Lumineers. I had a blast learning this song – it uses only 4 chords (C G Am F) but the diversity of strumming and nuanced rhythm techniques really makes it fun to play. I'll teach the chords, the progressions, a few different strumming patterns, and explain some of the advanced stuff such as "pushed" chord changes which can be utilized to great effect here. I'll be playing in standard tuning... note, the Lumineers tune down 1/2 step to Eb Ab Db Gb Bb Eb.
-
 This one came in by Patron request from David. Thanks for your support, David!
-
 
 ## My play-along cover (Lesson #266)
 

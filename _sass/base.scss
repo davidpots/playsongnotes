@@ -438,6 +438,10 @@ tr[data-pdf-v2="v2"] td {
   background: #BFFFD7;
 }
 
+tr[data-pdf-v2="v1"] td {
+  background: #ffa;
+}
+
 #all_lessons_list {
   background: white;
 }

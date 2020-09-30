@@ -9,6 +9,8 @@ yt_video_id: _________
 tags: [Full Song Lesson, 1970s, Key of A, Classic Rock, Fingerstyle]
 hidden_tags: CCR, creedance
 slug: "261"
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30708535
 ---

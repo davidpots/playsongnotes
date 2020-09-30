@@ -8,6 +8,8 @@ redirect_from:
 date_published: 2019-10-26
 tags: [Warm Up Exercise, 2010s, Key of C, Pop, Fingerstyle]
 hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, Taylor Swift
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31073686
 ---
@@ -19,8 +21,6 @@ patreon_lesson_url: https://www.patreon.com/posts/31073686
 <!-- Coming soon... -->
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-<img src="https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/31073686/8e33e53ef718468ea662ee1711779bfd/1.png?token-time=1573344000&token-hash=iHiZaT3bwm78Hn3dYGXPquO5N7dZzU0TmCgAPY20OTg%3D" width="700" />
 
 ## Editor's notes
 

@@ -6,6 +6,8 @@ date_published: 2019-09-15
 category: practice_log
 tags: [Practice Log, 1970s, Fingerstyle, Key of D, Folk]
 hidden_tags: [fingerpicking, finger picking, finger style]
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29981439
 redirect_from:
