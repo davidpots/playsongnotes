@@ -11,19 +11,23 @@ slug: "85"
 tags: [Full Song Lesson, 1990s, Rock, Key of Am]
 redirect_from:
   - /songs/tom-petty-mary-jane-s-last-dance/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25683306
 ---
 
 ## Video lesson
 
-Here's my video lesson for this song:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMkvsF6U5Sk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps
+## Editor's notes
+
+In this lesson, I'll show you how to play an acoustic version of Mary Jane's Last Dance by Tom Petty and the Heartbreakers. I'll show you the chords needed, explain the intro riff, the hammer-ons, strumming pattern, and some cool riffs & flourish runs you can do to spice things up. This is an approachable song that can be rewarding even for advanced guitarists, so check it out and have fun!
+
+Video timestamps:
 
 - 0:00 Preview / playthrough
 - 0:54 Lesson overview & tuning notes
@@ -36,8 +40,6 @@ Here's my video lesson for this song:
 - 7:54 Chorus fills, riffs, and runs
 - 9:40 Lead guitar riff
 - 11:33 Farewell
-
-
 
 ## Lyrics w/ chords
 

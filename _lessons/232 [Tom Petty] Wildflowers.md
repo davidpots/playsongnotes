@@ -10,6 +10,8 @@ tags: [Full Song Lesson, 1990s, Key of C, Rock]
 slug: "232"
 redirect_from:
   - /songs/tom-petty-wildflowers/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26240703
 ---
@@ -18,11 +20,15 @@ patreon_lesson_url: https://www.patreon.com/posts/26240703
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZA4AKs83Lxc?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZA4AKs83Lxc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson timestamps
+## Editor's notes
+
+In this lesson I'll teach you how to play Wildflowers by Tom Petty, from his 1994 album of the same name. I'll be using a capo on the 5th fret (which enables you to sound just like the recorded album version), and I'll carefully explain the chord shapes, hammer-ons and strumming for the verse and bridge sections.
+
+Lesson timestamps:
 
 - 0:00 Playthrough & overview
 - 1:26 Capo 5th fret

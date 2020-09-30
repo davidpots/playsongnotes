@@ -4,6 +4,8 @@ title: '"Peace of Mind" by Tyler Childers'
 song_title:  Peace of Mind
 artist: Tyler Childers
 year: 2019
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29385250
 category: full_song

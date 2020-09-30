@@ -11,18 +11,23 @@ tags: [Full Song Lesson, 1990s, Rock, Key of C]
 slug: "108"
 redirect_from:
   - /songs/tom-petty-learnin-to-fly/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/40993576
 ---
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lanqZZq1oPg?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lanqZZq1oPg?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
-## Video timestamps of note
+In this lesson, I'll teach you how to play "Learnin' to Fly" by Tom Petty – complete with chords, tabs, strumming pattern, and rhythm tips. This entire song only uses 4 chords, in the same order, the entire time – so it's quite easy to get started with! And if you want to take it a step further, there's good opportunity to add some flourish notes to spice things up. Here's what's in the video:
+
+Video timestamps:
 
 - 0:00 Playthrough
 - 0:39 Greeting
@@ -30,8 +35,6 @@ patreon_lesson_url: https://www.patreon.com/posts/40993576
 - 3:43 Timing & strum pattern
 - 5:11 Adding flourish notes
 - 8:10 Farewell
-
-
 
 ## Chords needed
 

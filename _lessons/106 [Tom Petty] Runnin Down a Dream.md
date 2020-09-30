@@ -11,16 +11,33 @@ yt_video_id: _________
 slug: "106"
 redirect_from:
   - /songs/tom-petty-runnin-down-a-dream/
+pdf_version: v1
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xfWyEunEkpI?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfWyEunEkpI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll teach you how to play an acoustic version of "Runnin' Down a Dream" by Tom Petty. Fantastic song, great riff, only a handful of chords. I'll show it all: the riff w/ a tab for reference, the strumming, the chords, etc.
+
+Video timestamps:
+
+- 0:00 Playthrough
+- 1:13 Lesson overview
+- 2:03 PDF w/ chords
+- 2:23 Intro riff, basics
+- 5:33 Intro riff, advanced
+- 6:54 How to play the verse
+- 8:01 How to play the chorus
+- 9:38 How to play the refrain
+- 10:07 Farewell
 
 
 ## Chords needed

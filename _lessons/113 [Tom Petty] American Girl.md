@@ -11,15 +11,21 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
 slug: "113"
 redirect_from:
   - /songs/tom-petty-american-girl/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25807082
 ---
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg0pnZ_Q4dI?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg0pnZ_Q4dI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll teach you how to play American Girl by Tom Petty and the Heartbreakers, from their debut 1976 self-titled album. This will be an acoustic lesson, showing you how to emulate the sound of the full-band song with a solo acoustic guitar. I'll teach you how to imitate the intro sound, as well as chords & strumming needed for the verse and chorus sections. There's also a breakdown riff I'll teach which makes for a fun break before picking things back up for the ending. Best of luck, and enjoy!
 
 ## Lyrics w/ chords
 

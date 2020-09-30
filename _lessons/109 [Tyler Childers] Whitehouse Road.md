@@ -11,6 +11,8 @@ tags: [Full Song Lesson, Drop D, Key of D, Country, 2010s]
 slug: "109"
 redirect_from:
   - /songs/tyler-childers-whitehouse-road/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25806683
 ---
@@ -21,15 +23,13 @@ patreon_lesson_url: https://www.patreon.com/posts/25806683
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Excellent solo Tyler Childers version
+## Editor's notes
 
-Here's a great performane of the song - you can hear so much more intricacy in his guitarwork, compared to the album version. This is what I'm basing this lesson off of.
+In this lesson, I'll teach you how to play "Whitehouse Road" by Tyler Childers. This is a great song in drop-D tuning with a capo on the 5th fret - and it only needs 3 chords! I'll teach you the chords, explain the intro riff that Tyler Childers plays, and break down the strumming pattern. I hope you enjoy!
+
+I'll be basing this lesson off of this solo acoustic performance of the song, which is great -- you can hear so much more intricacy in his guitar work (especially compared to the album version, where the guitar is harder to hear).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oOIJecsnaWg?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-## PDF print-out of this lesson
-
-For a print-ready PDF of this lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/25806683). For a few bucks a month, you get access to PDFs of all my new & recent lessons ([view a free sample](http://playsongnotes.com/downloads)).
 
 ## Lyrics w/ chords
 
