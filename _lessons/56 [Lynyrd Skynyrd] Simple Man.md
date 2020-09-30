@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "56"
 redirect_from:
   - /songs/lynyrd-skynyrd-simple-man/
-
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21108513
 ---
@@ -21,6 +22,19 @@ patreon_lesson_url: https://www.patreon.com/posts/21108513
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QRA38cZMIJk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I show you how to play the song "Simple Man" by Lynyrd Skynyrd on an acoustic guitar. I'll show you how to play the chords needed, the strumming patterns, the distinctive riffs (easy and intermediate versions), and also the picking pattern heard in the intro of the song. Tabs and chord charts are included. Note, I'll be playing in standard tuning (note, you must tune down one-half step to play along with the Lynyrd Skynyrd version).
+
+Video timestamps:
+
+- 0:00 Lesson overview
+- 2:01 Chords
+- 4:28 Riff, simple
+- 6:45 Riff, intermediate
+- 8:48 Picking pattern
+- 13:17 Misc other notes
 
 ## Chords you'll need
 
