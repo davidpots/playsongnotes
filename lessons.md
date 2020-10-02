@@ -26,6 +26,25 @@ permalink: /lessons/
   {% endif %}
 {% endfor %}
 
+{% comment %}
+  # ======================================================
+  # How many lessons have PDF v2
+  # ======================================================
+{% endcomment %}
+{% assign pdf_v2_count = 0 %}
+{% assign pdf_v1_count = 0 %}
+{% assign pdf_noV_count = 0 %}
+{% for i in (1..site.lessons.size) reversed %}
+  {% assign song = site.lessons | where: 'slug', i %}
+  {% if song[0].pdf_version == "v2" %}
+    {% assign pdf_v2_count = pdf_v2_count | plus:1 %}
+  {% elsif song[0].pdf_version == "v1" %}
+    {% assign pdf_v1_count = pdf_v1_count | plus:1 %}
+  {% elsif song[0].patreon_lesson_url %}
+    {% assign pdf_noV_count = pdf_noV_count | plus:1 %}
+  {% endif %}
+{% endfor %}
+
 <script src="/js/jquery.js"></script>
 <script>
 {% assign num_to_show = latest_lesson_number %}
@@ -99,6 +118,28 @@ $(document).ready(function(){
 
 ## List of all lessons
 I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.size }} of which have pages on this website. They are listed below. You can also [browse by category](/search) if you're looking for something specific!
+
+{% assign pdf_total_boi = pdf_v1_count | plus: pdf_v2_count %}
+
+<div class="tile_metric">
+  <h3>PDF no version</h3>
+  <p>{{ pdf_noV_count }}</p>
+</div>
+<div class="tile_metric">
+  <h3>PDF some version</h3>
+  <p>{{ pdf_total_boi }}</p>
+</div>
+<hr />
+<div class="tile_metric">
+  <h3>PDF v1</h3>
+  <p>{{ pdf_v1_count }}</p>
+</div>
+<div class="tile_metric">
+  <h3>PDF v2</h3>
+  <p>{{ pdf_v2_count }}</p>
+</div>
+<hr />
+
 
 <table id="all_lessons_list">
   <tbody>

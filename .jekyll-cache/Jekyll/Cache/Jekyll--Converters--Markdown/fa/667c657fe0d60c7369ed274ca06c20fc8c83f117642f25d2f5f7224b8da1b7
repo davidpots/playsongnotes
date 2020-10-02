@@ -1,0 +1,69 @@
+I"m<div style="text-align: center;">
+  <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
+    <div style="position: relative; display: table; width: 100%;">
+      <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
+      <input type="submit" value="Search" id="search-button" style="float: left; width: 20%; max-width: 120px;" />
+    </div>
+  </form>
+</div>
+
+<script src="/js/jquery.js"></script>
+
+<script>
+
+
+  var lessons = [
+
+  ];
+$(document).ready(function(){
+
+  for (i = 0; i < ; i++) {
+    $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
+                                    <td>' + lessons[i].pdf_image + '</td>\
+                                    <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
+                                    <td>' + lessons[i].date + '</td>\
+                                    <td>' + lessons[i].category + '</td>\
+                                    <td><a data-patreon-url="' + lessons[i].patreon_url + '" href="' + lessons[i].patreon_url + '">PDF</td>\
+                                    <td></td></tr>');
+  }
+
+
+});
+</script>
+
+<script src="/js/search.js"></script>
+
+<h2 id="list-of-all-lessons">List of all lessons</h2>
+<p>I have made  YouTube videos so far… 294 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if you’re looking for something specific!</p>
+
+<div class="tile_metric">
+  <h3>Total videos</h3>
+  <p>####</p>
+</div>
+<div class="tile_metric">
+  <h3>Lessons on website</h3>
+  <p>####</p>
+</div>
+<div class="tile_metric">
+  <h3>PDF v1</h3>
+  <p>####</p>
+</div>
+<div class="tile_metric">
+  <h3>PDF v2</h3>
+  <p>294</p>
+</div>
+
+<table id="all_lessons_list">
+  <tbody>
+    <tr>
+      <th>Lesson ID</th>
+      <th>Date</th>
+      <th>PDF Preview</th>
+      <th>Title</th>
+      <th>Category</th>
+      <th>PDF</th>
+      <th>Redirects To?</th>
+    </tr>
+  </tbody>
+</table>
+:ET
