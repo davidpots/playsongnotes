@@ -12,6 +12,8 @@ yt_video_id: _________
 slug: "90"
 redirect_from:
   - /songs/johnny-cash-hurt/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22543461
 ---
@@ -22,7 +24,9 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22543461
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this lesson, I'm excited to show you how to play "Hurt" as performed by Johnny Cash. Originally a Nine Inch Nails song from 1994, the 2003 Johnny Cash version is an absolute masterpiece and it's quite approachable. You only need 3-4 chords, and the distinctive intro riff especially is quite easy to learn. I'll show you the chords needed, tabs for the riffs, and how to strum the chorus. Enjoy!
 
 ## Lyrics w/ chords
 

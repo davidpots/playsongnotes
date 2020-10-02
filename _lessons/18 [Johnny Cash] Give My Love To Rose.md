@@ -4,13 +4,15 @@ layout: song
 title: '"Give My Love To Rose" by Johnny Cash'
 song_title:  Give My Love To Rose
 artist: Johnny Cash
-year: 1960
+year: 1958
 category: full_song
-tags: [Full Song Lesson, 1960s, Country, Key of A, Walking Bass Lines]
+tags: [Full Song Lesson, 1950s, Country, Key of A, Walking Bass Lines]
 yt_video_id: _________
 slug: "18"
 redirect_from:
   - /songs/johnny-cash-give-my-love-to-rose/
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31510807
 ---
@@ -19,9 +21,24 @@ patreon_lesson_url: https://www.patreon.com/posts/31510807
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXrNumLcMGY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll teach you how to play "Give My Love to Rose" by Johnny Cash. Originally written in the 1950s, it was Cash's 2003 recording of this which really caught my ear and wouldn't let go. I'll teach you to play it 100% like him: the chords, the walk ups, the walk downs, the strumming, and of course the lyrics. Check it out!
+
+## Johnny Cash's versions
+
+From 2003 (I like this one more!)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D1LBKTONZ0M?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+From 1950-something (full band, faster tempo, zippier)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sv6iTbVYuvk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
+
 
 
 ## Chords needed

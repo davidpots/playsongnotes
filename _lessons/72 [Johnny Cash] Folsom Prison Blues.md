@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "72"
 redirect_from:
   - /songs/johnny-cash-folsom-prison-blues/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24118585
 ---
@@ -22,15 +24,16 @@ patreon_lesson_url: https://www.patreon.com/posts/24118585
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
-## Lesson timestamps:
+Learn how to play "Folsom Prison Blues" by Johnny Cash! Chords, strumming pattern, tabs for the intro, and even how to strum with alternating bass notes. I'll show it all. Note, this song will need a capo on the 1st fret *if* you want to play along w/ the Cash album version. Otherwise, you can leave the capo behind and play it in the key of E. Best of luck, let me know what questions you have in the comments!
 
-- 0:00 Playthrough
-- 0:44 Chords needed
-- 1:41 Verse structure w/ simple strum
-- 2:50 Intro riff
-- 3:40 Strumming w/ alternating bass notes
-- 5:43 Farewell
+- 0:00 Playthrough
+- 0:44 Chords needed
+- 1:41 Verse structure w/ simple strum
+- 2:50 Intro riff
+- 3:40 Strumming w/ alternating bass notes
+- 5:43 Farewell
 
 
 ## Lyrics with chords
