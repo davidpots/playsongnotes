@@ -11,6 +11,8 @@ tags: [Full Song Lesson, Key of C, 1970s, Country, Fingerstyle, Travis Picking]
 slug: "226"
 redirect_from:
   - /songs/guy-clark-let-him-roll/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25432156
 ---

@@ -8,6 +8,8 @@ tags: [Warm Up Exercise, Key of E, 2010s, Learning Chords]
 hidden_tags: [Father John Misty]
 slug: "253"
 date_published: 2019-08-24
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29409818
 ---

@@ -148,17 +148,15 @@ A few ways to spice things up, should you want. For one, this is a great song to
     E ––––––––––
           A
 
-We'll also have a very pleasing addition to the A-chord at the end of each 8-bar sequence. Specifically, we'll be adding what sounds like an Asus4 for a few strums, before going back to an A major. You can play this in a few ways. If you do the bad-ass version shown below, you'll want to barre the A-major chord, then bring on your left ring & middle fingers to play the 4th and 2nd strings (respectively).
+There's also ample opportunity to add small tweaks to the A and B-minor chords by either adding or removing fingers, within the strum patterns. Doing this freely & casually can help add a very helpful dose of diversity to the sound of this song. Here are some of the common tweaks you can do... practice going back and forth between the "main" voicing any each alternate voicing shown here:
 
-    Easy version:                    Bad-ass version:
-
-    E ––––0––––0––––0–––             E ––––x––––x––––x–––
-    B ––––2––––3––––2–––             B ––––2––––3––––2–––
-    G ––––2––––2––––2–––             G ––––2––––2––––2–––
-    D ––––2––––2––––2–––             D ––––2––––4––––2–––
-    A ––––0––––0––––0–––             A ––––0––––0––––0–––
-    E ––––––––––––––––––             E ––––––––––––––––––
-          A  Asus4  A                      A   D/A   A   
+    E ––0––––0––     E –––x––––x–––     E –––0––––0–––     E –––2––––2–––     E –––2––––0–––
+    B ––2––––3––     B –––2––––3–––     B –––2––––0–––     B –––3––––3–––     B –––3––––3–––
+    G ––2––––2––     G –––2––––2–––     G –––2––––2–––     G –––4––––2–––     G –––4––––4–––
+    D ––2––––2––     D –––2––––4–––     D –––2––––2–––     D –––4––––4–––     D –––4––––4–––
+    A ––0––––0––     A –––0––––0–––     A –––0––––0–––     A –––2––––2–––     A –––2––––2–––
+    E ––––––––––     E ––––––––––––     E ––––––––––––     E ––––––––––––     E ––––––––––––
+        A  Asus4          A  Asus4           A  Asus2           Bm  Bm7            Bm  Bm
 
 ## Using a percussive strum style
 

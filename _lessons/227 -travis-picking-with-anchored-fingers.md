@@ -6,6 +6,8 @@ date_published: 2019-03-18
 category: practice_log
 tags: [Practice Log, Key of G, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking,finger picking, finger style, chris moreland, tulsa county stars]
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25555059
 redirect_from:

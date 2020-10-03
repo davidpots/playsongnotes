@@ -6,6 +6,8 @@ slug: "249"
 date_published: 2019-08-02
 tags: [Tips & Techniques, 1970s, Fingerstyle, Learning Chords]
 hidden_tags: [Joni Mitchell, A Case of You]
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28859774
 redirect_from:
