@@ -8,6 +8,8 @@ tags: [Warm Up Exercise, Classic Rock, Key of Dm, 1970s]
 hidden_tags: [Dire Straits]
 slug: "174"
 date_published: 2018-09-18
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21510622
 ---
@@ -42,8 +44,8 @@ Part 2 of 2:
     B ––––––––6––5––3––––––6––6––5–––––––––––––––
     G ––––––––7––5––3––––––5––5––5––––––––––––5––
     D ––(0)–––7––5––3––––––7––7––5––––––––5–7––––
-    A –––––––––––––––––––––––––––––––––/7––––––––
-    E –––––––––––––––––––––––––––––––––––––––––––
+    A –––––––––––––––––––––––––––––––––/7––––––––  <== use your left ring finger
+    E –––––––––––––––––––––––––––––––––––––––––––      on this 7th fret note
              Dm  C  Bb     F  F  C
 
 ## Understanding the full chord shapes

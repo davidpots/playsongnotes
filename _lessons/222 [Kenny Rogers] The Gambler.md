@@ -11,22 +11,23 @@ slug: "222"
 tags: [Full Song Lesson, Play-Along Cover, 1970s, Country, Key of D, Key of E]
 redirect_from:
   - /songs/kenny-rogers-the-gambler/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25099962
 ---
 
 ## Video lesson
 
-### Playalong cover:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FqssPCLOMw8?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-### Full video lesson:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bA_YhZqe0HY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson timestamps:
+## Editor's notes
+
+Here's my lesson teaching you how to play "The Gambler", the classic 3-chord country song made famous by Kenny Rogers (originally written by Don Schlitz). During this lesson, I'll teach you the chord shapes, explain the verse & chorus chord progressions, and break down the strumming patterns. Together, this should give you all you need to pick up your guitar and play this song. Note, this will be a lesson for a no-capo version of this song (add a capo on the 1st fret to play the song in the same key as Kenny Rogers).
+
+Note that for the 2nd half of the song, I'm modulating (changing key) by one whole step – i.e., moving from the key of D (D/G/A7) to the key of E (E/A/B7). Kenny Rogers only moves up one half-step, so I'm deviating from what he does - but I think my choice is more practical in that it requires no capo.
 
 - 0:28 Greeting & lesson overview
 - 1:01 Quick capo disclaimer
@@ -38,7 +39,15 @@ patreon_lesson_url: https://www.patreon.com/posts/25099962
 - 14:37 Full play-along cover
 - 17:22 Farewell & thanks
 
+## Other videos I made for this song
 
+### Play-along cover
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FqssPCLOMw8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+### Improvisational exercise using this song's melody
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OGAMzzpeIew?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Chords w/ lyrics
 
