@@ -10,6 +10,8 @@ tags: [Full Song Lesson, Classic Rock, Key of D, 1960s]
 slug: "169"
 redirect_from:
   - /songs/beatles-norwegian-wood/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20756378
 ---
@@ -18,9 +20,18 @@ patreon_lesson_url: https://www.patreon.com/posts/20756378
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4BXzDOrjRro?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+In this lesson I'll show you how to play "Norwegian Wood" by the Beatles, complete with a detailed breakdown of the intro riff (with tab!). I'll teach you the chords, strumming pattern, and give some general practice advice for learning the riff - which can be difficult to get the hang of at first.
+
+Lesson timestamps:
+
+- 0:00 Lesson overview & capo 2nd fret
+- 1:18 How to play the main riff
+- 8:26 Verse, chorus, and strumming
+- 9:55 Practice advice for this song
 
 
 ## Lyrics w/ chords
@@ -98,7 +109,7 @@ Typed out as progressions, this would be as follows. The chords are written out 
 The simplest strumming pattern would be doing a down-strum on only the 1 and 4 counts. You can skip the riff, only do these 1 and 4 downstrums, and absolutely play this song from start to finish.
 
     1 + 2 + 3 + 4 + 5 + 6 +       D = down strum
-    D           D 
+    D           D
 
 If you don't want to bother with the lead riff, you can use this strum pattern for the entire song (DOWN, down-up-down... DOWN, down-up-down...). Written out with counting, it looks as follows:
 
@@ -132,7 +143,7 @@ Second, I recommend a "down strum"-only version of the tab, where you don't use 
     A ––––––––––––––––––––––––––––––––3–––2–0–––––0––––––
     E –––––––––––––––––––––––––––––––––––––––––––––––––––
         D           D           D     C     D      
-        1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 
+        1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
 
 Then, I recommend moving on to the following tab. The only thing different (from the "final" tab at the bottom) is the 3rd riff sequence is simplified by one note, shown by the asterisk below. Note, this tab brings in the "down-up-down-up" clusters which happen on the "2 and 3 and" counts, with the up-strums happening on the "and" counts. All the single bass notes happen on the numbered counts, e.g. "ONE two-and-three-and FOUR FIVE SIX ONE two-and-three-and" etc.
 
