@@ -11,23 +11,36 @@ yt_video_id: _________
 slug: "145"
 redirect_from:
   - /songs/johnny-cash-tennessee-flat-top-box/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27317834
 ---
 
 ## Video lesson
 
-My cover / playthrough:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZCEI-bRg-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-My full lesson explaining everything:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dP2hYluC8CQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this video I'll teach you how to play "Tennessee Flat Top Box" by Johnny Cash, including a tutorial for the intro tab, the chords needed, strumming patterns used, and more! This is one of the funnest Cash songs to play, in my opinion – it combines simple verse chords & strumming with a complicated (but approachable) riff heard in the intro and interlude. Enjoy! Make sure you put a capo on 3 if you want to play along with Cash's album version.
+
+- 0:00 Lesson preview & greeting
+- 1:23 Capo or no capo?
+- 1:57 Verse chords
+- 2:45 Verse strumming
+- 3:45 Verse lyrics & chord changes
+- 4:36 Main riff, part 1 of 2
+- 7:32 Main riff, part 2 of 2
+- 11:01 Riff extras: how to transition back to verse
+- 14:36 Riff extras: how its played in song's intro
+- 16:10 Full song playthrough
+
+## My full play-along cover
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZCEI-bRg-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Capo to play along with Johnny Cash
 

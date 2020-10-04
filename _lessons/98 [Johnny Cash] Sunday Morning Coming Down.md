@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "98"
 redirect_from:
   - /songs/johnny-cash-sunday-morning-coming-down/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23025270
 ---
@@ -19,20 +21,18 @@ patreon_lesson_url: https://www.patreon.com/posts/23025270
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEUgFGKD8x8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
-## Video timestamps
+In this lesson, I'll teach you how to play the song "Sunday Morning Coming Down," a with chords and strumming pattern included. This is a Kris Kristofferson song, covered by many folks (including Johnny Cash). This lesson features a no-capo version with a few different ways to approach strumming (easy strumming and alternating bass notes). Watch and enjoy!
+
+Video timestamps:
 
 - 2:36 Chords needed
 - 3:55 Strumming pattern (easy)
 - 7:18 Walk-down transition riffs
 - 11:40 Strumming pattern (advanced)
-
-
-
-
 
 ## Capo notes
 

@@ -4,6 +4,8 @@ title: '"Angel Flight" by Radney Foster'
 song_title: Angel Flight
 artist: Radney Foster
 year: 2009
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29234388
 category: full_song

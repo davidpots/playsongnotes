@@ -4,6 +4,8 @@ title: '"The Wind" by Cat Stevens'
 song_title:  The Wind
 artist: Cat Stevens
 year: 1971
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29562940
 category: full_song
@@ -17,7 +19,7 @@ redirect_from:
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLdUfxYg_28?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLdUfxYg_28?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- Coming soon! -->
 

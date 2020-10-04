@@ -12,6 +12,8 @@ hidden_tags: [Once Upon a Time in Hollywood, california dreaming]
 slug: "250"
 redirect_from:
   - /songs/jose-feliciano-california-dreaming/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29059866
 ---

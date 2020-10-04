@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "159"
 redirect_from:
   - /songs/johnny-cash-when-the-man-comes-around/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26674074
 ---
@@ -23,7 +25,9 @@ patreon_lesson_url: https://www.patreon.com/posts/26674074
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 
-## Timestamps
+## Editor's notes
+
+In this lesson I'll show you how to play "The Man Comes Around" by Johnny Cash, including a tutorial for the chords and strumming pattern. This is the first Cash song I fell in love with, back around 2003 on a jukebox in my favorite college bar. I hope you dig this lesson!
 
 - 0:00 Playthrough
 - 1:38 Greeting & agenda
@@ -32,20 +36,24 @@ patreon_lesson_url: https://www.patreon.com/posts/26674074
 - 7:48 Pre-chorus & chorus (strumming, etc)
 - 15:21 Verse strumming: advanced version
 
-
-
-
 ## Lyrics and chords
 
+    INTRO
+    C (muted strum)
+
+    VERSE
               C (muted strum)
     There's a man going 'round taking names
     And he decides who to free and who to blame
     Everybody won't be treated all the same
     There'll be a golden ladder...
 
+    PRE-CHORUS
+
         (walk down) Am     F            G          C
         ...Reaching down...... when the man comes around
 
+    CHORUS
             C                                  Cadd5
             Hear the trumpets hear the pipers
                 C                              Cadd5
