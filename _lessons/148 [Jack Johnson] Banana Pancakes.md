@@ -23,7 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/25521268
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this video I'll teach you how to play "Banana Pancakes" by Jack Johnson - complete with chords, strumming pattern, and intro tab. This is one of my favorite Jack Johnson songs to play, even though it requires quite a bit of practice to get down smoothly! I hope this lesson helps.
 
 ## Lyrics w/ chords
 
