@@ -6,6 +6,8 @@ song_title:  Layla
 artist: Eric Clapton
 year: 1992
 tags: [Full Song Lesson, 1990s, Classic Rock, Key of Dm]
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 category: full_song
@@ -23,6 +25,22 @@ redirect_from:
 
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll teach you how to play the unplugged (acoustic) version of "Layla" by Eric Clapton. This lesson includes tabs for the intro riff, chords needed for the entire song, strumming pattern, and various other tips that will prove helpful in learning how to play this song. While this tune was originally released in 1971 by Derek and the Dominos, this lesson obviously is modeled after Clapton's 1992 release as part of his album "Unplugged."
+
+Video timestamps:
+
+- 0:00 Playthrough
+- 0:55 Greeting & lesson overview
+- 1:43 Song structure
+- 2:20 Riff: chord shapes needed
+- 5:27 Riff: bass note practice
+- 7:15 Riff: putting it together
+- 9:25 Verse: chords & strumming
+- 11:45 Advanced riff variations
+- 13:55 Farewell
 
 
 
