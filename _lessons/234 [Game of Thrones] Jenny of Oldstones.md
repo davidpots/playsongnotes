@@ -10,6 +10,8 @@ tags: [Full Song Lesson, 2010s, Key of C, Movie Songs, Walking Bass Lines]
 slug: "234"
 redirect_from:
   - /songs/game-of-thrones-jenny-of-oldstones/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26303236
 ---
@@ -20,7 +22,11 @@ patreon_lesson_url: https://www.patreon.com/posts/26303236
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps
+## Editor's notes
+
+In this lesson, I want to show you how I went about creating a country guitar version (in the style of Johnny Cash) for the song "Jenny of Oldstones" – which was sung in the latest Game of Thrones episode. The song left quite an impression on me upon watching it, and I decided I'd try to work out an acoustic guitar part to match the melody. I'll explain how I figured out the key of the song, worked out the melody, established a "home base" groove, and experimented with the bass notes within my strumming. In all, this has been a memorable song to learn – and it's my pleasure to share with you this lesson. Enjoy!
+
+Video timestamps:
 
 - 0:00 Cover & lesson overview
 - 2:18 Step 1: Figure out which key the song is in

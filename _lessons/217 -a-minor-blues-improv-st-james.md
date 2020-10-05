@@ -4,6 +4,8 @@ title: A-minor blues improvisation w/ backing track
 slug: "217"
 date_published: 2019-02-20
 category: practice_log
+pdf_version: v1
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24872694
 tags: [Practice Log, Blues, Backing Track, Key of Am, Licks & Fills]
@@ -19,7 +21,13 @@ redirect_from:
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+I recently learned St James Infirmary Blues (check out my lesson for it!) – and as part of learning a few licks & fills for that song, I found myself wanting to continue exploring beginner blues lead guitar. So, I went ahead and made a backing track to practice over. In this resulting entry in my practice log, I'll demonstrate some of my exploration of the minor blues scale (played over the backing track). I'll show you the scale chart I'm using, as well as talk through some of my thinking in getting started with unfamiliar scales.
+
+Remember, you can access the scale chart web tool I built (aka. FretMonster!) at [playsongnotes.com/fretmonster](http://playsongnotes.com/fretmonster)
+
+Video timestamps
 
 - 0:00 Playthrough & agenda
 - 2:38  I explain how to read scale charts 
@@ -48,11 +56,3 @@ Video timestamps:
 <!-- Coming soon! -->
 
 <!-- Coming soon! -->
-
-## Editor's notes
-
-I recently learned St James Infirmary Blues (check out my lesson for it!) – and as part of learning a few licks & fills for that song, I found myself wanting to continue exploring beginner blues lead guitar. So, I went ahead and made a backing track to practice over. In this resulting entry in my practice log, I'll demonstrate some of my exploration of the minor blues scale (played over the backing track). I'll show you the scale chart I'm using, as well as talk through some of my thinking in getting started with unfamiliar scales.
-
-Remember, you can access the scale chart web tool I built (aka. FretMonster!) at [playsongnotes.com/fretmonster](http://playsongnotes.com/fretmonster)
-
-Additional notes for this lesson coming soon!

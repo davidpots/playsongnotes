@@ -7,6 +7,8 @@ title: Triad exercises using A, D, & E
 tags: [Warm Up Exercise, Learning Chords, Key of A]
 slug: "228"
 date_published: 2019-03-29
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25735022
 ---
@@ -19,7 +21,11 @@ patreon_lesson_url: https://www.patreon.com/posts/25735022
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps
+## Editor's notes
+
+Hey friends — here's three quick trio of exercises you can play, all of which are using triads for the chords of A, D, and E. Focused only on the thinnest 3 strings, I quite enjoy exploring how I can put these mini chord shapes together to come up with something fun. Tabs for each exercise are in the attached PDF, and be sure to check out the chord charts I've included in order to grok how these triad shapes can in fact be used up & down the fretboard. I hope you enjoy!
+
+Here's video timestamps, in case you want to jump ahead:
 
 - 0:00 Playthrough & Greeting
 - 1:40 Exercise #1
@@ -32,9 +38,6 @@ patreon_lesson_url: https://www.patreon.com/posts/25735022
 
 <!-- Coming later today! Check back soon 👍 -->
 
-## Editor's notes
-
-Here's three quick trio of exercises you can play, all of which are using triads for the chords of A, D, and E. Focused only on the thinnest 3 strings, I quite enjoy exploring how I can put these mini chord shapes together to come up with something fun. Tabs for each exercise are below, and be sure to check out the charts & tabs I've written up in order to grok how these triad shapes can in fact be used up & down the fretboard. I hope you enjoy! - David Potsiadlo (March 29, 2019)
 
 ## Exercise #1
 

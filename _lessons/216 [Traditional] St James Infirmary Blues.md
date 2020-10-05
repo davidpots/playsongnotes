@@ -11,6 +11,8 @@ slug: "216"
 tags: [Full Song Lesson, 1920s, Blues, Key of Am]
 redirect_from:
   - /songs/traditional-st-james-infirmary-blues/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24744092/
 ---
@@ -23,7 +25,11 @@ patreon_lesson_url: https://www.patreon.com/posts/24744092/
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+In this lesson I'll teach you how to play an acoustic version of the classic St James Infirmary Blues. We'll be in the key of A-minor, and I'm going to make this as accessible and beginner-friendly as possible. I'll teach the chords, the progression, some strumming tips, and show you some neat lead licks & fills you can add in between strums of certain chords. I hope you find it helpful... let's get to it!
+
+Video timestamps:
 
 - 0:00 Playthrough & greeting
 - 2:05 Chords shapes needed

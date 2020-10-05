@@ -11,15 +11,11 @@ slug: "242"
 hidden_tags: fingerpicking, finger picking, finger style
 redirect_from:
   - /songs/beatles-yesterday/
+pdf_version: v1
+pdf_numpages: 6
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27161783
 ---
-
-## Play-along cover
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzijoSnQNfk?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<!-- Coming soon! -->
 
 ## Full video lesson
 
@@ -27,11 +23,6 @@ patreon_lesson_url: https://www.patreon.com/posts/27161783
 
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-
-## You can also buy the PDF for $3...
-
-For this one lesson, I'm offering a [one-time purchase for $3](https://gumroad.com/l/songnotes-yesterday) - checkout takes seconds, no monthly fees, keep the PDF forever. If you support me on Patreon, you can already get this PDF with your monthly subscription.
 
 ## Editor's notes
 
@@ -50,4 +41,8 @@ Timestamps for my full lesson:
 - 30:02 Advanced chorus walk-down
 - 32:15 Farewell
 
-Have any other Beatles songs you want to see lessons for? Let me know! I'd like to do a few more in the month or two to come, as the movie "Yesterday" gets ready for theatrical release.
+## Play-along cover
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzijoSnQNfk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<!-- Coming soon! -->

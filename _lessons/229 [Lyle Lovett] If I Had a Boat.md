@@ -12,7 +12,8 @@ yt_video_id: _________
 slug: "229"
 redirect_from:
   - /songs/lyle-lovett-if-i-had-a-boat/
-
+pdf_version: v1
+pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26032668
 ---
@@ -23,7 +24,11 @@ patreon_lesson_url: https://www.patreon.com/posts/26032668
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+Hey friends! In this lesson I'm excited to teach you how to play "If I Had a Boat" by Lyle Lovett. This one came in by patron request, and it has been my pleasure to learn this song and prepare this lesson. I'll teach you a capo 9 version of this song (how Lovett plays it), focusing on a Travis fingerpicking style matching what he plays. I'll show you the chord shapes, progressions needed, explain the Travis picking basics, and break down the verse/chorus/intro sections with tabs. I hope you enjoy! Send along any other Lyle Lovett requests you may have, as I'd love to know which other songs y'all may want to hear by him.
+
+Video timestamps:
 
 - 0:00 Playthrough
 - 0:38 Greeting & overview

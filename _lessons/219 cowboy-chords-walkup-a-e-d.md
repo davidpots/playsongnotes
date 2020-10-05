@@ -8,6 +8,8 @@ slug: "219"
 date_published: 2019-02-22
 tags: [Warm Up Exercise, 2010s, Country, Key of A, Walking Bass Lines]
 hidden_tags: [Colter Wall, Thinking on a Woman, Thinkin on a Woman]
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24901786/
 ---

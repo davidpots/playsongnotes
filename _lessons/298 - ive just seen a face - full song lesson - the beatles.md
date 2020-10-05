@@ -18,15 +18,9 @@ patreon_lesson_url: https://www.patreon.com/posts/36733328
 
 <!-- Coming soon... -->
 
-### Full song lesson (#298)
+Here's my full-song lesson (#298) -- I also have a lesson just on the intro riff further down on the page.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7e0p8lIhhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Intro riff lesson (#299)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCTBez-eWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Note, the same 6-page PDF chord sheet (linked below) works for both of video lessons shown above.
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
@@ -36,7 +30,7 @@ Hey friends! Here’s my lesson for The Beatles classic “I’ve Just Seen a Fa
 
 Note, I teach the intro to this song in a separate video lesson (#299) – which should be released by May 6, 2020.
 
-Timestamps for my full song lesson (#298):
+Timestamps for my full-song lesson (#298):
 
 - 0:00 Lesson preview & talking
 - 1:41 Chord shapes needed
@@ -48,7 +42,12 @@ Timestamps for my full song lesson (#298):
 - 11:41 Intro riff, crash course
 - 13:22 Farewell
 
-Timestamps for my intro riff lesson (#299):
+
+## Intro riff lesson (#299)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgCTBez-eWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Timestamps for my intro riff lesson:
 
 - 0:00 Lesson overview
 - 1:50 Chord shapes & finger positions
@@ -112,12 +111,12 @@ See PDF for full version (with chords throughout).
 
         Falling, yes I am falling
         And she keeps calling..... me back again
-        
+
     I've just seen a face, I can't forget the time or place
     Where we just met... she's just the girl for me, and I want all
     The world to see her face... hmmm, hmmm, hmmm, hmmm mmm mmm
 
         Falling, yes I am falling
         And she keeps calling..... me back again
-        
+
         (repeat chorus as desired, end on G)

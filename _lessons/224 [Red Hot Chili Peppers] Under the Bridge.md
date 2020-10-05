@@ -11,18 +11,21 @@ tags: [Full Song Lesson, Key of D, Rock, 1990s]
 slug: "224"
 redirect_from:
   - /songs/red-hot-chili-peppers-under-the-bridge/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25250503
 ---
 
-## Play-along cover
+## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2LbsW-wmdY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Want to see a full lesson, where I explain things step by step? Let me know!
-<!-- Coming soon! -->
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+Here's how I play a solo acoustic version of Under the Bridge by the Red Hot Chili Peppers - with no capo, and using the easiest chords that are possible. While this isn't exactly how the RHCP play the song, it allows you to avoid some more difficult barre chords (such as the would-be D barre chord needed for the opening intro chord) and keep the song quite approachable. Throw a capo on the 2nd fret, using the chords I show, if you wanna play along with the album version of this song.
 
 ## Intro tab
 

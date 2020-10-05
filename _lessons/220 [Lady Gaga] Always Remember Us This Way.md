@@ -12,6 +12,8 @@ tags: [Full Song Lesson, 2010s, Pop, Key of C, Movie Songs]
 hidden_tags: [a star is born, star is born, shallow]
 redirect_from:
   - /songs/lady-gaga-always-remember-us-this-way/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25021126
 ---
@@ -24,7 +26,11 @@ patreon_lesson_url: https://www.patreon.com/posts/25021126
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson timestamps
+## Editor's notes
+
+In this lesson I'll show you an easy acoustic guitar lesson for "Always Remember Us This Way" by Lady Gaga, as heard in the movie A Star is Born. I'll teach you the chords, strumming pattern, progressions, and demonstrate a few ways to simplify (and likewise, spice up!) some of the sequences you'll be playing. If you enjoyed this lesson, check out my others for songs from A Star is Born. Good luck!
+
+Video timestamps:
 
 - 0:00 Lesson preview & agenda
 - 1:45 Chords shapes needed
