@@ -6,6 +6,8 @@ date_published: 2018-12-01
 category: practice_log
 tags: [Practice Log, Backing Track, Key of A, Country, 2010s, Walking Bass Lines, Licks & Fills]
 hidden_tags: [Chris Stapleton]
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23065293
 redirect_from:
@@ -18,7 +20,11 @@ redirect_from:
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps
+## Editor's notes
+
+In this entry of my practice log, I'm super excited to share with you some of the exercises I've put together while continuing my practice of Tennessee Whiskey - all while using a backing track. Backing tracks are something I haven't really ever messed with before, but for whatever reason I overcame some hurdle this past week. Made a track on my phone, using garage band. And oh, the fun! Practicing my strumming, grooving on a bassline, working out those lead licks of the song, and best of all - combining all of these into exercises that stretch my skill level, but also sound great. So with that, I offer you these 6 exercises, in addition to a separate video lesson for the backing track (which you can put on and use in the background as you play). Have at it, and enjoy!
+
+Video timestamps:
 
 - 0:00 Playthrough
 - 1:38 Greeting & agenda
@@ -40,10 +46,6 @@ Note, this track begins with:
 1. 2 measures of drums only, to help you get in sync with the rhythm, which leads to...
 2. 1 full sequence of 8 measures, with the lead guitar track playing, and then...
 3. 5+ minutes of the 8 measure sequence repeating over and over, without the lead guitar
-
-## Editor's notes
-
-In this entry of my practice log, I'm super excited to share with you some of the exercises I've put together while continuing my practice of Tennessee Whiskey - all while using a backing track. Backing tracks are something I haven't really ever messed with before, but for whatever reason I overcame some hurdle this past week. Made a track on my phone, using garage band. And oh, the fun! Practicing my strumming, grooving on a bassline, working out those lead licks of the song, and best of all - combining all of these into exercises that stretch my skill level, but also sound great. So with that, I offer you these 6 exercises, in addition to a separate video lesson for the backing track (which you can put on and use in the background as you play). Have at it, and enjoy!
 
 ## Before we start, let's understand the boundaries
 

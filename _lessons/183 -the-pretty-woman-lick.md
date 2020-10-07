@@ -6,6 +6,8 @@ date_published: 2018-10-13
 tags: [Practice Log, Licks & Fills, Key of A, 1960s, Classic Rock]
 hidden_tags: [Roy Orbison]
 category: practice_log
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22030862
 redirect_from:

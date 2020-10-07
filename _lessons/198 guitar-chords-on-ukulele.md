@@ -5,6 +5,8 @@ title: Guitar chords on a ukulele
 slug: "198"
 date_published: 2018-12-13
 tags: [Tips & Techniques, Learning Chords, Ukulele]
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23324554/
 redirect_from:

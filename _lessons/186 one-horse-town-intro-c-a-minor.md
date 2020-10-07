@@ -8,6 +8,8 @@ tags: [Warm Up Exercise, Country, 2010s, Key of Am]
 hidden_tags: [Blackberry Smoke]
 slug: "186"
 date_published: 2018-10-27
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22343641
 ---

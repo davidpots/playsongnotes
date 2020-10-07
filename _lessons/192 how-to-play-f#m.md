@@ -5,6 +5,8 @@ title: How to play F#m (F sharp minor)
 slug: "192"
 date_published: 2018-11-18
 tags: [Tips & Techniques, Learning Chords]
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22798346
 redirect_from:

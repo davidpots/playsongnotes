@@ -12,6 +12,8 @@ tags: [Full Song Lesson, Key of C, Traditional, Holiday]
 hidden_tags: [New Years]
 redirect_from:
   - /songs/traditional-auld-lang-syne/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23649592/
 ---
@@ -24,7 +26,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23649592/
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-<!-- Coming soon! -->
+## Editor's notes
+
+With New Years just around the corner, I wanted to learn this very timely traditional song - Auld Lang Syne. This video shows a relatively simple way to play it, involving strummable chords with a melody that weaves through each of the 8 measures. I'll teach the chords, explain the melody, talk about some of the difficult transitions - all with tabs to help you through it. I hope you enjoy! Happy New Years to you and yours - here's to many more years of music for all of us.
 
 ## Guitar arrangement
 

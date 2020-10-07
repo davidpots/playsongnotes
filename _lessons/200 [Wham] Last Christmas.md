@@ -12,6 +12,8 @@ hidden_tags: [George Michael]
 slug: "200"
 redirect_from:
   - /songs/wham-last-christmas/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23522694
 ---
@@ -23,7 +25,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23522694
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson timestamps
+## Editor's notes
+
+After many requests, I'm please to bring you all this lesson for "Last Christmas" by Wham. I'll teach the basic chords, explain some strumming pattern options, and show a few ways to spice things up with some simple chord voicing modifications. I hope that you'll be able to pick this one up quickly and run with it. Best of luck!
 
 - 0:00 Playthrough & lesson overview
 - 2:06 Basic chord shapes
@@ -31,7 +35,6 @@ patreon_lesson_url: https://www.patreon.com/posts/23522694
 - 4:18 Strumming patterns
 - 7:30 Modifying each chord shape
 - 10:21 Mixing the chorus melody w/ chords
-
 
 ## Lyrics w/ chords
 

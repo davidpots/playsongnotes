@@ -12,32 +12,25 @@ tags: [Full Song Lesson, 2010s, Key of G, Country, Movie Songs]
 hidden_tags: [bradley cooper, shallow]
 redirect_from:
   - /songs/bradley-cooper-maybe-it-s-time/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22497311
 ---
 
 ## Video lesson
 
-Guitar lesson:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7JlEf5Y7lw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<!-- Coming soon! -->
-
-Play-along cover (full song):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-
 
 ## Editor's notes
 
 In this lesson I'll teach you how to play a solo acoustic version of "Maybe It's Time," as heard in the 2018 version of the film "A Star is Born". This is a song that only needs 3-4 common chords, which can either be strummed or played via fingerpicking. There's one tricky part of the song, which involves walking down from G to D/F# to E-minor -- which I'll show you how to tackle in two different ways. I hope you find this helpful, check out my lesson for "Shallow" also from this movie.
+
+## Play-along cover (full song)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0g2rzg_8ycQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics and Chords
 

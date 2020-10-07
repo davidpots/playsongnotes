@@ -5,6 +5,8 @@ title: Playing A-major with big fingers or a small fretboard
 slug: "194"
 date_published: 2018-11-27
 tags: [Tips & Techniques, Learning Chords, Key of A]
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22959683
 redirect_from:

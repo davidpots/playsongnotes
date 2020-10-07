@@ -11,23 +11,21 @@ slug: "199"
 tags: [Full Song Lesson, Key of A, Backing Track, 1970s, Classic Rock, Holiday]
 redirect_from:
   - /songs/eagles-please-come-home-for-christmas/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 ---
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwKxgI-6q-g?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
-
-<!-- Coming soon! -->
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwKxgI-6q-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
-
-<!-- Coming soon! -->
+I've had a blast learning this classic holiday tune, "Please Come Home for Christmas". Originally recorded by Charles Brown (1960) and then notably covered by The Eagles (1978), this is not only a great song - but one that's darn fun to play on guitar. There's quite a few chords needed, but it's really the D#-diminished and E-augmented that add some really special flavor to the main chord progression. In this lesson, I'll teach the song with a heavy focus on the first verse (learn that, and you'll be 80% of the way there). I hope you enjoy!
 
 ## Backing track
 

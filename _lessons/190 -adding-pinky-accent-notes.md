@@ -6,6 +6,8 @@ date_published: 2018-11-11
 category: practice_log
 tags: [Practice Log, Key of C, Learning Chords]
 hidden_tags: [Delicate, Taylor Swift]
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22651220
 redirect_from:
