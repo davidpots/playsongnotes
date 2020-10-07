@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "208"
 redirect_from:
   - /songs/maggie-rogers-light-on/
-
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24140548
 ---
@@ -21,6 +22,17 @@ patreon_lesson_url: https://www.patreon.com/posts/24140548
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bEqojO6_u2s?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this video, I'll show you how to play an acoustic version of "Light On" by Maggie Rogers - including chords, tabs for the intro, and a few strumming patterns. Here's some suggested acoustic versions of this song for you to check out, performed by Maggie Rogers and her guitarist.
+
+## Amazing acoustic version by Maggie Rogers
+
+via La Blogothèque – Live in Paris
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fVLDxmjeyVo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 ## Lyrics w/ chords
 

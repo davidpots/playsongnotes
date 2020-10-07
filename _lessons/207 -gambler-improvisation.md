@@ -5,6 +5,8 @@ slug: "207"
 date_published: 2019-01-16
 category: practice_log
 tags: [Practice Log, 1970s, Key of D, Country, Walking Bass Lines]
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24033565/
 redirect_from:
@@ -20,8 +22,11 @@ redirect_from:
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
-## Video timestamps
+As I was recently practicing "The Gambler" by Kenny Rogers, I found myself improvising a bit and settled into this fun little sequence I wanted to share. This uses the same chord progression and suggestions of the melody heard in the Gambler - but combines those with some familiar elements I'm fond of, such as alternating bass notes & muted strumming & some fun flourish notes. The result is a nice little exercise I'm sure I'll find myself coming back to, and I wanted to make this lesson and share it with you. I'll not only show you the tab for the exercise I'm playing, but more importantly explain the building blocks I'm using to create this sequence. Enjoy! (- David Potsiadlo, Jan 16 2019)
+
+Video timestamps
 
 - 0:00 Playthrough & lesson overview
 - 1:44 Start w/ the chords & progression
@@ -31,14 +36,6 @@ redirect_from:
 - 7:35 Walking up to each chord
 - 9:23 Adding pinky flourish notes
 - 10:48 Putting it all together
-
-
-
-<!-- Coming soon... -->
-
-## Editor's notes
-
-As I was recently practicing "The Gambler" by Kenny Rogers, I found myself improvising a bit and settled into this fun little sequence I wanted to share. This uses the same chord progression and suggestions of the melody heard in the Gambler - but combines those with some familiar elements I'm fond of, such as alternating bass notes & muted strumming & some fun flourish notes. The result is a nice little exercise I'm sure I'll find myself coming back to, and I wanted to make this lesson and share it with you. I'll not only show you the tab for the exercise I'm playing, but more importantly explain the building blocks I'm using to create this sequence. Enjoy! (- David Potsiadlo, Jan 16 2019)
 
 ## Full exercise
 

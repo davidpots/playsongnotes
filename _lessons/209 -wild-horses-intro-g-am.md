@@ -6,6 +6,8 @@ date_published: 2019-01-24
 category: practice_log
 tags: [Practice Log, Key of G, Classic Rock, 1970s, Licks & Fills]
 hidden_tags: [The Rolling Stones]
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24194426
 redirect_from:
@@ -22,7 +24,11 @@ redirect_from:
 
 <!-- Coming soon! -->
 
-## Video timestamps
+## Editor's notes
+
+Last week I started learning the Rolling Stones song "Wild Horses" -- and it didn't take me long to realize how much subtle guitar layering can be heard in the intro to the song. The intro is a few transitions between G and A-minor - but in that simplicity there's a whole lotta acoustic elegance you can tap into, even if you're playing by yourself. In this lesson, I'll show you a few ways you can take a solo acoustic approach to capturing the spirit of the Wild Horses intro –- and at the end of the day, you'll come away with some fun little tricks you can use whenever you find yourself strumming the G and A-minor chords. Enjoy! -David Pots (Jan 22, 2019)
+
+Video timestamps:
 
 - 0:00 Playthrough & agenda
 - 2:00 G & A-minor, four counts each
@@ -36,11 +42,13 @@ redirect_from:
 - 17:03 Riff 5 of 6
 - 18:01 Riff 6 of 6
 - 19:41 Farewell & final advice
-<!-- Coming soon! -->
 
-## Editor's notes
+## Best acoustic version by The Rolling Stones
 
-Last week I started learning the Rolling Stones song "Wild Horses" -- and it didn't take me long to realize how much subtle guitar layering can be heard in the intro to the song. The intro is a few transitions between G and A-minor - but in that simplicity there's a whole lotta acoustic elegance you can tap into, even if you're playing by yourself. In this lesson, I'll show you a few ways you can take a solo acoustic approach to capturing the spirit of the Wild Horses intro –- and at the end of the day, you'll come away with some fun little tricks you can use whenever you find yourself strumming the G and A-minor chords. Enjoy! -David Pots (Jan 22, 2019)
+...in my opinion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTNOarAmv3Q?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 ## The lay of the land for this practice exercise
 

@@ -11,6 +11,8 @@ slug: "213"
 tags: [Full Song Lesson, Key of D, Country, 1980s]
 redirect_from:
   - /songs/steve-earle-copperhead-road/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24534853
 ---
@@ -21,7 +23,11 @@ patreon_lesson_url: https://www.patreon.com/posts/24534853
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+In this lesson I'll teach you to play the Steve Earle song "Copperhead Road" - complete with the intro tab, chords needed for the verse & chorus, the strumming patterns you'll use, and a whole lotta additional tips & tricks to get you on your way. This song came in by request on my Patreon page - I hadn't heard it before, but am sure glad I know it now! Great fun to play, lots of joy to be had working out that droning D riff. Enjoy!
+
+Video timestamps:
 
 - 0:00 Playthrough & overview
 - 2:11 Chords needed

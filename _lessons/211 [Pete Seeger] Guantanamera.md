@@ -11,6 +11,8 @@ slug: "211"
 tags: [Full Song Lesson, Key of A, Folk, 1960s]
 redirect_from:
   - /songs/pete-seeger-guantanamera/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24356142
 ---
@@ -24,7 +26,17 @@ patreon_lesson_url: https://www.patreon.com/posts/24356142
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 
-## Video timestamps
+## Editor's notes
+
+Guantanamera is a song I've had on my list for a few years now, and after a couple recent viewer requests it found itself on the top of the list. I first heard it via Pete Seeger, and in spending some time learning it discovered several other fun versions of it (The Sandpipers version is probably my favorite, musically). I'll teach you the chords (no capo), some easy strumming patterns, and then crank up the difficulty a bit and show you a fancy intro riff as well as a few ways to add flourish while playing. I hope you enjoy!
+
+Capo guide:
+
+- Capo 4 to play with Pete Seeger's Carnegie Hall Concert version
+- Capo 5 to play with the Sandpiper's version
+- Capo 6 to play with Pete Seeger's Sweden 1968 version
+
+Video timestamps
 
 - 0:00 Playthrough & overview
 - 1:36 Chords needed
