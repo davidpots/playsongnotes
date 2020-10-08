@@ -5,6 +5,8 @@ title: How to play Fadd9
 slug: "177"
 date_published: 2018-09-24
 tags: [Tips & Techniques, Learning Chords, Key of C]
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21646757
 redirect_from:

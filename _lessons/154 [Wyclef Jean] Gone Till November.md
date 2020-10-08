@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1990s, Drop E, Fingerstyle]
 slug: "154"
 redirect_from:
   - /songs/wyclef-jean-gone-till-november/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31429770
 ---
@@ -21,7 +23,11 @@ patreon_lesson_url: https://www.patreon.com/posts/31429770
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps
+## Editor's notes
+
+In this video I'll teach you how to play the intro & verse riff of "Gone Till November" by Wyclef Jean – with tabs. In addition to showing you exactly how to play it, I'll walk you through step-by-step how to go about learning and practicing this tricky sequence. If you want to hear a lesson for the full song, speak up and let me know!
+
+Video timestamps:
 
 - 0:00 Playthrough & lesson overview
 - 1:28 Step 1: It all starts w/ the E major chord

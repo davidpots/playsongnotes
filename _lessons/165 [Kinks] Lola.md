@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "165"
 redirect_from:
   - /songs/kinks-lola/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-25593108
 ---
@@ -22,7 +24,15 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-25593108
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+Lola, by The Kinks, is one of the many fantastic covers that lawyer-turned-guitarist Mike Masse covers on his excellent YouTube channel. After hearing his version so many times, I decided to work out what he is playing in the intro to the song. [Here is the video](https://www.youtube.com/watch?v=qWWU5x5RLbI) of Mike’s version.
+
+While this riff I came up with isn’t 100% what he plays, it’s still a super fun sequence to have fun with. So, I wanted to share! I hope you dig it.
+
+## Mike Masse's cover version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWWU5x5RLbI?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 

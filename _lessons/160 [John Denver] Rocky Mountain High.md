@@ -11,20 +11,23 @@ yt_video_id: _________
 slug: "160"
 redirect_from:
   - /songs/john-denver-rocky-mountain-high/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27883309
 ---
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hsuk09Kockw?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hsuk09Kockw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this lesson I'll show you how to play "Rocky Mountain High" by John Denver. I'll explain the chords needed, how to tune your guitar to Drop-D, playing the main riff (with tabs), and how to strum the verse & chorus section. This is a fun song to play, whether you want to get advanced with it or keep it simple.
 
-## Video timestamps
+Video timestamps
 
 - 0:00 Playthrough & greeting
 - 2:07  Tuning & capo
@@ -32,12 +35,6 @@ patreon_lesson_url: https://www.patreon.com/posts/27883309
 - 10:45 Chords shapes needed
 - 11:58 Verse w/ strumming
 - 13:27 Chorus
-
-
-
-
-
-
 
 ## Lyrics w/ chords
 

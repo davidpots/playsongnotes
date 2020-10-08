@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "157"
 redirect_from:
   - /songs/neil-young-my-my-hey-hey/
-
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36440222
 ---
@@ -21,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/36440222
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PCYFKxOPiKk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this video I'll teach you how to play the intro riff of "My My, Hey Hey" by Neil Young on an acoustic guitar. I'll teach you the chords, show the tabs, explain the strumming, and walk you through a step-by-step process of how to go about learning this riff.
 
 ## Lyrics w/ chords
 
@@ -57,7 +62,7 @@ patreon_lesson_url: https://www.patreon.com/posts/36440222
         ...And once you're gone you can never come   back
                     Am              G               Fmaj7
         When you're... out of the blue and into the black
-        
+
             [ instrumental verse 1x, using intro riff & harmonica ]
 
         Am             G                     Fmaj7
@@ -68,7 +73,7 @@ patreon_lesson_url: https://www.patreon.com/posts/36440222
         ...It's better to burn out... than it is to rust
         Am              G                    Fmaj7
         ...The king is gone, but he's not forgotten
-        
+
             [ play intro riff 1x ]
 
         Am     G       Fmaj7
@@ -79,7 +84,7 @@ patreon_lesson_url: https://www.patreon.com/posts/36440222
         ...There's more to the picture... than meets the eye
         Am     G       Fmaj7
         ...Hey hey, my my
-        
+
             [ instrumental verse 1x, using intro riff & harmonica, fade to end ]
 
 ## Tune down a whole step to play with Neil's version

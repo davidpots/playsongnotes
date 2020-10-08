@@ -7,6 +7,8 @@ title: Two-finger acoustic blues in Drop-D Tuning
 tags: [Warm Up Exercise, Key of D, Drop D, Blues]
 slug: "163"
 date_published: 2018-07-24
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41294133
 ---
@@ -16,6 +18,10 @@ patreon_lesson_url: https://www.patreon.com/posts/41294133
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MjDFMhFr11M?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll show you a warm-up exercise built around simple blues riffs in drop-D tuning. This uses only 2 strings – and is easier to play than its standard tuning counterpart. If your guitar is regularly in drop-d, this is a great little exercise to pick up and play to get the blood flowing.
 
 ## Simple blues riff
 

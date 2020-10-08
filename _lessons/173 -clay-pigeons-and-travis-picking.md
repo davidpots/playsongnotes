@@ -6,6 +6,8 @@ date_published: 2018-09-13
 category: practice_log
 tags: [Practice Log, Country, Key of G, 2000s, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking, finger picking, finger style, john prine, blaze foley]
+pdf_version: v1
+pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-21390085
 redirect_from:

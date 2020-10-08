@@ -5,6 +5,8 @@ slug: "168"
 date_published: 2018-08-06
 category: practice_log
 tags: [Practice Log, Classic Rock, Key of D, Drop D, 1970s]
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-20607117
 redirect_from:

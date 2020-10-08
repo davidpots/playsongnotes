@@ -7,6 +7,8 @@ title: Easy E Fingerpicking Fun
 tags: [Warm Up Exercise, Learning Chords, Key of E]
 slug: "171"
 date_published: 2018-09-02
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21176858
 ---
@@ -16,6 +18,10 @@ patreon_lesson_url: https://www.patreon.com/posts/21176858
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aj07PvITz_A?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll show you how to play a beginner-friendly fingerpicking sequence in the key of E-major - which is a great way to warm up when picking up the guitar. The foundational sequence only needs 3 chords, each of which only require 3 notes. This makes the chord shapes easy to learn, and also ensures the transitions between each chord aren't complicated. I'll show you how to get quickly started, and then show a few ways to spice things up if you're hungry for some additional challenge.
 
 ## Warm up #1 (easy)
 

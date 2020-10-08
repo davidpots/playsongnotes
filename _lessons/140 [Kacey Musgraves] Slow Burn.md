@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "140"
 redirect_from:
   - /songs/kacey-musgraves-slow-burn/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33283103
 ---
@@ -20,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/33283103
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Jl09fiSVSk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this video I'll teach you how to play Slow Burn by Kacey Musgraves on the acoustic guitar. This is the opening track from Kacey Musgraves 2018 album "Golden Hour". It uses the same 4 chords for most of the song... I'll show you play to play them and also break down the strumming pattern.
 
 ## How to play the chords
 

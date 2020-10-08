@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "153"
 redirect_from:
   - /songs/radiohead-creep/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/pdf-creep-by-153-30194939
 ---
@@ -20,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/pdf-creep-by-153-30194939
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T5N1Z1RYxGk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this video I'll teach you how to play Creep by Radiohead. Specifically, I'll explain how to play this song without requiring barre chords – which can be a deal-breaker for guitarists who are just starting out. I'll explain how a single 3-finger chord voicing can be used to play each chord in this song. I'll also explain the strumming patterns and show some other ways to add flourish. Great song, I hope you enjoy this lesson!
 
 ## Lyrics w/ chords
 

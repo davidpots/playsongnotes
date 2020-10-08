@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "175"
 redirect_from:
   - /songs/jenny-lewis-acid-tongue/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21567003
 ---
@@ -19,10 +21,11 @@ patreon_lesson_url: https://www.patreon.com/posts/21567003
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2dzhnN_wsQ8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this lesson I'll teach you how to play "Acid Tongue" by Jenny Lewis. Chords, strumming pattern, intro tab, etc – it's all here! This was a very dear song to me back when it came out in 2009 – and I 100% recommend the album of the same name. I hope you dig this lesson!
 
 ## Chords w/ lyrics
 

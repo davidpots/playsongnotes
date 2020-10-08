@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "156"
 redirect_from:
   - /songs/guns-n-roses-sweet-child-o-mine/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27269521
 ---
@@ -23,19 +25,19 @@ patreon_lesson_url: https://www.patreon.com/posts/27269521
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
-
-
+In this video I'll teach you how to play the intro riff of "Sweet Child O' Mine" by Guns N' Roses, simplified for an acoustic guitar. I'll show you the tabs needed for this riff, walking you through exactly how to go about learning this for the first time (I'll be using standard tuning). I hope you enjoy!
 
 ## Quick notes about my acoustic arrangement
 
-*I'm in standard tuning*
+👉 *I'm in standard tuning*
 Slash tunes all strings on his guitar down 1/2 step (Eb Ab Db Gb Bb Eb). To keep things easy for you, I'm going to keep things in standard tuning (E A D G B E).
 
-*I'm using an easier fretboard position*
+👉 *I'm using an easier fretboard position*
 Slash plays things up between the 11th & 15th frets (tough!), but I'll bring the riff down one octave so it uses the familiar D-major chord position (easy!).
 
-*I'm simplifying a few of the notes*
+👉 *I'm simplifying a few of the notes*
 For the sake of practicality, I'm deviating from what Slash plays for just a few of the notes. 99% of listeners won't notice the difference!
 
 ## Intro riff (without ending sequence)
