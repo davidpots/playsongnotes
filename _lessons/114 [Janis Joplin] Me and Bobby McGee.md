@@ -12,6 +12,8 @@ yt_video_id: _________
 slug: "114"
 redirect_from:
   - /songs/janis-joplin-me-and-bobby-mcgee/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27233343
 ---
@@ -19,7 +21,7 @@ patreon_lesson_url: https://www.patreon.com/posts/27233343
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SSv0ZxZQnxs?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SSv0ZxZQnxs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -27,7 +29,11 @@ patreon_lesson_url: https://www.patreon.com/posts/27233343
 
 
 
-## Timestamps for this lesson:
+## Editor's notes
+
+In this lesson, I'll teach you how to play "Me and Bobby McGee" on guitar. Originally written by Kris Kristofferson, this lesson is more influenced by the Janis Joplin version of the song. This is one of the first songs I learned on guitar! I'll show you the chords needed, the strumming pattern, and explain how to change keys midway through the song.
+
+Video timestamps:
 
 - 0:00 Playthrough (partial)
 - 0:57 Greeting

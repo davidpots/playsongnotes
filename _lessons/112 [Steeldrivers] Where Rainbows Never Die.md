@@ -8,9 +8,12 @@ year: 2010
 category: full_song
 yt_video_id: _________
 tags: [Full Song Lesson, 2010s, Country, Key of D]
+hidden_tags: [Chris Stapleton]
 slug: "112"
 redirect_from:
   - /songs/steeldrivers-where-rainbows-never-die/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31705934
 ---
@@ -25,7 +28,11 @@ If you'd like a print-friendly PDF of this lesson for offline use, view my <a hr
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps
+## Editor's notes
+
+In this lesson, I'll teach you how to play the intro riff "Where Rainbows Never Die" by the Steeldrivers. This is a fun riff, repeating over the D-A-Bm-G chords, which is heard through most of the song. I'll break down how to approach this riff from a practicing standpoint – and show tabs breaking down the musical phrases to tackle one by one.
+
+Video timestamps:
 
 - 0:00 Playthrough & lesson overview
 - 2:27 Where I start the actual lesson

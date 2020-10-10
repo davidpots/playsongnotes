@@ -6,6 +6,8 @@ song_title:  The Year That Clayton Delaney Died
 artist: Tom T. Hall
 year: 1971
 tags: [Full Song Lesson, 1970s, Country, Key of C, Walking Bass Lines]
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29202320
 category: full_song
@@ -22,6 +24,10 @@ redirect_from:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dbpd_loJUu8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this video I'll show a tutorial for the the classic country intro lick heard in "The Year That Clayton Delaney Died" by Tom T. Hall. Even if you've never heard this song before, I'll bet the style of this intro lick is one you feel like you've heard a thousand times. It uses only two chords, but requires a bit of practice to pull of... I'll show you how it's done, complete with some tabs and exercise to break things into small pieces.
 
 ## Capo 1st fret
 

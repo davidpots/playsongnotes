@@ -11,28 +11,32 @@ yt_video_id: _________
 slug: "128"
 redirect_from:
   - /songs/greatest-showman-a-million-dreams/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24994190
 ---
 
 ## Video Lesson
 
-Guitar cover (me playing the intro, verse, pre-chorus, and chorus).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d1GmGrw_uB0?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-Guitar lesson (me carefully explaining how to play each section of the song).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpGEmNv265Q?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this lesson I'll show you how to play "A Million Dreams" from the soundtrack of The Greatest Showman - complete with chords, intro tabs, and strumming pattern help! Stick around, you'll enjoy yourself.
 
+Lesson timestamps:
+
+- 0:58 Intro fingerpicking w/ tabs
+- 8:38 Verse/chorus chords & strumming
+
+## Play-along cover of entire song
+
+Here's a video of me playing the intro, verse, pre-chorus, and chorus.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1GmGrw_uB0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Intro tab
 
@@ -171,4 +175,4 @@ Note that "D" and "D/F#" are interchangeable... the latter is an optional voicin
       C (let ring)
     A million dreams for the world we're gonna make
 
-Repeat the progressions above for the additional verse and pre-chorus and chorus sections. If you want me to teach the bridge, let me know :) Thanks and good luck!
+Repeat the progressions above for the additional verse and pre-chorus and chorus sections. Thanks and good luck!

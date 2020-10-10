@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "135"
 redirect_from:
   - /songs/willie-nelson-angel-flying-too-close-to-the-ground/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23810049
 ---
@@ -21,7 +23,11 @@ patreon_lesson_url: https://www.patreon.com/posts/23810049
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson agenda
+## Editor's notes
+
+In this video I'll show you a guitar tutorial for "Angel Flying Too Close to the Ground" by Willie Nelson. I'll teach you the chords, strumming pattern, and various other bits and pieces you'll need to play the song. Check it out and let me know if you have questions!
+
+Video timestamps:
 
 - 0:00 Greeting & lesson agenda
 - 1:18 Song structure
@@ -30,8 +36,6 @@ patreon_lesson_url: https://www.patreon.com/posts/23810049
 - 7:32 Strumming pattern
 - 9:17 Walk-up and walk-down tabs
 - 11:13 Playthrough
-
-
 
 ## Lyrics w/ chords
 

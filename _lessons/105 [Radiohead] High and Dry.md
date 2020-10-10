@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "105"
 redirect_from:
   - /songs/radiohead-high-and-dry/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -20,6 +22,11 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2kMdMlChgpM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll teach you how to play "High and Dry" by Radiohead, complete with chords and intro tabs. This song is from the 1995 album "The Bends," which personally is my favorite Radiohead album. I'll show you two different ways to play the intro riff – one on the higher frets (thicker strings), and another on the lower frets (thinner strings). I'm not sure which is the way Radiohead actually plays it – but to my ear, they both sound valid. Otherwise, the song uses only 3 chords in a single progression that repeats for the entire song.  I hope you enjoy!
+
 
 ## Lyrics w/ chords
 

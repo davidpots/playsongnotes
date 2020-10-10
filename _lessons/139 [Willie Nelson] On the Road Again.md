@@ -11,26 +11,28 @@ yt_video_id: _________
 slug: "139"
 redirect_from:
   - /songs/willie-nelson-on-the-road-again/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28793602
 ---
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/piPpGni_dZA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/piPpGni_dZA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson agenda
+## Editor's notes
+
+In this video I'll show a guitar tutorial for an EASY version of "On the Road Again" by Willie Nelson. I'll explain how to play the song in the easiest possible way - using chords in the key of C, simple strumming pattern, and no capo. Perfect for a campfire version. If you're looking to learn a more complex version of the song (key of E, etc) – this will be helpful as well!
+
+Video timestamps:
 
 - 0:00 Greeting & lesson agenda
 - 1:48 Chords needed
 - 5:30 Strumming pattern
 - 7:04 Verse & chorus progressions
-
-## Print-friendly version of this lesson
-
-To download the print-friendly PDF I show in my video lesson, [become a supporter on my Patreon page](https://www.patreon.com/posts/28793602). One month minimum ($3, cancel anytime) gets you access to PDFs of all my new & recent lessons ([view a free sample & see list of all PDFs](http://playsongnotes.com/downloads)). Thanks for supporting me and this project!
 
 ## Capo 4th fret to play with Willie
 

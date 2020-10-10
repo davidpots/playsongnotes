@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "115"
 redirect_from:
   - /songs/camila-cabello-havana/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38165123
 ---
@@ -20,14 +22,16 @@ patreon_lesson_url: https://www.patreon.com/posts/38165123
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ua_VdR6t2DA?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ua_VdR6t2DA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In this lesson, I'll teach you how to play a fingerstyle version of "Havana" by Camila Cabello. This song only uses 3 chords, but has a fantastic Latin sound that is fun to practice on guitar – even if you've never heard this song before. I'll show these chords (with tabs), and break down how to practice things step by step.
 
 ## Capo 3rd fret
 
@@ -46,9 +50,9 @@ This entire song uses these three chords, in this order, over and over again.
          Em   C    B7
 
 ## Lyrics with chords
-  
+
     Capo 3rd fret
-    
+
     INTRO
         e ––––––––0––x––––––––––––––––––––––––––––––––––––––––
         B ––––––––0––x––––––––1–––––––––––0––––––––0––1––0––––
@@ -78,7 +82,7 @@ This entire song uses these three chords, in this order, over and over again.
             I knew him forever in a minute
                 Em               C        B7
             And papa says he got malo in him
-         
+
             Em           C                B7
             Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh
                              Em         C                B7
@@ -89,9 +93,9 @@ This entire song uses these three chords, in this order, over and over again.
             And then I had to tell him, I had to go..... oh na-na-na-na-na (Woo)
 
     [ Chorus ]
-        
+
         [ Verse 2: Young Thug rap ]
-        
+
     [ Chorus ]
 
 ## How to learn the riff step by step

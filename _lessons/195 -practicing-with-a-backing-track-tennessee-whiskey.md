@@ -43,6 +43,7 @@ Video timestamps:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iKFtc8WcWPs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Note, this track begins with:
+
 1. 2 measures of drums only, to help you get in sync with the rhythm, which leads to...
 2. 1 full sequence of 8 measures, with the lead guitar track playing, and then...
 3. 5+ minutes of the 8 measure sequence repeating over and over, without the lead guitar

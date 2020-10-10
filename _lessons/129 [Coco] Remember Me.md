@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "129"
 redirect_from:
   - /songs/coco-remember-me/
+pdf_version: v2
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31611592
 ---
@@ -23,6 +25,9 @@ patreon_lesson_url: https://www.patreon.com/posts/31611592
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+In this video I'll perform a fingerstyle cover of "Remember Me" from Coco, with tabs. This is an "easy" version, in that, after watching many other fingerstyle versions I put this together as the most accessible fingerstyle version I could muster. Note, this is still a tough song to play! But it's the easiest version that still captures the distinct sound of the song, in my opinion. I hope you enjoy!
 
 
 ## Fingerstyle tabs

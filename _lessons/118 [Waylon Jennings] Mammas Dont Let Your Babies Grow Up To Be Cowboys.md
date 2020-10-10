@@ -11,6 +11,8 @@ slug: "118"
 tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
 redirect_from:
   - /songs/waylon-jennings-mammas-dont-let-your-babies-grow-up-to-be-cowboys/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28515581
 ---
@@ -21,7 +23,11 @@ patreon_lesson_url: https://www.patreon.com/posts/28515581
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Timestamps:
+## Editor's notes
+
+In this lesson, I'll teach you how to play an acoustic guitar version of "Mammas Don't Let Your Babies Grow Up to be Cowboys" as performed by Willie Nelson and Waylon Jennings (1978). This song only requires 3 chords, but I'll also show the optional key change used in the second verse. Chords, tabs, strumming patterns, playthrough – it's all included!
+
+Video timestamps:
 
 - 0:00 Lesson overview
 - 1:28 Chords needed
