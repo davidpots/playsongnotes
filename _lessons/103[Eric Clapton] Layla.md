@@ -6,10 +6,10 @@ song_title:  Layla
 artist: Eric Clapton
 year: 1992
 tags: [Full Song Lesson, 1990s, Classic Rock, Key of Dm]
-pdf_version: v1
-pdf_numpages: 2
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22744103
+patreon_lesson_url: https://www.patreon.com/posts/42628404
 category: full_song
 yt_video_id: _________
 slug: "103"
@@ -42,8 +42,9 @@ Video timestamps:
 - 11:45 Advanced riff variations
 - 13:55 Farewell
 
+## Audio of Eric Clapton playing it
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZV7akaSo0s?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Song chord progressions
 
@@ -65,17 +66,17 @@ Verse:
 
 ## Verse chord shapes
 
-    E ––––4–––––4––––––––––––––0––––0–––––2–––––––––––––––
-    B ––––5–––––4––––5––––7––––0––––3–––––2––––4––––2–––––
-    G ––––4–––––5––––5––––7––––1––––1–––––2––––4––––2–––––
-    D ––––6–––––4––––5––––7––––2––––2–––––4––––4––––2–––––
-    A ––––4–––––6––––3––––5––––2––––2–––––4––––2––––0–––––
-    E ––––––––––4––––––––––––––0––––0–––––2–––––––––––––––
-         C#m7  G#7   C    D    E    E7   F#m   B    A                          
+    E –––1––––4–––––4––––––––––––––0––––0–––––2––––––––––––––––––
+    B –––3––––5–––––4––––5––––7––––0––––3–––––2––––3––––4––––2–––
+    G –––2––––4–––––5––––5––––7––––1––––1–––––2––––3––––4––––2–––
+    D –––0––––6–––––4––––5––––7––––2––––2–––––4––––3––––4––––2–––
+    A ––––––––4–––––6––––3––––5––––2––––2–––––4––––1––––2––––0–––
+    E ––––––––––––––4––––––––––––––0––––0–––––2––––––––––––––––––
+         Dm  C#m7  G#7   C    D    E    E7   F#m   Bb   B    A   
 
 ## Intro riff
 
-First up, note that I am using these chord shapes for the riff. Notably, I am simplifying things by playing only 3 strings per each chord. The notes below in paranthesis I'm not playing - you can if you wish, but note it makes things tougher for you.
+First up, note that I am using these chord shapes for the riff. Notably, I am simplifying things by playing only 3 strings per each chord. The notes below in parentheses I'm not playing - you can if you wish, but note it makes things tougher for you.
 
 The idea is to spend two counts on each chord, in the order shown below. Then repeat.
 
@@ -117,6 +118,28 @@ To transition into the verse, end the riff as follows:
     E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
                 Dm            Bb             C            Am  C   
 
+## Strumming pattern options
+
+The patterns I recommend are as follows. First is this simpler (?) one, which uses emphasized/accented down-strums on the "1" and "3" counts, with lighter "down-ups" happening on the "2 +" and "4 +" counts.
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D . D U D . D U D . D U D . D U        
+    >       >       >       >
+
+Spoken, this would be:
+
+    "DOWN, down-up DOWN, down-up DOWN, down-up DOWN, down-up"
+
+Another option is to do this more typical strum pattern. I'm showing the down-strum on the "1" count as emphasized/accented, though that's optional.
+
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    D . D U . U D U D . D U . U D U
+    >               >
+
+Which would be spoken as:
+
+    "DOWN, down-up, up-down-up, DOWN, down-up, up-down-up"
+
 ## Lyrics w/ chords
 
     (intro, played with riff):
@@ -142,23 +165,41 @@ To transition into the verse, end the riff as follows:
         Dm      Bb     C       Am   C
         Mind....
 
-    I tried to give you consolation
-    When your old man had let you down
-    Like a fool, I fell in love with you
-    Turned my whole world upside down
+    C#m7                         G#7
+    ...I tried to give you consolation
+    C#m7             C       D       E      E7  
+    ...When your old man had let you down
+    F#m       B       E                 A
+    ...Like a fool, I fell in love with you
+    F#m              B                  E       A
+    ...You turned my whole world upside down... Lay----
 
-        Layla, you've got me on my knees
-        Layla, I'm begging, darling please
-        Layla, darling won't you ease my worried mind
+            Dm   Bb           C            Dm
+         Layla........ you've got me on my knees
+            Dm   Bb         C                Dm
+         Layla......... I'm begging, darling please
+            Dm   Bb     C                 Dm              
+         Layla......... darling won't you ease my worried
+         Dm      Bb     C       Am   C
+         Mind....
 
-    Let's make the best of the situation
-    Before I finally go insane
-    Please don't say I'll never find a way
-    And tell me all my love's in vain
+    C#m7                     G#7
+    ...Make the best of the situation
+    C#m7        C       D     E      E7  
+    ...Before I finally go insane
+    F#m             B         E            A
+    ...Please don't say I'll never find a way
+    F#m            B                 E      A
+    ...And tell me all my love's in vain... Lay----
 
-        Layla, you've got me on my knees
-        Layla, I'm begging, darling please
-        Layla, darling won't you ease my worried mind
+         [ chorus ]  => [ instrumental chorus w/ solo ] => [ chorus x2 ]
+
+            Dm   Bb           C            Dm
+         Layla........ you've got me on my knees
+            Dm   Bb         C                Dm
+         Layla......... I'm begging, darling please
+            Dm   Bb     C  (let ring)                     Dm (let ring, end)
+         Layla......... darling won't you ease my worried mind
 
 ## Advanced notes about the intro riff
 
