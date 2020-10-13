@@ -12,6 +12,8 @@ hidden_tags: [summer of 69]
 slug: "25"
 redirect_from:
   - /songs/bryan-adams-summer-of-69/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821743
 ---
@@ -24,8 +26,19 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821743
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+This video is a guitar lesson for "Summer of '69" by Bryan Adams. It includes chords, tabs, and strumming pattern -- with a nice focus on playing the acoustic riff heard in the intro of the MTV Unplugged version of the song.
 
+Video timestamps:
+
+- 0:00 Playthrough & lesson overview
+- 2:50 Chords (basic)
+- 4:08 Chords (D-sus & A-sus variations)
+- 6:10 Strumming Pattern (basic)
+- 7:37 Intro acoustic riff (strummed)
+- 9:36 Intro acoustic Riff (picked)
+- 11:48 Bridge
 
 ## Lyrics
 

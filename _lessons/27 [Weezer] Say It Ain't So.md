@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1990s, Rock, Key of E]
 slug: "27"
 redirect_from:
   - /songs/weezer-say-it-ain-t-so/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23879773
 ---
@@ -21,7 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/23879773
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Lesson timestamps
+## Editor's notes
+
+This video is a guitar lesson for "Say It Ain't So" by Weezer. It includes chords, tabs, and strumming pattern -- showing how to play this song in standard tuning on an acoustic guitar.
 
 - 0:00 Playthrough
 - 1:55 About this lesson

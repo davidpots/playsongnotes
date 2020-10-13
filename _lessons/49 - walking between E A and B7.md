@@ -5,6 +5,8 @@ title: Walking up & down between the E, A, and B7 (bass note transitions)
 slug: "49"
 date_published: 2017-02-27
 tags: [Tips & Techniques, Key of E, Walking Bass Lines]
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33107748/
 ---
@@ -17,6 +19,10 @@ patreon_lesson_url: https://www.patreon.com/posts/33107748/
 <!-- Coming soon! -->
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I show a practice tip on how you can transition between the chords of E, A, and B7 -- specifically by playing bass notes that walk up and down between these chords. This is a very common technique you'll find in lots of country music, especially from artists like Johnny Cash (e.g., Walk the Line) and Willie Nelson (e.g., Angel Flying Too Close to the Ground). I'll show you the basics of how to play the chords used (E, A, and B7 -- including tabs) and then break down the fundamentals of this technique.
 
 ## The core walk-ups and walk-downs of this lesson
 

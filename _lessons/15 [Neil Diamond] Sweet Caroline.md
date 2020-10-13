@@ -25,13 +25,19 @@ This is played with no capo, using a relatively easy strumming pattern. Note thi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NnzWkdOZVY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Video lesson
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-This one is recorded with capo 2nd fret, to match Neil Diamond's album version.
+## Editor's notes
+
+Hey friends - here's a play-along cover of Sweet Caroline (Neil Diamond), played in standard tuning with no capo. I'll show the chords and lyrics as I play, in addition to the strumming pattern - so you can follow along.
+
+Make sure you grab the PDF chord sheet – it's a great way to practice & fully learn this song outside of this video. And of course you'll be supporting me & this very independent project of building this library of videos and PDF chord sheets.
+
+## Full song video lesson
+
+This one is recorded with capo 2nd fret, to match Neil Diamond's album version. Note, this is one of the very first videos I ever made -- so some of the graphics / production / etc aren't as tight & polished as in my video above, which was made after I had a few hundred videos under my belt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XHpS7HDaymo?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Chords w/ lyrics
 

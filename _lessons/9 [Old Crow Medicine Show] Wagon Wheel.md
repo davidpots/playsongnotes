@@ -5,6 +5,8 @@ title: '"Wagon Wheel" by Old Crow Medicine Show'
 song_title:  Wagon Wheel
 artist: Old Crow Medicine Show
 year: 2004
+pdf_version: v1
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29901798
 category: full_song
@@ -21,6 +23,10 @@ redirect_from:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7BJVJz0rxZ8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+This video will teach you how to play "Wagon Wheel" by Old Crow Medicine Show on acoustic guitar. I've posted the chords, tabs, and lyrics for this song at the link above. This will also work for the Darius Rucker version.
 
 ## Chords w/ lyrics
 

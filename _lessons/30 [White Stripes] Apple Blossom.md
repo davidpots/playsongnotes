@@ -12,6 +12,8 @@ hidden_tags: [Hateful Eight, Tarantino]
 slug: "30"
 redirect_from:
   - /songs/white-stripes-apple-blossom/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28342366
 ---

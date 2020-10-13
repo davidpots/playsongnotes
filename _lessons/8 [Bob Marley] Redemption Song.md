@@ -11,6 +11,8 @@ slug: "8"
 tags: [Full Song Lesson, 1980s, Rock, Key of G]
 redirect_from:
   - /songs/bob-marley-redemption-song/
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32569502
 ---
@@ -22,7 +24,9 @@ patreon_lesson_url: https://www.patreon.com/posts/32569502
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+This video will teach you how to play "Redemption Song" by Bob Marley on acoustic guitar. Chords, tabs, strumming, and lyrics are available further below on this page (and in my print-friendly PDF above, as well).
 
 ## Chords w/ lyrics
 

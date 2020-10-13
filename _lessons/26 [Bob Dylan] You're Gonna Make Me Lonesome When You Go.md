@@ -9,6 +9,8 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of E]
 slug: "26"
 redirect_from:
   - /songs/bob-dylan-you-re-gonna-make-me-lonesome-when-you-go/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/40734544
 ---
@@ -18,6 +20,19 @@ patreon_lesson_url: https://www.patreon.com/posts/40734544
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+Here's a guitar lesson showing you how to play "You're Gonna Make Me Lonesome When You Go" by Bob Dylan (in standard tuning). This is a great song from the album "Blood on the Tracks," which I love love love. As I note in the lesson, this is likely not how Bob Dylan played (plays) the song -- it's unique arrangement I pieced together myself -- so take it for what it's worth. This lesson includes chords, tabs, and strumming pattern -- with a nice focus on how to emphasize the bass note of each chord as part of the strumming pattern.
+
+Video timestamps:
+
+- 2:34 Song overview
+- 2:51 Verse chords needed
+- 4:01 Verse strumming w/ simple bass line
+- 4:55 Verse strumming w/ adv. bass line
+- 5:31 Refrain chords needed
+- 6:40 Refrain strumming
 
 ## Lyrics and chords
 
@@ -176,8 +191,8 @@ And so on.
 Finally, here's a way to use the bass-note emphasis while periodically alternating bass notes on the chords that you stay on for more than one measure. This adds difficulty, but is quite fun to practice & play -- and I think sounds great.
 
     See PDF for tab diagram.
-    
-    
+
+
     <!-- E ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––––0–0–––––|–
     B ||––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––0–0–0–––––––0–––––0–0–––––|–
     G ||––––––1–––1–1–1–––––––1–––1–1–1–––––––2–––2–2–2–––––––2–––––2–2–––––|–

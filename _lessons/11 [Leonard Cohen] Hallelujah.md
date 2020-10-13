@@ -10,7 +10,8 @@ yt_video_id: _________
 slug: "11"
 redirect_from:
   - /songs/leonard-cohen-hallelujah/
-
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26843157
 ---
@@ -21,7 +22,11 @@ patreon_lesson_url: https://www.patreon.com/posts/26843157
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+This video will teach you how to play "Hallelujah" by Leonard Cohen on acoustic guitar. I've posted the chords, tabs, and lyrics for this song at the link above.
+
+Video timestamps
 
 - 0:00 Preview & overview
 - 1:20 Strumming pattern & rhythm basics

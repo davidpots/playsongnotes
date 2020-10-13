@@ -12,28 +12,28 @@ yt_video_id: _________
 slug: "42"
 redirect_from:
   - /songs/la-la-land-city-of-stars/
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39465384
 ---
 
 ## Video lesson
 
-Full lesson:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/caBDotrfiLc?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-Cover:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-Get the PDF below -- but note if you click the link below before Saturday, July 19th @ 7am CST -- the link below will not work (try back after the time above).
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## About this lesson
+## Editor's notes
 
 Welcome to my guitar lesson for an acoustic version of "City of Stars," specifically the duet version that is the 9th track of the La La Land soundtrack. This lesson will show you a relatively "strum-along" version of the song, which uses some strumming and some fingerpicking. Some important notes:
 
 - Capo on the 3rd fret. I'm doing this so you don't need to use crazy barre chords, which are much harder to play. If you don't have a capo, you can use the notes/tabs/chords I'm showing you, but you won't be able to play along with my video (or the soundtrack) and be in the same key.
 - This isn't meant to be a super-precise recreation of the piano version, note-for-note. There's a lot of subtlety and complexity to the piano soundtrack version, and this arrangement most certainly does not intend to capture all the intricacies. My lesson will, however, get to the spirit of things.
+
+## Full play-along cover
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Chords needed
 

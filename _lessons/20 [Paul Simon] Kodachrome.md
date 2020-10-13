@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "20"
 redirect_from:
   - /songs/paul-simon-kodachrome/
-
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27711802
 ---
@@ -22,7 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/27711802
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-## Video timestamps
+## Editor's notes
+
+This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my cover of the song, including the tabs, chords, and lyrics needed to play the entire song.
 
 - 0:00 Playthrough & agenda
 - 3:27 Chords used

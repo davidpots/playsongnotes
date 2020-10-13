@@ -1,0 +1,6375 @@
+I"Ӭ<div style="text-align: center;">
+  <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
+    <div style="position: relative; display: table; width: 100%;">
+      <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
+      <input type="submit" value="Search" id="search-button" style="float: left; width: 20%; max-width: 120px;" />
+    </div>
+  </form>
+</div>
+
+<script src="/js/jquery.js"></script>
+
+<script>
+
+
+  var lessons = [
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Tennessee Whiskey\" by Chris Stapleton",
+        "category": "Full Song",
+        "url": "/lessons/331/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/42581405",
+        "pdf_image": "<img src='/images/pdfs/preview/331.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "331"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Surrender\" (acoustic) by Cheap Trick",
+        "category": "Full Song",
+        "url": "/lessons/330/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/42072722",
+        "pdf_image": "<img src='/images/pdfs/preview/330.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "330"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Rapid-fire Q&A: Up-strums, tricky rhythms, muting with your thumb, and more",
+        "category": "General & About This Channel",
+        "url": "/lessons/329/",
+        "date": "Sep 12, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "329"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Old Man\" by Neil Young",
+        "category": "Full Song",
+        "url": "/lessons/328/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/41525361",
+        "pdf_image": "<img src='/images/pdfs/preview/328.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "328"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Santeria\" by Sublime (easy-strum version)",
+        "category": "Full Song",
+        "url": "/lessons/327/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "327"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Learning the opening chord to Neil Young's Old Man",
+        "category": "Practice Log",
+        "url": "/lessons/326/",
+        "date": "Sep 4, 2020",
+        "patreon_url": "https://www.patreon.com/posts/41270135",
+        "pdf_image": "<img src='/images/pdfs/preview/326.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "326"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Silencing the strings on the 2 count (percussive technique)",
+        "category": "Tip & Technique",
+        "url": "/lessons/325/",
+        "date": "Aug 23, 2020",
+        "patreon_url": "https://www.patreon.com/posts/40767963",
+        "pdf_image": "<img src='/images/pdfs/preview/325.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "325"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Patience\" by Guns N' Roses (play-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/324/",
+        "date": "Aug 22, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34822415",
+        "pdf_image": "<img src='/images/pdfs/preview/324.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "324"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "4 new PDFs: Tyler Childers covering Green Day, Colter Wall, Vincent Neil Emerson, and Taylor Swift",
+        "category": "General & About This Channel",
+        "url": "/lessons/323/",
+        "date": "Aug 21, 2020",
+        "patreon_url": "https://www.patreon.com/posts/41023187",
+        "pdf_image": "<img src='/images/pdfs/preview/323.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "323"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Welcome to Paradise\" by Green Day, in the style of Tyler Childers",
+        "category": "Full Song",
+        "url": "/lessons/322/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/41023187",
+        "pdf_image": "<img src='/images/pdfs/preview/322.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "322"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Betty\" by Taylor Swift",
+        "category": "Full Song",
+        "url": "/lessons/321/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/41023187",
+        "pdf_image": "<img src='/images/pdfs/preview/321.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "321"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Manhattan Island Serenade\" by Vincent Neil Emerson",
+        "category": "Full Song",
+        "url": "/lessons/320/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/41023187",
+        "pdf_image": "<img src='/images/pdfs/preview/320.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "320"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to access my library of 200+ print-friendly PDF chord sheets",
+        "category": "General & About This Channel",
+        "url": "/lessons/319/",
+        "date": "Aug 16, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "319"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Saskatchewan in 1881\" by Colter Wall",
+        "category": "Full Song",
+        "url": "/lessons/318/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/41023187",
+        "pdf_image": "<img src='/images/pdfs/preview/318.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "318"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Strumming without a guitar pick",
+        "category": "Tip & Technique",
+        "url": "/lessons/317/",
+        "date": "Aug 7, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "317"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Summertime\" by Billy Strings (advanced version)",
+        "category": "Full Song",
+        "url": "/lessons/316/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/39956339",
+        "pdf_image": "<img src='/images/pdfs/preview/316.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "316"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"El Paso\" by Marty Robbins",
+        "category": "Full Song",
+        "url": "/lessons/315/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/40474671",
+        "pdf_image": "<img src='/images/pdfs/preview/315.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "315"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Riffs with Circular Bass Notes",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/314/",
+        "date": "Jul 25, 2020",
+        "patreon_url": "https://www.patreon.com/posts/39722496",
+        "pdf_image": "<img src='/images/pdfs/preview/314.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "314"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sedona\" by Houndmouth",
+        "category": "Full Song",
+        "url": "/lessons/313/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/40261866",
+        "pdf_image": "<img src='/images/pdfs/preview/313.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "313"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Happy Birthday triad exercise (Key of G)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/312/",
+        "date": "Jul 23, 2020",
+        "patreon_url": "https://www.patreon.com/posts/39665187",
+        "pdf_image": "<img src='/images/pdfs/preview/312.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "312"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to silence the strings with your left hand",
+        "category": "Tip & Technique",
+        "url": "/lessons/311/",
+        "date": "Jul 18, 2020",
+        "patreon_url": "https://www.patreon.com/posts/39450599",
+        "pdf_image": "<img src='/images/pdfs/preview/311.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "311"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Keep the Wolves Away\" by Uncle Lucius",
+        "category": "Full Song",
+        "url": "/lessons/310/",
+        "date": "Jul 10, 2020",
+        "patreon_url": "https://www.patreon.com/posts/39197676",
+        "pdf_image": "<img src='/images/pdfs/preview/310.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "310"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Will You Love Me Tomorrow\" by The Shirelles",
+        "category": "Full Song",
+        "url": "/lessons/309/",
+        "date": "Jul 4, 2020",
+        "patreon_url": "https://www.patreon.com/posts/38961604",
+        "pdf_image": "<img src='/images/pdfs/preview/309.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "309"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Stand By Me\" by Ben E. King",
+        "category": "Full Song",
+        "url": "/lessons/308/",
+        "date": "Jun 27, 2020",
+        "patreon_url": "https://www.patreon.com/posts/38696125",
+        "pdf_image": "<img src='/images/pdfs/preview/308.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "308"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Mr. Bojangles\" by Jerry Jeff Walker",
+        "category": "Full Song",
+        "url": "/lessons/307/",
+        "date": "Jun 21, 2020",
+        "patreon_url": "https://www.patreon.com/posts/38462103",
+        "pdf_image": "<img src='/images/pdfs/preview/307.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "307"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Willin'\" by Little Feat",
+        "category": "Full Song",
+        "url": "/lessons/306/",
+        "date": "Jun 13, 2020",
+        "patreon_url": "https://www.patreon.com/posts/38161899",
+        "pdf_image": "<img src='/images/pdfs/preview/306.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "306"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"My Church\" by Maren Morris",
+        "category": "Full Song",
+        "url": "/lessons/305/",
+        "date": "Jun 7, 2020",
+        "patreon_url": "https://www.patreon.com/posts/37982462",
+        "pdf_image": "<img src='/images/pdfs/preview/305.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "305"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Backwoods Pull-Off Exercise (Key of C)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/304/",
+        "date": "Jun 1, 2020",
+        "patreon_url": "https://www.patreon.com/posts/37943206",
+        "pdf_image": "<img src='/images/pdfs/preview/304.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "304"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Don't Think Twice, It's All Right\" by Bob Dylan (fingerstyle version)",
+        "category": "Full Song",
+        "url": "/lessons/303/",
+        "date": "May 30, 2020",
+        "patreon_url": "https://www.patreon.com/posts/37472250",
+        "pdf_image": "<img src='/images/pdfs/preview/303.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "303"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Travis Picking vs. \"Normal\" Fingerstyle",
+        "category": "Tip & Technique",
+        "url": "/lessons/302/",
+        "date": "May 16, 2020",
+        "patreon_url": "https://www.patreon.com/posts/37186031",
+        "pdf_image": "<img src='/images/pdfs/preview/302.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "302"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Don't Think Twice, It's All Right\" by Bob Dylan (strum version)",
+        "category": "Full Song",
+        "url": "/lessons/301/",
+        "date": "May 24, 2020",
+        "patreon_url": "https://www.patreon.com/posts/37472250",
+        "pdf_image": "<img src='/images/pdfs/preview/301.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "301"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Which guitar pick I use & why",
+        "category": "Tip & Technique",
+        "url": "/lessons/300/",
+        "date": "May 8, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "300"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I've Just Seen a Face\" by The Beatles (intro riff)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/299/",
+        "date": "May 8, 2020",
+        "patreon_url": "https://www.patreon.com/posts/36733328",
+        "pdf_image": "<img src='/images/pdfs/preview/299.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "299"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I've Just Seen a Face\" by The Beatles (full song)",
+        "category": "Full Song",
+        "url": "/lessons/298/",
+        "date": "May 4, 2020",
+        "patreon_url": "https://www.patreon.com/posts/36733328",
+        "pdf_image": "<img src='/images/pdfs/preview/298.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "298"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Country Bass Line Exercise in 6/8 Time",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/297/",
+        "date": "Apr 26, 2020",
+        "patreon_url": "https://www.patreon.com/posts/36417027",
+        "pdf_image": "<img src='/images/pdfs/preview/297.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "297"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Under the Milky Way\" by The Church",
+        "category": "Full Song",
+        "url": "/lessons/296/",
+        "date": "Apr 19, 2020",
+        "patreon_url": "https://www.patreon.com/posts/36165070",
+        "pdf_image": "<img src='/images/pdfs/preview/296.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "296"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Hello in There\" (intro riff) by John Prine",
+        "category": "Full Song",
+        "url": "/lessons/295/",
+        "date": "Apr 5, 2020",
+        "patreon_url": "https://www.patreon.com/posts/35915445",
+        "pdf_image": "<img src='/images/pdfs/preview/295.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "295"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Clay Pigeons\" by John Prine (orig. by Blaze Foley)",
+        "category": "Full Song",
+        "url": "/lessons/294/",
+        "date": "Apr 8, 2020",
+        "patreon_url": "https://www.patreon.com/posts/35777763",
+        "pdf_image": "<img src='/images/pdfs/preview/294.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "294"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"House of the Rising Sun\" by The Animals (fingerstyle)",
+        "category": "Full Song",
+        "url": "/lessons/293/",
+        "date": "Mar 31, 2020",
+        "patreon_url": "https://www.patreon.com/posts/35467639",
+        "pdf_image": "<img src='/images/pdfs/preview/293.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "293"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "New! Browse my lessons by category, genre, decade, and more",
+        "category": "General & About This Channel",
+        "url": "/lessons/292/",
+        "date": "Mar 28, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "292"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Banded Clovis\" by Tyler Childers",
+        "category": "Full Song",
+        "url": "/lessons/291/",
+        "date": "Mar 22, 2020",
+        "patreon_url": "https://www.patreon.com/posts/35143105",
+        "pdf_image": "<img src='/images/pdfs/preview/291.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "291"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Walk-down exercise inspired by the Turnpike Troubadours",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/290/",
+        "date": "Mar 15, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34901234",
+        "pdf_image": "<img src='/images/pdfs/preview/290.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "290"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Syncopation and Sus Chords",
+        "category": "Tip & Technique",
+        "url": "/lessons/289/",
+        "date": "Mar 19, 2020",
+        "patreon_url": "https://www.patreon.com/posts/35077534",
+        "pdf_image": "<img src='/images/pdfs/preview/289.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "289"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Patience\" by Guns N' Roses (play-along cover)",
+        "category": "Full Song",
+        "url": "/lessons/288/",
+        "date": "Mar 4, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34822415",
+        "pdf_image": "<img src='/images/pdfs/preview/288.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "288"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"1979\"  by The Smashing Pumpkins (strum-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/287/",
+        "date": "Feb 29, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34261805",
+        "pdf_image": "<img src='/images/pdfs/preview/287.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "287"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sweet Caroline\" by Neil Diamond (Play-Along Cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/286/",
+        "date": "Feb 27, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34346197",
+        "pdf_image": "<img src='/images/pdfs/preview/286.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "286"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"1979\" by The Smashing Pumpkins",
+        "category": "Full Song",
+        "url": "/lessons/285/",
+        "date": "Feb 18, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34261805",
+        "pdf_image": "<img src='/images/pdfs/preview/285.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "285"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Romeo and Juliet\" by Dire Straits",
+        "category": "Full Song",
+        "url": "/lessons/284/",
+        "date": "Feb 12, 2020",
+        "patreon_url": "https://www.patreon.com/posts/34051720",
+        "pdf_image": "<img src='/images/pdfs/preview/284.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "284"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"You've Lost that Lovin' Feelin'\" by The Righteous Brothers",
+        "category": "Full Song",
+        "url": "/lessons/283/",
+        "date": "Feb 5, 2020",
+        "patreon_url": "https://www.patreon.com/posts/33878045/",
+        "pdf_image": "<img src='/images/pdfs/preview/283.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "283"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Wild World\" by Cat Stevens",
+        "category": "Full Song",
+        "url": "/lessons/282/",
+        "date": "Jan 31, 2020",
+        "patreon_url": "https://www.patreon.com/posts/33635432/",
+        "pdf_image": "<img src='/images/pdfs/preview/282.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "282"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Memories\" by Maroon 5",
+        "category": "Full Song",
+        "url": "/lessons/281/",
+        "date": "Jan 26, 2020",
+        "patreon_url": "https://www.patreon.com/posts/33467609",
+        "pdf_image": "<img src='/images/pdfs/preview/281.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "281"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I'm a Lonesome Fugitive\" by Billy Strings",
+        "category": "Full Song",
+        "url": "/lessons/280/",
+        "date": "Jan 11, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "280"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Summertime\" by Billy Strings",
+        "category": "Full Song",
+        "url": "/lessons/279/",
+        "date": "Jan 14, 2020",
+        "patreon_url": "https://www.patreon.com/posts/39956339",
+        "pdf_image": "<img src='/images/pdfs/preview/279.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "279"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Sierra Ferrell \"In Dreams\"-inspired riff",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/278/",
+        "date": "Jan 21, 2020",
+        "patreon_url": "https://www.patreon.com/posts/33351761",
+        "pdf_image": "<img src='/images/pdfs/preview/278.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "278"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Walk Right In\" by The Rooftop Singers",
+        "category": "Full Song",
+        "url": "/lessons/277/",
+        "date": "Jan 16, 2020",
+        "patreon_url": "https://www.patreon.com/posts/33200047",
+        "pdf_image": "<img src='/images/pdfs/preview/277.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "277"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Practicing Walk Ups & Walk Downs in G",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/276/",
+        "date": "Jan 7, 2020",
+        "patreon_url": "https://www.patreon.com/posts/33023582",
+        "pdf_image": "<img src='/images/pdfs/preview/276.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "276"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "My 12 most popular guitar lessons of 2019",
+        "category": "General & About This Channel",
+        "url": "/lessons/275/",
+        "date": "Jan 4, 2020",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "275"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sweet Virginia\" (intro) by The Rolling Stones",
+        "category": "Full Song",
+        "url": "/lessons/274/",
+        "date": "Dec 29, 2019",
+        "patreon_url": "https://www.patreon.com/posts/32695612",
+        "pdf_image": "<img src='/images/pdfs/preview/274.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "274"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sin City\" by Gram Parsons (Play-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/273/",
+        "date": "Dec 26, 2019",
+        "patreon_url": "https://www.patreon.com/posts/32519143",
+        "pdf_image": "<img src='/images/pdfs/preview/273.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "273"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sin City\" by Gram Parsons (Full song lesson)",
+        "category": "Full Song",
+        "url": "/lessons/272/",
+        "date": "Dec 16, 2019",
+        "patreon_url": "https://www.patreon.com/posts/32519143",
+        "pdf_image": "<img src='/images/pdfs/preview/272.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "272"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "2-string blues riffs for beginners (step by step)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/271/",
+        "date": "Dec 14, 2019",
+        "patreon_url": "https://www.patreon.com/posts/32369696",
+        "pdf_image": "<img src='/images/pdfs/preview/271.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "271"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Have You Ever Seen the Rain\" by Creedence Clearwater Revival (Play-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/270/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/32143542",
+        "pdf_image": "<img src='/images/pdfs/preview/270.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "270"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Have You Ever Seen the Rain\" by Creedence Clearwater Revival (Full song lesson)",
+        "category": "Full Song",
+        "url": "/lessons/269/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/32143542",
+        "pdf_image": "<img src='/images/pdfs/preview/269.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "269"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"My Favorite Picture of You\" by Guy Clark",
+        "category": "Full Song",
+        "url": "/lessons/268/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/31947589",
+        "pdf_image": "<img src='/images/pdfs/preview/268.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "268"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "12 easy ways to modify the A-major chord",
+        "category": "Tip & Technique",
+        "url": "/lessons/267/",
+        "date": "Nov 23, 2019",
+        "patreon_url": "https://www.patreon.com/posts/31795113",
+        "pdf_image": "<img src='/images/pdfs/preview/267.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "267"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Gloria\" by The Lumineers (Play-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/266/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/30423659",
+        "pdf_image": "<img src='/images/pdfs/preview/266.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "266"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "4 tips for learning Blackbird",
+        "category": "Practice Log",
+        "url": "/lessons/265/",
+        "date": "Nov 3, 2019",
+        "patreon_url": "https://www.patreon.com/posts/31322903",
+        "pdf_image": "<img src='/images/pdfs/preview/265.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "265"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Death By 1000 Cuts\" Fingerstyle Walkdown Exercise (Key of C)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/264/",
+        "date": "Oct 26, 2019",
+        "patreon_url": "https://www.patreon.com/posts/31073686",
+        "pdf_image": "<img src='/images/pdfs/preview/264.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "264"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Gloria\" by The Lumineers (Full song lesson)",
+        "category": "Full Song",
+        "url": "/lessons/263/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/30423659",
+        "pdf_image": "<img src='/images/pdfs/preview/263.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "263"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I Walk the Line\" by Johnny Cash (Intro riff)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/262/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/30878699",
+        "pdf_image": "<img src='/images/pdfs/preview/262.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "262"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Lookin' Out My Back Door\" by Creedence Clearwater Revival (easy fingerstyle)",
+        "category": "Full Song",
+        "url": "/lessons/261/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/30708535",
+        "pdf_image": "<img src='/images/pdfs/preview/261.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "261"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to read & write strumming patterns",
+        "category": "Tip & Technique",
+        "url": "/lessons/260/",
+        "date": "Oct 6, 2019",
+        "patreon_url": "https://www.patreon.com/posts/30540917",
+        "pdf_image": "<img src='/images/pdfs/preview/260.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "260"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "D-Cadd9-G riffin' on \"Thank You\" and \"Can't You See\"",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/259/",
+        "date": "Sep 21, 2019",
+        "patreon_url": "https://www.patreon.com/posts/30131752",
+        "pdf_image": "<img src='/images/pdfs/preview/259.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "259"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Meditative fingerpicking practice, inspired by \"The Wind\" by Cat Stevens",
+        "category": "Practice Log",
+        "url": "/lessons/258/",
+        "date": "Sep 15, 2019",
+        "patreon_url": "https://www.patreon.com/posts/29981439",
+        "pdf_image": "<img src='/images/pdfs/preview/258.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "258"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Latin Bassline Groove from \"Seniorita\"",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/257/",
+        "date": "Sep 8, 2019",
+        "patreon_url": "https://www.patreon.com/posts/29803885",
+        "pdf_image": "<img src='/images/pdfs/preview/257.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "257"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Plush\" by Stone Temple Pilots",
+        "category": "Full Song",
+        "url": "/lessons/256/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25388934",
+        "pdf_image": "<img src='/images/pdfs/preview/256.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "256"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"The Wind\" by Cat Stevens",
+        "category": "Full Song",
+        "url": "/lessons/254/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/29562940",
+        "pdf_image": "<img src='/images/pdfs/preview/254.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "254"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "4-finger magic with E major",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/253/",
+        "date": "Aug 24, 2019",
+        "patreon_url": "https://www.patreon.com/posts/29409818",
+        "pdf_image": "<img src='/images/pdfs/preview/253.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "253"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Peace of Mind\" by Tyler Childers",
+        "category": "Full Song",
+        "url": "/lessons/252/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/29385250",
+        "pdf_image": "<img src='/images/pdfs/preview/252.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "252"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Angel Flight\" by Radney Foster",
+        "category": "Full Song",
+        "url": "/lessons/251/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/29234388",
+        "pdf_image": "<img src='/images/pdfs/preview/251.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "251"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"California Dreamin'\" by Jose Feliciano",
+        "category": "Full Song",
+        "url": "/lessons/250/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/29059866",
+        "pdf_image": "<img src='/images/pdfs/preview/250.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "250"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "2-finger chords in the key of C",
+        "category": "Tip & Technique",
+        "url": "/lessons/249/",
+        "date": "Aug 2, 2019",
+        "patreon_url": "https://www.patreon.com/posts/28859774",
+        "pdf_image": "<img src='/images/pdfs/preview/249.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "249"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Surf Rider\" by The Lively Ones",
+        "category": "Full Song",
+        "url": "/lessons/248/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28613126",
+        "pdf_image": "<img src='/images/pdfs/preview/248.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "248"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Fingerpicking C-G-Am-F (based on Vampire Weekend's \"Hold You Now\")",
+        "category": "Practice Log",
+        "url": "/lessons/247/",
+        "date": "Jul 16, 2019",
+        "patreon_url": "https://www.patreon.com/posts/28420165",
+        "pdf_image": "<img src='/images/pdfs/preview/247.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "247"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"You've Got a Friend in Me\" by Randy Newman (from Toy Story)",
+        "category": "Full Song",
+        "url": "/lessons/246/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28140715",
+        "pdf_image": "<img src='/images/pdfs/preview/246.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "246"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Ring Finger Barre Strength Exercise",
+        "category": "Tip & Technique",
+        "url": "/lessons/245/",
+        "date": "Jun 25, 2019",
+        "patreon_url": "https://www.patreon.com/posts/27916357",
+        "pdf_image": "<img src='/images/pdfs/preview/245.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "245"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Fingerstyle F with wrapped thumb",
+        "category": "Tip & Technique",
+        "url": "/lessons/244/",
+        "date": "Jun 21, 2019",
+        "patreon_url": "https://www.patreon.com/posts/27795273",
+        "pdf_image": "<img src='/images/pdfs/preview/244.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "244"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Yesterday\" by The Beatles",
+        "category": "Full Song",
+        "url": "/lessons/242/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27161783",
+        "pdf_image": "<img src='/images/pdfs/preview/242.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "242"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "An easier way to play F#m (no barre chord)",
+        "category": "Tip & Technique",
+        "url": "/lessons/241/",
+        "date": "Jun 4, 2019",
+        "patreon_url": "https://www.patreon.com/posts/27377464",
+        "pdf_image": "<img src='/images/pdfs/preview/241.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "241"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How I change my acoustic guitar strings (from start to finish)",
+        "category": "Tip & Technique",
+        "url": "/lessons/239/",
+        "date": "May 19, 2019",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "239"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"My Old Kentucky Home, Goodnight\" by John Prine",
+        "category": "Full Song",
+        "url": "/lessons/238/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26928505",
+        "pdf_image": "<img src='/images/pdfs/preview/238.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "238"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Colter Wall's Sleeping on the Blacktop intro riff",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/237/",
+        "date": "May 11, 2019",
+        "patreon_url": "https://www.patreon.com/posts/26779443",
+        "pdf_image": "<img src='/images/pdfs/preview/237.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "237"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"First Call\" (horse racing / military bugle wake-up call)",
+        "category": "Full Song",
+        "url": "/lessons/236/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26596736",
+        "pdf_image": "<img src='/images/pdfs/preview/236.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "236"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Imagine\" by John Lennon",
+        "category": "Full Song",
+        "url": "/lessons/235/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26533929",
+        "pdf_image": "<img src='/images/pdfs/preview/235.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "235"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Jenny of Oldstones\" from Game of Thrones (Florence and the Machine)",
+        "category": "Full Song",
+        "url": "/lessons/234/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26303236",
+        "pdf_image": "<img src='/images/pdfs/preview/234.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "234"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Wildflowers\" by Tom Petty",
+        "category": "Full Song",
+        "url": "/lessons/232/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26240703",
+        "pdf_image": "<img src='/images/pdfs/preview/232.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "232"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Breezy strumming on E-Bsus4-Asus2",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/231/",
+        "date": "Apr 15, 2019",
+        "patreon_url": "https://www.patreon.com/posts/26191868",
+        "pdf_image": "<img src='/images/pdfs/preview/231.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "231"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How I composed a multi-part fingerstyle guitar arrangement",
+        "category": "Practice Log",
+        "url": "/lessons/230/",
+        "date": "Apr 12, 2019",
+        "patreon_url": "https://www.patreon.com/posts/26077237",
+        "pdf_image": "<img src='/images/pdfs/preview/230.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "230"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"If I Had a Boat\" by Lyle Lovett",
+        "category": "Full Song",
+        "url": "/lessons/229/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26032668",
+        "pdf_image": "<img src='/images/pdfs/preview/229.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "229"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Triad exercises using A, D, & E",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/228/",
+        "date": "Mar 29, 2019",
+        "patreon_url": "https://www.patreon.com/posts/25735022",
+        "pdf_image": "<img src='/images/pdfs/preview/228.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "228"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Travis picking finger technique (right-hand index & pinky)",
+        "category": "Practice Log",
+        "url": "/lessons/227/",
+        "date": "Mar 18, 2019",
+        "patreon_url": "https://www.patreon.com/posts/25555059",
+        "pdf_image": "<img src='/images/pdfs/preview/227.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "227"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Let Him Roll\" by Guy Clark",
+        "category": "Full Song",
+        "url": "/lessons/226/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25432156",
+        "pdf_image": "<img src='/images/pdfs/preview/226.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "226"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Under the Bridge\" by Red Hot Chili Peppers",
+        "category": "Full Song",
+        "url": "/lessons/224/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25250503",
+        "pdf_image": "<img src='/images/pdfs/preview/224.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "224"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Add easy flourish to C-F-G-Am",
+        "category": "Tip & Technique",
+        "url": "/lessons/223/",
+        "date": "Mar 4, 2019",
+        "patreon_url": "https://www.patreon.com/posts/25204139",
+        "pdf_image": "<img src='/images/pdfs/preview/223.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "223"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"The Gambler\" by Kenny Rogers",
+        "category": "Full Song",
+        "url": "/lessons/222/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25099962",
+        "pdf_image": "<img src='/images/pdfs/preview/222.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "222"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Always Remember Us This Way\" by Lady Gaga",
+        "category": "Full Song",
+        "url": "/lessons/220/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25021126",
+        "pdf_image": "<img src='/images/pdfs/preview/220.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "220"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Cowboy chords and walking bass lines",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/219/",
+        "date": "Feb 22, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24901786/",
+        "pdf_image": "<img src='/images/pdfs/preview/219.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "219"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "A-minor blues improvisation w/ backing track",
+        "category": "Practice Log",
+        "url": "/lessons/217/",
+        "date": "Feb 20, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24872694",
+        "pdf_image": "<img src='/images/pdfs/preview/217.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "217"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"St. James Infirmary Blues\"",
+        "category": "Full Song",
+        "url": "/lessons/216/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24744092/",
+        "pdf_image": "<img src='/images/pdfs/preview/216.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "216"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Barre Chord Exercise for Smells Like Teen Spirit",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/215/",
+        "date": "Feb 13, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24697299/",
+        "pdf_image": "<img src='/images/pdfs/preview/215.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "215"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Open chords in key of D w/ major & minor triads",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/214/",
+        "date": "Feb 9, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24596181/",
+        "pdf_image": "<img src='/images/pdfs/preview/214.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "214"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Copperhead Road\" by Steve Earle",
+        "category": "Full Song",
+        "url": "/lessons/213/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24534853",
+        "pdf_image": "<img src='/images/pdfs/preview/213.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "213"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Guantanamera\" by Pete Seeger",
+        "category": "Full Song",
+        "url": "/lessons/211/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24356142",
+        "pdf_image": "<img src='/images/pdfs/preview/211.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "211"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Blue on Black\" grooving on D5-Cadd9-G",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/210/",
+        "date": "Jan 26, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24237877/",
+        "pdf_image": "<img src='/images/pdfs/preview/210.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "210"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Adding fills to the Wild Horses intro",
+        "category": "Practice Log",
+        "url": "/lessons/209/",
+        "date": "Jan 24, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24194426",
+        "pdf_image": "<img src='/images/pdfs/preview/209.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "209"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Light On\" by Maggie Rogers",
+        "category": "Full Song",
+        "url": "/lessons/208/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24140548",
+        "pdf_image": "<img src='/images/pdfs/preview/208.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "208"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Improvised guitar pickin' on \"The Gambler\"",
+        "category": "Practice Log",
+        "url": "/lessons/207/",
+        "date": "Jan 16, 2019",
+        "patreon_url": "https://www.patreon.com/posts/24033565/",
+        "pdf_image": "<img src='/images/pdfs/preview/207.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "207"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Open chords in the Key of A",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/206/",
+        "date": "Jan 12, 2019",
+        "patreon_url": "https://www.patreon.com/posts/23932562/",
+        "pdf_image": "<img src='/images/pdfs/preview/206.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "206"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Heart of Gold\" by Neil Young",
+        "category": "Full Song",
+        "url": "/lessons/204/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23773015/",
+        "pdf_image": "<img src='/images/pdfs/preview/204.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "204"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Auld Land Syng\" (New Years Song)",
+        "category": "Full Song",
+        "url": "/lessons/203/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23649592/",
+        "pdf_image": "<img src='/images/pdfs/preview/203.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "203"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Open chords in the Key of E",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/202/",
+        "date": "Dec 26, 2018",
+        "patreon_url": "https://www.patreon.com/posts/repost-printable-23986840",
+        "pdf_image": "<img src='/images/pdfs/preview/202.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "202"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Last Christmas\" by Wham!",
+        "category": "Full Song",
+        "url": "/lessons/200/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23522694",
+        "pdf_image": "<img src='/images/pdfs/preview/200.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "200"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Please Come Home for Christmas\" by The Eagles",
+        "category": "Full Song",
+        "url": "/lessons/199/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-23379862",
+        "pdf_image": "<img src='/images/pdfs/preview/199.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "199"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Guitar chords on a ukulele",
+        "category": "Tip & Technique",
+        "url": "/lessons/198/",
+        "date": "Dec 13, 2018",
+        "patreon_url": "https://www.patreon.com/posts/23324554/",
+        "pdf_image": "<img src='/images/pdfs/preview/198.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "198"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Slap strumming basics (percussive rhythm technique)",
+        "category": "Tip & Technique",
+        "url": "/lessons/197/",
+        "date": "Dec 7, 2018",
+        "patreon_url": "https://www.patreon.com/posts/23199900",
+        "pdf_image": "<img src='/images/pdfs/preview/197.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "197"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Practicing with a backing track (feat. Tennessee Whiskey)",
+        "category": "Practice Log",
+        "url": "/lessons/195/",
+        "date": "Dec 1, 2018",
+        "patreon_url": "https://www.patreon.com/posts/23065293",
+        "pdf_image": "<img src='/images/pdfs/preview/195.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "195"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Playing A-major with big fingers or a small fretboard",
+        "category": "Tip & Technique",
+        "url": "/lessons/194/",
+        "date": "Nov 27, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22959683",
+        "pdf_image": "<img src='/images/pdfs/preview/194.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "194"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Backyard grooving in E-major (\"Posters\" by Jack Johnson)",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/193/",
+        "date": "Nov 20, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22883540",
+        "pdf_image": "<img src='/images/pdfs/preview/193.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "193"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to play F#m (F sharp minor)",
+        "category": "Tip & Technique",
+        "url": "/lessons/192/",
+        "date": "Nov 18, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22798346",
+        "pdf_image": "<img src='/images/pdfs/preview/192.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "192"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to spice up a 2-chord song (feat. Tennessee Whiskey)",
+        "category": "Practice Log",
+        "url": "/lessons/191/",
+        "date": "Nov 14, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22729990",
+        "pdf_image": "<img src='/images/pdfs/preview/191.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "191"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Adding pinky accent notes to a chord progression",
+        "category": "Practice Log",
+        "url": "/lessons/190/",
+        "date": "Nov 11, 2018",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-22651220",
+        "pdf_image": "<img src='/images/pdfs/preview/190.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "190"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "A-minor pentatonic walk-down groove",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/189/",
+        "date": "Nov 6, 2018",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-22591518",
+        "pdf_image": "<img src='/images/pdfs/preview/189.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "189"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Maybe It's Time\" from A Star is Born",
+        "category": "Full Song",
+        "url": "/lessons/188/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-22497311",
+        "pdf_image": "<img src='/images/pdfs/preview/188.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "188"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Palm muting basics",
+        "category": "Tip & Technique",
+        "url": "/lessons/187/",
+        "date": "Oct 30, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22409071",
+        "pdf_image": "<img src='/images/pdfs/preview/187.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "187"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"One Horse Town\" intro riff",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/186/",
+        "date": "Oct 27, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22343641",
+        "pdf_image": "<img src='/images/pdfs/preview/186.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "186"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Transitioning between Em7 - D/F# - G",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/185/",
+        "date": "Oct 7, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22255965",
+        "pdf_image": "<img src='/images/pdfs/preview/185.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "185"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "The \"Pretty Woman\" lick, played 4 different ways",
+        "category": "Practice Log",
+        "url": "/lessons/183/",
+        "date": "Oct 13, 2018",
+        "patreon_url": "https://www.patreon.com/posts/22030862",
+        "pdf_image": "<img src='/images/pdfs/preview/183.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "183"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Shallow\" by Lady Gaga & Bradley Cooper",
+        "category": "Full Song",
+        "url": "/lessons/181/",
+        "date": "Oct 11, 2018",
+        "patreon_url": "https://www.patreon.com/posts/21995927",
+        "pdf_image": "<img src='/images/pdfs/preview/181.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "181"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Mudfootball G-D7 Shuffle",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/180/",
+        "date": "Oct 7, 2018",
+        "patreon_url": "https://www.patreon.com/posts/21907252",
+        "pdf_image": "<img src='/images/pdfs/preview/180.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "180"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Murder ballad groove in A-minor",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/179/",
+        "date": "Oct 1, 2018",
+        "patreon_url": "https://www.patreon.com/posts/21795147",
+        "pdf_image": "<img src='/images/pdfs/preview/179.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "179"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to play Fadd9",
+        "category": "Tip & Technique",
+        "url": "/lessons/177/",
+        "date": "Sep 24, 2018",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-21646757",
+        "pdf_image": "<img src='/images/pdfs/preview/177.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "177"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Blaze Foley country strumming",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/176/",
+        "date": "Sep 21, 2018",
+        "patreon_url": "https://www.patreon.com/posts/21601306",
+        "pdf_image": "<img src='/images/pdfs/preview/176.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "176"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Acid Tongue\" by Jenny Lewis",
+        "category": "Full Song",
+        "url": "/lessons/175/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/21567003",
+        "pdf_image": "<img src='/images/pdfs/preview/175.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "175"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sultans of Swing\" chorus lick",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/174/",
+        "date": "Sep 18, 2018",
+        "patreon_url": "https://www.patreon.com/posts/21510622",
+        "pdf_image": "<img src='/images/pdfs/preview/174.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "174"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Learning to Travis Pick with \"Clay Pigeons\"",
+        "category": "Practice Log",
+        "url": "/lessons/173/",
+        "date": "Sep 13, 2018",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-21390085",
+        "pdf_image": "<img src='/images/pdfs/preview/173.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "173"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Lady May\" by Tyler Childers",
+        "category": "Full Song",
+        "url": "/lessons/172/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/21287497",
+        "pdf_image": "<img src='/images/pdfs/preview/172.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "172"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Easy E Fingerpicking Fun",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/171/",
+        "date": "Sep 2, 2018",
+        "patreon_url": "https://www.patreon.com/posts/21176858",
+        "pdf_image": "<img src='/images/pdfs/preview/171.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "171"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I've Been Everywhere\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/170/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/21054196",
+        "pdf_image": "<img src='/images/pdfs/preview/170.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "170"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Norwegian Wood\" by The Beatles",
+        "category": "Full Song",
+        "url": "/lessons/169/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/20756378",
+        "pdf_image": "<img src='/images/pdfs/preview/169.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "169"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"The Chain\" and Double-Drop D tuning",
+        "category": "Practice Log",
+        "url": "/lessons/168/",
+        "date": "Aug 6, 2018",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-20607117",
+        "pdf_image": "<img src='/images/pdfs/preview/168.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "168"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to stretch your pinky on D-major",
+        "category": "Tip & Technique",
+        "url": "/lessons/167/",
+        "date": "Aug 4, 2018",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "167"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Lola\" by The Kinks",
+        "category": "Full Song",
+        "url": "/lessons/165/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-25593108",
+        "pdf_image": "<img src='/images/pdfs/preview/165.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "165"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Two-finger acoustic blues in Drop-D Tuning",
+        "category": "Warm Up Exercise",
+        "url": "/lessons/163/",
+        "date": "Jul 24, 2018",
+        "patreon_url": "https://www.patreon.com/posts/41294133",
+        "pdf_image": "<img src='/images/pdfs/preview/163.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "163"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Playing around in Drop-D tuning",
+        "category": "Practice Log",
+        "url": "/lessons/162/",
+        "date": "Jul 20, 2018",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "162"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Rocky Mountain High\" by John Denver",
+        "category": "Full Song",
+        "url": "/lessons/160/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27883309",
+        "pdf_image": "<img src='/images/pdfs/preview/160.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "160"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"When the Man Comes Around\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/159/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26674074",
+        "pdf_image": "<img src='/images/pdfs/preview/159.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "159"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"We Are the Champions\" by Queen",
+        "category": "Full Song",
+        "url": "/lessons/158/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28985222",
+        "pdf_image": "<img src='/images/pdfs/preview/158.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "158"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"My My, Hey Hey\" by Neil Young",
+        "category": "Full Song",
+        "url": "/lessons/157/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/36440222",
+        "pdf_image": "<img src='/images/pdfs/preview/157.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "157"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sweet Child O' Mine\" by Guns N' Roses",
+        "category": "Full Song",
+        "url": "/lessons/156/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27269521",
+        "pdf_image": "<img src='/images/pdfs/preview/156.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "156"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"All Apologies\" by Nirvana (intro & verse riff w/ tab)",
+        "category": "Full Song",
+        "url": "/lessons/155/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28292619",
+        "pdf_image": "<img src='/images/pdfs/preview/155.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "155"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Gone Till November\" by Wyclef Jean (intro riff)",
+        "category": "Full Song",
+        "url": "/lessons/154/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/31429770",
+        "pdf_image": "<img src='/images/pdfs/preview/154.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "154"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Creep\" by Radiohead",
+        "category": "Full Song",
+        "url": "/lessons/153/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/pdf-creep-by-153-30194939",
+        "pdf_image": "<img src='/images/pdfs/preview/153.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "153"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"This is America\" by Childish Gambino (easy acoustic riff)",
+        "category": "Full Song",
+        "url": "/lessons/152/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "152"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Take Me Home Country Roads\" by John Denver",
+        "category": "Full Song",
+        "url": "/lessons/151/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/21821096",
+        "pdf_image": "<img src='/images/pdfs/preview/151.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "151"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Youth\" by Shawn Mendes ft. Khalid",
+        "category": "Full Song",
+        "url": "/lessons/150/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "150"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"2002\" by Anne-Marie",
+        "category": "Full Song",
+        "url": "/lessons/149/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "149"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Banana Pancakes\" by Jack Johnson",
+        "category": "Full Song",
+        "url": "/lessons/148/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25521268",
+        "pdf_image": "<img src='/images/pdfs/preview/148.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "148"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Family is Family\" by Kacey Musgraves",
+        "category": "Full Song",
+        "url": "/lessons/147/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "147"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Butterflies\" by Kacey Musgraves",
+        "category": "Full Song",
+        "url": "/lessons/146/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "146"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Tennessee Flat Top Box\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/145/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27317834",
+        "pdf_image": "<img src='/images/pdfs/preview/145.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "145"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"September\" as covered by Taylor Swift",
+        "category": "Full Song",
+        "url": "/lessons/144/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "144"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Candle in the Wind\" by Ed Sheeran",
+        "category": "Full Song",
+        "url": "/lessons/143/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "143"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Stay\" by Post Malone",
+        "category": "Full Song",
+        "url": "/lessons/142/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "142"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"In My Blood\" by Shawn Mendes",
+        "category": "Full Song",
+        "url": "/lessons/141/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "141"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Slow Burn\" by Kacey Musgraves",
+        "category": "Full Song",
+        "url": "/lessons/140/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/33283103",
+        "pdf_image": "<img src='/images/pdfs/preview/140.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "140"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"On the Road Again\" by Willie Nelson",
+        "category": "Full Song",
+        "url": "/lessons/139/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28793602",
+        "pdf_image": "<img src='/images/pdfs/preview/139.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "139"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Magic\" by Rudy Mancuso & Maia Mitchell",
+        "category": "Full Song",
+        "url": "/lessons/138/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "138"
+      },
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Angel Flying Too Close to the Ground\" by Willie Nelson",
+        "category": "Full Song",
+        "url": "/lessons/135/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23810049",
+        "pdf_image": "<img src='/images/pdfs/preview/135.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "135"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Ring of Fire\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/134/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22061680",
+        "pdf_image": "<img src='/images/pdfs/preview/134.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "134"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Friends\" by Marshmello & Anne-Marie",
+        "category": "Full Song",
+        "url": "/lessons/133/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "133"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"The Year That Clayton Delaney Died\" by Tom T. Hall",
+        "category": "Full Song",
+        "url": "/lessons/132/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/29202320",
+        "pdf_image": "<img src='/images/pdfs/preview/132.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "132"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Man of the Woods\" by Justin Timberlake",
+        "category": "Full Song",
+        "url": "/lessons/131/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "131"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Linger\" by The Cranberries",
+        "category": "Full Song",
+        "url": "/lessons/130/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "130"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Remember Me\" from Coco",
+        "category": "Full Song",
+        "url": "/lessons/129/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/31611592",
+        "pdf_image": "<img src='/images/pdfs/preview/129.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "129"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"A Million Dreams\" from The Greatest Showman",
+        "category": "Full Song",
+        "url": "/lessons/128/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24994190",
+        "pdf_image": "<img src='/images/pdfs/preview/128.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "128"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Say Something\" by Justin Timberlake ft. Chris Stapleton",
+        "category": "Full Song",
+        "url": "/lessons/127/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "127"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Échame La Culpa\" by Luis Fonsi and Demi Lovato",
+        "category": "Full Song",
+        "url": "/lessons/126/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "126"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"The Good Side\" by Troye Sivan",
+        "category": "Full Song",
+        "url": "/lessons/125/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "125"
+      },
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"All These Years\" by Camila Cabello",
+        "category": "Full Song",
+        "url": "/lessons/122/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "122"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Filthy\" by Justin Timberlake",
+        "category": "Full Song",
+        "url": "/lessons/120/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "120"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Real Friends\" by Camila Cabello",
+        "category": "Full Song",
+        "url": "/lessons/119/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "119"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Mammas Don't Let Your Babies Grow Up to be Cowboys\" by Waylon Jennings and Willie Nelson",
+        "category": "Full Song",
+        "url": "/lessons/118/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28515581",
+        "pdf_image": "<img src='/images/pdfs/preview/118.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "118"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"River\" by Eminem ft. Ed Sheeran",
+        "category": "Full Song",
+        "url": "/lessons/117/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "117"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Never Be the Same\" by Camila Cabello",
+        "category": "Full Song",
+        "url": "/lessons/116/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "116"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Havana\" by Camila Cabello",
+        "category": "Full Song",
+        "url": "/lessons/115/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/38165123",
+        "pdf_image": "<img src='/images/pdfs/preview/115.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "115"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Me and Bobby McGee\" by Janis Joplin",
+        "category": "Full Song",
+        "url": "/lessons/114/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27233343",
+        "pdf_image": "<img src='/images/pdfs/preview/114.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "114"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"American Girl\" by Tom Petty",
+        "category": "Full Song",
+        "url": "/lessons/113/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25807082",
+        "pdf_image": "<img src='/images/pdfs/preview/113.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "113"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Where Rainbows Never Die\" by The Steeldrivers",
+        "category": "Full Song",
+        "url": "/lessons/112/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/31705934",
+        "pdf_image": "<img src='/images/pdfs/preview/112.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "112"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Congratulations\" by Post Malone",
+        "category": "Full Song",
+        "url": "/lessons/111/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "111"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Whitehouse Road\" by Tyler Childers",
+        "category": "Full Song",
+        "url": "/lessons/109/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25806683",
+        "pdf_image": "<img src='/images/pdfs/preview/109.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "109"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Learnin' To Fly\" by Tom Petty",
+        "category": "Full Song",
+        "url": "/lessons/108/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/40993576",
+        "pdf_image": "<img src='/images/pdfs/preview/108.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "108"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Feathered Indians\" by Tyler Childers",
+        "category": "Full Song",
+        "url": "/lessons/107/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25918682",
+        "pdf_image": "<img src='/images/pdfs/preview/107.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "107"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Runnin' Down a Dream\" by Tom Petty",
+        "category": "Full Song",
+        "url": "/lessons/106/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/106.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "106"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"High and Dry\" by Radiohead",
+        "category": "Full Song",
+        "url": "/lessons/105/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/105.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "105"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"About a Girl\" by Nirvana",
+        "category": "Full Song",
+        "url": "/lessons/104/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/104.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "104"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Layla\" by Eric Clapton",
+        "category": "Full Song",
+        "url": "/lessons/103/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/42628404",
+        "pdf_image": "<img src='/images/pdfs/preview/103.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "103"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Where Did You Sleep Last Night\" by Nirvana",
+        "category": "Full Song",
+        "url": "/lessons/102/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/102.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "102"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"LA Freeway\" by Guy Clark",
+        "category": "Full Song",
+        "url": "/lessons/101/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-22821148",
+        "pdf_image": "<img src='/images/pdfs/preview/101.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "101"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Tuesday's Gone\" by Lynyrd Skynyrd",
+        "category": "Full Song",
+        "url": "/lessons/100/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/100.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "100"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sunday Morning Coming Down\" by Kris Kristofferson / Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/98/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23025270",
+        "pdf_image": "<img src='/images/pdfs/preview/98.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "98"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"House of the Rising Sun\" by The Animals",
+        "category": "Full Song",
+        "url": "/lessons/96/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/35467639",
+        "pdf_image": "<img src='/images/pdfs/preview/96.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "96"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Danny's Song\" by Loggins and Messina",
+        "category": "Full Song",
+        "url": "/lessons/95/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22930633",
+        "pdf_image": "<img src='/images/pdfs/preview/95.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "95"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Honky Tonk Heroes\" by Waylon Jennings",
+        "category": "Full Song",
+        "url": "/lessons/94/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/94.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "94"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Total Eclipse of the Heart\" by Bonnie Tyler",
+        "category": "Full Song",
+        "url": "/lessons/93/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/93.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "93"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Harvest Moon\" by Neil Young",
+        "category": "Full Song",
+        "url": "/lessons/92/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/92.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "92"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Feeling Whitney\" by Post Malone",
+        "category": "Full Song",
+        "url": "/lessons/91/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/91.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "91"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Hurt\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/90/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-22543461",
+        "pdf_image": "<img src='/images/pdfs/preview/90.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "90"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Attention\" by Charlie Puth",
+        "category": "Full Song",
+        "url": "/lessons/89/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "89"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Knockin' on Heaven's Door\" by Bob Dylan",
+        "category": "Full Song",
+        "url": "/lessons/88/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23257233",
+        "pdf_image": "<img src='/images/pdfs/preview/88.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "88"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Last Kiss\" by Pearl Jam",
+        "category": "Full Song",
+        "url": "/lessons/87/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/37729033",
+        "pdf_image": "<img src='/images/pdfs/preview/87.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "87"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Mary Jane's Last Dance\" by Tom Petty and the Heartbreakers",
+        "category": "Full Song",
+        "url": "/lessons/85/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25683306",
+        "pdf_image": "<img src='/images/pdfs/preview/85.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "85"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Game of Thrones\" theme song (easy version)",
+        "category": "Full Song",
+        "url": "/lessons/84/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22744103",
+        "pdf_image": "<img src='/images/pdfs/preview/84.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "84"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sorry Not Sorry\" by Demi Lovato",
+        "category": "Full Song",
+        "url": "/lessons/82/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "82"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"They Can't See\" by Michael Tyler",
+        "category": "Full Song",
+        "url": "/lessons/81/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "81"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I'm The One\" by DJ Khaled ft Justin Bieber",
+        "category": "Full Song",
+        "url": "/lessons/80/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "80"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Dead Flowers\" by Townes Van Zandt",
+        "category": "Full Song",
+        "url": "/lessons/79/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23634325",
+        "pdf_image": "<img src='/images/pdfs/preview/79.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "79"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Despacito\" by Luis Fonsi ft Justin Bieber",
+        "category": "Full Song",
+        "url": "/lessons/78/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "78"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Issues\" by Julia Michaels",
+        "category": "Full Song",
+        "url": "/lessons/76/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/30623762",
+        "pdf_image": "<img src='/images/pdfs/preview/76.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "76"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"2U\" by David Guetta ft Justin Bieber",
+        "category": "Full Song",
+        "url": "/lessons/75/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "75"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Uh Huh\" by Julia Michaels",
+        "category": "Full Song",
+        "url": "/lessons/74/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "74"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sweet Creature\" by Harry Styles",
+        "category": "Full Song",
+        "url": "/lessons/73/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "73"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Folsom Prison Blues\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/72/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24118585",
+        "pdf_image": "<img src='/images/pdfs/preview/72.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "72"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Meet Me In The Hallway\" by Harry Styles",
+        "category": "Full Song",
+        "url": "/lessons/71/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "71"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Stairway to Heaven\" intro by Led Zeppelin",
+        "category": "Full Song",
+        "url": "/lessons/69/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27574943",
+        "pdf_image": "<img src='/images/pdfs/preview/69.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "69"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"It Ain't Me\" by Selena Gomez & Kygo",
+        "category": "Full Song",
+        "url": "/lessons/68/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "68"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Malibu\" by Miley Cyrus",
+        "category": "Full Song",
+        "url": "/lessons/67/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "67"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Go Flex\" by Post Malone",
+        "category": "Full Song",
+        "url": "/lessons/66/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "66"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Wish You Were Here\" by Pink Floyd",
+        "category": "Full Song",
+        "url": "/lessons/65/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22930200",
+        "pdf_image": "<img src='/images/pdfs/preview/65.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "65"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Stay\" by Alessia Cara and Zedd",
+        "category": "Full Song",
+        "url": "/lessons/64/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "64"
+      },
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Shape of You\" by Ed Sheeran",
+        "category": "Full Song",
+        "url": "/lessons/60/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "60"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to play B-minor chord (Bm)",
+        "category": "Tip & Technique",
+        "url": "/lessons/59/",
+        "date": "Apr 21, 2017",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "59"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Don't Say\" by The Chainsmokers",
+        "category": "Full Song",
+        "url": "/lessons/58/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "58"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Pancho and Lefty\" by Willie Nelson and Merle Haggard",
+        "category": "Full Song",
+        "url": "/lessons/57/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23986615",
+        "pdf_image": "<img src='/images/pdfs/preview/57.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "57"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Simple Man\" by Lynyrd Skynyrd",
+        "category": "Full Song",
+        "url": "/lessons/56/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/21108513",
+        "pdf_image": "<img src='/images/pdfs/preview/56.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "56"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Highwayman\" by The Highwaymen",
+        "category": "Full Song",
+        "url": "/lessons/55/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/24575218",
+        "pdf_image": "<img src='/images/pdfs/preview/55.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "55"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Audition (The Fools Who Dream)\" from La La Land",
+        "category": "Full Song",
+        "url": "/lessons/54/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "54"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Strangers\" by The Kinks",
+        "category": "Full Song",
+        "url": "/lessons/53/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28015769",
+        "pdf_image": "<img src='/images/pdfs/preview/53.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "53"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Mrs. Robinson\" by Simon and Garfunkel",
+        "category": "Full Song",
+        "url": "/lessons/51/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23132342",
+        "pdf_image": "<img src='/images/pdfs/preview/51.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "51"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Walking up & down between the E, A, and B7 (bass note transitions)",
+        "category": "Tip & Technique",
+        "url": "/lessons/49/",
+        "date": "Feb 27, 2017",
+        "patreon_url": "https://www.patreon.com/posts/33107748/",
+        "pdf_image": "<img src='/images/pdfs/preview/49.jpg' />",
+        "pdf_v2": "",
+        "slug": "49"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"A Lovely Night\" from La La Land",
+        "category": "Full Song",
+        "url": "/lessons/48/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "48"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Mrs. Robinson\" by Simon & Garfunkel (play-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/47/",
+        "date": "Feb 17, 2017",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "47"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "How to play A-major with one finger (barred on 2nd fret)",
+        "category": "Tip & Technique",
+        "url": "/lessons/46/",
+        "date": "Feb 13, 2017",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "46"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Mary\" by Sublime",
+        "category": "Full Song",
+        "url": "/lessons/45/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "45"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Badlands\" by Bruce Springsteen (Play-along cover)",
+        "category": "Play-along Cover",
+        "url": "/lessons/44/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/32378911",
+        "pdf_image": "<img src='/images/pdfs/preview/44.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "44"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sweet Home Alabama\" by Lynyrd Skynyrd",
+        "category": "Full Song",
+        "url": "/lessons/43/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22280189",
+        "pdf_image": "<img src='/images/pdfs/preview/43.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "43"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"City of Stars\" from La La Land",
+        "category": "Full Song",
+        "url": "/lessons/42/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/39465384",
+        "pdf_image": "<img src='/images/pdfs/preview/42.jpg' />",
+        "pdf_v2": "",
+        "slug": "42"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Someone in the Crowd\" from La La Land",
+        "category": "Full Song",
+        "url": "/lessons/40/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "40"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Another Day of Sun\" from La La Land",
+        "category": "Full Song",
+        "url": "/lessons/39/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "39"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Lonesome Town\" by Ricky Nelson",
+        "category": "Full Song",
+        "url": "/lessons/38/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26435441",
+        "pdf_image": "<img src='/images/pdfs/preview/38.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "38"
+      },
+  
+
+  
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "2016: The Year I Started Making Videos Again",
+        "category": "General & About This Channel",
+        "url": "/lessons/36/",
+        "date": "Dec 30, 2016",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "36"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Happy Xmas (War is Over)\" by John Lennon",
+        "category": "Full Song",
+        "url": "/lessons/35/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23503056",
+        "pdf_image": "<img src='/images/pdfs/preview/35.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "35"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"How Far I'll Go\" by Alessia Cara (from Moana)",
+        "category": "Full Song",
+        "url": "/lessons/34/",
+        "date": "Dec 17, 2016",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "34"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Like a Rolling Stone\" by Bob Dylan",
+        "category": "Full Song",
+        "url": "/lessons/33/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/25634912",
+        "pdf_image": "<img src='/images/pdfs/preview/33.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "33"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"True Colors\" by Justin Timberlake and Anna Kendrick",
+        "category": "Full Song",
+        "url": "/lessons/32/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/22348676",
+        "pdf_image": "<img src='/images/pdfs/preview/32.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "32"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Hotel California\" by The Eagles",
+        "category": "Full Song",
+        "url": "/lessons/31/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/20970359",
+        "pdf_image": "<img src='/images/pdfs/preview/31.jpg' />",
+        "pdf_v2": "v1",
+        "slug": "31"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Apple Blossom\" by The White Stripes",
+        "category": "Full Song",
+        "url": "/lessons/30/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/28342366",
+        "pdf_image": "<img src='/images/pdfs/preview/30.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "30"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Freeway Time in LA County Jail\" by Sublime",
+        "category": "Full Song",
+        "url": "/lessons/29/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "29"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Out on the Weekend\" by Neil Young",
+        "category": "Full Song",
+        "url": "/lessons/28/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27089906",
+        "pdf_image": "<img src='/images/pdfs/preview/28.jpg' />",
+        "pdf_v2": "",
+        "slug": "28"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Say It Ain't So\" by Weezer",
+        "category": "Full Song",
+        "url": "/lessons/27/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/23879773",
+        "pdf_image": "<img src='/images/pdfs/preview/27.jpg' />",
+        "pdf_v2": "",
+        "slug": "27"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"You're Gonna Make Me Lonesome When You Go\" by Bob Dylan",
+        "category": "Full Song",
+        "url": "/lessons/26/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/40734544",
+        "pdf_image": "<img src='/images/pdfs/preview/26.jpg' />",
+        "pdf_v2": "",
+        "slug": "26"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Summer of '69\" by Bryan Adams",
+        "category": "Full Song",
+        "url": "/lessons/25/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/printable-lesson-22821743",
+        "pdf_image": "<img src='/images/pdfs/preview/25.jpg' />",
+        "pdf_v2": "",
+        "slug": "25"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Don't Let Me Down\" by The Chainsmokers",
+        "category": "Full Song",
+        "url": "/lessons/24/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "24"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"How I Go\" by Yellowcard",
+        "category": "Full Song",
+        "url": "/lessons/23/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "23"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"7 Years\" by Lukas Graham",
+        "category": "Full Song",
+        "url": "/lessons/22/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/pdf-7-years-by-32378843",
+        "pdf_image": "<img src='/images/pdfs/preview/22.jpg' />",
+        "pdf_v2": "",
+        "slug": "22"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Blank Space\" by Taylor Swift",
+        "category": "Full Song",
+        "url": "/lessons/21/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "21"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Kodachrome\" by Paul Simon",
+        "category": "Full Song",
+        "url": "/lessons/20/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/27711802",
+        "pdf_image": "<img src='/images/pdfs/preview/20.jpg' />",
+        "pdf_v2": "",
+        "slug": "20"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Margaritaville\" by Jimmy Buffett (ukulele lesson)",
+        "category": "Full Song",
+        "url": "/lessons/19/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "19"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Give My Love To Rose\" by Johnny Cash",
+        "category": "Full Song",
+        "url": "/lessons/18/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/31510807",
+        "pdf_image": "<img src='/images/pdfs/preview/18.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "18"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"The Man Who Sold the World\" by David Bowie",
+        "category": "Full Song",
+        "url": "/lessons/17/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "17"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Reindeers are Better Than People\" from Frozen",
+        "category": "Full Song",
+        "url": "/lessons/16/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "16"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Sweet Caroline\" by Neil Diamond",
+        "category": "Full Song",
+        "url": "/lessons/15/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/34346197",
+        "pdf_image": "<img src='/images/pdfs/preview/15.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "15"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"True Love Will Find You in the End\" by Daniel Johnston",
+        "category": "Full Song",
+        "url": "/lessons/14/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "14"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Let It Go\" from Frozen",
+        "category": "Full Song",
+        "url": "/lessons/13/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "13"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Team\" by Lorde",
+        "category": "Full Song",
+        "url": "/lessons/12/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "12"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Hallelujah\" by Leonard Cohen",
+        "category": "Full Song",
+        "url": "/lessons/11/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/26843157",
+        "pdf_image": "<img src='/images/pdfs/preview/11.jpg' />",
+        "pdf_v2": "",
+        "slug": "11"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Rivers of Babylon\" by Sublime",
+        "category": "Full Song",
+        "url": "/lessons/10/",
+        "date": "",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "10"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Wagon Wheel\" by Old Crow Medicine Show",
+        "category": "Full Song",
+        "url": "/lessons/9/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/29901798",
+        "pdf_image": "<img src='/images/pdfs/preview/9.jpg' />",
+        "pdf_v2": "",
+        "slug": "9"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Redemption Song\" by Bob Marley",
+        "category": "Full Song",
+        "url": "/lessons/8/",
+        "date": "",
+        "patreon_url": "https://www.patreon.com/posts/32569502",
+        "pdf_image": "<img src='/images/pdfs/preview/8.jpg' />",
+        "pdf_v2": "",
+        "slug": "8"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Little Talks\" by Of Monsters and Men",
+        "category": "Full Song",
+        "url": "/lessons/7/",
+        "date": "Nov 17, 2013",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "7"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"I Walk the Line\" by Johnny Cash (Full Song)",
+        "category": "Full Song",
+        "url": "/lessons/6/",
+        "date": "Nov 17, 2013",
+        "patreon_url": "https://www.patreon.com/posts/30878699",
+        "pdf_image": "<img src='/images/pdfs/preview/6.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "6"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Royals\" by Lorde",
+        "category": "Full Song",
+        "url": "/lessons/5/",
+        "date": "Nov 12, 2013",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "5"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Breezeblocks\" by Alt-J",
+        "category": "Full Song",
+        "url": "/lessons/4/",
+        "date": "Nov 12, 2013",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "4"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Tonight You Belong with Me\" by Eddie Vedder",
+        "category": "Full Song",
+        "url": "/lessons/3/",
+        "date": "Nov 10, 2013",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "3"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Paper Ships\" by Dead Mans Bones",
+        "category": "Full Song",
+        "url": "/lessons/2/",
+        "date": "Nov 10, 2013",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "2"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Matilda\" by Alt J",
+        "category": "Full Song",
+        "url": "/lessons/1/",
+        "date": "Nov 10, 2013",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "",
+        "slug": "1"
+      },
+  
+
+  ];
+$(document).ready(function(){
+
+  for (i = 0; i < 331; i++) {
+    $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
+                                    <td>' + lessons[i].pdf_image + '</td>\
+                                    <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
+                                    <td>' + lessons[i].date + '</td>\
+                                    <td>' + lessons[i].category + '</td>\
+                                    <td><a data-patreon-url="' + lessons[i].patreon_url + '" href="' + lessons[i].patreon_url + '">PDF</td>\
+                                    <td></td></tr>');
+  }
+
+
+});
+</script>
+
+<script src="/js/search.js"></script>
+
+<h2 id="list-of-all-lessons">List of all lessons</h2>
+<p>I have made 331 YouTube videos so far… 295 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if you’re looking for something specific!</p>
+
+<div class="tile_metric">
+  <h3>PDF no version</h3>
+  <p>11</p>
+</div>
+<div class="tile_metric">
+  <h3>PDF some version</h3>
+  <p>178</p>
+</div>
+<hr />
+
+<div class="tile_metric">
+  <h3>PDF v1</h3>
+  <p>97</p>
+</div>
+<div class="tile_metric">
+  <h3>PDF v2</h3>
+  <p>81</p>
+</div>
+<hr />
+
+<table id="all_lessons_list">
+  <tbody>
+    <tr>
+      <th>Lesson ID</th>
+      <th>Date</th>
+      <th>PDF Preview</th>
+      <th>Title</th>
+      <th>Category</th>
+      <th>PDF</th>
+      <th>Redirects To?</th>
+    </tr>
+  </tbody>
+</table>
+:ET
