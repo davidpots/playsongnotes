@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "95"
 redirect_from:
   - /songs/loggins-and-messina-dannys-song/
-
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22930633
 ---
@@ -21,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/22930633
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QWKt_jnwM4o?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll show you how to play the song "Danny's Song" by Loggins & Messina. I'll include the chords needed, progressions used, strumming pattern, and of course fingerpicking tabs to get you started with things. 
 
 ## Lyrics w/ chords
 

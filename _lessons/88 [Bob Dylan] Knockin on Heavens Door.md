@@ -10,6 +10,8 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of G]
 slug: "88"
 redirect_from:
   - /songs/bob-dylan-knockin-on-heavens-door/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23257233
 ---
@@ -23,7 +25,17 @@ patreon_lesson_url: https://www.patreon.com/posts/23257233
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 
+## Editor's notes
 
+This lesson shows you an easy way to play "Knockin' On Heaven's Door" by Bob Dylan. This is an absolutely classic song that only uses 4 chords (G, D, C, and A minor). I'll teach you these chords, explain the strumming pattern, how to play the chords in the right order, and finally show you some flourish & fills you can add.
+
+Video timestamps:
+
+- 0:00 Playthrough & Lesson Overview
+- 1:18 Chords needed
+- 3:50 Strumming pattern
+- 5:20 Chord progressions
+- 6:50 Adding flourish & fills
 
 ## Lyrics w/ chords
 

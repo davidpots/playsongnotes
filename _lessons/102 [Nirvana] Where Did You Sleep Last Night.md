@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "102"
 redirect_from:
   - /songs/nirvana-where-did-you-sleep-last-night/
-
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -21,6 +22,18 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsRkG55ZBH4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll teach you how to play "Where Did You Sleep Last Night" as covered by Nirvana in their 1994 unplugged album – in which I'll show you the chords, strumming pattern, licks & riffs to transition the bass notes, and more.  This song originally popularized by Lead Belly many decades before – and a lot of what I show will work if you want to play it like he does. I hope you enjoy!
+
+Video timestamps:
+
+- 0:00 Playthrough & greeting
+- 1:24 Quick note about tuning
+- 1:46 How to play the chords
+- 4:38 Timing & strum pattern
+- 5:55 Bass note transitions
 
 
 ## Tuning FYI

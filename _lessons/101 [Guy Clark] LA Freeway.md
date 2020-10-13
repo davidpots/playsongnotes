@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1970s, Country, Key of G]
 slug: "101"
 redirect_from:
   - /songs/guy-clark-la-freeway/
+pdf_version: v1
+pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148
 ---
@@ -19,9 +21,23 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7K5LJiWlatU?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll teach you how to play "LA Freeway" by Guy Clark. In this lesson, I focus primarily on the fingerpicking riff heard in the intro and verse of the song. I'll explain the chord shapes needed and show you how to practice this song, step by step, to be able to play it fully. I hope this is helpful!
+
+Video timestamps:
+
+- 0:00 Playthrough & greeting
+- 1:53 capo 2nd fret
+- 2:06 Simple strum-along version
+- 2:35 Riff overview
+- 5:37 Riff, step 1 (chords only)
+- 6:12 Riff, step 2 (melody notes)
+- 10:35 Riff, step 3 (bass notes)
+- 11:39 Riff, step 4 (filler notes)
+- 12:17 Some practice advice
 
 
 

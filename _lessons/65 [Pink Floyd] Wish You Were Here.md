@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "65"
 redirect_from:
   - /songs/pink-floyd-wish-you-were-here/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22930200
 ---
@@ -23,7 +25,18 @@ patreon_lesson_url: https://www.patreon.com/posts/22930200
 
 ## Editor's notes
 
-Simple version below, meant to get folks started with this song. The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).         
+In this lesson, I'll show you how to play the classic Pink Floyd song "Wish You Were Here". I'll show you how to play the intro (with tabs), explain the chords needed, talk about strumming pattern, and more. This is just a fabulous song, great for beginners (I keep this version as easy as possible), but also quite fun for seasoned musicians. Here's what I cover in the lesson:
+
+Video timestamps:
+
+- 0:00 Playthrough
+- 2:20 Lesson overview
+- 3:34 Intro Riff, part 1
+- 5:40 Intro Riff, part 2
+- 7:05 Verse strumming, simple
+- 7:50 Verse strumming, advanced
+
+The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).         
 
 ## Intro riff
 

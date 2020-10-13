@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "44"
 redirect_from:
   - /songs/bruce-springsteen-badlands/
+pdf_version: v2
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32378911
 ---

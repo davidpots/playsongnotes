@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1980s, Classic Rock, Key of G]
 slug: "93"
 redirect_from:
   - /songs/bonnie-tyler-total-eclipse-of-the-heart/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -23,6 +25,9 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+In this lesson I'll show you how to play a strum-along guitar version of "Total Eclipse of the Heart" by Bonnie Tyler. I'll show you the chords needed, strumming pattern, tabs for the intro, and some advice for tackling the barre chords. Note I'm using no capo, but you'll want to use a capo on the 1st fret in order to play along with Bonnie Tyler's version.
 
 
 ## Capo 1st fret

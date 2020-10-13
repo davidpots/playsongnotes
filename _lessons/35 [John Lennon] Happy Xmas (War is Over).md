@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Holidays, Key of A, Key of D, Key 
 slug: "35"
 redirect_from:
   - /songs/john-lennon-happy-xmas-war-is-over/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23503056
 ---
@@ -23,6 +25,18 @@ patreon_lesson_url: https://www.patreon.com/posts/23503056
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+This video is an acoustic guitar lesson for the song "Happy Xmas (War is Over)" by John Lennon and Yoko Ono. I'll show you how to play it, whether you're looking for simple strum-along version or a more advanced arrangement full of flourishes to capture the melody you hear in the album version. This lesson includes a playthrough, explanation of how to play each chord, overview of the chord progressions needed, strumming patterns -- I cover it all! I created this tutorial for Songnotes, which is my personal music lesson web project (video and text-based lessons).
+
+Video timestamps:
+
+- 0:00 Playthrough
+- 1:08 Lesson intro
+- 1:58 Basic chords used
+- 3:20 Strumming pattern
+- 3:55 Simple-strum instructions
+- 5:20 Adding melodic flourish
 
 
 ## Lyrics and chords

@@ -12,6 +12,8 @@ yt_video_id: _________
 slug: "57"
 redirect_from:
   - /songs/willie-nelson-and-merle-haggard-pancho-and-lefty/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23986615
 ---
@@ -21,6 +23,20 @@ patreon_lesson_url: https://www.patreon.com/posts/23986615
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9h9OfWGIK8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I show you how to play the song "Pancho and Lefty" as performed by Willie Nelson and Merle Haggard. This song was originally written by Townes Van Zandt and released in 1972. Van Zandt's version is a bit different: he plays in a different key, uses a distinct fingerpicking style instead of strumming, and doesn't play the recognizable intro heard in the Willie & Merle version. Here, I'll show you how to the chords needed, explain the strumming pattern, break down the chord progressions for the verse & chorus, and walk you through the intro riff – with tabs included.
+
+Video timestamps:
+
+- 0:00 Playthrough
+- 1:25 Chords Needed
+- 1:43 Strumming Pattern
+- 2:27 Verse
+- 3:00 Chorus
+- 5:09 Intro Riff
+
 
 ## Lyrics w/ chords
 

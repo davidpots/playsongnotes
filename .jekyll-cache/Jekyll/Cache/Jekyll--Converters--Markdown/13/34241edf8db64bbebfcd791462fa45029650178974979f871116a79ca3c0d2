@@ -1,0 +1,265 @@
+I";D<h2 id="video-lesson">Video lesson</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3TZcIrtgCUA?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+
+<div class="pdf_module_v2">
+    <h3 class="pdf_module_v2__headline">Get the PDF chord sheet <span>(4 pages)</span></h3>
+    <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/44.jpg)"></div>
+    <div class="pdf_module_v2__content">
+      <ul class="pdf_module_v2__list">
+        <li>Support me on Patreon.com to get access to this and <a href="/downloads">200+ other PDF chord sheets</a> I've made, plus new PDFs I make going forward (1-2 added each week).</li>
+        <li>The cost is $3/month (one month minimum, cancel anytime). <a href="/downloads">Here's a free sample</a> if you're on the fence. Thanks for supporting me &amp; this project!</li>
+      </ul>
+      <a class="pdf_module_v2__button" target="_blank" href="https://www.patreon.com/posts/32378911"><strong>Download the PDF on Patreon</strong></a>
+      <p class="pdf_module_v2__footnote">After clicking the button and logging in to Patreon, look for the PDF attached to the bottom of the post.</p>
+    </div>
+  </div>
+
+<h2 id="about-this-lesson">About this lesson</h2>
+
+<p>Welcome to my guitar lesson for a solo acoustic version of “Badlands”, originally by Bruce Springsteen. This wasn’t ever my favorite Springsteen song, but it turned out to be the first one I learned. One of the things that hooked me was stumbling upon this acoustic cover by Julien Baker, which had a sparse and stripped down feel that won me over immediately. I went about learning the song myself, and this lesson is the result.</p>
+
+<h2 id="capo-on-the-2nd-fret">Capo on the 2nd fret</h2>
+
+<p>I’m doing this so you don’t need to use barre chords (specifically, B-major) which is much harder to play than the D-G-A this requires when using a capo. The capo also lets you play an acoustic version of the main melodic intro you hear in the opening bars of the Springsteen recording.</p>
+
+<h2 id="chords-needed">Chords needed</h2>
+
+<p>Here’s all the chords you’ll need for this song. Not a lot! Standard I-IV-V in the key of D.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––––2–––––3–––––0––––––
+B –––––3–––––0–––––2––––––
+G –––––2–––––0–––––2––––––
+D –––––0–––––0–––––2––––––
+A –––––––––––2–––––0––––––
+E –––––––––––3––––––––––––
+       D     G     A  
+</code></pre></div></div>
+
+<p>Note, I’ll often play a single finger barred version of the A-major chord, where I’m focusing on only the middle 4 strings. This is easier to switch to, easier to mute (if you want to mute it), and allows you to add some flourish notes if you prefer. If nothing else this is a good trick to have up your sleeve when playing this chord… and while I certainly use the standard A-major chord voicing (x02220) in this song at parts, this still plays a role:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––––x–––––
+B –––––2–––––     &lt;--
+G –––––2–––––     &lt;--  Play these three strings with
+D –––––2–––––     &lt;--  your barred index finger
+A –––––0–––––
+E –––––––––––
+       A     
+</code></pre></div></div>
+
+<h2 id="chord-progressions">Chord progressions</h2>
+
+<p>There are two progressions used, and they’re super simple to remember.</p>
+
+<h3 id="intro-verse-and-chorus">Intro, verse, and chorus</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>D  .  .  .  G  .  A  .     x4
+</code></pre></div></div>
+
+<h3 id="pre-chorus">Pre-Chorus</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>G  .  .  .  G  .  .  .  A  .  .  .  A  .  .  .   x2
+</code></pre></div></div>
+
+<p>There are a few ways this can slightly be expanded. For instance, you’ll hear me walk down from D =&gt; A =&gt; G in the verse in the chorus, sometimes… but I’ll cover this further down on the page.</p>
+
+<h2 id="intro-riff">Intro riff</h2>
+
+<p>Here’s how I prefer to play it. The main distinctive part here is the little melody on the D, which you can achieve simply by lifting your middle finger off the high-E string, which creates that Dsus2.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –|–––2––––2–0–2–––2–0–2–––|–––––––––––––––––––––––––––––|–
+B –|–––3––––3–3–3–––3–3–3–––|–––3–––––––5––––7–––––––5––––|–
+G –|–––2––––2–2–2–––2–2–2–––|–––4–––––––4––––6–––––––6––––|–
+D –|–––0––––0–0–0–––0–0–0–––|–––5–––––––5––––7–––––––7––––|–
+A –|––––––––––––––––––––––––|–––––––––––––––––––––––––––––|–
+E –|––––––––––––––––––––––––|–––––––––––––––––––––––––––––|–
+      D                         G            A
+</code></pre></div></div>
+
+<p>If you have trouble with my approach to the G and A here, you can use a normal voicing for those chords such as this. Fill it in with the strumming you prefer.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –|–––2––––2–0–2–––2–0–2–––|–––3––––––––––––0––––––––––––|–
+B –|–––3––––3–3–3–––3–3–3–––|–––3––––––––––––2––––––––––––|–
+G –|–––2––––2–2–2–––2–2–2–––|–––0––––––––––––2––––––––––––|–
+D –|–––0––––0–0–0–––0–0–0–––|–––0––––––––––––2––––––––––––|–
+A –|––––––––––––––––––––––––|–––2––––––––––––0––––––––––––|–
+E –|––––––––––––––––––––––––|–––3–––––––––––––––––––––––––|–
+      D                         G            A
+</code></pre></div></div>
+
+<p>You can technically recreate that melody riff with the following approach, but I found this one very hard to do at full speed. In this approach, you’re capturing the melody in the highest two strings (in the second measure).</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –|–––2––––2–0–2–––2–0–2–––|––––––––0–––––––2–––––0––––––|–
+B –|–––3––––3–3–3–––3–3–3–––|–––3––––––––––––2––––––––––––|–
+G –|–––2––––2–2–2–––2–2–2–––|–––0––––––––––––2––––––––––––|–
+D –|–––0––––0–0–0–––0–0–0–––|–––0––––––––––––2––––––––––––|–
+A –|––––––––––––––––––––––––|–––2––––––––––––0––––––––––––|–
+E –|––––––––––––––––––––––––|–––3–––––––––––––––––––––––––|–
+      D                         G            A
+</code></pre></div></div>
+
+<h2 id="other-riffs">Other riffs</h2>
+
+<h3 id="verse-and-chorus-melodic-strumming">Verse and chorus melodic strumming</h3>
+
+<p>Here’s a great one to practice for this song. This captures the sound of the Springsteen guitar, which seems to walk down from D to A before landing on G. Likewise, there’s the first beat of the A – where it sounds like a Bm (or Bm/A) is played before going to the proper A. Refer to my video lesson to see me play this – I use it in instrumental section before the final verse. You can also play this as you sing the verse and/or chorus… I do that sometimes, but didn’t for my video lesson just because I couldn’t play and sing as fluidly.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –|––(2)–––––––––––––––––––|–––––––––––––––––––––––––––––|–
+B –|–––3––––3––––3––––2–––––|––––––––––––––––3––––2–––––––|–
+G –|–––2––––2––––2––––2–––––|–––0––––0–––––––2––––2–––––––|–
+D –|–––0––––0––––0––––2–––––|–––0––––0–––––––4––––2–––––––|–
+A –|––––––––––––––––––0–––––|–––2––––2–––––––0––––0–––––––|–
+E –|––––––––––––––––––––––––|–––3––––3––––––––––––––––––––|–
+       D             (A)        G            A
+</code></pre></div></div>
+
+<h3 id="walk-it-down-turn-it-around">Walk it down, turn it around</h3>
+
+<p>Finally, there’s this little progression I like to play at the end of each verse and at the end of the chorus. Specifically, you’ll hear this melody if you think of the part (“Badlands… whoa, whoa whoa whoa…”) part. Note how in the tab below, the “whoa, whoa, whoa, whoa” vocal melody is captured in the highest note of each chord.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E –––2–––––––––––––3––––––2––––––0––––––x––––
+B –––3–––––––––––––0––––––0––––––2––––––3––––
+G –––2–––––––––––––0––––––0––––––2––––––2––––
+D –––0–––––––––––––0––––––0––––––2––––––2––––
+A –––––––––––––––––2––––––2––––––0––––––0––––
+E –––––––––––––––––3––––––3––––––––––––––––––
+     D             G    Gmaj7    A    Asus4
+</code></pre></div></div>
+
+<p>The hardest part of this is getting that second G-major voicing down, specifically freeing up a finger to play that F# note (2nd fret of high E string) before transitioning to the A. Take it slow, and figure out a finger placement for each chord that lets you smoothly switch to the next chord.</p>
+
+<h2 id="strumming-pattern">Strumming pattern</h2>
+
+<p>Keeping it simple here. Start with all down strums, on the beat:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>↓       ↓       ↓       ↓       
+1   +   2   +   3   +   4   +   
+</code></pre></div></div>
+
+<p>Next, double the number of down strums you use, but accent the ones that come on the beat:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;       &gt;       &gt;       &gt;
+↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓      
+1   +   2   +   3   +   4   +   
+</code></pre></div></div>
+
+<p>And if you want to spice it up, add some up-strums on the off-beat just before the “3” and the “1”:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;       &gt;       &gt;       &gt;
+↓   ↓   ↓   ↓ ↑ ↓   ↓   ↓   ↓ ↑  
+1   +   2   +   3   +   4   +   
+</code></pre></div></div>
+
+<h2 id="lyrics-with-chords">Lyrics with chords</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>VERSE
+
+    D                   G                A
+    Lights out tonight... trouble in the heartland
+          D                    G              A
+    Got a head on collision... smashing in my guts, man
+        D                      G              A    D
+    I'm caught in a crossfire... that I don't understand
+    (D)                G                A        
+    ...But there's one thing I know for sure, girl
+
+    D                  (A)         G                   A
+    I don't give a damn... for the same old played out scenes
+          D                          G             A
+    Baby, I don't give a damn... for just the in betweens
+    D                                   G               A       
+    Honey, I want the heart, I want the soul, I want control...
+          D                 G             A
+    Right now... you better listen to me, baby
+
+PRE-CHORUS
+
+        G                     
+        Talk about a dream, try to make it real
+            A
+        You wake up in the night, with a fear so real
+            G                                      
+        You spend your life waiting for a moment
+                        A
+        That just don't come... well, don't waste your time waiting
+
+CHORUS
+
+            D                     G            A
+            Badlands... you gotta live it everyday
+                    D                          G                  A
+            Let the broken hearts stand as the price you've gotta pay
+                       D                            
+            We'll keep pushing 'til it's understood
+                      G              A           D       G  A
+            And these Badlands start treating us good
+
+VERSE
+
+    D                       G                A
+    Working in the fields, 'til you get your back burned
+    D                           G                A
+    Working 'neath the wheels, 'til you get your facts learned
+    D                       G            A          D
+    Baby, I got my facts... learned real good right now
+    (D)           G                A
+    ...You better get it straight, darling
+
+    D                      (A)  G                 A
+    Poor man wanna be rich..... rich man wanna be king
+          D                             G          A
+    And a king ain't satisfied, 'til he rules everything
+            D
+    I wanna go out tonight...
+            G        A      D        G  A
+    I wanna find out what I got
+
+PRE-CHORUS
+
+                  G
+        Well, I believe in the love... that you gave me
+            A          
+        I believe in the faith... that could save me
+          G
+        I believe in the hope, and I pray
+                      A
+        That some day it... may... raise me... above these
+
+CHORUS
+
+            D                     G            A
+            Badlands... you gotta live it everyday
+                    D                          G                  A
+            Let the broken hearts stand as the price you've gotta pay
+                       D                            
+            We'll keep pushing 'til it's understood
+                      G              A           D       G  A
+            And these Badlands start treating us good
+
+VERSE
+
+            D                        G             A
+    For the ones who had a notion, a notion deep inside
+            D                  G            A  
+    That it ain't no sin to be glad you're alive
+            D                     G             A
+    I wanna find one face... that ain't looking through me
+            D                       G           A
+    I wanna find one place, I wanna spit in the face of these
+
+CHORUS
+
+            D                     G            A
+            Badlands... you gotta live it everyday
+                    D                          G                  A
+            Let the broken hearts stand as the price you've gotta pay
+                       D                            
+            We'll keep pushing 'til it's understood
+                      G              A           D       G  A
+            And these Badlands start treating us good
+</code></pre></div></div>
+
+<h2 id="thanks-for-reading">Thanks for reading!</h2>
+
+<p>I sincerely hope this was helpful. If you have any questions or comments, don’t hesitate to let me know.</p>
+:ET

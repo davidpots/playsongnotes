@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "43"
 redirect_from:
   - /songs/lynyrd-skynyrd-sweet-home-alabama/
-
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22280189
 ---
@@ -21,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/22280189
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u04OuAzhSZA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+This guitar lesson is for a solo acoustic version of "Sweet Home Alabama" by Lynyrd Skynyrd. For this classic song, I'll show you how to play all of the recognizable riffs and fills you hear during the song: including during the intro, verses, and choruses. I'll also show you how to play the chords used during the entire song, including strumming patterns (both simple and complex). My aim with this lesson is to give you the core building blocks you'll need to take this song to advanced places, should you wish. I won't cover the solo or 100% note-for-note tab recreations of what each guitar plays during the song, as that's a huge effort and others have done that in many cases.
 
 ## Lyrics with chords
 

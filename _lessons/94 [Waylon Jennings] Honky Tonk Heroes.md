@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 1970s, Country, Key of D, Walking Bass Lines]
 slug: "94"
 redirect_from:
   - /songs/waylon-jennings-honky-tonk-heroes/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -20,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xvh4sem4kSA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson I'll show you how to play the song "Honky Tonk Heroes" by Waylon Jennings. This is a fantastic outlaw country song with plenty to chew on: a fun intro riff, a fun repeating verse progression, and an opportunity to kick everything into overdrive with the song picking up the tempo in the 2nd half. I'll teach you the intro (with tabs), show the chords, talk about strumming, etc.
 
 ## Chords needed
 

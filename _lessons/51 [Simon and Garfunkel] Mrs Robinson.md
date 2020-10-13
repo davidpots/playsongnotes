@@ -12,15 +12,13 @@ yt_video_id: _________
 slug: "51"
 redirect_from:
   - /songs/simon-and-garfunkel-mrs-robinson/
+pdf_version: v1
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23132342
 ---
 
 ## Video lesson
-
-Here's a cover of me playing the song from beginning to end:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u8-24OnUle8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 My beginner lesson, focusing on chords and strumming:
 
@@ -33,7 +31,23 @@ For an intermediate lesson showing some of the runs and fills, see this:
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
 
+In my first lesson, I show you how to play the basics of "Mrs. Robinson" by Simon and Garfunkel. I'll be using no capo and will focus primarily on the chords and strumming patterns you'll need to play the song. This lesson includes chord charts, tablature, strumming pattern diagrams, and the progressions you'll need for each section. If you're looking for some of the more advanced riffs, runs, and fills this song uses -- look for my other lesson where I break those down in detail.
+
+In my second lesson, I'll show you how to play some of the fills, riffs, and runs for this song. This is a slightly more intermediate lesson, following up on my beginner-friendly lesson that shows the basic chords and strumming patterns needed to play this song. In this lesson, I'll be playing without a capo –– and will show you how to play the (1) intro/filler riff; (2) a verse melody riff; (3) the verse walkdown from C to A minor; and (4) the chorus walkdown from C to D to G.
+
+Timestamps for my second lesson:
+
+- 0:00 Lesson overview
+- 3:05 Intro & Filler Riff
+- 7:06 Verse Melody Riff
+- 9:13 Verse Walkdown (C to Am)
+- 11:04 Chorus Walkdown (C to D to G)
+
+## My guitar cover of the entire song
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8-24OnUle8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics with chords
 

@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "92"
 redirect_from:
   - /songs/neil-young-harvest-moon/
-
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -22,6 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+In this lesson I'll show you how to play "Harvest Moon" by Neil Young. This is a beautiful gem of a song. It uses drop-d tuning (I'll explain this), and some very creative voicing of the D-chord. I'll show you the chords needed, explain the strumming patterns, and of course show you tabs for all of the above. I hope you enjoy! This song was a true pleasure to learn.
 
 ## Drop-D tuning
 

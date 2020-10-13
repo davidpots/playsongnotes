@@ -14,6 +14,8 @@ yt_video_id: _________
 slug: "79"
 redirect_from:
   - /songs/townes-van-zandt-dead-flowers/
+pdf_version: v1
+pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23634325
 ---
@@ -23,6 +25,22 @@ patreon_lesson_url: https://www.patreon.com/posts/23634325
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jROWArwvnnI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll teach you how to pick up your guitar and play "Dead Flowers" in the style of Townes Van Zandt -- who plays the version you hear in the final scene of The Big Lebowski. This is originally a Rolling Stones song, but I fell in love with Van Zandt's version and wanted to share how I play it. I cannot quite fingerpick the way way Van Zandt does, so I show a bit of a strummier version -- though I do borrow some of his fun acoustic fills. Check it out and enjoy!
+
+Video timestamps:
+
+- 0:00 Playthrough preview
+- 1:40 Lesson overview
+- 2:43 Chords needed
+- 3:58 Strumming pattern
+- 4:31 Verse tutorial
+- 5:15 Chorus tutorial
+- 6:32 Intro & verse riff
+- 10:46 Misc C-chord fills
+- 13:18 Farewell
 
 ## Lyrics with chords
 

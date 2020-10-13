@@ -11,6 +11,8 @@ tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C, Fingerstyle]
 slug: "32"
 redirect_from:
   - /songs/justin-timberlake-and-anna-kendrick-true-colors/
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22348676
 ---
@@ -22,6 +24,19 @@ patreon_lesson_url: https://www.patreon.com/posts/22348676
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jujtsxzfCbs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+This video is an acoustic guitar lesson for the classic pop song "True Colors" as covered by Justin Timberlake & Anna Kendrick, for the 2016 film "Trolls". The song is originally by Cyndi Lauper. This video includes chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar (with and without a capo).
+
+Video timestamps:
+
+- 0:00 Preview & lesson overview
+- 2:58 Verse chords
+- 3:34 Fingerpicking basics
+- 5:12 Chorus chords
+- 6:35 Intro riff
+- 10:46 No Capo playthrough
 
 
 ## Lyrics w/ chords

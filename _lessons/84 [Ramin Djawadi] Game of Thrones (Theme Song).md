@@ -11,6 +11,8 @@ slug: "84"
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of C, Key of Am]
 redirect_from:
   - /songs/ramin-djawadi-game-of-thrones-theme-song/
+pdf_version: v1
+pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -20,6 +22,10 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_1fqr5OCMU?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+## Editor's notes
+
+In this lesson, I'll show you how to play an easy version of the Game of Thrones theme song on guitar. This will use no capo, and not worry about any advanced lead guitar riffs. Instead, I'll show you the simple chord shapes you need and very approachable ways to tackle the main distinctive riffs you hear in the song. I'll include chord shapes, tabs, strumming patterns, and plenty of contextual explanation. I hope you enjoy!
 
 ## Capo 3rd fret...
 

@@ -11,6 +11,8 @@ yt_video_id: _________
 slug: "91"
 redirect_from:
   - /songs/post-malone-feeling-whitney/
+pdf_version: v1
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
 ---
@@ -21,6 +23,9 @@ patreon_lesson_url: https://www.patreon.com/posts/22744103
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+## Editor's notes
+
+In this lesson I'll show you how to play "Feeling Whitney" by Post Malone. This song uses only a handful of conventional chords, but the fingerpicking pattern has been the fun part about learning it for me. I'll show you tabs for fingerpicking each of the chords needed, and explain how to practice it all & put it all together. I hope you enjoy!
 
 ## Chords needed
 
