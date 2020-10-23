@@ -11,7 +11,7 @@ yt_video_id: _________
 slug: "65"
 redirect_from:
   - /songs/pink-floyd-wish-you-were-here/
-pdf_version: v1
+pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22930200

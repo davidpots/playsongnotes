@@ -7,6 +7,7 @@ artist: Bob Dylan
 year: 1973
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of G]
+hidden_tags: [knocking, heavens]
 slug: "88"
 redirect_from:
   - /songs/bob-dylan-knockin-on-heavens-door/
