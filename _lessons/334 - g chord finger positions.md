@@ -7,10 +7,11 @@ tags: [Tips & Techniques, Key of G, Learning Chords]
 date_published: 2020-10-25
 pdf_version: v2
 pdf_numpages: 1
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/43134059
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35077534 -->
+
 
 ## Video lesson
 
@@ -20,7 +21,7 @@ patreon_lesson_url: https://www.patreon.com/posts/35077534 -->
 
 ## Editor's notes
 
-Hey friends! Here's a lesson explaining G-chord finger positioning, and how to approach the different finger placement options you have while playing that chord (e.g., ring finger vs. middle finger on the low E-string). To get right to the point: it's all about the _other_ chords you're playing, which have finger-placement requirements of their own. In my lesson I'll show which chords work best with one version of G, and which work with the other version of G. If you've ever had a tricky time switching to or from the G-chord, this video is for you.
+Hey friends! Here's a lesson explaining G-chord finger positioning, and how to approach the different finger placement options you have while playing that chord (e.g., ring finger vs. middle finger on the low E-string). To get right to the point: the correct version of G for any situation all depends about the _other_ chords you're playing, which have finger-placement requirements of their own. In my lesson I'll show which chords work best with one version of G, and which work with the other version of G. If you've ever had a tricky time switching to or from the G-chord, this video is for you.
 
 For example, you'll want to use your middle finger on the low-E string if you're also playing these chords:
 

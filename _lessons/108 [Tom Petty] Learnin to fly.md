@@ -8,6 +8,7 @@ year: 1991
 category: full_song
 yt_video_id: _________
 tags: [Full Song Lesson, 1990s, Rock, Key of C]
+hidden_tags: [learning]
 slug: "108"
 redirect_from:
   - /songs/tom-petty-learnin-to-fly/
