@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Patience" by Guns N'' Roses (play-along cover)'
+title: '"Patience" by Guns N'' Roses'
 song_title: "Patience"
 artist: Guns N' Roses
 year: 1989
@@ -12,6 +12,8 @@ pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34822415
+free_pdf_available: true
+free_pdf_url: https://songnotes.ck.page/a195e92c19
 ---
 
 ## Video lesson
@@ -44,9 +46,9 @@ Remember, tune down 1/2 step to play along with Guns N' Roses -- which would be 
 
     INTRO
         C   \   G   \   A   \   D   \  x2     (start whistling on the first G)
-        
+
         C   G   C   Em  C   G   D   D  x1
-         
+
     VERSE
         C                                       G
         ...Shed a tear, 'cause I'm missing you... I'm still alright to smile
@@ -56,7 +58,7 @@ Remember, tune down 1/2 step to play along with Guns N' Roses -- which would be 
         ...There was a time when I wasn't sure, but you... set my mind at ease
         A                                  D             Dsus4 D Dsus2 D
         ...There is no doubt you're in my heart now...
-        
+
     CHORUS
             C             G                     C               Em
             ...Sad woman, take it slow... it'll work itself out fine
@@ -68,36 +70,36 @@ Remember, tune down 1/2 step to play along with Guns N' Roses -- which would be 
             All we need is just a little patience
             D                D          D
             ....(Patience).....ooooooh, yeah....
-            
+
         [C] So I sit here on the stairs, 'cause I'd [G] rather be alone
         If [A] I can't have you right now, then I'll [D] wait, dear
-        
+
         [C] Sometimes, I get so tense... but I [G] can't speed up the time
         But [A] you know love, there's one more thing to [D] consider
-        
+
             [C] Sad woman, [G] take it slow, and [C] things will be just [Em] fine
             [C] You and I'll just [G] use a little [D] patience
-            
+
             [C] Sad sugar [G] take the time, 'cause the [C] lights are shining [Em] bright
             [C] You and I've got [G] what it takes to [D] make it
             We won't [D] fake it... oh, we'll never [D] break it... 'cause I can't [D] take it
-            
+
     SOLO        C ... G ... C ... Em ...
                 C ... G ... D ... D  ...
                 C ... G ... C ... Em ...
                 C ... G ... D ... D  ...    (...stay on D and slow down)
-                
+
     ENDING      D ... D ... G ... G ...  (repeat, build up)
-      
+
                 [D] ...... A little [G] patience... mmmmm [D] yeah... ooooh [G] yeah
                 We need a little [D] patience... yeah-----[G]....
                 Just a little [D] patience... yeah-----[G].... (some more patience)
-                
+
                 [D] I've been walking the streets at night
                 [G] Just trying to get it right
                 [D] It's hard to see with so many around
                 You [G] know I don't like being stuck in the crowd
-                
+
                 And the [D] streets don't change, but baby the name
                 [G] I ain't got time for the games
                 'Cause I [D] need you, yeah I [G] need you
