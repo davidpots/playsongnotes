@@ -29,146 +29,6 @@ Coming soon!
 
 Coming soon...
 
-## Chord shapes needed
-
-With a capo on 3rd fret, this song requires all the common chords in the key of D (D, Em, F#m, G, A, Bm). You could play these conventionally, or you can use the alternate voicings which I'll also show. The common way to play these chords is as follows:
-
-    E –––2––––3––––0––––2––––2––––0–––
-    B –––3––––3––––2––––3––––2––––0–––
-    G –––2––––0––––2––––4––––2––––0–––
-    D –––0––––0––––2––––4––––4––––2–––
-    A ––––––––2––––0––––2––––4––––2–––
-    E ––––––––3––––––––––––––2––––0–––
-         D    G    A    Bm  F#m   Em
-
-Alternatively, you can use the following voicings for all of the chords. This lets you skip out from ever playing a barre chord (which makes them easier, once you learn the shapes). An important thing to realize here is your left ring finger is on the same note for all of the chord shapes (3rd fret of the second string). Also, with the exception of the D chord, you'll leave the high-E string open for all chords. Together, these give this group of chords a uniform & consistent sound, via these droning notes.
-
-Technically, these voicings deviate from the named chords in a strict sense - but don't let that both you. Used well, these sound great. My advice with these is to lean into them when things are slower & less hectic. Then, when things pickup to a full strum -- switching to the regular chord shapes (above) works well. Or, you could mix and match! It's up to you. See my video lesson for reference.
-
-    [See my PDF for finger positions]
-
-    E ––2––  –(0)–  –(0)–  –(0)–  –(0)–  –(0)––
-    B ––3––  ––3––  ––3––  ––3––  ––3––  ––3–––
-    G ––2––  ––2––  ––2––  ––2––  ––2––  ––0–––
-    D ––0––  ––0––  ––2––  ––0––  ––0––  ––2–––
-    A –––––  ––x––  ––0––  ––2––  ––x––  ––2–––
-    E –––––  ––3––  –––––  –––––  ––2––  ––0–––
-        D      G      A      Bm    F#m     Em  
-
-## Strumming patterns
-
-This is a very long song, with many peaks & valleys -- so you'll want to be a bit considered with whatever strumming pattern you use. Said another way, you probably don't want to strum w/ the exact same pattern & volume the entire time... that might get monotonous. I'll show you a few options here, pick and choose from these options to put together a total package that works for your needs. Again, see my video lesson & full play-along cover to see how I approach it.
-
-### When you're starting out...
-
-Just begin by doing a downstrum on the "1" count only. Get comfortable with the progression and vocal melody. Sneak in other strums here and there, if you want, but get familiar with that "1" count being your anchor & foundation.
-
-    1 + 2 + 3 + 4 +
-    D
-    >
-
-### Adding end of measure strums...
-
-From there, you might try adding an "up-down-up" on the final 3 eighth notes of each measure... while keeping your "1" count bigger strum. This helps flesh things out a bit, and makes the chord changes (that always happen on the "1") sound a bit more dramatic since they'll be preceded by the trio of smaller strums.
-
-    1 + 2 + 3 + 4 +
-    D         U D U
-    >
-
-### Filling it out even more
-
-Finally, you could add some additional strums on the "2 + " counts, while keeping the strums above. This is a pretty common pattern in itself, but I would recommend approaching things gingerly -- and not over doing it. Keep the "1" count as your strongest strum, and view all these other strums as lighter filler strums. This will let you dial up (or down) the intensity of things, which is important for such a dynamic (and long) song.
-
-  1 + 2 + 3 + 4 +
-  D   D U   U D U
-  >
-
-## Listen to full versions of this song
-
-### Bruce's album version
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W2X0Gf9jfz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Bruce Springsteen VH1 Storytellers live performance
-
-This one is great, in that he tells the story behind each line of the song.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wv8p5aK-CGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Bruce Springsteen solo acoustic version
-
-Note, he's using the alternate versions of the chords, as I show above. Capo 2nd fret.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6TNF18oxirc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### John Mooreland's cover
-
-Nice to hear an acoustic cover with straight-ahead strumming & normal chord shapes.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jub6cg_UhcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Chord progressions for entire song
-
-    INTRO
-
-        D . . . Bm  . . . D . . . G . . .     
-        D . . . F#m . . . G . . . A . . .
-
-    VERSE 1 & 2
-
-        D . . . G . . . D . . G D . . .     The screen door slams...
-        D . . . A . . . G . . . G . . .     Like a vision she dances...
-        G . . . A . . . D . . . G . . .     Roy Orbison singing...
-        G . . . D . . . A . . . A . . .     Don't turn me home again...
-
-        D . . . G . . . D . . G D . . .     Don't run back inside, darling...
-        D . . . A . . . G . . . G . . .     So you're scared and you're thinking...
-        G . . . A . . . D . . . G . . .     Show a little faith, there's magic...
-        G . . . D . . . A . . . A . . .     And that's alright with me...
-
-    CHORUS 1 & 2
-
-        D . . . Bm  . . . D . . . G . . .   You can hide 'neath your covers...
-        D . . . F#m . . . G . . . A . . .   Waste your summer praying in vain...
-
-        D . . . Bm  . . . D . . . G . . .   Well, now I'm now hero...
-        D . . . F#m . . . G . . . A . . .   With a chance to make it good somehow...
-
-    VERSE 3
-
-        D . . . G . . . D . . G D . . .     Roll down the window and let the wind...
-        D . . . A . . . G . . . G . . .     Night's busted open, these two wheels...
-        G . . . A . . . D . . . G . . .     We got one last chance to make it real...
-        G . . . D . . . A . . . A . . .     Climb in back, heaven's waiting....
-
-    CHORUS 3
-
-        D . . . Bm  . . . D . . . G . . .   Ohh, come take my hand...
-        D . . . F#m . . . G . . . A . . .   Ohh, oh Thunder Road...
-
-        D . . . Bm  . . . D . . . G . . .   Lying out there like a killer in the sun...
-        D . . . F#m . . . G . . . A . . .   Ohh, oh Thunder road, sit tight...
-        D . . . D   . . .                   Thunder road----!
-
-    BRIDGE
-
-        G  . . . A  . . . D   . . . D  . . .    Well, I've got this guitar...
-        Bm . . . Bm . . . G   . . . A  . . .    My car's out back if you're ready...
-        G  . . . A  . . . F#m . . . Bm . . .    From your front porch...
-        G  . . . G  . . . A   . . . A  . . .    I know you're lonely for words...
-
-    VERSE 4
-
-        D   . . . G   . . . D . . G D . . .    There were ghosts in the eyes...
-        D   . . . A   . . . G . . . G . . .    They haunt this dusty beach road...
-        G   . . . A   . . . D . . . G . . .    They scream your name at night....
-
-    ENDING
-
-        F#m . . . F#m . . . G . . . G . . .    And in the lonely cool before dawn...
-        Em  . . . A   . . . G . . . G . . .    When you get to the porch, they're all..
-        Em  . . . Em  . . . G . . . A . . .    It's a town full of losers...
-        D   . . . D   . . .                    ...to win----!
 
 ## Lyrics w/ chords
 
@@ -268,6 +128,150 @@ Get the print-friendly version of the lyrics & chords in my PDF (top of this pag
     OUTRO (w/ harmonica)
         D . . . A . . . D . . . G . . .
         D . . . A . . . G . . . A . . .
+
+        ## Chord progressions for entire song
+
+            INTRO
+
+                D . . . Bm  . . . D . . . G . . .     
+                D . . . F#m . . . G . . . A . . .
+
+            VERSE 1 & 2
+
+                D . . . G . . . D . . G D . . .     The screen door slams...
+                D . . . A . . . G . . . G . . .     Like a vision she dances...
+                G . . . A . . . D . . . G . . .     Roy Orbison singing...
+                G . . . D . . . A . . . A . . .     Don't turn me home again...
+
+                D . . . G . . . D . . G D . . .     Don't run back inside, darling...
+                D . . . A . . . G . . . G . . .     So you're scared and you're thinking...
+                G . . . A . . . D . . . G . . .     Show a little faith, there's magic...
+                G . . . D . . . A . . . A . . .     And that's alright with me...
+
+            CHORUS 1 & 2
+
+                D . . . Bm  . . . D . . . G . . .   You can hide 'neath your covers...
+                D . . . F#m . . . G . . . A . . .   Waste your summer praying in vain...
+
+                D . . . Bm  . . . D . . . G . . .   Well, now I'm now hero...
+                D . . . F#m . . . G . . . A . . .   With a chance to make it good somehow...
+
+            VERSE 3
+
+                D . . . G . . . D . . G D . . .     Roll down the window and let the wind...
+                D . . . A . . . G . . . G . . .     Night's busted open, these two wheels...
+                G . . . A . . . D . . . G . . .     We got one last chance to make it real...
+                G . . . D . . . A . . . A . . .     Climb in back, heaven's waiting....
+
+            CHORUS 3
+
+                D . . . Bm  . . . D . . . G . . .   Ohh, come take my hand...
+                D . . . F#m . . . G . . . A . . .   Ohh, oh Thunder Road...
+
+                D . . . Bm  . . . D . . . G . . .   Lying out there like a killer in the sun...
+                D . . . F#m . . . G . . . A . . .   Ohh, oh Thunder road, sit tight...
+                D . . . D   . . .                   Thunder road----!
+
+            BRIDGE
+
+                G  . . . A  . . . D   . . . D  . . .    Well, I've got this guitar...
+                Bm . . . Bm . . . G   . . . A  . . .    My car's out back if you're ready...
+                G  . . . A  . . . F#m . . . Bm . . .    From your front porch...
+                G  . . . G  . . . A   . . . A  . . .    I know you're lonely for words...
+
+            VERSE 4
+
+                D   . . . G   . . . D . . G D . . .    There were ghosts in the eyes...
+                D   . . . A   . . . G . . . G . . .    They haunt this dusty beach road...
+                G   . . . A   . . . D . . . G . . .    They scream your name at night....
+
+            ENDING
+
+                F#m . . . F#m . . . G . . . G . . .    And in the lonely cool before dawn...
+                Em  . . . A   . . . G . . . G . . .    When you get to the porch, they're all..
+                Em  . . . Em  . . . G . . . A . . .    It's a town full of losers...
+                D   . . . D   . . .                    ...to win----!
+
+
+## Chord shapes needed
+
+With a capo on 3rd fret, this song requires all the common chords in the key of D (D, Em, F#m, G, A, Bm). You could play these conventionally, or you can use the alternate voicings which I'll also show. The common way to play these chords is as follows:
+
+    E –––2––––3––––0––––2––––2––––0–––
+    B –––3––––3––––2––––3––––2––––0–––
+    G –––2––––0––––2––––4––––2––––0–––
+    D –––0––––0––––2––––4––––4––––2–––
+    A ––––––––2––––0––––2––––4––––2–––
+    E ––––––––3––––––––––––––2––––0–––
+         D    G    A    Bm  F#m   Em
+
+Alternatively, you can use the following voicings for all of the chords. This lets you skip out from ever playing a barre chord (which makes them easier, once you learn the shapes). An important thing to realize here is your left ring finger is on the same note for all of the chord shapes (3rd fret of the second string). Also, with the exception of the D chord, you'll leave the high-E string open for all chords. Together, these give this group of chords a uniform & consistent sound, via these droning notes.
+
+Technically, these voicings deviate from the named chords in a strict sense - but don't let that both you. Used well, these sound great. My advice with these is to lean into them when things are slower & less hectic. Then, when things pickup to a full strum -- switching to the regular chord shapes (above) works well. Or, you could mix and match! It's up to you. See my video lesson for reference.
+
+    [See my PDF for finger positions]
+
+    E ––2––  –(0)–  –(0)–  –(0)–  –(0)–  –(0)––
+    B ––3––  ––3––  ––3––  ––3––  ––3––  ––3–––
+    G ––2––  ––2––  ––2––  ––2––  ––2––  ––0–––
+    D ––0––  ––0––  ––2––  ––0––  ––0––  ––2–––
+    A –––––  ––x––  ––0––  ––2––  ––x––  ––2–––
+    E –––––  ––3––  –––––  –––––  ––2––  ––0–––
+        D      G      A      Bm    F#m     Em  
+
+## Strumming patterns
+
+This is a very long song, with many peaks & valleys -- so you'll want to be a bit considered with whatever strumming pattern you use. Said another way, you probably don't want to strum w/ the exact same pattern & volume the entire time... that might get monotonous. I'll show you a few options here, pick and choose from these options to put together a total package that works for your needs. Again, see my video lesson & full play-along cover to see how I approach it.
+
+### When you're starting out...
+
+Just begin by doing a downstrum on the "1" count only. Get comfortable with the progression and vocal melody. Sneak in other strums here and there, if you want, but get familiar with that "1" count being your anchor & foundation.
+
+    1 + 2 + 3 + 4 +
+    D
+    >
+
+### Adding end of measure strums...
+
+From there, you might try adding an "up-down-up" on the final 3 eighth notes of each measure... while keeping your "1" count bigger strum. This helps flesh things out a bit, and makes the chord changes (that always happen on the "1") sound a bit more dramatic since they'll be preceded by the trio of smaller strums.
+
+    1 + 2 + 3 + 4 +
+    D         U D U
+    >
+
+### Filling it out even more
+
+Finally, you could add some additional strums on the "2 + " counts, while keeping the strums above. This is a pretty common pattern in itself, but I would recommend approaching things gingerly -- and not over doing it. Keep the "1" count as your strongest strum, and view all these other strums as lighter filler strums. This will let you dial up (or down) the intensity of things, which is important for such a dynamic (and long) song.
+
+    1 + 2 + 3 + 4 +
+    D   D U   U D U
+    >
+
+## Listen to full versions of this song
+
+### Bruce's album version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2X0Gf9jfz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Bruce Springsteen VH1 Storytellers live performance
+
+This one is great, in that he tells the story behind each line of the song.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wv8p5aK-CGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Bruce Springsteen solo acoustic version
+
+Note, he's using the alternate versions of the chords, as I show above. Capo 2nd fret.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TNF18oxirc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### John Mooreland's cover
+
+Nice to hear an acoustic cover with straight-ahead strumming & normal chord shapes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jub6cg_UhcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Thanks, all!
 
