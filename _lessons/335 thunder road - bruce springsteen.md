@@ -7,28 +7,33 @@ year: 1975
 category: full_song
 slug: "335"
 tags: [Full Song Lesson, 1970s, Key of D, Classic Rock]
-
----
-
-<!-- pdf_version: v2
-pdf_numpages: 3
+pdf_version: v2
+pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/42072722 -->
-
-
+patreon_lesson_url: https://www.patreon.com/posts/43406088
+---
 
 ## Video lesson
 
-Coming soon!
+<!-- Coming soon! -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/rgMpY4u9_j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSAyTaf-2pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Editor's notes
 
-Coming soon...
+Hey friends! In this lesson I'll teach you how to play Thunder Road by Bruce Springsteen, which is the opening track from his 1975 album Born to Run. This is a solo acoustic lesson, where I'll show you how to make the most of this song with one (non-electric) guitar. I'll show you two different ways to play the chords, 3 different options for strumming patterns, and go through the chord progressions for every part of the song. Also, I'll show you arrangements (with tabs) for the intro and outro of the song, if you'd like to imitate the harmonica (etc) you hear on the album with your guitar. Note I'll be using a capo 3rd fret, which lets us play this song in the key of D exactly like Bruce plays it. Enjoy!
 
+Video timestamps:
+
+- 0:00 Preview & lesson summary
+- 2:27 Basic chord shapes
+- 3:38 Chord progressions
+- 8:38 Strumming patterns
+- 13:29 Advanced chords & strumming tips
+- 18:46 Intro & outro riff (w/ tabs)
+- 23:40 Full playthrough w/ lyrics
 
 ## Lyrics w/ chords
 
