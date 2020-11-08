@@ -7,11 +7,11 @@ artist: Bob Dylan
 year: 1973
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of G]
-hidden_tags: [knocking, heavens]
+hidden_tags: [knocking, heavens, guns n roses, gnr, guns, roses, guns and roses]
 slug: "88"
 redirect_from:
   - /songs/bob-dylan-knockin-on-heavens-door/
-pdf_version: v1
+pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23257233
