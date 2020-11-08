@@ -91,13 +91,15 @@ Video timestamps:
 
 The entire song uses these four chords. There are plenty of ways you could embellish and modify these chords, such as turning the A-minor to a Am7 (x02010) -- which is what it sounds like Bob Dylan does. Obviously feel free to do that if you wish.
 
-    E ––––3–––––0–––––0–––––2–––––
-    B ––––0–––––1–––––1–––––3–––––
-    G ––––0–––––2–––––0–––––2–––––
-    D ––––0–––––2–––––2–––––0–––––
-    A ––––2–––––0–––––3–––––––––––
-    E ––––3–––––––––––––––––––––––
-          G     Am    C     D
+
+
+    E ––––3–––––0–––––0–––––2–––––      –––0–––  –––3–––  –––3–––
+    B ––––0–––––1–––––1–––––3–––––      –––1–––  –––1–––  –––1–––
+    G ––––0–––––2–––––0–––––2–––––      –––0–––  –––0–––  –––0–––
+    D ––––0–––––2–––––2–––––0–––––      –––2–––  –––2–––  –––2–––
+    A ––––2–––––0–––––3–––––––––––      –––0–––  –––0–––  –––3–––
+    E ––––3–––––––––––––––––––––––      –––––––  –––––––  –––––––
+          G     Am    C     D             Am7      Am7       C   
 
 As I note in my video lesson, if you're having trouble with the chord transitions, realize that for some of the transitions you're keeping fingers on the same note. This makes changing much easier, since it is one less finger to move. For example:
 
@@ -113,8 +115,10 @@ As I note in my video lesson, if you're having trouble with the chord transition
 
 Repeat this for the entire song. Intro, verse, and chorus -- they all use this basic progression. Remember, 4 counts per measure.
 
-    G . . . D . . . Am . . . Am . . .
-    G . . . D . . . C  . . . C  . . .
+    G               D               Am              Am
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    G               D               C               C
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 ## Strumming pattern
 
@@ -144,6 +148,20 @@ And finally, when you can do what's above reliably well enough, add a single ups
     D       D   D U
 
 Repeat this pattern for the entire song. Though of course, should you wish, you could get creative and use any strumming pattern you like.
+
+### The Triple UpStrum
+
+One final variation of the strumming pattern, to be used as you please -- is as follows. The idea here is to play the same accented note (3rd fret of high-E string) for all three of the up-strums. I'll often use this on the 4th measure and 8th measure, using normal strumming patterns for the other measures.
+
+    G                 D                 Am                Am7
+    1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
+    D       D   D U   D       D   D U   D       D   D U   D   D U   U   U
+
+and/or:
+
+    G                 D                 C                 C
+    1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
+    D       D   D U   D       D   D U   D       D   D U   D   D U   U   U
 
 ## Flourish and fills
 
