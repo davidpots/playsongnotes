@@ -191,6 +191,9 @@
   margin: 0 0 28px 0;
   box-sizing: border-box;
 }
+#search-box:focus {
+  outline-width: 0;
+}
 
 #search-button {
   box-sizing: border-box;
