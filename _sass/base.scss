@@ -190,9 +190,11 @@
   height: 48px;
   margin: 0 0 28px 0;
   box-sizing: border-box;
+  outline: none;
 }
 #search-box:focus {
   outline-width: 0;
+  outline: none;
 }
 
 #search-button {
