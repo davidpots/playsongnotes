@@ -7,12 +7,13 @@ year: 2019
 category: full_song
 slug: "337"
 tags: [Full Song Lesson, 2010s, Key of G, Country]
----
-
-<!-- pdf_version: v2
+pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/43406088 -->
+patreon_lesson_url: https://www.patreon.com/posts/43922050
+---
+
+
 
 ## Video lesson
 <!--
@@ -38,7 +39,7 @@ Video timestamps:
 - 12:11 Runs & fills: Intro tab
 - 16:17 Runs & fills: Em lick
 - 18:54 Runs & fills: D walk-up
-- 21:34 Full play-through w/ lyrics
+- 21:34 Full play-through cover w/ lyrics
 
 ## Lyrics with chords
 
