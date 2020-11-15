@@ -15,7 +15,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/43406088 -->
 
 ## Video lesson
-<!-- 
+<!--
 Coming soon! -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FagwWQN2eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,6 +27,18 @@ Coming soon! -->
 Hey friends! Here's a brand new lesson for the Billy Strings song "Enough to Leave," which several of you wrote in suggesting I check out. While it's easy to associate Billy Strings with virtuoso bluegrass guitar licks played at a breakneck speed -- I appreciate this song for how relatively basic & straightforward it is. A common strumming pattern, standard chords -- and heartfelt lyrics expressing sadness at the sudden loss of two good friends. As per the licks n' fills that Billy's music is known for -- I do teach some of those here, but they're a bit simplified -- just because I can't play exactly like him, and wanted to make this song accessible for all. Beyond that, I'll show you the usual: the chords, the progressions, talk about strumming tips, show tabs for the intro & a few other fills, and then end things with a full play-through.
 
 I hope you enjoy! If you want more Billy Strings, I also did [a lesson for classic song Summertime](https://playsongnotes.com/lessons/279/) that he covered with Marcus King -- where I similarly show relatively simplified versions of the licks and fills he plays.
+
+Video timestamps:
+
+- 0:00 Lesson overview
+- 2:31 Chord shapes
+- 3:33 Chord progressions
+- 6:00 Strumming: basic patterns
+- 8:32 Strumming: simplifying chord changes
+- 12:11 Runs & fills: Intro tab
+- 16:17 Runs & fills: Em lick
+- 18:54 Runs & fills: D walk-up
+- 21:34 Full play-through w/ lyrics
 
 ## Lyrics with chords
 
