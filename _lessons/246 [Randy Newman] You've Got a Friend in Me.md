@@ -41,33 +41,40 @@ Video timestamps:
 
 ## Song lyrics
 
-    You've got a friend in me
-    You've got a friend in me
-    When the road looks rough ahead
-    And you're miles and miles
-    From your nice warm bed
-    You just remember what your old pal said
-    Boy, you've got a friend in me
-    Yeah, you've got a friend in me
+    C            G+        C   C7    F               F         C     C7
+    You've got a friend in me.......... You've got a friend in me....
+    F           C           E         Am
+    ...When the road looks.... rough ahead
+               F         C               E         Am
+    And you're miles and miles from your nice warm bed
+    F             C                E       Am    
+    ...You just remember what your old pal said
+         Dm           G         C   C7        Dm           G         C
+    Boy, you've got a friend in me..... Yeah, you've got a friend in me
 
-    You've got a friend in me
-    You've got a friend in me
-    If you've got troubles
-    I've got 'em too
-    There isn't anything, I wouldn't do for you
-    We stick together and can see it through
-    'Cause you've got a friend in me
-    You've got a friend in me
+    C            G+        C   C7    F               F         C     C7
+    You've got a friend in me.......... You've got a friend in me....
+    F                C         E               Am
+    ...If you've got troubles.... I've got 'em too
+    F              C         E             Am
+    ...There isn't anything, I wouldn't do--- for you
+    F             C              E         Am
+    ...We stick together and can... see it through
+           Dm           G             C  C7   Dm           G         C
+    'Cause you've got a friend in me......... You've got a friend in me
 
-    Some other folks might be
-    A little bit smarter than I am
-    Bigger and stronger too
-    Maybe
-    But none of them will ever love you
-    The way I do, it's me and you
-    Boy, and as the years go by
-    Our friendship will never die
-    You're gonna see it's our destiny
-    You've got a friend in me
-    You've got a friend in me
-    You've got a friend in me
+        F             F                B7                         B7
+        ...Some other folks might be a... little bit smarter than I am
+        C             G+       C      C7
+        ...Bigger and stronger too... maybe
+        B7             B7           B7       B7
+        ...But none of them... will ever---- love you
+            Em    A7       Dm     G
+        The way I do, it's me and you, boy
+
+    C             G+       C   C7      F               F     C    C7
+    ...And as the years go by..... our friendship will never die
+    F               F            C    E   Am
+    ...You're gonna see it's our des--ti--ny
+    Dm           G         C   C7        Dm           G         C
+    You've got a friend in me..... Yeah, you've got a friend in me
