@@ -43,7 +43,7 @@ Video timestamps:
 
 ## How to play the full song (Lesson #338)
 
-Here's an updated video I made one year after the one up above. You can [https://playsongnotes.com/lessons/338/get the PDF for this newer version here](https://playsongnotes.com/lessons/338/).
+Here's an updated video I made one year after the one up above. You can [get the PDF for this newer version here](https://playsongnotes.com/lessons/338/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDEGA1jUDXw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
