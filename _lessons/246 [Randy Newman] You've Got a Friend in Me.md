@@ -2,7 +2,7 @@
 layout: song
 
 title: '"You''ve Got a Friend in Me" by Randy Newman (from Toy Story)'
-song_title:  You've Got a Friend in Me
+song_title:  You've Got a Friend in Me (fingerstyle intro)
 artist: Randy Newman
 year: 1995
 category: full_song
@@ -18,13 +18,16 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28140715
 ---
 
-## Fingerstyle intro lesson
+## Fingerstyle intro (Lesson #246)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pCgwYSW99RI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- Coming soon! -->
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+
+
+
 
 ## Editor's notes
 
@@ -36,6 +39,13 @@ Video timestamps:
 - 1:40 Left hand: chord shapes
 - 6:07 Right hand: fingerstyle
 - 13:19 Adv. rhythm technique
+
+
+## How to play the full song (Lesson #338)
+
+Here's an updated video I made one year after the one up above. You can [https://playsongnotes.com/lessons/338/get the PDF for this newer version here](https://playsongnotes.com/lessons/338/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDEGA1jUDXw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Song lyrics
 

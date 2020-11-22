@@ -9,14 +9,15 @@ yt_video_id: _________
 slug: "338"
 tags: [Full Song Lesson, 1990s, Key of C, Movie Songs, Fingerstyle]
 hidden_tags: [Toy Story, youve got a friend, youve got in a friend in me]
----
-
-<!-- pdf_version: v2
+pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/28140715 -->
+patreon_lesson_url: https://www.patreon.com/posts/44179412
+---
 
-## Full-song video tutorial (Lesson #338)
+
+
+## How to play the full song (Lesson #338)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDEGA1jUDXw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -42,6 +43,8 @@ Video timestamps:
 - 21:47 Full play-along cover w/ lyrics
 
 ## Advanced fingerstyle intro (Lesson #246)
+
+Here's my earlier lesson, recorded about one year before my full-song lesson above. This one focuses only on the intro, and aims to fully mimic what's played in the Claire Ryann cover on YouTube. Just note, this one is tricker than my newer video above!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDEGA1jUDXw?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
