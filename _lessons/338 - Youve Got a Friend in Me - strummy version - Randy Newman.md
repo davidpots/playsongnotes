@@ -46,7 +46,7 @@ Video timestamps:
 
 Here's my earlier lesson, recorded about one year before my full-song lesson above. This one focuses only on the intro, and aims to fully mimic what's played in the Claire Ryann cover on YouTube. Just note, this one is tricker than my newer video above!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vDEGA1jUDXw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pCgwYSW99RI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Song lyrics
 
