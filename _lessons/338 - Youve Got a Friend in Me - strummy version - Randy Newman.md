@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"You''ve Got a Friend in Me" by Randy Newman (from Toy Story)'
+title: '"You''ve Got a Friend in Me" (Randy Newman / Toy Story) • Full Song'
 song_title:  You've Got a Friend in Me (full song)
 artist: Randy Newman
 year: 1995
