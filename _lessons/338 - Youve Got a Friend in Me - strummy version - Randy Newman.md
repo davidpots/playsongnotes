@@ -27,7 +27,7 @@ patreon_lesson_url: https://www.patreon.com/posts/44179412
 
 ## Editor's notes
 
-Hey friends! New lesson here teaching you how to play a strum-friendly campfire version of "You've Got a Friend In Me", from start to finish. This is a song I first learned the intro to last year (see my lesson #246), but knew I needed to return and teach the entire song after several of you requested I do so. As such, I put together this lesson teaching you basic chord shapes, progressions, and strumming patterns needed -- and also show you two new ways to play the intro (one very simple, the other my "secret stash" personal version). This one has been a blast to learn, I hope you enjoy learning it as much as I did!
+Hey friends! New lesson here teaching you how to play a strum-friendly campfire version of "You've Got a Friend In Me", from start to finish. This is a song I first learned the intro to last year ([see my lesson #246](https://playsongnotes.com/lessons/246/)), but knew I needed to return and teach the entire song after several of you requested I do so. As such, I put together this lesson teaching you basic chord shapes, progressions, and strumming patterns needed -- and also show you two new ways to play the intro (one very simple, the other my "secret stash" personal version). This one has been a blast to learn, I hope you enjoy learning it as much as I did!
 
 This version is largely inspired by the Claire Ryann (and her dad) cover that's on YouTube, which is fantastic and I recommend watching. Note, I don't get into the complexities of his fingerstyle technique -- just because they raise the bar of difficulty quite a bit. Where possible, I'm opting for easy / familiar chords, especially during the bridge which I keep as simple as possible.
 
