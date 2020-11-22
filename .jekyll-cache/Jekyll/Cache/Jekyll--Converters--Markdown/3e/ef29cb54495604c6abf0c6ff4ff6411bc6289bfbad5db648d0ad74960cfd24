@@ -1,44 +1,28 @@
----
-layout: song
-
-title: '"You''ve Got a Friend in Me" by Randy Newman (from Toy Story)'
-song_title:  You've Got a Friend in Me
-artist: Randy Newman
-year: 1995
-category: full_song
-yt_video_id: _________
-slug: "246"
-tags: [Full Song Lesson, 1990s, Key of C, Movie Songs, Fingerstyle]
-hidden_tags: [Toy Story]
-redirect_from:
-  - /songs/randy-newman-you-ve-got-a-friend-in-me/
-pdf_version: v2
+I"�<!-- pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/28140715
----
+patreon_lesson_url: https://www.patreon.com/posts/28140715 -->
 
-## Fingerstyle intro lesson
+<h2 id="video-lesson">Video lesson</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pCgwYSW99RI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pCgwYSW99RI?showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
-<!-- Coming soon! -->
+<p>Coming soon!</p>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+<h2>PDF not yet available...</h2>
 
-## Editor's notes
+<p>I have not yet made a PDF version of this lesson. If you'd like to request that I make one, <a href="mailto:play.songnotes@gmail.com?subject=PDF Request for 'You've Got a Friend in Me (full song)'">shoot me an email</a> and please let me know - I am always adding back catalog lessons to my PDF library.</p>
+<p class="small"><em><a href="http://playsongnotes.com/downloads">Here's a list</a> of the 150+ lessons I have made PDFs for.</em></p>
 
-In this lesson I'll show you how to play an acoustic fingerstyle intro to "You've Got a Friend in Me", the classic song from the Toy Story movies. This particular arrangement is taken from the YouTube cover of this song by Claire Ryann and her dad, who plays this beautifully and makes it look easy. It's only 4 measures, but I'll break it down for you step by step: the left hand chord shapes, the right hand fingerstyle technique, and also show some opportunities to add some advanced rhythm flourish.
+<h2 id="editors-notes">Editor’s notes</h2>
 
-Video timestamps:
+<p>…..</p>
 
-- 0:00 Playthrough & overview
-- 1:40 Left hand: chord shapes
-- 6:07 Right hand: fingerstyle
-- 13:19 Adv. rhythm technique
+<h2 id="song-lyrics">Song lyrics</h2>
 
-## Song lyrics
+<p>See PDF for my intro tab.</p>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>VERSE
     C            G+        C   C7    F               F         C     C7
     You've got a friend in me.......... You've got a friend in me....
     F           C           E         Am
@@ -61,6 +45,7 @@ Video timestamps:
            Dm           G             C  C7   Dm           G         C
     'Cause you've got a friend in me......... You've got a friend in me
 
+BRIDGE
         F             F                B7                         B7
         ...Some other folks might be a... little bit smarter than I am
         C             G+       C      C7
@@ -70,9 +55,12 @@ Video timestamps:
             Em    A7       Dm     G
         The way I do, it's me and you, boy
 
+ENDING
     C             G+       C   C7      F               F     C    C7
     ...And as the years go by..... our friendship will never die
     F               F            C    E   Am
     ...You're gonna see it's our des--ti--ny
     Dm           G         C   C7        Dm           G         C
     You've got a friend in me..... Yeah, you've got a friend in me
+</code></pre></div></div>
+:ET
