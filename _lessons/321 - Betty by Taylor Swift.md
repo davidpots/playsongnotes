@@ -59,7 +59,7 @@ Here's the lyrics and chords to Betty, from Taylor Swift's 2020 album "Folklore"
     ...You heard the rumors from Inez, you can't believe a word
         F/C                     F/C                 G     G
     She says, most times... but this time it was true...
-      
+
             Am           G       C    F/C        Am      G         F/C   F/C   G   G
         The worst, thing that, I ever did... was what, I did... to you----
 
