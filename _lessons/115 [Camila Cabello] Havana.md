@@ -15,7 +15,10 @@ pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38165123
+free_pdf_available: true
+free_pdf_url: https://songnotes.ck.page/60b87ca8cf
 ---
+
 
 
 

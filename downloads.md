@@ -52,11 +52,11 @@ permalink: /downloads/
 Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
 
 <ul>
-  <li><strong><a target="_blank" href="https://playsongnotes.com/lessons/293">House of the Rising Sun</a></strong> by The Animals</li>  
-  <li><strong><a target="_blank" href="https://playsongnotes.com/lessons/288">Patience</a></strong> by Guns n' Roses</li>  
-  <li><strong><a target="_blank" href="https://playsongnotes.com/lessons/283">You've Lost that Loving Feeling</a></strong> by The Righteous Brothers</li>
-  <li><strong><a target="_blank" href="https://www.patreon.com/posts/38165123">Havana</a></strong> by Camila Cabello</li>
-  <li><strong><a target="_blank" href="https://playsongnotes.com/lessons/321">Betty</a></strong> by Taylor Swift</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/293">House of the Rising Sun</a></strong> by The Animals</li>  
+  <li><strong><a href="https://playsongnotes.com/lessons/288">Patience</a></strong> by Guns n' Roses</li>  
+  <li><strong><a href="https://playsongnotes.com/lessons/283">You've Lost that Loving Feeling</a></strong> by The Righteous Brothers</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/115">Havana</a></strong> by Camila Cabello</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/321">Betty</a></strong> by Taylor Swift</li>
   <li><strong><a target="_blank" href="https://www.patreon.com/posts/37186031">Travis Picking vs. Traditional Fingerstyle</a></strong> (tips & techniques)</li>  
   <li><strong><a target="_blank" href="https://www.patreon.com/posts/31795113">Essential Mods for the A-minor chord</a></strong> (tips & techniques)</li>  
   <li><strong><a target="_blank" href="https://www.patreon.com/posts/31073686">Fingerstyle Walkdown exercise, Key of C</a></strong> (warm up exercise)</li>
