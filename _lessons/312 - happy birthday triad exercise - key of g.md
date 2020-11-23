@@ -9,6 +9,8 @@ pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39665187
+free_pdf_available: true
+free_pdf_url: https://songnotes.ck.page/95b7dd5fd1
 ---
 
 ## Video lesson
