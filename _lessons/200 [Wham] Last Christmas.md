@@ -12,7 +12,7 @@ hidden_tags: [George Michael]
 slug: "200"
 redirect_from:
   - /songs/wham-last-christmas/
-pdf_version: v1
+pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23522694
@@ -35,6 +35,12 @@ After many requests, I'm please to bring you all this lesson for "Last Christmas
 - 4:18 Strumming patterns
 - 7:30 Modifying each chord shape
 - 10:21 Mixing the chorus melody w/ chords
+
+## PDF chord sheet overview
+
+Here's an up-close look at the print-friendly PDF chord sheet I made for this song (3 pages, with lyrics/tabs/strumming/etc):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_tm-im5OSU?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics w/ chords
 

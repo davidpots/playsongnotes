@@ -1,4 +1,4 @@
-I"u�<div style="text-align: center;">
+I"ߵ<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -24,13 +24,13 @@
     
 
     
-        "title": "\"You've Got a Friend in Me\" by Randy Newman (from Toy Story)",
+        "title": "\"You've Got a Friend in Me\" (Randy Newman / Toy Story) • Full Song",
         "category": "Full Song",
         "url": "/lessons/338/",
         "date": "",
-        "patreon_url": "",
-        "pdf_image": "",
-        "pdf_v2": "",
+        "patreon_url": "https://www.patreon.com/posts/44179412",
+        "pdf_image": "<img src='/images/pdfs/preview/338.jpg' />",
+        "pdf_v2": "v2",
         "slug": "338"
       },
   
@@ -1920,7 +1920,7 @@
     
 
     
-        "title": "\"You've Got a Friend in Me\" by Randy Newman (from Toy Story)",
+        "title": "\"You've Got a Friend in Me\" (Randy Newman / Toy Story) • Fingerstyle Intro",
         "category": "Full Song",
         "url": "/lessons/246/",
         "date": "",
@@ -2730,7 +2730,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23522694",
         "pdf_image": "<img src='/images/pdfs/preview/200.jpg' />",
-        "pdf_v2": "v1",
+        "pdf_v2": "v2",
         "slug": "200"
       },
   
@@ -6480,11 +6480,11 @@ $(document).ready(function(){
 
 <div class="tile_metric">
   <h3>PDF v1</h3>
-  <p>101</p>
+  <p>100</p>
 </div>
 <div class="tile_metric">
   <h3>PDF v2</h3>
-  <p>93</p>
+  <p>94</p>
 </div>
 <hr />
 
