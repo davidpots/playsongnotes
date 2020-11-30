@@ -1,35 +1,25 @@
 ---
 layout: song
-title: '"Sweet Virginia" (intro) by The Rolling Stones'
+title: '"Sweet Virginia" (full song) by The Rolling Stones'
 song_title: Sweet Virginia
 artist: The Rolling Stones
 year: 1972
 category: full_song
-date_published: 2019-12-29
-slug: "274"
-tags: [Full Song Lesson, Key of C, 1970s, Classic Rock]
+date_published: 2020-11-29
+slug: "340"
+tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 hidden_tags: [Keith Richards, Mick Jagger, British, the stones]
 pdf_version: v2
-pdf_numpages: 3
+pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32695612
+patreon_lesson_url: https://www.patreon.com/posts/44461084
 ---
 
-## Intro guitar lesson
+## Video lesson
 
-Here's my lesson on how to play the intro (first 20 measures). Note, my PDF linked below includes lyrics & chords for the entire song, should you want to use it as a guide to strum along to the entire song ([click here to see a preview](http://playsongnotes.com/lessons/340)).
+Here's my lesson on how to play the intro (first 20 measures) -- which is exactly the same chords / progression / strumming used for the verse and chorus sections. This intro tab is available in the PDF linked below. My PDF also includes all the lyrics, with chords inline, if you want to strum along to the entire song.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AqoK5lm1AZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YS0up2Oo8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-## Editor's notes
-
-Hey friends, here's my lesson teaching you how to play the intro sequence to "Sweet Virginia" by the Rolling Stones, from their classic 1972 album Exile on Main Street. I'll be focusing on the first 20 measures, which offer a great sampling of guitar technique: strumming, walking bass notes, little fills, and a few lead riffs you can imitate with a solo acoustic guitar while strumming. I'll break all this down thoroughly in my video. Whether a relative beginner or pretty far along your guitar journey, I trust this will help take you where you want to go.
-
-A quick final note: as per usual, I'm less interested with highlighting every single note that Keith Richards & Mick Taylor are technically playing, in all cases – as this would be quite tedious and miss the forest for the trees, in my opinion. Instead, I'll show you the lay of the land, explain the foundation, and talk about how to approach the intro overall -- so you'll be able to pick it up and run with it, no matter your skill level.
 
 Lesson timestamps:
 
@@ -42,6 +32,10 @@ Lesson timestamps:
 - 18:05 Tips for mimicking the lead guitar
 - 19:55 Playthrough (simple & advanced)
 - 21:28 Farewell
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YS0up2Oo8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
 ## Recordings of this song
 
@@ -118,11 +112,10 @@ Rolling Stones live version:
             Got to scrape that shit right off your shoes-------
                                             [let final two chords ring]
 
-## Chord progression (key of G)
+## Strumming pattern
 
-Verse:
+See my PDF (page 2) to learn how to strum this song.
 
-    | C . . . | A7 . . . | G      G
-    C      A7     G      G
-    C      A7     G      C
-    G      D      G  (C) G
+## Intro tab
+
+See my PDF (page 3-4) to view the complete tab for the intro.
