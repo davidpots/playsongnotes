@@ -8,19 +8,21 @@ category: full_song
 date_published: 2020-12-04
 slug: "341"
 tags: [Full Song Lesson, Key of E, 1970s, Classic Rock, Folk]
-hidden_tags: [cats, cat's]
+hidden_tags: [cats, cat's, cat stevens]
 pdf_version: v2
 pdf_numpages: 3
 ---
 
 <!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/44461084 -->
+patreon_lesson_url: https://www.patreon.com/posts/44685553 -->
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfQQKYoy6BY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+_No PDF yet -- coming Saturday Dec 5 @ 7am central time_
+
+<!-- { % include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %} -->
 
 <!-- <p style="margin-top: 24px; margin-bottom: 48px; font-style: italic; text-align: center; font-size: 14px;">This PDF is also available for individual purchase for $3. <a href="">Learn more »</a></p> -->
 
