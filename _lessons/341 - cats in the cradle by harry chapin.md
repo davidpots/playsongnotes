@@ -162,7 +162,7 @@ There's also this E walk-down you can play, which is heard before the very first
 
     [ See PDF for tab ]
 
-## D walk-down
+## D walk-down riff w/ tab
 
 Here's an optional walk-down you can play during the long "D" sequence before each chorus. The important part here is getting clean bass notes... it's okay if the strumming is slightly muffled so long as you keep a steady rhythm. See my video lesson for reference.
 
@@ -175,7 +175,10 @@ Here's an optional walk-down you can play during the long "D" sequence before ea
         D      /c#     /b      /a       G      /f#      E
         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1
 
-The same walk down shown in time with the music looks like this... the bass notes occur directly along w/ the all-caps word just above.
+The same walk down shown in time with the music looks like this... the bass notes occur directly along w/ the all-caps word just above. Here's two examples. Note how in the second example (the verse w/ the car keys), it is unique in that it's the only verse that cuts off (removes) the final G-E transition at the end. Thematically, this is an instance where things end before you'd expect -- be it the verse chord progression (musically), but also the son's interest in prioritizing his father (lyrically).
+
+    "He was TALK-ing 'fore I KNEW it, and AS he grew... he'd say, I'M gonna BE like YOU, Dad, you know I'm gonna be like YOU"
+            D                /C#          /B         /A           /G       /F#      E             G                      E
 
     "What I'd REAL-ly like DAD is to BORR-ow the CAR keys... I'll see you LATE-r can I HAVE them please..."
               D            /C#       /B          /A       /G              /F#          E
