@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: _________
 slug: "100"
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of A, Movie Songs]
+hidden_tags: [tuesdays]
 redirect_from:
   - /songs/lynyrd-skynyrd-tuesdays-gone/
 pdf_version: v1

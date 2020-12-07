@@ -166,20 +166,21 @@ There's also this E walk-down you can play, which is heard before the very first
 
 Here's an optional walk-down you can play during the long "D" sequence before each chorus. The important part here is getting clean bass notes... it's okay if the strumming is slightly muffled so long as you keep a steady rhythm. See my video lesson for reference.
 
-    [ See PDF for the tab ]
+    e –––––(2)––––––––––––––––––––––––––––––––––––––––––0––
+    B ––––––3–3–––––3–3–––––3–3–––3–3–––––––3–3–––––3–3–0––
+    G ––––––2–2–––––2–2–––––2–2–––2–2–––––––0–0–––––0–0–1––
+    D ––0–––––––––––––––––––––––––––––––––––––––––––––––2––
+    A ––––––––––4–––––––2–––––––0–––––––––––––––––––––––2––
+    E ––––––––––––––––––––––––––––––––––3–––––––2–––––––0––
+        D      /c#     /b      /a       G      /f#      E
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1
 
-<!-- e –––––(2)––––––––––––––––––––––––––––––––––––––––––0––
-B ––––––3–3–––––3–3–––––3–3–––3–3–––––––3–3–––––3–3–0––
-G ––––––2–2–––––2–2–––––2–2–––2–2–––––––0–0–––––0–0–1––
-D ––0–––––––––––––––––––––––––––––––––––––––––––––––2––
-A ––––––––––4–––––––2–––––––0–––––––––––––––––––––––2––
-E ––––––––––––––––––––––––––––––––––3–––––––2–––––––0––
-    D      /c#     /b      /a       G      /f#      E
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 -->
+The same walk down shown in time with the music looks like this... the bass notes occur directly along w/ the all-caps word just above.
+
+    "What I'd REAL-ly like DAD is to BORR-ow the CAR keys... I'll see you LATE-r can I HAVE them please..."
+              D            /C#       /B          /A       /G              /F#          E
 
 Without this walk down, just strum as usual with this part of the progression:
 
-    [ See PDF for the diagram ]
-
-<!-- D               D               G               E
-1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 -->
+    D               D               G               E
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1
