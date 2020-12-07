@@ -25,6 +25,8 @@ patreon_lesson_url: https://www.patreon.com/posts/44179412
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+<p style="margin-top: 24px; margin-bottom: 48px; font-style: italic; text-align: center; font-size: 14px;">This PDF is also available for individual purchase for $3. <a href="https://gum.co/TWfBb">Get it here »</a></p>
+
 ## Editor's notes
 
 Hey friends! New lesson here teaching you how to play a strum-friendly campfire version of "You've Got a Friend In Me", from start to finish. This is a song I first learned the intro to last year ([see my lesson #246](https://playsongnotes.com/lessons/246/)), but knew I needed to return and teach the entire song after several of you requested I do so. As such, I put together this lesson teaching you basic chord shapes, progressions, and strumming patterns needed -- and also show you two new ways to play the intro (one very simple, the other my "secret stash" personal version). This one has been a blast to learn, I hope you enjoy learning it as much as I did!

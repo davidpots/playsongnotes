@@ -23,6 +23,8 @@ Coming soon! -->
 
  {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+<p style="margin-top: 24px; margin-bottom: 48px; font-style: italic; text-align: center; font-size: 14px;">This PDF is also available for individual purchase for $3. <a href="https://gum.co/QeliTS">Get it here »</a></p>
+
 ## Editor's notes
 
 Hey friends! Here's a brand new lesson for the Billy Strings song "Enough to Leave," which several of you wrote in suggesting I check out. While it's easy to associate Billy Strings with virtuoso bluegrass guitar licks played at a breakneck speed -- I appreciate this song for how relatively basic & straightforward it is. A common strumming pattern, standard chords -- and heartfelt lyrics expressing sadness at the sudden loss of two good friends. As per the licks n' fills that Billy's music is known for -- I do teach some of those here, but they're a bit simplified -- just because I can't play exactly like him, and wanted to make this song accessible for all. Beyond that, I'll show you the usual: the chords, the progressions, talk about strumming tips, show tabs for the intro & a few other fills, and then end things with a full play-through.
