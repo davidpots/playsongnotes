@@ -25,6 +25,8 @@ redirect_from:
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
+<p style="margin-top: 24px; margin-bottom: 48px; font-style: italic; text-align: center; font-size: 14px;">This PDF is also available for individual purchase for $3. <a href="https://gum.co/nSkLd">Get it here »</a></p>
+
 ## Editor's notes
 
 Hey friends! New lesson here, where I'll show you how to play a solo acoustic version of Tennessee Whiskey by Chris Stapleton. This one has a simple structure (it only uses A and B-minor), but there's so much fun to be had by adding small riffs between these two chords. In my lesson I'll start with the basics (basic chord shapes & 3 strumming options) -- and then I'll get into some more advanced stuff, including chord variations and a few ways you can combine lead fills with your strumming.
