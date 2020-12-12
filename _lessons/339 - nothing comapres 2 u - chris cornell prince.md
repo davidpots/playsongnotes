@@ -32,7 +32,7 @@ _PDF chord sheet will be available Saturday, Dec 12 @ 7am central time._
 
 ## Editor's notes
 
-Coming soon...
+Hey friends! In this guitar lesson I'll teach you how to play Nothing Compares 2 U, as played in the acoustic style of Chris Cornell (from his 2015 cover he did for Sirius XM). You may know this song from Prince's 1985 version, or the mega-hit by Sinead O'Conner from 1990. My lesson will show you the chord shapes, explain the progressions, demonstrate the strumming patterns, and finally show you the intro riff (tab included). I'll also do a full playthrough at the end, so you can see how it sounds when all put together. I hope you enjoy!
 
 Video timestamps:
 
