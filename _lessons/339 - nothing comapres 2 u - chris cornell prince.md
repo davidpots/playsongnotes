@@ -11,12 +11,9 @@ tags: [Full Song Lesson, 1990s, 2010s, Key of C]
 hidden_tags: [prince, sinead, oconnor, sinead oconnor]
 pdf_version: v2
 pdf_numpages: 3
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/44955121
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/44179412 -->
-
-
 
 ## Video lesson
 
@@ -24,9 +21,9 @@ patreon_lesson_url: https://www.patreon.com/posts/44179412 -->
 
 <!-- Coming soon! -->
 
-<!-- { % include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %} -->
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
 
-_PDF chord sheet will be available Saturday, Dec 12 @ 7:05am central time._
+<!-- _PDF chord sheet will be available Saturday, Dec 12 @ 7:05am central time._ -->
 
 <!-- <p style="margin-top: 24px; margin-bottom: 48px; font-style: italic; text-align: center; font-size: 14px;">This PDF is also available for individual purchase for $3. <a href="https://gum.co/TWfBb">Get it here »</a></p> -->
 
