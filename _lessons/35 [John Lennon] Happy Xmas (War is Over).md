@@ -8,6 +8,7 @@ year: 1972
 category: full_song
 yt_video_id: _________
 tags: [Full Song Lesson, 1970s, Classic Rock, Holidays, Key of A, Key of D, Key of G]
+hidden_tags: [christmas]
 slug: "35"
 redirect_from:
   - /songs/john-lennon-happy-xmas-war-is-over/
