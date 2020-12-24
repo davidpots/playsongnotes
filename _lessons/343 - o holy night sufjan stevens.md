@@ -89,20 +89,21 @@ Key of C, 6 beats per measure, 74 BPM
             Let all within us praise his holy name
 
                 (louder)
-                Am     Am         Em     Em      Dm             Am      Am    (G/B)
-                Fall----- on your knees------- O hear the angel voice---es
+                Am     Am         Em     Em      Dm     Dm            Am      Am    (G/B)
+                Fall----- on your knees------- O hear------ the angel voice---es
                   C       G       C      F       C      G                   C     C
                 O night-------- divine-------- O night----- when Christ was born
                   G       G       C      F       C      G             C      C
                 O night-------- divine-------- O night----- O night divine
 
                 (quieter)
-                Am     Am         Em     Em      Dm             Am     Am   (G/B)
-                Fall----- on your knees------- O hear the angel voice--es
-                  C       G       C      F       C      G                   C       C
+                Am     Am         Em     Em      Dm     Dm            Am      Am    (G/B)
+                Fall----- on your knees------- O hear------ the angel voice---es
+                  C       G       C      F       C      G                   C     C
                 O night-------- divine-------- O night----- when Christ was born
-                  G       G       C      F       C      G             C     C
+                  G       G       C      F       C      G             C      C
                 O night-------- divine-------- O night----- O night divine
+
 
                                                           (let final C ring to end) 
 
