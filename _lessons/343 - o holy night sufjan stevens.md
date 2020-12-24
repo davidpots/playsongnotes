@@ -9,12 +9,13 @@ date_published: 2020-12-24
 slug: "343"
 tags: [Full Song Lesson, Key of C, 2000s, Holiday]
 hidden_tags: [oh holy night, christmas, xmas]
----
-
-<!-- pdf_version: v2
+pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/44685553 -->
+patreon_lesson_url: https://www.patreon.com/posts/45396311
+---
+
+
 
 ## Video lesson
 
