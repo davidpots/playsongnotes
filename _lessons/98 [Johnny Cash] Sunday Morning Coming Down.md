@@ -31,6 +31,7 @@ Video timestamps:
 
 - 2:36 Chords needed
 - 3:55 Strumming pattern (easy)
+- 5:32 Playthrough (with easy strum)
 - 7:18 Walk-down transition riffs
 - 11:40 Strumming pattern (advanced)
 
