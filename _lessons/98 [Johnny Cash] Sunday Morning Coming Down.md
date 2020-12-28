@@ -41,6 +41,8 @@ To play along with Kris Kristofferson's version, use a capo on the 2nd fret. To 
 
 ## Lyrics w/ chords
 
+Key of G, 156 BPM.
+
             G                              C              D                G
     Well, I woke up Sunday morning with no way to hold my head that didn't hurt
             G                               Em                          D
@@ -146,6 +148,10 @@ From D to G:
     A ||––––––––––2––––––––––––––2–––––––––
     E ||–––0––––––––––––––2––––––––––––––––
            Em
+
+## Chord progressions
+
+See my PDF for the verse and chorus chord progression diagram.
 
 ## Good luck!
 
