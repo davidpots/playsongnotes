@@ -19,7 +19,7 @@ Hey friends! Here's a quick question & answer video, where I'll talk about walk-
 
 _"David, could you address walk ups and downs. Are there standard ones for each chord transition (a - c, c- g etc.). They really make a huge difference. I'm not sure where to start in adding them."_
 
-In answering Bill's question, I'll be showing the tool FretMonster which I've built and you can access [via this link](https://playsongnotes.com/fretmonster). This tool can help you visualize the notes in any key you pick, as shown on the fretboard. Also, the tool lets you change between seeing the notes with their name (e.g., C, F, G), or view those same notes but with their scale degree (e.g. 1, 4, 5). This can be a help way to see the notes of a scale in action, as they're positioned on the fretboard. And of course, I'll explain how walk-ups and walk-downs are essentially using these exact notes. Check out my video above for more!
+In answering Bill's question, I'll be showing the tool FretMonster which I've built and you can access [via this link](https://playsongnotes.com/fretmonster). This tool can help you visualize the notes in any key you pick, as shown on the fretboard. Also, the tool lets you change between seeing the notes with their name (e.g., C, F, G), or view those same notes but with their scale degree (e.g. 1, 4, 5). This can be a helpful way to see the notes of a scale in action, as they're positioned on the fretboard. And of course, I'll explain how walk-ups and walk-downs are essentially using these exact notes. Check out my video above for more!
 
 ## Lessons I've made with walk-ups and walk-downs
 
