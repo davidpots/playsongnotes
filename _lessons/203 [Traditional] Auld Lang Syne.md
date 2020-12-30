@@ -1,8 +1,8 @@
 ---
 layout: song
 
-title: '"Auld Land Syng" (New Years Song)'
-song_title:  Auld Land Syng
+title: '"Auld Lang Syne" (New Years Song)'
+song_title:  Auld Lang Syne
 artist: (traditional)
 year: 1788
 category: full_song
