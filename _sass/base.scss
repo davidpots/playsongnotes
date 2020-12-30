@@ -554,3 +554,14 @@ tr[data-pdf-v2="v1"] td {
     color: $link-color;
   }
 }
+
+//  testimonial
+
+.testimonial {
+  list-style: none;
+  // width: 320px;
+  background: white;
+  padding: 24px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
