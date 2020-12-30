@@ -5,6 +5,7 @@ song_title: "Willin'"
 artist: Little Feat
 year: 1972
 tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
+hidden_tags: [Willing, willin]
 category: full_song
 slug: "306"
 date_published: 2020-06-13
@@ -47,7 +48,7 @@ In my video, I break everything down step by step, in this order:
         E |–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–
             G                 D/F#              Em         (D)    C
             1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
-      
+
         e–|–––––3–––––––––––|–––––––––––––––––|–––––3–––––––––––|–––––3–––––––––––||
         B–|–––––0–––––––––––|–1–––––3–––––1–––|–––––0–––––––––––|–––––0–––––––––––||
         G–|–––––0–––––––––––|–0–––––0–––––0–––|–––––0–––––––––––|–––––0–––––––––––||
@@ -99,12 +100,12 @@ In my video, I break everything down step by step, in this order:
         I [G] smuggled some smokes and folks from [D/F#] Mexico
         [Em] Baked by the sun [C] every time I go
         To [G] Mexico... [C D* C]... and I'm [G] still...
-         
+
             And I've been from [C] Tucson to [D] Tucumcari
             [D] Tehachapi to [G] Tonapah
             Driven [G] every kind of [Am7] rig that's [G/B] ever been [C] made----
             [C] Driven the back roads so I wouldn't get [D] weighed----
-            
+
                   (no chord)
                 And if you give me... [C] weed, [G/B] whites, [Am7] and [G] wine
                 And you show me a [D] sign
@@ -199,7 +200,7 @@ Chorus:
     "I'll be willin'..."
     G                 C     D*    C     G                 G
     1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
- 
+
 ## Intro, step by step
 
 First understand these basic chord shapes. If you've ever learned Blackbird (The Beatles) or A Case of You (Joni Mitchell), these are the same sort of chords those songs use. The third string (G) will always be left open and unfretted.
@@ -209,7 +210,7 @@ First understand these basic chord shapes. If you've ever learned Blackbird (The
 Then, look at the first half of the progression as follows. Do a single strum of each chord on the 1 count. The only exception is just before the C (fourth measure), there's a single count of the D chord being played on the 4-count of the 3rd measure.
 
     [ see PDF, page 4 ]
-  
+
 Next, we'll bring in the second half of the intro as well. This is entirely G, with the exception of the 6th measure -- which has a C-major chord sliding up 2 frets to play the D-major variation, before sliding back down.
 
     [ see PDF, page 4 ]
