@@ -12,8 +12,8 @@ tags: [Full Song Lesson, Key of C, Traditional, Holiday]
 hidden_tags: [New Years]
 redirect_from:
   - /songs/traditional-auld-lang-syne/
-pdf_version: v1
-pdf_numpages: 3
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23649592/
 ---
