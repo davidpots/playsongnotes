@@ -23,8 +23,7 @@ date_published: 2021-01-08
 {% include convertkit-blanktab.html %}
 </div>
 
-<p class="pdf_module_v2__footnote">If you're a Patreon supporter, <a target="_blank" href="{{include.patreon_url}}">click here</a> to get this PDF</p>
-
+<!-- <p class="pdf_module_v2__footnote">If you're a Patreon supporter, <a target="_blank" href="______">click here</a> to get this PDF</p> -->
 <br />
 
 ## An overview of the 7-page PDF
