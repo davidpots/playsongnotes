@@ -18,7 +18,7 @@ date_published: 2021-01-08
 
 
 <div class="pdf_module_v2" style="padding-bottom: 8px; margin-bottom: 24px;">
-<h2 class="mtn">Get the blank tab PDF template</h2>
+<h2 class="mtn">Get the free PDF 👇</h2>
 <p>I'll email it to you -- simply enter a working address in the form below, and it's yours. Thanks!</p>
 {% include convertkit-blanktab.html %}
 </div>
