@@ -19,6 +19,7 @@ date_published: 2021-01-08
 
 <div class="pdf_module_v2" style="padding-bottom: 8px; margin-bottom: 24px;">
 <h2 class="mtn">Get the free PDF 👇</h2>
+<img src="/images/lessons/345-blank-tabs.png" alt="Blank guitar tabs! Free PDF (7 pages)" />
 <p>I'll email it to you -- simply enter a working address in the form below, and it's yours. Thanks!</p>
 {% include convertkit-blanktab.html %}
 </div>
@@ -27,6 +28,8 @@ date_published: 2021-01-08
 <br />
 
 ## An overview of the 7-page PDF
+
+
 
 Hey friends! A few of you have requested blank tab PDFs for you to download and print -- and I'm happy to finally deliver the goods. What I have here is a 7-page PDF, each page featuring a common template for you to print and write up your tabs. Here's the specific templates available within this PDF:
 
