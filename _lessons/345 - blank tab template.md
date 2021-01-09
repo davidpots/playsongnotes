@@ -8,7 +8,7 @@ hidden_tags: [blank, tab, tabs, blank tabs, tablature, pdf]
 date_published: 2021-01-08
 ---
 
-## A quick video tour
+Download a free PDF with 6 different blank guitar tab templates, with and without time signatures. Here's a video overview of the print-friendly PDF:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5IUb0YBgwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,7 +20,7 @@ date_published: 2021-01-08
 <div class="pdf_module_v2" style="padding-bottom: 8px; margin-bottom: 24px;">
 <h2 class="mtn">Get the free PDF 👇</h2>
 <img src="/images/lessons/345-blank-tabs.png" alt="Blank guitar tabs! Free PDF (7 pages)" />
-<p>I'll email it to you -- simply enter a working address in the form below, and it's yours. Thanks!</p>
+<p>Enter a working address in the form below, and the PDF will be immediately emailed to you. Thanks!</p>
 {% include convertkit-blanktab.html %}
 </div>
 
