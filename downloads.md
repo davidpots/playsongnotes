@@ -63,6 +63,7 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
   <li><strong><a href="https://playsongnotes.com/lessons/267">Essential Mods for the A-major chord</a></strong> (tips & techniques)</li>  
   <li><strong><a href="https://playsongnotes.com/lessons/264">Fingerstyle Walkdown exercise, Key of C</a></strong> (warm up exercise)</li>
   <li><strong><a href="https://playsongnotes.com/lessons/312">"Happy Birthday" triad exercise, Key of G</a></strong> (warm up exercise)</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/345">Blank guitar tab templates</a></strong></li>
 </ul>
 
 <br /><br />
