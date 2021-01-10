@@ -8,14 +8,13 @@ tags: [Warm Up Exercise, Key of C, Learning Chords]
 hidden_tags: [Elvis, Elvis Presely, Cant help falling in love, cant help falling in love with you]
 pdf_version: v2
 pdf_numpages: 1
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/46038275
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/43673181 -->
 
 ## Video lesson
 
-_Note, my lesson for this full song does not exist yet! Look for it to go live by January 18-25, 2021._
+_Note, my lesson for this full song does not exist yet! Look for it to go live by January 18-25, 2021. In the meantime, enjoy the video below._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k0JUiaUUU9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
