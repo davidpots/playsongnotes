@@ -5,7 +5,7 @@ category: tip_technique
 slug: "345"
 tags: [Tips & Techniques]
 hidden_tags: [blank, tab, tabs, blank tabs, tablature, pdf]
-date_published: 2021-01-08
+date_published: 2021-01-09
 pdf_version: v2
 pdf_numpages: 7
 patreon_lesson_available: true
