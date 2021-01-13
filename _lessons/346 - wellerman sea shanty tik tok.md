@@ -26,8 +26,8 @@ patreon_lesson_url: https://www.patreon.com/posts/45396311 -->
 
 <div class="pdf_module_v2" style="padding-bottom: 8px; margin-bottom: 24px;">
 <h2 class="mtn">Get the free PDF 👇</h2>
-<img style="margin-bottom: 12px;" src="/images/pdfs/preview/346.jpg" alt="Wellerman lyrics and guitar chords (print-friendly PDF)" />
 <p>Enter a working address in the form below, and the PDF will be immediately emailed to you. Thanks!</p>
+<img style="margin-bottom: 12px;" src="/images/pdfs/preview/346.jpg" alt="Wellerman lyrics and guitar chords (print-friendly PDF)" />
 {% include convertkit-346-wellerman.html %}
 </div>
 
@@ -51,7 +51,7 @@ Capo 3rd fret, 96 BPM, Key of A-minor.
     CHORUS
               F                 C                         Dm                 Am
               Soon----- may the Wellerman come........ to bring us sugar and tea and rum
-              Am                Am                        E                  Am
+              F                 C                         E                  Am
               One day, when the tonguin' is done... we'll take our leave and go
 
 
