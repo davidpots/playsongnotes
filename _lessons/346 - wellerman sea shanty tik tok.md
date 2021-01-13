@@ -11,10 +11,11 @@ tags: [Full Song Lesson, Key of Am, 2020s, Folk]
 hidden_tags: [tik tok, new zealand, sea shanty, shanty]
 pdf_version: v2
 pdf_numpages: 1
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/46180882
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/45396311 -->
+
 
 
 
@@ -31,7 +32,7 @@ patreon_lesson_url: https://www.patreon.com/posts/45396311 -->
 {% include convertkit-346-wellerman.html %}
 </div>
 
-<!-- <p class="pdf_module_v2__footnote">If you're a Patreon supporter, <a target="_blank" href="https://www.patreon.com/posts/46001640">click here</a> to get this PDF</p> -->
+<p class="pdf_module_v2__footnote">If you're a Patreon supporter, <a target="_blank" href="https://www.patreon.com/posts/46180882">click here</a> to get this PDF</p>
 <br />
 
 ## Editor's notes
