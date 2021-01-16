@@ -31,7 +31,7 @@ patreon_lesson_url: https://www.patreon.com/posts/46282750
 
 Hey friends! Here's new a video lesson & PDF chord sheet teaching you how to play the recent country hit 7 Summers by Morgan Wallen. Musically, this song makes some good use of major-7th chords (with the Cmaj7 and Fmaj7 in the intro and verse), mixed in with Wallen's clever word-play and great vocals. I'll show you the chord shapes, progressions, strumming patterns, and a few ways to noodle on the intro (with tabs), in a way that sounds great with a solo acoustic guitar.
 
-If you don't know Morgan Wallen, I strongly recommend checking out his stuff -- specifically via Grady Smith's YouTube videos, which do a good job introducing you to & contextualizing the general vibe of his music. This includes some good commentary on Wallen's cover of Jason Isbell's Cover Me Up, which Isbell praised him for. Here's one of Grady Smith's videos on Wallen: https://www.youtube.com/watch?v=d_mcQHU_GyY
+If you don't know Morgan Wallen, I strongly recommend checking out his stuff -- specifically via Grady Smith's YouTube videos, which do a good job introducing you to & contextualizing the general vibe of his music. This includes some good commentary on Wallen's cover of Jason Isbell's Cover Me Up, which Isbell praised him for. [Here's one](https://www.youtube.com/watch?v=d_mcQHU_GyY) of Grady Smith's videos on Wallen – see below for even more.
 
 Video timestamps:
 
@@ -133,3 +133,42 @@ Cmaj7           Am7             Dm              G
 Here's a few ways I like to play the intro riff! For the Cmaj7, I know others teach it further up the next, but I like the practical versions shown here. For the Fmaj7, I've included two filler riffs which you can optionally during those two measures (see my video lesson for reference).
 
     See PDF for the tab.
+
+## Some songs by Morgan Wallen
+
+If you're new to Morgan's music, here's a few of my favorite songs.
+
+### 7 Summers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsEjZKNzt9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Sand in My Boots
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FXzE9eP1U_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Whiskey Glasses
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FjBp30kjzTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Some of Grady Smith's videos about Morgan Wallen
+
+Grady Smith is one of my absolute favorite YouTubers when it comes to commentary on country music, and in music industry surrounding that genre. Check him out! Here's some of his Morgan Wallen videos, in the order they came out:
+
+### Let's Talk About Morgan Wallen and Cover Me Up
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAIAededLio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Morgan Wallen is County's Next Superstar – Whether You Like it Or Not
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_mcQHU_GyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Talking to Morgan Wallen about country music, "Cover Me Up," The Voice, and mullet independence
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8VH46kYPdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### The Surprising Sadness of Morgan Wallen | 'Dangerous' Album Review
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r667mykSkVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
