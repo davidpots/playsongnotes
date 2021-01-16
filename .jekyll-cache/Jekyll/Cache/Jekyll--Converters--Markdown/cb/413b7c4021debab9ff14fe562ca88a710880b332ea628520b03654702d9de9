@@ -1,4 +1,4 @@
-I"‰Á<div style="text-align: center;">
+I"Ã<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -24,12 +24,33 @@
     
 
     
+        "title": "\"7 Summers\" by Morgan Wallen",
+        "category": "Full Song",
+        "url": "/lessons/347/",
+        "date": "Jan 16, 2021",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "v2",
+        "slug": "347"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
         "title": "\"Wellerman\" by Nathan Evans",
         "category": "Full Song",
         "url": "/lessons/346/",
         "date": "Jan 13, 2021",
-        "patreon_url": "",
-        "pdf_image": "",
+        "patreon_url": "https://www.patreon.com/posts/46180882",
+        "pdf_image": "<img src='/images/pdfs/preview/346.jpg' />",
         "pdf_v2": "v2",
         "slug": "346"
       },
@@ -6617,7 +6638,7 @@
   ];
 $(document).ready(function(){
 
-  for (i = 0; i < 346; i++) {
+  for (i = 0; i < 347; i++) {
     $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
                                     <td>' + lessons[i].pdf_image + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
@@ -6634,7 +6655,7 @@ $(document).ready(function(){
 <script src="/js/search.js"></script>
 
 <h2 id="list-of-all-lessons">List of all lessons</h2>
-<p>I have made 346 YouTube videos so farâ€¦ 309 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
+<p>I have made 347 YouTube videos so farâ€¦ 310 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
 
 <div class="tile_metric">
   <h3>PDF no version</h3>
@@ -6642,7 +6663,7 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF some version</h3>
-  <p>202</p>
+  <p>203</p>
 </div>
 <hr />
 
@@ -6652,7 +6673,7 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF v2</h3>
-  <p>104</p>
+  <p>105</p>
 </div>
 <hr />
 
