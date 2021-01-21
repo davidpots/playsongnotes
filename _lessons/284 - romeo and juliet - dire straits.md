@@ -28,7 +28,7 @@ Here's my video lesson:
 - 13:12 Intro tab, step by step
 - 21:41 Farewell
 
-Here's a tour of the chord sheet I'll be releasing for this song. [Get it here!](page.patreon_lesson_url)
+Here's a tour of the chord sheet I'll be releasing for this song. [Get it here!]({{page.patreon_lesson_url}})
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0o_yRKqt26s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
