@@ -7,10 +7,11 @@ date_published: 2021-01-23
 tags: [Warm Up Exercise, Key of D, Licks & Fills]
 pdf_version: v2
 pdf_numpages: 2
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/46568912
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/46038275 -->
+
 
 ## Video lesson
 
