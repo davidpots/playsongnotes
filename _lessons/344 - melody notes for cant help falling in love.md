@@ -14,7 +14,7 @@ patreon_lesson_url: https://www.patreon.com/posts/46038275
 
 ## Video lesson
 
-_Note, my lesson for this full song does not exist yet! Look for it to go live by January 18-25, 2021. In the meantime, enjoy the video below._
+_Note, my lesson for this full song does not exist yet! Look for it to go live by January 25-31, 2021. In the meantime, enjoy the video below._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k0JUiaUUU9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
