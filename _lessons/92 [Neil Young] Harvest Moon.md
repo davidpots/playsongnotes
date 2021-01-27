@@ -15,17 +15,61 @@ pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22744103
+pdf_for_sale: https://gum.co/extUu
 ---
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_X4GnNuMtQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
 
 ## Editor's notes
 
 In this lesson I'll show you how to play "Harvest Moon" by Neil Young. This is a beautiful gem of a song. It uses drop-d tuning (I'll explain this), and some very creative voicing of the D-chord. I'll show you the chords needed, explain the strumming patterns, and of course show you tabs for all of the above. I hope you enjoy! This song was a true pleasure to learn.
+
+## Lyrics w/ chords
+
+112 beats per minute, key of D. Drop-d tuning optional.
+
+    INTRO
+
+    D-riff #1 (played 4 times... see PDF for tab)
+
+    VERSE
+
+    Em                           Em                        D-riff #2       D-riff #2
+    ...Come a little bit closer....... hear what I have to say......................
+    Em                              Em                             D-riff #2       D-riff #2
+    ...Just like children sleepin'...... we could dream this night away
+
+    G                                   G                           D-riff #1    D-riff #1
+    ...But there's a full moon risin'...... let's go dancin' in the light  
+    G                                     G                             D-riff #1    D-riff #1
+    ...We know where the music's playin'..... let's go out and feel the night
+
+    CHORUS
+
+        A7sus4                                 A7                               (A7sus4)
+        ........Because I'm still in love with you..... I want to see you dance again
+        A7sus4                                 A7                       D-riff #1
+        ........Because I'm still in love with you..... on this harvest moon
+
+
+    Em                           Em                        D-riff #2       D-riff #2
+    ...When we were strangers......... I watched you from afar
+    Em                           Em                            D-riff #2       D-riff #2
+    ...When we were lovers............ I loved you with all my heart
+
+    G                               G                           D-riff #1    D-riff #1
+    ...But now it's gettin' late...... and the moon is climbin' high
+    G                               G                         D-riff #1    D-riff #1
+    ...I want to celebrate............ see it shinin' in your eye
+
+        A7sus4                                 A7                               (A7sus4)
+        ........Because I'm still in love with you..... I want to see you dance again
+        A7sus4                                 A7                       D-riff #1
+        ........Because I'm still in love with you..... on this harvest moon
 
 ## Drop-D tuning
 
@@ -43,49 +87,57 @@ Sequence #1:
 
     (Song intro and after each chorus)
 
-    e ––––0–––––––0–––––––9–––––
-    B ––––10––––––12––––––10––––
-    G ––––11––––––11––––––11––––
-    D ––––0–––––––0–––––––0–––––
-    A –––(0)––––––––––––––––––––
-    D –––(0)––––––––––––––––––––
-          D-riff #1
+    [ See PDF for tab ]
+
+<!-- e ––––0–––––––0–––––––9–––––
+B ––––10––––––12––––––10––––
+G ––––11––––––11––––––11––––
+D ––––0–––––––0–––––––0–––––
+A –––(0)––––––––––––––––––––
+D –––(0)––––––––––––––––––––
+      D-riff #1 -->
 
 Sequence #2:
 
     "Come a little bit closer... hear what I have to say..."
 
-    e ––––0––––   –––(2)––––––––––––––––––––––––
-    B ––––0––––   ––––3––––––2––––––2––––––3––––
-    G ––––0––––   ––––2––––––2––––––2––––––2––––
-    D ––––2––––   ––––0––––––0––––––2––––––4––––
-    A ––––2––––   ––––0––––––0––––––0––––––0––––
-    D ––––2––––   ––––0–––––––––––––––––––––––––
-          Em          D-riff #2
+    [ See PDF for tab ]
+
+<!-- e ––––0––––   –––(2)––––––––––––––––––––––––
+B ––––0––––   ––––3––––––2––––––2––––––3––––
+G ––––0––––   ––––2––––––2––––––2––––––2––––
+D ––––2––––   ––––0––––––0––––––2––––––4––––
+A ––––2––––   ––––0––––––0––––––0––––––0––––
+D ––––2––––   ––––0–––––––––––––––––––––––––
+      Em          D-riff #2 -->
 
 Sequence #3:
 
     "But there's a full moon rising, let's go dancing in the light..."
 
-    e ––––3––––   ––––0–––––––0–––––––9–––––
-    B ––––0––––   ––––10––––––12––––––10––––
-    G ––––0––––   ––––11––––––11––––––11––––
-    D ––––0––––   ––––0–––––––0–––––––0–––––
-    A ––––x––––   –––(0)––––––––––––––––––––
-    D ––––5––––   –––(0)––––––––––––––––––––
-          G           D-riff #1
+    [ See PDF for tab ]
+
+<!-- e ––––3––––   ––––0–––––––0–––––––9–––––
+B ––––0––––   ––––10––––––12––––––10––––
+G ––––0––––   ––––11––––––11––––––11––––
+D ––––0––––   ––––0–––––––0–––––––0–––––
+A ––––x––––   –––(0)––––––––––––––––––––
+D ––––5––––   –––(0)––––––––––––––––––––
+      G           D-riff #1 -->
 
 Sequence #4:
 
     "Because I'm still in love with you, I wanna see you dance again..."
 
-    e ––––0––––   ––––0––––
-    B ––––3––––   ––––2––––
-    G ––––0––––   ––––0––––
-    D ––––2––––   ––––2––––
-    A ––––0––––   ––––0––––
-    D –––––––––   –––––––––
-        A7sus4        A7  
+    [ See PDF for tab ]
+
+<!-- e ––––0––––   ––––0––––
+B ––––3––––   ––––2––––
+G ––––0––––   ––––0––––
+D ––––2––––   ––––2––––
+A ––––0––––   ––––0––––
+D –––––––––   –––––––––
+    A7sus4        A7   -->
 
 ## Diving into the two main guitar riffs
 
@@ -95,79 +147,37 @@ So, I want to flesh these out a bit to aid you with strumming help. Shown below 
 
 This is heard during the intro, during sequence #3, and after each chorus.
 
-    v = down strum
-    ^ = up strum
+    [ See PDF for tab ]
 
-    e ––––––––0–––––0––––––––––––––9–––––9–––––9–––––9–––
-    B ––––––––10––––12–––––––––––––10––––10––––10––––10––
-    G ––––––––11––––11–––––––––––––11––––11––––11––––11––
-    D ––––––––0–––––0––––––––––––––0–––––0–––––0–––––0–––
-    A –––––––––––––––––––––––––––––––––––––––––––––––––––
-    D ––0––––––––––––––––––––––––––––––––––––––––––––––––
-        v     v     v              ^     ^     ^     ^  
-        1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+<!-- v = down strum
+^ = up strum
+
+e ––––––––0–––––0––––––––––––––9–––––9–––––9–––––9–––
+B ––––––––10––––12–––––––––––––10––––10––––10––––10––
+G ––––––––11––––11–––––––––––––11––––11––––11––––11––
+D ––––––––0–––––0––––––––––––––0–––––0–––––0–––––0–––
+A –––––––––––––––––––––––––––––––––––––––––––––––––––
+D ––0––––––––––––––––––––––––––––––––––––––––––––––––
+    v     v     v              ^     ^     ^     ^  
+    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +   -->
 
 ### D-riff #2
 
 This is heard within sequence #2.
 
-    v = down strum
-    ^ = up strum
+    [ See PDF for tab ]
 
-    e –––––––(2)––––––––––––––––––(2)––––––––––––––––––––
-    B ––––––––3––3––3––3–––––3–––––2–––––2–––––2––3––2–––
-    G ––––––––2––2––2––2–––––2–––––2–––––2–––––2––2––2–––
-    D ––––––––0––0––0––0–––––0–––––0–––––2–––––2––4––2–––
-    A –––––––––––––––––––––––––––––––––––0–––––0––0––0–––
-    D ––0––––––––––––––––––––––––––––––––––––––––––––––––
-        v     v  ^  v  ^     ^     ^     ^     ^  v  ^
-        1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+<!-- v = down strum
+^ = up strum
 
-## Lyrics w/ chords
-
-    Intro: D (riff #1)
-
-    Em
-    ...Come a little bit closer
-                        D (riff #2)
-    Hear what I have to say
-    Em
-    ...Just like children sleepin'
-                               D (riff #2)
-    We could dream this night away
-
-    G
-    ...But there's a full moon risin'
-                            D (riff #1)
-    Let's go dancin' in the light
-    G
-    ...We know where the music's playin'
-                              D (riff #1)
-    Let's go out and feel the night
-
-    A7sus4                                 A7
-    ........Because I'm still in love with you
-    (A7)
-    .....I want to see you dance again
-    A7sus4                                 A7
-    ........Because I'm still in love with you
-    (A7)            D (riff #1)
-    On this harvest moon
-
-    When we were strangers
-    I watched you from afar
-    When we were lovers
-    I loved you with all my heart
-
-    But now it's gettin' late
-    And the moon is climbin' high
-    I want to celebrate
-    See it shinin' in your eye
-
-    Because I'm still in love with you
-    I want to see you dance again
-    Because I'm still in love with you
-    On this harvest moon
+e –––––––(2)––––––––––––––––––(2)––––––––––––––––––––
+B ––––––––3––3––3––3–––––3–––––2–––––2–––––2––3––2–––
+G ––––––––2––2––2––2–––––2–––––2–––––2–––––2––2––2–––
+D ––––––––0––0––0––0–––––0–––––0–––––2–––––2––4––2–––
+A –––––––––––––––––––––––––––––––––––0–––––0––0––0–––
+D ––0––––––––––––––––––––––––––––––––––––––––––––––––
+    v     v  ^  v  ^     ^     ^     ^     ^  v  ^
+    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +   -->
 
 ## Good luck!
 

@@ -17,7 +17,7 @@ patreon_lesson_url: https://www.patreon.com/posts/46568912
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EeWS6jYwpiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
 
 ## Editor's notes
 
@@ -36,6 +36,7 @@ Video timestamps:
 ## The song this is inspired from
 
 This lesson is inspired by the song "Down Low" by Town Mountain ft. Tyler Childers, which was sent in by request. A lesson for that song may be coming one day, but in the meantime I wanted to share this one explaining the basics of the lead riffs & fills you hear in that song.
+
 <!-- https://www.youtube.com/watch?v=Z2a1W-htfoA -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z2a1W-htfoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

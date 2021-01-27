@@ -11,6 +11,7 @@ pdf_version: v2
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/42581405
+pdf_for_sale: https://gum.co/nSkLd
 redirect_from:
   - /songs/chris-stapleton-tennessee-whiskey/
 ---
@@ -23,9 +24,7 @@ redirect_from:
 
 <!-- Coming soon! -->
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title %}
-
-<p style="margin-top: 24px; margin-bottom: 48px; font-style: italic; text-align: center; font-size: 14px;">This PDF is also available for individual purchase for $3. <a href="https://gum.co/nSkLd">Get it here »</a></p>
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
 
 ## Editor's notes
 
