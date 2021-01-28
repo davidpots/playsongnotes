@@ -14,7 +14,7 @@ redirect_from:
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22744103
+patreon_lesson_url: https://www.patreon.com/posts/46776696
 pdf_for_sale: https://gum.co/extUu
 ---
 
