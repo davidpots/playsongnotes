@@ -2,7 +2,7 @@
                        'guitar' : { 'name'         : 'guitar',
                                     'numStrings'   : 6,
                                     'fretsToLabel' : [1,3,5,7,9,12,15],
-                                    'stringLabels' : ['E','B','G','D','A','E'],
+                                    'stringLabels' : ['e','B','G','D','A','E'],
                                     'stringDiff'   : {
                                                         1 : 0,  // E string (high)
                                                         2 : 5,  // B string
