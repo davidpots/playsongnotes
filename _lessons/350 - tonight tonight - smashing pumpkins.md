@@ -13,10 +13,11 @@ pdf_version: v2
 pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/47202039
+pdf_for_sale: https://gum.co/vZWHW
 ---
 
 
-<!-- pdf_for_sale: https://gum.co/MsBVQ -->
+
 
 
 
