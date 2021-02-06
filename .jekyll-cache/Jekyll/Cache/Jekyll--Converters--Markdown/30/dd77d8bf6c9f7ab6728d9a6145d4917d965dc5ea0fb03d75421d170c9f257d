@@ -1,4 +1,4 @@
-I"mÆ<div style="text-align: center;">
+I"²Ç<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -13,6 +13,27 @@
 
 
   var lessons = [
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Tonight, Tonight\" (acoustic) by The Smashing Pumpkins",
+        "category": "Full Song",
+        "url": "/lessons/350/",
+        "date": "Feb 6, 2021",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "v2",
+        "slug": "350"
+      },
+  
 
   
   
@@ -6680,7 +6701,7 @@
   ];
 $(document).ready(function(){
 
-  for (i = 0; i < 349; i++) {
+  for (i = 0; i < 350; i++) {
     $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
                                     <td>' + lessons[i].pdf_image + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
@@ -6697,7 +6718,7 @@ $(document).ready(function(){
 <script src="/js/search.js"></script>
 
 <h2 id="list-of-all-lessons">List of all lessons</h2>
-<p>I have made 349 YouTube videos so farâ€¦ 312 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
+<p>I have made 350 YouTube videos so farâ€¦ 313 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
 
 <div class="tile_metric">
   <h3>PDF no version</h3>
@@ -6705,7 +6726,7 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF some version</h3>
-  <p>205</p>
+  <p>206</p>
 </div>
 <hr />
 
@@ -6715,7 +6736,7 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF v2</h3>
-  <p>107</p>
+  <p>108</p>
 </div>
 <hr />
 
