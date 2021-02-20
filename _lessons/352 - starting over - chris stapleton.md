@@ -25,7 +25,7 @@ pdf_for_sale: https://gum.co/TVhLq
 
 ## Editor's notes
 
-Hey friends! Here's a new guitar lesson for Starting Over by Chris Stapleton, from his 2020 album of the same name. Super catch song, great fun to play -- and the intro & verse riff make very good use out of two very similar chords (G and Cmaj7), each of which has a single finger being added & removed for good effect. I'll initially explain this (and the chorus) in a beginner-friendly way, before moving on and explaining some more advanced strumming techniques which'll help you sound just like Chris Stapleton. Finally, I'll end the tutorial with a full playthrough, showing you how it sounds when you put it all together. I hope you enjoy!
+Hey friends! Here's a new guitar lesson for Starting Over by Chris Stapleton, from his 2020 album of the same name. Super catchy song, great fun to play -- and the intro & verse riff make very good use out of two very similar chords (G and Cmaj7), each of which has a single finger being added & removed for good effect. I'll initially explain this (and the chorus) in a beginner-friendly way, before moving on and explaining some more advanced strumming techniques which'll help you sound just like Chris Stapleton. Finally, I'll end the tutorial with a full playthrough, showing you how it sounds when you put it all together. I hope you enjoy!
 
 Video timestamps:
 
