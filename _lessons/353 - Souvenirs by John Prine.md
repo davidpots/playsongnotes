@@ -3,7 +3,7 @@ layout: song
 title: '"Souvenirs" by John Prine'
 song_title: Souvenirs
 artist: John Prine
-year: 2021
+year: 1972
 category: full_song
 date_published: 2021-02-28
 slug: "353"
