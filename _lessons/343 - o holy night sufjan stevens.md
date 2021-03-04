@@ -2,7 +2,7 @@
 layout: song
 title: '"O Holy Night" by Sufjan Stevens'
 song_title: O Holy Night
-artist: Sujan Stevens
+artist: Sufjan Stevens
 year: 2006
 category: full_song
 date_published: 2020-12-24
@@ -32,7 +32,7 @@ Video timestamps:
 - 0:00 Playthrough & lesson overview  
 - 3:14 Chord shapes needed
 - 5:35 Chord progressions
-- 8:18 Strumming patterns 
+- 8:18 Strumming patterns
 - 10:59 Fingerpicking patterns  
 - 16:05 Intro riff w/ tab
 
@@ -42,7 +42,7 @@ Key of C, 6 beats per measure, 74 BPM
 
     INTRO
 
-        C ..... C ..... C ..... C ..... 
+        C ..... C ..... C ..... C .....
 
     VERSE
 
@@ -70,7 +70,7 @@ Key of C, 6 beats per measure, 74 BPM
                 O night-------- divine-------- O night----- O night divine
 
     INSTRUMENTAL SECTION
-    
+
                 C ..... C ..... F ..... C ..... C .....
                 C ..... G ..... C ..... C .....           
                                          (played twice)
@@ -106,7 +106,7 @@ Key of C, 6 beats per measure, 74 BPM
                 O night-------- divine-------- O night----- O night divine
 
 
-                                                          (let final C ring to end) 
+                                                          (let final C ring to end)
 
 ## Guitar chords used
 
@@ -147,7 +147,7 @@ Here's the chord shapes you need. You can of course tweak any of these (to simpl
 
                 "O night, divine..." (second time)
                 | G . . . . . | G . . . . . | C . . . . . | F . . . . . |
-                | C . . . . . | G . . . . . | C . . . . . | C . . . . . | 
+                | C . . . . . | G . . . . . | C . . . . . | C . . . . . |
 
 ## Strumming patterns
 
@@ -181,22 +181,3 @@ You can also fingerpick this song, which I'll do by using one (or multiple) of t
 Here’s a tab I came up with to play the melody of the first line or two -- in combination with the chords that go with it. The yellow notes below represent the actually melody notes (i.e. what you’d hum or whistle or sing) -- and you can optionally add any amount, or none, of the non-highlighted chord-notes I show below. If you do play the non-highlighted notes, don’t feel pressured to play all of them... in other words, its okay if you’re fingerpicking and only play the bass note of the chord, along with the highlighted melody note. See my video lesson for reference!
 
     See PDF for tab diagram.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
