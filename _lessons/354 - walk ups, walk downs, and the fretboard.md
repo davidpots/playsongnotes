@@ -10,6 +10,7 @@ pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48446809
+pdf_for_sale: https://gum.co/ZADGa
 ---
 
 ## Video lesson
