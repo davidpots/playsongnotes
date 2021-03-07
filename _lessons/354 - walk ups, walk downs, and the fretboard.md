@@ -6,6 +6,10 @@ slug: "354"
 tags: [Tips & Techniques, Key of C, Key of A, Key of G, Key of A, Key of E, Learning Chords, Walking Bass Lines]
 hidden_tags: [fretmonster, fret monster, walkup, walkdown, walk ups, walk downs, walking, walk]
 date_published: 2021-03-07
+pdf_version: v2
+pdf_numpages: 3
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/48446809
 ---
 
 ## Video lesson
@@ -16,7 +20,7 @@ date_published: 2021-03-07
 
 ## Editor's notes
 
-Hey there friends! Another video on walk-ups & walk-downs today, where I'll show you how you can use the fretboard as a visual aid when understanding what notes you're playing. I covered a very similar topic [back in lesson \#342](http://playsongnotes.com/lessons/342/), and after many requests, I'm explaining things a bit more -- this time with a brand new PDF for you to reference. I'll be looking at a common walking bass line, as it appears in five common musical keys (A, C, D, G, and E). For each key I'll show you the sample tab, as well as two different maps of the fretboard. My hope is this further helps you understand this very value concept, of how walk ups & walk downs work, when to use them, and where the notes are coming from.
+Hey there friends! Another video on walk-ups & walk-downs today, where I'll show you how you can use the fretboard as a visual aid when understanding what notes you're playing. I covered a very similar topic [back in lesson \#342](http://playsongnotes.com/lessons/342/), and after many requests, I'm explaining things a bit more -- this time with a brand new PDF for you to reference. I'll be looking at a common walk-up & walk-down sequence, as it appears in five common musical keys (A, C, D, G, and E). For each key I'll show you the sample tab, as well as two different maps of the fretboard. My hope is this further helps you understand how walk ups & walk downs work, when to use them, and where the notes are coming from.
 
 Let me also remind you, my free web tool [FretMonster](https://playsongnotes.com/fretmonster) is available for you to use to visualize the fretboard. It lets you select your desired key, and your desired scale (when in doubt, use the "major" scale) -- and it shows you all the matching notes on the guitar fretboard. There's other cool things you can do -- such as change the way the notes are labeled, as I reference in my video and PDF.
 
