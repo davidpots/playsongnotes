@@ -12,10 +12,11 @@ yt_video_id: _________
 slug: "57"
 redirect_from:
   - /songs/willie-nelson-and-merle-haggard-pancho-and-lefty/
-pdf_version: v1
-pdf_numpages: 3
+pdf_version: v2
+pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23986615
+pdf_for_sale: https://gum.co/FQYiu
 ---
 
 ## Video lesson
