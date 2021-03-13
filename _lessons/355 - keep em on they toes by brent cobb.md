@@ -12,11 +12,12 @@ pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48701330
+pdf_for_sale: https://gum.co/mdSjP
 ---
 
 
 
-<!-- pdf_for_sale: https://gum.co/TVhLq -->
+
 
 ## Video lesson
 
