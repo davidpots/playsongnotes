@@ -1,4 +1,4 @@
-I""Ë<div style="text-align: center;">
+I"üÏ<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -13,6 +13,69 @@
 
 
   var lessons = [
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Keep 'Em on They Toes\" by Brent Cobb",
+        "category": "Full Song",
+        "url": "/lessons/355/",
+        "date": "Mar 13, 2021",
+        "patreon_url": "https://www.patreon.com/posts/48701330",
+        "pdf_image": "<img src='/images/pdfs/preview/355.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "355"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Walk-ups, Walk-downs, and the fretboard",
+        "category": "Tip & Technique",
+        "url": "/lessons/354/",
+        "date": "Mar 7, 2021",
+        "patreon_url": "https://www.patreon.com/posts/48446809",
+        "pdf_image": "<img src='/images/pdfs/preview/354.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "354"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "\"Souvenirs\" by John Prine",
+        "category": "Full Song",
+        "url": "/lessons/353/",
+        "date": "Feb 28, 2021",
+        "patreon_url": "https://www.patreon.com/posts/48129857",
+        "pdf_image": "<img src='/images/pdfs/preview/353.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "353"
+      },
+  
 
   
   
@@ -238,9 +301,9 @@
         "category": "Tip & Technique",
         "url": "/lessons/342/",
         "date": "Dec 18, 2020",
-        "patreon_url": "",
-        "pdf_image": "",
-        "pdf_v2": "",
+        "patreon_url": "https://www.patreon.com/posts/48446809",
+        "pdf_image": "<img src='/images/pdfs/preview/342.jpg' />",
+        "pdf_v2": "v2",
         "slug": "342"
       },
   
@@ -4741,9 +4804,9 @@
         "category": "Full Song",
         "url": "/lessons/107/",
         "date": "",
-        "patreon_url": "https://www.patreon.com/posts/25918682",
+        "patreon_url": "https://www.patreon.com/posts/48040157",
         "pdf_image": "<img src='/images/pdfs/preview/107.jpg' />",
-        "pdf_v2": "v1",
+        "pdf_v2": "v2",
         "slug": "107"
       },
   
@@ -6743,7 +6806,7 @@
   ];
 $(document).ready(function(){
 
-  for (i = 0; i < 352; i++) {
+  for (i = 0; i < 355; i++) {
     $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
                                     <td>' + lessons[i].pdf_image + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
@@ -6760,7 +6823,7 @@ $(document).ready(function(){
 <script src="/js/search.js"></script>
 
 <h2 id="list-of-all-lessons">List of all lessons</h2>
-<p>I have made 352 YouTube videos so farâ€¦ 315 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
+<p>I have made 355 YouTube videos so farâ€¦ 318 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
 
 <div class="tile_metric">
   <h3>PDF no version</h3>
@@ -6768,17 +6831,17 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF some version</h3>
-  <p>208</p>
+  <p>210</p>
 </div>
 <hr />
 
 <div class="tile_metric">
   <h3>PDF v1</h3>
-  <p>96</p>
+  <p>95</p>
 </div>
 <div class="tile_metric">
   <h3>PDF v2</h3>
-  <p>112</p>
+  <p>115</p>
 </div>
 <hr />
 
