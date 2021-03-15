@@ -5694,7 +5694,7 @@
         "date": "",
         "patreon_url": "https://www.patreon.com/posts/23986615",
         "pdf_image": "<img src='/images/pdfs/preview/57.jpg' />",
-        "pdf_v2": "v1",
+        "pdf_v2": "v2",
         "slug": "57"
       },
   
@@ -6837,11 +6837,11 @@ $(document).ready(function(){
 
 <div class="tile_metric">
   <h3>PDF v1</h3>
-  <p>95</p>
+  <p>94</p>
 </div>
 <div class="tile_metric">
   <h3>PDF v2</h3>
-  <p>115</p>
+  <p>116</p>
 </div>
 <hr />
 
