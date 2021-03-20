@@ -7,6 +7,7 @@ year: 2018
 category: full_song
 slug: "318"
 tags: [Full Song Lesson, Country, Key of C, 2010s]
+date_published: 2021-03-20
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true
@@ -20,11 +21,22 @@ patreon_lesson_url: https://www.patreon.com/posts/40474671 -->
 
 ## Video lesson
 
-I haven't made one yet -- but here's a preview of the PDF I made for this song. Note, my PDF is for a strummed verison of this song -- i.e., it gives you all the chords you need to play along with Colter. It doesn't have the fingerstyle tabs, as I haven't worked that out yet. I'd suggest [this lesson](http://www.banthamlegend.com/Saskatchewan-in-1881/) if you want to learn it fingerstyle, like Colter plays it.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZS1cOxTei34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
+
+## Editor's notes
+
+Hey friends! here's a new guitar lesson teaching you how to play Colter Wall's 2018 song "Saskatchewan in 1881". Instead of playing it fingerstyle like Colter does, I'm going to show you a strummed version (simply because I cannot pull off what Colter Wall is able to do with his fingers￼). While I am simplifying it in this regard, there's plenty of room for fun -- through alternating bass notes with your strumming, as well as walk-ups and walk-downs in each of the verse section￼s. I'll teach all this and more!￼
+
+Video timestamps:
+
+- 0:00 Preview & lesson summary
+- 2:01 Chord shapes needed
+- 5:27 Chord progressions
+- 7:13 Strumming patterns
+- 10:29 Walk-up & walk-downs, with tabs
+- 16:04 Full playthrough, with lyrics
 
 ## Colter Wall playing this song
 
@@ -36,14 +48,11 @@ Live version (so you can watch him play fingerstyle):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VrIUdXrRZuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Audio of me playing this song
+## Want to learn the fingerstyle version?
 
-Note, this is from a "strummed" version of the song -- so far I haven't mastered Colter's fingerstyle, so the strum version will have to do.
+Here is [a lesson](http://www.banthamlegend.com/Saskatchewan-in-1881/) from another teacher if you want to learn it fingerstyle, like Colter plays it. This teacher has a printable tab showing the exact fingerpicking notes. Here's his video:
 
-<audio controls>
-  <source src="/audio/323_saskatchewan_playthrough.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdGpm2WoUoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lyrics and chords
 
@@ -95,3 +104,15 @@ Your browser does not support the audio element.
         Better fly 'fore I... produce my forty-four
                G                 G7            C        C  [ end on final C ]
         Better fly 'fore I... produce my forty-four
+
+## Chord shapes
+
+See PDF for fretboard diagrams of all chords.
+
+## Strumming patterns
+
+See PDF for strumming diagram.
+
+## Walk-up and walk-down tabs
+
+See PDF for tabs.
