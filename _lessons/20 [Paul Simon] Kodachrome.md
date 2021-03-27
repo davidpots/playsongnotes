@@ -68,11 +68,11 @@ This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my
                           A7           D          G      Bm   Em    A7
             So mama don’t take----- my Kodachrome away
 
-                    D                               G
+                    D       Dmaj7   D7              G        G
         If you took all the girls I knew when I was single
         Em                        A7             D       Em  A7
         ...And brought them all together for one night
-                      D                         G
+                      D     Dmaj7    D7          G       G
         I know they’d never match my sweet imagination
         Em                  A7                 D
         ...Everything looks worse in black and white
@@ -94,11 +94,11 @@ This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my
 
     OUTRO
 
-                G            Bm          Em
+                           G            Bm          Em     Em
                 Mama don’t take----- my Kodachrome away
-                G            Bm          Em
+                           G            Bm          Em     Em
                 Mama don’t take----- my Kodachrome away
-                G            Bm          Em
+                           G            Bm          Em     Em
                 Mama don’t take----- my Kodachrome away
 
                 (start strumming in double time!)
@@ -107,22 +107,22 @@ This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my
                 Mama don’t take my Kodachrome
                 Bm
                 Mama don’t take my Kodachrome
-                Em
+                Em                             Em
                 Mama don’t take my Kodachrome away
 
                 G                            
                 Mama don’t take my Kodachrome
                 Bm
                 Leave your boy so far from home
-                Em
+                Em                             Em
                 Mama don’t take my Kodachrome away
 
 
-                            ...repeat this G-Bm-Em sequence as desired, then end
+                            ...repeat this G-Bm-Em-Em sequence as desired, then end
 
 ## Chords used
 
-#### Verse chords
+### Verse chords
 
     e |---2----3----0----0---        e |----2-----2-----2----
     B |---3----0----0----2---        B |----3-----2-----1----
@@ -133,7 +133,7 @@ This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my
           D    G    Em   A7                 D   Dmaj7   D7  
 
 
-#### Chorus chords
+### Chorus chords
 
 First, the turnaround played at the beginning (and in between) of each chorus run:
 
@@ -155,7 +155,7 @@ After the turn around, you'll play these chords in this order:
     E |--------------3-------------------
            Am   D    G    C    A7   D
 
-#### Outro chords
+### Outro chords
 
     e |----3-----2-----0----
     B |----0-----3-----0----
@@ -195,7 +195,7 @@ Complete intro tab (that I play) looks like this:
 
 ## How to practice the G-riff
 
-#### G-chord finger position
+### G-chord finger position
 
     e |----3---- <-- Pinky
     B |----0----
@@ -205,7 +205,7 @@ Complete intro tab (that I play) looks like this:
     E |----3---- <-- Ring finger
            G    
 
-#### Riff Exercise \#1
+### Riff Exercise \#1
 
 First, practice this -- which keeps the left hand entirely still the entire time (focus on the up- and down-strum alternating with the right hand).
 
@@ -217,7 +217,7 @@ First, practice this -- which keeps the left hand entirely still the entire time
     E |----3----   ---3--3--------------------3--3-----------
                       D  U  D  U  D  U  D  U  D  U  D  U  D
 
-#### Riff Exercise \#2
+### Riff Exercise \#2
 
 Second, practice this -- only difference is how you change your 5th fret note with index and middle finger.
 
@@ -229,7 +229,7 @@ Second, practice this -- only difference is how you change your 5th fret note wi
     E |----3----   ---3--3--------------------3--3-----------
                       D  U  D  U  D  U  D  U  D  U  D  U  D
 
-#### Riff Exercise \#3
+### Riff Exercise \#3
 
 Third, add the final walkdown to that leads you into the E-minor chord which transitions you out from the riff.
 
@@ -241,7 +241,7 @@ Third, add the final walkdown to that leads you into the E-minor chord which tra
     E |----3----   ---3--3--------------------3--3-----------3--2--1--0-------
                       D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U
 
-#### Riff Exercise \#4
+### Riff Exercise \#4
 
 Finally, if desired, on some of the up-strums you can play some of the middle strings. This lets the riff sound more "strummy", if this is the sound you want.
 
@@ -252,3 +252,51 @@ Finally, if desired, on some of the up-strums you can play some of the middle st
     A |----2----   ---------1--2--------1--2--------1--2-----------------2----
     E |----3----   ---3-----------------------3--------------3--2--1--0-------
                       D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U
+
+
+## Chord progressions
+
+Intro (played w/ riff):
+
+     D               D               G               G
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     Em              A7              D               Em      A7
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+Verse:
+
+    "When I think back at all the crap I learned in high school..."
+     D       Dmaj7   D7              G               G
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     Em              A7              D               Em      A7
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+    "And though my lack of education hasn't hurt me none..."
+     D       Dmaj7   D7              G               G
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     Em              A7              D               
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+Chorus:
+
+    "Kodachrome-----, give me the nice bright colors..."
+     G       B7      Em              Am              D
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     G               C               A7              D
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+    "I got a Nikon camera, I love to take a photograph..."
+     G       B7      Em              Am              D
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     G               C               A7              D
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+    (no lyrics)
+     G               Bm              Em              A7 (let ring)
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+Outro:
+
+    "Mama don't take my Kodachrome..."
+     G               Bm              Em              Em
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +

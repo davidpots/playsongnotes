@@ -1,4 +1,4 @@
-I"üÏ<div style="text-align: center;">
+I"¥Ñ<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -13,6 +13,27 @@
 
 
   var lessons = [
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
+        "title": "Understanding the 12 notes (Practical Music Theory Ep. 1)",
+        "category": "Tip & Technique",
+        "url": "/lessons/356/",
+        "date": "Mar 26, 2021",
+        "patreon_url": "https://www.patreon.com/posts/49267936",
+        "pdf_image": "<img src='/images/pdfs/preview/356.jpg' />",
+        "pdf_v2": "v2",
+        "slug": "356"
+      },
+  
 
   
   
@@ -786,8 +807,8 @@
         "title": "\"Saskatchewan in 1881\" by Colter Wall",
         "category": "Full Song",
         "url": "/lessons/318/",
-        "date": "",
-        "patreon_url": "https://www.patreon.com/posts/41023187",
+        "date": "Mar 20, 2021",
+        "patreon_url": "https://www.patreon.com/posts/48995573",
         "pdf_image": "<img src='/images/pdfs/preview/318.jpg' />",
         "pdf_v2": "v2",
         "slug": "318"
@@ -6806,7 +6827,7 @@
   ];
 $(document).ready(function(){
 
-  for (i = 0; i < 355; i++) {
+  for (i = 0; i < 356; i++) {
     $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
                                     <td>' + lessons[i].pdf_image + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
@@ -6823,7 +6844,7 @@ $(document).ready(function(){
 <script src="/js/search.js"></script>
 
 <h2 id="list-of-all-lessons">List of all lessons</h2>
-<p>I have made 355 YouTube videos so farâ€¦ 318 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
+<p>I have made 356 YouTube videos so farâ€¦ 319 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
 
 <div class="tile_metric">
   <h3>PDF no version</h3>
