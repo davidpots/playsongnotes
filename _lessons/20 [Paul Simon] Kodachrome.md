@@ -103,22 +103,21 @@ This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my
 
                 (start strumming in double time!)
 
-                G                            
-                Mama don’t take my Kodachrome
-                Bm
-                Mama don’t take my Kodachrome
+                G                                Bm
+                Mama don’t take my Kodachrome... Mama don’t take my Kodachrome
                 Em                             Em
                 Mama don’t take my Kodachrome away
 
-                G                            
-                Mama don’t take my Kodachrome
-                Bm
-                Leave your boy so far from home
+                G                                Bm
+                Mama don’t take my Kodachrome... Leave your boy so far from home
                 Em                             Em
                 Mama don’t take my Kodachrome away
-
 
                             ...repeat this G-Bm-Em-Em sequence as desired, then end
+
+## This is a no capo, key of D version!
+
+My lesson teaches you how to play this song in standard tuning, using no capo, in the key of D.￼ If you want to play along with Paul Simon's album version, add a capo to the 2nd fret and use the chords I show you.
 
 ## Chords used
 
@@ -165,73 +164,83 @@ After the turn around, you'll play these chords in this order:
     E |----3-----------0----
            G     Bm    Em
 
+## Strumming patterns
+
+I would get comfortable using this initial strumming pattern, which uses down-strums on the one and three counts only. You could play through the entire song like this, initially getting comfortable with the￼ chord shapes and chord progressions￼.
+
+    1 + 2 + 3 + 4 +
+    D       D
+
+The full strumming pattern I like to use is as follows. To get the best use out of this pattern, you'll ideally want to use a palm mute on the 2 and 4 counts (which occur during the down-strum that your hand is already making during these beats), adding a slight percussive element.
+
+    1 + 2 + 3 + 4 +
+    D U   U D U   U
 
 ## Intro tab
 
-Complete intro tab (that I play) looks like this:
+Complete intro tab (that I play in the key of D) looks like this. The "G-riff" section is also used in the verse. For the second half of this tab, bring in your choice of desired strumming patterns (for the full chords) as you prefer.
 
-     e |------2--------2--------2--------2--------|-
-     B |------3--------3--------3--------3--------|-
-     G |------2--------2--------2--------2--------|-
-     D |---0--------0--------0--------0-----------|-
-     A |--------------------------------------0---|-
-     E |------------------------------------------|-
+     e |----2-------2-------2-------2-------------------------------------|-
+     B |----3-------3-------3-------3-------------------------------------|-
+     G |----2-------2-------2-------2-------0-------0-------0-------------|-
+     D |--0-------0-------0-------0---------0-----0-0-------0-----0-------|-
+     A |------------------------------0-------1-2-----1-2-----1-2---------|-
+     E |----------------------------------3---------------3---------3-2-1-|-
+          D                               G                                 
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   
 
-      -|-------------------------------------------------|-----
-      -|-------------------------------------------------|-----
-      -|-----0-----------0----------0--------------------|-----
-      -|-----0--------0--0----------0--------0-----------|-----
-      -|--------1--2--------1--2-------1--2--------------|-----
-      -|---3----------------------3-------------3--2--1--|--0--
-           G
-
-      -|----0-------------0-------------2----------0----0-----|---2---
-      -|----0-------------2-------------3----------0----2-----|---3---
-      -|----0-------------0-------------2----------0----0-----|---2---
-      -|----2-------------2-------------0----------2----2-----|---0---
-      -|----2-------------0------------------------2----0-----|-------
-      -|----0--------------------------------------0----------|-------
-            Em            A7            D          Em   A7        D
+      -|--0---------------0---------------2---------------0-------0-------||
+      -|--0---------------2---------------3---------------0-------2-------||
+      -|--0---------------0---------------2---------------0-------0-------||
+      -|--2---------------2---------------0---------------2-------2-------||
+      -|--2---------------0-------------------------------2-------0-------||
+      -|--0-----------------------------------------------0---------------||
+          Em              A7              D               Em      A7        
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 ## How to practice the G-riff
 
 ### G-chord finger position
 
-    e |----3---- <-- Pinky
+    e |----3---- <-- Left pinky
     B |----0----
     G |----0----
     D |----0----
-    A |----2---- <-- Middle finger
-    E |----3---- <-- Ring finger
+    A |----2---- <-- Left middle finger
+    E |----3---- <-- Left ring finger
            G    
 
 ### Riff Exercise \#1
 
 First, practice this -- which keeps the left hand entirely still the entire time (focus on the up- and down-strum alternating with the right hand).
 
-    e |----3----   ------------------------------------------
-    B |----0----   ------------------------------------------
-    G |----0----   ------------------------------------------
-    D |----0----   ---------------0--0--------------------0--
-    A |----2----   ---------2--2--------2--2--------2--2-----
-    E |----3----   ---3--3--------------------3--3-----------
+    e |----3----   ---------------------------------------------------
+    B |----0----   ---------------------------------------------------
+    G |----0----   ---------------------------------------------------
+    D |----0----   ---------------0--0--------------------0-----------
+    A |----2----   ---------2--2--------2--2--------2--2--------------
+    E |----3----   ---3--3--------------------3--3--------------------
+                      G
+                      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +
                       D  U  D  U  D  U  D  U  D  U  D  U  D
 
 ### Riff Exercise \#2
 
 Second, practice this -- only difference is how you change your 5th fret note with index and middle finger.
 
-    e |----3----   ------------------------------------------
-    B |----0----   ------------------------------------------
-    G |----0----   ------------------------------------------
-    D |----0----   ---------------0--0--------------------0--
-    A |----2----   ---------1--2--------1--2--------1--2-----
-    E |----3----   ---3--3--------------------3--3-----------
+    e |----3----   ---------------------------------------------------
+    B |----0----   ---------------------------------------------------
+    G |----0----   ---------------------------------------------------
+    D |----0----   ---------------0--0--------------------0-----------
+    A |----2----   ---------1--2--------1--2--------1--2--------------
+    E |----3----   ---3--3--------------------3--3--------------------
+                      G
+                      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +
                       D  U  D  U  D  U  D  U  D  U  D  U  D
 
 ### Riff Exercise \#3
 
-Third, add the final walkdown to that leads you into the E-minor chord which transitions you out from the riff.
+Third, add the final walk-down to that leads you into the E-minor chord which transitions you out out the riff, back into full chord strumming.
 
     e |----3----   ------------------------------------------------------0----
     B |----0----   ------------------------------------------------------0----
@@ -239,6 +248,8 @@ Third, add the final walkdown to that leads you into the E-minor chord which tra
     D |----0----   ---------------0--0--------------------0--------------2----
     A |----2----   ---------1--2--------1--2--------1--2-----------------2----
     E |----3----   ---3--3--------------------3--3-----------3--2--1--0-------
+                      G
+                      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +
                       D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U
 
 ### Riff Exercise \#4
@@ -251,12 +262,14 @@ Finally, if desired, on some of the up-strums you can play some of the middle st
     D |----0----   ------0--------0--0-----------0--------0--------------2----
     A |----2----   ---------1--2--------1--2--------1--2-----------------2----
     E |----3----   ---3-----------------------3--------------3--2--1--0-------
+                      G
+                      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +
                       D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U  D  U
 
 
 ## Chord progressions
 
-Intro (played w/ riff):
+Intro:
 
      D               D               G               G
      1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
@@ -274,7 +287,7 @@ Verse:
     "And though my lack of education hasn't hurt me none..."
      D       Dmaj7   D7              G               G
      1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-     Em              A7              D               
+     Em              A7              D      (D7)     
      1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
 Chorus:

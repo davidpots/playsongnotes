@@ -17,6 +17,8 @@ pdf_for_sale: https://gum.co/ZADGa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmUCcfIvZSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Note, the PDF below was originally made for [lesson #354](https://playsongnotes.com/lessons/354/) (on the same topic of walk-ups and walk-downs). I wanted to note this in case you see it has a different lesson number on it.
+
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
 
 ## Editor's notes
