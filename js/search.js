@@ -1,6 +1,7 @@
 // via https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
+    query = query.replace('&',"%26");
     var vars = query.split('&');
     for (var i = 0; i < vars.length; i++) {
       var pair = vars[i].split('=');
@@ -41,10 +42,20 @@ function runSearch(searchTerm) {
     //   lesson_title = "";
     // }
 
+
+    // The \\b is a RegExp thing that means "word boundary" on either end of the search term.
+    //     This ensures that a query for "20" will NOT be true for the tag "2000s", etc
+    // The "i" means case insensitive, I believe
+    // https://stackoverflow.com/questions/2232934/how-can-i-match-a-whole-word-in-javascript
+
     if (lessons[i] != null){
 
       if (
-          (lessons[i].title.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].category.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].slug.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].tags.search(new RegExp(searchQueryText, 'i')) >= 0) || (lessons[i].hidden_tags.search(new RegExp(searchQueryText, 'i')) >= 0)
+          (lessons[i].title.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
+          (lessons[i].category.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
+          (lessons[i].slug.search(new RegExp("\\b" + searchQueryText + "\\b")) >= 0) ||
+          (lessons[i].tags.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
+          (lessons[i].hidden_tags.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0)
         ) {
 
         $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>');
