@@ -55,7 +55,7 @@ My full play-along cover:
 
 ### Me and Julio Down by the Schoolyard
 
-This is a song I don't have a lesson for as of now, but my text-only draft PDF (that I show in the video above) is available here to Patreon supporters. Look for a lesson coming on that eventually!
+This is a song I don't have a lesson for as of now, but my text-only draft PDF (that I show in the video above) [is available here](https://www.patreon.com/posts/49439026) to Patreon supporters. Look for a lesson coming on that eventually!
 
 ### The Sound of Silence
 
