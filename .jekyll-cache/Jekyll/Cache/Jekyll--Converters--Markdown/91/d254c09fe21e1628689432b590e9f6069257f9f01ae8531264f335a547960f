@@ -1,4 +1,4 @@
-I"%Ó<div style="text-align: center;">
+I"³Ô<div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">
       <input style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number" />
@@ -24,13 +24,34 @@
     
 
     
+        "title": "\"The Sound of Silence\" by Simon and Garfunkel",
+        "category": "Full Song",
+        "url": "/lessons/358/",
+        "date": "Apr 7, 2021",
+        "patreon_url": "",
+        "pdf_image": "",
+        "pdf_v2": "v2",
+        "slug": "358"
+      },
+  
+
+  
+  
+    
+    
+      {
+
+    
+    
+
+    
         "title": "Paul Simon's guitar genius: Kodachrome, Mrs Robinson, Me & Julio Down by the Schoolyard, and more",
         "category": "General & About This Channel",
         "url": "/lessons/357/",
         "date": "Mar 31, 2021",
-        "patreon_url": "",
-        "pdf_image": "",
-        "pdf_v2": "",
+        "patreon_url": "https://www.patreon.com/posts/49439026",
+        "pdf_image": "<img src='/images/pdfs/preview/357.jpg' />",
+        "pdf_v2": "v2",
         "slug": "357"
       },
   
@@ -6848,7 +6869,7 @@
   ];
 $(document).ready(function(){
 
-  for (i = 0; i < 357; i++) {
+  for (i = 0; i < 358; i++) {
     $('#all_lessons_list tr:last').after('<tr data-pdf-v2="'+ lessons[i].pdf_v2 +'"><td>' + lessons[i].slug + '</td>\
                                     <td>' + lessons[i].pdf_image + '</td>\
                                     <td><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></td>\
@@ -6865,7 +6886,7 @@ $(document).ready(function(){
 <script src="/js/search.js"></script>
 
 <h2 id="list-of-all-lessons">List of all lessons</h2>
-<p>I have made 357 YouTube videos so farâ€¦ 320 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
+<p>I have made 358 YouTube videos so farâ€¦ 321 of which have pages on this website. They are listed below. You can also <a href="/search">browse by category</a> if youâ€™re looking for something specific!</p>
 
 <div class="tile_metric">
   <h3>PDF no version</h3>
@@ -6873,7 +6894,7 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF some version</h3>
-  <p>211</p>
+  <p>212</p>
 </div>
 <hr />
 
@@ -6883,7 +6904,7 @@ $(document).ready(function(){
 </div>
 <div class="tile_metric">
   <h3>PDF v2</h3>
-  <p>117</p>
+  <p>118</p>
 </div>
 <hr />
 

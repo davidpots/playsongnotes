@@ -9,13 +9,13 @@ layout: default
 
 
 <div class="container ptl">
-  
+
   {% if page.category == "full_song" %}
     {% assign lesson_head_prehead = "Guitar lesson for" %}
     {% assign lesson_head_title = page.song_title | escape %}
     {% capture lesson_head_subhead %}by <a class="lesson-head-sublink" href="/search?query={{ page.artist | escape }}">{{ page.artist | escape }}</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{ page.slug }}{% endcapture %}
   {% endif %}
-  
+
   {% if page.category == "warmup" %}
     {% assign lesson_head_prehead = "Warm Up Exercise" %}
     {% assign lesson_head_title = page.title | escape %}
@@ -45,7 +45,7 @@ layout: default
     {% assign lesson_head_title = page.title | escape %}
     {% capture lesson_head_subhead %}{% endcapture %}
   {% endif %}
-  
+
   <div class="lesson-head">
     <p class="lesson-head-prehead">{{ lesson_head_prehead }}</p>
     <h1 class="lesson-head-title">{{ lesson_head_title }}</h1>
