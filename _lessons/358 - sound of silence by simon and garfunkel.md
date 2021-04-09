@@ -31,7 +31,7 @@ pdf_for_sale: https://gum.co/ubHzj -->
 
 ## Editor's notes
 
-Hello my friends! In is guitar lesson, I will teach you how to play The Sound of Silence, the 1966 classic from Simon and Garfunkel. I will be using a capo on 6th fret, matching how they play it. The song uses fingerstyle in verse 1, and is strummed for verses 2-5, all of which the same chord progression. I'll teach you everything you need to know to play it: the chord shapes, the progression, how to approach the fingerstyle (beginner & advanced techniques), and a few different ways to tackle the strumming. Lastly, I cap it all off with a full playthrough showing you everything put together in one package.
+Hello my friends! In this guitar lesson, I will teach you how to play The Sound of Silence, the 1966 classic from Simon and Garfunkel. I will be using a capo on 6th fret, matching how they play it. The song uses fingerstyle in verse 1, and is strummed for verses 2-5, all of which the same chord progression. I'll teach you everything you need to know to play it: the chord shapes, the progression, how to approach the fingerstyle (beginner & advanced techniques), and a few different ways to tackle the strumming. Lastly, I cap it all off with a full playthrough showing you everything put together in one package.
 
 ￼Because this is such a classic song, I wanted to go deep and be complete – hence this one being a little bit longer than normal. But with my timestamps, I trust you'll be able to find what you're looking for quickly. good luck, and enjoy!￼￼
 
