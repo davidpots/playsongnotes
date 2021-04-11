@@ -11,7 +11,7 @@ slug: "85"
 tags: [Full Song Lesson, 1990s, Rock, Key of Am]
 redirect_from:
   - /songs/tom-petty-mary-jane-s-last-dance/
-pdf_version: v1
+pdf_version: v2
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25683306
@@ -42,6 +42,8 @@ Video timestamps:
 - 11:33 Farewell
 
 ## Lyrics w/ chords
+
+If you want a print-friendly version of this, with chords written above all the lyrics (in the final verses), get my PDF!
 
     INTRO
         Am - G - D - Am  (repeat)
@@ -103,23 +105,29 @@ Video timestamps:
 
 ## Quick note about guitar tuning
 
-Head's up, the album version of this song isn't quite in perfect concert pitch. I believe it was slightly sped up (or slowed down?) in production -- which means if your guitar is perfectly in standard tuning, you'll sound a bit off when playing along. As for me, I'm tuned standard. So to play along with my video lesson, put that guitar in standard tuning!
+Head's up, the album version of this song isn't quite in perfect concert pitch of A4 = 440hz. Instead, it's tuned to roughly A4 = 453hz, which is slightly sharp. This is likely because the recording was sped up in post-production (raising the pitch), or perhaps they simply all tuned their instruments a bit sharp for some reason. I’m noting this because playing along with Petty’s version (if you're in standard tuning) won't sound quite right. My video lesson is in standard tuning, with A4 = 440hz (the normal concert pitch that tuners default to).
+
+## Quick note about key
+
+While you might initially guess this song is in the key of A-minor, it's actually using notes from the A dorian scale, which are A-B-C-D-E-F#-G. In case its helpful, notice these are the same notes used in the G major scale -- and you're simply using "A" as your home note instead of a "G". The chorus, however, which has that switch to an A-major chord, uses notes from the E dorian scale (E-F#-G-A-B-C#-D)... which are the same notes as A-dorian but adds the C# note (which is the single note making the A-minor chord become an A-major, instead).
 
 ## How to play the chords
 
 Here are the chords you'll need to be able to play to pull off this song. Not a lot! And fortunately, no barre chords.
 
-    E –––0–––––3–––––2–––––0–––––
-    B –––1–––––0–––––3–––––0–––––
-    G –––2–––––0–––––2–––––0–––––
-    D –––2–––––0–––––0–––––2–––––
-    A –––0–––––2–––––––––––2–––––
-    E –––––––––3–––––––––––0–––––
-         Am    G     D     Em
+    E –––0–––––3–––––2–––––0–––––0–––
+    B –––1–––––0–––––3–––––0–––––2–––
+    G –––2–––––0–––––2–––––0–––––2–––
+    D –––2–––––0–––––0–––––2–––––2–––
+    A –––0–––––2–––––––––––2–––––0–––
+    E –––––––––3–––––––––––0–––––––––
+         Am    G     D     Em    A
 
 ## Chord progressions
 
-For the intro, verse, and interludes -- you'll want to repeat this progression. Four counts per each chord. This repeats, over and over.
+The tempo for Mary Jane's last dance is 170 beats per minute (bpm), with four counts per each chord. If this seems fast, then cut it in half (85 bpm) -- and know the metronome clicks will happen on the "1" and "3" counts only.
+
+For the intro, verse, and interludes -- you'll want to repeat this progression.
 
     "She grew up in an Indiana town..."
 
@@ -132,25 +140,25 @@ For the chorus, you'll change it up to use this. Note how you're doing much less
     Em . . . Em . . . Em . . . Em . . .
     A  . . . A  . . . A  . . . A  . . .
     Em . . . Em . . . Em . . . Em . . .
-    A  . . . A  . . . G  
+    A  . . . A  . . . G                     (let ring on the final G, knock guitar)
 
-                (let ring on the final G, knock guitar)
 
 ## Strumming
 
 Want a basic strumming pattern? Try this. This is what I use for the verse. This uses four equal counts for each chord. You could play the intro with this also, if you wanted...
 
     Am              G               D               Am
-    d       d   d u d       d   d u d       d   d u d       d   d u
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    d       d   d u d       d   d u d       d   d u d       d   d u
 
 To step things up a notch: I use this fancier strumming for the intro riff.
 
     Am              G               D               Am
-    d       d     u d u d   d     u d u d   d     u d u d   d
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    d       d     u d u d   d     u d u d   d     u d u d   d
 
-## Verse hammer-ons
+
+## Intro & verse riff hammer-ons
 
 A big part of getting close to the Tom Petty guitar sound is using hammer-ons when you play some of the chords -- most notably during the intro to the song. There are probably many subtleties and variations I could write tabs for -- but I'll begin with these two simple versions.
 
@@ -173,6 +181,18 @@ Same deal with the D-major chord -- hammer on the high-E string with your left h
     A ––––––––––––––––
     E ––––––––––––––––
          D            
+
+The full tab I play roughly looks like this:
+
+    e –0–––––––0–––––0–3–3–––––3–––––3–2–2–––––0h2–––2–0–0–––––0–––––––
+    B –1–––––––1–––––1–0–0–––––0–––––0–3–3–––––3–––––3–1–1–––––1–––––––
+    G –0h2–––––2–––––2–0–0–––––0–––––0–2–2–––––2–––––2–2–2–––––2–––––––
+    D –0h2–––––2–––––2–0–0–––––0–––––0–0–0–0–––0–––––0–2–2–––––2–––––––
+    A –0–––––––0–––––0–2–2–––––2–––––2–––––––––––––––––0–0–0–––0–––––––
+    E –––––––––––––––––3–3–3–––3–––––3–––––––––––––––––––––––––––––––––
+       Am              G               D               Am
+       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+       d       d     u d u d   d     u d u d   d     u d u d   d
 
 If this seems difficult, that's fine! It's like that for everyone at first. Keep practicing, session after session. You'll slowly get better with time. Seriously.
 
@@ -223,7 +243,8 @@ Finally, my favorite way to spice up the A-major is as follows. This one is much
     A –––0–––––0–––––0–––––0–––––0–––––
     E –––––––––––––––––––––––––––––––––
                +                 +
-         A7                                                
+         A7
+
 
 ## Lead guitar lick, simplified
 
@@ -237,7 +258,3 @@ Finally, here's a "simple" way to play the distinctive lead lick you hear during
     D –––––––––––––7–––––––––––––––––––––––––7–––––7–––––
     A –––––––––––––––––––––––––––––––––––––––––––––––––––
     E –––––––––––––––––––––––––––––––––––––––––––––––––––
-
-## Good luck!
-
-Let me know if you have questions. I hope this was helpful.
