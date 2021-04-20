@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "145"
 redirect_from:
   - /songs/johnny-cash-tennessee-flat-top-box/
-pdf_version: v1
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27317834

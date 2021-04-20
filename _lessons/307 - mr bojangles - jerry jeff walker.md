@@ -8,7 +8,8 @@ tags: [Full Song Lesson, Key of C, 1960s, Country, Folk, Classic Rock]
 category: full_song
 slug: "307"
 date_published: 2020-06-21
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38462103
@@ -56,7 +57,7 @@ Timestamps for this lesson:
             ...He'd jump so high, and he'd jump so high...
             D7/F#      D7/F#           G     G6   G7   G6
             ........He lightly touched down
-          
+
     CHORUS
                 Am   Am    Em      Em  Am   Am    Em      Em  Am   Am    Em       Em
                 .....Mr. Bojangles..........Mr. Bojangles..........Mr. Bojangles
@@ -71,7 +72,7 @@ Timestamps for this lesson:
 
         He [C] said the name Bo[C/B]jangles and he [Am] danced a lick [C/G] [F] [F] across the [G] cell [G]
         He [C] grabbed his pants, a [C/B] better stance, he [Am] jumped up high [C/G] [F] [F] clicked his [G] heels [G]
-            
+
             [F]... He [F] let go a [C] laugh, he [E] let go a [Am] laugh [C/G]
             [D7/F#]...Shook [D7/F#] back his clothes all [G] around [G6] [G7] [G6]
 
@@ -136,4 +137,3 @@ The trick here is in the 2nd and 4th measure, you're going to do an up-strum tha
 This song is played at 168 beats per minute (about 3 beats every second), and is in three-quarter time -- which means three beats per measure. Generally, we'll be emphasizing the "1" count of each measure, spoken as "ONE two three, ONE two three, ONE two three" etc. Here's 3 strumming patterns to try, starting with the easiest:
 
     [ see PDF for diagrams ]
-    

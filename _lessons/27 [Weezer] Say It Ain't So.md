@@ -11,7 +11,8 @@ tags: [Full Song Lesson, 1990s, Rock, Key of E]
 slug: "27"
 redirect_from:
   - /songs/weezer-say-it-ain-t-so/
-pdf_version: v1
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23879773

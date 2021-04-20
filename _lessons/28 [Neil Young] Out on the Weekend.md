@@ -11,7 +11,8 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of A]
 slug: "28"
 redirect_from:
   - /songs/neil-young-out-on-the-weekend/
-pdf_version: v1
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27089906
@@ -27,7 +28,7 @@ patreon_lesson_url: https://www.patreon.com/posts/27089906
 
 ## Editor's notes
 
-This video is a guitar lesson for "Out on the Weekend" by Neil Young, from his 1972 album "Harvest". It includes chords, tabs, and strumming pattern -- showing how to play this song in standard tuning on an acoustic guitar. 
+This video is a guitar lesson for "Out on the Weekend" by Neil Young, from his 1972 album "Harvest". It includes chords, tabs, and strumming pattern -- showing how to play this song in standard tuning on an acoustic guitar.
 
 Video timestamps:
 

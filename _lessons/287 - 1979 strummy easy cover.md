@@ -10,7 +10,8 @@ date_published: 2020-02-29
 tags: [Play-Along Cover, Key of E, 1990s, Rock]
 redirect_to:
   - /lessons/285
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34261805
@@ -86,6 +87,6 @@ patreon_lesson_url: https://www.patreon.com/posts/34261805 -->
               [Emaj7] [E] ... [Asus2] as you see, there's no one [E] around
 
 
-1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+<!-- 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 D   D   D U D U   U D   D U D
-    >       >       >       >
+    >       >       >       > -->

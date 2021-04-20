@@ -11,7 +11,8 @@ tags: [Full Song Lesson, 2010s, Pop, Key of G]
 slug: "76"
 redirect_from:
   - /songs/julia-michaels-issues/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30623762
@@ -25,7 +26,7 @@ patreon_lesson_url: https://www.patreon.com/posts/30623762
 
 ## Editor's notes
 
-In this lesson, I'll teach you how to pick up your guitar and play "Issues" by Julia Michaels. This is a "easy" acoustic guitar tutorial for this song, where you'll need a capo on the 1st fret. I'll teach you the chords needed to play the verse, pre-chorus, and chorus of the song. Tabs included! 
+In this lesson, I'll teach you how to pick up your guitar and play "Issues" by Julia Michaels. This is a "easy" acoustic guitar tutorial for this song, where you'll need a capo on the 1st fret. I'll teach you the chords needed to play the verse, pre-chorus, and chorus of the song. Tabs included!
 
 ## Capo 1st fret
 

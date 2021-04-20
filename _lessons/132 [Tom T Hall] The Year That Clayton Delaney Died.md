@@ -6,7 +6,8 @@ song_title:  The Year That Clayton Delaney Died
 artist: Tom T. Hall
 year: 1971
 tags: [Full Song Lesson, 1970s, Country, Key of C, Walking Bass Lines]
-pdf_version: v1
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29202320

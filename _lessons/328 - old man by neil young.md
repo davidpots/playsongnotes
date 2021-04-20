@@ -7,7 +7,8 @@ year: 1972
 category: full_song
 slug: "328"
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41525361
@@ -162,7 +163,7 @@ Here's a very basic version to get started with... add strumming only if you fee
 ### My secret stash tab
 
 Here's the "exact" tab I like to play. I give the highlighted notes below a bit more emphasis, to add some sense of melody to things. But please note, feel free to ignore this if you find an approach that works for you.         
-         
+
         "...Old  man...... look at my life...I'm  a lot  like  you  were..............."
     E ||–––––––––––0–––0–|–––––––––––0–0–0–|–––––––––––0–0–0–|–––––0h2–––––––––|–3–2–––––––0–––––|–
     B ||–––––––––6–6–––6–|–––––––6–––6–6–6–|–––––––6–––6–6–6–|–––––3–––––3–––––|–3–––––3––––––/6–|–
@@ -186,7 +187,7 @@ Here's how I recommend playing the first two lines of the verse, complete with t
     E ||–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––3–––––––|–
          D                 F                 C                 G
          1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
-         
+
     E ||–2–––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–
     B ||–3–––––––––––––––|–1–––––––––––––––|–1–––––––––––––––|–1–––––––––––––––|–
     G ||–2–––––––0h2–––––|–2–––0–––0h2–––––|–0–––––––0h2–0–––|–2–––0–––0h2–––––|–
@@ -250,7 +251,7 @@ To get the high-score, you'll want to nail this riff going out of the verse and 
     E ||–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––3–––––––|–
          D                 F                 C                 G
          1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 +
-         
+
     E ||–2–––––––––––––––|–––––––––––––––––|–––––––––––––––––|–––––––––––––––––|–
     B ||–3–––––––––––––––|–1–––––––––––––––|–1–––––––––––––––|–1–––––––––––––––|–
     G ||–2–––––––0h2–––––|–2–––0–––0h2–––––|–0–––––––0h2–0–––|–2–––0–––0h2–––––|–

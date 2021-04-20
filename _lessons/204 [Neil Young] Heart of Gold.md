@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "204"
 redirect_from:
   - /songs/neil-young-heart-of-gold/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23773015/

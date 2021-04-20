@@ -7,7 +7,8 @@ year: 1975
 category: full_song
 slug: "335"
 tags: [Full Song Lesson, 1970s, Key of D, Classic Rock]
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/43406088
@@ -138,7 +139,7 @@ Get the print-friendly version of the lyrics & chords in my PDF (top of this pag
 
 A one-page chord progression summary for all sections of the song is available on page 3 of my PDF chord sheet (linked at the top of this post).
 
-<!-- INTRO
+INTRO
 
     D . . . Bm  . . . D . . . G . . .     
     D . . . F#m . . . G . . . A . . .
@@ -197,7 +198,7 @@ ENDING
     F#m . . . F#m . . . G . . . G . . .    And in the lonely cool before dawn...
     Em  . . . A   . . . G . . . G . . .    When you get to the porch, they're all..
     Em  . . . Em  . . . G . . . A . . .    It's a town full of losers...
-    D   . . . D   . . .                    ...to win----! -->
+    D   . . . D   . . .                    ...to win----!
 
 
 ## Chord shapes needed

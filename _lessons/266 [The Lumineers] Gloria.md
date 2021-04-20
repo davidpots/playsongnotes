@@ -11,7 +11,8 @@ tags: [Play-Along Cover, 2010s, Key of C, Folk, Rock]
 slug: "266"
 redirect_to:
   - /lessons/263
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30423659

@@ -12,7 +12,8 @@ hidden_tags: [George Michael]
 slug: "200"
 redirect_from:
   - /songs/wham-last-christmas/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23522694

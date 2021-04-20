@@ -11,7 +11,8 @@ yt_video_id: _________
 slug: "157"
 redirect_from:
   - /songs/neil-young-my-my-hey-hey/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36440222

@@ -9,7 +9,8 @@ hidden_tags: [Blaze Foley]
 category: full_song
 slug: "294"
 date_published: 2020-04-08
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35777763
@@ -100,7 +101,7 @@ Add capo 3rd fret to play along with John Prine.
 
         And get [G] along with it all... where the [C] people say "Y'all"
         Feed the [G] pigeons some clay... turn the [D] night into day
-        
+
             And start [G] talking again, when I [C] know what to say  [G]  [D]
 
         [instrumental verse]

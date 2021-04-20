@@ -5,7 +5,8 @@ category: generic
 date_published: 2021-03-31
 slug: "357"
 hidden_tags: [Me and Julio Down by the Schoolyard, Julio, Simon and Garfunkel]
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/49439026

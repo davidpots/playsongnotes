@@ -8,7 +8,8 @@ category: full_song
 date_published: 2021-02-28
 slug: "353"
 tags: [Full Song Lesson, Key of D, 1970s, Country, Fingerstyle, Travis Picking]
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48129857

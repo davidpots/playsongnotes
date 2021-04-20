@@ -8,7 +8,8 @@ tags: [Full Song Lesson, Key of C, 1960s, Folk]
 category: full_song
 slug: "301"
 date_published: 2020-05-24
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 6
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37472250
@@ -94,7 +95,7 @@ Capo 4th fret. See the PDF chord sheet for a print-friendly version of these not
 
         | C       | G       | Am  Am/G  | F        |    
         | C       | G       | C         | C        |
-    
+
     VERSE
                  C               G              Am         Am (Am/G)
         Well, it ain't no use to sit and wonder why, babe
@@ -104,7 +105,7 @@ Capo 4th fret. See the PDF chord sheet for a print-friendly version of these not
         And it ain't no use to sit and wonder why, babe
         D7              D7      G   (G6)   G7
         ....It'll never do somehow
-    
+
     CHORUS
                       C       C            C7            C7
             When your rooster crows at the break of dawn
@@ -114,7 +115,7 @@ Capo 4th fret. See the PDF chord sheet for a print-friendly version of these not
             You're the reason I'm travel-ing on
                 C           G7              C       C
             But don't think twice, it's all right
-    
+
     HARMONICA BREAK
              C   G7   Am  Am/G  F   F   C   C   C   C
 
