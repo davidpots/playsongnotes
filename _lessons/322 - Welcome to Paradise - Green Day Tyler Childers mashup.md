@@ -7,7 +7,8 @@ year: 1993
 category: full_song
 slug: "322"
 tags: [Full Song Lesson, Tyler Childers, 1990s, Key of D, Drop D, Country, Pop]
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41023187
@@ -70,7 +71,7 @@ Again, note this is all one whole-step lower than one Green Day plays. I'm playi
 
     INTRO
       D-riff
-    
+
     VERSE
       D             C               D
       ...Dear mama, can you hear me whining

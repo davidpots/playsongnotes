@@ -11,7 +11,8 @@ slug: "8"
 tags: [Full Song Lesson, 1980s, Rock, Key of G]
 redirect_from:
   - /songs/bob-marley-redemption-song/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32569502
