@@ -17,7 +17,7 @@ pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23986615
-pdf_for_sale: https://gum.co/FQYiu
+#pdf_for_sale: https://gum.co/FQYiu
 ---
 
 ## Video lesson

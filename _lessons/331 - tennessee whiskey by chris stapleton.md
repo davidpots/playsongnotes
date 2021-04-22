@@ -11,7 +11,7 @@ pdf_version: v2
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/42581405
-pdf_for_sale: https://gum.co/nSkLd
+#pdf_for_sale: https://gum.co/nSkLd
 redirect_from:
   - /songs/chris-stapleton-tennessee-whiskey/
 ---

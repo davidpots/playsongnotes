@@ -36,6 +36,12 @@ permalink: /downloads/
   </div>
 
 
+## UPDATE: April 19, 2021
+
+Quick heads up! At the moment ~20% of my PDF chord sheets are unavailable (and this will remain the case for a few weeks). This is because of some frustrating copyright issues I'm in the middle of working my way through. Fortunately, the vast majority of my PDFs remain available -- and 100% my videos are avaialble on this site and my YouTube channel.
+
+👉 For more about the copyright situation, [check out this update](https://www.patreon.com/posts/quick-audio-50243544) I posted on Patreon (no login required). Thanks!
+
 ## How to access my premium PDFs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-wUT2i9GHmM?showinfo=0" frameborder="0" allowfullscreen></iframe>

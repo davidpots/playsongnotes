@@ -12,7 +12,7 @@ pdf_version: v2
 pdf_numpages: 7
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/49740437
-pdf_for_sale: https://gum.co/ubHzj
+#pdf_for_sale: https://gum.co/ubHzj
 ---
 
 <!-- patreon_lesson_available: true
