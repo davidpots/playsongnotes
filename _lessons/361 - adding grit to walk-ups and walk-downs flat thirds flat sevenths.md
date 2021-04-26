@@ -10,9 +10,10 @@ pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/50455320
+pdf_for_sale: https://gum.co/jLmfB
 ---
 
-<!-- pdf_for_sale: https://gum.co/NrMiD -->
+
 
 ## Video lesson
 
