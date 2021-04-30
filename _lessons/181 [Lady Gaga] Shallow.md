@@ -13,11 +13,11 @@ hidden_tags: [a star is born, star is born]
 redirect_from:
   - /songs/lady-gaga-shallow/
 date_published: 2018-10-11
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/21995927
+patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Full lesson

@@ -7,11 +7,11 @@ year: 1975
 category: full_song
 slug: "335"
 tags: [Full Song Lesson, 1970s, Key of D, Classic Rock]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/43406088
+patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Video lesson

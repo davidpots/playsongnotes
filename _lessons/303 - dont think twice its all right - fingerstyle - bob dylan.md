@@ -10,11 +10,11 @@ slug: "303"
 date_published: 2020-05-30
 redirect_to:
   - /lessons/301
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 6
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/37472250
+patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 <!-- patreon_lesson_available: true
