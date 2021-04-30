@@ -54,6 +54,10 @@ Here's Tom Petty's album version, which is recorded at ~453hz:
 
 Listen to people smarter than me talk about this! For example, here's a video from Adam Neely and another from Rick Beato. Admittedly, these covers the topic of 432hz, which dominates this discussion as to the "why use the standard of 440hz?" question.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghUs-84NAAU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-D4NDBzBZoY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
