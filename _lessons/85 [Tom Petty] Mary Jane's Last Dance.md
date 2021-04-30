@@ -43,6 +43,13 @@ Video timestamps:
 - 9:40 Lead guitar riff
 - 11:33 Farewell
 
+## A quick note about tuning...
+
+If you want to play along with Tom Petty's recorded version, you'll need to tweak your tuner to use ~453hz instead of 440hz (which is the default). But, make sure you keep your guitar in standard tuning (meaning, the strings are E-A-D-G-B-E, from thick to thin). Here's a video ([and some additional notes](http://playsongnotes.com/lessons/359)) where I show how to do this (note, my video lesson above has me in "pitch standard" of 440hz):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbWTLjkh7Bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Lyrics w/ chords
 
 If you want a print-friendly version of this, with chords written above all the lyrics (in the final verses), get my PDF!
