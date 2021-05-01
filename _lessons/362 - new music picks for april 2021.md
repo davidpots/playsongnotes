@@ -12,12 +12,7 @@ Hey there friends! Excited to share my first ever "radio" show of sorts, where I
 
 Listen here:
 
-<audio controls>
-  <source src="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/50719675/2baf224b80564cc199376de2889b07a7/1.mp3?token-time=1620000000&token-hash=uJcZodSc-MkrX3HlhFCVazOsqdoTxVagcWVhoTzry5s%3D" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-
+<iframe src="https://anchor.fm/songnotes/embed/episodes/New-Music-Picks-April-2021--Midland--Ian-Munsick--Morgan-Wade--and-Eric-Church-eq2ji2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Songs I play in this episode:
 
