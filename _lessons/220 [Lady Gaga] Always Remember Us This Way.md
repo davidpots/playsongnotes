@@ -12,11 +12,11 @@ tags: [Full Song Lesson, 2010s, Pop, Key of C, Movie Songs]
 hidden_tags: [a star is born, star is born, shallow]
 redirect_from:
   - /songs/lady-gaga-always-remember-us-this-way/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: v1
+#pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25021126
+patreon_lesson_url: https://www.patreon.com/posts/35741438
 ---
 
 

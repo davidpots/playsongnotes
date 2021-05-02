@@ -9,11 +9,11 @@ hidden_tags: [Blaze Foley]
 category: full_song
 slug: "294"
 date_published: 2020-04-08
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35777763
+patreon_lesson_url: https://www.patreon.com/posts/35741438
 ---
 
 

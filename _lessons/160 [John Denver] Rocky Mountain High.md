@@ -11,11 +11,11 @@ yt_video_id: _________
 slug: "160"
 redirect_from:
   - /songs/john-denver-rocky-mountain-high/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: v1
+#pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/27883309
+patreon_lesson_url: https://www.patreon.com/posts/35741438
 ---
 
 ## Video lesson

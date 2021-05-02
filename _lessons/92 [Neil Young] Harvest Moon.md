@@ -11,11 +11,11 @@ yt_video_id: _________
 slug: "92"
 redirect_from:
   - /songs/neil-young-harvest-moon/
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/46776696
+patreon_lesson_url: https://www.patreon.com/posts/35741438
 #pdf_for_sale: https://gum.co/extUu
 ---
 

@@ -9,11 +9,11 @@ date_published: 2020-12-04
 slug: "341"
 tags: [Full Song Lesson, Key of E, 1970s, Classic Rock, Folk]
 hidden_tags: [cats, cat's, cat stevens]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/44685553
+patreon_lesson_url: https://www.patreon.com/posts/35741438
 #pdf_for_sale: https://gum.co/mxtmm
 ---
 

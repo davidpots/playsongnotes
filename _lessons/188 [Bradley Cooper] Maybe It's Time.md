@@ -12,11 +12,11 @@ tags: [Full Song Lesson, 2010s, Key of G, Country, Movie Songs]
 hidden_tags: [bradley cooper, shallow]
 redirect_from:
   - /songs/bradley-cooper-maybe-it-s-time/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: v1
+#pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22497311
+patreon_lesson_url: https://www.patreon.com/posts/35741438
 ---
 
 ## Video lesson
