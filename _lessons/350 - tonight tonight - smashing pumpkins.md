@@ -9,11 +9,11 @@ date_published: 2021-02-06
 slug: "350"
 tags: [Full Song Lesson, Key of G, 1990s, Rock]
 hidden_tag: [billy corgan, smashing pumpkins]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 5
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/47202039
+patreon_lesson_url: https://www.patreon.com/posts/48736684
 #pdf_for_sale: https://gum.co/vZWHW
 ---
 

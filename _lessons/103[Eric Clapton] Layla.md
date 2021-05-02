@@ -6,11 +6,11 @@ song_title:  Layla
 artist: Eric Clapton
 year: 1992
 tags: [Full Song Lesson, 1990s, Classic Rock, Key of Dm]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/42628404
+patreon_lesson_url: https://www.patreon.com/posts/48736684
 category: full_song
 yt_video_id: _________
 slug: "103"

@@ -10,11 +10,11 @@ tags: [Full Song Lesson, 2010s, Key of C, Folk, Rock]
 slug: "263"
 redirect_from:
   - /lessons/266
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: v2
+#pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/30423659
+patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Full song lesson (Lesson #263)
