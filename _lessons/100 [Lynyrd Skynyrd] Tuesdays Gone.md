@@ -12,11 +12,11 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of A, Movie Songs]
 hidden_tags: [tuesdays]
 redirect_from:
   - /songs/lynyrd-skynyrd-tuesdays-gone/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: v1
+#pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22744103
+patreon_lesson_url: https://www.patreon.com/posts/21721986
 ---
 
 ## Video lesson

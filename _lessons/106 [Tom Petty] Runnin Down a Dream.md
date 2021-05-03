@@ -11,11 +11,11 @@ yt_video_id: _________
 slug: "106"
 redirect_from:
   - /songs/tom-petty-runnin-down-a-dream/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: v1
+#pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22744103
+patreon_lesson_url: https://www.patreon.com/posts/21721986
 ---
 
 ## Video lesson
