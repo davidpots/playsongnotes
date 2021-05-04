@@ -9,12 +9,11 @@ hidden_tags: [Top Gun, youve lost that loving feeling, loving feeling]
 category: full_song
 slug: "283"
 date_published: 2020-02-05
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33878045/
-free_pdf_available: true
-free_pdf_url: https://songnotes.ck.page/52fc82d7c8
 ---
 
 
