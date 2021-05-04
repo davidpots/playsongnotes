@@ -35,11 +35,18 @@ permalink: /downloads/
 
   </div>
 
-## How to access my premium PDFs
+
+## UPDATE: April 19, 2021
+
+Quick heads up! At the moment ~25% of my educational "song" PDF are unavailable (and this will remain the case for at least a few weeks). This is because of some copyright issues I'm in the middle of working my way through. I'm actively working to reach an arrangement with the rights holders, so they can be properly credited & compensated. Fortunately, the vast majority of my PDFs remain available -- and 100% my video lessons remain available on this site and my YouTube channel.
+
+👉 For more about the copyright situation, [check out this update](https://www.patreon.com/posts/quick-audio-50243544) I posted on Patreon (no login required). Thanks!
+
+## How to access my educational PDFs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-wUT2i9GHmM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p>Support me on Patreon ($3/month, cancel anytime) to get access to the growing catalog of 200+ PDFs I’ve been creating since August 2018. I have been adding ~1-2 new lessons a week (video and PDF).</p>
+<p>Support me on Patreon ($3/month, cancel anytime) to get access to the growing catalog of 200+ educational PDFs I’ve been creating since August 2018. I have been adding ~1-2 new lessons a week (video and PDF).</p>
 
 <p>Annual plans are also available (which saves you 15%). Thanks for supporting me and this project, it means a lot!</p>
 
