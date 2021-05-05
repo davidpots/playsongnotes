@@ -25,6 +25,48 @@ $(document).ready(function(){
     return false;
   });
 
+  $('.keyChangeFwd').click(function(){
+    if ( $('.js-keySelector .active').attr('data-key-name') == "G#" ) {
+      $('.js-keySelector li a[data-key-name="A"]').trigger('click');
+    } else {
+      $('.js-keySelector .active').parent('li').next('li').find('a').trigger('click');
+    }
+    return false;
+  });
+
+  $('.keyChangePrev').click(function(){
+    if ( $('.js-keySelector .active').attr('data-key-name') == "A" ) {
+      $('.js-keySelector li a[data-key-name="G#"]').trigger('click');
+    } else {
+      $('.js-keySelector .active').parent('li').prev('li').find('a').trigger('click');
+    }
+    return false;
+  });
+
+  $(window).bind('keydown', function(e){
+    if(e.which == 39) {
+      // right
+      $('.keyChangeFwd').trigger('click');
+      return false;
+    }
+    if(e.which == 37) {
+      // left
+      $('.keyChangePrev').trigger('click');
+      return false;
+    }
+    if(e.which == 221) {
+      // right
+      $('.js-scaleSelector .active').parent('li').next('li').find('a').trigger('click');
+      return false;
+    }
+    if(e.which == 219) {
+      // left
+      $('.js-scaleSelector .active').parent('li').prev('li').find('a').trigger('click');
+      return false;
+    }
+  });
+
+
 });
 
 $(window).on('load', function(){

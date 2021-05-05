@@ -1412,3 +1412,21 @@ table.string_labels .cell {
 }
 
 /*# sourceMappingURL=i.css.map */
+
+
+.keyChangeFwd,
+.keyChangePrev {
+  display: inline-block;
+  background: yellow;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  width: 21px;
+  background: black;
+  color: white;
+  text-align: center;
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+}
+
+.keyChangeFwd  { padding-right: 4px; }
+.keyChangePrev { padding-left:  4px; margin-left: 10px; }
