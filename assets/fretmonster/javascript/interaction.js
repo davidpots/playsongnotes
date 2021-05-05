@@ -156,20 +156,8 @@ $(window).on('load', function(){
               });
 
               $('.highlightNone').click(function(){
-                $('.note[data-active="true"]').each(function(i,obj){
-                  if ( ($(obj).attr('data-interval') == "3") || ($(obj).attr('data-interval') == "5") || ($(obj).attr('data-interval') == "b3") || ($(obj).attr('data-interval') == "1")) {
-                    $(this).removeClass('highlight').addClass('noHighlight');
-                  }
-                  if ( $(obj).attr('data-interval') == "1" ) {
-                    $(this).removeClass('highlight').addClass('noHighlight');
-                  }
-                });
-                highlightingRoot = false;
-                highlightingTriads = false;
-                highlightingNone = true;
-                $('.highlightRoot').removeClass('active--toggle');
-                $('.highlightTriads').removeClass('active--toggle');
-                $(this).addClass('active--toggle');
+                // Moved this to its own function (other file) so I could solve a bug about highlight "none" not sticking
+                highlightNone();
                 return false;
               });
 
@@ -188,6 +176,71 @@ $(window).on('load', function(){
                 }
                 return false;
               });
+
+
+
+              // Key Changer!
+
+                      $('.js-keySelector a').click(function(){
+                        $('.js-keySelector a').removeClass('active');
+                        $(this).addClass('active');
+                        var newKey = $(this).attr('data-key-name');
+                        currentKey = newKey;
+                        computeScaleTones(currentScale.pattern,newKey,fretboardLength);
+                        addTonesToFretboard();
+
+                        // Put into function
+                        $('.js-summonKeyPicker').text(newKey);
+                        $(this).closest('.js-overlay').hide();
+
+                        // if ( highlightingNone == true ) {
+                        //   $('.highlightNone').toggle('click');
+                        // }
+
+                        return false;
+                      })
+
+              // Scale Changer!
+
+                      $('.js-scaleSelector a').click(function(){
+                        $('.js-scaleSelector a').removeClass('active');
+                        $(this).addClass('active');
+                        var newScale = $(this).attr('data-scale-name');
+                        currentScale = scales[newScale];
+                        computeScaleTones(scales[newScale].pattern,currentKey,fretboardLength);
+                        addTonesToFretboard();
+
+                        // Check for rare chords w/ wacky intervals. Make into function?
+                            // Lydian
+                            if (newScale == 'lydian_mode') {
+                              $('.note[data-interval="b5"]').attr('data-interval','4#');
+                              if ( showingIntervals == true ) {
+                                $('.note[data-interval="b5"]').text('4#');
+                              }
+                            }
+
+                        // Put into function
+
+                        $('.js-summonScalePicker').text(scales[newScale].name);
+                        $(this).closest('.js-overlay').hide();
+                        return false;
+                      })
+
+              // Instrument Changer!
+
+                      $('.js-instrumentSelector a').click(function(){
+                        $('.js-instrumentSelector a').removeClass('active--toggle');
+                        $(this).addClass('active--toggle');
+                        var newInstrument = $(this).data('instrument'); // e.g., 'ukulele'
+                        if (currentInstrument.name != newInstrument) {
+                          currentInstrument = instruments[newInstrument];
+                          generateFretboard();
+                          computeScaleTones(currentScale.pattern,currentKey,fretboardLength);
+                          addTonesToFretboard();
+                        }
+                        return false;
+                      });
+
 
 
 
