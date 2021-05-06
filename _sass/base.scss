@@ -384,6 +384,11 @@ iframe {
   float: right;
   width: calc(100% - 200px - 24px);
 }
+.pdf_module_v2--no-thumbnail .pdf_module_v2__headline,
+.pdf_module_v2--no-thumbnail .pdf_module_v2__content {
+  float: none;
+  width: auto;
+}
 .pdf_module_v2__headline {
   float: right;
   width: calc(100% - 200px - 24px);
