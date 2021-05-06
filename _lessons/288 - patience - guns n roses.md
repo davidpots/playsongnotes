@@ -8,7 +8,8 @@ category: full_song
 slug: "288"
 tags: [Full Song Lesson, Play-Along Cover, Key of G, 1980s, Rock]
 date_published: 2020-03-04
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34822415
