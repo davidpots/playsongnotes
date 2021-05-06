@@ -11,8 +11,8 @@ yt_video_id: _________
 slug: "20"
 redirect_from:
   - /songs/paul-simon-kodachrome/
-pdf_version: v2
-#pdf_version: copyright
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684

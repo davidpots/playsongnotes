@@ -12,7 +12,8 @@ hidden_tags: [summer of 69]
 slug: "25"
 redirect_from:
   - /songs/bryan-adams-summer-of-69/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821743

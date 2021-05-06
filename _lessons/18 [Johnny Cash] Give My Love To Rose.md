@@ -11,8 +11,8 @@ yt_video_id: _________
 slug: "18"
 redirect_from:
   - /songs/johnny-cash-give-my-love-to-rose/
-pdf_version: v2
-#pdf_version: copyright
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35741438

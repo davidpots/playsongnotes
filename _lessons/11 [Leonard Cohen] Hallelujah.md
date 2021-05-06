@@ -10,7 +10,8 @@ yt_video_id: _________
 slug: "11"
 redirect_from:
   - /songs/leonard-cohen-hallelujah/
-pdf_version: v1
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26843157

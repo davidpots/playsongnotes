@@ -5,7 +5,8 @@ title: '"Wagon Wheel" by Old Crow Medicine Show'
 song_title:  Wagon Wheel
 artist: Old Crow Medicine Show
 year: 2004
-pdf_version: v1
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29901798
