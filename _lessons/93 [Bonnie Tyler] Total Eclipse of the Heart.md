@@ -11,8 +11,8 @@ tags: [Full Song Lesson, 1980s, Classic Rock, Key of G]
 slug: "93"
 redirect_from:
   - /songs/bonnie-tyler-total-eclipse-of-the-heart/
-pdf_version: v1
-#pdf_version: copyright
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986

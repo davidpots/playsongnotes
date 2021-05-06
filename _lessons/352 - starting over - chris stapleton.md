@@ -8,8 +8,8 @@ category: full_song
 date_published: 2021-02-20
 slug: "352"
 tags: [Full Song Lesson, Key of G, 2020s, Country]
-pdf_version: v2
-#pdf_version: copyright
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684

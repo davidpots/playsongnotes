@@ -11,8 +11,8 @@ slug: "213"
 tags: [Full Song Lesson, Key of D, Country, 1980s]
 redirect_from:
   - /songs/steve-earle-copperhead-road/
-pdf_version: v1
-#pdf_version: copyright
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35741438

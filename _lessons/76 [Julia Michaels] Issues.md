@@ -11,8 +11,8 @@ tags: [Full Song Lesson, 2010s, Pop, Key of G]
 slug: "76"
 redirect_from:
   - /songs/julia-michaels-issues/
-pdf_version: v2
-#pdf_version: copyright
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35741438
