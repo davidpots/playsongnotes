@@ -38,9 +38,11 @@ permalink: /downloads/
 
 ## UPDATE: April 19, 2021
 
-Quick heads up! At the moment ~25% of my educational "song" PDF are unavailable (and this will remain the case for at least a few weeks). This is because of some copyright issues I'm in the middle of working my way through. I'm actively working to reach an arrangement with the rights holders, so they can be properly credited & compensated. Fortunately, the vast majority of my PDFs remain available -- and 100% my video lessons remain available on this site and my YouTube channel.
+Quick heads up! The educational PDFs for my "song" lessons will be temporarily unavailable. This is because of some copyright issues I'm in the middle of working my way through. I'm actively working to reach an arrangement with the rights holders, so they can be properly credited & compensated. Fortunately, the all of my non-song PDFs remain available -- and 100% my video lessons remain available on this site and my YouTube channel.
 
 👉 For more about the copyright situation, [check out this update](https://www.patreon.com/posts/quick-audio-50243544) I posted on Patreon (no login required). Thanks!
+
+<br /><br />
 
 ## How to access my educational PDFs
 
@@ -113,9 +115,9 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 <br /><br />
 
-## Premium PDFs available to Patreon supporters
+## Songs I have video lessons for
 
-Is there a song you want to request I add as PDF? Let me know! Send an email to play.songnotes@gmail.com
+{% include print-friendly-lessons-available.html %}
 
 {% assign number_of_pdfs = 0 %}
 
