@@ -218,7 +218,9 @@
     padding: 2px 5px;
     font-size: 11px;
   }
-  p.featured_label[data-patreon-url=""] {
+  p.featured_label[data-patreon-url=""],
+  p.featured_label[data-pdf-version="copyright"],
+   {
     opacity: .1;
     cursor: default;
   }
