@@ -38,7 +38,7 @@ permalink: /downloads/
 
 ## UPDATE: May 6, 2021
 
-Quick heads up! The educational PDFs for my "song" lessons will be temporarily unavailable. This is because of some copyright issues I'm in the middle of working my way through. I'm actively working to reach an arrangement with the rights holders, so they can be properly credited & compensated. Fortunately, the all of my non-song PDFs remain available -- and 100% my video lessons remain available on this site and my YouTube channel.
+Quick heads up! The educational PDFs for my "song" lessons are being temporarily removed -- while I work out some copyright issues. I'm currently working out licensing arrangements with the copyright holders, so they can be properly credited & compensated. Fortunately, 100% of my video lessons remain available on YouTube -- and I have plenty of educational PDFs for my non-song lessons!
 
 👉 For more about the copyright situation, [check out this update](https://www.patreon.com/posts/quick-audio-50243544) I posted on Patreon (no login required). Thanks!
 
