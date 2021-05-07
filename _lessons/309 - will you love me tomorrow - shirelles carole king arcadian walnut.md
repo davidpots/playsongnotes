@@ -8,7 +8,8 @@ tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 category: full_song
 slug: "309"
 date_published: 2020-07-04
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38961604
@@ -126,7 +127,7 @@ This song has an "A" section (the "verse" in my chord sheet) and a "B" section (
                   | C       | Am     | Dm7     | G       |      
                   | E       | E7     | Am      | Am      |
                   | Fma7    | G      | C       | C       |
-                  
+
     Bridge:       | F       | F      | Em      | Em      |
                   | F       | F      | C       | C       |
                   | F       | F      | Em      | Em      |
@@ -155,7 +156,7 @@ This is the same one I show in the pages above, except for the fact that she pla
                   | C       | Am     | Dm7     | G       |      
                   | E       | E7     | Am      | Am      |
                   | Dm7     | G      | C       | C       |
-                  
+
     Bridge:       | F       | F      | Em      | Em      |
                   | F       | F      | C       | C       |
                   | F       | F      | Em      | Em      |
@@ -173,7 +174,7 @@ Same as mine, with some exceptions. For one, notice how she's rarely playing the
     A –––3–––0––– –(0)––(0)– –––2––– –––3––– –––2–––2–––2–––
     E ––––––––––– –––––––––– –––3––– –––1––– –––0–––0–––0–––
          C   Am    Dm7  Dm7     G       F       E   E7  Em
-         
+
 ### Fingerpicking pattern she uses
 
 She's using a consistent fingerstyle pattern for all chords. The only difference is whether the bass note she plays is on the 5th string (C, Am, Dm7) or 6th string (G, F, E, E7, Em). Notice how for all your right-hand fingers EXCEPT your thumb, they're playing the same strings in the same pattern, always.
@@ -185,7 +186,7 @@ She's using a consistent fingerstyle pattern for all chords. The only difference
     A ––x–––––x–––––––––– <= right thumb        A –––––––––––––––––––
     E –––––––––––––––––––                       E ––x–––––x–––––––––– <= right thumb        
         1 + 2 + 3 + 4 +                             1 + 2 + 3 + 4 +                        
-        
+
 Example (first 4 chords of the verse):
 
     E –––––––––––––––––––|–––––––––––––––––––|–––––––––––––––––––|–––––––––––––––––––|–

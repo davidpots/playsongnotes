@@ -11,7 +11,8 @@ slug: "118"
 tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
 redirect_from:
   - /songs/waylon-jennings-mammas-dont-let-your-babies-grow-up-to-be-cowboys/
-pdf_version: v1
+#pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28515581

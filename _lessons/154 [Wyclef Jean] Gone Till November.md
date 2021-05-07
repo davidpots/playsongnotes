@@ -11,7 +11,8 @@ tags: [Full Song Lesson, 1990s, Drop E, Fingerstyle]
 slug: "154"
 redirect_from:
   - /songs/wyclef-jean-gone-till-november/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31429770

@@ -12,7 +12,8 @@ hidden_tags: [Pulp Fiction, Tarantino]
 slug: "38"
 redirect_from:
   - /songs/ricky-nelson-lonesome-town/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/47547391

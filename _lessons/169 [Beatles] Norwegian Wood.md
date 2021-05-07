@@ -10,7 +10,8 @@ tags: [Full Song Lesson, Classic Rock, Key of D, 1960s]
 slug: "169"
 redirect_from:
   - /songs/beatles-norwegian-wood/
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20756378

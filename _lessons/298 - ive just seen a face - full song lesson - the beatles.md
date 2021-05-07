@@ -8,7 +8,8 @@ tags: [Full Song Lesson, Key of G, 1960s, Classic Rock]
 category: full_song
 slug: "298"
 date_published: 2020-05-04
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 6
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36733328
