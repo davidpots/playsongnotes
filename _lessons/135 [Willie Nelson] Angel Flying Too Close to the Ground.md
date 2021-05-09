@@ -38,7 +38,7 @@ Video timestamps:
 - 9:17 Walk-up and walk-down tabs
 - 11:13 Playthrough
 
-## Lyrics w/ chords
+<!-- ## Lyrics w/ chords
 
     VERSE 1 (INTRO):
         A                      C#m     D                  A
@@ -184,4 +184,4 @@ Progression #4:
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know! -->

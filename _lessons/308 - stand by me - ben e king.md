@@ -41,7 +41,7 @@ Ben E. King's version of this song is in the Key of A. Most guitar lessons show 
 
 If you do want to use the key of C and play along with Ben E. King's version, slap a capo on the 9th fret.
 
-## Intro tab
+<!-- ## Intro tab
 
 See PDF chord sheet.
 
@@ -82,4 +82,4 @@ See PDF chord sheet.
 
         [C] Stand... by [C] me... oh, [Am] stand, by [Am] me... oh, [F] stand...[G], stand by me [C], stand by me [C]
 
-        [ repeat chorus if desired, fade out, end on C ]
+        [ repeat chorus if desired, fade out, end on C ] -->

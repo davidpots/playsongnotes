@@ -28,7 +28,7 @@ patreon_lesson_url: https://www.patreon.com/posts/28985222
 
 In this video I'll teach you how to play an easy acoustic version of "We Are the Champions" by Queen. I'll be using a capo on the 3rd fret, which lets you use the easiest possible chords. Also, I'll be simplifying a few of the otherwise difficult chord voicings (e.g., diminished) to use more common voicings. The result is a version that still *sounds* like We Are the Champions, but is much easier to play! I hope you enjoy. This lesson is dedicated to the Washington Capitals who won their first Stanley Cup last week (June 2018).
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
     (capo 3rd fret)
 
@@ -242,4 +242,4 @@ Then, if you desire, you can add upstrums in between the smaller down strums:
 
 ## Thanks, and good luck!
 
-I hope this lesson was helpful for you! If so, please consider a small donation to my tip jar. Thanks and all the best!
+I hope this lesson was helpful for you! If so, please consider a small donation to my tip jar. Thanks and all the best! -->

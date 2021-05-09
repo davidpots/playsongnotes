@@ -40,7 +40,7 @@ Video timestamps:
 - 7:22 Step 7: Adding additional fill notes
 - 8:54 Farewell
 
-## This lesson is just for the intro & verse riff!
+<!-- ## This lesson is just for the intro & verse riff!
 
 If you want to learn how to play the entire song, let me know. Right now I'm only teachinig the cool fingerpicking riff you hear at the beginning and in the verse.
 
@@ -191,4 +191,4 @@ Make sure you keep the accent the transition notes, and downplay the fill notes.
 
 ## Good luck!
 
-I hope this helps, and as always let me know if you have any questions.
+I hope this helps, and as always let me know if you have any questions. -->

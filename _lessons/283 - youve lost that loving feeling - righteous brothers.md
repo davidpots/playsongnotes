@@ -50,7 +50,7 @@ Great cover here by Mike Massé and Sterling Cottam. Can't recommend it enough, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLzVbz2HHzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
     VERSE
         (no chord)            D7sus2                                    D
@@ -193,4 +193,4 @@ And then from there, you can play the following, which repeats each note on the 
     D –0–––––0–5–––––5–7–––––7–5–7–––5–|–0–  ....repeat
     A –––––––––––––––––––––––––––––––––|–––
     E –––––––––––––––––––––––––––––––––|–––
-       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->

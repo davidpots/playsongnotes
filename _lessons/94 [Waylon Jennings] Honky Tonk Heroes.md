@@ -28,7 +28,7 @@ patreon_lesson_url: https://www.patreon.com/posts/21721986
 
 In this lesson I'll show you how to play the song "Honky Tonk Heroes" by Waylon Jennings. This is a fantastic outlaw country song with plenty to chew on: a fun intro riff, a fun repeating verse progression, and an opportunity to kick everything into overdrive with the song picking up the tempo in the 2nd half. I'll teach you the intro (with tabs), show the chords, talk about strumming, etc.
 
-## Chords needed
+<!-- ## Chords needed
 
     E –––2––––2––––3––––2––––0––––0––––2––––––
     B –––3––––1––––0––––0––––3––––2––––3––––––
@@ -153,4 +153,4 @@ For the second half of the song, Jennings picks up the tempo big time. At that p
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know! -->

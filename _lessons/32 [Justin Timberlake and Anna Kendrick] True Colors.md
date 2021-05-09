@@ -40,7 +40,7 @@ Video timestamps:
 - 10:46 No Capo playthrough
 
 
-## Lyrics w/ chords
+<!-- ## Lyrics w/ chords
 
     INTRO
 
@@ -262,4 +262,4 @@ And here's what you'll play for each chord, using that pattern:
     D –––––––––––––3–––––3–––––––––––  <-- right index finger
     A ––––––––––3––––––––––––––––––––  <-- right thumb
     E –––––––––––––––––––––––––––––––
-                G
+                G -->

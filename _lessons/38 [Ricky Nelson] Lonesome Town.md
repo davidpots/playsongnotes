@@ -40,7 +40,7 @@ Video timestamps:
 - 9:56 Shuffle rhythm basics
 
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
 Key of C, 76 beats per minute. Tune down 1/2 step to play in same key as Ricky Nelson.
 
@@ -193,7 +193,7 @@ If that F gives you a hard time with the wrapped thumb, you can use a simpler vo
 
 "There's a place where lovers go... to cry their troubles away"
 
-    See PDF for full tab
+    See PDF for full tab -->
 
 <!-- e –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 B ––––––1––––––––1––––––––0––––––––0––––––––1––––––––0–––––––––1––––––––1––––   
@@ -203,9 +203,9 @@ A ––3–––––––––––––––––––––––�
 E –––––––––––3––––––––0––––––––0––––––––1––––––––3––––––––––––––––––3––––––––   
     C        C/G      E        E        F        G         C        C/G            -->
 
-"And they call it Lonesome Town... where the broken hearts stay"
+<!-- "And they call it Lonesome Town... where the broken hearts stay"
 
-    See PDF for full tab
+    See PDF for full tab -->
 
 <!-- e ––––––1––––––––1–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 B ––––––1––––––––1––––––––1––––––––1––––––––1––––––––0–––––––––1––––––––1––––  
@@ -215,11 +215,11 @@ A ––––––––––––––––––––3–––––�
 E ––––––––––––––––––––––––––––––––––––––1––––––––3––––––––––––––––––3––––––––   
     F        Fm       C        Am       F        G         C        C/G        -->
 
-## Chorus tab
+<!-- ## Chorus tab
 
 "Going down to Lonesome Town, where the broken hearts stay..."
 
-    See PDF for full tab
+    See PDF for full tab -->
 
 <!-- e ––––––1––––––––1–––––––––0––––––––0––––––––––––––––––––––––––––––––––––––––
 B ––––––1––––––––1–––––––––0––––––––0––––––––1––––––––0––––––––1––––––––1––––
@@ -228,10 +228,10 @@ D ––3––––––––3–––––––––2––––––
 A –––––––––––––––––––––––––––––––––––––––––––––––––––––––––3–––––––––––––––––
 E –––––––––––––––––––––––––––––––––––––––1––––––––3–––––––––––––––––3––––––––
     F        F         Em       Em       F        G        C        C/G       -->
-
+<!--
 "Going down to Lonesome Town, to cry my troubles away..."
 
-    See PDF for full tab
+    See PDF for full tab -->
 
 <!-- e ––––––1––––––––1––––––––0–––––––––0––––––––2––––––––2––––––––3––––––––1––––
 B ––––––1––––––––1––––––––0–––––––––0––––––––1––––––––1––––––––0––––––––0––––
@@ -246,21 +246,21 @@ Finally, I should note that this song was written by Baker Knight and not Ricky 
 
 ## "Jack Rabbit Slims" in Pulp Fiction
 Just for some cultural and cinematic flavor, here is the famous Jack Rabbit Slims tracking shot from Quentin Tarantino's film "Pulp Fiction" -- where an in-costume Ricky Nelson is playing live music as the main characters walk through the restaurant. In the film, "Lonesome Town" is played immediately after this sequence.
-http://www.youtube.com/watch?v=TNwtg3Wmp30
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TNwtg3Wmp30?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 And here is the Jack Rabbit Slims dining scene in which Lonesome Town can be heard in the background.
-http://www.youtube.com/watch?v=A8X2SM0ioJ4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8X2SM0ioJ4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Other videos
 
 ### Ricky Nelson Solo Version
 Here is a nice video of Ricky playing this song with just him and his guitar (no backup). You can't quite see the guitar (to help with fingering, strumming pattern, etc) -- but it is helpful nonetheless. Note that he plays this with a guitar tuned down one-half step. Also note that he may steal your girlfriend.
-http://www.youtube.com/watch?v=-4iBMbwdxPQ
 
-### Official Album (Single) Version
-Here is the "album" version that appears on the Pulp Fiction soundtrack. While still stripped down and minimal, there is a tad bit more production going on here versus the film / television clip immediately above.
-http://www.youtube.com/watch?v=sMBGdp8vJXQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4iBMbwdxPQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Recommended Cover Version
 To get a good and clear look at someone skillfully playing this on guitar, I recommend this video by Mike Sinatra. Very well-played and well-shot acoustic performance, without any crazy changing cameras. Note, to play along with him you'll need to use a capo on the 3rd fret in standard tuning (which would be a capo 4th fret if tuned down one-half step).
-http://www.youtube.com/watch?v=bKJhYQ6oOHY
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKJhYQ6oOHY?showinfo=0" frameborder="0" allowfullscreen></iframe>

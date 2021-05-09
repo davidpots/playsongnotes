@@ -36,7 +36,7 @@ Video timestamps:
 - 6:10 Verse #1 playthrough
 - 7:29 Key change in verse #2
 
-## Chords needed
+<!-- ## Chords needed
 
 Quite simple! Three chords only, played in the same order for the verse and the chorus. If you want to change key in the second verse, you'll need the E A and B7 as shown below (this isn't required though, if you're doing a campfire version).
 
@@ -161,4 +161,4 @@ This isn't required, but is a fun way to spice up the song a bit. Which is, alte
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know! -->

@@ -35,7 +35,7 @@ Lesson timestamps:
 - 9:55 Practice advice for this song
 
 
-## Lyrics w/ chords
+<!-- ## Lyrics w/ chords
 
     (Capo 2nd fret)
 
@@ -168,4 +168,4 @@ Finally, in this version notice how the asterisk's location replaces one of the 
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you. Let me know what other Beatles songs you want to see lessons for!
+Thanks for reading! I hope this helped you. Let me know what other Beatles songs you want to see lessons for! -->

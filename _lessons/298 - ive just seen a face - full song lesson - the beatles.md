@@ -64,29 +64,29 @@ Looking for other lessons I've made for songs by The Beatles? Here you go! I've 
 
 ### Yesterday (fingerstyle)
 
-- [Full lesson notes & PDF](http://playsongnotes.com/lessons/242/)
+- [View lesson »](http://playsongnotes.com/lessons/242/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wYGC06x7B9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Norwegian Wood
 
-- [Full lesson notes & PDF](http://playsongnotes.com/lessons/169/)
+- [View lesson »](http://playsongnotes.com/lessons/169/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4BXzDOrjRro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Blackbird (4 tips to get started)
 
-- [Full lesson notes & PDF](http://playsongnotes.com/lessons/265/)
+- [View lesson »](http://playsongnotes.com/lessons/265/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BwnL0t87I3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Imagine (John Lennon)
 
-- [Full lesson notes & PDF](http://playsongnotes.com/lessons/235/)
+- [View lesson »](http://playsongnotes.com/lessons/235/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QehjXVLXdfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
 See PDF for full version (with chords throughout).
 
@@ -120,4 +120,4 @@ See PDF for full version (with chords throughout).
         Falling, yes I am falling
         And she keeps calling..... me back again
 
-        (repeat chorus as desired, end on G)
+        (repeat chorus as desired, end on G) -->

@@ -37,7 +37,7 @@ Video timestamps
 - 6:33 Chorus
 - 7:30 End of chorus turn-around riff
 
-## Chords w/ lyrics
+<!-- ## Chords w/ lyrics
 
     INTRO
         C ..... Am ..... C ..... Am .....
@@ -206,4 +206,4 @@ One last note: I admit I am not an expert or a scholar on what the canonical num
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you.
+Thanks for reading! I hope this helped you. -->

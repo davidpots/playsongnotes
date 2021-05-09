@@ -44,7 +44,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25388934
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ik8ii6Yagk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Lyrics w/ chords
+<!-- ## Lyrics w/ chords
 
     (to play with STP, tune down 1 whole step to DGCFAD)
 
@@ -177,4 +177,4 @@ Refrain timing:
     D ––5–5–5–5–––––––––3–3–3–––––3–––––2–2–2–2–––––––––7/8–8–8–7–7–7–7–
     A ––5–5–5–5–––––––––3–3–3–––––3–––––3–3–3–3–––––––––5/6–6–6–5–5–5–5–
     E ––3–3–3–3–––––––––1–1–1–––––1–––––0–0–0–0–––––––––––––––––––––––––
-        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->

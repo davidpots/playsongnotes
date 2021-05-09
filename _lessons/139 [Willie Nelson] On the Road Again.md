@@ -39,7 +39,7 @@ Video timestamps:
 
 On this page, I'm teaching this song using chords in the key of C (which are easier to play than the key of E, which is what Willie uses). Add a capo on the 4th fret, using chords in C, to play with Willie. Otherwise, a capo isn't needed.
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
     VERSE
                C                                           E
@@ -128,4 +128,4 @@ Chorus:
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
+Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know! -->

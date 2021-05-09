@@ -45,7 +45,7 @@ In addition to the video above, here's the original entry I made for this song a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjNnsAY-ijc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
-## Lyrics w/ chords
+<!-- ## Lyrics w/ chords
 
     INTRO
         Am  C   D   F   Am   E   Am   E      x1
@@ -185,4 +185,4 @@ If you want to truly mimic the sound of The Animals version, you'll need to use 
 
 ## Good luck!
 
-Let me know if you have questions. I hope this was helpful.
+Let me know if you have questions. I hope this was helpful. -->

@@ -60,7 +60,7 @@ This is my favorite version. She's using a capo on the 9th fret. See below for m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3JvTkLkgxdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Lyrics and chords
+<!-- ## Lyrics and chords
 
     C                 Am         Dm7    G
     ...Tonight you're mine, completely
@@ -196,4 +196,4 @@ Example (first 4 chords of the verse):
     A ––3–––––3––––––––––|––0–––––0––––––––––|––0–––––0––––––––––|–––––––––––––––––––|–
     E –––––––––––––––––––|–––––––––––––––––––|–––––––––––––––––––|––3–––––3––––––––––|–
         C                   Am                  Dm7                 G
-        1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +    
+        1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +     -->

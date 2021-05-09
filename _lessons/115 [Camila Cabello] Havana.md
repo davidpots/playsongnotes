@@ -35,7 +35,7 @@ patreon_lesson_url: https://www.patreon.com/posts/38165123
 
 In this lesson, I'll teach you how to play a fingerstyle version of "Havana" by Camila Cabello. This song only uses 3 chords, but has a fantastic Latin sound that is fun to practice on guitar – even if you've never heard this song before. I'll show these chords (with tabs), and break down how to practice things step by step.
 
-## Capo 3rd fret
+<!-- ## Capo 3rd fret
 
 Head's up, to play this song in the style I demonstrate in my video - you'll need a capo on the 3rd fret! This lets you use easy chords.
 
@@ -182,14 +182,14 @@ And if you want, you can silence the E-minor chord by resting your fingers on it
         Em          C        B7
         1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
 
-That's it! From here you're good to go. Feel free to improvise further as you wish. Again, see my video for reference.
+That's it! From here you're good to go. Feel free to improvise further as you wish. Again, see my video for reference. -->
 
 
 ## Similar lessons I've made
 
 Looking for other lessons that involve fingerstyle and a Latin-inspired bass line groove? Here's a few others!
 
-### Lesson #257: Seniorita by Camilla Cabello & Shawn Mendes
+### Lesson #257: Latin-inspired fingerstyle groove
 
 [Video & PDF](http://playsongnotes.com/lessons/257/)
 
@@ -208,7 +208,7 @@ Looking for other lessons that involve fingerstyle and a Latin-inspired bass lin
 
 
 
-
+<!-- 
 ## Good luck!
 
-Let me know if you have questions. I hope this was helpful.
+Let me know if you have questions. I hope this was helpful. -->
