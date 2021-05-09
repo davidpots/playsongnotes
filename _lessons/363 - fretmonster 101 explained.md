@@ -12,7 +12,7 @@ date_published: 2021-05-07
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lj5c_cpWS9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-👉 Use this free tool yourself @ <a href="http://fretmonster.net">FretMonster.net</a>
+👉 Use this free tool yourself @ <a href="https://playsongnotes.com/fretmonster.html">FretMonster.net</a>
 
 ## Editor's notes
 
