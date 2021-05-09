@@ -12,6 +12,8 @@ date_published: 2021-05-07
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lj5c_cpWS9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+👉 Use this free tool yourself @ <a href="http://fretmonster.net">FretMonster.net</a>
+
 ## Editor's notes
 
 Hey friends! Many times in the past few months I've used my web tool FretMonster in my YouTube video lessons -- and a lot of you have asked me to give a tutorial explaining different ways to use it. For those who asked, you're in luck! In this video I'll give a quick overview of what it is, how it works, and show a handful of different ways you might use it.
