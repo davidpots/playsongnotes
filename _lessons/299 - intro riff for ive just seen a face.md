@@ -8,7 +8,8 @@ date_published: 2020-05-08
 tags: [Warm Up Exercise, Key of G, 1960s, Classic Rock, Fingerstyle]
 redirect_to:
   - /lessons/298
-pdf_version: v2
+#pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 6
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36733328
