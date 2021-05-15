@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 'How to add grit to your walk-ups and walk-downs'
+title: 'Learn It By Ear: Will the Circle Be Unbroken'
 category: tip_technique
 slug: "365"
 tags: [Tips & Techniques, Learning By Ear, Key of G]
