@@ -7,7 +7,7 @@ year: 1972
 category: full_song
 date_published: 2021-02-28
 slug: "353"
-tags: [Full Song Lesson, Key of D, 1970s, Country, Fingerstyle, Travis Picking]
+tags: [Full Song Lesson, Key of D, 1970s, Country, Fingerstyle, Travis Picking, Learning By Ear]
 #pdf_version: v2
 pdf_version: copyright
 pdf_numpages: 3
