@@ -6,7 +6,7 @@ song_title: You Belong With Me
 artist: Taylor Swift
 year: 2008
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /taylor-swift-you-belong-with-me/
 redirect_from:
   - /songs/taylor-swift-you-belong-with-me/

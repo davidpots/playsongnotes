@@ -6,7 +6,7 @@ song_title: Love Story
 artist: Taylor Swift
 year: 2006
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /taylor-swift-love-story/
 redirect_from:
   - /songs/taylor-swift-love-story/

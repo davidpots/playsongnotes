@@ -5,7 +5,7 @@ year: 1965
 category: warmup
 slug: "299"
 date_published: 2020-05-08
-yt_video_id: ___
+yt_video_id: 
 tags: [Warm Up Exercise, Key of G, 1960s, Classic Rock, Fingerstyle]
 redirect_to:
   - /lessons/298

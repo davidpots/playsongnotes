@@ -6,7 +6,7 @@ song_title:  "Thinkin' on a Woman"
 artist: Colter Wall
 year: 2018
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /colter-wall-thinkin-on-a-woman/
 redirect_from:
   - /songs/colter-wall-thinkin-on-a-woman/

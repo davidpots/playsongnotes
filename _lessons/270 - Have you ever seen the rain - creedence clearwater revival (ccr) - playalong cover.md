@@ -5,7 +5,7 @@ song_title: Have You Ever Seen the Rain
 artist: Creedence Clearwater Revival
 year: 1970
 category: playalong_cover
-yt_video_id: ___
+yt_video_id: 
 slug: "270"
 tags: [Play-Along Cover, 1970s, Key of C, Classic Rock]
 hidden_tags: CCR, creedance

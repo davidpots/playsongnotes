@@ -6,7 +6,7 @@ song_title:  Perfect
 artist: Ed Sheeran
 year: 2017
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /ed-sheeran-perfect/
 redirect_from:
   - /songs/ed-sheeran-perfect/

@@ -5,7 +5,7 @@ song_title:  Tennessee Whiskey
 artist: Chris Stapleton
 year: 2015
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /chris-stapleton-tennessee-whiskey/
 redirect_to:
   - /lessons/331

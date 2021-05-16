@@ -6,7 +6,7 @@ song_title:  I Won't Give Up
 artist: Jason Mraz
 year: 2012
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /jason-mraz-i-wont-give-up/
 redirect_from:
   - /songs/jason-mraz-i-wont-give-up/

@@ -6,7 +6,7 @@ song_title:  Somewhere Over the Rainbow / What a Wonderful World
 artist: Israel Kamakawiwoole
 year: 1990
 category: full_song_no_video
-yt_video_id: _________
+yt_video_id: 
 permalink: /israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/
 redirect_from:
   - /songs/israel-kamakawiwoole-somewhere-over-the-rainbow-what-a-wonderful-world/

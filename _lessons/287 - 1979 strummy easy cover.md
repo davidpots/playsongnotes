@@ -6,7 +6,7 @@ artist: The Smashing Pumpkins
 year: 1995
 category: playalong_cover
 slug: "287"
-yt_video_id: ___
+yt_video_id: 
 date_published: 2020-02-29
 tags: [Play-Along Cover, Key of E, 1990s, Rock]
 redirect_to:

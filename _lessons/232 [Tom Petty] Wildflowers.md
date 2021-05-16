@@ -5,7 +5,6 @@ song_title: Wildflowers
 artist: Tom Petty
 year: 1994
 category: full_song
-yt_video_id: _________
 tags: [Full Song Lesson, 1990s, Key of C, Rock]
 slug: "232"
 yt_video_id: ZA4AKs83Lxc
