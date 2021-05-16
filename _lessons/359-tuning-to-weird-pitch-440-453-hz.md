@@ -4,6 +4,7 @@ title: 'Tuning Tip: how to change your pitch away from 440hz'
 category: tip_technique
 slug: "359"
 tags: [Tips & Techniques, Tuning]
+yt_video_id: ___
 hidden_tags: [tuning, concert pitch, pitch reference, 453hz, 453, 451, hz]
 date_published: 2021-04-30
 ---

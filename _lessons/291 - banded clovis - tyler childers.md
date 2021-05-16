@@ -7,6 +7,7 @@ year: 2017
 tags: [Full Song Lesson, 2010s, Key of E, Country]
 category: full_song
 slug: "291"
+yt_video_id: ___
 date_published: 2020-03-22
 pdf_version: v2
 pdf_numpages: 2
@@ -55,7 +56,7 @@ Capo 3rd fret.
         He traded me fair for a bottle of wine
             A         B7              E       E
         His brother's Barnes Mountain wine
-        
+
         [instrumental verse]
 
         We [E] trudged through the [E] snow, [A] straight up the [E] hillside
@@ -63,7 +64,7 @@ Capo 3rd fret.
         To an [E] over-[E]-hang [A] hid from the [E] ridgeline
         We [E] bent o'er our [E] handles and we [B7] bit in the [E] ground
         The [A] dark and [B7] bloody [E] ground [E]
-        
+
         [instrumental verse]
 
         Was a [E] bitch to break [E] ground but the [A] wine kept us [E] goin'
@@ -87,11 +88,11 @@ Capo 3rd fret.
     REFRAIN
             [A] Clovis like [A] that is a [E] hard point to [E] find
             Makes [E] pills swift to [E] come by with a [E] good chunk of [B7] change
-        
+
         Left [E] over for [E] burn on [A] whatever [E] meanness
         [E] Whatever [E] woman is [B7] comin' my [E] way
         [A] Darlin' [B7] come my [E] way [E]
-        
+
         [instrumental verse]
 
         I [E] sit in this [E] cell for the [A] banded [E] clovis

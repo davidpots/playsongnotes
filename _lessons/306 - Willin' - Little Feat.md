@@ -6,6 +6,7 @@ artist: Little Feat
 year: 1972
 tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 hidden_tags: [Willing, willin]
+yt_video_id: ___
 category: full_song
 slug: "306"
 date_published: 2020-06-13

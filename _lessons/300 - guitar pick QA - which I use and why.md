@@ -5,6 +5,7 @@ category: tip_technique
 slug: "300"
 tags: [Tips & Techniques, Strumming, Questions & Answers]
 date_published: 2020-05-08
+yt_video_id: ___
 ---
 
 <!-- patreon_lesson_available: true

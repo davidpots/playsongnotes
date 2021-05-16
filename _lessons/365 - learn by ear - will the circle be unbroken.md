@@ -3,6 +3,7 @@ layout: song
 title: 'Learn It By Ear: Will the Circle Be Unbroken'
 category: tip_technique
 slug: "365"
+yt_video_id: ___
 tags: [Tips & Techniques, Learning By Ear, Key of G]
 hidden_tags: [Nitty Gritty Dirt Band]
 date_published: 2021-05-15

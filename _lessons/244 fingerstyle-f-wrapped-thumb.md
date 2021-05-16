@@ -6,6 +6,7 @@ slug: "244"
 date_published: 2019-06-21
 tags: [Tips & Techniques, Learning Chords, Fingerstyle, Travis Picking]
 hidden_tags: fingerpicking, finger picking, finger style, travis picking
+yt_video_id: ___
 pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true

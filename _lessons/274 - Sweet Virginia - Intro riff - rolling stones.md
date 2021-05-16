@@ -5,6 +5,7 @@ song_title: Sweet Virginia
 artist: The Rolling Stones
 year: 1972
 category: full_song
+yt_video_id: ___
 date_published: 2019-12-29
 slug: "274"
 tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]

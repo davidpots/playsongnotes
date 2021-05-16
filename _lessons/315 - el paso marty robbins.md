@@ -6,6 +6,7 @@ artist: Marty Robbins
 year: 1959
 category: full_song
 slug: "315"
+yt_video_id: ___
 tags: [Full Song Lesson, 1950s, Key of D, Country]
 pdf_version: v2
 pdf_numpages: 2
@@ -94,7 +95,7 @@ Live version:
         Something is dreadfully wrong for I feel... a deep burning pain in my [D] side--- [D]--- [D7]--- [D7]---
         Though I am trying to stay in the saddle... I'm getting weary, unable to ride
         But my love---- for...
-        
+
     [D] Feleena is strong and I [Em] rise where I've fallen, [A7] though I am weary I can't stop to [D] rest
     [D] I see the white puff of [Em] smoke from the rifle, [A7] I feel the bullet go deep in my [D] chest
     [D] From out of nowhere [Em] Feleena has found me, [A7] kissing my cheek as she kneels by my [D] side

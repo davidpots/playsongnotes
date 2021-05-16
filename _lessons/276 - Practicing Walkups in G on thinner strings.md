@@ -5,6 +5,7 @@ category: warmup
 date_published: 2020-01-07
 slug: "276"
 tags: [Warm Up Exercise, Key of G, Walking Bass Lines]
+yt_video_id: ___
 hidden_tags: [bassline, exercise]
 pdf_version: v2
 pdf_numpages: 1

@@ -7,6 +7,7 @@ year: 2012
 tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "310"
+yt_video_id: ___
 date_published: 2020-07-10
 pdf_version: v2
 pdf_numpages: 1
@@ -55,7 +56,7 @@ Capo 2nd fret. See PDF for a print-friendly version.
 
 
         [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ]
-                                                                                        
+
                 Bm                                     D
     Well, I was barely thirteen when the company man, tried to dig my daddy's grave
        A                                                G                                 

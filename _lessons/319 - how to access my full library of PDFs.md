@@ -4,6 +4,7 @@ title: 'How to access my library of 200+ print-friendly PDF chord sheets'
 category: generic
 date_published: 2020-08-16
 slug: "319"
+yt_video_id: ___
 ---
 
 <!-- patreon_lesson_available: true

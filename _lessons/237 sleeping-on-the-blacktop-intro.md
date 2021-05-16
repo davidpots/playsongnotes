@@ -6,6 +6,7 @@ redirect_from:
 title: Colter Wall's Sleeping on the Blacktop intro riff
 slug: "237"
 date_published: 2019-05-11
+yt_video_id: ___
 tags: [Warm Up Exercise, 2010s, Country, Fingerstyle, Travis Picking, Movie Songs]
 hidden_tags: [fingerpicking, finger picking, finger style, travis picking, hell or high water, colter wall]
 pdf_version: v2

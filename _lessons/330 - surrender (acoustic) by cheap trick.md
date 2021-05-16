@@ -5,6 +5,7 @@ song_title: Surrender (acoustic)
 artist: Cheap Trick
 year: 1978
 category: full_song
+yt_video_id: ___
 slug: "330"
 tags: [Full Song Lesson, 1970s, Key of C, Key of D, Classic Rock]
 #pdf_version: v2

@@ -6,6 +6,7 @@ redirect_from:
 title: Latin Bassline Groove from "Seniorita"
 slug: "257"
 date_published: 2019-09-08
+yt_video_id: ___
 tags: [Practice Log, 2010s, Fingerstyle, Pop, Key of Am, Walking Bass Lines]
 hidden_tags: [Shawn Mendes, Camilla Cabello, bass line]
 pdf_version: v2

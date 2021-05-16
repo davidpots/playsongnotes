@@ -6,6 +6,7 @@ artist: Bob Dylan
 year: 1963
 tags: [Full Song Lesson, Key of C, 1960s, Folk]
 category: full_song
+yt_video_id: ___
 slug: "301"
 date_published: 2020-05-24
 #pdf_version: v2

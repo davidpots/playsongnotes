@@ -6,6 +6,7 @@ artist: Cat Stevens
 year: 1970
 category: full_song
 slug: "333"
+yt_video_id: ___
 tags: [Full Song Lesson, 1970s, Key of G, Folk, Classic Rock]
 pdf_version: v2
 pdf_numpages: 2

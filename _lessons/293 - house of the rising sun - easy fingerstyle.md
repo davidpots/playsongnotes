@@ -5,6 +5,7 @@ song_title: "House of the Rising Sun (fingerstyle)"
 artist: The Animals
 year: 1964
 tags: [Full Song Lesson, 1960s, Key of Am, Classic Rock, Fingerstyle]
+yt_video_id: ___
 category: full_song
 slug: "293"
 date_published: 2020-03-31

@@ -4,6 +4,7 @@ title: '"Santeria" by Sublime (easy-strum version)'
 song_title: Santeria
 artist: Sublime
 year: 1996
+yt_video_id: ___
 category: full_song
 slug: "327"
 tags: [Full Song Lesson, 1990s, Key of C, Rock]
@@ -68,7 +69,7 @@ Capo 4th fret to play along with Sublime
             ...what I really wanna say.... I can’t define
             F       G             C    Am     F     G                     C
             ...Got! Love! Make it go------ ..... my soul will have to...
-           
+
         [ instrumental verse w/ solo ]
 
                   F         G            C       Am    

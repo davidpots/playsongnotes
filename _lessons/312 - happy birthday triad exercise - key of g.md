@@ -7,6 +7,7 @@ date_published: 2020-07-23
 tags: [Warm Up Exercise, Key of G, Learning Chords]
 pdf_version: v2
 pdf_numpages: 1
+yt_video_id: ___
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39665187
 free_pdf_available: true

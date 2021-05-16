@@ -3,6 +3,7 @@ layout: song
 title: 'My 12 most popular guitar lessons of 2019'
 category: generic
 date_published: 2020-01-04
+yt_video_id: ___
 slug: "275"
 ---
 

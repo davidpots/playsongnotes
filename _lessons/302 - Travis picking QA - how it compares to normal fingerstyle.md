@@ -7,6 +7,7 @@ tags: [Tips & Techniques, Fingerstyle, Travis Picking, Questions & Answers, Key 
 date_published: 2020-05-16
 pdf_version: v2
 pdf_numpages: 2
+yt_video_id: ___
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37186031
 free_pdf_available: true

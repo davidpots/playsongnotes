@@ -5,6 +5,7 @@ song_title: "Clay Pigeons"
 artist: John Prine
 year: 2005
 tags: [Full Song Lesson, 1980s, 2000s, Fingerstyle, Travis Picking, Country, Key of G]
+yt_video_id: ___
 hidden_tags: [Blaze Foley]
 category: full_song
 slug: "294"

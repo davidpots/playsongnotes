@@ -7,6 +7,7 @@ year: 2019
 category: full_song
 tags: [Full Song Lesson, Key of G, 2010s, Soul, Country]
 hidden_tags: [Doc Watson, Marcus King]
+yt_video_id: ___
 date_published: 2020-01-14
 slug: "279"
 pdf_version: v2
@@ -153,7 +154,7 @@ ENDING
         Your pappy's rich........... and your mama's good looking
         G            Em      Am          C              Em    B7
         Hush, little baby...... Honey----  don't you cry
-         
+
                      Em       D/F# G          D/F#    Em      D/F#  G  D/F#
         One of these mornings......... you'll rise up singing
                               Am     C                   B7
@@ -173,7 +174,7 @@ ENDING
         Your pappy's rich........... and your mama's good looking
         G            Em      Am          C              Em    B7
         Hush, little baby...... Honey----  don't you cry
-    
+
     ENDING (let chords ring, slow down)
 
                G            Em      Am         C      Em (end)

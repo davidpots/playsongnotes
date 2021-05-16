@@ -7,6 +7,7 @@ title: Triad exercises using A, D, & E
 tags: [Warm Up Exercise, Learning Chords, Key of A]
 slug: "228"
 date_published: 2019-03-29
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

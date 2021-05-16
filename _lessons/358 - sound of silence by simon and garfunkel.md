@@ -7,6 +7,7 @@ year: 1966
 category: full_song
 date_published: 2021-04-07
 slug: "358"
+yt_video_id: ___
 tags: [Full Song Lesson, Key of Am, Folk, Fingerstyle, Classic Rock]
 pdf_version: v2
 pdf_numpages: 7

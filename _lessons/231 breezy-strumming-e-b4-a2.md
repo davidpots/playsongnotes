@@ -7,6 +7,7 @@ title: Breezy strumming on E-Bsus4-Asus2
 tags: [Warm Up Exercise, Learning Chords, Strumming]
 slug: "231"
 date_published: 2019-04-15
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

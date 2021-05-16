@@ -5,6 +5,7 @@ song_title: Have You Ever Seen the Rain
 artist: Creedence Clearwater Revival
 year: 1970
 category: full_song
+yt_video_id: ___
 slug: "269"
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
 hidden_tags: CCR, creedance

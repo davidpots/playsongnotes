@@ -5,6 +5,7 @@ song_title: Betty
 artist: Taylor Swift
 year: 2020
 category: full_song
+yt_video_id: ___
 slug: "321"
 tags: [Full Song Lesson, 2020s, Key of C, Pop, Country]
 #pdf_version: v2

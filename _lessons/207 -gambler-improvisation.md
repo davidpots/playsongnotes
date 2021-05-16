@@ -5,6 +5,7 @@ slug: "207"
 date_published: 2019-01-16
 category: practice_log
 tags: [Practice Log, 1970s, Key of D, Country, Walking Bass Lines]
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

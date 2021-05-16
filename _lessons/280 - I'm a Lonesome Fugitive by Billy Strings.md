@@ -6,6 +6,7 @@ artist: Billy Strings
 year: 2019
 category: full_song
 date_published: 2020-01-11
+yt_video_id: ___
 tags: [Full Song Lesson, Key of G, 2010s, Country]
 hidden_tags: [Merle Haggard, Marcus King]
 slug: "280"
@@ -30,7 +31,7 @@ And here's an amazing [lesson by Marcel](https://lessonswithmarcel.com/2019/08/2
 ## Lyrics w/ chords
 
     INTRO (played with lead riff)
-      
+
           | G   | C   | D   | D   |
           | C   | D   | G   | G   |
 
@@ -85,11 +86,11 @@ And here's an amazing [lesson by Marcel](https://lessonswithmarcel.com/2019/08/2
                 [ Played quieter... ]
                 I'd [G] like to settle [C] down but they won't [D] let me   [D]
                 A [C] fugitive must [C] be a rolling [D] stone [D]
-                
+
                 [ Played at normal volume... ]
                 Down [G] every road there's [C] always one more [D] city [D]
                 I'm [C] on the run, the [D] highway, it's my [G] home [G]
-                
+
                 [ Played quieter, let chords ring ]
                 I'm [C] on the run, the [D] highway, it's my [G] home [G]
 
@@ -116,7 +117,7 @@ Note, only in the 2nd chorus, the second-to-last chord is a "C" before resolving
 ### Verse
 
     "Well, I raised a lot of Cain back in my younger days..."
-    
+
     G C D D
     C C D D
     G C D D

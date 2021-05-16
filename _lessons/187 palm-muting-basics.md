@@ -6,6 +6,7 @@ slug: "187"
 date_published: 2018-10-30
 tags: [Tips & Techniques, Strumming]
 hidden_tags: [mute, muted, percussion, percussive]
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

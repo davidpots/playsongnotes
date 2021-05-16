@@ -7,6 +7,7 @@ year: 1988
 tags: [Full Song Lesson, Key of C, 1980s, Rock, Movie Songs]
 category: full_song
 slug: "296"
+yt_video_id: ___
 date_published: 2020-04-19
 pdf_version: v2
 pdf_numpages: 3
@@ -59,7 +60,7 @@ No capo. Key of C (or, A-minor which has the same notes). Tempo = ~136 bpm.
         ...I think about... the loveless fascination
         Am           Am4          Fmaj7   G
         ...Under the Milky Way tonight
-        
+
         [Full band kicks in with bass... verse chords change slightly]
 
         [Am] Lower the [Am4] curtain down in [Fmaj7] Memphis [Em]
@@ -107,7 +108,7 @@ No capo. Key of C (or, A-minor which has the same notes). Tempo = ~136 bpm.
 Getting right to the point, here's 3 ways to play the intro chords. There are actually multiple guitars heard on the album version: one without a capo (playing "option 2" below), and the other capo 5th fret. I'm including "option 1", which has an Am7 chord, because this Am7 captures the "sound" of the "Capo 5" Em7 chord. I prefer to play the "option 1" variation for the intro, as it best captures the sound of the recorded version's intro. See my video lesson for reference!
 
      No capo (option 1):         No capo (option 2):            Capo 5:                     
-                                                                                                
+
     e –––0––––3––––0––––3–––     e ––0––––0–––––––0––––3–––     e –––0––––0––––0–––(2)––
     B –––1––––1––––1––––0–––     B ––1––––3–––––––1––––0–––     B –––0––––3––––0––––3–––
     G –––2––––2––––2––––0–––     G ––2––––2–––––––2––––0–––     G –––0––––0––––0––––2–––
@@ -127,7 +128,7 @@ Getting right to the point, here's 3 ways to play the intro chords. There are ac
 The first verse uses the same chords as the intro. Once the second verse starts (and the full band kicks in, specifically with the bass) -- there's a few changes. For one, the final chord "G" becomes an "E-minor". Also, the second chord is played over an F# bass note -- which is incredibly hard to pull off via solo guitar, but I wanted to include here. Personally, I use the Amsus4 version ("option 1" above) when singing the verse, as that chord goes well with the vocal melody.
 
     Easy verse chords:             Harder version, with descending bass notes:
-  
+
     e ––0––––––0––––––0––––0–––    e ––0––––––0––––––0––––0–––
     B ––1––––––3––––––1––––0–––    B ––1––––––3––––––1––––0–––
     G ––2––––––2––––––2––––0–––    G ––2––––––2––––––2––––0–––
@@ -154,11 +155,11 @@ If you want something simpler to use while playing this song (intro, verse, etc)
 Intro & verse:
 
     | Am    | Am7   | Fmaj7   | G      |
-    
+
 Verse, after bass kicks in (2nd verse onward):
 
     | Am    | Am4   | Fmaj7   | Em     |
-    
+
 Chorus:
 
     | G     | G     | Fmaj7   | Fmaj7  |
@@ -170,7 +171,7 @@ Refrain:
 ## Chorus and refrain
 
 ### Chord shapes
-    
+
     Chorus:              Refrain:
 
     e –––3–––––0––––     –––0–––3–––0–––

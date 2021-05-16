@@ -6,6 +6,7 @@ slug: "336"
 date_published: 2020-11-08
 tags: [Warm Up Exercise, Key of F#, Learning Chords]
 hidden_tags: [logan ledger]
+yt_video_id: ___
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true

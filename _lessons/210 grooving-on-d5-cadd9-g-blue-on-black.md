@@ -8,6 +8,7 @@ slug: "210"
 date_published: 2019-01-26
 tags: [Warm Up Exercise, Key of G, Country, 1990s]
 hidden_tags: [Kenny Wayne Shepherd]
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

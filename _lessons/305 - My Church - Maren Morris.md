@@ -7,6 +7,7 @@ year: 2016
 tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "305"
+yt_video_id: ___
 date_published: 2020-06-07
 pdf_version: v2
 pdf_numpages: 5
@@ -76,7 +77,7 @@ Capo 2nd fret + standard tuning to play along with Maren Morris' album version. 
     It [G] gets my cold, cold heart burnin'... [D7] hotter than a ring of fire
     When this [G] wonderful world gets heavy... and I [C] need to find my [Em] escape... [Em]...
     I just [G] keep the wheels rolling, [D7] radio scrolling [C] until my sins wash [G] away, yeah
-     
+
         Can I get a [G] hallelujah... [C] can I get an [G] amen
         Feels like the [G] Holy Ghost running through you
         When I [D7] play the Highway FM

@@ -4,6 +4,7 @@ title: 'New! Browse my lessons by category, genre, decade, and more'
 tags: [Website Update]
 category: generic
 slug: "292"
+yt_video_id: ___
 date_published: 2020-03-28
 ---
 

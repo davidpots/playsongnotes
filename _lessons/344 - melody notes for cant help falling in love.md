@@ -6,6 +6,7 @@ slug: "344"
 date_published: 2021-01-10
 tags: [Warm Up Exercise, Key of C, Learning Chords]
 hidden_tags: [Elvis, Elvis Presley, Cant help falling in love, cant help falling in love with you]
+yt_video_id: ___
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true

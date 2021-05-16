@@ -7,6 +7,7 @@ year: 1963
 tags: [Full Song Lesson, Key of C, 1960s, Folk, Fingerstyle, Travis Picking]
 category: full_song
 slug: "303"
+yt_video_id: ___
 date_published: 2020-05-30
 redirect_to:
   - /lessons/301

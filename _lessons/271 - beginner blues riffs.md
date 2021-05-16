@@ -5,6 +5,7 @@ category: warmup
 date_published: 2019-12-14
 slug: "271"
 tags: [Warm Up Exercise, Key of A, Blues, Bruce Springsteen]
+yt_video_id: ___
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

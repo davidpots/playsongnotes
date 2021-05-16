@@ -7,6 +7,7 @@ year: 1981
 category: full_song
 tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle]
 slug: "284"
+yt_video_id: ___
 date_published: 2020-02-12
 pdf_version: v2
 pdf_numpages: 3

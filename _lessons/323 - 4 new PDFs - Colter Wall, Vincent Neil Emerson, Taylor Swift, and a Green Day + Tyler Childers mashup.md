@@ -5,6 +5,7 @@ category: generic
 date_published: 2020-08-21
 slug: "323"
 pdf_version: v2
+yt_video_id: ___
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41023187
@@ -29,7 +30,7 @@ Video timestamps:
 - 4:49 Farewell & send your requests
 
 <!--  -->
- 
+
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
 
 ## Editor's notes

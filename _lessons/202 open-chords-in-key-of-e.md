@@ -7,6 +7,7 @@ title: Open chords in the Key of E
 slug: "202"
 date_published: 2018-12-26
 tags: [Warm Up Exercise, Key of E, Learning Chords]
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

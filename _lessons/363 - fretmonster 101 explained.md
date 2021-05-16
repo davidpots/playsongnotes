@@ -6,6 +6,7 @@ slug: "363"
 tags: [Tips & Techniques, Learning Chords]
 hidden_tags: [scales]
 date_published: 2021-05-07
+yt_video_id: ___
 ---
 
 ## Video lesson

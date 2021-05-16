@@ -5,6 +5,7 @@ title: Slap strumming basics (percussive rhythm technique)
 slug: "197"
 date_published: 2018-12-07
 tags: [Tips & Techniques, Strumming]
+yt_video_id: ___
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

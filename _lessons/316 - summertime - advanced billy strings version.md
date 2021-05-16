@@ -6,6 +6,7 @@ artist: Billy Strings
 year: 2019
 category: full_song
 slug: "316"
+yt_video_id: ___
 tags: [Full Song Lesson, 2010s, Key of G, Classic Rock, Blues, Soul]
 hidden_tags: [Marcus King, Doc Watson]
 redirect_to:

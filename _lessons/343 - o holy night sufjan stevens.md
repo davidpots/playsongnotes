@@ -5,6 +5,7 @@ song_title: O Holy Night
 artist: Sufjan Stevens
 year: 2006
 category: full_song
+yt_video_id: ___
 date_published: 2020-12-24
 slug: "343"
 tags: [Full Song Lesson, Key of C, 2000s, Holiday]

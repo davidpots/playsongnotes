@@ -6,6 +6,7 @@ slug: "356"
 tags: [Tips & Techniques]
 hidden_tags: [theory, practical music theory]
 date_published: 2021-03-26
+yt_video_id: ___
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true
