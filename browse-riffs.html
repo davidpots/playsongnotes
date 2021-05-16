@@ -1,26 +1,34 @@
 ---
 layout: page
-title: Quick Riffs // Song Notes by David Pots
+title: Quick Riffs - Short, bite-sized guitar exercises to jump right in and play - Song Notes by David Pots
 permalink: /riffs/
+redirect_from:
+  - /warmup/
 ---
 
 <h1>Video Lessons</h1>
-<p>Big sentence here giving a summary of all my lessons, and how PDFs exists, and a link to search or whatever.</p>
+<p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
 
 <p class="tabs_may2021">
-  <a href="/songs">Full Songs</a> <a href="/tips">Tips & Techniques</a> <a class="active" href="/riffs">Quick Riffs</a>
+  <a href="/songs">Full Songs</a> <a href="/tips">Tips & Techniques</a> <a class="active" href="/riffs">Quick Riffs</a>  <a href="/practice">Practice Sessions</a>
 </p>
 
-<div class="container ptl">
-  <p>Warm-up exercises I've made:</p>
-  <ul>
 
-    <!-- {% assign sorted_songs = site.songs | sort: 'song_title' %} -->
-
-    {% assign warmups = site.lessons | where: "category","warmup" | sort: 'date_published' %}
-
-    {% for w in warmups reversed %}
-      <li class="mbs"><a class="underline" href="{{ w.url | relative_url }}"><strong>{{ w.title }} </strong></a><br /><em class="small">{{ w.date_published | date: "%B %-d, %Y"}} • Lesson #{{ w.slug}}</em></li>
+  <ul class="listing_may2021">
+    {% assign lessons = site.lessons | where: "category","warmup" | sort: 'date_published' %}
+    {% for l in lessons reversed %}
+      <li>
+        <div class="listing_may20210--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
+        <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
+        <p class="listing_may2021--meta">{{ l.date_published | date: "%B %-d, %Y"}} • Lesson #{{ l.slug}}</p>
+        {% if l.pdf_version and l.pdf_version != "copyright" %}
+          <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">PDF</a></p>
+        {% elsif l.pdf_version == "copyright" %}
+          <p class="listing_may2021--pdf listing_may2021--pdf-copyright"><a href="{{ l.url | relative_url }}">PDF Currently Unavailable...</a></p>
+        {% else %}
+          <!-- <p class="listing_may2021--pdf listing_may2021--pdf-none"><a>No PDF</a></p> -->
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
 
@@ -32,4 +40,3 @@ permalink: /riffs/
     <li><a class="underline" href="/warmup/1/"><strong>Warm Up #1: Simple blues riff in Drop-D</strong></a><br /><em>July 25, 2018</em></li>
   </ul> -->
   <p><a href="/">Back to the homepage &raquo;</a></p>
-</div>

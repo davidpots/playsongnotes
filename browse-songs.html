@@ -1,17 +1,48 @@
 ---
 layout: page
-title: Full Song Lessons // Song Notes by David Pots
+title: Full Song Lessons - Learn to play guitar like your favorite artists, with step by step song lessons - Song Notes by David Pots
 permalink: /songs/
 ---
 
 <h1>Video Lessons</h1>
-<p>Big sentence here giving a summary of all my lessons, and how PDFs exists, and a link to search or whatever.</p>
+<p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
 
 <p class="tabs_may2021">
-  <a class="active" href="/songs">Full Songs</a> <a href="/tips">Tips & Techniques</a> <a href="/riffs">Quick Riffs</a>
+  <a class="active" href="/songs">Full Songs</a> <a href="/tips">Tips & Techniques</a> <a href="/riffs">Quick Riffs</a>  <a href="/practice">Practice Sessions</a>
 </p>
 
-<!-- <h1>Full Song Lessons</h1> -->
+
+{% include print-friendly-lessons-available.html %}
+{% assign number_of_pdfs = 0 %}
+{% assign songs_by_artist = site.lessons | where: "category", "full_song" | group_by: "artist" | sort: "name" %}
+
+<div class="multi_column_list">
+{% for artist in songs_by_artist %}
+{% assign artist_count = 0 %}
+
+{% for song in artist.items %}
+
+  {% if song.patreon_lesson_available == true %}
+    {% assign artist_count = artist_count | plus: 1 %}
+  {% endif %}
+
+{% endfor %}
 
 
-<p>Coming soon</p>
+{% if artist_count > 0 %}
+  <h3 class="mbn">{{artist.name}}</h3>
+  <ul>
+
+  {% assign sorted_by_song_name = artist.items | sort: "song_title" %}
+  {% for song in sorted_by_song_name %}
+  {% if song.patreon_lesson_available == true %}
+    {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
+  <li><a href="{{song.url}}"><strong>{{song.song_title}}</strong></a></li>
+  {% endif %}
+  {% endfor %}
+
+
+  </ul>
+{% endif %}
+{% endfor %}
+</div>

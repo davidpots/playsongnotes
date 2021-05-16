@@ -111,50 +111,16 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 <br /><br />
 
-## Songs I have video lessons for
+## Songs PDFs:
 
 {% include print-friendly-lessons-available.html %}
 
-{% assign number_of_pdfs = 0 %}
-
-{% assign songs_by_artist = site.lessons | where: "category", "full_song" | group_by: "artist" | sort: "name" %}
-
-<div class="multi_column_list">
-{% for artist in songs_by_artist %}
-{% assign artist_count = 0 %}
-
-{% for song in artist.items %}
-
-  {% if song.patreon_lesson_available == true %}
-    {% assign artist_count = artist_count | plus: 1 %}
-  {% endif %}
-
-{% endfor %}
-
-
-{% if artist_count > 0 %}
-  <h3 class="mbn">{{artist.name}}</h3>
-  <ul>
-
-  {% assign sorted_by_song_name = artist.items | sort: "song_title" %}
-  {% for song in sorted_by_song_name %}
-  {% if song.patreon_lesson_available == true %}
-    {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-  <li><a href="{{song.url}}"><strong>{{song.song_title}}</strong></a></li>
-  {% endif %}
-  {% endfor %}
-
-
-  </ul>
-{% endif %}
-{% endfor %}
-</div>
-
+<a href="/songs">Click here</a> to browse all my song video lessons... they're all still available!
 
 
 <br /><br />
 
-## Warm Up Exercise PDFs:
+## Quick Riff & Warm-Up Exercise PDFs:
 
     {% assign sorted_warmups = site.lessons | where: "category","warmup" | sort: 'date_published' | reverse %}
 <ul>
@@ -180,6 +146,7 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 </ul>
 
 <br /><br />
+
 ## Tips & Technique PDFs:
 
     {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date_published' | reverse %}
@@ -191,15 +158,3 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
       {% endif %}
     {% endfor %}
 </ul>
-
-## {{number_of_pdfs}} PDFs, and counting!
-
-If you'd like access to all the lessons above, please consider supporting me on Patreon! It's truly appreciated, and goes to support my independent efforts (and costs) of creating all these lessons to share with the world. Thank you.
-
-<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
-
-<hr />
-
-## Prefer to buy the PDFs individually?
-
-I currently don't sell any of my PDFs for individual purchase -- but maybe I will one day in the future. <a href="mailto:play.songnotes@gmail.com">Shoot me an email</a> if this is something you're theoretically interested in. I can't promise anything, but it's always helpful for me to understand what my audience is looking for as possible alternatives to supporting me monthly via Patreon. Thanks!

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Tips & Techniques - Learn must-know guitar concepts to help with all areas of your playing - Song Notes by David Pots
-permalink: /tips/
+title: Practice Log - Videos showing my process of learning guitar - Song Notes by David Pots
+permalink: /practice/
 ---
 
 <h1>Video Lessons</h1>
 <p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
 
 <p class="tabs_may2021">
-  <a href="/songs">Full Songs</a> <a class="active" href="/tips">Tips & Techniques</a> <a href="/riffs">Quick Riffs</a>  <a href="/practice">Practice Sessions</a>
+  <a href="/songs">Full Songs</a> <a href="/tips">Tips & Techniques</a> <a href="/riffs">Quick Riffs</a>  <a class="active" href="/practice">Practice Sessions</a>
 </p>
 
 <ul class="listing_may2021">
-  {% assign lessons = site.lessons | where: "category","tip_technique" | sort: 'date_published' %}
+  {% assign lessons = site.lessons | where: "category","practice_log" | sort: 'date_published' %}
   {% for l in lessons reversed %}
     <li>
       <div class="listing_may20210--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
@@ -28,7 +28,6 @@ permalink: /tips/
     </li>
   {% endfor %}
 </ul>
-
 
 
   <!-- <ul>

@@ -639,7 +639,7 @@ tr[data-pdf-v2="v1"] td {
   border: 1px solid #ddd;
 }
 
-// Tabs - from May 2021
+// "Lessons" pills/tabs - from May 2021
 
 .tabs_may2021 a {
   display: inline-block;
@@ -648,13 +648,87 @@ tr[data-pdf-v2="v1"] td {
   border: 2px solid $link-color;
   border-radius: 1345px;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 13px;
   font-family: $font-family--bold;
   font-weight: normal;
   margin-right: 5px;
+  margin-bottom: 8px;
 }
 
 .tabs_may2021 a.active {
   background: $link-color;
-  color: white; 
+  color: white;
+}
+
+
+// "Lessons" - listing design
+
+.listing_may2021 {
+  margin: 0 0 16px 0;
+  padding: 0;
+  list-style: none;
+  border-bottom: 1px solid #ddd;
+  // padding-bottom: 12px;
+}
+
+.listing_may2021 li {
+  overflow: hidden;
+  width: auto;
+  padding-top: 12px;
+  border-top: 1px solid #ddd;
+}
+
+.listing_may20210--thumbnail {
+  float: left;
+  margin-right: 16px;
+  margin-bottom: 12px;
+  background-repeat: no-repeat;
+  background-size: 166px 94px;
+  width: 166px; height: 94px;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .listing_may20210--thumbnail {
+        background-size: 140px 79px;
+        width: 140px; height: 79px;
+      }
+    }
+
+.listing_may2021--title {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-size: 19px;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .listing_may2021--title {
+        font-size: 16px;
+      }
+    }
+
+.listing_may2021--meta {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.listing_may2021--pdf a {
+  text-decoration: none;
+  background: #FEDC45;
+  display: inline-block;
+  padding: 2px 5px;
+  color: #222;
+  font-size: 11px;
+  border-radius: 3px;
+}
+
+.listing_may2021--pdf-copyright a {
+  background: #eee;
+  color: #888;
+  font-family: $font-family--default;
+}
+
+.listing_may2021--pdf-none a {
+  background: #fff;
+  border: 1px solid #aaa;
+  color: #888;
 }
