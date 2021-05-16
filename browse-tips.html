@@ -8,7 +8,7 @@ permalink: /tips/
 <p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
 
 <p class="tabs_may2021">
-  <a href="/songs">Full Songs</a> <a class="active" href="/tips">Tips & Techniques</a> <a href="/riffs">Quick Riffs</a>  <a href="/practice">Practice Sessions</a>
+  <a href="/riffs">Quick Riffs</a> <a class="active" href="/tips">Tips & Techniques</a> <a href="/songs">Full Songs</a> <a  href="/practice">Practice Sessions</a>
 </p>
 
 <ul class="listing_may2021">
@@ -17,7 +17,7 @@ permalink: /tips/
     <li>
       <div class="listing_may20210--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
       <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
-      <p class="listing_may2021--meta">{{ l.date_published | date: "%B %-d, %Y"}} • Lesson #{{ l.slug}}</p>
+      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
       {% if l.pdf_version and l.pdf_version != "copyright" %}
         <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">PDF</a></p>
       {% elsif l.pdf_version == "copyright" %}
