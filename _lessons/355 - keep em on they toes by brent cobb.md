@@ -7,7 +7,7 @@ year: 2020
 category: full_song
 date_published: 2021-03-13
 slug: "355"
-yt_video_id: ___
+yt_video_id: T6gZp6HCKwI
 tags: [Full Song Lesson, Key of C, Key of E, 2020, Country]
 pdf_version: v2
 pdf_numpages: 2

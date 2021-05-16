@@ -7,7 +7,7 @@ artist: Maggie Rogers
 year: 2019
 category: full_song
 tags: [Full Song Lesson, 2010s, Key of C, Pop]
-yt_video_id: _________
+yt_video_id: bEqojO6_u2s
 slug: "208"
 redirect_from:
   - /songs/maggie-rogers-light-on/

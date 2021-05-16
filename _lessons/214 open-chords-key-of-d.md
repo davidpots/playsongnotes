@@ -7,7 +7,7 @@ title: Open chords in key of D w/ major & minor triads
 slug: "214"
 tags: [Warm Up Exercise, Key of D, Learning Chords]
 date_published: 2019-02-09
-yt_video_id: ___
+yt_video_id: LbzdtWfoIQk
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

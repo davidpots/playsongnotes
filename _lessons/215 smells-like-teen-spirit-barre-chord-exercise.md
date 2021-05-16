@@ -8,7 +8,7 @@ slug: "215"
 date_published: 2019-02-13
 tags: [Warm Up Exercise, 1990s, Rock, Learning Chords]
 hidden_tags: [Nirvana]
-yt_video_id: ___
+yt_video_id: eIuj7AE5XRg
 pdf_version: v1
 pdf_numpages: 1
 patreon_lesson_available: true

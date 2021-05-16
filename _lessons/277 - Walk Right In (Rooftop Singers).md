@@ -6,7 +6,7 @@ artist: The Rooftop Singers
 year: 1962
 category: full_song
 date_published: 2020-01-16
-yt_video_id: ___
+yt_video_id: UXSSTPAEGdA
 slug: "277"
 tags: [Full Song Lesson, Key of G, 1960s, Folk, Walking Bass Lines]
 hidden_tags: [forrest gump, roof top, sit right down]

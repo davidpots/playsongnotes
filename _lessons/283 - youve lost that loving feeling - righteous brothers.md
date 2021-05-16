@@ -7,7 +7,7 @@ year: 1964
 tags: [Full Song Lesson, Key of D, 1960s, Movie Songs, Soul]
 hidden_tags: [Top Gun, youve lost that loving feeling, loving feeling]
 category: full_song
-yt_video_id: ___
+yt_video_id: mXiF9DBhWRE
 slug: "283"
 date_published: 2020-02-05
 #pdf_version: v2

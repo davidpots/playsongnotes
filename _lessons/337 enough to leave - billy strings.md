@@ -6,7 +6,7 @@ artist: Billy Strings
 year: 2019
 category: full_song
 slug: "337"
-yt_video_id: ___
+yt_video_id: 4FagwWQN2eE
 tags: [Full Song Lesson, 2010s, Key of G, Country]
 pdf_version: v2
 pdf_numpages: 3

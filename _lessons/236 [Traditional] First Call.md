@@ -7,7 +7,7 @@ artist: (traditional)
 year: --
 category: full_song
 tags: [Warm Up Exercise, Traditional]
-yt_video_id: _________
+yt_video_id: hGmfxLfWc3k
 slug: "236"
 redirect_from:
   - /songs/traditional-first-call/

@@ -8,7 +8,7 @@ slug: "259"
 tags: [Warm Up Exercise, 1970s, Key of G, Classic Rock]
 hidden_tags: [Led Zeppelin, Marshall Tucker Band]
 date_published: 2019-09-21
-yt_video_id: ___
+yt_video_id: zxJfy9M88Vc
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

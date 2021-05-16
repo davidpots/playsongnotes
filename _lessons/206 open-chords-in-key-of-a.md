@@ -7,7 +7,7 @@ title: Open chords in the Key of A
 slug: "206"
 tags: [Warm Up Exercise, Key of A, Learning Chords]
 date_published: 2019-01-12
-yt_video_id: ___
+yt_video_id: TUCeAirXkH8
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

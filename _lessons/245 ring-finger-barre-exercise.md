@@ -5,7 +5,7 @@ title: Ring Finger Barre Strength Exercise
 slug: "245"
 date_published: 2019-06-25
 tags: [Tips & Techniques, Learning Chords]
-yt_video_id: ___
+yt_video_id: xtvYQSGS6wE
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

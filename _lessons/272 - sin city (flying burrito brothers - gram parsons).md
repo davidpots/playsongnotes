@@ -7,7 +7,7 @@ year: 1969
 category: full_song
 date_published: 2019-12-16
 tags: [Full Song Lesson, Key of D, 1960s, Country]
-yt_video_id: ___
+yt_video_id: YS0up2Oo8Dg
 slug: "272"
 pdf_version: v2
 pdf_numpages: 2

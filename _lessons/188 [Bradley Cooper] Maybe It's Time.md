@@ -6,7 +6,7 @@ song_title:  Maybe It's Time
 artist: A Star is Born
 year: 2018
 category: full_song
-yt_video_id: _________
+yt_video_id: h7JlEf5Y7lw
 slug: "188"
 tags: [Full Song Lesson, 2010s, Key of G, Country, Movie Songs]
 hidden_tags: [bradley cooper, shallow]

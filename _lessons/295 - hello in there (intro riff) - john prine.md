@@ -6,7 +6,7 @@ artist: John Prine
 year: 1971
 tags: [Full Song Lesson, Warm Up Exercise, Key of Gs, 1970s, Fingerstyle, Travis Picking, Country]
 category: full_song
-yt_video_id: ___
+yt_video_id: mGY1X2t4KZE
 slug: "295"
 date_published: 2020-04-05
 pdf_version: v2

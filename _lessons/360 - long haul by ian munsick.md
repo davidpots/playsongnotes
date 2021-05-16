@@ -6,7 +6,7 @@ artist: Ian Munsick
 year: 2021
 category: full_song
 date_published: 2021-04-18
-yt_video_id: ___
+yt_video_id: cOoddupGncs
 slug: "360"
 tags: [Full Song Lesson, Key of G, Fingerstyle, Country]
 pdf_version: v2

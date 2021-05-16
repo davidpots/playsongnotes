@@ -8,7 +8,7 @@ year: 1963
 category: full_song
 tags: [Full Song Lesson, 1960s, Key of C, Classic Rock, Movie Songs]
 hidden_tags: [Pulp Fiction]
-yt_video_id: _________
+yt_video_id: bsKlf0yQ4h8
 slug: "248"
 redirect_from:
   - /songs/lively-ones-surf-rider/

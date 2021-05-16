@@ -6,7 +6,7 @@ song_title: Old Man
 artist: Neil Young
 date_published: 2020-09-04
 year: 1972
-yt_video_id: _________
+yt_video_id: Gp28WQCHDoA
 tags: [Practice Log, 1970s, Key of D, Classic Rock, Strumming]
 slug: "326"
 pdf_version: v2

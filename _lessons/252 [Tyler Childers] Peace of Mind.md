@@ -10,7 +10,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29385250
 category: full_song
 tags: [Full Song Lesson, Key of E, 2010s, Country]
-yt_video_id: _________
+yt_video_id: NAbmPt6n9Tg
 slug: "252"
 redirect_from:
   - /songs/tyler-childers-peace-of-mind/

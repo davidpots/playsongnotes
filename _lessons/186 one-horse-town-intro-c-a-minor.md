@@ -6,7 +6,7 @@ redirect_from:
 title: '"One Horse Town" intro riff'
 tags: [Warm Up Exercise, Country, 2010s, Key of Am]
 hidden_tags: [Blackberry Smoke]
-yt_video_id: ___
+yt_video_id: UpOljkXrlcU
 slug: "186"
 date_published: 2018-10-27
 pdf_version: v1

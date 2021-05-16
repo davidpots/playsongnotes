@@ -6,7 +6,7 @@ song_title:  Please Come Home for Christmas
 artist: The Eagles
 year: 1978
 category: full_song
-yt_video_id: _________
+yt_video_id: hwKxgI-6q-g
 slug: "199"
 tags: [Full Song Lesson, Key of A, Backing Track, 1970s, Classic Rock, Holiday]
 redirect_from:

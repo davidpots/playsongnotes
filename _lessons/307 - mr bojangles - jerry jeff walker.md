@@ -5,7 +5,7 @@ song_title: "Mr. Bojangles"
 artist: Jerry Jeff Walker
 year: 1968
 tags: [Full Song Lesson, Key of C, 1960s, Country, Folk, Classic Rock]
-yt_video_id: ___
+yt_video_id: U9_R2HH7XyQ
 category: full_song
 slug: "307"
 date_published: 2020-06-21

@@ -7,7 +7,7 @@ year: 2012
 tags: [Full Song Lesson, Key of C, 2010s, Country]
 category: full_song
 slug: "310"
-yt_video_id: ___
+yt_video_id: qzvoEPjtL3Q
 date_published: 2020-07-10
 pdf_version: v2
 pdf_numpages: 1

@@ -5,7 +5,7 @@ date_published: 2019-11-23
 category: tip_technique
 slug: "267"
 tags: [Tips & Techniques, Key of A, Learning Chords]
-yt_video_id: ___
+yt_video_id: hZiVLQQLF9A
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

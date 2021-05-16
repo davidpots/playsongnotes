@@ -6,7 +6,7 @@ song_title: Copperhead Road
 artist: Steve Earle
 year: 1988
 category: full_song
-yt_video_id: _________
+yt_video_id: u8t85szwFjM
 slug: "213"
 tags: [Full Song Lesson, Key of D, Country, 1980s]
 redirect_from:

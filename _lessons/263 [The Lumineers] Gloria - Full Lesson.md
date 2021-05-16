@@ -5,7 +5,7 @@ song_title: Gloria
 artist: The Lumineers
 year: 2019
 category: full_song
-yt_video_id: _________
+yt_video_id: iW7gGUq9rWc
 tags: [Full Song Lesson, 2010s, Key of C, Folk, Rock]
 slug: "263"
 redirect_from:

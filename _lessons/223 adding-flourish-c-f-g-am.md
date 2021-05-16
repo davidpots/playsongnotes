@@ -5,7 +5,7 @@ title: Add easy flourish to C-F-G-Am
 slug: "223"
 date_published: 2019-03-04
 tags: [Tips & Techniques, Key of C, Learning Chords]
-yt_video_id: ___
+yt_video_id: a01k8UjZ5xQ
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

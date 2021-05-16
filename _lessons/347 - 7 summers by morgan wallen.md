@@ -7,7 +7,7 @@ year: 2020
 category: full_song
 date_published: 2021-01-16
 slug: "347"
-yt_video_id: ___
+yt_video_id: zlvOjiCwF20
 tags: [Full Song Lesson, Key of C, 2020s, Country]
 hidden_tag: [seven, seven summers]
 pdf_version: v2

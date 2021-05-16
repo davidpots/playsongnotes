@@ -5,7 +5,7 @@ redirect_from:
   - /warmup/10/
 title: Backyard grooving in E-major ("Posters" by Jack Johnson)
 tags: [Warm Up Exercise, Key of E, 2000s, Licks & Fills]
-yt_video_id: ___
+yt_video_id: dRcGpFex8Tg
 slug: "193"
 date_published: 2018-11-20
 pdf_version: v1

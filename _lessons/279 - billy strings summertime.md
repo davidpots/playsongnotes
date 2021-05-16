@@ -7,7 +7,7 @@ year: 2019
 category: full_song
 tags: [Full Song Lesson, Key of G, 2010s, Soul, Country]
 hidden_tags: [Doc Watson, Marcus King]
-yt_video_id: ___
+yt_video_id: YSYiHNd9GK4
 date_published: 2020-01-14
 slug: "279"
 pdf_version: v2

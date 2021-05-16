@@ -6,7 +6,7 @@ song_title:  Imagine
 artist: John Lennon
 year: 1971
 category: full_song
-yt_video_id: _________
+yt_video_id: QehjXVLXdfQ
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of C]
 hidden_tags: [The Beatles]
 slug: "235"

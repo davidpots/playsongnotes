@@ -4,7 +4,7 @@ title: A-minor blues improvisation w/ backing track
 slug: "217"
 date_published: 2019-02-20
 category: practice_log
-yt_video_id: ___
+yt_video_id: 9_dRhqBe91s
 pdf_version: v1
 pdf_numpages: 1
 patreon_lesson_available: true

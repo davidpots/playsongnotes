@@ -5,7 +5,7 @@ category: warmup
 slug: "348"
 date_published: 2021-01-23
 tags: [Warm Up Exercise, Key of D, Licks & Fills]
-yt_video_id: ___
+yt_video_id: EeWS6jYwpiE
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

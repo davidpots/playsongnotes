@@ -7,7 +7,7 @@ date_published: 2020-06-01
 tags: [Warm Up Exercise, Key of C, Learning Chords]
 pdf_version: v2
 pdf_numpages: 2
-yt_video_id: ___
+yt_video_id: COF66JaBI8E
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37943206
 ---

@@ -8,7 +8,7 @@ year: 1987
 category: full_song
 tags: [Full Song Lesson, Key of G, 1980s, Country, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking, finger picking, finger style]
-yt_video_id: _________
+yt_video_id: ARbzq1KwPaY
 slug: "229"
 redirect_from:
   - /songs/lyle-lovett-if-i-had-a-boat/

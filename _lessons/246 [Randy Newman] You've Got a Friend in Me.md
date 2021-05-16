@@ -6,7 +6,7 @@ song_title:  You've Got a Friend in Me (fingerstyle intro)
 artist: Randy Newman
 year: 1995
 category: full_song
-yt_video_id: _________
+yt_video_id: pCgwYSW99RI
 slug: "246"
 tags: [Full Song Lesson, 1990s, Key of C, Movie Songs, Fingerstyle]
 hidden_tags: [Toy Story]

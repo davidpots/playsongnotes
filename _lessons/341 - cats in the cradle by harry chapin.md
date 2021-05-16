@@ -5,7 +5,7 @@ song_title: Cats in the Cradle
 artist: Harry Chapin
 year: 1974
 category: full_song
-yt_video_id: ___
+yt_video_id: rfQQKYoy6BY
 date_published: 2020-12-04
 slug: "341"
 tags: [Full Song Lesson, Key of E, 1970s, Classic Rock, Folk]

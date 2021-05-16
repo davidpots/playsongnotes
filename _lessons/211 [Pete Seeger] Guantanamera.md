@@ -6,7 +6,7 @@ song_title:  Guantanamera
 artist: Pete Seeger
 year: 1963
 category: full_song
-yt_video_id: _________
+yt_video_id: oEP4bfVNJYA
 slug: "211"
 tags: [Full Song Lesson, Key of A, Folk, 1960s]
 redirect_from:

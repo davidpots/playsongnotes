@@ -6,7 +6,7 @@ song_title:  St. James Infirmary Blues
 artist: (traditional)
 year: 1929
 category: full_song
-yt_video_id: _________
+yt_video_id: PJyM26qPOHg
 slug: "216"
 tags: [Full Song Lesson, 1920s, Blues, Key of Am]
 redirect_from:

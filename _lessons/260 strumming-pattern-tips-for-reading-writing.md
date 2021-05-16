@@ -5,7 +5,7 @@ title: How to read & write strumming patterns
 slug: "260"
 date_published: 2019-10-06
 tags: [Tips & Techniques, Strumming]
-yt_video_id: ___
+yt_video_id: aqL53vVivoE
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

@@ -6,7 +6,7 @@ artist: Chris Stapleton
 year: 2015
 category: full_song
 slug: "331"
-yt_video_id: ___
+yt_video_id: DuCGgGYEvz4
 tags: [Full Song Lesson, 2010s, Key of A, Country]
 pdf_version: v2
 pdf_numpages: 4

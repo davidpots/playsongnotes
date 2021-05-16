@@ -10,7 +10,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29562940
 category: full_song
 tags: [Full Song Lesson, Key of D, 1970s, Folk, Fingerstyle]
-yt_video_id: _________
+yt_video_id: SLdUfxYg_28
 slug: "254"
 redirect_from:
   - /songs/cat-stevens-the-wind/

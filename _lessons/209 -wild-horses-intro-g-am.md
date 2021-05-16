@@ -6,7 +6,7 @@ date_published: 2019-01-24
 category: practice_log
 tags: [Practice Log, Key of G, Classic Rock, 1970s, Licks & Fills]
 hidden_tags: [The Rolling Stones]
-yt_video_id: ___
+yt_video_id: adYg1wl7rp0
 pdf_version: v1
 pdf_numpages: 2
 patreon_lesson_available: true

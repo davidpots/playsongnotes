@@ -7,7 +7,7 @@ year: 1995
 category: full_song
 tags: [Full Song Lesson, Key of E, 1990s, Rock]
 slug: "285"
-yt_video_id: ___
+yt_video_id: YUeOl2tFVbY
 date_published: 2020-02-18
 #pdf_version: v2
 pdf_version: copyright

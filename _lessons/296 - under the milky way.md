@@ -7,7 +7,7 @@ year: 1988
 tags: [Full Song Lesson, Key of C, 1980s, Rock, Movie Songs]
 category: full_song
 slug: "296"
-yt_video_id: ___
+yt_video_id: apK0ORMWbzY
 date_published: 2020-04-19
 pdf_version: v2
 pdf_numpages: 3

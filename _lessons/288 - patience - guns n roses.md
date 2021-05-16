@@ -7,7 +7,7 @@ year: 1989
 category: full_song
 slug: "288"
 tags: [Full Song Lesson, Play-Along Cover, Key of G, 1980s, Rock]
-yt_video_id: ___
+yt_video_id: mgCLd0uyp0I
 date_published: 2020-03-04
 #pdf_version: v2
 pdf_version: copyright

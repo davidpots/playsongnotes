@@ -5,7 +5,7 @@ category: warmup
 slug: "364"
 tags: [Warm Up Exercise, Key of G]
 date_published: 2021-05-13
-yt_video_id: ___
+yt_video_id: b_oMeko1A1g
 pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true

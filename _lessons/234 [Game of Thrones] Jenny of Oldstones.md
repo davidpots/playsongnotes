@@ -5,7 +5,7 @@ song_title: Jenny of Oldstones
 artist: Game of Thrones
 year: 2019
 category: full_song
-yt_video_id: _________
+yt_video_id: D91MLr19uRw
 tags: [Full Song Lesson, 2010s, Key of C, Movie Songs, Walking Bass Lines]
 slug: "234"
 redirect_from:

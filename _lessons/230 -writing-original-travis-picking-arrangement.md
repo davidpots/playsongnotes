@@ -6,7 +6,7 @@ date_published: 2019-04-12
 category: practice_log
 tags: [Practice Log, Key of G, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking, finger picking, finger style]
-yt_video_id: ___
+yt_video_id: ju8j71RHfq0
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

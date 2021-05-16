@@ -6,7 +6,7 @@ song_title:  Auld Lang Syne
 artist: (traditional)
 year: 1788
 category: full_song
-yt_video_id: _________
+yt_video_id: le3yjFIo748
 slug: "203"
 tags: [Full Song Lesson, Key of C, Traditional, Holiday]
 hidden_tags: [New Years]

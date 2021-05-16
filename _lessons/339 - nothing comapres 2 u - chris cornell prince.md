@@ -5,7 +5,7 @@ song_title:  Nothing Compares 2 U
 artist: Chris Cornell
 year: 2015
 category: full_song
-yt_video_id: _________
+yt_video_id: b35LL3GU1kI
 slug: "339"
 tags: [Full Song Lesson, 1990s, 2010s, Key of C]
 hidden_tags: [prince, sinead, oconnor, sinead oconnor]

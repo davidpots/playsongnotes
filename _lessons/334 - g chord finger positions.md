@@ -5,7 +5,7 @@ category: tip_technique
 slug: "334"
 tags: [Tips & Techniques, Key of G, Learning Chords]
 date_published: 2020-10-25
-yt_video_id: ___
+yt_video_id: rgMpY4u9_j8
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true

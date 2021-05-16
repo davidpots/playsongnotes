@@ -5,7 +5,7 @@ category: tip_technique
 slug: "325"
 tags: [Tips & Techniques, Strumming]
 date_published: 2020-08-23
-yt_video_id: ___
+yt_video_id: kOaSSC3xQq0
 #pdf_version: v2
 pdf_version: copyright
 pdf_numpages: 1

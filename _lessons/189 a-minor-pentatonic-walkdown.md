@@ -7,7 +7,7 @@ title: A-minor pentatonic walk-down groove
 tags: [Warm Up Exercise, Key of Am, Blues, Licks & Fills]
 slug: "189"
 date_published: 2018-11-06
-yt_video_id: ___
+yt_video_id: jJX0HDsikuM
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true

@@ -5,7 +5,7 @@ song_title: My Favorite Picture of You
 artist: Guy Clark
 year: 2013
 category: full_song
-yt_video_id: ___
+yt_video_id: 9T2sPvDyxDo
 tags: [Full Song Lesson, 2010s, Key of D, Country, Fingerstyle]
 slug: "268"
 hidden_tags: fingerpicking, finger picking, finger style

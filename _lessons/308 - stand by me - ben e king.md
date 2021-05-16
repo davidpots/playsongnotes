@@ -7,7 +7,7 @@ year: 1961
 tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 category: full_song
 slug: "308"
-yt_video_id: ___
+yt_video_id: sSXs-SAmqwQ
 date_published: 2020-06-27
 #pdf_version: v2
 pdf_version: copyright

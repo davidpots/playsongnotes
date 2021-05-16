@@ -7,7 +7,7 @@ year: 2021
 category: full_song
 date_published: 2021-01-13
 slug: "346"
-yt_video_id: ___
+yt_video_id: 88AlMF-q-dY
 tags: [Full Song Lesson, Key of Am, 2020s, Folk]
 hidden_tags: [tik tok, new zealand, sea shanty, shanty]
 pdf_version: v2

@@ -5,7 +5,7 @@ category: generic
 date_published: 2020-08-21
 slug: "323"
 pdf_version: v2
-yt_video_id: ___
+yt_video_id: 6BBD4pNVNcA
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/41023187

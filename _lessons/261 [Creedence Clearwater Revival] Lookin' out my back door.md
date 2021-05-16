@@ -5,7 +5,7 @@ song_title:  Lookin' Out My Back Door
 artist: Creedence Clearwater Revival
 year: 1970
 category: full_song
-yt_video_id: _________
+yt_video_id: Ry9nSedlGJQ
 tags: [Full Song Lesson, 1970s, Key of A, Classic Rock, Fingerstyle]
 hidden_tags: CCR, creedance
 slug: "261"

@@ -6,7 +6,7 @@ date_published: 2019-07-16
 category: practice_log
 tags: [Practice Log, 2010s, Rock, Key of C, Fingerstyle]
 hidden_tags: [fingerpicking, finger picking, finger style, travis picking]
-yt_video_id: ___
+yt_video_id: MDjM7R-Dr_o
 pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true

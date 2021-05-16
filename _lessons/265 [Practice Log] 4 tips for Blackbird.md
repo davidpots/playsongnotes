@@ -6,7 +6,7 @@ song_title: Blackbird
 artist: The Beatles
 date_published: 2019-11-03
 year: 1968
-yt_video_id: _________
+yt_video_id: BwnL0t87I3Y
 tags: [Practice Log, 1960s, Key of G, Classic Rock, Fingerstyle, The Beatles]
 slug: "265"
 pdf_version: v2

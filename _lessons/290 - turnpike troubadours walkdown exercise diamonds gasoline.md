@@ -6,7 +6,7 @@ slug: "290"
 date_published: 2020-03-15
 tags: [Warm Up Exercise, Key of C, 2010s, Country, Walking Bass Lines]
 hidden_tags: [Diamonds, Gasoline, diamonds and gasoline]
-yt_video_id: ___
+yt_video_id: YLbHX0n4UuQ
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true

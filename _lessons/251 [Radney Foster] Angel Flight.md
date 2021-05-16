@@ -10,7 +10,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29234388
 category: full_song
 tags: [Full Song Lesson, Key of E, 2000s, Country]
-yt_video_id: _________
+yt_video_id: Re_hK47ZZjo
 slug: "251"
 redirect_from:
   - /songs/radney-foster-angel-flight/

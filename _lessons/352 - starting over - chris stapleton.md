@@ -7,7 +7,7 @@ year: 2020
 category: full_song
 date_published: 2021-02-20
 slug: "352"
-yt_video_id: ___
+yt_video_id: S1s8uI-GnOk
 tags: [Full Song Lesson, Key of G, 2020s, Country]
 #pdf_version: v2
 pdf_version: copyright

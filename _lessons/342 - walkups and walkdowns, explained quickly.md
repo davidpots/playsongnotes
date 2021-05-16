@@ -6,7 +6,7 @@ slug: "342"
 tags: [Tips & Techniques, Key of C, Key of A, Learning Chords, Walking Bass Lines]
 hidden_tags: [fretmonster, fret monster, walkup, walkdown, walk ups, walk downs, walking, walk]
 date_published: 2020-12-18
-yt_video_id: ___
+yt_video_id: rmUCcfIvZSA
 pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true

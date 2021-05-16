@@ -6,7 +6,7 @@ song_title:  Gloria
 artist: The Lumineers
 year: 2019
 category: playalong_cover
-yt_video_id: _________
+yt_video_id: iW7gGUq9rWc
 tags: [Play-Along Cover, 2010s, Key of C, Folk, Rock]
 slug: "266"
 redirect_to:

@@ -6,7 +6,7 @@ artist: Elvis Presley
 year: 1961
 category: full_song
 date_published: 2021-01-30
-yt_video_id: ___
+yt_video_id: KwgVG4TbiaI
 slug: "349"
 tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 hidden_tag: [cant help falling in love]

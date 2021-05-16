@@ -5,7 +5,7 @@ song_title:  You've Got a Friend in Me (full song)
 artist: Randy Newman
 year: 1995
 category: full_song
-yt_video_id: _________
+yt_video_id: vDEGA1jUDXw
 slug: "338"
 tags: [Full Song Lesson, 1990s, Key of C, Movie Songs, Fingerstyle]
 hidden_tags: [Toy Story, youve got a friend, youve got in a friend in me]

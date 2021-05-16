@@ -8,7 +8,7 @@ year: 1965
 category: full_song
 tags: [Full Song Lesson, 1960s, Classic Rock, Fingerstyle]
 slug: "242"
-yt_video_id: ___
+yt_video_id: wYGC06x7B9E
 hidden_tags: fingerpicking, finger picking, finger style
 redirect_from:
   - /songs/beatles-yesterday/

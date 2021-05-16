@@ -7,7 +7,7 @@ title: 4-finger magic with E major
 tags: [Warm Up Exercise, Key of E, 2010s, Learning Chords]
 hidden_tags: [Father John Misty]
 slug: "253"
-yt_video_id: ___
+yt_video_id: vFAbkYs3zss
 date_published: 2019-08-24
 pdf_version: v2
 pdf_numpages: 2

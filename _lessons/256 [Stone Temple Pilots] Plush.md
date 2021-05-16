@@ -6,7 +6,7 @@ song_title:  Plush
 artist: Stone Temple Pilots
 year: 1992
 category: full_song
-yt_video_id: _________
+yt_video_id: alPm8GDqB90
 slug: "256"
 tags: [Full Song Lesson, Key of G, 1990s, Rock]
 hidden_tags: [STP]

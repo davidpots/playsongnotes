@@ -6,7 +6,7 @@ date_published: 2018-12-01
 category: practice_log
 tags: [Practice Log, Backing Track, Key of A, Country, 2010s, Walking Bass Lines, Licks & Fills]
 hidden_tags: [Chris Stapleton]
-yt_video_id: ___
+yt_video_id: zMI1W85oLRo
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

@@ -6,7 +6,7 @@ artist: Billy Strings
 year: 2019
 category: full_song
 date_published: 2020-01-11
-yt_video_id: ___
+yt_video_id: Ai0TNApo0lo
 tags: [Full Song Lesson, Key of G, 2010s, Country]
 hidden_tags: [Merle Haggard, Marcus King]
 slug: "280"

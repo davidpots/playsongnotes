@@ -7,7 +7,7 @@ year: 1975
 category: full_song
 date_published: 2021-02-12
 slug: "351"
-yt_video_id: ___
+yt_video_id: PWu1kmJYACs
 tags: [Full Song Lesson, Key of E, 1970s, Classic Rock]
 hidden_tag: [blood on the tracks]
 pdf_version: v2
