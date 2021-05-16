@@ -7,7 +7,7 @@ artist: Julia Michaels
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of E]
-yt_video_id: _________
+yt_video_id: sLaLSeeMofk
 slug: "74"
 redirect_from:
   - /songs/julia-michaels-uh-huh/

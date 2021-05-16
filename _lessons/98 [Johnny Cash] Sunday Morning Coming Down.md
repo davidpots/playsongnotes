@@ -7,7 +7,7 @@ artist: Johnny Cash
 year: 1970
 category: full_song
 tags: [Full Song Lesson, 1970s, Country, Key of G]
-yt_video_id: _________
+yt_video_id: cEUgFGKD8x8
 slug: "98"
 redirect_from:
   - /songs/johnny-cash-sunday-morning-coming-down/

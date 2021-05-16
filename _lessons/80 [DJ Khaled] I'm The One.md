@@ -9,7 +9,7 @@ year: 2017
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 hidden_tags: [Justin Bieber, Lil Wayne, Quavo, Chance The Rapper]
 category: full_song
-yt_video_id: _________
+yt_video_id: wXhF6C8AOIE
 slug: "80"
 redirect_from:
   - /songs/dj-khaled-i-m-the-one/

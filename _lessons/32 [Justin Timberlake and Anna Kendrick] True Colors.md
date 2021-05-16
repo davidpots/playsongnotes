@@ -6,7 +6,7 @@ song_title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
 year: 2016
 category: full_song
-yt_video_id: _________
+yt_video_id: jujtsxzfCbs
 tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C, Fingerstyle]
 slug: "32"
 redirect_from:

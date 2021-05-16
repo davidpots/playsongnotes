@@ -7,7 +7,7 @@ artist: Sublime
 year: 1994
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of C]
-yt_video_id: _________
+yt_video_id: mAcg4jHbvPM
 slug: "45"
 redirect_from:
   - /songs/sublime-mary/

@@ -7,7 +7,7 @@ artist: La La Land
 year: 2016
 category: full_song
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of C]
-yt_video_id: _________
+yt_video_id: KQ_ufy9I2aA
 slug: "39"
 redirect_from:
   - /songs/la-la-land-another-day-of-sun/

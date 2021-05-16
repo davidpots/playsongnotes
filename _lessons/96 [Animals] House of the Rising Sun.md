@@ -8,6 +8,7 @@ year: 1964
 category: full_song
 tags: [Full Song Lesson, 1960s, Classic Rock, Key of Am]
 slug: "96"
+yt_video_id: KibnZCT6oYM
 redirect_from:
   - /songs/animals-house-of-the-rising-sun/
   - /lessons/293

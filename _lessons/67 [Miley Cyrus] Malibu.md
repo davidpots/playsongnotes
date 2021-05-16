@@ -7,7 +7,7 @@ artist: Miley Cyrus
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
-yt_video_id: _________
+yt_video_id: F9gab3_AywE
 slug: "67"
 redirect_from:
   - /songs/miley-cyrus-malibu/

@@ -7,7 +7,7 @@ artist: Taylor Swift
 year: 2014
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Ukulele, Key of G]
-yt_video_id: _________
+yt_video_id: QCSrcgdMR80
 slug: "21"
 redirect_from:
   - /songs/taylor-swift-blank-space/

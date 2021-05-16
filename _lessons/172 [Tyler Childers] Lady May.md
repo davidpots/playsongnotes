@@ -7,7 +7,7 @@ artist: Tyler Childers
 year: 2017
 category: full_song
 tags: [Full Song Lesson, Country, Key of C, 2010s]
-yt_video_id: _________
+yt_video_id: bmRLWIJ2dLc
 slug: "172"
 redirect_from:
   - /songs/tyler-childers-lady-may/

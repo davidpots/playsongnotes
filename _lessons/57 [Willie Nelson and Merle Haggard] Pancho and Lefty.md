@@ -8,7 +8,7 @@ tags: [Full Song Lesson, 1970s, Country, Key of D]
 hidden_tags: [Townes Van Zandt]
 year: 1972
 category: full_song
-yt_video_id: _________
+yt_video_id: x9h9OfWGIK8
 slug: "57"
 redirect_from:
   - /songs/willie-nelson-and-merle-haggard-pancho-and-lefty/

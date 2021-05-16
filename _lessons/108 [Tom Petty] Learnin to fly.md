@@ -6,7 +6,7 @@ song_title:  Learnin' To Fly
 artist: Tom Petty
 year: 1991
 category: full_song
-yt_video_id: _________
+yt_video_id: lanqZZq1oPg
 tags: [Full Song Lesson, 1990s, Rock, Key of C]
 hidden_tags: [learning]
 slug: "108"

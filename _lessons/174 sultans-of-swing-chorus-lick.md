@@ -7,6 +7,7 @@ title: '"Sultans of Swing" chorus lick'
 tags: [Warm Up Exercise, Classic Rock, Key of Dm, 1970s]
 hidden_tags: [Dire Straits]
 slug: "174"
+yt_video_id: _MbHAq7Pb4A
 date_published: 2018-09-18
 pdf_version: v2
 pdf_numpages: 2

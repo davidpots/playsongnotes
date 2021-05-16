@@ -6,7 +6,7 @@ song_title:  Mammas Don't Let Your Babies Grow Up to be Cowboys
 artist: Waylon Jennings
 year: 1978
 category: full_song
-yt_video_id: _________
+yt_video_id: xoSN0eOjWxc
 slug: "118"
 tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
 redirect_from:

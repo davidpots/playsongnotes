@@ -6,7 +6,7 @@ song_title:  Youth
 artist: Shawn Mendes
 year: 2018
 category: full_song
-yt_video_id: _________
+yt_video_id: TuVt-JxTmPM
 tags: [Full Song Lesson, 2010s, Pop, Fingerstyle]
 slug: "150"
 redirect_from:

@@ -7,7 +7,7 @@ artist: Ed Sheeran
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Em]
-yt_video_id: _________
+yt_video_id: 7nlxPv2a1xw
 slug: "117"
 redirect_from:
   - /songs/ed-sheeran-river/

@@ -7,7 +7,7 @@ artist: Johnny Cash
 year: 1957
 category: full_song
 tags: [Full Song Lesson, 1950s, Country, Key of E]
-yt_video_id: _________
+yt_video_id: GNvaiI37AzM
 slug: "72"
 redirect_from:
   - /songs/johnny-cash-folsom-prison-blues/

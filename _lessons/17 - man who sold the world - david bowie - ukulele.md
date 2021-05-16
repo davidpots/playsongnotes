@@ -7,6 +7,7 @@ year: 1970
 category: full_song
 tags: [Full Song Lesson, Ukulele, Key of C, 1970s, Classic Rock, Nirvana]
 slug: "17"
+yt_video_id: FyvBctJPHrw
 ---
 
 <!-- patreon_lesson_available: true

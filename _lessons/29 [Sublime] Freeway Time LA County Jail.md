@@ -7,7 +7,7 @@ artist: Sublime
 year: 1994
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of E]
-yt_video_id: _________
+yt_video_id: pEvcrR2m7_w
 slug: "29"
 redirect_from:
   - /songs/sublime-freeway-time-la-county-jail/

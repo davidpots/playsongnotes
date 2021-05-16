@@ -6,7 +6,7 @@ song_title:  Take Me Home Country Roads
 artist: John Denver
 year: 1971
 category: full_song
-yt_video_id: _________
+yt_video_id: ThjbFUX0gHA
 slug: "151"
 tags: [Full Song Lesson, 1970s, Country, Key of G]
 redirect_from:

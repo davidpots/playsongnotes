@@ -7,7 +7,7 @@ artist: Frozen
 year: 2014
 category: full_song
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of D]
-yt_video_id: _________
+yt_video_id: gpHCFXuplxY
 slug: "16"
 redirect_from:
   - /songs/frozen-reindeers-are-better-than-people/

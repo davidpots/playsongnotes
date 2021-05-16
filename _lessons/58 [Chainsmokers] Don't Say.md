@@ -7,7 +7,7 @@ artist: The Chainsmokers
 year: 2017
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 category: full_song
-yt_video_id: _________
+yt_video_id: cjBxw8wuE-E
 slug: "58"
 redirect_from:
   - /songs/chainsmokers-don-t-say/

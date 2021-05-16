@@ -8,6 +8,7 @@ year: 1965
 category: full_song
 slug: "33"
 tags: [Full Song Lesson, 1960s, Folk, Classic Rock, Key of C]
+yt_video_id: ovnhfQkUXkc
 redirect_from:
   - /songs/bob-dylan-like-a-rolling-sone/
 pdf_version: v1
@@ -26,7 +27,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25634912
 
 ## Editor's notes
 
-This video is an acoustic guitar lesson for the classic rock song "Like a Rolling Stone" by Bob Dylan (1965, from his album "Highway 61 Revisited"). This video includes a playthrough, chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar (without a capo). I created this tutorial for Songnotes, which is my personal music lesson web project (video and text-based lessons). 
+This video is an acoustic guitar lesson for the classic rock song "Like a Rolling Stone" by Bob Dylan (1965, from his album "Highway 61 Revisited"). This video includes a playthrough, chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar (without a capo). I created this tutorial for Songnotes, which is my personal music lesson web project (video and text-based lessons).
 
 ## Chords with lyrics
 

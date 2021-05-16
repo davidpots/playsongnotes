@@ -7,6 +7,7 @@ title: Easy E Fingerpicking Fun
 tags: [Warm Up Exercise, Learning Chords, Key of E]
 slug: "171"
 date_published: 2018-09-02
+yt_video_id: aj07PvITz_A
 pdf_version: v1
 pdf_numpages: 3
 patreon_lesson_available: true

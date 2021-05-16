@@ -6,7 +6,7 @@ song_title:  This is America
 artist: Childish Gambino
 year: 2018
 category: full_song
-yt_video_id: _________
+yt_video_id: Ns2vlwQkpxw
 tags: [Full Song Lesson, 2010s, Pop, Key of F]
 slug: "152"
 redirect_from:

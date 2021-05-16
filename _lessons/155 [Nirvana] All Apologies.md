@@ -7,7 +7,7 @@ artist: Nirvana
 year: 1993
 category: full_song
 tags: [Full Song Lesson, 1990s, Drop D, Rock, Fingerstyle]
-yt_video_id: _________
+yt_video_id: waD2tdRAmtM
 slug: "155"
 redirect_from:
   - /songs/nirvana-all-apologies/

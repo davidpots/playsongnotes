@@ -7,7 +7,7 @@ artist: Luis Fonsi
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
-yt_video_id: _________
+yt_video_id: qN7xKl4sErc
 slug: "126"
 redirect_from:
   - /songs/luis-fonsi-echame-la-culpa/

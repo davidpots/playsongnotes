@@ -12,7 +12,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29901798
 category: full_song
 tags: [Full Song Lesson, 2000s, Country, Key of G]
-yt_video_id: _________
+yt_video_id: 7BJVJz0rxZ8
 slug: "9"
 redirect_from:
   - /songs/old-crow-medicine-show-wagon-wheel/

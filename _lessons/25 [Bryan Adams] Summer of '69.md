@@ -6,7 +6,7 @@ song_title:  Summer of '69
 artist: Bryan Adams
 year: 1984
 category: full_song
-yt_video_id: _________
+yt_video_id: lD1ioBlmSJE
 tags: [Full Song Lesson, 1980s, Classic Rock, Key of D]
 hidden_tags: [summer of 69]
 slug: "25"

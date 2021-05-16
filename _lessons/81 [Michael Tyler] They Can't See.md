@@ -7,7 +7,7 @@ artist: Michael Tyler
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Country, Key of E]
-yt_video_id: _________
+yt_video_id: 86NqPVMOnK4
 slug: "81"
 redirect_from:
   - /songs/michael-tyler-they-can-t-see/

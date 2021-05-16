@@ -8,7 +8,7 @@ year: 2016
 category: full_song
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of D]
 hidden_tags: [Ryan Gosling]
-yt_video_id: _________
+yt_video_id: caBDotrfiLc
 slug: "42"
 redirect_from:
   - /songs/la-la-land-city-of-stars/

@@ -6,7 +6,7 @@ song_title:  Total Eclipse of the Heart
 artist: Bonnie Tyler
 year: 1983
 category: full_song
-yt_video_id: _________
+yt_video_id: qWA8I5OOFno
 tags: [Full Song Lesson, 1980s, Classic Rock, Key of G]
 slug: "93"
 redirect_from:

@@ -7,7 +7,7 @@ artist: Camila Cabello
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Am, Fingerstyle]
-yt_video_id: _________
+yt_video_id: Ab4gjpBRvNM
 slug: "119"
 redirect_from:
   - /songs/camila-cabello-real-friends/

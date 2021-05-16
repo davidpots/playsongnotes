@@ -7,7 +7,7 @@ artist: Nirvana
 year: 1994
 tags: [Full Song Lesson, 1990s, Rock, Key of Em]
 category: full_song
-yt_video_id: _________
+yt_video_id: 6YTVOG6LPds
 slug: "104"
 redirect_from:
   - /songs/nirvana-about-a-girl/

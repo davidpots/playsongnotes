@@ -7,7 +7,7 @@ artist: Nirvana
 year: 1994
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Blues, Key of E]
-yt_video_id: _________
+yt_video_id: nsRkG55ZBH4
 slug: "102"
 redirect_from:
   - /songs/nirvana-where-did-you-sleep-last-night/

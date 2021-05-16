@@ -7,7 +7,7 @@ artist: Loggins and Messina
 year: 1971
 category: full_song
 tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of D, Fingerstyle]
-yt_video_id: _________
+yt_video_id: QWKt_jnwM4o
 slug: "95"
 redirect_from:
   - /songs/loggins-and-messina-dannys-song/
@@ -25,7 +25,7 @@ patreon_lesson_url: https://www.patreon.com/posts/22930633
 
 ## Editor's notes
 
-In this lesson I'll show you how to play the song "Danny's Song" by Loggins & Messina. I'll include the chords needed, progressions used, strumming pattern, and of course fingerpicking tabs to get you started with things. 
+In this lesson I'll show you how to play the song "Danny's Song" by Loggins & Messina. I'll include the chords needed, progressions used, strumming pattern, and of course fingerpicking tabs to get you started with things.
 
 ## Lyrics w/ chords
 

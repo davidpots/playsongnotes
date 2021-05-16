@@ -7,6 +7,7 @@ title: Blaze Foley country strumming
 tags: [Warm Up Exercise, Country, Key of C, 1980s]
 hidden_tags: [Big Cheeseburgers and Good French Fries]
 slug: "176"
+yt_video_id: orB3w2jwpEk
 date_published: 2018-09-21
 pdf_version: v1
 pdf_numpages: 4

@@ -7,7 +7,7 @@ artist: The Kinks
 year: 1971
 tags: [Full Song Lessons, Classic Rock, Key of E, 1970s]
 category: full_song
-yt_video_id: _________
+yt_video_id: aFXapBng37o
 slug: "165"
 redirect_from:
   - /songs/kinks-lola/

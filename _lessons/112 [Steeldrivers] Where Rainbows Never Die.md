@@ -6,7 +6,7 @@ song_title:  Where Rainbows Never Die
 artist: The Steeldrivers
 year: 2010
 category: full_song
-yt_video_id: _________
+yt_video_id: iHutof1EDm0
 tags: [Full Song Lesson, 2010s, Country, Key of D]
 hidden_tags: [Chris Stapleton]
 slug: "112"

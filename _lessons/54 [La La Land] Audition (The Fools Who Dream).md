@@ -8,7 +8,7 @@ year: 2016
 category: full_song
 tags: [Full Song Lesson, 2010s, Key of D, Movie Songs]
 hidden_tags: [Emma Stone]
-yt_video_id: _________
+yt_video_id: h_Ac0xIfsII
 slug: "54"
 redirect_from:
   - /songs/la-la-land-audition-the-fools-who-dream/

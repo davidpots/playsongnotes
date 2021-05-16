@@ -6,7 +6,7 @@ song_title:  Honky Tonk Heroes
 artist: Waylon Jennings
 year: 1973
 category: full_song
-yt_video_id: _________
+yt_video_id: Xvh4sem4kSA
 tags: [Full Song Lesson, 1970s, Country, Key of D, Walking Bass Lines]
 slug: "94"
 redirect_from:

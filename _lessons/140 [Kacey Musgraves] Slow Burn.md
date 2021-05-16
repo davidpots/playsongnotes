@@ -7,7 +7,7 @@ artist: Kacey Musgraves
 year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Country, Key of A]
-yt_video_id: _________
+yt_video_id: 1Jl09fiSVSk
 slug: "140"
 redirect_from:
   - /songs/kacey-musgraves-slow-burn/

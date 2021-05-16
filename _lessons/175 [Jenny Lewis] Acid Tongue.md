@@ -7,7 +7,7 @@ artist: Jenny Lewis
 year: 2008
 category: full_song
 tags: [Full Song Lesson, Rock, Key of G, 2000s]
-yt_video_id: _________
+yt_video_id: 2dzhnN_wsQ8
 slug: "175"
 redirect_from:
   - /songs/jenny-lewis-acid-tongue/

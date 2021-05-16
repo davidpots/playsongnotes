@@ -7,7 +7,7 @@ artist: Camila Cabello
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of G]
-yt_video_id: _________
+yt_video_id: LUyGYt8OwHM
 slug: "116"
 redirect_from:
   - /songs/camila-cabello-never-be-the-same/

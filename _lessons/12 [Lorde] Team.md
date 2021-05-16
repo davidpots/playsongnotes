@@ -7,7 +7,7 @@ artist: Lorde
 year: 2013
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
-yt_video_id: _________
+yt_video_id: 2siOA8OsIls
 slug: "12"
 redirect_from:
   - /songs/lorde-team/

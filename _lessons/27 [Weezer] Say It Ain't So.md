@@ -6,7 +6,7 @@ song_title:  Say It Ain't So
 artist: Weezer
 year: 1994
 category: full_song
-yt_video_id: _________
+yt_video_id: 9kbA1RnvEjo
 tags: [Full Song Lesson, 1990s, Rock, Key of E]
 slug: "27"
 redirect_from:

@@ -6,6 +6,7 @@ redirect_from:
 title: Transitioning between Em7 - D/F# - G
 tags: [Warm Up Exercise, Key of Em, Key of G, Learning Chords]
 slug: "185"
+yt_video_id: vRgGDi11AY4
 date_published: 2018-10-07
 pdf_version: v1
 pdf_numpages: 2

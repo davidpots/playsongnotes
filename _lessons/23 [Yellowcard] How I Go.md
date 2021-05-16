@@ -7,7 +7,7 @@ artist: Yellowcard
 year: 2006
 category: full_song
 tags: [Full Song Lesson, 2000s, Rock, Key of E]
-yt_video_id: _________
+yt_video_id: -cGtB7Ugw58
 slug: "23"
 redirect_from:
   - /songs/yellowcard-how-i-go/

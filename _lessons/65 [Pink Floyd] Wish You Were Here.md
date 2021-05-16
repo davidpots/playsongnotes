@@ -7,7 +7,7 @@ artist: Pink Floyd
 year: 1975
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
-yt_video_id: _________
+yt_video_id: ApUgdFywSLo
 slug: "65"
 redirect_from:
   - /songs/pink-floyd-wish-you-were-here/

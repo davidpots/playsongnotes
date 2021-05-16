@@ -7,7 +7,7 @@ artist: Radiohead
 year: 1995
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of E]
-yt_video_id: _________
+yt_video_id: 2kMdMlChgpM
 slug: "105"
 redirect_from:
   - /songs/radiohead-high-and-dry/

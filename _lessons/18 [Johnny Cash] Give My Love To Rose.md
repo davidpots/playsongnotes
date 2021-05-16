@@ -7,7 +7,7 @@ artist: Johnny Cash
 year: 1958
 category: full_song
 tags: [Full Song Lesson, 1950s, Country, Key of A, Walking Bass Lines]
-yt_video_id: _________
+yt_video_id: JXrNumLcMGY
 slug: "18"
 redirect_from:
   - /songs/johnny-cash-give-my-love-to-rose/

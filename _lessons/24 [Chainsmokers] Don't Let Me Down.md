@@ -7,7 +7,7 @@ artist: The Chainsmokers
 year: 2016
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
-yt_video_id: _________
+yt_video_id: iy_7QUrp80Y
 slug: "24"
 redirect_from:
   - /songs/chainsmokers-don-t-let-me-down/

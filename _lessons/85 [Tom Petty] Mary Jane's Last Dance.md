@@ -6,7 +6,7 @@ song_title:  Mary Jane's Last Dance
 artist: Tom Petty
 year: 1993
 category: full_song
-yt_video_id: _________
+yt_video_id: DMkvsF6U5Sk
 slug: "85"
 tags: [Full Song Lesson, 1990s, Rock, Key of Am]
 redirect_from:

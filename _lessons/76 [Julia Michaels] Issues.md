@@ -6,7 +6,7 @@ song_title:  Issues
 artist: Julia Michaels
 year: 2017
 category: full_song
-yt_video_id: _________
+yt_video_id: kxGaBaQD018
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 slug: "76"
 redirect_from:

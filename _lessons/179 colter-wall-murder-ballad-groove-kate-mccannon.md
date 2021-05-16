@@ -7,6 +7,7 @@ title: Murder ballad groove in A-minor
 slug: "179"
 tags: [Warm Up Exercise, Key of Am, 2010s, Country, Walking Bass Lines, Licks & Fills]
 hidden_tags: [Colter Wall, Kate McCannon]
+yt_video_id: 2eZ6BRP71E4
 date_published: 2018-10-01
 pdf_version: v1
 pdf_numpages: 3

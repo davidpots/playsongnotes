@@ -7,7 +7,7 @@ artist: Harry Styles
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of G, Fingerstyle]
-yt_video_id: _________
+yt_video_id: xwUEOVraM6A
 slug: "73"
 redirect_from:
   - /songs/harry-styles-sweet-creature/

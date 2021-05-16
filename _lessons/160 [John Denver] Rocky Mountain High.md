@@ -7,7 +7,7 @@ artist: John Denver
 year: 1972
 tags: [Full Song Lesson, Key of D, Drop D, 1970s, Country]
 category: full_song
-yt_video_id: _________
+yt_video_id: Hsuk09Kockw
 slug: "160"
 redirect_from:
   - /songs/john-denver-rocky-mountain-high/

@@ -7,7 +7,7 @@ artist: Troye Sivan
 year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of D]
-yt_video_id: _________
+yt_video_id: 3lu1FB2XY4g
 slug: "125"
 redirect_from:
   - /songs/troye-sivan-the-good-side/

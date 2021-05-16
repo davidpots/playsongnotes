@@ -9,7 +9,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of D, Key of G, Key of C]
 hidden_tags: [Justin Bieber]
-yt_video_id: _________
+yt_video_id: kK6w56i4C1M
 slug: "78"
 redirect_from:
   - /songs/luis-fonsi-despacito/

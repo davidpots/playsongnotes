@@ -6,7 +6,7 @@ song_title:  Gone Till November
 artist: Wyclef Jean
 year: 1997
 category: full_song
-yt_video_id: _________
+yt_video_id: oPtIRPcZZzg
 tags: [Full Song Lesson, 1990s, Drop E, Fingerstyle]
 slug: "154"
 redirect_from:

@@ -3,6 +3,7 @@ layout: song
 title: '2016: The Year I Started Making Videos Again'
 category: generic
 date_published: 2016-12-30
+yt_video_id: 6ipMnKXHlAo
 slug: "36"
 ---
 

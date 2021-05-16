@@ -6,7 +6,7 @@ song_title:  Whitehouse Road
 artist: Tyler Childers
 year: 2017
 category: full_song
-yt_video_id: _________
+yt_video_id: G_t7sCI53Fg
 tags: [Full Song Lesson, Drop D, Key of D, Country, 2010s]
 slug: "109"
 redirect_from:

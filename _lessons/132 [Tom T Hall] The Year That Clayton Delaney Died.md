@@ -12,7 +12,7 @@ pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986
 category: full_song
-yt_video_id: _________
+yt_video_id: Dbpd_loJUu8
 slug: "132"
 redirect_from:
   - /songs/tom-t-hall-the-year-that-clayton-delaney-died/

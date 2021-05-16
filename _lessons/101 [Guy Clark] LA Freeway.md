@@ -6,7 +6,7 @@ song_title:  LA Freeway
 artist: Guy Clark
 year: 1975
 category: full_song
-yt_video_id: _________
+yt_video_id: 7K5LJiWlatU
 tags: [Full Song Lesson, 1970s, Country, Key of G]
 slug: "101"
 redirect_from:

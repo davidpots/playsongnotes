@@ -7,7 +7,7 @@ artist: Daniel Johnston
 year: 1990
 tags: [Full Song Lesson, 1990s, Folk, Key of G]
 category: full_song
-yt_video_id: _________
+yt_video_id: _KMYuAkr0F8
 slug: "14"
 redirect_from:
   - /songs/daniel-johnston-true-love-will-find-you-in-the-end/

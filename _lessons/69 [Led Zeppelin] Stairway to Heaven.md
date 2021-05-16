@@ -7,7 +7,7 @@ artist: Led Zeppelin
 year: 1971
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of Am, Fingerstyle]
-yt_video_id: _________
+yt_video_id: 0RybdmubxzY
 slug: "69"
 redirect_from:
   - /songs/led-zeppelin-stairway-to-heaven/

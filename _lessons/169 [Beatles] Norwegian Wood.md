@@ -8,6 +8,7 @@ year: 1965
 category: full_song
 tags: [Full Song Lesson, Classic Rock, Key of D, 1960s]
 slug: "169"
+yt_video_id: 4BXzDOrjRro
 redirect_from:
   - /songs/beatles-norwegian-wood/
 #pdf_version: v2

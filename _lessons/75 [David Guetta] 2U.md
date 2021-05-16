@@ -9,7 +9,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 hidden_tags: [Justin Bieber]
-yt_video_id: _________
+yt_video_id: LZEE2Qp5Thg
 slug: "75"
 redirect_from:
   - /songs/david-guetta-2u/

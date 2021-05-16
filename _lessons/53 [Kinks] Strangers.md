@@ -6,7 +6,7 @@ song_title:  Strangers
 artist: The Kinks
 year: 1970
 category: full_song
-yt_video_id: _________
+yt_video_id: IkG_FCZ-s4g
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of C, Movie Songs]
 slug: "53"
 redirect_from:
@@ -26,7 +26,7 @@ patreon_lesson_url: https://www.patreon.com/posts/28015769
 
 ## Editor's notes
 
-In this lesson, I show you how to play the song "Strangers" by The Kinks. I'll show you the chords, progressions, and strumming patterns used throughout the song. Tabs and lyrics are included. I do hope you enjoy this and find it helpful. 
+In this lesson, I show you how to play the song "Strangers" by The Kinks. I'll show you the chords, progressions, and strumming patterns used throughout the song. Tabs and lyrics are included. I do hope you enjoy this and find it helpful.
 
 ## Chord progressions
 

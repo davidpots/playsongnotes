@@ -8,7 +8,7 @@ year: 2016
 category: full_song
 tags: [Full Song Lesson, 2010s, Key of C, Movie Songs]
 hidden_tags: [Emma Stone, Ryan Gosling]
-yt_video_id: _________
+yt_video_id: LEGDHnUEFH0
 slug: "48"
 redirect_from:
   - /songs/la-la-land-a-lovely-night/

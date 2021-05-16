@@ -7,7 +7,7 @@ artist: Harry Styles
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of D]
-yt_video_id: _________
+yt_video_id: tMXlgiGSHr4
 slug: "71"
 redirect_from:
   - /songs/harry-styles-meet-me-in-the-hallway/

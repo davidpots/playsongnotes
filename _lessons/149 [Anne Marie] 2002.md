@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 slug: "149"
+yt_video_id: dSb9JsmPJtA
 redirect_from:
   - /songs/anne-marie-2002/
 ---

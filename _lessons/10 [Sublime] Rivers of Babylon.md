@@ -7,7 +7,7 @@ artist: Sublime
 year: 1998
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of G]
-yt_video_id: _________
+yt_video_id: E9WcazK7eOI
 slug: "10"
 redirect_from:
   - /songs/sublime-rivers-of-babylon/

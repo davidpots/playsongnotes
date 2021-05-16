@@ -7,7 +7,7 @@ artist: Jimmy Buffett
 year: 1977
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Ukulele]
-yt_video_id: _________
+yt_video_id: zByhNelXD2g
 slug: "19"
 redirect_from:
   - /songs/jimmy-buffett-margaritaville/

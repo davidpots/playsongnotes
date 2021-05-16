@@ -7,7 +7,7 @@ artist: Shawn Mendes
 year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
-yt_video_id: _________
+yt_video_id: JJjDUOqqjlY
 slug: "141"
 redirect_from:
   - /songs/shawn-mendes-in-my-blood/

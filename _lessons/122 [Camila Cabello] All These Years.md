@@ -7,7 +7,7 @@ artist: Camila Cabello
 year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop]
-yt_video_id: _________
+yt_video_id: scbLcaopAPk
 slug: "122"
 redirect_from:
   - /songs/camila-cabello-all-these-years/

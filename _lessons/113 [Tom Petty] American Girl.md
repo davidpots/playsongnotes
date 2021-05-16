@@ -6,7 +6,7 @@ song_title:  American Girl
 artist: Tom Petty
 year: 1976
 category: full_song
-yt_video_id: _________
+yt_video_id: Hg0pnZ_Q4dI
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
 slug: "113"
 redirect_from:

@@ -6,7 +6,7 @@ song_title: Lonesome Town
 artist: Ricky Nelson
 year: 1958
 category: full_song
-yt_video_id: _________
+yt_video_id: QFiatbwLPXg
 tags: [Full Song Lesson, 1950s, Classic Rock, Key of C, Movie Songs]
 hidden_tags: [Pulp Fiction, Tarantino]
 slug: "38"

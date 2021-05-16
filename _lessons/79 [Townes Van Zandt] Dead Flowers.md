@@ -10,7 +10,7 @@ cover: true
 tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of C, Movie Songs]
 hidden_tags: [The Rolling Stones, The Big Lebowski]
 category: full_song
-yt_video_id: _________
+yt_video_id: jROWArwvnnI
 slug: "79"
 redirect_from:
   - /songs/townes-van-zandt-dead-flowers/

@@ -12,7 +12,7 @@ pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684
 category: full_song
-yt_video_id: _________
+yt_video_id: x8ZT7EuoEms
 slug: "103"
 redirect_from:
   - /songs/eric-clapton-layla/

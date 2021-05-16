@@ -7,7 +7,7 @@ artist: Charlie Puth
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Am]
-yt_video_id: _________
+yt_video_id: Mr_EhvP9LLA
 slug: "89"
 redirect_from:
   - /songs/charlie-puth-attention/

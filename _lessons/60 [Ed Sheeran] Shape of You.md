@@ -7,7 +7,7 @@ artist: Ed Sheeran
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of D, Key of E]
-yt_video_id: _________
+yt_video_id: 9F34Iabi7eI
 slug: "60"
 redirect_from:
   - /songs/ed-sheeran-shape-of-you/

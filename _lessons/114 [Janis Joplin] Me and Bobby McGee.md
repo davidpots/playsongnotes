@@ -8,7 +8,7 @@ year: 1971
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
 hidden_tags: [Kris Kristofferson]
-yt_video_id: _________
+yt_video_id: SSv0ZxZQnxs
 slug: "114"
 redirect_from:
   - /songs/janis-joplin-me-and-bobby-mcgee/

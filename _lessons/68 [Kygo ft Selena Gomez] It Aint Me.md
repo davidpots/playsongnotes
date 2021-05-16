@@ -8,7 +8,7 @@ artist_featured: Kygo
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of G, Fingerstyle]
-yt_video_id: _________
+yt_video_id: crpSFjze6wk
 slug: "68"
 redirect_from:
   - /songs/kygo-ft-selena-gomez-it-aint-me/

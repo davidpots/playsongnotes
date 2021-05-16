@@ -7,7 +7,7 @@ artist: Camila Cabello
 year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Em, Fingerstyle]
-yt_video_id: _________
+yt_video_id: ua_VdR6t2DA
 slug: "115"
 redirect_from:
   - /songs/camila-cabello-havana/
@@ -208,7 +208,7 @@ Looking for other lessons that involve fingerstyle and a Latin-inspired bass lin
 
 
 
-<!-- 
+<!--
 ## Good luck!
 
 Let me know if you have questions. I hope this was helpful. -->

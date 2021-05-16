@@ -6,7 +6,7 @@ song_title:  Apple Blossom
 artist: The White Stripes
 year: 2000
 category: full_song
-yt_video_id: _________
+yt_video_id: xhX8QinM3vk
 tags: [Full Song Lesson, 2000s, Rock, Key of Am]
 hidden_tags: [Hateful Eight, Tarantino]
 slug: "30"

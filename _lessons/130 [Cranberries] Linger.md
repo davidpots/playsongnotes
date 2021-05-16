@@ -7,7 +7,7 @@ artist: The Cranberries
 year: 1993
 category: full_song
 tags: [Full Song Lesson, 1990s, Key of D, Fingerstyle]
-yt_video_id: _________
+yt_video_id: Mhir4MF_bRk
 slug: "130"
 redirect_from:
   - /songs/cranberries-linger/

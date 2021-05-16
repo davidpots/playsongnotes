@@ -7,7 +7,7 @@ artist: Post Malone
 year: 2016
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of E]
-yt_video_id: _________
+yt_video_id: 0lTLA3aMF7s
 slug: "111"
 redirect_from:
   - /songs/post-malone-congratulations/

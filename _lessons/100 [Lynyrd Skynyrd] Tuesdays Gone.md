@@ -6,7 +6,7 @@ song_title:  Tuesday's Gone
 artist: Lynyrd Skynyrd
 year: 1973
 category: full_song
-yt_video_id: _________
+yt_video_id: 31jz-gkZ3RE
 slug: "100"
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of A, Movie Songs]
 hidden_tags: [tuesdays]

@@ -6,7 +6,7 @@ song_title:  Happy Xmas (War is Over)
 artist: John Lennon
 year: 1972
 category: full_song
-yt_video_id: _________
+yt_video_id: wIZ8q1aXEu8
 tags: [Full Song Lesson, 1970s, Classic Rock, Holidays, Key of A, Key of D, Key of G]
 hidden_tags: [christmas]
 slug: "35"

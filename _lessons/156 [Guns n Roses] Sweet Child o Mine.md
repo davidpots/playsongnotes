@@ -7,7 +7,7 @@ artist: Guns N' Roses
 year: 1988
 category: full_song
 tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle]
-yt_video_id: _________
+yt_video_id: 6aMYqAN8FRo
 slug: "156"
 redirect_from:
   - /songs/guns-n-roses-sweet-child-o-mine/
