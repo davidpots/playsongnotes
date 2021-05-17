@@ -36,15 +36,13 @@ permalink: /downloads/
   </div>
 
 
-## UPDATE: May 6, 2021
+## The best way to follow along with my video lessons!
 
-Quick heads up! The educational PDFs for my "song" lessons are being temporarily removed -- while I work out some copyright issues. I'm currently working out licensing arrangements with the copyright holders, so they can be properly credited & compensated. Fortunately, 100% of my video lessons remain available on YouTube -- and I have plenty of educational PDFs for my non-song lessons!
-
-👉 For more about the copyright situation, [check out this update](https://www.patreon.com/posts/quick-audio-50243544) I posted on Patreon (no login required). Thanks!
+I'm proud to offer print-friendly guides showing you instructional warm-up exercises, music theory, tips & techniques, and more. Here's a video showing you how to access my library of educational PDFs:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46j3Djik9y8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p>Support me on Patreon ($3/month, cancel anytime) to get access to the growing catalog of 200+ educational PDFs I’ve been creating since August 2018. I have been adding ~1-2 new lessons a week (video and PDF).</p>
+<p>Support me on Patreon ($3/month, cancel anytime) to get access to the existing catalog of PDFs, in addition to new ones I add each week. Patreon members also enjoy access to the Song Notes community where you can ask questions, get answers, submit lesson requests, and generally support my on-going video lesson efforts.</p>
 
 <p>Annual plans are also available (which saves you 15%). Thanks for supporting me and this project, it means a lot!</p>
 
