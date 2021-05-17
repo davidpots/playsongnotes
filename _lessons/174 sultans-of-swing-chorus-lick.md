@@ -3,9 +3,9 @@ layout: song
 category: warmup
 redirect_from:
   - /warmup/3/
-title: '"Sultans of Swing" chorus lick'
+title: '3 string triad magic, in the style of Dire Straits'
 tags: [Warm Up Exercise, Classic Rock, Key of Dm, 1970s]
-hidden_tags: [Dire Straits]
+hidden_tags: [Dire Straits, sultans of swing]
 slug: "174"
 yt_video_id: _MbHAq7Pb4A
 date_published: 2018-09-18

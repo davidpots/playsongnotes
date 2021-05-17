@@ -1,7 +1,7 @@
 ---
 layout: song
-title: 'Learn It By Ear: Will the Circle Be Unbroken'
-category: tip_technique
+title: 'Learning By Ear: Will the Circle Be Unbroken'
+category: practice_log
 slug: "365"
 yt_video_id: MxvXa9yEgs8
 tags: [Tips & Techniques, Learning By Ear, Key of G]

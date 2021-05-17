@@ -3,7 +3,7 @@ layout: song
 category: warmup
 redirect_from:
   - /warmup/22/
-title: Latin Bassline Groove from "Seniorita"
+title: Latin bassline groove, with percussive fingerstyle
 slug: "257"
 date_published: 2019-09-08
 yt_video_id: A8m3e3Vj7v4

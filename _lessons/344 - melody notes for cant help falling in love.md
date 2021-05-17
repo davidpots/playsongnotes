@@ -1,7 +1,7 @@
 ---
 layout: song
-title: 'Melody Exercise for "Can''t Help Falling in Love" (w/ guitar tabs)'
-category: warmup
+title: 'Figuring out the melody notes within a chord progression'
+category: practice_log
 slug: "344"
 date_published: 2021-01-10
 tags: [Warm Up Exercise, Key of C, Learning Chords]

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 4 tips for learning Blackbird
+title: My 4 tips for starting to learn Blackbird
 category: practice_log
 song_title: Blackbird
 artist: The Beatles

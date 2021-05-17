@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Fingerpicking C-G-Am-F (based on Vampire Weekend's "Hold You Now")
+title: Creating a Travis Picking arrangement over C-G-Am-F
 slug: "247"
 date_published: 2019-07-16
 category: practice_log

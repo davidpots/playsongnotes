@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Learning the opening chord to Neil Young's Old Man
+title: How I learned the opening chord to Neil Young's Old Man
 category: practice_log
 song_title: Old Man
 artist: Neil Young

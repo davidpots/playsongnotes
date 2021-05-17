@@ -1,6 +1,6 @@
 ---
 layout: song
-title: How to spice up a 2-chord song (feat. Tennessee Whiskey)
+title: How to spice up a 2-chord song (inspired by Chris Stapleton)
 slug: "191"
 date_published: 2018-11-14
 category: practice_log

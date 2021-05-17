@@ -3,7 +3,7 @@ layout: song
 category: warmup
 redirect_from:
   - /warmup/15/
-title: Barre Chord Exercise for Smells Like Teen Spirit
+title: Nirvana-inspired barre chord exercise
 slug: "215"
 date_published: 2019-02-13
 tags: [Warm Up Exercise, 1990s, Rock, Learning Chords]

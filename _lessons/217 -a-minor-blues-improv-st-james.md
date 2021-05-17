@@ -1,6 +1,6 @@
 ---
 layout: song
-title: A-minor blues improvisation w/ backing track
+title: Improvising blues in A-minor over a backing track
 slug: "217"
 date_published: 2019-02-20
 category: practice_log

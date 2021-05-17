@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Practicing with a backing track (feat. Tennessee Whiskey)
+title: Practicing country blues over a backing track (A-major and B-minor)
 slug: "195"
 date_published: 2018-12-01
 category: practice_log

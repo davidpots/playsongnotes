@@ -1,11 +1,11 @@
 ---
 layout: song
-title: '''Starlight'' Riff in F#'
+title: 'Groovy Warm-Up Riff in F#'
 category: warmup
 slug: "336"
 date_published: 2020-11-08
 tags: [Warm Up Exercise, Key of F#, Learning Chords]
-hidden_tags: [logan ledger]
+hidden_tags: [logan ledger, starlight]
 yt_video_id: Lm5C6fvrDWQ
 pdf_version: v2
 pdf_numpages: 1

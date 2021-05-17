@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Meditative fingerpicking practice, inspired by "The Wind" by Cat Stevens
+title: Meditative fingerpicking practice (Key of D)
 slug: "258"
 date_published: 2019-09-15
 category: practice_log

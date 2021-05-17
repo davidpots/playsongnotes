@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Travis picking finger technique (right-hand index & pinky)
+title: Working on Travis picking finger technique (right-hand index & anchored pinky)
 slug: "227"
 date_published: 2019-03-18
 category: practice_log
