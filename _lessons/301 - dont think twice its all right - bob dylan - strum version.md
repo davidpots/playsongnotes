@@ -88,7 +88,7 @@ Looking for other lessons I've made for songs by Bob Dylan? Here you go!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
 Capo 4th fret. See the PDF chord sheet for a print-friendly version of these notes.
 
@@ -215,4 +215,4 @@ See my PDF for 4 ways to play the intro riff, fingerstyle.
 
 ## Fingerpicking the verse & chorus
 
-See my PDF for complete tabs on how to play these sections in a Travis picking style.
+See my PDF for complete tabs on how to play these sections in a Travis picking style. -->
