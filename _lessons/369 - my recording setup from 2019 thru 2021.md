@@ -43,7 +43,7 @@ In mid-2020 I finally added a second guitar to my arsenal, that being a Taylor G
 
 ## Cameras
 
-### Sony ZV-1 - used for white shots
+### Sony ZV-1 - used for wide shots
 
 For the "wide" shots in my videos (where you see my full guitar and my face), I use a Sony ZV-1 that's positioned just over an arm's length away from me. This is a camera Sony recently released which is designed around vlogging (video) use case, as opposed to that of taking still photos. I love it because it's small, had a flip-out screen, and is all-around easy to use for quick recording use-cases. It also pairs with the [vlogger tripod kit](https://www.amazon.com/dp/B0896QC5CV/ref=as_sl_pc_qf_sp_asin_til?tag=songnotes04-20&linkCode=w00&linkId=a807d1b43543eda24488b1a9e56d6a2d&creativeASIN=B0896QC5CV) that Sony makes, which connects with the camera -- and lets you start/stop recording as well as control zoom. I've tried 3 other "nice" cameras between 2018-2020 (costing betweeen $1000-2000), all of which I returned because they weren't video friendly and were always too picky with auto-focus. This one finally gave me what I needed, for half the price of similar models.
 
