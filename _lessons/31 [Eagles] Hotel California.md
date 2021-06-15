@@ -6,8 +6,8 @@ song_title:  Hotel California
 artist: The Eagles
 year: 1976
 category: full_song
-yt_video_id: 
-tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
+yt_video_id:
+tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Pinky Stretch]
 slug: "31"
 redirect_from:
   - /songs/eagles-hotel-california/
