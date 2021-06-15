@@ -3,7 +3,7 @@ layout: song
 category: warmup
 redirect_from:
   - /warmup/21/
-title: Pinky-powered Blues Groove with E-A-B7
+title: Pinky-Powered Blues Groove with E-A-B7
 tags: [Warm Up Exercise, Key of E, 2010s, Learning Chords, Pinky Stretch]
 hidden_tags: [Father John Misty]
 slug: "253"
