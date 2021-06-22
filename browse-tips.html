@@ -15,7 +15,7 @@ permalink: /tips/
   {% assign lessons = site.lessons | where: "category","tip_technique" | sort: 'date_published' %}
   {% for l in lessons reversed %}
     <li>
-      <div class="listing_may20210--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
+      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
       <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
       <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
       {% if l.pdf_version and l.pdf_version != "copyright" %}

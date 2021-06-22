@@ -9,12 +9,11 @@ date_published: 2021-02-20
 slug: "352"
 yt_video_id: S1s8uI-GnOk
 tags: [Full Song Lesson, Key of G, 2020s, Country]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235888
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684
-#pdf_for_sale: https://gum.co/TVhLq
 ---
 
 
@@ -23,7 +22,7 @@ patreon_lesson_url: https://www.patreon.com/posts/48736684
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1s8uI-GnOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 
@@ -42,62 +41,64 @@ Video timestamps:
 
 Capo 3rd fret.
 
-    INTRO
-        G ... G4 G ... G4   Cmaj7 ... C Cmaj7 ... C   (play twice, see PDF for tab)
+    See PDF for lyrics with chords.
 
-    VERSE
-                  G                                   G4      G
-        Well, the road rolls out like a welcome mat...
-             Cmaj7                                    C       Cmaj7
-        To a better place than the one we're at.......
-            D                                         Dsus2   Dsus2
-        And I ain't got no kinda plan.................
-                 C                                    Cmaj7   Cmaj7
-        But I've had all of this town I can stand.....
+<!-- INTRO
+    G ... G4 G ... G4   Cmaj7 ... C Cmaj7 ... C   (play twice, see PDF for tab)
 
-            G                                           G4      G
-        And I got friends out on the coast................
-               Cmaj7                                    C       Cmaj7
-        We can jump in the water and see what floats......
-        D                                               Dsus2   Dsus2
-        We've been saving for a rainy day.................
-              C                                         Cmaj7   Cmaj7
-        Let's beat the storm and be on our way............
+VERSE
+              G                                   G4      G
+    Well, the road rolls out like a welcome mat...
+         Cmaj7                                    C       Cmaj7
+    To a better place than the one we're at.......
+        D                                         Dsus2   Dsus2
+    And I ain't got no kinda plan.................
+             C                                    Cmaj7   Cmaj7
+    But I've had all of this town I can stand.....
 
-    CHORUS
-            Em       D/F#      G               Cadd9        D/F#    G
-            It don't matter to me, wherever we are is where I wanna be
-                Em         D/F#        G                    Cadd9       D/F#     G
-            And honey, for once in our life, let's take our chances and roll the dice
-            D                          C                                   
-            I can be your lucky penny, you can be my four-leaf clover
-                     G       G4  G     Cmaj7    C  Cmaj7
-            Starting over
+        G                                           G4      G
+    And I got friends out on the coast................
+           Cmaj7                                    C       Cmaj7
+    We can jump in the water and see what floats......
+    D                                               Dsus2   Dsus2
+    We've been saving for a rainy day.................
+          C                                         Cmaj7   Cmaj7
+    Let's beat the storm and be on our way............
 
-        This [G] might not be an easy time... there's [Cmaj7] rivers to cross and hills to climb
-        [D] Some days we might fall apart [Dsus2]... and [C] some nights might feel cold and dark [Cmaj7]
+CHORUS
+        Em       D/F#      G               Cadd9        D/F#    G
+        It don't matter to me, wherever we are is where I wanna be
+            Em         D/F#        G                    Cadd9       D/F#     G
+        And honey, for once in our life, let's take our chances and roll the dice
+        D                          C                                   
+        I can be your lucky penny, you can be my four-leaf clover
+                 G       G4  G     Cmaj7    C  Cmaj7
+        Starting over
 
-        When [G] nobody wins afraid of losing... and the [Cmaj7] hard roads are the ones worth choosing
-        [D] Some day we'll look back and smile [Dsus2]... and [C] know it was worth every mile [Cmaj7]
+    This [G] might not be an easy time... there's [Cmaj7] rivers to cross and hills to climb
+    [D] Some days we might fall apart [Dsus2]... and [C] some nights might feel cold and dark [Cmaj7]
 
-            [Em] It don't [D/F#] matter to [G] me, wherever we [Cadd9] are is where [D/F#] I wanna [G] be
-            And [Em] honey for [D/F#] once in our [G] life
-	          Let's take our [Cadd9] chances and [D/F#] roll the [G] dice
-            [D] I can be your lucky penny, [C] you can be my four-leaf clover [Cmaj7]
-            Starting [G] over...[G4][G]... Starting [Cmaj7] over...[C][Cmaj7]...
+    When [G] nobody wins afraid of losing... and the [Cmaj7] hard roads are the ones worth choosing
+    [D] Some day we'll look back and smile [Dsus2]... and [C] know it was worth every mile [Cmaj7]
 
-    BRIDGE
-                | Am   | Em   | G    | G   |
-                | Am   | Em   | D    | D   | Dsus2 | Dsus2 |
+        [Em] It don't [D/F#] matter to [G] me, wherever we [Cadd9] are is where [D/F#] I wanna [G] be
+        And [Em] honey for [D/F#] once in our [G] life
+        Let's take our [Cadd9] chances and [D/F#] roll the [G] dice
+        [D] I can be your lucky penny, [C] you can be my four-leaf clover [Cmaj7]
+        Starting [G] over...[G4][G]... Starting [Cmaj7] over...[C][Cmaj7]...
 
-            [Em] It don't [D/F#] matter to [G] me, wherever we [Cadd9] are is where [D/F#] I wanna [G] be
-            And [Em] honey for [D/F#] once in our [G] life
-	          Let's take our [Cadd9] chances and [D/F#] roll the [G] dice
-            [D] I can be your lucky penny, [C] you can be my four-leaf clover [Cmaj7]
-            Starting [G] over...[G4][G]... Starting [Cmaj7] over...[C][Cmaj7]...
+BRIDGE
+            | Am   | Em   | G    | G   |
+            | Am   | Em   | D    | D   | Dsus2 | Dsus2 |
 
-            [G] Oooh............ Ooh, [Cmaj7] ooh.....[C][Cmaj7]...
-            [G] Oooh............ Ooh, [Cmaj7] ooh.....[C][Cmaj7]... [G]
+        [Em] It don't [D/F#] matter to [G] me, wherever we [Cadd9] are is where [D/F#] I wanna [G] be
+        And [Em] honey for [D/F#] once in our [G] life
+        Let's take our [Cadd9] chances and [D/F#] roll the [G] dice
+        [D] I can be your lucky penny, [C] you can be my four-leaf clover [Cmaj7]
+        Starting [G] over...[G4][G]... Starting [Cmaj7] over...[C][Cmaj7]...
+
+        [G] Oooh............ Ooh, [Cmaj7] ooh.....[C][Cmaj7]...
+        [G] Oooh............ Ooh, [Cmaj7] ooh.....[C][Cmaj7]... [G] -->
 
 ## Chord shapes needed
 
@@ -127,9 +128,11 @@ For the Em-D/F#-G sequence, I prefer to use the voicings shown below. This is ma
 
 ## Chord progression
 
-178 BPM. See PDF for advanced strumming notation written within for this entire progression.
+178 BPM.
 
-Intro:
+    See PDF for chord progression diagram, with strumming included.
+
+<!-- Intro:
 
     G               G     G4        G               G     G4         
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
@@ -164,18 +167,18 @@ Chorus:
 
     C               C               G
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1
-                                             ...play intro riff x1, starting on final G
+                                             ...play intro riff x1, starting on final G -->
 
 ## Strumming pattern basics
 
 The simplest pattern you can use is a simple "bass-DOWN-bass-DOWN" on the 1-2-3-4 counts. The main idea here is to lightly play the bass string of whatever chord you're playing on the "1" and "3" counts, and then do full down-strums on the "2" and "4" counts (with a bit more emphasis). This should feel like it has a bounce to it, alternating between light and heavy strums.
 
-    [ see my PDF for diagram ]
+    See my PDF for diagram.
 
 From there, you can upgrade to this pattern if you choose -- which uses up-strums to round thing out. Keep the bass note on the "1" count, and likewise maintain the heavier strum on the "2" count. The final three strums (up-down-up) can be light brushes on the thinnest couple strings.
 
-    [ see my PDF for diagram ]
+    See my PDF for diagram.
 
 ## Basic strumming tabs for intro and verse
 
-See my PDF for tabs showing you a simple way to strum the intro and chorus sections.
+    See my PDF for tabs showing you a simple way to strum the intro and chorus sections.

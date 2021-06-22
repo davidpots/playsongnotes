@@ -65,29 +65,6 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 <br /><br />
 
-## What members are saying
-
-<p class="testimonial">You have the very best tabs on the net! Easy to follow, logically designed, complete with all information. That's why I'm a supporter!<br /><br />– Jimbo</p>
-
-<p class="testimonial">Thank you David for the most excellent guitar lessons. I am getting old now and my guitar is a new and awesome instrument that gives me peace in our troubled world. Your contribution and dedication to your lessons provides me with hours of learning in an easy fun style. I am blessed to have been able to support you on Patreon and have access to everything you put out there.<br /><br />– Harvey</p>
-
-<p class="testimonial">I've seen more guitar instructional videos on the web than I can count but but no one does a better job of explaining and simplifying a song as you do, with the added bonus of a downloadable PDFs. I just got back into playing acoustic guitar last year after a hiatus of too many decades. Keep up the good work you do for all us beginners, re-beginners and not so beginners.<br /><br />– David</p>
-
-<p class="testimonial">Thank you 🙏 you are a wonderful teacher as well as a fabulous musician not often do you get both in the same package.<br /><br />– Eileen</p>
-
-<p class="testimonial">I have just picked up the guitar after 30 years of saying 'I would love to learn that'. Out of all the lessons I have come across online yours are the best. You have a way of making the song sound close to the original and making it pretty easy to learn as a beginner to learn. I could not keep watching the lessons without donating something because learning the guitar takes time and devotion. You deserve to get something back for all you put in. I have subscribed to your channel, and I have never subscribed to anything online. I wish you all the best and hope you have continued success.<br /><br />– Joshauh</p>
-
-<p class="testimonial">I enjoy your lessons and teaching style. They are practical and I love that you break things down in an easy to understand way. Also your lessons are fun! :) I'm a happy supporter and thank you for providing great service and your musical gift.<br /><br />– Tangie</p>
-
-<p class="testimonial">I’ve tinkered with the guitar since I was a teenager but never really committed to practicing it. I could never find the passion or the structure from a teacher to keep me at it. I have a full time job and kids...and life is busy. Almost two years ago, I broke my ankle playing baseball and dusted off the guitar. I stumbled across your lesson Say It Ain’t So by Weezer. I was completely sold. I decided to become a patreon supporter of yours. Tonight, I was just completely compelled to send you a message. Your lessons, teaching, PDF’s...you name it...Are pure quality. You come across as passionate about your work and it truly makes a difference. Anyway. I hope you and your family are staying healthy and safe during these times. I wish you all best. Thank you for the lessons and I also hope that your site becomes so successful that you can just do this full time. No response necessary. Just reaching out to say I wish lots of good karma to go your way! Cheers!<br /><br />– Jason</p>
-
-<p class="testimonial">You are such an amazing teacher! You describe steps in detail that is so necessary for beginners like me. Thank you for all that you do!<br /><br />– Cara</p>
-
-<p class="testimonial">Man, you're the best out there and the way you break things down with printables along with the different camera angles helps me in ways I can't put into words. It's truly a pleasure to be a Patreon supporter of yours!<br /><br />– BB</p>
-
-<p class="testimonial">You are the very best on the web for teaching how to play a particular song down to the details that deliver a truly professional sounding version. I love it!<br /><br />– Nick</p>
-
-
 <!-- <ul>
   <li><strong><a href="/printables/[Animals] House of the Rising Sun.pdf">House of the Rising Sun</a></strong> by The Animals</li>
   <li><strong><a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">Total Eclipse of the Heart</a></strong> by Bonnie Tyler</li>
@@ -109,11 +86,26 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 <br /><br />
 
-## Songs PDFs:
+## PDFs for my song lessons
+
+Properly licensed sheet music for each of the following songs is available for individual purchase. All arrangements are offered in accord with copyright laws via Musicnotes.com. Patreon supporters get 50% off each purchase. Click any song below to learn more:
+
+<ul class="listing_may2021">
+  {% assign lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'date_published' %}
+  {% for l in lessons reversed %}
+    <li>
+      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
+      <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
+      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
+      <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">PDF Available</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
 
 {% include print-friendly-lessons-available.html %}
 
-<a href="/songs">Click here</a> to browse all my song video lessons... they're all still available!
+<a href="/songs">Click here</a> to browse all my song video lessons... the free video lessons are all still available!
 
 
 <br /><br />
@@ -156,3 +148,25 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
       {% endif %}
     {% endfor %}
 </ul>
+
+## What members are saying
+
+<p class="testimonial">You have the very best tabs on the net! Easy to follow, logically designed, complete with all information. That's why I'm a supporter!<br /><br />– Jimbo</p>
+
+<p class="testimonial">Thank you David for the most excellent guitar lessons. I am getting old now and my guitar is a new and awesome instrument that gives me peace in our troubled world. Your contribution and dedication to your lessons provides me with hours of learning in an easy fun style. I am blessed to have been able to support you on Patreon and have access to everything you put out there.<br /><br />– Harvey</p>
+
+<p class="testimonial">I've seen more guitar instructional videos on the web than I can count but but no one does a better job of explaining and simplifying a song as you do, with the added bonus of a downloadable PDFs. I just got back into playing acoustic guitar last year after a hiatus of too many decades. Keep up the good work you do for all us beginners, re-beginners and not so beginners.<br /><br />– David</p>
+
+<p class="testimonial">Thank you 🙏 you are a wonderful teacher as well as a fabulous musician not often do you get both in the same package.<br /><br />– Eileen</p>
+
+<p class="testimonial">I have just picked up the guitar after 30 years of saying 'I would love to learn that'. Out of all the lessons I have come across online yours are the best. You have a way of making the song sound close to the original and making it pretty easy to learn as a beginner to learn. I could not keep watching the lessons without donating something because learning the guitar takes time and devotion. You deserve to get something back for all you put in. I have subscribed to your channel, and I have never subscribed to anything online. I wish you all the best and hope you have continued success.<br /><br />– Joshauh</p>
+
+<p class="testimonial">I enjoy your lessons and teaching style. They are practical and I love that you break things down in an easy to understand way. Also your lessons are fun! :) I'm a happy supporter and thank you for providing great service and your musical gift.<br /><br />– Tangie</p>
+
+<p class="testimonial">I’ve tinkered with the guitar since I was a teenager but never really committed to practicing it. I could never find the passion or the structure from a teacher to keep me at it. I have a full time job and kids...and life is busy. Almost two years ago, I broke my ankle playing baseball and dusted off the guitar. I stumbled across your lesson Say It Ain’t So by Weezer. I was completely sold. I decided to become a patreon supporter of yours. Tonight, I was just completely compelled to send you a message. Your lessons, teaching, PDF’s...you name it...Are pure quality. You come across as passionate about your work and it truly makes a difference. Anyway. I hope you and your family are staying healthy and safe during these times. I wish you all best. Thank you for the lessons and I also hope that your site becomes so successful that you can just do this full time. No response necessary. Just reaching out to say I wish lots of good karma to go your way! Cheers!<br /><br />– Jason</p>
+
+<p class="testimonial">You are such an amazing teacher! You describe steps in detail that is so necessary for beginners like me. Thank you for all that you do!<br /><br />– Cara</p>
+
+<p class="testimonial">Man, you're the best out there and the way you break things down with printables along with the different camera angles helps me in ways I can't put into words. It's truly a pleasure to be a Patreon supporter of yours!<br /><br />– BB</p>
+
+<p class="testimonial">You are the very best on the web for teaching how to play a particular song down to the details that deliver a truly professional sounding version. I love it!<br /><br />– Nick</p>

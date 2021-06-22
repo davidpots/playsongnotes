@@ -698,7 +698,7 @@ tr[data-pdf-v2="v1"] td {
       }
     }
 
-.listing_may20210--thumbnail {
+.listing_may2021--thumbnail {
   position: absolute;
   left: 0;
   top: 12px;
@@ -708,7 +708,7 @@ tr[data-pdf-v2="v1"] td {
 }
 
     @media only screen and (max-width: $breakpoint--mobile) {
-      .listing_may20210--thumbnail {
+      .listing_may2021--thumbnail {
         background-size: 130px 73px;
         width: 130px; height: 73px;
       }

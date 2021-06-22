@@ -8,8 +8,8 @@ category: full_song
 slug: "328"
 yt_video_id: RYUD3wHVZXE
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235886
 pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684
@@ -27,7 +27,7 @@ patreon_lesson_url: https://www.patreon.com/posts/48736684
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYUD3wHVZXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 
