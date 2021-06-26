@@ -31,6 +31,8 @@ permalink: /lessons/
   # How many lessons have PDF v2
   # ======================================================
 {% endcomment %}
+{% assign musicnotes_url_count = 0 %}
+{% assign pdf_musicnotes_count = 0 %}
 {% assign pdf_v2_count = 0 %}
 {% assign pdf_v1_count = 0 %}
 {% assign pdf_noV_count = 0 %}
@@ -38,10 +40,15 @@ permalink: /lessons/
   {% assign song = site.lessons | where: 'slug', i %}
   {% if song[0].pdf_version == "v2" %}
     {% assign pdf_v2_count = pdf_v2_count | plus:1 %}
+  {% elsif song[0].pdf_version == "musicnotes" %}
+    {% assign pdf_musicnotes_count = pdf_musicnotes_count | plus:1 %}
   {% elsif song[0].pdf_version == "v1" %}
     {% assign pdf_v1_count = pdf_v1_count | plus:1 %}
   {% elsif song[0].patreon_lesson_url %}
     {% assign pdf_noV_count = pdf_noV_count | plus:1 %}
+  {% endif %}
+  {% if song[0].musicnotes_url %}
+    {% assign musicnotes_url_count = musicnotes_url_count | plus:1 %}
   {% endif %}
 {% endfor %}
 
@@ -138,7 +145,15 @@ I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.si
   <h3>PDF v2</h3>
   <p>{{ pdf_v2_count }}</p>
 </div>
+<div class="tile_metric">
+  <h3>PDF on Musicnotes</h3>
+  <p>{{ pdf_musicnotes_count }}</p>
+</div>
 <hr />
+<div class="tile_metric">
+  <h3>Musicnotes URL exists</h3>
+  <p>{{ musicnotes_url_count }}</p>
+</div>
 
 
 <table id="all_lessons_list">

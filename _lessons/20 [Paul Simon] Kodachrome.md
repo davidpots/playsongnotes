@@ -11,18 +11,16 @@ yt_video_id: oC0EnK6p1nQ
 slug: "20"
 redirect_from:
   - /songs/paul-simon-kodachrome/
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/6gJMZ
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC0EnK6p1nQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 

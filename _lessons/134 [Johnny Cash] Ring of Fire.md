@@ -11,10 +11,9 @@ tags: [Full Song Lesson, 1960s, Country, Key of G]
 slug: "134"
 redirect_from:
   - /songs/johnny-cash-ring-of-fire/
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22061680
+musicnotes_url: https://www.musicnotes.com/l/9gWM4
 ---
 
 ## Video lesson
@@ -22,7 +21,7 @@ patreon_lesson_url: https://www.patreon.com/posts/22061680
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jvriKFA7-I?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 

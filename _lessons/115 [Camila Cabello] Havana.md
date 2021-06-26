@@ -11,11 +11,9 @@ yt_video_id: ua_VdR6t2DA
 slug: "115"
 redirect_from:
   - /songs/camila-cabello-havana/
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/38165123
+musicnotes_url: https://www.musicnotes.com/l/RzFMP
 ---
 
 
@@ -29,7 +27,7 @@ patreon_lesson_url: https://www.patreon.com/posts/38165123
 
 
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale %}
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 

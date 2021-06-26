@@ -11,12 +11,9 @@ yt_video_id: 5hTIxx5E7i0
 slug: "204"
 redirect_from:
   - /songs/neil-young-heart-of-gold/
-#pdf_version: v2
 pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235882
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Video lesson

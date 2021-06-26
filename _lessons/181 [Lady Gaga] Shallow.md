@@ -16,8 +16,6 @@ date_published: 2018-10-11
 pdf_numpages: 3
 pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235881
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Full lesson

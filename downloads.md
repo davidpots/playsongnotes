@@ -86,9 +86,9 @@ Here's a free sample pack of some of the songs I've written up nicely formatted 
 
 <br /><br />
 
-## PDFs for my song lessons
+## Licensed PDFs for my song lessons
 
-Properly licensed sheet music for each of the following songs is available for individual purchase. All arrangements are offered in accord with copyright laws via Musicnotes.com. Patreon supporters get 50% off each purchase. Click any song below to learn more:
+Properly licensed, print-friendly sheet music for each of the following songs is available for individual purchase. All arrangements are offered in accord with copyright laws via Musicnotes.com. Patreon supporters get 50% off each purchase. Click any song below to learn more:
 
 <ul class="listing_may2021">
   {% assign lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'date_published' %}

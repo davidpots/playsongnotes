@@ -59,7 +59,7 @@ function runSearch(searchTerm) {
         ) {
 
           if ( lessons[i].pdf_version == "musicnotes" ) {
-            pdf_badge = "<p class=\"featured_label\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].patreon_url + "\">$ PDF</p>";
+            pdf_badge = "<p class=\"featured_label\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].musicnotes_url + "\">$ PDF</p>";
           } else {
             pdf_badge = "<p class=\"featured_label\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].patreon_url + "\">PDF</p>";
           }
