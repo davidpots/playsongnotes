@@ -8,6 +8,8 @@ tags: [Full Song Lesson, Key of G, 1960s, Classic Rock]
 category: full_song
 yt_video_id: h7e0p8lIhhw
 slug: "298"
+redirect_from:
+  - /lessons/299
 date_published: 2020-05-04
 pdf_version: musicnotes
 pdf_numpages: 6
