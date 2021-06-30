@@ -1,19 +1,19 @@
 ---
 layout: song
-title: '"You''ve Got a Friend in Me" (Randy Newman / Toy Story) • Full Song'
-song_title:  You've Got a Friend in Me (full song)
+title: '"You''ve Got a Friend in Me" (Randy Newman / Toy Story)'
+song_title:  You've Got a Friend in Me
 artist: Randy Newman
 year: 1995
 category: full_song
 yt_video_id: vDEGA1jUDXw
 slug: "338"
+redirect_from:
+  - /lessons/246/
 tags: [Full Song Lesson, 1990s, Key of C, Movie Songs, Fingerstyle]
 hidden_tags: [Toy Story, youve got a friend, youve got in a friend in me]
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/44179412
-#pdf_for_sale: https://gum.co/TWfBb
+musicnotes_url: https://www.musicnotes.com/l/DHFMS
 ---
 
 
@@ -96,7 +96,9 @@ See PDF for my intro tab.
 
 ## Chord Progression
 
-Verse:
+See PDF for chord progression.
+
+<!-- Verse:
 
     "You've got a friend in me..."
     C       Gaug    C       C7      F               C       C7
@@ -118,9 +120,9 @@ Bridge:
 
     "But none of them will ever love you..."
     B7              B7              Em      A7      Dm      G
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->
 
-## Pushing the C7 chord
+<!-- ## Pushing the C7 chord
 
 Non-pushed version (C7 on the 3-count):
 
@@ -134,20 +136,24 @@ Pushed version (C7 on the "+" just before 3-count):
     C       Gaug    C     C7        F               C     C7
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     D   D U D   D U D   D U   U D U D   D U D   D U D   D U   U D U
-    >       >       >     >         >       >       >     >
+    >       >       >     >         >       >       >     > -->
 
 ## Strumming
 
 When first learning this song, begin with something simple -- e.g. downstrums on the 1/2/3/4 counts, with the 1 and 3 getting the bass note of whatever chord you're playing. Then do a full strum on the 2 and 4 counts.
 
-    1 + 2 + 3 + 4 +       d = down strum, bass note only
-    d   D   d   D         D = down strum, all strings
+    See PDF for strumming pattern.
+
+<!-- 1 + 2 + 3 + 4 +       d = down strum, bass note only
+d   D   d   D         D = down strum, all strings -->
 
 Then, you can proceed to this full version -- which adds extra up strums on the "+" counts after the 2 and 4:
 
-    1 + 2 + 3 + 4 +       d = down strum, bass note only
-    d   D U d   D U       D = down strum, all strings
-                          U = up strum
+    See PDF for strumming pattern.
+
+<!-- 1 + 2 + 3 + 4 +       d = down strum, bass note only
+d   D U d   D U       D = down strum, all strings
+                      U = up strum -->
 
 ## Intro riff
 
