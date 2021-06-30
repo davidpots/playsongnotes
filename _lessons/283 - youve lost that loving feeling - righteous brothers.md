@@ -10,10 +10,9 @@ category: full_song
 yt_video_id: mXiF9DBhWRE
 slug: "283"
 date_published: 2020-02-05
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33878045/
+musicnotes_url: https://www.musicnotes.com/l/lvFMm
 ---
 
 
