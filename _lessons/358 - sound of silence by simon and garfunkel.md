@@ -9,16 +9,10 @@ date_published: 2021-04-07
 slug: "358"
 yt_video_id: iwQeNT4C5h4
 tags: [Full Song Lesson, Key of Am, Folk, Fingerstyle, Classic Rock]
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 7
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/49740437
-#pdf_for_sale: https://gum.co/ubHzj
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236804
 ---
-
-<!-- patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/49740437
-pdf_for_sale: https://gum.co/ubHzj -->
 
 
 

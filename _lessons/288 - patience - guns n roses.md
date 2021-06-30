@@ -14,8 +14,6 @@ pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/34822415
-free_pdf_available: true
-free_pdf_url: https://songnotes.ck.page/a195e92c19
 ---
 
 ## Video lesson

@@ -10,11 +10,9 @@ yt_video_id: KwgVG4TbiaI
 slug: "349"
 tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 hidden_tag: [cant help falling in love]
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/46867380
-#pdf_for_sale: https://gum.co/MsBVQ
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236803
 ---
 
 

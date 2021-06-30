@@ -12,10 +12,9 @@ hidden_tags: [learning]
 slug: "108"
 redirect_from:
   - /songs/tom-petty-learnin-to-fly/
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/40993576
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236795
 ---
 
 ## Video lesson

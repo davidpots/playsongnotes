@@ -10,7 +10,6 @@ category: full_song
 yt_video_id: mXiF9DBhWRE
 slug: "283"
 date_published: 2020-02-05
-#pdf_version: v2
 pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true

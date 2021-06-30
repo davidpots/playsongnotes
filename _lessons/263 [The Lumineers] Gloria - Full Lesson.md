@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Gloria" by The Lumineers (Full song lesson)'
+title: '"Gloria" by The Lumineers'
 song_title: Gloria
 artist: The Lumineers
 year: 2019
@@ -10,11 +10,9 @@ tags: [Full Song Lesson, 2010s, Key of C, Folk, Rock]
 slug: "263"
 redirect_from:
   - /lessons/266
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48736684
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236796
 ---
 
 ## Full song lesson (Lesson #263)

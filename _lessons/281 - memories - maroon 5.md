@@ -9,10 +9,9 @@ yt_video_id: UYcAx-zfSVc
 tags: [Full Song Lesson, Key of G, 2010s, Pop]
 date_published: 2020-01-26
 slug: "281"
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 1
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33467609
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236798
 ---
 
 

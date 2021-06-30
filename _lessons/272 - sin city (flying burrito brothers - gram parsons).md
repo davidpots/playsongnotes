@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Sin City" by Gram Parsons (Full song lesson)'
+title: '"Sin City" by Gram Parsons'
 song_title: Sin City
 artist: Gram Parsons
 year: 1969
@@ -9,6 +9,8 @@ date_published: 2019-12-16
 tags: [Full Song Lesson, Key of D, 1960s, Country]
 yt_video_id: YS0up2Oo8Dg
 slug: "272"
+redirect_from:
+  - /lessons/273
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
