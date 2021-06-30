@@ -11,10 +11,9 @@ yt_video_id: ApUgdFywSLo
 slug: "65"
 redirect_from:
   - /songs/pink-floyd-wish-you-were-here/
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22930200
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236638
 ---
 
 ## Video lesson

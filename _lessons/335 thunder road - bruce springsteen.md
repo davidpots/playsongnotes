@@ -8,11 +8,9 @@ yt_video_id: QSAyTaf-2pc
 category: full_song
 slug: "335"
 tags: [Full Song Lesson, 1970s, Key of D, Classic Rock]
-#pdf_version: v2
-pdf_version: copyright
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236642
+pdf_version: musicnotes
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
 ## Video lesson

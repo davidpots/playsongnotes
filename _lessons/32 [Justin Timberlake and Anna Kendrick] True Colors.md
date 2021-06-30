@@ -11,11 +11,9 @@ tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C, Fingerstyle]
 slug: "32"
 redirect_from:
   - /songs/justin-timberlake-and-anna-kendrick-true-colors/
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22348676
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236637
 ---
 
 

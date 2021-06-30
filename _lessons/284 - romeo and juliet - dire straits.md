@@ -9,10 +9,9 @@ tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle]
 slug: "284"
 yt_video_id: ddsCIJMwTnc
 date_published: 2020-02-12
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/34051720
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236640
 ---
 
 ## Video lesson
