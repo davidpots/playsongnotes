@@ -11,10 +11,9 @@ yt_video_id: u04OuAzhSZA
 slug: "43"
 redirect_from:
   - /songs/lynyrd-skynyrd-sweet-home-alabama/
-pdf_version: v1
+pdf_version: musicnotes
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/22280189
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236768
 ---
 
 ## Video lesson

@@ -12,11 +12,9 @@ yt_video_id: xN5XOUQJn1E
 slug: "90"
 redirect_from:
   - /songs/johnny-cash-hurt/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/21721986
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236769
 ---
 
 ## Video lesson

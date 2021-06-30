@@ -10,11 +10,9 @@ yt_video_id: F0w3xI4A054
 slug: "11"
 redirect_from:
   - /songs/leonard-cohen-hallelujah/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/26843157
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236767
 ---
 
 ## Video lesson

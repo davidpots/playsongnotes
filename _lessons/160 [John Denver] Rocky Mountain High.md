@@ -11,11 +11,9 @@ yt_video_id: Hsuk09Kockw
 slug: "160"
 redirect_from:
   - /songs/john-denver-rocky-mountain-high/
-#pdf_version: v1
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35741438
+musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236770
 ---
 
 ## Video lesson
