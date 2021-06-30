@@ -11,10 +11,9 @@ yt_video_id: YS0up2Oo8Dg
 slug: "272"
 redirect_from:
   - /lessons/273
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/32519143
+musicnotes_url: https://www.musicnotes.com/l/CvQMZ
 ---
 
 

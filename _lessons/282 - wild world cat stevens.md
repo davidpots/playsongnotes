@@ -9,10 +9,9 @@ yt_video_id: 1RT2iMeTDgI
 category: full_song
 slug: "282"
 date_published: 2020-01-31
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/33635432/
+musicnotes_url: https://www.musicnotes.com/l/TvWMp
 ---
 
 ## Video lesson
