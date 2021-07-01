@@ -8,10 +8,9 @@ category: full_song
 slug: "315"
 yt_video_id: z5jSdu4hH5U
 tags: [Full Song Lesson, 1950s, Key of D, Country]
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/40474671
+musicnotes_url: https://www.musicnotes.com/l/KkqMn
 ---
 
 
