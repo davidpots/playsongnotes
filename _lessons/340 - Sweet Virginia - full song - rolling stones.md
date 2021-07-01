@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Sweet Virginia" (full song) by The Rolling Stones'
+title: '"Sweet Virginia" by The Rolling Stones'
 song_title: Sweet Virginia
 artist: The Rolling Stones
 year: 1972
@@ -8,12 +8,13 @@ category: full_song
 yt_video_id: AqoK5lm1AZ4
 date_published: 2020-11-29
 slug: "340"
+redirect_from:
+  - /lessons/274
 tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
 hidden_tags: [Keith Richards, Mick Jagger, British, the stones]
-pdf_version: v2
+pdf_version: musicnotes
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/44461084
+musicnotes_url: https://www.musicnotes.com/l/zkFMW
 ---
 
 ## Video lesson

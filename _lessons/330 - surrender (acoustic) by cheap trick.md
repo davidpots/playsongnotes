@@ -8,11 +8,9 @@ category: full_song
 yt_video_id: YJ41QwQ52ZA
 slug: "330"
 tags: [Full Song Lesson, 1970s, Key of C, Key of D, Classic Rock]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48736684
+musicnotes_url: https://www.musicnotes.com/l/gknMJ
 ---
 
 
