@@ -1,7 +1,7 @@
 ---
 layout: song
 title: '"Simple Twist of Fate" (standard tuning, no capo) by Bob Dylan'
-song_title: Tonight, Tonight
+song_title: Simple Twist of Fate
 artist: Bob Dylan
 year: 1975
 category: full_song

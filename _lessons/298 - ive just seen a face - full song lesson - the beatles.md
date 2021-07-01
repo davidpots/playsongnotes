@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"I''ve Just Seen a Face" by The Beatles (full song)'
+title: '"I''ve Just Seen a Face" by The Beatles'
 song_title: "I've Just Seen a Face"
 artist: The Beatles
 year: 1965
