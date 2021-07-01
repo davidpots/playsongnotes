@@ -19,7 +19,7 @@ permalink: /lessons-musicnotes/
   {% assign lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'song_title' %}
   {% for l in lessons %}
     <li>
-      <p><a href="{{ l.url | relative_url }}"><strong>{{ l.song_title }}</strong></a> by {{l.artist}}</p>
+      <p><a href="{{ l.musicnotes_url }}"><strong>{{ l.song_title }}</strong></a> by {{l.artist}}</p>
     </li>
   {% endfor %}
 </ul>
@@ -30,7 +30,7 @@ permalink: /lessons-musicnotes/
   {% assign lessons = site.lessons | where: "pdf_version","copyright" | sort: 'song_title' %}
   {% for l in lessons %}
     <li>
-      <p><a href="{{ l.url | relative_url }}"><strong>{{ l.song_title }}</strong></a> by {{l.artist}}</p>
+      <p><a href="https://playsongnotes.com/{{ l.url }}"><strong>{{ l.song_title }}</strong></a> by {{l.artist}}</p>
     </li>
   {% endfor %}
 </ul>
