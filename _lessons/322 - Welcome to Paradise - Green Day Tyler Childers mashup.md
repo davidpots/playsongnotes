@@ -8,11 +8,9 @@ category: full_song
 yt_video_id: 84F_w1qslmg
 slug: "322"
 tags: [Full Song Lesson, Tyler Childers, 1990s, Key of D, Drop D, Country, Pop]
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/41023187
+musicnotes_url: https://www.musicnotes.com/l/rkPMJ
 ---
 
 <!-- patreon_lesson_available: true
