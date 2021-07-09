@@ -11,11 +11,9 @@ yt_video_id: piPpGni_dZA
 slug: "139"
 redirect_from:
   - /songs/willie-nelson-on-the-road-again/
-#pdf_version: v1
-pdf_version: copyright
+musicnotes_url: https://www.musicnotes.com/l/KTSMF
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/28793602
 ---
 
 ## Video lesson

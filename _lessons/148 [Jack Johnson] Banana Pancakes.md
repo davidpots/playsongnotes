@@ -11,11 +11,9 @@ yt_video_id: q4D_7WsdgdY
 slug: "148"
 redirect_from:
   - /songs/jack-johnson-banana-pancakes/
-#pdf_version: v2
-pdf_version: copyright
+musicnotes_url: https://www.musicnotes.com/l/rTwMF
+pdf_version: musicnotes
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/25521268
 ---
 
 ## Video lesson
@@ -30,109 +28,113 @@ In this video I'll teach you how to play "Banana Pancakes" by Jack Johnson - com
 
 ## Lyrics w/ chords
 
-    MAIN RIFF
+    See my sheet music for the lyrics, with chords typed above.
 
-        e –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
-        B –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
-        G –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––4–––
-        D ––––––––––––––––––––––––x––5–––––––––––––––––––––––––––x––3–––
-        A ––––––5–––––––––––––––––x––7–––––––––5–––––––––––––––––x––5–––
-        E ––/7–––––7––5––3––0––5––x––5–––––/7–––––7––5––3––0––3––x––3–––
-                                    Am7                             G7
+<!-- MAIN RIFF
 
-    INTRO
+    e –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
+    B –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
+    G –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––4–––
+    D ––––––––––––––––––––––––x––5–––––––––––––––––––––––––––x––3–––
+    A ––––––5–––––––––––––––––x––7–––––––––5–––––––––––––––––x––5–––
+    E ––/7–––––7––5––3––0––5––x––5–––––/7–––––7––5––3––0––3––x––3–––
+                                Am7                             G7
 
-        riff → Am7 ... riff → G7 ....
+INTRO
 
-        (riff)                             Am7
-        Well, can’t you see that it’s just raining
-        (riff)                     G7            D7
-        There ain’t no need to go outside... but baby,
+    riff → Am7 ... riff → G7 ....
 
-    VERSE
-                   G7      D7            Am7         C7
-        You hardly even notice... when I try to show you this
-                G7            D7                Am7                  C7
-        Song is meant to keep you... from doing what you’re supposed to
-               G7        D7          Am7            C7
-        Waking up too early... maybe we could sleep in
-                   G7      D7                    Am7          C7
-        Make you banana pancakes... pretend like it’s the weekend
+    (riff)                             Am7
+    Well, can’t you see that it’s just raining
+    (riff)                     G7            D7
+    There ain’t no need to go outside... but baby,
 
-    CHORUS
-            Am7    (riff)                          G7
-            Now... and we could pretend it all the time, yeah
-            G7     (riff)                      Am7
-            ...... can’t you see that its just raining
-            Am7    (riff)                     G7                 D7
-            ...... there ain’t no need to go outside... but just maybe,
+VERSE
+               G7      D7            Am7         C7
+    You hardly even notice... when I try to show you this
+            G7            D7                Am7                  C7
+    Song is meant to keep you... from doing what you’re supposed to
+           G7        D7          Am7            C7
+    Waking up too early... maybe we could sleep in
+               G7      D7                    Am7          C7
+    Make you banana pancakes... pretend like it’s the weekend
 
-        Laka ukulele, Mama made a baby
-        Really don’t mind the breakfast ‘cause you’re my little lady
-        Lady, lady love me, ‘cause I love to lay here lazy
-        We could close the curtains, pretend like there’s no world outside
+CHORUS
+        Am7    (riff)                          G7
+        Now... and we could pretend it all the time, yeah
+        G7     (riff)                      Am7
+        ...... can’t you see that its just raining
+        Am7    (riff)                     G7                 D7
+        ...... there ain’t no need to go outside... but just maybe,
 
-            We could pretend it all the time
-            Can’t you see that it’s just raining
-            There ain’t no need to go outside
+    Laka ukulele, Mama made a baby
+    Really don’t mind the breakfast ‘cause you’re my little lady
+    Lady, lady love me, ‘cause I love to lay here lazy
+    We could close the curtains, pretend like there’s no world outside
 
-    BRIDGE
-                                        Am7                  G7
-                Ain’t no need, ain’t no need... Hmmmm, hmmmm mmmm...
-                                         Am7                              G7
-                Can’t you see, can’t you see... Rain all day and I don’t mind
-                    Am7                                                       D7
-                The telephone’s singing ringing, its too early don’t pick it up
-                                            Am7
-                We don’t need to, we’ve got everything we need right here
-                                          D7
-                And everything we need is enough
+        We could pretend it all the time
+        Can’t you see that it’s just raining
+        There ain’t no need to go outside
 
-                                          Bm
-                    Just so easy when the whole world fits inside of your arms
-                          Em             D             C
-                    Do we really need to pay attention to the alarm
-                            G7         D7            G7          D7
-                    Wake up slow, hmmm mmmm, wake up slow... but baby,
+BRIDGE
+                                    Am7                  G7
+            Ain’t no need, ain’t no need... Hmmmm, hmmmm mmmm...
+                                     Am7                              G7
+            Can’t you see, can’t you see... Rain all day and I don’t mind
+                Am7                                                       D7
+            The telephone’s singing ringing, its too early don’t pick it up
+                                        Am7
+            We don’t need to, we’ve got everything we need right here
+                                      D7
+            And everything we need is enough
 
-        You hardly even notice... when I try to show you this
-        Song is meant to keep you... from doing what you’re supposed to
-        Waking up too early... maybe we could sleep in
-        Make you banana pancakes... pretend like it’s the weekend now
+                                      Bm
+                Just so easy when the whole world fits inside of your arms
+                      Em             D             C
+                Do we really need to pay attention to the alarm
+                        G7         D7            G7          D7
+                Wake up slow, hmmm mmmm, wake up slow... but baby,
 
-            And we could pretend it all the time, yeah
-            Can’t you see that its just raining
-            There ain’t no need to go outside
+    You hardly even notice... when I try to show you this
+    Song is meant to keep you... from doing what you’re supposed to
+    Waking up too early... maybe we could sleep in
+    Make you banana pancakes... pretend like it’s the weekend now
 
-            Ain’t no need, ain’t no need
-            Rain all day and I really, really, really don’t mind
-            Can’t you see, can’t you see
-            You gotta wake up slow
+        And we could pretend it all the time, yeah
+        Can’t you see that its just raining
+        There ain’t no need to go outside
+
+        Ain’t no need, ain’t no need
+        Rain all day and I really, really, really don’t mind
+        Can’t you see, can’t you see
+        You gotta wake up slow -->
 
 ## Chord progression cheat sheet
 
 The two progressions used for most of the song look like this. Note how in the verse, you're on each chord for 2 counts. In the chorus and bridge, you stay on each chord for 8 counts.
 
-Verse:
+    See my sheet music for the chord progression diagrams.
 
-    "You hardly even notice..."
-    G7      D7      Am7     C7
-    1   2   3   4   1   2   3   4   
+<!-- Verse:
 
-Chorus and bridge:
+"You hardly even notice..."
+G7      D7      Am7     C7
+1   2   3   4   1   2   3   4    -->
 
-    "Telephone is ringing singing, it's too early don't pick it up"
-    "We've got everything we need right here, and everything we need is enough"
-    Am7                             D7
-    1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   
+<!-- Chorus and bridge:
 
-    "It's so easy when the whole world fits in your arms..."
-    Bm                              Em      D       C
-    1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   
+"Telephone is ringing singing, it's too early don't pick it up"
+"We've got everything we need right here, and everything we need is enough"
+Am7                             D7
+1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   
 
-    "Wake up slow, wake up slow"
-    G7              D7              G7              D7
-    1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   
+"It's so easy when the whole world fits in your arms..."
+Bm                              Em      D       C
+1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   
+
+"Wake up slow, wake up slow"
+G7              D7              G7              D7
+1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4    -->
 
 ## How to play the chords
 
@@ -160,46 +162,55 @@ If the above chords are giving you trouble (which is okay, they're tough) - then
 
 There is one distinct riff used throughout this song. Here is how you play it. You'll want to use your ring finger on the lowest E string, and initially slide your finger up to the 7th fret (which is the first proper note of the riff).
 
-    e ––––––––––––––––––––––––
-    B ––––––––––––––––––––––––
-    G ––––––––––––––––––––––––
-    D ––––––––––––––––––––––––
-    A –––––––5––––––––––––––––
-    E –––/7–––––7––5––3––0––––   <--- use your left ringer on the first note
+    See my sheet music for the tab.
+
+<!-- e ––––––––––––––––––––––––
+B ––––––––––––––––––––––––
+G ––––––––––––––––––––––––
+D ––––––––––––––––––––––––
+A –––––––5––––––––––––––––
+E –––/7–––––7––5––3––0––––   <--- use your left ringer on the first note -->
 
 To properly transition from this riff into the G7 or Am7 chord, you'll need to add the bass note for the chord to the tail end of the riff. Here is the complete intro tabbed in context, using the core of the riff above.
 
-    e -|––––––––––––––––––––––––––––5–––––|––––––––––––––––––––––––––––3–––––|–
-    B -|––––––––––––––––––––––––––––5–––––|––––––––––––––––––––––––––––3–––––|–
-    G -|––––––––––––––––––––––––––––5–––––|––––––––––––––––––––––––––––4–––––|–
-    D -|–––––––––––––––––––––––––x––5–––––|–––––––––––––––––––––––––x––3–––––|–
-    A -|–––––––5–––––––––––––––––x––7–––––|–––––––5–––––––––––––––––x––5–––––|–
-    E -|–––/7–––––7––5––3––0––5––x––5–––––|–––/7–––––7––5––3––0––3––x––3–––––|–
-                                   Am7                                 G7
+    See my sheet music for the tab.
 
-## Secondary riff
+<!-- e -|––––––––––––––––––––––––––––5–––––|––––––––––––––––––––––––––––3–––––|–
+B -|––––––––––––––––––––––––––––5–––––|––––––––––––––––––––––––––––3–––––|–
+G -|––––––––––––––––––––––––––––5–––––|––––––––––––––––––––––––––––4–––––|–
+D -|–––––––––––––––––––––––––x––5–––––|–––––––––––––––––––––––––x––3–––––|–
+A -|–––––––5–––––––––––––––––x––7–––––|–––––––5–––––––––––––––––x––5–––––|–
+E -|–––/7–––––7––5––3––0––5––x––5–––––|–––/7–––––7––5––3––0––3––x––3–––––|–
+                               Am7                                 G7 -->
 
-    e –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
-    B –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
-    G –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––4–––
-    D ––––––––––––––––––––––––x––5–––––––––––––––––––––––––––x––3–––
-    A ––––––5––7––5–––––––––––x––7–––––––––5–––––––––––––––––x––5–––
-    E ––/7–––––––––––7––0––5––x––5–––––/7–––––7––5––3––0––3––x––3–––
-                                Am7                             G7
+Here's a secondary version of the riff, used occasionally:
+
+    See my sheet music for the tab.
+
+<!-- e –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
+B –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––3–––
+G –––––––––––––––––––––––––––5––––––––––––––––––––––––––––––4–––
+D ––––––––––––––––––––––––x––5–––––––––––––––––––––––––––x––3–––
+A ––––––5––7––5–––––––––––x––7–––––––––5–––––––––––––––––x––5–––
+E ––/7–––––––––––7––0––5––x––5–––––/7–––––7––5––3––0––3––x––3–––
+                            Am7                             G7 -->
 
 ## Occasional verse filler riff
 
 There's a riff I play 0:17 seconds into my video lesson that I want to show the tab for here. It happens during the verse progression (G7-D7-Am7-C7)... where instead of going to the final "C7" chord I do this riff immediately after the Am7. The riff happens under the "*" asterisk shown below.
 
-                                *
-    e ––––––3–––––––5–––––––5–––––––––––
-    B ––––––3–––––––7–––––––5–––––––––––     Fingering below applies to the final 3 note riff only:
-    G ––––––4–––––––5–––––––5–––––––––––
-    D ––––––3–––––––7–––––––5–––––5–7––– <== use left index (5th fret) and left ring (7th fret)
-    A ––––––5–––5–––5–––––––7––/7––––––– <== slide with left ring finger
-    E ––3–––3–––––––––––5–––5–––––––––––
-        G       D7      Am7     
-        1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+    See my sheet music for the tab.
+
+<!-- *
+e ––––––3–––––––5–––––––5–––––––––––
+B ––––––3–––––––7–––––––5–––––––––––     Fingering below applies to the final 3 note riff only:
+G ––––––4–––––––5–––––––5–––––––––––
+D ––––––3–––––––7–––––––5–––––5–7––– <== use left index (5th fret) and left ring (7th fret)
+A ––––––5–––5–––5–––––––7––/7––––––– <== slide with left ring finger
+E ––3–––3–––––––––––5–––5–––––––––––
+    G       D7      Am7     
+    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->
 
 ## Strumming patterns and rhythm
 
@@ -211,30 +222,34 @@ This strum pattern has a very distinct accented strum on the "2" and "4" counts 
 
 Here's a simple way to write it (though this doesn't show some of the intricacies of muting the strings and targeting the bass notes).
 
-     1     2     3     4     1     2     3     4     
+    See my sheet music for the strumming diagrams.
+
+<!-- 1     2     3     4     1     2     3     4     
+↓     ↓     ↓     ↓     ↓     ↓     ↓     ↓  
+     >           >           >           >   -->
+
+<!-- Tabbed out, it would be: -->
+
+<!-- e –––––––––3–x–––––––––5–x–––––––––5–x–––––––––3–x–––
+B –––––––––3–x–––––––––7–x–––––––––5–x–––––––––5–x–––
+G –––––––––4–x–––––––––5–x–––––––––5–x–––––––––3–x–––
+D –––––––––3–x–––––––––7–x–––––––––5–x–––––––––5–x–––
+A –––––––––5–x–––5–––––5–x–––––––––7–x–––3–––––3–x–––
+E –––3–––––3–x–––––––––––––––5–––––5–x–––––––––––––––
+           G7          D7          Am7         C7
+     1     2     3     4     1     2     3     4   
      ↓     ↓     ↓     ↓     ↓     ↓     ↓     ↓  
-           >           >           >           >  
-
-Tabbed out, it would be:
-
-    e –––––––––3–x–––––––––5–x–––––––––5–x–––––––––3–x–––
-    B –––––––––3–x–––––––––7–x–––––––––5–x–––––––––5–x–––
-    G –––––––––4–x–––––––––5–x–––––––––5–x–––––––––3–x–––
-    D –––––––––3–x–––––––––7–x–––––––––5–x–––––––––5–x–––
-    A –––––––––5–x–––5–––––5–x–––––––––7–x–––3–––––3–x–––
-    E –––3–––––3–x–––––––––––––––5–––––5–x–––––––––––––––
-               G7          D7          Am7         C7
-         1     2     3     4     1     2     3     4   
-         ↓     ↓     ↓     ↓     ↓     ↓     ↓     ↓  
-               >           >           >           >
+           >           >           >           > -->
 
 ### Chorus & bridge strumming pattern
 
 This one is a bit more constant and less punctuated. You still want to keep the accent on the 2 and 4, but in this case those counts will have a muted downstrum that's accented. This is very common for Jack Johnson. See my video lesson for reference!
 
-    1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-    D  U  x  U  D  U  x  U  D  U  x  U  D  U  x  U
-          >           >           >           >  
+    See my sheet music for the strumming diagrams.
+
+<!-- 1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+D  U  x  U  D  U  x  U  D  U  x  U  D  U  x  U
+      >           >           >           >   -->
 
 ## Good luck!
 

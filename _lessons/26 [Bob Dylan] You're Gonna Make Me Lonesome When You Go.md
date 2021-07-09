@@ -10,10 +10,9 @@ slug: "26"
 redirect_from:
   - /songs/bob-dylan-you-re-gonna-make-me-lonesome-when-you-go/
 yt_video_id: r0Wwi2MnQoo
-pdf_version: v2
+musicnotes_url: https://www.musicnotes.com/l/MTqMP
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/40734544
 ---
 
 ## Video Lesson
@@ -35,58 +34,58 @@ Video timestamps:
 - 5:31 Refrain chords needed
 - 6:40 Refrain strumming
 
-## Lyrics and chords
+<!-- ## Lyrics and chords
 
-    INTRO
-        E . . . Emaj7 . . . A . . . A . . .
-        E . . . E     . . . B . . . B . . .
-        E . . . Emaj7 . . . A . . . A . . .
-        E . . . B     . . . E . . . E . . .
+INTRO
+    E . . . Emaj7 . . . A . . . A . . .
+    E . . . E     . . . B . . . B . . .
+    E . . . Emaj7 . . . A . . . A . . .
+    E . . . B     . . . E . . . E . . .
 
-    VERSE
-        E                 Emaj7            A               A
-        I've seen love go by my door, it's never been this close before
-        E                E          B         B
-        ...Never been so easy or so slow
-                  E               Emaj7               A               A    
-        I've been shooting in the dark too long, when something's not right it's wrong
-        E                    B                 E           E
-        You're gonna make me lonesome when you go
+VERSE
+    E                 Emaj7            A               A
+    I've seen love go by my door, it's never been this close before
+    E                E          B         B
+    ...Never been so easy or so slow
+              E               Emaj7               A               A    
+    I've been shooting in the dark too long, when something's not right it's wrong
+    E                    B                 E           E
+    You're gonna make me lonesome when you go
 
-        [E] Dragon clouds so [Emaj7] high above, I've [A] only known [A] careless love
-        [E] ...It always [E] hits me from [B] below... [B]
-        [E] This time around it's [Emaj7] more correct, [A] right on target, [A] so direct
-        [E] You're gonna make me [B] lonesome when you [E] go... [E]
+    [E] Dragon clouds so [Emaj7] high above, I've [A] only known [A] careless love
+    [E] ...It always [E] hits me from [B] below... [B]
+    [E] This time around it's [Emaj7] more correct, [A] right on target, [A] so direct
+    [E] You're gonna make me [B] lonesome when you [E] go... [E]
 
-        [E] Purple clover, [Emaj7] Queen Anne lace... [A] crimson hair [A] across your face
-        [E] You could make me [E] cry if you don't [B] know... [B]
-        [E] Can't remember what I was [Emaj7] thinking of, you [A] might be spoiling me [A] too much, love
-        [E] You're gonna make me [B] lonesome when you [E] go... [E]
+    [E] Purple clover, [Emaj7] Queen Anne lace... [A] crimson hair [A] across your face
+    [E] You could make me [E] cry if you don't [B] know... [B]
+    [E] Can't remember what I was [Emaj7] thinking of, you [A] might be spoiling me [A] too much, love
+    [E] You're gonna make me [B] lonesome when you [E] go... [E]
 
-    REFRAIN
-            A6                A6                 E       E
-            ...Flowers on the hillside, bloomin' crazy
-            A6                           A6        E       E
-            ...Crickets talkin' back and forth, in rhyme
-            F#            F#/E             F#      F#/E
-            ...Blue river runnin' slow and lazy
-            A                 A                B            B
-            I could stay with you forever, and never realize the time
+REFRAIN
+        A6                A6                 E       E
+        ...Flowers on the hillside, bloomin' crazy
+        A6                           A6        E       E
+        ...Crickets talkin' back and forth, in rhyme
+        F#            F#/E             F#      F#/E
+        ...Blue river runnin' slow and lazy
+        A                 A                B            B
+        I could stay with you forever, and never realize the time
 
-        [E] Situations have [Emaj7] ended sad, [A] relationships have [A] all been bad
-        [E] Mine've been like [E] Verlaine's and [B] Rimbaud... [B]
-        But [E] there's no way I [Emaj7] can compare, [A] all those scenes to [A] this affair
-        [E] You're gonna make me [B] lonesome when you [E] go... [E]
+    [E] Situations have [Emaj7] ended sad, [A] relationships have [A] all been bad
+    [E] Mine've been like [E] Verlaine's and [B] Rimbaud... [B]
+    But [E] there's no way I [Emaj7] can compare, [A] all those scenes to [A] this affair
+    [E] You're gonna make me [B] lonesome when you [E] go... [E]
 
-            [A6] You're gonna make me [A6] wonder what I'm [E] doin'... [E]
-            [A6] Stayin' far [A6] behind, without [E] you... [E]
-            [F#] You're gonna make me [F#/E] wonder what I'm [F#] sayin'... [F#/E]
-            [A] You're gonna make me [A] give myself a [B] good talkin' [B] to
+        [A6] You're gonna make me [A6] wonder what I'm [E] doin'... [E]
+        [A6] Stayin' far [A6] behind, without [E] you... [E]
+        [F#] You're gonna make me [F#/E] wonder what I'm [F#] sayin'... [F#/E]
+        [A] You're gonna make me [A] give myself a [B] good talkin' [B] to
 
-        I'll [E] look for you in old [Emaj7] Honolula, [A] San Francisco, [A] Ashtabula
-        [E] You're gonna have to [E] leave me now, I [B] know... [B]
-        But I'll [E] see you in the [Emaj7] sky above, in the [A] tall grass, in the [A] ones I love
-        [E] You're gonna make me [Emaj7] lonesome when you [E] go... [E]
+    I'll [E] look for you in old [Emaj7] Honolula, [A] San Francisco, [A] Ashtabula
+    [E] You're gonna have to [E] leave me now, I [B] know... [B]
+    But I'll [E] see you in the [Emaj7] sky above, in the [A] tall grass, in the [A] ones I love
+    [E] You're gonna make me [Emaj7] lonesome when you [E] go... [E]
 
 ## Chord progression cheat-sheet
 
@@ -183,7 +182,7 @@ In practice that look like this:
     D ||––––––2–––2–2–2–––––––2–––2–2–2–––––––4–––4–4–4–––––––4–––4–4–4–––––|–
     A ||––––––2–––2–2–2–––––––2–––2–2–2––––2––2–––2–2–2––––2––2–––2–2–2–––––|–
     E ||–––0––0–––0–0–0––––0––0–––0–0–0–––––––––––––––––––––––––––––––––––––|–
-           E               E               B               B -->
+           E               E               B               B
 
 And so on.
 

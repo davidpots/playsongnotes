@@ -11,11 +11,9 @@ yt_video_id: uN1wtE6TffI
 slug: "135"
 redirect_from:
   - /songs/willie-nelson-angel-flying-too-close-to-the-ground/
-#pdf_version: v1
-pdf_version: copyright
+musicnotes_url: https://www.musicnotes.com/l/NTQMJ
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/23810049
 ---
 
 ## Video lesson
