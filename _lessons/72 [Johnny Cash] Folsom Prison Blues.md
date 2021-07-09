@@ -11,7 +11,7 @@ yt_video_id: GNvaiI37AzM
 slug: "72"
 redirect_from:
   - /songs/johnny-cash-folsom-prison-blues/
-musicnotes_url: _________
+musicnotes_url: https://www.musicnotes.com/l/2GPM4
 pdf_version: musicnotes
 pdf_numpages: 2
 ---
@@ -37,59 +37,61 @@ Learn how to play "Folsom Prison Blues" by Johnny Cash! Chords, strumming patter
 
 ## Lyrics with chords
 
-    * Capo 1st fret to play along with Johnny Cash's album version
+Capo 1st fret to play along with Johnny Cash's album version
 
-    INTRO
-        e –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
-        B –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
-        G –––––––––––––––––––––––––––1–1–––––1–1––––1–1–––––1–1–––
-        D –––––––––1–––1–––––––––––––2–2–––––2–2––––2–2–––––2–2––– ...etc.
-        A –––2–2–2––––––––2––––––––––2–2–––2––––––––2–2–––2–––––––
-        E –––––––––––––––––––2~~–––0––––––––––––––0–––––––––––––––
-             B7                    E
+    See my sheet music for the lyrics with chords.
 
-    VERSE
-          E
-        I hear the train a coming, it's rolling around the bend
-            E                                E7
-        And I ain't seen the sunshine, since... I don't know when
-            A                                               E
-        I'm stuck in Folsom Prison, and time keeps dragging on
-                 B7                                      E
-        But that train keeps a-rolling, on down to San Antone
+<!-- INTRO
+    e –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
+    B –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
+    G –––––––––––––––––––––––––––1–1–––––1–1––––1–1–––––1–1–––
+    D –––––––––1–––1–––––––––––––2–2–––––2–2––––2–2–––––2–2––– ...etc.
+    A –––2–2–2––––––––2––––––––––2–2–––2––––––––2–2–––2–––––––
+    E –––––––––––––––––––2~~–––0––––––––––––––0–––––––––––––––
+         B7                    E
 
-             E
-        When I was just a baby, my Mama told me, "Son"
-         E                           E7
-        "Always be a good boy, don't ever play with guns"
-              A                                     E
-        But I shot a man in Reno, just to watch him die
-               B7                                            E
-        When I hear that whistle blowing, I hang my head and cry
+VERSE
+      E
+    I hear the train a coming, it's rolling around the bend
+        E                                E7
+    And I ain't seen the sunshine, since... I don't know when
+        A                                               E
+    I'm stuck in Folsom Prison, and time keeps dragging on
+             B7                                      E
+    But that train keeps a-rolling, on down to San Antone
 
-        (instrumental verse with solo)
+         E
+    When I was just a baby, my Mama told me, "Son"
+     E                           E7
+    "Always be a good boy, don't ever play with guns"
+          A                                     E
+    But I shot a man in Reno, just to watch him die
+           B7                                            E
+    When I hear that whistle blowing, I hang my head and cry
 
-          E
-        I bet there's rich folks eating in a fancy dining car
-                E                            E7
-        They're probably drinking coffee and smoking big cigars
-              A                                       E
-        But I know I had it coming, I know I can't be free
-                  B7                                             E
-        But those people keep a-moving, and that's what tortures me
+    (instrumental verse with solo)
 
-        (instrumental verse with solo)
+      E
+    I bet there's rich folks eating in a fancy dining car
+            E                            E7
+    They're probably drinking coffee and smoking big cigars
+          A                                       E
+    But I know I had it coming, I know I can't be free
+              B7                                             E
+    But those people keep a-moving, and that's what tortures me
 
-                      E
-        Well, if they freed me from this prison, if that railroad train was mine
-          E                           E7
-        I bet I'd move it on a little farther down the line
-        A                                              E
-        Far from Folsom Prison, that's where I want to stay
-                B7                                       E
-        And I'd let that lonesome whistle blow my blues away
+    (instrumental verse with solo)
 
-                                              (intro riff x1, end on final E chord)
+                  E
+    Well, if they freed me from this prison, if that railroad train was mine
+      E                           E7
+    I bet I'd move it on a little farther down the line
+    A                                              E
+    Far from Folsom Prison, that's where I want to stay
+            B7                                       E
+    And I'd let that lonesome whistle blow my blues away
+
+                                          (intro riff x1, end on final E chord) -->
 
 ## Capo 1st Fret (optional)
 
@@ -111,41 +113,45 @@ Here are the guitar chords used during this song. If you haven't learned the B7 
 
 Here is how you can play the riff heard at the beginning of the song, as well as in in between some of the verses and at the end (as you switch from the B7 to the E). I've included two ways to play it -- one in open position, and another an octave up the fretboard (which frees you up for a bit of soloing, if you please).
 
-    e –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
-    B –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
-    G –––––––––––––––––––––––––––1–1–––––1–1––––1–1–––––1–1–––
-    D –––––––––1–––1–––––––––––––2–2–––––2–2––––2–2–––––2–2––– ...etc.
-    A –––2–2–2––––––––2––––––––––2–2–––2––––––––2–2–––2–––––––
-    E –––––––––––––––––––2~~–––0––––––––––––––0–––––––––––––––
-         B7                    E
+    See my sheet music for intro tab.
+
+<!-- e –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
+B –––––––––––––––––––––––––––0–0–––––0–0––––0–0–––––0–0–––
+G –––––––––––––––––––––––––––1–1–––––1–1––––1–1–––––1–1–––
+D –––––––––1–––1–––––––––––––2–2–––––2–2––––2–2–––––2–2––– ...etc.
+A –––2–2–2––––––––2––––––––––2–2–––2––––––––2–2–––2–––––––
+E –––––––––––––––––––2~~–––0––––––––––––––0–––––––––––––––
+     B7                    E -->
 
 ## Strumming Pattern
 
 To achieve the alternating bass note (*boom-chicka-boom-chicka-boom-chicka*) that Johnny Cash is known for, use the following tab as a reference. This said, I strongly recommend viewing the video linked below to watch a demonstration of this. If you can, use your thumb to mute the lower E string on the alternating beats when it is not played -- this will help accentuate the bass line. Also, note that the B7 chord position ties directly into the riff you use in the intro.
 
-    e –––––––0–0––––––0–0––––0–0–––––0–0––––
-    B –––––––0–0––––––0–0––––0–0–––––0–0––––
-    G –––––––1–1––––––1–1––––1–1–––––1–1––––
-    D –––––––2–2––––––2–2––––2–2–––––2–2––––  ...etc.
-    A –––––––2–2––––2––––––––2–2–––2––––––––
-    E –––––0––––––––x––––––0–––––––x––––––––
-           E
+    See my sheet music for strumming pattern diagrams.
 
-    e –––––––0–0–––––0–0–––––0–0–––––0–0––––
-    B –––––––2–2–––––2–2–––––2–2–––––2–2––––
-    G –––––––2–2–––––2–2–––––2–2–––––2–2––––
-    D –––––––2–2–––––2–2–––––2–2–––––2–2––––  ...etc.
-    A –––––0–––––––––––––––0––––––––––––––––
-    E –––––x–––––––0–––––––x–––––––0––––––––
-           A
+<!-- e –––––––0–0––––––0–0––––0–0–––––0–0––––
+B –––––––0–0––––––0–0––––0–0–––––0–0––––
+G –––––––1–1––––––1–1––––1–1–––––1–1––––
+D –––––––2–2––––––2–2––––2–2–––––2–2––––  ...etc.
+A –––––––2–2––––2––––––––2–2–––2––––––––
+E –––––0––––––––x––––––0–––––––x––––––––
+       E
 
-    e –––––––2–2–––––0–0–––––2–2–––––2–2––––
-    B –––––––0–0–––––0–0–––––0–0–––––0–0––––
-    G –––––––2–2–––––2–2–––––1–1–––––1–1––––
-    D –––––––1–1–––––1–1–––––2–2–––––2–2––––  ...etc.
-    A –––––2–––––––––––––––2––––––––––––––––
-    E –––––x–––––––2–––––––x–––––––2––––––––
-           B7
+e –––––––0–0–––––0–0–––––0–0–––––0–0––––
+B –––––––2–2–––––2–2–––––2–2–––––2–2––––
+G –––––––2–2–––––2–2–––––2–2–––––2–2––––
+D –––––––2–2–––––2–2–––––2–2–––––2–2––––  ...etc.
+A –––––0–––––––––––––––0––––––––––––––––
+E –––––x–––––––0–––––––x–––––––0––––––––
+       A
+
+e –––––––2–2–––––0–0–––––2–2–––––2–2––––
+B –––––––0–0–––––0–0–––––0–0–––––0–0––––
+G –––––––2–2–––––2–2–––––1–1–––––1–1––––
+D –––––––1–1–––––1–1–––––2–2–––––2–2––––  ...etc.
+A –––––2–––––––––––––––2––––––––––––––––
+E –––––x–––––––2–––––––x–––––––2––––––––
+       B7 -->
 
 ## Check out my other Johnny Cash lessons!
 

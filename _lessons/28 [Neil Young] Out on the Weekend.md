@@ -39,7 +39,7 @@ Video timestamps:
 - 9:15 Strumming: muted technique
 - 10:58 Chorus chord voicings
 
-## Chords w/ lyrics
+<!-- ## Chords w/ lyrics
 
     INTRO
         Bm  ... E  ... Bm ... E ...
@@ -154,4 +154,4 @@ If you want to sound more like Neil Young does when playing the chorus, try thes
 
 ## Good luck!
 
-Thanks for reading! I hope this helped you.
+Thanks for reading! I hope this helped you. -->
