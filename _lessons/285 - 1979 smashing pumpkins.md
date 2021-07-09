@@ -9,11 +9,9 @@ tags: [Full Song Lesson, Key of E, 1990s, Rock]
 slug: "285"
 yt_video_id: YUeOl2tFVbY
 date_published: 2020-02-18
-#pdf_version: v2
-pdf_version: copyright
-pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35741438
+musicnotes_url: _________
+pdf_version: musicnotes
+pdf_numpages: 4
 ---
 
 

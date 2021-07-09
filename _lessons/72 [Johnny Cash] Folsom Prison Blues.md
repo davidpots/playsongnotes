@@ -11,11 +11,9 @@ yt_video_id: GNvaiI37AzM
 slug: "72"
 redirect_from:
   - /songs/johnny-cash-folsom-prison-blues/
-#pdf_version: v1
-pdf_version: copyright
+musicnotes_url: _________
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35741438
 ---
 
 ## Video lesson
