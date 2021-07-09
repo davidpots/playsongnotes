@@ -8,7 +8,7 @@ year: 1991
 category: full_song
 yt_video_id: lanqZZq1oPg
 tags: [Full Song Lesson, 1990s, Rock, Key of C]
-hidden_tags: [learning]
+hidden_tags: [learning, learning to fly]
 slug: "108"
 redirect_from:
   - /songs/tom-petty-learnin-to-fly/
@@ -66,63 +66,67 @@ The same diagram but with counting instead of generic dots (for each eighth note
 
 While doing your regular strumming, try to add/remove the notes shown below. See my video for reference.
 
-    E ––––3––––––––3––––––––––––––3––––––––3–––––––––––––––
-    B ––––1––––––––1––––––––––––––1––0––1––0–––––1––0––––––
-    G ––––2––0––2––0––––––––––––––2––––––––0–––––––––––––––
-    D ––––3––––––––2––––––––––––––2––––––––0–––––––––––––––
-    A –––––––––––––3––––––––––––––0––––––––2–––––––––––––––
-    E –––––––––––––––––––––––––––––––––––––3–––––––––––––––
-          1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-          F        C              Am       G
+    See my sheet music for the tabs.
+
+<!-- E ––––3––––––––3––––––––––––––3––––––––3–––––––––––––––
+B ––––1––––––––1––––––––––––––1––0––1––0–––––1––0––––––
+G ––––2––0––2––0––––––––––––––2––––––––0–––––––––––––––
+D ––––3––––––––2––––––––––––––2––––––––0–––––––––––––––
+A –––––––––––––3––––––––––––––0––––––––2–––––––––––––––
+E –––––––––––––––––––––––––––––––––––––3–––––––––––––––
+      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+      F        C              Am       G -->
 
 ## Lyrics w/ chords
 
-    INTRO
-      F-C-Am-G (repeat this for the whole song!)
+    See my sheet music for the lyrics with chords.
 
-    VERSE
-                F       C    Am  G             F     C      Am  G
-        Well, I started out............ down a dirty road
-        F       C    Am  G              F     C   Am  G
-        Started out.................... all alone
-                F        C     Am  G         F           C      Am   G
-        And the sun went down.......... as I crossed the hill
-                F        C   Am  G          F         C       Am   G
-        And the town lit up............ the world got still
+<!-- INTRO
+  F-C-Am-G (repeat this for the whole song!)
 
-    CHORUS
-                F           C    Am  G           F         C     Am  G
-            I'm learning to fly........... but I ain't got wings
-            F      C     Am  G                   F       C     Am  G
-            Coming down.................. is the hardest thing
+VERSE
+            F       C    Am  G             F     C      Am  G
+    Well, I started out............ down a dirty road
+    F       C    Am  G              F     C   Am  G
+    Started out.................... all alone
+            F        C     Am  G         F           C      Am   G
+    And the sun went down.......... as I crossed the hill
+            F        C   Am  G          F         C       Am   G
+    And the town lit up............ the world got still
 
-                 F        C     Am   G      F      C     Am  G
-        Well the good old days......... may not return
-                F           C    Am G           F       C      Am  G    
-        And the rocks might melt....... and the sea may burn
+CHORUS
+            F           C    Am  G           F         C     Am  G
+        I'm learning to fly........... but I ain't got wings
+        F      C     Am  G                   F       C     Am  G
+        Coming down.................. is the hardest thing
 
-                F           C    Am  G       F           C      Am   G
-            I'm learning to fly......... but I ain't got wings
-            F      C     Am  G          F       C       Am   G
-            Coming down......... is the hardest thing
+             F        C     Am   G      F      C     Am  G
+    Well the good old days......... may not return
+            F           C    Am G           F       C      Am  G    
+    And the rocks might melt....... and the sea may burn
 
-              F        C     Am  G        F        C     Am   G
-        Well, some say life......... will beat you down
-        F          C      Am  G      F          C      Am   G
-        Break your heart............ steal your crown
-                F       C    Am   G      F         C      Am   G
-        So I've started out......... for God knows where
-          F          C      Am   G        F     C       Am   G
-        I guess I'll know........... when I get there
+            F           C    Am  G       F           C      Am   G
+        I'm learning to fly......... but I ain't got wings
+        F      C     Am  G          F       C       Am   G
+        Coming down......... is the hardest thing
 
-                F           C    Am  G     F        C      Am  G
-            I'm learning to fly......... around the clouds
-                F         C    Am  G     F         C     Am   G
-            But what goes up............ must come down
-                F           C    Am  G       F           C      Am  G
-            I'm learning to fly......... but I ain't got wings
-            F      C       Am   G               F       C       Am   G
-            Coming down................. is the hardest thing
+          F        C     Am  G        F        C     Am   G
+    Well, some say life......... will beat you down
+    F          C      Am  G      F          C      Am   G
+    Break your heart............ steal your crown
+            F       C    Am   G      F         C      Am   G
+    So I've started out......... for God knows where
+      F          C      Am   G        F     C       Am   G
+    I guess I'll know........... when I get there
+
+            F           C    Am  G     F        C      Am  G
+        I'm learning to fly......... around the clouds
+            F         C    Am  G     F         C     Am   G
+        But what goes up............ must come down
+            F           C    Am  G       F           C      Am  G
+        I'm learning to fly......... but I ain't got wings
+        F      C       Am   G               F       C       Am   G
+        Coming down................. is the hardest thing -->
 
 ## Good luck!
 

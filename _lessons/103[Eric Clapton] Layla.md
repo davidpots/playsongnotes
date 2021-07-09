@@ -6,7 +6,6 @@ song_title:  Layla
 artist: Eric Clapton
 year: 1992
 tags: [Full Song Lesson, 1990s, Classic Rock, Key of Dm]
-#pdf_version: v2
 pdf_version: musicnotes
 pdf_numpages: 4
 category: full_song
@@ -48,7 +47,9 @@ Video timestamps:
 
 ## Song chord progressions
 
-Intro & chorus:
+    See my sheet music for the chord progression diagrams.
+
+<!-- Intro & chorus:
 
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     Dm      Bb      C       Dm        x3
@@ -62,7 +63,7 @@ Verse:
     C#m7            G#7             C#m7    C   D   E       E7
 
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    F#m     B       E       A       F#m     B       E       A         
+    F#m     B       E       A       F#m     B       E       A          -->
 
 ## Verse chord shapes
 
@@ -80,150 +81,168 @@ First up, note that I am using these chord shapes for the riff. Notably, I am si
 
 The idea is to spend two counts on each chord, in the order shown below. Then repeat.
 
-    E ––––(1)––––––––––––––––(1)––––
-    B –––––3––––(3)––––(5)––––3–––––
-    G –––––2–––––3––––––5–––––2–––––
-    D –––––0–––––3––––––5–––––0–––––
-    A –––––––––––1––––––3–––––––––––
-    E ––––––––––––––––––––––––––––––
-           Dm    Bb     C     Dm
+    See my sheet music for the tabs.
+
+<!-- E ––––(1)––––––––––––––––(1)––––
+B –––––3––––(3)––––(5)––––3–––––
+G –––––2–––––3––––––5–––––2–––––
+D –––––0–––––3––––––5–––––0–––––
+A –––––––––––1––––––3–––––––––––
+E ––––––––––––––––––––––––––––––
+       Dm    Bb     C     Dm -->
 
 Here's the tab for the generalized riff:
 
-    E –––––––––(1)–––––––––––––––––––––––––––––––––––––––––––(1)––––––
-    B ––––––––––3––––––––––––(3)––––––––––––(5)–––––––––––––––3–––––––
-    G ––––––––––2–––––––––––––3––––––––––––––5––––––––––––––––2–––––––
-    D ––––––––––0––––––0––––––3––––––––––––––5––––––––––––––––0–––––––
-    A ––––0––3––––––––––––3–––1–––––––1––1–––3–––––––––0––3–––––––––––
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-                Dm            Bb             C                Dm
+    See my sheet music for the tabs.
+
+<!-- E –––––––––(1)–––––––––––––––––––––––––––––––––––––––––––(1)––––––
+B ––––––––––3––––––––––––(3)––––––––––––(5)–––––––––––––––3–––––––
+G ––––––––––2–––––––––––––3––––––––––––––5––––––––––––––––2–––––––
+D ––––––––––0––––––0––––––3––––––––––––––5––––––––––––––––0–––––––
+A ––––0––3––––––––––––3–––1–––––––1––1–––3–––––––––0––3–––––––––––
+E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+            Dm            Bb             C                Dm -->
 
 When first learning this, I recommend practicing just the bass notes first. For each bass note, be sure to use left-hand fingers that allow you to play the chords you'll need. This way, when you're fluent enough with the bass notes, you can work on bringing in the full chords.
 
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    B –––––––––(3)–––––––––––––––––––––––––––––––––––––––––––(3)––––––
-    G –––––––––(2)–––––––––––(3)––––––––––––(5)––––––––––––––(2)––––––
-    D ––––––––––0––––––0–––––(3)––––––––––––(5)–––––––––––––––0–––––––
-    A ––––0––3––––––––––––3–––1––––––––––––––3–––––––––0––3–––––––––––
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-                Dm            Bb             C                Dm
+    See my sheet music for the tabs.
+
+<!-- E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+B –––––––––(3)–––––––––––––––––––––––––––––––––––––––––––(3)––––––
+G –––––––––(2)–––––––––––(3)––––––––––––(5)––––––––––––––(2)––––––
+D ––––––––––0––––––0–––––(3)––––––––––––(5)–––––––––––––––0–––––––
+A ––––0––3––––––––––––3–––1––––––––––––––3–––––––––0––3–––––––––––
+E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+            Dm            Bb             C                Dm -->
 
 To transition into the verse, end the riff as follows:
 
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-    B ––––––––––3–––––––––––––––––––––––––––––––––––––––––––––––––––––
-    G ––––––––––2–––––––––––––3––––––––––––––5––––––––––––2–––5–––––––
-    D ––––––––––0––––––0––––––3–––––––3––3–––5––––––x–x–––2–––5–––––––
-    A ––––0––3––––––––––––3–––1–––––––1––1–––3––––––x–x–––0–––3–––––––
-    E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-                Dm            Bb             C            Am  C   
+    See my sheet music for the tabs.
+
+<!-- E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+B ––––––––––3–––––––––––––––––––––––––––––––––––––––––––––––––––––
+G ––––––––––2–––––––––––––3––––––––––––––5––––––––––––2–––5–––––––
+D ––––––––––0––––––0––––––3–––––––3––3–––5––––––x–x–––2–––5–––––––
+A ––––0––3––––––––––––3–––1–––––––1––1–––3––––––x–x–––0–––3–––––––
+E ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+            Dm            Bb             C            Am  C    -->
 
 ## Strumming pattern options
 
 The patterns I recommend are as follows. First is this simpler (?) one, which uses emphasized/accented down-strums on the "1" and "3" counts, with lighter "down-ups" happening on the "2 +" and "4 +" counts.
 
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    D . D U D . D U D . D U D . D U        
-    >       >       >       >
+    See my sheet music for the strumming diagrams.
 
-Spoken, this would be:
+<!-- 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+D . D U D . D U D . D U D . D U        
+>       >       >       > -->
 
-    "DOWN, down-up DOWN, down-up DOWN, down-up DOWN, down-up"
+<!-- Spoken, this would be:
+
+    "DOWN, down-up DOWN, down-up DOWN, down-up DOWN, down-up" -->
 
 Another option is to do this more typical strum pattern. I'm showing the down-strum on the "1" count as emphasized/accented, though that's optional.
 
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    D . D U . U D U D . D U . U D U
-    >               >
+    See my sheet music for the strumming diagrams.
 
-Which would be spoken as:
+<!-- 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+D . D U . U D U D . D U . U D U
+>               > -->
 
-    "DOWN, down-up, up-down-up, DOWN, down-up, up-down-up"
+<!-- Which would be spoken as:
+
+    "DOWN, down-up, up-down-up, DOWN, down-up, up-down-up" -->
 
 ## Lyrics w/ chords
 
-    (intro, played with riff):
+    See my sheet music for the lyrics with chords.
 
-    Dm   Bb   C   Dm     x3
-    Dm   Bb   C   Am  C  x1
+<!-- (intro, played with riff):
 
-    C#m7                           G#7
-    ...What'll you do when you get lonely
-    C#m7         C       D       E      E7  
-    And nobody's waiting by your side
-    F#m            B           E               A
-    ...You've been running and hiding much too long
-    F#m              B                 E        A
-    ...You know it's just your foolish pride... Lay----
+Dm   Bb   C   Dm     x3
+Dm   Bb   C   Am  C  x1
 
-           Dm   Bb           C            Dm
-        Layla........ you've got me on my knees
-           Dm   Bb         C                Dm
-        Layla......... I'm begging, darling please
-           Dm   Bb     C                 Dm              
-        Layla......... darling won't you ease my worried
-        Dm      Bb     C       Am   C
-        Mind....
+C#m7                           G#7
+...What'll you do when you get lonely
+C#m7         C       D       E      E7  
+And nobody's waiting by your side
+F#m            B           E               A
+...You've been running and hiding much too long
+F#m              B                 E        A
+...You know it's just your foolish pride... Lay----
 
-    C#m7                         G#7
-    ...I tried to give you consolation
-    C#m7             C       D       E      E7  
-    ...When your old man had let you down
-    F#m       B       E                 A
-    ...Like a fool, I fell in love with you
-    F#m              B                  E       A
-    ...You turned my whole world upside down... Lay----
+       Dm   Bb           C            Dm
+    Layla........ you've got me on my knees
+       Dm   Bb         C                Dm
+    Layla......... I'm begging, darling please
+       Dm   Bb     C                 Dm              
+    Layla......... darling won't you ease my worried
+    Dm      Bb     C       Am   C
+    Mind....
 
-            Dm   Bb           C            Dm
-         Layla........ you've got me on my knees
-            Dm   Bb         C                Dm
-         Layla......... I'm begging, darling please
-            Dm   Bb     C                 Dm              
-         Layla......... darling won't you ease my worried
-         Dm      Bb     C       Am   C
-         Mind....
+C#m7                         G#7
+...I tried to give you consolation
+C#m7             C       D       E      E7  
+...When your old man had let you down
+F#m       B       E                 A
+...Like a fool, I fell in love with you
+F#m              B                  E       A
+...You turned my whole world upside down... Lay----
 
-    C#m7                     G#7
-    ...Make the best of the situation
-    C#m7        C       D     E      E7  
-    ...Before I finally go insane
-    F#m             B         E            A
-    ...Please don't say I'll never find a way
-    F#m            B                 E      A
-    ...And tell me all my love's in vain... Lay----
+        Dm   Bb           C            Dm
+     Layla........ you've got me on my knees
+        Dm   Bb         C                Dm
+     Layla......... I'm begging, darling please
+        Dm   Bb     C                 Dm              
+     Layla......... darling won't you ease my worried
+     Dm      Bb     C       Am   C
+     Mind....
 
-         [ chorus ]  => [ instrumental chorus w/ solo ] => [ chorus x2 ]
+C#m7                     G#7
+...Make the best of the situation
+C#m7        C       D     E      E7  
+...Before I finally go insane
+F#m             B         E            A
+...Please don't say I'll never find a way
+F#m            B                 E      A
+...And tell me all my love's in vain... Lay----
 
-            Dm   Bb           C            Dm
-         Layla........ you've got me on my knees
-            Dm   Bb         C                Dm
-         Layla......... I'm begging, darling please
-            Dm   Bb     C  (let ring)                     Dm (let ring, end)
-         Layla......... darling won't you ease my worried mind
+     [ chorus ]  => [ instrumental chorus w/ solo ] => [ chorus x2 ]
+
+        Dm   Bb           C            Dm
+     Layla........ you've got me on my knees
+        Dm   Bb         C                Dm
+     Layla......... I'm begging, darling please
+        Dm   Bb     C  (let ring)                     Dm (let ring, end)
+     Layla......... darling won't you ease my worried mind -->
 
 ## Advanced notes about the intro riff
 
 Here's the actual timing of the first line of the riff, as heard in the recorded Clapton version:
 
-    E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    B |––––––––––3––|––––––––––(3)–––––––––(5)–|–––––––––––3–––––––––––3––|–
-    G |––––––––––2––|–––––––––––3–––––––––––5––|–––––––––––2–––––––––––2––|–
-    D |––––––––––0––|–––––0–––––3–––––––––––5––|–––––––––––0–––––––––––0––|–
-    A |––––0––3–––––|––––––––3––1–––––1––1––3––|–––––3––3––––––––0––3–––––|–
-    E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-                 Dm             Bb          C              Dm          Dm
-           +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +  
+    See my sheet music for the tabs.
+
+<!-- E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+B |––––––––––3––|––––––––––(3)–––––––––(5)–|–––––––––––3–––––––––––3––|–
+G |––––––––––2––|–––––––––––3–––––––––––5––|–––––––––––2–––––––––––2––|–
+D |––––––––––0––|–––––0–––––3–––––––––––5––|–––––––––––0–––––––––––0––|–
+A |––––0––3–––––|––––––––3––1–––––1––1––3––|–––––3––3––––––––0––3–––––|–
+E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+             Dm             Bb          C              Dm          Dm
+       +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +   -->
 
 Note that the 2nd and 3rd time he plays this, the timing slightly changes. For example, the C comes in on the "1" count of next measure the 2nd time it is played:
 
-    E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    B |––––––––––3––|––––––––––(3)–––––––––––––|–(5)–––––––3–––––––––––3––|–
-    G |––––––––––2––|–––––––––––3––––––––––––––|––5––––––––2–––––––––––2––|–
-    D |––––––––––0––|–––––0–––––3––––––––––––––|––5––––––––0–––––––––––0––|–
-    A |––––0––3–––––|––––––––3––1––––––––––––––|––3––0––3––––––––0––3–––––|–
-    E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-                 Dm             Bb                C        Dm          Dm
-           +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +  
+    See my sheet music for the tabs.
+
+<!-- E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+B |––––––––––3––|––––––––––(3)–––––––––––––|–(5)–––––––3–––––––––––3––|–
+G |––––––––––2––|–––––––––––3––––––––––––––|––5––––––––2–––––––––––2––|–
+D |––––––––––0––|–––––0–––––3––––––––––––––|––5––––––––0–––––––––––0––|–
+A |––––0––3–––––|––––––––3––1––––––––––––––|––3––0––3––––––––0––3–––––|–
+E |–––––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+             Dm             Bb                C        Dm          Dm
+       +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +   -->
 
 And the third time it is played, he slides up from the Bb to C shape. Listen along for reference, and watch my video lesson to see me play each version.
 
