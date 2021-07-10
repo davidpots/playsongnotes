@@ -10,11 +10,9 @@ slug: "347"
 yt_video_id: zlvOjiCwF20
 tags: [Full Song Lesson, Key of C, 2020s, Country]
 hidden_tag: [seven, seven summers]
-pdf_version: v2
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/zB4Mn
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/46282750
-#pdf_for_sale: https://gum.co/JXVpU
 ---
 
 
@@ -47,54 +45,56 @@ Video timestamps:
 
 Key of C, 100 beats per minute.
 
-    INTRO
-        Cmaj7 / Fmaj7 / x2
+    See my sheet music for the lyrics with chords.
 
-    VERSE
-        Cmaj7                                    Cmaj7
-        .......Yeah, you used to talk about............ getting even further South
-        Fmaj7                                    Fmaj7
-        .......Somewhere where the summer lasted all--- year--- 'round
-                       Cmaj7                                                           
-        Probably got a big ole diamond on your hand right now
-        Cmaj7                                    Fmaj7                             Fmaj7         
-        Maybe a baby or a couple by now......... long driveway to a big White House.....
+<!-- INTRO
+    Cmaj7 / Fmaj7 / x2
 
-    CHORUS
-                  Dm                                   G
-            But I wonder when you're drinking, if you..... find yourself thinking about
-            Cmaj7                                 Am7
-            ......That boy from East Tennessee......
-                  Dm                                G
-            And I know we both knew better, but we...... still said forever, and that
-            Cmaj7                            Am7                                               
-            ......Was seven summers, of Coke...... and Southern Comfort, were we
-            Dm                              G                                                                         
-            ....Dumb or just younger, who knows?
+VERSE
+    Cmaj7                                    Cmaj7
+    .......Yeah, you used to talk about............ getting even further South
+    Fmaj7                                    Fmaj7
+    .......Somewhere where the summer lasted all--- year--- 'round
+                   Cmaj7                                                           
+    Probably got a big ole diamond on your hand right now
+    Cmaj7                                    Fmaj7                             Fmaj7         
+    Maybe a baby or a couple by now......... long driveway to a big White House.....
 
-                                   Cmaj7                            Am7                              
-                    Back then, you used to love the river... and sippppin' on a sixer with me
-                    Dm                                       G (let ring)
-                    ....Does it ever make you sad to know... that was seven summers ago?
+CHORUS
+              Dm                                   G
+        But I wonder when you're drinking, if you..... find yourself thinking about
+        Cmaj7                                 Am7
+        ......That boy from East Tennessee......
+              Dm                                G
+        And I know we both knew better, but we...... still said forever, and that
+        Cmaj7                            Am7                                               
+        ......Was seven summers, of Coke...... and Southern Comfort, were we
+        Dm                              G                                                                         
+        ....Dumb or just younger, who knows?
 
-        [ intro riff x1 ]                                                    
+                               Cmaj7                            Am7                              
+                Back then, you used to love the river... and sippppin' on a sixer with me
+                Dm                                       G (let ring)
+                ....Does it ever make you sad to know... that was seven summers ago?
 
-        Cmaj7                                      Cmaj7                                      
-        .......Yeah, I bet your daddy's so proud....... of how his little girl turned out
-        Fmaj7                                      Fmaj7
-        ......Think she dodged a bullet...... of a good old boy like me, 'cause I still
-        Cmaj7                                      Cmaj7                                
-        ......Go drinkin', same friends on Friday, bought a few acres, couple roads off the highway
-        Fmaj7                                      Fmaj7
-        Guess you never saw things my way anyway........
+    [ intro riff x1 ]                                                    
 
-        [ chorus ]
+    Cmaj7                                      Cmaj7                                      
+    .......Yeah, I bet your daddy's so proud....... of how his little girl turned out
+    Fmaj7                                      Fmaj7
+    ......Think she dodged a bullet...... of a good old boy like me, 'cause I still
+    Cmaj7                                      Cmaj7                                
+    ......Go drinkin', same friends on Friday, bought a few acres, couple roads off the highway
+    Fmaj7                                      Fmaj7
+    Guess you never saw things my way anyway........
 
-    ENDING
-                Cmaj7  Cmaj7                  Fmaj7  Fmaj7                 Cmaj7  Cmaj7  Fmaj7
-                ..............seven summers ago........... seven summers ago..................
+    [ chorus ]
 
-                [repeat chorus + ending, let final Fmaj7 ring]
+ENDING
+            Cmaj7  Cmaj7                  Fmaj7  Fmaj7                 Cmaj7  Cmaj7  Fmaj7
+            ..............seven summers ago........... seven summers ago..................
+
+            [repeat chorus + ending, let final Fmaj7 ring] -->
 
 ## Chord Progressions
 

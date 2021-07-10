@@ -8,11 +8,10 @@ category: full_song
 date_published: 2021-05-30
 yt_video_id: LpVXLRHmyW8
 slug: "368"
-tags: [Full Song Lesson, Key of G, Country]
-pdf_version: v2
+tags: [Full Song Lesson, Key of G, Country, 2010s]
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/tBmMJ
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/51859974
 ---
 
 ## Video lesson

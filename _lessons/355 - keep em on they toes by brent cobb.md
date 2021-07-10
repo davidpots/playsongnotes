@@ -8,12 +8,10 @@ category: full_song
 date_published: 2021-03-13
 slug: "355"
 yt_video_id: T6gZp6HCKwI
-tags: [Full Song Lesson, Key of C, Key of E, 2020, Country]
-pdf_version: v2
+tags: [Full Song Lesson, Key of C, Key of E, 2020s, Country]
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/dBPM8
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/48701330
-#pdf_for_sale: https://gum.co/mdSjP
 ---
 
 
@@ -47,55 +45,57 @@ If you haven't heard this song before, give it a quick listen -- I'm confident t
 
 Capo 4th fret using the chords below. Or play on capo, key of E (see below for more details).
 
-    INTRO
-    C (8 measures, strum freely)
+    See my sheet music for the lyrics with chords.
 
-    VERSE
-                     C*   C                    G*     G
-    If you ever grow up...... one thing you'll find
-                         Am*   Am                       F*    F
-    Most people that you meet..... just about out their mind
-                                C*    C                              G*   G
-    They try to tell you how to live.... they try to tell you how to die
-                        Am*          Am                    F*    F
-    They tell you don't get too low----- but don't get too high
-                       C*    C                      G*    G
-    Best thing you can do...... is don't listen too close
-                    F*       G*                  C*    C
-    Walk on to your own beat... keep 'em on they toes
+<!-- INTRO
+C (8 measures, strum freely)
 
-    CHORUS
-                         F                         F
-        Keep 'em on they toes, your business outta sight
-                      C                           C
-        Make 'em look left if you're gonna hang a right
-                     F                           F
-        If the pot's hot, don't let 'em see your hand
-                       G                            G
-        Make 'em gotta know what they wouldn't understand
-                     C*                C                     G*     G
-            The best thing you can do.... when the ignorance shows
-                          F*            G*                      C*     C
-            Is walk on to your own beat... and keep 'em on they toes
+VERSE
+                 C*   C                    G*     G
+If you ever grow up...... one thing you'll find
+                     Am*   Am                       F*    F
+Most people that you meet..... just about out their mind
+                            C*    C                              G*   G
+They try to tell you how to live.... they try to tell you how to die
+                    Am*          Am                    F*    F
+They tell you don't get too low----- but don't get too high
+                   C*    C                      G*    G
+Best thing you can do...... is don't listen too close
+                F*       G*                  C*    C
+Walk on to your own beat... keep 'em on they toes
 
-    If you never grow [C] up...[C]... you oughta stay that [G] way... [G]
-    [Am] You can't learn----[Am]---- what you ain't gotta [F] change... [F]
+CHORUS
+                     F                         F
+    Keep 'em on they toes, your business outta sight
+                  C                           C
+    Make 'em look left if you're gonna hang a right
+                 F                           F
+    If the pot's hot, don't let 'em see your hand
+                   G                            G
+    Make 'em gotta know what they wouldn't understand
+                 C*                C                     G*     G
+        The best thing you can do.... when the ignorance shows
+                      F*            G*                      C*     C
+        Is walk on to your own beat... and keep 'em on they toes
 
-    Just listen to your [C] heart...[C]... listen to the [G] rain... [G]
-    Listen to [Am] whatever it is---[Am]--- that keeps you [F] sane... [F]
+If you never grow [C] up...[C]... you oughta stay that [G] way... [G]
+[Am] You can't learn----[Am]---- what you ain't gotta [F] change... [F]
 
-    Now, I don't have to [C] tell it...[C]... 'cause you already [G] know... [G]
-    Walk on to your [F] own beat...[G]... keep 'em on they [C] toes... [C]
+Just listen to your [C] heart...[C]... listen to the [G] rain... [G]
+Listen to [Am] whatever it is---[Am]--- that keeps you [F] sane... [F]
 
-        Keep 'em on they [F] toes, your business outta [F] sight
-        Make 'em look [C] left if you're gonna hang a [C] right
-        If the pot's [F] hot, don't let em see your [F] hand
-        Make 'em gotta [G] know what they wouldn't under[G]stand
+Now, I don't have to [C] tell it...[C]... 'cause you already [G] know... [G]
+Walk on to your [F] own beat...[G]... keep 'em on they [C] toes... [C]
 
-            The best [C] thing you can do...[C]... when the ignorance [G] shows... [G]
-            Is walk on to your [F] own beat [G]... keep 'em on they [C] toes
-            I don't have to [C] tell it...[C] 'cause y'all already [G] know... [G]
-            Walk on to your [F] own beat [G]... and keep 'em on they [C] toes [C]
+    Keep 'em on they [F] toes, your business outta [F] sight
+    Make 'em look [C] left if you're gonna hang a [C] right
+    If the pot's [F] hot, don't let em see your [F] hand
+    Make 'em gotta [G] know what they wouldn't under[G]stand
+
+        The best [C] thing you can do...[C]... when the ignorance [G] shows... [G]
+        Is walk on to your [F] own beat [G]... keep 'em on they [C] toes
+        I don't have to [C] tell it...[C] 'cause y'all already [G] know... [G]
+        Walk on to your [F] own beat [G]... and keep 'em on they [C] toes [C] -->
 
 ## Capo 4 (key of C) or no capo (key of E)?
 

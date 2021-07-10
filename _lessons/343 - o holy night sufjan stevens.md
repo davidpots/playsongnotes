@@ -10,10 +10,9 @@ date_published: 2020-12-24
 slug: "343"
 tags: [Full Song Lesson, Key of C, 2000s, Holiday]
 hidden_tags: [oh holy night, christmas, xmas]
-pdf_version: v2
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/gBSMZ
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/45396311
 ---
 
 
@@ -41,73 +40,75 @@ Video timestamps:
 
 Key of C, 6 beats per measure, 74 BPM
 
-    INTRO
+    See my sheet music for the lyrics with chords.
 
-        C ..... C ..... C ..... C .....
+<!-- INTRO
 
-    VERSE
+    C ..... C ..... C ..... C .....
 
-        C        C            F                  C      C
-        O-- holy night... the stars are brightly shine--ing
-                  C            G             C       C
-        It is the night of our dear savior's birth
-        C            C           F             C       C
-        Long lay the world... in sin and error pine----ing
-                 Em              B7            Em      Em
-        'Til he appeared and the soul felt its worth
+VERSE
 
-    PRE-CHORUS
-              G          G        C             C
-            A thrill of hope, the weary soul rejoices
-                G        G       C                C    (G/B)
-            For yonder breaks a new and glorious morn
+    C        C            F                  C      C
+    O-- holy night... the stars are brightly shine--ing
+              C            G             C       C
+    It is the night of our dear savior's birth
+    C            C           F             C       C
+    Long lay the world... in sin and error pine----ing
+             Em              B7            Em      Em
+    'Til he appeared and the soul felt its worth
 
-    CHORUS
-                Am    Am          Em     Em      Dm     Dm           Am     Am  (G/B)
-                Fall----- on your knees------- O hear----- the angel voices
-                  C       G       C      F       C      G                   C          C
-                O night-------- divine-------- O night----- when Christ was born
-                  G       G       C      F       C      G             C     C
-                O night-------- divine-------- O night----- O night divine
+PRE-CHORUS
+          G          G        C             C
+        A thrill of hope, the weary soul rejoices
+            G        G       C                C    (G/B)
+        For yonder breaks a new and glorious morn
 
-    INSTRUMENTAL SECTION
+CHORUS
+            Am    Am          Em     Em      Dm     Dm           Am     Am  (G/B)
+            Fall----- on your knees------- O hear----- the angel voices
+              C       G       C      F       C      G                   C          C
+            O night-------- divine-------- O night----- when Christ was born
+              G       G       C      F       C      G             C     C
+            O night-------- divine-------- O night----- O night divine
 
-                C ..... C ..... F ..... C ..... C .....
-                C ..... G ..... C ..... C .....           
-                                         (played twice)
+INSTRUMENTAL SECTION
 
-        C        C            F          C      C
-        Truly he taught us to love one anoth----er
-                   C            G         C         C
-        His law is love and his gospel is peace
-        C                 C            F            C       C
-        Chains shall he break, for the slave is our broth---er
-                   Em        B7              Em      Em
-        And in his name all oppression shall cease
+            C ..... C ..... F ..... C ..... C .....
+            C ..... G ..... C ..... C .....           
+                                     (played twice)
 
-                  G        G        C              C
-            Sweet hymns of joy in grateful chorus rise we
-                G       G       C              C    (G/B)
-            Let all within us praise his holy name
+    C        C            F          C      C
+    Truly he taught us to love one anoth----er
+               C            G         C         C
+    His law is love and his gospel is peace
+    C                 C            F            C       C
+    Chains shall he break, for the slave is our broth---er
+               Em        B7              Em      Em
+    And in his name all oppression shall cease
 
-                (louder)
-                Am     Am         Em     Em      Dm     Dm            Am      Am    (G/B)
-                Fall----- on your knees------- O hear------ the angel voice---es
-                  C       G       C      F       C      G                   C     C
-                O night-------- divine-------- O night----- when Christ was born
-                  G       G       C      F       C      G             C      C
-                O night-------- divine-------- O night----- O night divine
+              G        G        C              C
+        Sweet hymns of joy in grateful chorus rise we
+            G       G       C              C    (G/B)
+        Let all within us praise his holy name
 
-                (quieter)
-                Am     Am         Em     Em      Dm     Dm            Am      Am    (G/B)
-                Fall----- on your knees------- O hear------ the angel voice---es
-                  C       G       C      F       C      G                   C     C
-                O night-------- divine-------- O night----- when Christ was born
-                  G       G       C      F       C      G             C      C
-                O night-------- divine-------- O night----- O night divine
+            (louder)
+            Am     Am         Em     Em      Dm     Dm            Am      Am    (G/B)
+            Fall----- on your knees------- O hear------ the angel voice---es
+              C       G       C      F       C      G                   C     C
+            O night-------- divine-------- O night----- when Christ was born
+              G       G       C      F       C      G             C      C
+            O night-------- divine-------- O night----- O night divine
+
+            (quieter)
+            Am     Am         Em     Em      Dm     Dm            Am      Am    (G/B)
+            Fall----- on your knees------- O hear------ the angel voice---es
+              C       G       C      F       C      G                   C     C
+            O night-------- divine-------- O night----- when Christ was born
+              G       G       C      F       C      G             C      C
+            O night-------- divine-------- O night----- O night divine
 
 
-                                                          (let final C ring to end)
+                                                      (let final C ring to end) -->
 
 ## Guitar chords used
 
@@ -123,62 +124,68 @@ Here's the chord shapes you need. You can of course tweak any of these (to simpl
 
 ## Chord progression
 
-    INTRO       | C . . . . . | C . . . . . | C . . . . . | C . . . . . |
+    See my sheet music for chord progression diagrams.
 
-    VERSE       "O holy night, the stars..."
-                | C . . . . . | C . . . . . | F . . . . . | C . . . . . | C . . . . . |
-                | C . . . . . | G . . . . . | C . . . . . | C . . . . . |
+<!-- INTRO       | C . . . . . | C . . . . . | C . . . . . | C . . . . . |
 
-                "Long lay the world, in sin..."
-                | C  . . . . . | C  . . . . . | F  . . . . . | C  . . . . . | C . . . . . |
-                | Em . . . . . | B7 . . . . . | Em . . . . . | Em . . . . . |
+VERSE       "O holy night, the stars..."
+            | C . . . . . | C . . . . . | F . . . . . | C . . . . . | C . . . . . |
+            | C . . . . . | G . . . . . | C . . . . . | C . . . . . |
 
-    PRE-CHORUS  "A thrill of hope, the weary soul rejoices..."
-                | G . . . . . | G . . . . . | C . . . . . | C . . . . . |
-                | G . . . . . | G . . . . . | C . . . . . | C . . . . . |
+            "Long lay the world, in sin..."
+            | C  . . . . . | C  . . . . . | F  . . . . . | C  . . . . . | C . . . . . |
+            | Em . . . . . | B7 . . . . . | Em . . . . . | Em . . . . . |
+
+PRE-CHORUS  "A thrill of hope, the weary soul rejoices..."
+            | G . . . . . | G . . . . . | C . . . . . | C . . . . . |
+            | G . . . . . | G . . . . . | C . . . . . | C . . . . . |
 
 
-    CHORUS      "Fall on your knees, oh hear..."
-                | Am . . . . . | Am . . . . . | Em . . . . . | Em . . . . . |
-                | Dm . . . . . | Dm . . . . . | Am . . . . . | Am . . . . . |
+CHORUS      "Fall on your knees, oh hear..."
+            | Am . . . . . | Am . . . . . | Em . . . . . | Em . . . . . |
+            | Dm . . . . . | Dm . . . . . | Am . . . . . | Am . . . . . |
 
-                "O night, divine..." (first time)
-                | C . . . . . | G . . . . . | C . . . . . | F . . . . . |
-                | C . . . . . | G . . . . . | C . . . . . | C . . . . . |
+            "O night, divine..." (first time)
+            | C . . . . . | G . . . . . | C . . . . . | F . . . . . |
+            | C . . . . . | G . . . . . | C . . . . . | C . . . . . |
 
-                "O night, divine..." (second time)
-                | G . . . . . | G . . . . . | C . . . . . | F . . . . . |
-                | C . . . . . | G . . . . . | C . . . . . | C . . . . . |
+            "O night, divine..." (second time)
+            | G . . . . . | G . . . . . | C . . . . . | F . . . . . |
+            | C . . . . . | G . . . . . | C . . . . . | C . . . . . | -->
 
 ## Strumming patterns
 
 If you want to strum this song, here's a few options. I recommend starting light & simple, and then dialing up the intensity as you move along toward the end. Accent & emphasize the 1 and 4 counts!
 
-    1 + 2 + 3 + 4 + 5 + 6 +
-    D           D               "DOWN..... DOWN....."
+    See my sheet music for strumming diagrams.
 
-    1 + 2 + 3 + 4 + 5 + 6 +
-    D   d   d   D   d   d       "DOWN down down, DOWN down down"
+<!-- 1 + 2 + 3 + 4 + 5 + 6 +
+D           D               "DOWN..... DOWN....."
 
-    1 + 2 + 3 + 4 + 5 + 6 +
-    D   d u d u D   d u d u     "DOWN down-up down-up, DOWN down-up down-up"
+1 + 2 + 3 + 4 + 5 + 6 +
+D   d   d   D   d   d       "DOWN down down, DOWN down down"
+
+1 + 2 + 3 + 4 + 5 + 6 +
+D   d u d u D   d u d u     "DOWN down-up down-up, DOWN down-up down-up" -->
 
 
 ## Fingerpicking options
 
 You can also fingerpick this song, which I'll do by using one (or multiple) of these patterns. I generally keep my right index/middle/ring on the 4th/3rd/2nd strings, and use my right thumb on the bass note of the chord (usually 5th or 6th string). See my video lesson for a demonstration.
 
-    E –––––––––––––––            E –––––––––––––––            E –––––––––––––––
-    B –––––––––––––––            B ––––––––1––––––            B ––––––––1––––––
-    G ––––––0–––––0––            G ––––––0–––0––––            G ––0–––0–––0––––
-    D ––––2–––––2––––     or     D ––––2–––––––2––     or     D ––––2–––––––2––
-    A ––3–––––3––––––            A ––3––––––––––––            A ––3–––––3––––––
-    E –––––––––––––––            E –––––––––––––––            E –––––––––––––––
-        C                            C                            C
-        1 2 3 4 5 6                  1 2 3 4 5 6                  1 2 3 4 5 6   
+    See my sheet music for tab diagram.
+
+<!-- E –––––––––––––––            E –––––––––––––––            E –––––––––––––––
+B –––––––––––––––            B ––––––––1––––––            B ––––––––1––––––
+G ––––––0–––––0––            G ––––––0–––0––––            G ––0–––0–––0––––
+D ––––2–––––2––––     or     D ––––2–––––––2––     or     D ––––2–––––––2––
+A ––3–––––3––––––            A ––3––––––––––––            A ––3–––––3––––––
+E –––––––––––––––            E –––––––––––––––            E –––––––––––––––
+    C                            C                            C
+    1 2 3 4 5 6                  1 2 3 4 5 6                  1 2 3 4 5 6    -->
 
 ## Optional melody riff tab (for intro / first line of the verse)
 
 Here’s a tab I came up with to play the melody of the first line or two -- in combination with the chords that go with it. The yellow notes below represent the actually melody notes (i.e. what you’d hum or whistle or sing) -- and you can optionally add any amount, or none, of the non-highlighted chord-notes I show below. If you do play the non-highlighted notes, don’t feel pressured to play all of them... in other words, its okay if you’re fingerpicking and only play the bass note of the chord, along with the highlighted melody note. See my video lesson for reference!
 
-    See PDF for tab diagram.
+    See my sheet music for tab diagram.

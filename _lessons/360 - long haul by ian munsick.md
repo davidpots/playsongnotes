@@ -8,11 +8,10 @@ category: full_song
 date_published: 2021-04-18
 yt_video_id: cOoddupGncs
 slug: "360"
-tags: [Full Song Lesson, Key of G, Fingerstyle, Country]
-pdf_version: v2
+tags: [Full Song Lesson, Key of G, Fingerstyle, Country, 2020s]
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/RBWMW
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/50177162
 ---
 
 
@@ -51,74 +50,76 @@ What I love about this song from a guitar point of view:
 
 Tuned all strings down 1/2 step to play along with Ian Munsick's version.
 
-    INTRO (see PDF for intro tab)
-    Em  G/F#  G
+    See my sheet music for the lyrics with chords.
 
-		VERSE
-    Em         G/F#      G       G
-    ...I don't ever look back... no, you never gotta
-    Em          G/F#        G          G
-    Worry about things like that... so don't think twice because
-    Em        G/F#        G              Cadd9 (let ring)
-    I ain't afraid of the slow burn, and one thing's for sure...
-         D (let ring)              Em  G/F#  G
-    It's good to make a good thing last
+<!-- INTRO (see PDF for intro tab)
+Em  G/F#  G
 
-		PRE-CHORUS
-                       D      Em*                      Cmaj7
-        So girl, don't worry..... this boy ain't gonna run
-                       D      Em*                  Cmaj7 (let ring)
-        There ain't no hurry..... we got plenty of days left under the sun
+VERSE
+Em         G/F#      G       G
+...I don't ever look back... no, you never gotta
+Em          G/F#        G          G
+Worry about things like that... so don't think twice because
+Em        G/F#        G              Cadd9 (let ring)
+I ain't afraid of the slow burn, and one thing's for sure...
+     D (let ring)              Em  G/F#  G
+It's good to make a good thing last
 
-		CHORUS
-                           Cmaj7
-            No, it ain't a one day ride... tuck through the mountains
-                      G
-            Where the coyotes cry... down through the canyon
-                      D                                          Em*
-            Where the wild things hide...... and the cottonwoods fall
-                    (D)         Cmaj7
-            Feel the river underneath our feet... we'll be drowning
-                 G
-            In a sagebrush sea... as long as I know
-                      D                                  Em*
-            That it's you and me... time don't matter at all
-                     (D)            Cmaj7       G
-            Girl, I'm in it for the long haul--------------
-                              D           Em*
-            I'm in it for the long haul----------
+PRE-CHORUS
+                   D      Em*                      Cmaj7
+    So girl, don't worry..... this boy ain't gonna run
+                   D      Em*                  Cmaj7 (let ring)
+    There ain't no hurry..... we got plenty of days left under the sun
 
-    Em        G/F#       G          G
-    ...Take a hold of my hand...... I'm gonna love you
-    Em            G/F#      G          G
-    Slow like the hourglass sand...... God knows, I've spent
-      Em          G/F#   G                    Cadd9 (let ring)
-    A lifetime of lonely wandering... but I'm all in for good
-    D (let ring)    Em  G/F#  G
-    I wanna be your man
+CHORUS
+                       Cmaj7
+        No, it ain't a one day ride... tuck through the mountains
+                  G
+        Where the coyotes cry... down through the canyon
+                  D                                          Em*
+        Where the wild things hide...... and the cottonwoods fall
+                (D)         Cmaj7
+        Feel the river underneath our feet... we'll be drowning
+             G
+        In a sagebrush sea... as long as I know
+                  D                                  Em*
+        That it's you and me... time don't matter at all
+                 (D)            Cmaj7       G
+        Girl, I'm in it for the long haul--------------
+                          D           Em*
+        I'm in it for the long haul----------
 
-        So girl, don't [D] worry...[Em*]... this boy ain't gonna [Cmaj7] run
-        There ain't no [D] hurry...[Em*]... we got plenty of [Cmaj7] days left under the sun
+Em        G/F#       G          G
+...Take a hold of my hand...... I'm gonna love you
+Em            G/F#      G          G
+Slow like the hourglass sand...... God knows, I've spent
+  Em          G/F#   G                    Cadd9 (let ring)
+A lifetime of lonely wandering... but I'm all in for good
+D (let ring)    Em  G/F#  G
+I wanna be your man
 
-            No, it ain't a [Cmaj7] one day ride... tuck through the mountains
-            Where the [G] coyotes cry... down through the canyon
-            Where the [D] wild things hide...... and the cottonwoods [Em*] fall...
+    So girl, don't [D] worry...[Em*]... this boy ain't gonna [Cmaj7] run
+    There ain't no [D] hurry...[Em*]... we got plenty of [Cmaj7] days left under the sun
 
-            Feel the river under[Cmaj7]neath our feet... we'll be drowning
-            In a [G] sagebrush sea... long as I know
-            That it's [D] you and me... time don't matter at [Em*] all
+        No, it ain't a [Cmaj7] one day ride... tuck through the mountains
+        Where the [G] coyotes cry... down through the canyon
+        Where the [D] wild things hide...... and the cottonwoods [Em*] fall...
 
-            Girl, I'm in it for the [Cmaj7] long haul----[G]----------
-            I'm in it for the [D] long haul---[Em*]-------
+        Feel the river under[Cmaj7]neath our feet... we'll be drowning
+        In a [G] sagebrush sea... long as I know
+        That it's [D] you and me... time don't matter at [Em*] all
 
-            [Cmaj7] Ooh----, ooooh [G] ooh------, ohhh [D] ooooh----, ooh, [Em*] oooh------
-            [Cmaj7] Ooh----, ooooh [G] ooh------, ohhh [D] ooooh----, ooh, [Em*] oooh------
+        Girl, I'm in it for the [Cmaj7] long haul----[G]----------
+        I'm in it for the [D] long haul---[Em*]-------
 
-            Girl, I'm in it 'til the [Cmaj7] end... forever and [G] again
-            I'm in it for the [D] long haul....
+        [Cmaj7] Ooh----, ooooh [G] ooh------, ohhh [D] ooooh----, ooh, [Em*] oooh------
+        [Cmaj7] Ooh----, ooooh [G] ooh------, ohhh [D] ooooh----, ooh, [Em*] oooh------
 
-    [Em] I don't [G/F#] ever look [G] back, no you never gotta
-    [Em] worry about [G/F#] things like... [G] that
+        Girl, I'm in it 'til the [Cmaj7] end... forever and [G] again
+        I'm in it for the [D] long haul....
+
+[Em] I don't [G/F#] ever look [G] back, no you never gotta
+[Em] worry about [G/F#] things like... [G] that -->
 
 ## Tuning and notes about the "stripped" version
 
@@ -148,7 +149,7 @@ Here are the chord voicings you'll need to play it like Ian Munsick￼(and, what
 
 ## Chord progressions
 
-See PDF for chord progression diagrams.
+    See my sheeet music for chord progression diagrams.
 
 <!-- Intro:
 
@@ -184,7 +185,7 @@ D               D               Em*             Em*    (D)
 
 ## Tabs for each section
 
-See my PDF for intro, pre-chorus, and chorus tabs.
+    See my sheet music for intro, pre-chorus, and chorus tabs.
 
 <!-- Intro:
 
