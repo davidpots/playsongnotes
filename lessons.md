@@ -40,11 +40,14 @@ permalink: /lessons/
   {% assign song = site.lessons | where: 'slug', i %}
   {% if song[0].pdf_version == "v2" %}
     {% assign pdf_v2_count = pdf_v2_count | plus:1 %}
-  {% elsif song[0].pdf_version == "musicnotes" %}
+  {% endif %}
+  {% if song[0].pdf_version == "musicnotes" %}
     {% assign pdf_musicnotes_count = pdf_musicnotes_count | plus:1 %}
-  {% elsif song[0].pdf_version == "v1" %}
+  {% endif %}
+  {% if song[0].pdf_version == "v1" %}
     {% assign pdf_v1_count = pdf_v1_count | plus:1 %}
-  {% elsif song[0].patreon_lesson_url %}
+  {% endif %}
+  {% if song[0].patreon_lesson_url %}
     {% assign pdf_noV_count = pdf_noV_count | plus:1 %}
   {% endif %}
   {% if song[0].musicnotes_url %}
@@ -111,7 +114,6 @@ $(document).ready(function(){
 });
 </script>
 <script src="/js/search.js"></script>
-
 
 
 
