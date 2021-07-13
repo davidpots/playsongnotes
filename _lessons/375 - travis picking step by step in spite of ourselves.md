@@ -4,6 +4,7 @@ title: 'Learn Any Travis Picking Song, Step by Step'
 category: tip_technique
 slug: "375"
 tags: [Tips & Techniques, Fingerstyle, Travis Picking, Key of C]
+hidden_tags: [John Prine]
 date_published: 2021-07-11
 yt_video_id: jozyVKhpyIk
 pdf_version: v2
