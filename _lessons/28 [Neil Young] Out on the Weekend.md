@@ -11,11 +11,9 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of A]
 slug: "28"
 redirect_from:
   - /songs/neil-young-out-on-the-weekend/
-#pdf_version: v2
-pdf_version: copyright
-pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/21721986
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/RKMMZ
+pdf_numpages: 2
 ---
 
 <!-- https://www.patreon.com/posts/27089906 -->
