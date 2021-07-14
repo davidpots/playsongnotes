@@ -49,3 +49,16 @@ permalink: /lessons-musicnotes/
     {% endif %}
   {% endfor %}
 </ul>
+
+<h1>Songs with V1 pdf version</h1>
+
+<ul>
+  {% assign lessons = site.lessons | where: "pdf_version","v1" | sort: 'song_title' %}
+  {% for l in lessons %}
+    {% if l.category == "full_song" %}
+      <li>
+        <p><a href="https://playsongnotes.com/{{ l.url }}"><strong>{{ l.song_title }}</strong></a> by {{l.artist}}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
