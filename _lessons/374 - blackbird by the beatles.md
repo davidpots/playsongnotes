@@ -53,4 +53,4 @@ Here's an additional video lesson available to my Patreon supporters only, where
 
 <strong>👉 Patreon supporters: [Watch my bonus video »]({{page.patreon_lesson_url}})</strong>
 
-<em>Not a Patreon member and want to join? It's only a few bucks a month (or pay annually and save) -- and it gets you 50% off my "song" sheet music arrangements, access to my entire library of non-song PDFs (riffs, theory, techniques, etc) -- plus access to bonus videos like this one. [Click here](http://patreon.com/songnotes/) to learn more.</em>
+<em>Not a Patreon member and want to join? It's only a few bucks a month (or pay annually and save) -- and it gets you 50% off my "song" sheet music arrangements, access to my FULL library of non-song PDFs (riffs, theory, techniques, etc) -- plus access to bonus videos like this one. [Click here](http://patreon.com/songnotes/) to learn more.</em>
