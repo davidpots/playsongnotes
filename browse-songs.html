@@ -21,11 +21,7 @@ permalink: /songs/
 {% assign artist_count = 0 %}
 
 {% for song in artist.items %}
-
-  {% if song.patreon_lesson_available == true %}
-    {% assign artist_count = artist_count | plus: 1 %}
-  {% endif %}
-
+  {% assign artist_count = artist_count | plus: 1 %}
 {% endfor %}
 
 
@@ -35,10 +31,7 @@ permalink: /songs/
 
   {% assign sorted_by_song_name = artist.items | sort: "song_title" %}
   {% for song in sorted_by_song_name %}
-  {% if song.patreon_lesson_available == true %}
-    {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-  <li><a href="{{song.url}}"><strong>{{song.song_title}}</strong></a></li>
-  {% endif %}
+    <li><a href="{{song.url}}"><strong>{{song.song_title}}</strong></a></li>
   {% endfor %}
 
 

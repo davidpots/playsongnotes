@@ -8,7 +8,7 @@ category: full_song
 date_published: 2021-07-14
 yt_video_id: 4dfAkR6VstA
 slug: "376"
-tags: [Full Song Lesson, Key of D, Drop D]
+tags: [Full Song Lesson, Country, Key of D, Drop D, 2010s, 2020s, Morgan Wallen]
 pdf_version: musicnotes
 pdf_numpages: 4
 musicnotes_url: https://www.musicnotes.com/l/NgMM4
