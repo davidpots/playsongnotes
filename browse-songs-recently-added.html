@@ -37,7 +37,7 @@ permalink: /songs/recently-added
 <ul class="listing_may2021">
 {% for l in (1..latest_lesson_number) reversed %}
   {% assign song = site.lessons | where: 'slug', l %}
-
+  {% if song[0].yt_video_id and song[0].category == "full_song" %}
     <li>
       <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{song[0].yt_video_id}}/mqdefault.jpg');"></div>
       <h3 class="listing_may2021--title"><a href="{{ song[0].url | relative_url }}">{{ song[0].title }}</a></h3>
@@ -46,6 +46,7 @@ permalink: /songs/recently-added
       {% endif %}
       <p class="listing_may2021--meta">Lesson #{{ song[0].slug}}</p>
     </li>
+  {% endif %}
 
 {% endfor %}
 </ul>
