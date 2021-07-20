@@ -4,7 +4,7 @@ layout: song
 title: '"First Call" (horse racing / military bugle wake-up call)'
 song_title:  First Call
 artist: (traditional)
-year: --
+year: 1884
 category: full_song
 tags: [Warm Up Exercise, Traditional]
 yt_video_id: hGmfxLfWc3k

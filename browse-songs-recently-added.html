@@ -1,0 +1,38 @@
+---
+layout: page
+title: Full Song Lessons (recently added) - Learn to play guitar like your favorite artists, with step by step song lessons - Song Notes by David Pots
+permalink: /songs/recently-added
+---
+
+<h1>Video Lessons</h1>
+<p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
+
+<p class="tabs_may2021">
+  <a href="/riffs">Quick Riffs</a> <a  href="/tips">Tips & Techniques</a> <a class="active" href="/songs">Full Songs</a> <a  href="/practice">Practice Log</a>
+</p>
+
+
+<p class="tabs_may2021--secondary">
+  <strong>Sort by:</strong> <a class="active" href="/songs/recently-added">Recently Added</a> <a href="/songs/">Artist</a> <a href="/songs/by-title">Title</a> <a href="/songs/by-year">Release Date</a>
+</p>
+
+
+
+
+
+
+<ul class="listing_may2021">
+  {% assign lessons = site.lessons | where: "category","full_song" | sort: 'slug' %}
+  {% for l in lessons reversed %}
+  {% if l.yt_video_id %}
+    <li>
+      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
+      <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
+      {% if l.pdf_version and l.pdf_version == "musicnotes" %}
+        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ l.url | relative_url }}">Sheet Music Available</a></p>
+      {% endif %}
+      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>

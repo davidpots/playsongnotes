@@ -1,0 +1,45 @@
+---
+layout: page
+title: Full Song Lessons (by year) - Learn to play guitar like your favorite artists, with step by step song lessons - Song Notes by David Pots
+permalink: /songs/by-year
+---
+
+<h1>Video Lessons</h1>
+<p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
+
+<p class="tabs_may2021">
+  <a href="/riffs">Quick Riffs</a> <a  href="/tips">Tips & Techniques</a> <a class="active" href="/songs">Full Songs</a> <a  href="/practice">Practice Log</a>
+</p>
+
+
+<p class="tabs_may2021--secondary">
+  <strong>Sort by:</strong> <a href="/songs/recently-added">Recently Added</a> <a href="/songs/">Artist</a> <a href="/songs/by-title">Title</a> <a class="active" href="/songs/by-year">Release Date</a>
+</p>
+
+
+
+{% assign number_of_pdfs = 0 %}
+{% assign songs_by_year = site.lessons | where: "category", "full_song" | group_by: "year" | sort: "name" %}
+
+<div class="multi_column_list">
+{% for year in songs_by_year %}
+{% assign year_count = 0 %}
+
+{% for song in year.items %}
+  {% assign year_count = year_count | plus: 1 %}
+{% endfor %}
+
+{% if year_count > 0 %}
+  <h3 class="mbn">{{year.name}}</h3>
+  <ul>
+
+  {% assign sorted_by_song_name = year.items | sort: "song_title" %}
+  {% for song in sorted_by_song_name %}
+    <li><a href="{{song.url}}"><strong>{{song.song_title}}</strong></a></li>
+  {% endfor %}
+
+
+  </ul>
+{% endif %}
+{% endfor %}
+</div>

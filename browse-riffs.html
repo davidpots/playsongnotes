@@ -22,7 +22,7 @@ redirect_from:
         <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
         <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
         {% if l.pdf_version and l.pdf_version != "copyright" %}
-          <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">PDF</a></p>
+          <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">Patreon PDF</a></p>
         {% elsif l.pdf_version == "copyright" %}
           <p class="listing_may2021--pdf listing_may2021--pdf-copyright"><a href="{{ l.url | relative_url }}">PDF Currently Unavailable...</a></p>
         {% else %}

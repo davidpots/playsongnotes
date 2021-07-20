@@ -12,7 +12,12 @@ permalink: /songs/
 </p>
 
 
-{% include print-friendly-lessons-available.html %}
+<p class="tabs_may2021--secondary">
+  <strong>Sort by:</strong> <a href="/songs/recently-added">Recently Added</a> <a class="active" href="/songs">Artist</a> <a href="/songs/by-title">Title</a> <a href="/songs/by-year">Release Date</a>
+</p>
+
+
+
 {% assign number_of_pdfs = 0 %}
 {% assign songs_by_artist = site.lessons | where: "category", "full_song" | group_by: "artist" | sort: "name" %}
 

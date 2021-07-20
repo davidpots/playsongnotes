@@ -1,7 +1,7 @@
 ---
 layout: song
 
-title: '"Échame La Culpa" by Luis Fonsi and Demi Lovato'
+title: '"Echame La Culpa" by Luis Fonsi and Demi Lovato'
 song_title:  Echame La Culpa
 artist: Luis Fonsi
 year: 2017

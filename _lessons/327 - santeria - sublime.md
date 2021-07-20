@@ -4,7 +4,6 @@ title: '"Santeria" by Sublime (easy-strum version)'
 song_title: Santeria
 artist: Sublime
 year: 1996
-yt_video_id: 
 category: full_song
 slug: "327"
 tags: [Full Song Lesson, 1990s, Key of C, Rock]

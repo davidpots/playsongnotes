@@ -672,6 +672,27 @@ tr[data-pdf-v2="v1"] td {
   color: white;
 }
 
+      // Secondary tabs
+
+      .tabs_may2021--secondary {
+        border-bottom: 1px solid #ddd;
+        padding-top: 8px;
+        padding-bottom: 24px;
+      }
+      .tabs_may2021--secondary a {
+        text-decoration: none;
+        margin: 0 6px;
+      }
+      .tabs_may2021--secondary a.active {
+        border-bottom: 2px solid $link-color;
+      }
+
+
+
+
+
+
+
 
 // "Lessons" - listing design
 
@@ -746,6 +767,7 @@ tr[data-pdf-v2="v1"] td {
 
 .listing_may2021--pdf {
   margin-left: 178px;
+  margin-bottom: 4px;
 }
 
     @media only screen and (max-width: $breakpoint--mobile) {
@@ -762,6 +784,10 @@ tr[data-pdf-v2="v1"] td {
   color: #222;
   font-size: 11px;
   border-radius: 3px;
+}
+
+.listing_may2021--pdf.pdf--musicnotes a {
+  // background: #9FFFB8;
 }
 
     @media only screen and (max-width: $breakpoint--mobile) {
