@@ -20,19 +20,32 @@ permalink: /songs/recently-added
 
 
 
+{% comment %}
+  # ======================================================
+  # Figure out number of the latest lesson: latest_lesson_number
+  # ======================================================
+{% endcomment %}
+{% for i in (1..1000) reversed %}
+  {% assign song = site.lessons | where: 'slug', i %}
+  {% if song[0] %}
+    {% assign latest_lesson_number = song[0].slug %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
 
 <ul class="listing_may2021">
-  {% assign lessons = site.lessons | where: "category","full_song" | sort: 'slug' %}
-  {% for l in lessons reversed %}
-  {% if l.yt_video_id %}
+{% for l in (1..latest_lesson_number) reversed %}
+  {% assign song = site.lessons | where: 'slug', l %}
+
     <li>
-      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
-      <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
-      {% if l.pdf_version and l.pdf_version == "musicnotes" %}
-        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ l.url | relative_url }}">Sheet Music Available</a></p>
+      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{song[0].yt_video_id}}/mqdefault.jpg');"></div>
+      <h3 class="listing_may2021--title"><a href="{{ song[0].url | relative_url }}">{{ song[0].title }}</a></h3>
+      {% if song[0].pdf_version and song[0].pdf_version == "musicnotes" %}
+        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ song[0].url | relative_url }}">Sheet Music Available</a></p>
       {% endif %}
-      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
+      <p class="listing_may2021--meta">Lesson #{{ song[0].slug}}</p>
     </li>
-    {% endif %}
-  {% endfor %}
+
+{% endfor %}
 </ul>
