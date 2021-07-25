@@ -26,6 +26,15 @@ patreon_lesson_url: https://www.patreon.com/posts/54066073
 
 Hey friends! New lesson today on alternate picking - an essential strumming technique which is invaluable to have in your toolkit. I'll briefly explain the technique, and then walk you step-by-step through an example riff to help you get introduced with the continuous up & down strums, whether strumming or playing bass-line notes. Finally, I'll show you how you can practice this technique over a backing track I created just for this lesson.
 
+Video timestamps:
+
+- 0:00 Preview & Alternate Picking 101
+- 4:41 Figure 1: Bass Notes Only
+- 7:05 Figure 2: Strumming Only
+- 8:24 Figure 3: Combining Bass + Strumming
+- 9:48 Misc Tips & Advice
+- 11:56 Backing Track! Playing Along & Improv
+
 ## Backing track for this lesson
 
 Here's the backing track I made to accompany this lesson. It repeats one measure each of G-Am-C-D, played at 110bpm. You can also practice your G-major scale improvisation along with this backing track, as I demonstrate in the video above.
