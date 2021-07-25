@@ -46,6 +46,12 @@ layout: default
     {% capture lesson_head_subhead %}{% endcapture %}
   {% endif %}
 
+  {% if page.category == "backing_track" %}
+    {% assign lesson_head_prehead = "Backing Track" %}
+    {% assign lesson_head_title = page.title | escape %}
+    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}{% endcapture %}
+  {% endif %}
+
   <div class="lesson-head">
     <p class="lesson-head-prehead">{{ lesson_head_prehead }}</p>
     <h1 class="lesson-head-title">{{ lesson_head_title }}</h1>
