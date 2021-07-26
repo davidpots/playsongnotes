@@ -9,8 +9,8 @@ tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
 category: full_song
 slug: "309"
 date_published: 2020-07-04
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/T9MMw
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/38961604
