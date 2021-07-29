@@ -3,18 +3,6 @@ layout: page
 title: Print-friendly PDF Downloads for Song Notes guitar lessons - playsongnotes.com
 permalink: /downloads/
 ---
-  <!-- <div style="background: #FFA; padding: 16px; margin: 24px auto; max-width: 480px;">
-    <p style="margin: 0;"><strong>Psst... I just launched a Patreon page!</strong> Get print-friendly PDFs for each new lesson I make for only $3/month. <a href="https://www.patreon.com/songnotes">Learn more »</a></p>
-  </div> -->
-
-<div style="text-align: center;">
-  <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
-    <div style="position: relative; display: table; width: 100%;">
-      <input autofocus style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
-      <input type="submit" value="Search" id="search-button" style="float: left; width: 20%; max-width: 120px;">
-    </div>
-  </form>
-</div>
 
 
 <script src="/js/jquery.js"></script>

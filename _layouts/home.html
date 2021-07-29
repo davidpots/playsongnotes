@@ -2,22 +2,14 @@
 layout: default
 title: Song Notes by David Pots.
 ---
-{% include header-nav.html %}
+
+{% include header-nav--desktop.html %}
+{% include header-nav--mobile.html %}
 
 
 <div class="container--col-8">
 
   <h1 class="center mtxl mbl">Learn to play with easy-to-follow guitar lessons.</h1>
-
-<div style="text-align: center;">
-  <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
-    <div style="position: relative; display: table; width: 100%;">
-      <input autofocus style="font-size: 14px;  float: left; width: 80%;" type="text" id="search-box" name="query" placeholder="Search by song, artist, or lesson number">
-      <input type="submit" value="Search" id="search-button" style="float: left; width: 20%; max-width: 120px;">
-    </div>
-  </form>
-</div>
-
 
   <p class="center mbl">Easy-to-follow guitar lessons.<br />Made by @davidpots in Austin, TX.</p>
   <p class="center small">If these lessons are helpful to you, please <br />consider donating to the <a class="underline" href="https://paypal.me/songnotes">tip jar</a>. Thanks!</p>

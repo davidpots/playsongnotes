@@ -1,0 +1,48 @@
+<div class="header header--mobile">
+  <div class="header-top">
+    <div class="container clearfix">
+      <a class="header-logo" href="/"><img src="/images/logo/songnotes-logo-tall.svg" /></a>
+      <a class="header-nav-expand header-nav-expand--closed" href="">Menu</a>
+      <a class="header-search-icon" href=""><img src="/images/icons/search-white.svg" /></a>
+    </div>
+  </div>
+  <div class="header-bottom">
+    <div class="container clearfix">
+      {% include header-nav--search.html %}
+      {% include header-nav--main-links.html %}
+      {% include header-nav--cta.html %}
+      <!-- <h4>Get new lessons each week:</h4>
+      <ul class="header-sublinks">
+        <li><a href="">Subscribe on YouTube</a></li>
+        <li><a href="">Get my weekly email newsletter</a></li>
+        <li><a href="">Support me on Patreon</a></li>
+      </ul> -->
+      <h4>Social links:</h4>
+      {% include header-nav--social-links.html %}
+     </div>
+  </div>
+</div>
+
+<script src="/js/jquery.js"></script>
+<script>
+
+  $(document).ready(function(){
+     $('.header-nav-expand').click(function(){
+       if ( $(this).hasClass('header-nav-expand--closed') ) {
+         $(this).removeClass('header-nav-expand--closed').addClass('header-nav-expand--opened');
+         $('.header-bottom').show();
+       } else {
+         $(this).removeClass('header-nav-expand--opened').addClass('header-nav-expand--closed');
+         $('.header-bottom').hide();
+       }
+       return false;
+     });
+     $('.header-search-icon').click(function(){
+        $('.header-nav-expand').removeClass('header-nav-expand--closed').addClass('header-nav-expand--opened');
+        $('.header-bottom').show();
+        $('.header--mobile #header-search-input').focus();
+        return false;
+     });
+  });
+
+</script>

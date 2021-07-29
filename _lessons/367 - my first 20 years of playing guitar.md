@@ -12,8 +12,6 @@ patreon_lesson_url: https://www.patreon.com/posts/32888140 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2aUzpegK5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Editor's notes
-
 In this video I want to answer a question that many of you have asked, over the years: when did I start playing guitar? I'll not only answer that question, but also go pretty deep into my complete guitar playing story. My early attempts to learn, the various times I quit, what finally got me over the hump, what my big early inspirations were, ruts I've hit along the way, and finally -- a summary of all the big-picture lessons I've learned along the way.
 
 My goal in sharing all of this is to give you context on the path I've taken. To be honest, it hasn't been a straight line! There's been plenty of zig-zags, false starts, areas of frustration, and times in my live when I struggled to find guitar-playing footing. It's my hope that in detailing all of these travails, it may help you contextualize your own guitar playing journey.
