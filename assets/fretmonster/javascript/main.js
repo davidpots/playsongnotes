@@ -44,6 +44,8 @@
 
 var scales = {  'major'             : { 'name'    : 'major',
                                         'pattern' : 'o-o-oo-o-o-o' },
+                'major_flat7'       : { 'name'    : 'Major + ♭7',
+                                        'pattern' : 'o-o-oo-o-ooo' },
                 'minor_melodic'     : { 'name'    : 'melodic minor',
                                         'pattern' : 'o-oo-o-o-o-o' },
                 'minor_harmonic'    : { 'name'    : 'harmonic minor',
