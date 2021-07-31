@@ -3,7 +3,7 @@ layout: song
 title: 'Using flat-thirds and flat-sevenths to add GRIT to your playing'
 category: tip_technique
 slug: "361"
-tags: [Tips & Techniques, Key of C, Key of D, Walking Bass Lines]
+tags: [Tips & Techniques, Key of C, Key of D, Walking Bass Lines, Learning the Fretboard]
 hidden_tags: [fretmonster, fret monster, walkup, walkdown, walk ups, walk downs, walking, walk]
 date_published: 2021-04-25
 yt_video_id: BXg75Eu9x_0
