@@ -3,7 +3,7 @@ layout: song
 title: 'Guitar walk-ups and walk-downs, quickly explained'
 category: tip_technique
 slug: "342"
-tags: [Tips & Techniques, Key of C, Key of A, Learning Chords, Walking Bass Lines]
+tags: [Tips & Techniques, Key of C, Key of A, Learning the Fretboard, Walking Bass Lines]
 hidden_tags: [fretmonster, fret monster, walkup, walkdown, walk ups, walk downs, walking, walk]
 date_published: 2020-12-18
 yt_video_id: rmUCcfIvZSA

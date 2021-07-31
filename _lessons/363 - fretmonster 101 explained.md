@@ -3,7 +3,7 @@ layout: song
 title: 'How to use FretMonster to learn the scales, chords, triads, CAGED, and more'
 category: tip_technique
 slug: "363"
-tags: [Tips & Techniques, Learning Chords, Learning the Fretboard]
+tags: [Tips & Techniques, Learning the Fretboard]
 hidden_tags: [scales]
 date_published: 2021-05-07
 yt_video_id: Lj5c_cpWS9g
