@@ -2,6 +2,8 @@
 layout: page
 title: Print-friendly PDF Downloads for Song Notes guitar lessons - playsongnotes.com
 permalink: /downloads/
+redirect_from:
+- /join
 ---
 
 

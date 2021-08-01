@@ -4,8 +4,6 @@ title: 'How to get my "song" sheet music PDFs from Musicnotes'
 category: generic
 date_published: 2021-07-01
 yt_video_id: RxWflBXsmkU
-redirect_from:
-  - /musicnotes
 slug: "373"
 ---
 
