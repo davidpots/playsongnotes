@@ -26,4 +26,21 @@
   {% include google-analytics.html %}
   <!-- {% if jekyll.environment == 'production' and site.google_analytics %} -->
   <!-- {% endif %} -->
+
+
+  <script src="/js/jquery.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('.question-heading').click(function(){
+         if ( $(this).parent().hasClass('question-opened') ) {
+           $(this).parent().removeClass('question-opened');
+         } else {
+           $(this).parent().addClass('question-opened');
+         }
+         return false;
+      });
+    });
+  </script>
+
+
 </head>

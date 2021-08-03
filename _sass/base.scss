@@ -915,3 +915,36 @@ tr[data-pdf-v2="v1"] td {
   border: 1px solid #aaa;
   color: #888;
 }
+
+
+
+// FAQ module (Aug 2, 2021)
+
+.question-wrapper {
+  background: #FFF2D0;
+  padding: 24px;
+  border-radius: 6px;
+  margin: 0 0 12px 0;
+  .question-heading {
+    margin: 0 0 0 0;
+    text-decoration: underline;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  .question-body {
+    display: none;
+  }
+  .question-body :last-child {
+    margin-bottom: 0;
+  }
+  &.question-opened {
+    .question-heading {
+      text-decoration: none;
+      margin-bottom: 12px;
+    }
+    .question-body {
+      display: block;
+    }
+  }
+}

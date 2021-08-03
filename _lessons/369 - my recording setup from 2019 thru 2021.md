@@ -3,6 +3,7 @@ layout: song
 title: 'My YouTube Recording Setup: Camera, Mic, and Lighting'
 category: generic
 date_published: 2021-06-06
+tags: [gear, guitar, taylor]
 yt_video_id: zvoGaqIl2Ik
 redirect_from:
   - /gear
