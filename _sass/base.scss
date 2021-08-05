@@ -494,6 +494,13 @@ iframe {
   padding: 24px;
   overflow: hidden;
   width: auto;
+  &.pdf_module_v2--song {
+    background: $color-pdf-song;
+    border-color: $color-pdf-song--border;
+    .pdf_module_v2__headline span {
+      color: $color-pdf-song--icon;
+    }
+  }
 }
 .pdf_module_v2__image {
   float: left;
