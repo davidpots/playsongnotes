@@ -41,10 +41,11 @@ permalink: /songs/recently-added
     <li>
       <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{song[0].yt_video_id}}/mqdefault.jpg');"></div>
       <h3 class="listing_may2021--title"><a href="{{ song[0].url | relative_url }}">{{ song[0].title }}</a></h3>
+      <p class="listing_may2021--meta">Lesson #{{ song[0].slug}} {% if song[0].date_published %}• {{ song[0].date_published | date: '%b %-d, %Y' }}{% endif %}</p>
       {% if song[0].pdf_version and song[0].pdf_version == "musicnotes" %}
-        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ song[0].url | relative_url }}">Sheet Music Available</a></p>
+        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ song[0].url | relative_url }}"><span class='pdf-icon'>$</span> Sheet Music</a></p>
       {% endif %}
-      <p class="listing_may2021--meta">Lesson #{{ song[0].slug}}</p>
+
     </li>
   {% endif %}
 

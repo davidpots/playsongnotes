@@ -17,6 +17,12 @@ permalink: /search/
   {% endif %}
 {% endfor %}
 
+
+{% comment %}
+  # ======================================================
+  # Create a JSON object of all my lessons
+  # ======================================================
+{% endcomment %}
 <script src="/js/jquery.js"></script>
 <script>
 {% assign num_to_show = latest_lesson_number %}
@@ -94,8 +100,6 @@ $(document).ready(function(){
 </script>
 <script src="/js/search.js"></script>
 
-
-<!-- '<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p><p class="featured_label" data-patreon-url="' + lessons[i].patreon_url + '">PDF</p></li>' -->
 
 
 

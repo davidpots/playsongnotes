@@ -28,10 +28,11 @@ permalink: /songs/by-title
     <li>
       <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
       <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
+      <p class="listing_may2021--meta">Lesson #{{ l.slug}} {% if l.date_published %}• {{ l.date_published | date: '%b %-d, %Y' }}{% endif %}</p>
       {% if l.pdf_version and l.pdf_version == "musicnotes" %}
-        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ l.url | relative_url }}">Sheet Music Available</a></p>
+        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ l.url | relative_url }}"><span class='pdf-icon'>$</span> Sheet Music</a></p>
       {% endif %}
-      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
+
     </li>
     {% endif %}
   {% endfor %}

@@ -302,7 +302,7 @@
   position: relative;
   border-radius: 2px;
   h3 {
-    margin: 0 72px 0 0;
+    margin: 0 90px 0 0;
     a {
       color: #000;
       display: block;
@@ -317,20 +317,31 @@
     font-size: 13px;
     color: #aaa;
   }
-  p.featured_label {
+  p.pdf-badge {
     position: absolute;
     top: 12px;
     right: 12px;
     display: inline-block;
     color: #000;
-    background: #FEDC45;
-    font-weight: bold;
     padding: 2px 5px;
     font-size: 11px;
   }
-  p.featured_label[data-patreon-url=""],
-  p.featured_label[data-pdf-version="copyright"],
-   {
+  p.pdf-badge[data-pdf-version="v2"],
+  p.pdf-badge[data-pdf-version="v1"] {
+    background-color: $color-pdf-patreon;
+    .pdf-icon {
+      color: $color-pdf-patreon--icon;
+    }
+  }
+  p.pdf-badge[data-pdf-version="musicnotes"] {
+    background-color: $color-pdf-song;
+    .pdf-icon {
+      color: $color-pdf-song--icon;
+    }
+  }
+
+  p.pdf-badge[data-patreon-url=""],
+  p.pdf-badge[data-pdf-version="copyright"] {
     opacity: .1;
     cursor: default;
   }
@@ -817,7 +828,7 @@ tr[data-pdf-v2="v1"] td {
   padding-top: 12px;
   border-top: 1px solid #ddd;
   position: relative;
-  min-height: 106px;
+  min-height: 120px;
 }
 
     @media only screen and (max-width: $breakpoint--mobile) {
@@ -885,16 +896,18 @@ tr[data-pdf-v2="v1"] td {
 
 .listing_may2021--pdf a {
   text-decoration: none;
-  background: #FEDC45;
+  background: $color-pdf-patreon;
   display: inline-block;
   padding: 2px 5px;
   color: #222;
   font-size: 11px;
   border-radius: 3px;
+  .pdf-icon { color: $color-pdf-patreon--icon; }
 }
 
 .listing_may2021--pdf.pdf--musicnotes a {
-  // background: #9FFFB8;
+  background: $color-pdf-song;
+  .pdf-icon { color: $color-pdf-song--icon; padding: 0 2px; }
 }
 
     @media only screen and (max-width: $breakpoint--mobile) {

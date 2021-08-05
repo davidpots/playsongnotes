@@ -59,12 +59,20 @@ function runSearch(searchTerm) {
         ) {
 
           if ( lessons[i].pdf_version == "musicnotes" ) {
-            pdf_badge = "<p class=\"featured_label\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].musicnotes_url + "\">$ PDF</p>";
+            pdf_badge = "<p class=\"pdf-badge\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].musicnotes_url + "\"><span class='pdf-icon'>$</span> Sheet Music</p>";
+          } else if ( lessons[i].pdf_version == "v2" || lessons[i].pdf_version == "v1" ) {
+            pdf_badge = "<p class=\"pdf-badge\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].patreon_url + "\"><span class='pdf-icon'>★</span> Patreon PDF</p>";
           } else {
-            pdf_badge = "<p class=\"featured_label\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].patreon_url + "\">PDF</p>";
+            pdf_badge = "";
           }
 
-        $('#search-results').append('<li class="song-listing"><h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3><p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p>' + pdf_badge + '</li>');
+        var searchEntryToInsert = '<li class="song-listing">\
+                                    <h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3>\
+                                    <p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p>\
+                                    <span>' + pdf_badge + '</span>\
+                                   </li>';
+
+        $('#search-results').append( searchEntryToInsert );
       }
 
     }
