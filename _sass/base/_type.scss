@@ -1,4 +1,26 @@
 //  ----------------------------------------------------------------------------
+//  Type Variables
+//  ----------------------------------------------------------------------------
+
+        $font-family--default:    'IBM Plex Sans', sans-serif;
+        $font-family--narrow:     'IBM Plex Sans Condensed', sans-serif;
+        $font-family--monospace:  Consolas, Courier, monospace;
+
+        $font-weight--normal:     300;
+        $font-weight--strong:     700;
+
+        $font-size--xxxlarge:     2.5rem;
+        $font-size--xxlarge:      2rem;
+        $font-size--xlarge:       1.5rem;
+        $font-size--large:        1.25rem;
+        $font-size--normal:       1rem;
+        $font-size--small:        .875rem;
+        $font-size--xsmall:       .750rem;
+
+        $line-height--normal:     1.4;
+        $line-height--heading:    1.25;
+
+//  ----------------------------------------------------------------------------
 //  General
 //  ----------------------------------------------------------------------------
 
@@ -26,7 +48,7 @@
 
         // Headings
         h1,h2,h3,h4,h5,h6 {
-          font-family:   $font-family--bold;
+          font-weight:   bold;
           color:         $font-color--strong;
           font-weight:   $font-weight--strong;
           margin-top:    $space--medium;
@@ -122,8 +144,9 @@
 
         strong,
         .strong,
-        .bold           { font-family: $font-family--bold; }
+        .bold           { font-weight: bold; }
         .weak           { color: $gray-light; }
+        .narrow         { font-family: $font-family--narrow; }
         .normal         { font-family: $font-weight--normal; }
         .mono           { font-family: $font-family--monospace; }
         .italic         { font-style: italic; }

@@ -3,16 +3,19 @@
 // Import partials.
 @import
   "base/reset",
-  "base/fonts",
   "base/colors",
   "base/variables",
+  "base/type",
   "base/utility",
   "base/spacing",
-  "base/grid",
-  "base/type"
+  "base/grid"
 ;
 
 // Header styling
+
+    .header {
+      font-family: $font-family--narrow;
+    }
 
     @media only screen and (max-width: 750px) {
       .header--desktop { display: none; }
@@ -100,7 +103,7 @@
           text-decoration: none;
           line-height: 48px;
           color: #2953CD;
-          font-family: $font-family--bold;
+          font-weight: bold;
         }
         .header-nav-links li:last-child a {
           border-bottom: 1px solid #ddd;
@@ -118,7 +121,7 @@
           margin-bottom: 16px;
           padding: 0 16px;
           text-decoration: none;
-          font-family: $font-family--bold;
+          font-weight: bold;
           text-align: center;
         }
         /*--- */
@@ -649,7 +652,7 @@ tr[data-pdf-v2="v1"] td {
 }
 
 #all_lessons_list td a {
-  font-family:   $font-family--bold;
+  font-weight: bold;
   color: black;
   text-decoration: none;
 }
@@ -687,7 +690,7 @@ tr[data-pdf-v2="v1"] td {
   background: white;
   border: 1px solid #aaa;
   padding: 8px 16px;
-  font-family: $font-family--bold;
+  font-weight: bold;
   color: #0074D9;
   font-size: 14px;
   text-decoration: none;
@@ -777,8 +780,7 @@ tr[data-pdf-v2="v1"] td {
   border-radius: 1345px;
   text-transform: uppercase;
   font-size: 13px;
-  font-family: $font-family--bold;
-  font-weight: normal;
+  font-weight: bold;
   margin-right: 5px;
   margin-bottom: 8px;
 }
