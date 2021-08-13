@@ -4,10 +4,10 @@ title: 'Patreon Q&A (August 2021)'
 category: tip_technique
 slug: "383"
 tags: [Tips & Techniques, Strumming, Learning Chords, Questions & Answers]
-date_published: 2021-08-12
+date_published: 2021-08-13
 yt_video_id: nMsgoQIzqhM
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/54066073
+patreon_lesson_url: https://www.patreon.com/posts/54874926
 ---
 
 <!-- https://youtu.be/nMsgoQIzqhM -->
