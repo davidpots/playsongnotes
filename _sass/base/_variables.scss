@@ -1,11 +1,3 @@
-
-
-        $font-color--default:     $gray;
-        $font-color--strong:      $gray-dark;
-        $font-color--weak:        $gray-light;
-
-        $link-color:              $blue;
-
 //  ----------------------------------------------------------------------------
 //  Song Notes branding colors
 //  ----------------------------------------------------------------------------
@@ -17,6 +9,28 @@
         $color-pdf-patreon: #FEF4BD;
         $color-pdf-patreon--border: #F2E6AB;
         $color-pdf-patreon--icon: #CCC085;
+
+
+        $color-black: #222;
+        $color-gray: #999;
+
+
+
+
+
+
+
+
+
+/** ---- everything below is old / before 2021 ----- **/
+
+        $font-color--default:     $gray;
+        $font-color--strong:      $gray-dark;
+        $font-color--weak:        $gray-light;
+
+        $link-color:              $blue;
+
+
 
 
 //  ----------------------------------------------------------------------------
@@ -31,7 +45,7 @@
         $breakpoint--desktop: 48em; // 960px
 
         // Grid
-        $grid--max-width: 54rem; // 864px
+        $grid--max-width: 60rem; // 864px
         $grid--gutter: 1.5 * $space;
 
         // Spacing (for margin & padding)

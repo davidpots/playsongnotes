@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 'Which guitar pick I use & why'
+title: 'Q&A: Which guitar pick I use & why'
 category: tip_technique
 slug: "300"
 tags: [Tips & Techniques, Strumming, Questions & Answers]

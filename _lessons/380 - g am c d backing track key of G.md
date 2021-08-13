@@ -6,8 +6,6 @@ slug: "380"
 tags: [Backing Track, Key of G]
 date_published: 2021-07-24
 yt_video_id: CQbPQ0ssX4s
-pdf_version: v2
-pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/54078766
 ---

@@ -8,6 +8,7 @@
           .container--col-6,
           .container--col-8,
           .container--col-10,
+          .container--col-16,
           .container,
           .container--full {
             max-width: $grid--max-width;
@@ -29,6 +30,9 @@
           }
 
           // Centered single columns
+          .container--col-16 {
+            max-width: (16/12 * ($grid--max-width + $grid--gutter)) - $grid--gutter;
+          }
           .container--col-10 {
             max-width: (10/12 * ($grid--max-width + $grid--gutter)) - $grid--gutter;
           }

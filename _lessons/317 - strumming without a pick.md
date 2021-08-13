@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 'Strumming without a guitar pick'
+title: 'Q&A: How to strumming without a guitar pick'
 category: tip_technique
 slug: "317"
 tags: [Tips & Techniques, Strumming, Questions & Answers]

@@ -1,8 +1,9 @@
 ---
 layout: song
-title: 'Rapid-fire Q&A: Up-strums, tricky rhythms, muting with your thumb, and more'
+title: 'Q&A: Up-strums, tricky rhythms, muting with your thumb, and more'
 category: generic
 date_published: 2020-09-12
+tags: [Questions & Answers]
 slug: "329"
 yt_video_id: mQ67cZvN4h4
 ---

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 'Travis Picking vs. "Normal" Fingerstyle'
+title: 'Q&A: Travis Picking vs. "Normal" Fingerstyle'
 category: tip_technique
 slug: "302"
 tags: [Tips & Techniques, Fingerstyle, Travis Picking, Questions & Answers, Key of C]

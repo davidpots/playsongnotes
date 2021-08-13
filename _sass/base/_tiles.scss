@@ -1,0 +1,90 @@
+.tile {
+  border-radius: 6px;
+  box-shadow: 0px 3px 16px rgba(0,0,0,0.08);
+  // font-family: $font-family--narrow;
+}
+
+.tile-wrapper {
+  text-align: center;
+}
+
+// Tile - Portrait
+
+.tile.tile-portrait {
+  padding: 0 16px 16px;
+}
+
+// Tile - Landscape
+
+.tile.tile-landscape {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+  background: none;
+  box-shadow: none;
+  border-radius: none;
+  margin-right: 18px;
+  max-width: 290px;
+  margin-bottom: 60px;
+  .tile-head p {
+    font-size: 13px;
+    color: $color-gray;
+    margin: 0 0 6px 0;
+  }
+  .tile-media a {
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    img {
+      width: 100%;
+      display: block;
+    }
+  }
+  .tile-body {
+    padding: 8px 0 0 0;
+    position: relative;
+    .tile-title {
+      margin: 0 0 4px 0;
+      padding: 0;
+      a {
+        color: $color-black;
+        text-decoration: none;
+        font-size: 18px;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+    .tile-meta {
+      font-size: 13px;
+      color: $color-gray;
+      margin: 0 0 4px 0;
+      a {
+        color: $color-gray;
+      }
+    }
+    .tile-description {
+      font-size: 13px;
+      margin: 0 0 8px 0;
+    }
+    .tile-badge {
+      margin: 8px 0 0 0;
+    }
+  }
+}
+
+      @media only screen and (max-width: 750px) {
+        .tile.tile-landscape {
+          max-width: 100%;
+          margin-right: 0;
+          margin-bottom: 48px;
+        }
+      }
+
+
+
+// Tile - Wide
+
+.tile.tile-wide {
+  padding: 16px;
+}

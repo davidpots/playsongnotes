@@ -1,0 +1,26 @@
+.pdf-badge {
+  text-decoration: none;
+  display: inline-block;
+  padding: 3px 5px;
+  color: #222;
+  font-size: 11px;
+  border-radius: 3px;
+}
+
+.pdf-badge[data-pdf-version="v1"],
+.pdf-badge[data-pdf-version="v2"] {
+  background: $color-pdf-patreon;
+  .pdf-icon { color: $color-pdf-patreon--icon; padding: 0 2px; }
+}
+
+.pdf-badge[data-pdf-version="musicnotes"] {
+  background: $color-pdf-song;
+  .pdf-icon { color: $color-pdf-song--icon; padding: 0 2px; }
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .pdf-badge a {
+        font-size: 11px;
+        padding: 1px 3px;
+      }
+    }
