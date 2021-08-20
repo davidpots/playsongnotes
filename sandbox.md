@@ -6,6 +6,24 @@ permalink: /sandbox/
 
 <!-- &nbsp;&nbsp;•&nbsp;&nbsp;{{ l.date_published | date: '%b %-d, %Y' }} -->
 
+<!-- <div class="tile-wrapper clearfix">
+  <div class="tile tile-landscape">
+    <div class="tile-head">
+      <p>July 4, 2021</p>
+    </div>
+    <div class="tile-media">
+      <a href="_______"><img src="http://img.youtube.com/vi/________/maxresdefault.jpg" /></a>
+    </div>
+    <div class="tile-body">
+      <h3 class="tile-title"><a href="_______">_______</a></h3>
+      <p class="tile-meta">by <a href="_______">_______</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #_______</p>
+      <p class="tile-description">_______</p>
+        <p class="tile-badge"><a class="pdf-badge" data-pdf-version="musicnotes" href="_______"><span class='pdf-icon'>$</span> Sheet Music</a></p>
+        <p class="tile-badge"><a class="pdf-badge" data-pdf-version="v2" href="_______"><span class='pdf-icon'>★</span> Patreon PDF</a></p>
+    </div>
+  </div>
+</div> -->
+
 ## Aug 2021 stuff
 
 
