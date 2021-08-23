@@ -12,7 +12,7 @@ yt_video_id: SSv0ZxZQnxs
 slug: "114"
 redirect_from:
   - /songs/janis-joplin-me-and-bobby-mcgee/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27233343

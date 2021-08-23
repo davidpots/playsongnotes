@@ -11,7 +11,7 @@ tags: [Full Song Lesson, 1960s, Folk, Classic Rock, Key of C]
 yt_video_id: ovnhfQkUXkc
 redirect_from:
   - /songs/bob-dylan-like-a-rolling-sone/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25634912

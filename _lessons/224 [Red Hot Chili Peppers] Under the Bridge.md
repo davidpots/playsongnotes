@@ -11,7 +11,7 @@ tags: [Full Song Lesson, Key of D, Rock, 1990s]
 slug: "224"
 redirect_from:
   - /songs/red-hot-chili-peppers-under-the-bridge/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25250503

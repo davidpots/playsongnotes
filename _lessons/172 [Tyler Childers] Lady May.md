@@ -11,7 +11,7 @@ yt_video_id: bmRLWIJ2dLc
 slug: "172"
 redirect_from:
   - /songs/tyler-childers-lady-may/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21287497

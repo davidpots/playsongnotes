@@ -11,7 +11,7 @@ yt_video_id: NpGEmNv265Q
 slug: "128"
 redirect_from:
   - /songs/greatest-showman-a-million-dreams/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24994190

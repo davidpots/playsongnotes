@@ -14,7 +14,7 @@ yt_video_id: jROWArwvnnI
 slug: "79"
 redirect_from:
   - /songs/townes-van-zandt-dead-flowers/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23634325

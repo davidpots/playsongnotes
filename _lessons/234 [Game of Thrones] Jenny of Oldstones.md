@@ -10,7 +10,7 @@ tags: [Full Song Lesson, 2010s, Key of C, Movie Songs, Walking Bass Lines]
 slug: "234"
 redirect_from:
   - /songs/game-of-thrones-jenny-of-oldstones/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26303236

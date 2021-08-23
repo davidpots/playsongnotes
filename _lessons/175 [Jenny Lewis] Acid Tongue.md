@@ -11,7 +11,7 @@ yt_video_id: 2dzhnN_wsQ8
 slug: "175"
 redirect_from:
   - /songs/jenny-lewis-acid-tongue/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21567003

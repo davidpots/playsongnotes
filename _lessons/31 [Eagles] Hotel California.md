@@ -10,7 +10,7 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Pinky Stretch]
 slug: "31"
 redirect_from:
   - /songs/eagles-hotel-california/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20970359

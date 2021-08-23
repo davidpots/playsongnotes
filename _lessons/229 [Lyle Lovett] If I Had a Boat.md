@@ -12,7 +12,7 @@ yt_video_id: ARbzq1KwPaY
 slug: "229"
 redirect_from:
   - /songs/lyle-lovett-if-i-had-a-boat/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26032668

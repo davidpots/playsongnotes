@@ -6,7 +6,7 @@ song_title:  Highwayman
 artist: The Highwaymen
 year: 1985
 tags: [Full Song Lesson, Play-Along Cover, 1980s, Country, Key of D, Ukulele]
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24575218

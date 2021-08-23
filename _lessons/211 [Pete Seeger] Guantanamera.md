@@ -11,7 +11,7 @@ slug: "211"
 tags: [Full Song Lesson, Key of A, Folk, 1960s]
 redirect_from:
   - /songs/pete-seeger-guantanamera/
-pdf_version: v1
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24356142
