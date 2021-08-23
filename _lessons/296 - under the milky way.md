@@ -9,7 +9,7 @@ category: full_song
 slug: "296"
 yt_video_id: apK0ORMWbzY
 date_published: 2020-04-19
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/36165070

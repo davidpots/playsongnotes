@@ -11,7 +11,7 @@ yt_video_id: KRjqZT3OgR4
 slug: "129"
 redirect_from:
   - /songs/coco-remember-me/
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31611592

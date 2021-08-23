@@ -9,7 +9,7 @@ category: full_song
 slug: "305"
 yt_video_id: ihr-5xXSvrk
 date_published: 2020-06-07
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 5
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37982462

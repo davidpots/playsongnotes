@@ -10,15 +10,11 @@ hidden_tags: [Doc Watson, Marcus King]
 yt_video_id: YSYiHNd9GK4
 date_published: 2020-01-14
 slug: "279"
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39956339
 ---
-
-
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Video lessons
 
@@ -48,6 +44,8 @@ Timestamps:
 - 12:32 Runs & fills tab (measures 9-16)
 - 13:56 Full playthrough (measures 1-16)
 - 14:39 Farewell & final tips
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 

@@ -9,7 +9,7 @@ category: full_song
 slug: "310"
 yt_video_id: qzvoEPjtL3Q
 date_published: 2020-07-10
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39197676

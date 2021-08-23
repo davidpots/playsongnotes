@@ -8,11 +8,10 @@ category: full_song
 slug: "337"
 yt_video_id: 4FagwWQN2eE
 tags: [Full Song Lesson, 2010s, Key of G, Country]
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/43922050
-#pdf_for_sale: https://gum.co/QeliTS
 ---
 
 

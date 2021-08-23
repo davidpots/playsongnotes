@@ -4,7 +4,7 @@ title: '"The Wind" by Cat Stevens'
 song_title:  The Wind
 artist: Cat Stevens
 year: 1971
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29562940

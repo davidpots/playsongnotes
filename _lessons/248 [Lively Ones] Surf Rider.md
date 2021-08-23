@@ -12,7 +12,7 @@ yt_video_id: bsKlf0yQ4h8
 slug: "248"
 redirect_from:
   - /songs/lively-ones-surf-rider/
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28613126

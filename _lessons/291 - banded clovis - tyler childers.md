@@ -9,7 +9,7 @@ category: full_song
 slug: "291"
 yt_video_id: TTDV1wownpI
 date_published: 2020-03-22
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35143105

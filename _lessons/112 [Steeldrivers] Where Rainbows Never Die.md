@@ -12,7 +12,7 @@ hidden_tags: [Chris Stapleton]
 slug: "112"
 redirect_from:
   - /songs/steeldrivers-where-rainbows-never-die/
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31705934

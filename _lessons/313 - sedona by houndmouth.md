@@ -8,7 +8,7 @@ category: full_song
 slug: "313"
 yt_video_id: SyahJJ332uk
 tags: [Full Song Lesson, 2010s, Key of C, Rock]
-pdf_version: v2
+pdf_version: copyright
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/40261866

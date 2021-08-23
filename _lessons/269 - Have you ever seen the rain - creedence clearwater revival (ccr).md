@@ -9,7 +9,9 @@ yt_video_id: h1O1RPrzNLI
 slug: "269"
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
 hidden_tags: CCR, creedance
-pdf_version: v2
+pdf_version: copyright
+redirect_from:
+  - /lessons/270
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32143542
