@@ -3,7 +3,7 @@ layout: song
 title: 'Understanding the 12 notes (Practical Music Theory Ep. 1)'
 category: tip_technique
 slug: "356"
-tags: [Tips & Techniques]
+tags: [Tips & Techniques, Music Theory]
 hidden_tags: [theory, practical music theory]
 date_published: 2021-03-26
 yt_video_id: XAcd1LxMRHU
