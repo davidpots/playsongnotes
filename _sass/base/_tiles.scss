@@ -4,6 +4,59 @@
   // font-family: $font-family--narrow;
 }
 
+// Universal
+
+        .tile-media a {
+          display: block;
+          border-radius: 4px;
+          overflow: hidden;
+          img {
+            width: 100%;
+            display: block;
+          }
+        }
+        .tile-title {
+          margin: 0 0 4px 0;
+          padding: 0;
+          a {
+            color: $color-black;
+            text-decoration: none;
+            font-size: 18px;
+            &:hover {
+              text-decoration: underline;
+            }
+          }
+        }
+        .tile-meta {
+          font-size: 13px;
+          color: $color-gray;
+          margin: 0 0 4px 0;
+          a {
+            color: $color-gray;
+          }
+        }
+        .tile-description {
+          font-size: 13px;
+          margin: 0 0 8px 0;
+        }
+        .tile-badge {
+          margin: 8px 0 0 0;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .tile-wrapper {
   text-align: center;
 }
@@ -31,45 +84,9 @@
     color: $color-gray;
     margin: 0 0 6px 0;
   }
-  .tile-media a {
-    display: block;
-    border-radius: 4px;
-    overflow: hidden;
-    img {
-      width: 100%;
-      display: block;
-    }
-  }
   .tile-body {
     padding: 8px 0 0 0;
     position: relative;
-    .tile-title {
-      margin: 0 0 4px 0;
-      padding: 0;
-      a {
-        color: $color-black;
-        text-decoration: none;
-        font-size: 18px;
-        &:hover {
-          text-decoration: underline;
-        }
-      }
-    }
-    .tile-meta {
-      font-size: 13px;
-      color: $color-gray;
-      margin: 0 0 4px 0;
-      a {
-        color: $color-gray;
-      }
-    }
-    .tile-description {
-      font-size: 13px;
-      margin: 0 0 8px 0;
-    }
-    .tile-badge {
-      margin: 8px 0 0 0;
-    }
   }
 }
 
@@ -88,3 +105,84 @@
 .tile.tile-wide {
   padding: 16px;
 }
+
+
+.tile.tile-wide {
+  margin: 0 0 8px 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  min-height: 120px;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .tile.tile-wide {
+        min-height: 100px;
+      }
+    }
+
+.tile.tile-wide .tile-media {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  background-repeat: no-repeat;
+  background-size: 166px 94px;
+  width: 166px; height: 94px;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .tile.tile-wide .tile-media {
+        background-size: 130px 73px;
+        width: 130px; height: 73px;
+      }
+    }
+
+.tile.tile-wide .tile-body {
+  padding-top: 12px;
+  padding-left: 12px;
+}
+
+.tile.tile-wide .tile-title {
+  margin-top: 2px;
+  margin-bottom: 4px;
+  margin-left: 178px;
+  font-family: $font-family--narrow;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .tile.tile-wide .tile-title {
+        margin-top: 2px;
+        margin-bottom: 2px;
+        margin-left: 142px;
+        a {
+          font-size: 16px;
+        }
+      }
+    }
+
+.tile.tile-wide .tile-meta {
+  font-size: 14px;
+  margin-bottom: 5px;
+  margin-left: 178px;
+  font-family: $font-family--narrow;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .tile.tile-wide .tile-meta {
+        font-size: 12px;
+        margin-bottom: 0px;
+        margin-left: 142px;
+      }
+    }
+
+.tile.tile-wide .tile-badge {
+  margin-left: 178px;
+  font-family: $font-family--narrow;
+}
+
+    @media only screen and (max-width: $breakpoint--mobile) {
+      .tile.tile-wide .tile-badge {
+        margin-left: 142px;
+        margin-top: 4px;
+      }
+    }
