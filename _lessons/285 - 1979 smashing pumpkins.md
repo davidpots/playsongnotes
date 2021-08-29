@@ -6,6 +6,7 @@ artist: The Smashing Pumpkins
 year: 1995
 category: full_song
 tags: [Full Song Lesson, Key of E, 1990s, Rock]
+hidden_tags: [287]
 hidden_tags: [Billy Corgan]
 slug: "285"
 yt_video_id: YUeOl2tFVbY

@@ -6,7 +6,7 @@ artist: Billy Strings
 year: 2019
 category: full_song
 tags: [Full Song Lesson, Key of G, 2010s, Soul, Country]
-hidden_tags: [Doc Watson, Marcus King]
+hidden_tags: [Doc Watson, Marcus King, 316]
 yt_video_id: YSYiHNd9GK4
 date_published: 2020-01-14
 redirect_from:
