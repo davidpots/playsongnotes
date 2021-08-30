@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: PJyM26qPOHg
 slug: "216"
 tags: [Full Song Lesson, 1920s, Blues, Key of Am]
+hidden_tags: [st]
 redirect_from:
   - /songs/traditional-st-james-infirmary-blues/
 pdf_version: v1
