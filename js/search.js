@@ -16,7 +16,7 @@
 
 
 function updateSearchHeading() {
-  $('#numResultsFound').html( $('#search-results li').length);
+  $('#numResultsFound').html( $('#search-results .search-item').length);
   $('#searchQuery').text("\"" + searchQueryText + "\"");
   $('#yesQueryPrompt').show();
 }
@@ -59,18 +59,35 @@ function runSearch(searchTerm) {
         ) {
 
           if ( lessons[i].pdf_version == "musicnotes" ) {
-            pdf_badge = "<p class=\"pdf-badge\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].musicnotes_url + "\"><span class='pdf-icon'>$</span> Sheet Music</p>";
+            // pdf_badge = "<p class=\"pdf-badge\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].musicnotes_url + "\"><span class='pdf-icon'>$</span> Sheet Music</p>";
+            pdf_badge = "<a class=\"pdf-badge\" data-pdf-version=\"musicnotes\" href=\""+ lessons[i].url + "\"><span class=\"pdf-icon\">$</span> Sheet Music</a>";
+
           } else if ( lessons[i].pdf_version == "v2" || lessons[i].pdf_version == "v1" ) {
-            pdf_badge = "<p class=\"pdf-badge\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].patreon_url + "\"><span class='pdf-icon'>★</span> Patreon PDF</p>";
+            // pdf_badge = "<p class=\"pdf-badge\" data-pdf-version=\"" + lessons[i].pdf_version + "\" data-patreon-url=\"" + lessons[i].patreon_url + "\"><span class='pdf-icon'>★</span> Patreon PDF</p>";
+            pdf_badge = "<a class=\"pdf-badge\" data-pdf-version=\""+ lessons[i].pdf_version + "\" href=\""+ lessons[i].url + "\"><span class=\"pdf-icon\">★</span> Patreon PDF</a>";
           } else {
             pdf_badge = "";
           }
 
-        var searchEntryToInsert = '<li class="song-listing">\
-                                    <h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3>\
-                                    <p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p>\
-                                    <span>' + pdf_badge + '</span>\
-                                   </li>';
+
+
+        //
+        // var searchEntryToInsert = '<li class="song-listing">\
+        //                             <h3><a href="'+ lessons[i].url +'"><span>'+ lessons[i].title +'</span></a></h3>\
+        //                             <p>Lesson #'+ lessons[i].slug +' • '+ lessons[i].category +'</p>\
+        //                             <span>' + pdf_badge + '</span>\
+        //                            </li>';
+
+        var searchEntryToInsert = '<div class="search-item tile tile-wide">\
+                                      <div class="tile-media">\
+                                        <a href="' + lessons[i].url + '"><img src="http://img.youtube.com/vi/' + lessons[i].yt_video_id + '/maxresdefault.jpg" /></a>\
+                                      </div>\
+                                      <div class="tile-body">\
+                                        <h3 class="tile-title"><a href="' + lessons[i].url + '">' + lessons[i].title + '</a></h3>\
+                                        <p class="tile-meta"><a href="' + '/search/?query=' + lessons[i].category  + '">'+ lessons[i].category +'</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #'+ lessons[i].slug +'</p>\
+                                        <p class="tile-badge">' + pdf_badge + '</p>\
+                                      </div>\
+                                   </div>';
 
         $('#search-results').append( searchEntryToInsert );
       }
