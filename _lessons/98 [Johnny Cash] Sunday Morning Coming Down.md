@@ -42,42 +42,44 @@ To play along with Kris Kristofferson's version, use a capo on the 2nd fret. To 
 
 Key of G, 156 BPM.
 
-            G                              C              D                G
-    Well, I woke up Sunday morning with no way to hold my head that didn't hurt
-            G                               Em                          D
-    And the beer I had for breakfast wasn't bad so I had one more for dessert
-           G                               C                                   G       Em
-    Then I fumbled in my closet through my clothes and found my cleanest dirty shirt
-           C                  D                C                      D
-    Then I washed my face and combed my hair ...and stumbled down the steps to meet the day
+    See sheet music for the lyrics with chords.
 
-        G                                     C                D              G
-    I'd smoked my mind the night before with... cigarettes and songs I'd been picking
-          G                                    Em                                     D
-    But I lit my first and watched a small kid playing playing with a can that he was kicking
-           G                                       C                                G         Em
-    Then I walked across the street and caught the Sunday smell of someone's frying chicken
-                 C               D                  C                   D                G
-    And Lord, it took me back to something that I'd lost somewhere, somehow... along the way
+<!-- G                              C              D                G
+Well, I woke up Sunday morning with no way to hold my head that didn't hurt
+        G                               Em                          D
+And the beer I had for breakfast wasn't bad so I had one more for dessert
+       G                               C                                   G       Em
+Then I fumbled in my closet through my clothes and found my cleanest dirty shirt
+       C                  D                C                      D
+Then I washed my face and combed my hair ...and stumbled down the steps to meet the day
 
-            G                      C                                      G
-            ...On a Sunday morning sidewalk I'm wishing, Lord, that I was stoned
-                                          D                               G
-            'Cause there's something in a Sunday that makes a body feel alone
-                                         C                                    G
-            And there's nothing short of dying that's half as lonesome as the sound
-                                 D                                  G
-            Of the sleeping city sidewalk and Sunday morning coming down
+    G                                     C                D              G
+I'd smoked my mind the night before with... cigarettes and songs I'd been picking
+      G                                    Em                                     D
+But I lit my first and watched a small kid playing playing with a can that he was kicking
+       G                                       C                                G         Em
+Then I walked across the street and caught the Sunday smell of someone's frying chicken
+             C               D                  C                   D                G
+And Lord, it took me back to something that I'd lost somewhere, somehow... along the way
 
-    In the [G] park I saw a daddy with a [C] laughing little [D] girl that he was [G] swinging
-    And I [G] stopped beside a Sunday school and [Em] listened to the songs they were [D] singing
-    Then I [G] headed down the street and somewhere [C] far away a lonely bell was [G] ringing [Em]
-    And it [C] echoed through the [D] canyons like the [C] disappearing dreams of yester[D]day
+        G                      C                                      G
+        ...On a Sunday morning sidewalk I'm wishing, Lord, that I was stoned
+                                      D                               G
+        'Cause there's something in a Sunday that makes a body feel alone
+                                     C                                    G
+        And there's nothing short of dying that's half as lonesome as the sound
+                             D                                  G
+        Of the sleeping city sidewalk and Sunday morning coming down
 
-            [G]...On a Sunday morning [C] sidewalk I'm wishing, Lord, that I was [G] stoned
-            'Cause there's [G] something in a [D] Sunday that makes a body feel [G] alone
-            And there's [G] nothing short of [C] dying that's half as lonesome as the [G] sound
-            Of the [G] sleeping city [D] sidewalk and Sunday morning coming [G] down
+In the [G] park I saw a daddy with a [C] laughing little [D] girl that he was [G] swinging
+And I [G] stopped beside a Sunday school and [Em] listened to the songs they were [D] singing
+Then I [G] headed down the street and somewhere [C] far away a lonely bell was [G] ringing [Em]
+And it [C] echoed through the [D] canyons like the [C] disappearing dreams of yester[D]day
+
+        [G]...On a Sunday morning [C] sidewalk I'm wishing, Lord, that I was [G] stoned
+        'Cause there's [G] something in a [D] Sunday that makes a body feel [G] alone
+        And there's [G] nothing short of [C] dying that's half as lonesome as the [G] sound
+        Of the [G] sleeping city [D] sidewalk and Sunday morning coming [G] down -->
 
 
 ## Chords needed
@@ -89,8 +91,6 @@ Key of G, 156 BPM.
     A ––––2–––––2–––––3–––––––––––
     E ––––3–––––0–––––––––––––––––
           G     Em    C     D
-
-
 
 ## Walkdown riffs
 
@@ -114,7 +114,7 @@ From D to G:
     E ||–––––––––––––––––––––––––––––––––––––3––3––––
               D     D/C      D/B      D/A       G
 
-## Strumming with alternating bass note
+## Strumming with alternating bass notes
 
     E ||–––––3–3–––––3–3––––3–3–––––3–3––––
     B ||–––––3–3–––––3–3––––3–3–––––3–3––––
@@ -150,7 +150,7 @@ From D to G:
 
 ## Chord progressions
 
-See my PDF for the verse and chorus chord progression diagram.
+    See my PDF for the verse and chorus chord progression diagram.
 
 ## Good luck!
 
