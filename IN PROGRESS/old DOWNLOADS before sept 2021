@@ -1,0 +1,162 @@
+---
+layout: page
+title: Print-friendly PDF Downloads for Song Notes guitar lessons - playsongnotes.com
+permalink: /downloads/
+redirect_from:
+- /join
+---
+
+
+<script src="/js/jquery.js"></script>
+<script>
+  $(document).ready(function(){
+    var urlParams = new URLSearchParams(window.location.search); //get all parameters
+    var thanks = urlParams.get('thanks'); //extract the foo parameter - this will return NULL if foo isn't a parameter
+    if(thanks == 'true') { //check if foo parameter is 'bar'
+      var thanksHTML = '<div class="featured_module"><h2 class="mtn">Your PDF is on the way!</h2>\
+                        <p class="mbn">Check your email -- the PDF you requested will be sent your way shortly. If it doesn\'t show up, check your spam folders. If you have more issues, <a href="mailto:hello@playsongnotes.com">email me directly</a> and I\'ll help you out.</p></div><br /><br />';
+      $('.thanks_container').append(thanksHTML);
+    }
+  });
+</script>
+
+
+  <div class="thanks_container">
+
+  </div>
+
+
+## The best way to follow along with my video lessons!
+
+I'm proud to offer print-friendly guides showing you instructional warm-up exercises, music theory, tips & techniques, and more. Here's a video showing you how to access my library of educational PDFs:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46j3Djik9y8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<p>Support me on Patreon ($3/month, cancel anytime) to get access to the existing catalog of PDFs, in addition to new ones I add each week. Patreon members also enjoy access to the Song Notes community where you can ask questions, get answers, submit lesson requests, and generally support my on-going video lesson efforts.</p>
+
+<p>Annual plans are also available (which saves you 15%). Thanks for supporting me and this project, it means a lot!</p>
+
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+
+
+<br /><br />
+
+## Free PDF sampler pack
+
+Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
+
+<ul>
+  <li><strong><a href="https://playsongnotes.com/lessons/302">Travis Picking vs. Traditional Fingerstyle</a></strong> (tips & techniques)</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/267">Essential Mods for the A-major chord</a></strong> (tips & techniques)</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/264">Fingerstyle Walkdown exercise, Key of C</a></strong> (warm up exercise)</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/312">"Happy Birthday" triad exercise, Key of G</a></strong> (warm up exercise)</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/345">Blank guitar tab templates</a></strong></li>
+</ul>
+
+<br /><br />
+
+<!-- <ul>
+  <li><strong><a href="/printables/[Animals] House of the Rising Sun.pdf">House of the Rising Sun</a></strong> by The Animals</li>
+  <li><strong><a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">Total Eclipse of the Heart</a></strong> by Bonnie Tyler</li>
+  <li><strong><a href="/printables/[Eric Clapton] Layla.pdf">Layla</a></strong> by Eric Clapton</li>
+  <li><strong><a href="/printables/[Game of Thrones] Theme Song.pdf">Game of Thrones</a></strong> theme song</li>
+  <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li>
+  <li><strong><a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">Sunday Morning Coming Down</a></strong> by Johnny Cash</li>
+  <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li>
+  <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li>
+  <li><strong><a href="/printables/[Neil Young] Harvest Moon.pdf">Harvest Moon</a></strong> by Neil Young</li>
+  <li><strong><a href="/printables/[Nirvana] About a Girl.pdf">About a Girl</a></strong> by Nirvana</li>
+  <li><strong><a href="/printables/[Nirvana] Where Did You Sleep Last Night.pdf">Where Did You Sleep Last Night</a></strong> by Nirvana</li>
+  <li><strong><a href="/printables/[Post Malone] Feeling Whitney.pdf">Feeling Whitney</a></strong> by Post Malone</li>
+  <li><strong><a href="/printables/[Radiohead] High and Dry.pdf">High and Dry</a></strong> by Radiohead</li>
+  <li><strong><a href="/printables/[Tom Petty] Runnin Down a Dream.pdf">Runnin' Down a Dream</a></strong> by Tom Petty</li>
+  <li><strong><a href="/printables/[Tom Petty] Learnin to Fly.pdf">Learnin' to Fly</a></strong> by Tom Petty</li>
+  <li><strong><a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">Honky Tonk Heroes</a></strong> by Wayon Jennings</li>
+</ul> -->
+
+<br /><br />
+
+## Licensed PDFs for my song lessons
+
+Properly licensed, print-friendly sheet music for each of the following songs is available for individual purchase. All arrangements are offered in accord with copyright laws via Musicnotes.com. Patreon supporters get 50% off each purchase. Click any song below to learn more:
+
+<ul class="listing_may2021">
+  {% assign lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'date_published' %}
+  {% for l in lessons reversed %}
+    <li>
+      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
+      <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
+      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
+      <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">PDF Available</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+
+{% include print-friendly-lessons-available.html %}
+
+<a href="/songs">Click here</a> to browse all my song video lessons... the free video lessons are all still available!
+
+
+<br /><br />
+
+## Quick Riff & Warm-Up Exercise PDFs:
+
+    {% assign sorted_warmups = site.lessons | where: "category","warmup" | sort: 'date_published' | reverse %}
+<ul>
+    {% for warmup in sorted_warmups %}
+      {% if warmup.patreon_lesson_available == true %}
+      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
+<li><strong><a href="{{warmup.url}}">{{ warmup.title }}</a></strong><br /> <span class="small">{{ warmup.date_published | date: "%b %-d, %Y" }} • Lesson #{{ warmup.slug }}</span></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<br /><br />
+## Practice Log PDFs:
+
+    {% assign sorted_plogs = site.lessons | where: "category","practice_log" | sort: 'date_published' | reverse %}
+<ul>
+    {% for plog in sorted_plogs %}
+      {% if plog.patreon_lesson_available == true %}
+      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
+<li><strong><a href="{{plog.url}}">{{ plog.title }}</a></strong><br /><span class="small">{{ plog.date_published | date: "%b %-d, %Y" }} • Lesson #{{ plog.slug }}</span></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<br /><br />
+
+## Tips & Technique PDFs:
+
+    {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date_published' | reverse %}
+<ul>
+    {% for tip in sorted_tips %}
+      {% if tip.patreon_lesson_available == true %}
+      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
+<li><strong><a href="{{tip.url}}">{{ tip.title }}</a></strong><br /><span class="small">{{ tip.date_published | date: "%b %-d, %Y" }} • Lesson #{{ tip.slug }}</span></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+## What members are saying
+
+<p class="testimonial">You have the very best tabs on the net! Easy to follow, logically designed, complete with all information. That's why I'm a supporter!<br /><br />– Jimbo</p>
+
+<p class="testimonial">Thank you David for the most excellent guitar lessons. I am getting old now and my guitar is a new and awesome instrument that gives me peace in our troubled world. Your contribution and dedication to your lessons provides me with hours of learning in an easy fun style. I am blessed to have been able to support you on Patreon and have access to everything you put out there.<br /><br />– Harvey</p>
+
+<p class="testimonial">I've seen more guitar instructional videos on the web than I can count but but no one does a better job of explaining and simplifying a song as you do, with the added bonus of a downloadable PDFs. I just got back into playing acoustic guitar last year after a hiatus of too many decades. Keep up the good work you do for all us beginners, re-beginners and not so beginners.<br /><br />– David</p>
+
+<p class="testimonial">Thank you 🙏 you are a wonderful teacher as well as a fabulous musician not often do you get both in the same package.<br /><br />– Eileen</p>
+
+<p class="testimonial">I have just picked up the guitar after 30 years of saying 'I would love to learn that'. Out of all the lessons I have come across online yours are the best. You have a way of making the song sound close to the original and making it pretty easy to learn as a beginner to learn. I could not keep watching the lessons without donating something because learning the guitar takes time and devotion. You deserve to get something back for all you put in. I have subscribed to your channel, and I have never subscribed to anything online. I wish you all the best and hope you have continued success.<br /><br />– Joshauh</p>
+
+<p class="testimonial">I enjoy your lessons and teaching style. They are practical and I love that you break things down in an easy to understand way. Also your lessons are fun! :) I'm a happy supporter and thank you for providing great service and your musical gift.<br /><br />– Tangie</p>
+
+<p class="testimonial">I’ve tinkered with the guitar since I was a teenager but never really committed to practicing it. I could never find the passion or the structure from a teacher to keep me at it. I have a full time job and kids...and life is busy. Almost two years ago, I broke my ankle playing baseball and dusted off the guitar. I stumbled across your lesson Say It Ain’t So by Weezer. I was completely sold. I decided to become a patreon supporter of yours. Tonight, I was just completely compelled to send you a message. Your lessons, teaching, PDF’s...you name it...Are pure quality. You come across as passionate about your work and it truly makes a difference. Anyway. I hope you and your family are staying healthy and safe during these times. I wish you all best. Thank you for the lessons and I also hope that your site becomes so successful that you can just do this full time. No response necessary. Just reaching out to say I wish lots of good karma to go your way! Cheers!<br /><br />– Jason</p>
+
+<p class="testimonial">You are such an amazing teacher! You describe steps in detail that is so necessary for beginners like me. Thank you for all that you do!<br /><br />– Cara</p>
+
+<p class="testimonial">Man, you're the best out there and the way you break things down with printables along with the different camera angles helps me in ways I can't put into words. It's truly a pleasure to be a Patreon supporter of yours!<br /><br />– BB</p>
+
+<p class="testimonial">You are the very best on the web for teaching how to play a particular song down to the details that deliver a truly professional sounding version. I love it!<br /><br />– Nick</p>

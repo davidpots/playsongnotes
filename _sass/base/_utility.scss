@@ -70,3 +70,29 @@
           margin: auto;
           display: table;
         }
+
+// Modules
+
+.module-patreon,
+.module-musicnotes {
+  border-radius: 4px;
+  h4 span {
+    font-size: 14px;
+  }
+}
+
+.module-musicnotes {
+  background-color: $color-pdf-song;
+  border: 1px solid $color-pdf-song--border;
+  h4 span {
+    color: $color-pdf-song--icon;
+  }
+}
+
+.module-patreon {
+  background-color: $color-pdf-patreon;
+  border: 1px solid $color-pdf-patreon--border;
+  h4 span {
+    color: $color-pdf-patreon--icon;
+  }
+}

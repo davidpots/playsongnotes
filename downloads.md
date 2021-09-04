@@ -25,119 +25,85 @@ redirect_from:
 
   </div>
 
+# Take your playing to the next level
 
-## The best way to follow along with my video lessons!
+<p class="font-size--large">Guitar can be complicated to learn! While my free video lessons will get you started in learning songs or techniques, I believe there is immense value in print-friendly diagrams that you can reference alongside my video lessons. I take great pride in creating diagrams to explain the concepts behind strumming patterns, fretboard & chord charts, scales, tablature, and more.</p>
 
-I'm proud to offer print-friendly guides showing you instructional warm-up exercises, music theory, tips & techniques, and more. Here's a video showing you how to access my library of educational PDFs:
+<hr />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/46j3Djik9y8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!--<p class="font-size--large">I am proud to offer a growing library of instructional guitar content, all made with utmost care and precision by me, David Potsiadlo. Each week I add to my collection of free video lessons, while also creating premium song sheet music &  instructional PDFs. No matter the topic, I take great pride in creating digestible, easy-to-follow guitar lessons.</p>-->
 
-<p>Support me on Patreon ($3/month, cancel anytime) to get access to the existing catalog of PDFs, in addition to new ones I add each week. Patreon members also enjoy access to the Song Notes community where you can ask questions, get answers, submit lesson requests, and generally support my on-going video lesson efforts.</p>
 
-<p>Annual plans are also available (which saves you 15%). Thanks for supporting me and this project, it means a lot!</p>
+## How to get my premium sheet music & PDFs
 
-<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+I offer two types of print-friendly content:
 
+<div class="pam module-musicnotes mbm">
+  <h4 class="mtn">Song Sheet Music</h4>
+  <p>My song sheet music arrangements are exclusively available for purchase at Musicnotes.com, an industry-leader in sheet music distribution. Each arrangement is print-friendly, in addition to being fully licensed by the publisher. A 50%-off discount is available to all my Patreon members. <em>Due to <a style="color:inherit;" href="/copyright">copyright reasons</a>, I can't offer these as PDFs through Patreon like I used to.</em></p>
+  <p class="mbn bold"><a href="/songs/recently-added">Browse all of my song lessons » </a></p>
+</div>
+
+<div class="pam module-patreon">
+  <h4 class="mtn">Instructional PDFs <span>(for my non-song lessons)</span></h4>
+  <p>My library of educational PDFs (quick riffs, music theory, tips & techniques, etc) are available to Patreon members. Each PDF is print-friendly and downloadable. Plus, you can keep the PDFs after your Patreon membership ends. These PDFs are an invaluable resource as you dive into the world of guitar, and are truly one-of-a-kind.</p>
+  <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+</div>
 
 <br /><br />
 
-## Free PDF sampler pack
 
-Here's a free sample pack of some of the songs I've written up nicely formatted PDFs for. Download these as you please, and print them out! They're designed to fit well on notebook-sized paper. If you find these helpful, please consider tossing a few dollars into my Paypal tip jar. If you want access to PDFs for all new lessons I create, please consider [supporting me on Patreon](https://www.patreon.com/songnotes) ($3/month).
+
+## A tour of my instructional PDFs
+
+<img src="/images/misc/join-sample-of-PDFs.png" />
+
+Here’s a glimpse at the (non-song) PDFs you get access to once you become a member. These cover general guitar topics that roughly fall into these categories:
+
+- [Quick riffs & warm-up exercises](/search/?query=Warm%20Up%20Exercise)
+- [Tips & Techniques](/search/?query=Tips%20&%20Techniques)
+- [Music Theory](/search/?query=theory)
+- [Notes from my Practice Sessions](/search/?query=Practice%20Log)
+- [Backing tracks](/search/?query=Backing%20Track)
+
+Interested in a <strong>free sample</strong>? Here's some of my instructional PDFs available at no charge:
 
 <ul>
-  <li><strong><a href="https://playsongnotes.com/lessons/302">Travis Picking vs. Traditional Fingerstyle</a></strong> (tips & techniques)</li>  
-  <li><strong><a href="https://playsongnotes.com/lessons/267">Essential Mods for the A-major chord</a></strong> (tips & techniques)</li>  
+  <li><strong><a href="https://playsongnotes.com/lessons/302">Travis Picking vs. Traditional Fingerstyle</a></strong> (tips & techniques)</li>
+  <li><strong><a href="https://playsongnotes.com/lessons/267">Essential Mods for the A-major chord</a></strong> (tips & techniques)</li>
   <li><strong><a href="https://playsongnotes.com/lessons/264">Fingerstyle Walkdown exercise, Key of C</a></strong> (warm up exercise)</li>
   <li><strong><a href="https://playsongnotes.com/lessons/312">"Happy Birthday" triad exercise, Key of G</a></strong> (warm up exercise)</li>
   <li><strong><a href="https://playsongnotes.com/lessons/345">Blank guitar tab templates</a></strong></li>
 </ul>
 
-<br /><br />
-
-<!-- <ul>
-  <li><strong><a href="/printables/[Animals] House of the Rising Sun.pdf">House of the Rising Sun</a></strong> by The Animals</li>
-  <li><strong><a href="/printables/[Bonnie Tyler] Total Eclipse of the Heart.pdf">Total Eclipse of the Heart</a></strong> by Bonnie Tyler</li>
-  <li><strong><a href="/printables/[Eric Clapton] Layla.pdf">Layla</a></strong> by Eric Clapton</li>
-  <li><strong><a href="/printables/[Game of Thrones] Theme Song.pdf">Game of Thrones</a></strong> theme song</li>
-  <li><strong><a href="/printables/[Guy Clark] L.A. Freeway.pdf">LA Freeway</a></strong> by Guy Clark</li>
-  <li><strong><a href="/printables/[Johnny Cash] Sunday Morning Coming Down.pdf">Sunday Morning Coming Down</a></strong> by Johnny Cash</li>
-  <li><strong><a href="/printables/[Loggins and Messina] Dannys Song.pdf">Danny's Song</a></strong> by Loggins and Messina</li>
-  <li><strong><a href="/printables/[Lynyrd Skynyrd] Tuesdays Gone.pdf">Tuesday's Gone</a></strong> by Lynyrd Skynyrd</li>
-  <li><strong><a href="/printables/[Neil Young] Harvest Moon.pdf">Harvest Moon</a></strong> by Neil Young</li>
-  <li><strong><a href="/printables/[Nirvana] About a Girl.pdf">About a Girl</a></strong> by Nirvana</li>
-  <li><strong><a href="/printables/[Nirvana] Where Did You Sleep Last Night.pdf">Where Did You Sleep Last Night</a></strong> by Nirvana</li>
-  <li><strong><a href="/printables/[Post Malone] Feeling Whitney.pdf">Feeling Whitney</a></strong> by Post Malone</li>
-  <li><strong><a href="/printables/[Radiohead] High and Dry.pdf">High and Dry</a></strong> by Radiohead</li>
-  <li><strong><a href="/printables/[Tom Petty] Runnin Down a Dream.pdf">Runnin' Down a Dream</a></strong> by Tom Petty</li>
-  <li><strong><a href="/printables/[Tom Petty] Learnin to Fly.pdf">Learnin' to Fly</a></strong> by Tom Petty</li>
-  <li><strong><a href="/printables/[Waylon Jennings] Honky Tonk Heroes.pdf">Honky Tonk Heroes</a></strong> by Wayon Jennings</li>
-</ul> -->
-
-<br /><br />
-
-## Licensed PDFs for my song lessons
-
-Properly licensed, print-friendly sheet music for each of the following songs is available for individual purchase. All arrangements are offered in accord with copyright laws via Musicnotes.com. Patreon supporters get 50% off each purchase. Click any song below to learn more:
-
-<ul class="listing_may2021">
-  {% assign lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'date_published' %}
-  {% for l in lessons reversed %}
-    <li>
-      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
-      <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
-      <p class="listing_may2021--meta">Lesson #{{ l.slug}}</p>
-      <p class="listing_may2021--pdf"><a href="{{ l.url | relative_url }}">PDF Available</a></p>
-    </li>
-  {% endfor %}
-</ul>
-
-
-{% include print-friendly-lessons-available.html %}
-
-<a href="/songs">Click here</a> to browse all my song video lessons... the free video lessons are all still available!
 
 
 <br /><br />
 
-## Quick Riff & Warm-Up Exercise PDFs:
+## Patreon is the best way to support me & these lessons!
 
-    {% assign sorted_warmups = site.lessons | where: "category","warmup" | sort: 'date_published' | reverse %}
-<ul>
-    {% for warmup in sorted_warmups %}
-      {% if warmup.patreon_lesson_available == true %}
-      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{warmup.url}}">{{ warmup.title }}</a></strong><br /> <span class="small">{{ warmup.date_published | date: "%b %-d, %Y" }} • Lesson #{{ warmup.slug }}</span></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+Many folks have asked what’s the best way to support me and this project – and the answer: become a member on Patreon. The cost is $3 per month (cancel anytime) or via annual pledge (save ~15%) – most of which goes directly to me. These lessons are a labor of love, but make no mistake – they take a lot of work to create! It’s my dream to one day work on this project full time – and the key to making that happen is your support.
 
-<br /><br />
-## Practice Log PDFs:
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
 
-    {% assign sorted_plogs = site.lessons | where: "category","practice_log" | sort: 'date_published' | reverse %}
-<ul>
-    {% for plog in sorted_plogs %}
-      {% if plog.patreon_lesson_available == true %}
-      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{plog.url}}">{{ plog.title }}</a></strong><br /><span class="small">{{ plog.date_published | date: "%b %-d, %Y" }} • Lesson #{{ plog.slug }}</span></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+### What happens after signing up on Patreon
+
+The membership perks become available to you immediately!
+
+- You get immediate access to a 50%-off discount code for my licensed song sheet music arrangements (available on Musicnotes.com)
+- You have immediate access to all of my Patreon posts, where the instructional PDFs can be downloaded (warm-up riffs, tips & techniques, music theory, etc)
+- You get an email each time I create a new lesson (1-2 times per week), with a link to any instructional PDFs
+- You can participate in the Patreon community! Comment on my posts, send in lesson requests, send me direct messages, etc.
+
+You’ll also be charged the day you sign up. If you join on a monthly plan, your ongoing pledges will be processed on the 1st of each month (no matter which day you originally sign up on).
+
+### You can cancel Patreon anytime
+
+Seriously, it’s dead simple – with just a few clicks you can end your membership if for whatever reason you’re no longer able or interested in the few bucks a month of ongoing support. You can keep any of the instructional PDFs you’ve downloaded.
+
+Obviously, I hope you stick around! If not for the ongoing lessons, then just to support me & this project of mine. But I also understand that this isn’t feasible for everyone.
 
 <br /><br />
-
-## Tips & Technique PDFs:
-
-    {% assign sorted_tips = site.lessons | where: "category","tip_technique" | sort: 'date_published' | reverse %}
-<ul>
-    {% for tip in sorted_tips %}
-      {% if tip.patreon_lesson_available == true %}
-      {% assign number_of_pdfs = number_of_pdfs | plus: 1 %}
-<li><strong><a href="{{tip.url}}">{{ tip.title }}</a></strong><br /><span class="small">{{ tip.date_published | date: "%b %-d, %Y" }} • Lesson #{{ tip.slug }}</span></li>
-      {% endif %}
-    {% endfor %}
-</ul>
 
 ## What members are saying
 
@@ -160,3 +126,21 @@ Properly licensed, print-friendly sheet music for each of the following songs is
 <p class="testimonial">Man, you're the best out there and the way you break things down with printables along with the different camera angles helps me in ways I can't put into words. It's truly a pleasure to be a Patreon supporter of yours!<br /><br />– BB</p>
 
 <p class="testimonial">You are the very best on the web for teaching how to play a particular song down to the details that deliver a truly professional sounding version. I love it!<br /><br />– Nick</p>
+
+<br />
+
+## Ready to take your playing to the next level?
+
+Become a member on Patreon -- it's as little as $3! The content you'll unlock will go miles in helping your guitar playing improve. Thanks so much for your support -- it helps make these lessons possible!
+
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+
+<hr />
+
+## Don't want to pay? I make plenty of free content!
+
+- 375+ video lessons on YouTube, with new ones added each week! [Subscribe here](http://youtube.com/playsongnotes). This includes song lessons, in addition to general instructional videos (guitar techniques, quick riffs, music theory, etc).
+- I send out a email newsletter every 1-2 weeks, keeping you in the loop with my latest lessons. [Sign up here](/newsletter), it’s free – and is the best way to stay in the loop.
+- This website! No login required. Search all my lessons, use my [FretMonster](/fretmonster) web tool, and view notes & tabs for all of my non-song lessons.
+
+<br />
