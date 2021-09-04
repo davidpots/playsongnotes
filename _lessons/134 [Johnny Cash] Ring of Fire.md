@@ -7,6 +7,7 @@ year: 1963
 category: full_song
 yt_video_id: 8jvriKFA7-I
 tags: [Full Song Lesson, 1960s, Country, Key of G]
+date_published: 2021-09-04
 slug: "134"
 redirect_from:
   - /songs/johnny-cash-ring-of-fire/

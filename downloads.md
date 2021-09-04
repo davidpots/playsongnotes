@@ -39,7 +39,7 @@ redirect_from:
 I offer two types of print-friendly content:
 
 <div class="pam module-musicnotes mbm">
-  <h4 class="mtn">Song Sheet Music</h4>
+  <h4 class="mtn">Song Sheet Music <span>(licensed & available for purchase)</span></h4>
   <p>My song sheet music arrangements are exclusively available for purchase at Musicnotes.com, an industry-leader in sheet music distribution. Each arrangement is print-friendly, in addition to being fully licensed by the publisher. A 50%-off discount is available to all my Patreon members. <em>Due to <a style="color:inherit;" href="/copyright">copyright reasons</a>, I can't offer these as PDFs through Patreon like I used to.</em></p>
   <p class="mbn bold"><a href="/songs/recently-added">Browse all of my song lessons » </a></p>
 </div>

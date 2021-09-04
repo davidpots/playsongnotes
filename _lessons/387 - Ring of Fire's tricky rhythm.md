@@ -1,15 +1,16 @@
 ---
 layout: song
 title: 'Ring of Fire''s Tricky Rhythm & Strumming Pattern, Explained'
-category: tip_technique
+song_title: Ring of Fire
+artist: Johnny Cash
+year: 1963
+category: full_song
 slug: "387"
-tags: [Tips & Techniques, 1960s, Key of G]
+tags: [Full Song Lesson, 1960s, Key of G]
 date_published: 2021-09-04
 yt_video_id: qIGmOaYIMvk
 pdf_version: musicnotes
 pdf_numpages: 5
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/55767075
 redirect_to:
   - /lessons/134
 ---
