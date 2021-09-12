@@ -7,8 +7,6 @@ tags: [Tips & Techniques, Learning Chords, Music Theory]
 hidden_tags: [practical music theory, theory, CAGED, system, caged system]
 date_published: 2021-08-25
 yt_video_id: cie7a8_SrEA
-redirect_from:
-  - /lessons/384
 pdf_version: v2
 pdf_numpages: 1
 patreon_lesson_available: true
