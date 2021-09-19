@@ -1,7 +1,7 @@
 ---
 layout: song
 category: tip_technique
-title: Ring Finger Barre Strength Exercise
+title: Barre Chord Strength Exercises! For Left Ring & Index Fingers
 slug: "245"
 date_published: 2019-06-25
 tags: [Tips & Techniques, Learning Chords]
@@ -14,7 +14,9 @@ redirect_from:
   - /tips/25/
 ---
 
-## Video Overview
+## Ring Finger Barre Strength Exercise
+
+In this lesson, I'll show you an approachable 3-string exercise you can use to beef up your ring finger barre chord strength. This is a barring technique you'll need when playing the A-shape barre chord (e.g., x1333x or x3555x) - which can be tough to master! But that doesn't mean it needs to be difficult to learn. With this exercise, you'll be able to have fun with 3 related chords (I-IV-V triads) while focusing on just three strings. This lets you noodle around freely, perhaps work on some picking or strumming exercises, all the while you're building up your ring finger strength. I hope you enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xtvYQSGS6wE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -24,6 +26,8 @@ redirect_from:
 
 <!-- Coming later this morning! Check back soon... -->
 
-## Editor's notes
+## Index Finger Barre Strength Exercise
 
-In this lesson, I'll show you an approachable 3-string exercise you can use to beef up your ring finger barre chord strength. This is a barring technique you'll need when playing the A-shape barre chord (e.g., x1333x or x3555x) - which can be tough to master! But that doesn't mean it needs to be difficult to learn. With this exercise, you'll be able to have fun with 3 related chords (I-IV-V triads) while focusing on just three strings. This lets you noodle around freely, perhaps work on some picking or strumming exercises, all the while you're building up your ring finger strength. I hope you enjoy!
+I also made this lesson, teaching you left index finger barre strength.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PI4Pce2HonM?showinfo=0" frameborder="0" allowfullscreen></iframe>
