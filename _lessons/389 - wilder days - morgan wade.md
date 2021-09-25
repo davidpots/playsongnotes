@@ -9,10 +9,11 @@ date_published: 2021-09-23
 yt_video_id: IAyG_YPIorA
 slug: "389"
 tags: [Full Song Lesson, Country, Key of C, 2020s]
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/56592695
 ---
 
-<!-- patreon_lesson_available: true
-patreon_lesson_url: ____ -->
+
 
 ## Video lesson
 
