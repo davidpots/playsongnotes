@@ -17,7 +17,7 @@ permalink: /lessons-key/
 
 {% for l in lessons | where: "category", "full_song" %}
   {% if l.tags contains "Key of C" %}
-  <strong>{{ l.song_title }}</strong> by {{ l.artist}} - https://playsongnotes.com/lessons/{{l.slug}}
+  <strong>{{ l.song_title }}</strong> by {{ l.artist}} <a href="https://playsongnotes.com/lessons/{{l.slug}}">https://playsongnotes.com/lessons/{{l.slug}}</a>
   {% endif %}
 {% endfor %}
 
