@@ -10,7 +10,7 @@ yt_video_id: VlC2zfZsUxA
 slug: "393"
 tags: [Full Song Lesson, Classic Rock, Key of G, 1970s]
 patreon_lesson_available: true
-patreon_lesson_url: _____
+patreon_lesson_url: https://www.patreon.com/posts/56939343
 ---
 
 
