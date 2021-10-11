@@ -29,42 +29,19 @@ redirect_from:
 
 <p class="font-size--large">Guitar can be complicated to learn! While my free video lessons will get you started in learning songs or techniques, I believe there is immense value in print-friendly diagrams that you can reference alongside my video lessons. I take great pride in creating diagrams to explain the concepts behind strumming patterns, fretboard & chord charts, scales, tablature, and more.</p>
 
-<hr />
-
-<!--<p class="font-size--large">I am proud to offer a growing library of instructional guitar content, all made with utmost care and precision by me, David Potsiadlo. Each week I add to my collection of free video lessons, while also creating premium song sheet music &  instructional PDFs. No matter the topic, I take great pride in creating digestible, easy-to-follow guitar lessons.</p>-->
-
-
-## How to get my premium sheet music & PDFs
-
-I offer two types of print-friendly content:
-
-<div class="pam module-musicnotes mbm">
-  <h4 class="mtn">Song Sheet Music <span>(licensed & available for purchase)</span></h4>
-  <p>My song sheet music arrangements are exclusively available for purchase at Musicnotes.com, an industry-leader in sheet music distribution. Each arrangement is print-friendly, in addition to being fully licensed by the publisher. A 50%-off discount is available to all my Patreon members. <em>Due to <a style="color:inherit;" href="/copyright">copyright reasons</a>, I can't offer these as PDFs through Patreon like I used to.</em></p>
-  <p class="mbn bold"><a href="/songs/recently-added">Browse all of my song lessons » </a></p>
-</div>
-
-<div class="pam module-patreon">
-  <h4 class="mtn">Instructional PDFs <span>(for my non-song lessons)</span></h4>
-  <p>My library of educational PDFs (quick riffs, music theory, tips & techniques, etc) are available to Patreon members. Each PDF is print-friendly and downloadable. Plus, you can keep the PDFs after your Patreon membership ends. These PDFs are an invaluable resource as you dive into the world of guitar, and are truly one-of-a-kind.</p>
-  <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
-</div>
-
+<p class="font-size--large">I offer two types of premium printable content:</p>
 <br /><br />
 
+## 1. Instructional PDFs (non-songs)
 
+Approximately half my video lessons teach general guitar techniques: tips, quick riffs & exercises, practical music theory, and more. These are meant to get you up-to-speed with universal concepts used in countless songs. With each of these instructional videos, I make a PDF to accompany the video lesson. Here's what they look like:
+​
+<br /><br />
+<img src="/images/patreon/instructionalpdfs.jpg" />
 
-## A tour of my instructional PDFs
+Want access to the full library of my instructional PDFs?
 
-<img src="/images/misc/join-sample-of-PDFs.png" />
-
-Here’s a glimpse at the (non-song) PDFs you get access to once you become a member. These cover general guitar topics that roughly fall into these categories:
-
-- [Quick riffs & warm-up exercises](/search/?query=Warm%20Up%20Exercise)
-- [Tips & Techniques](/search/?query=Tips%20&%20Techniques)
-- [Music Theory](/search/?query=theory)
-- [Notes from my Practice Sessions](/search/?query=Practice%20Log)
-- [Backing tracks](/search/?query=Backing%20Track)
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support Me on Patreon</a>
 
 Interested in a <strong>free sample</strong>? Here's some of my instructional PDFs available at no charge:
 
@@ -76,11 +53,20 @@ Interested in a <strong>free sample</strong>? Here's some of my instructional PD
   <li><strong><a href="https://playsongnotes.com/lessons/345">Blank guitar tab templates</a></strong></li>
 </ul>
 
+<br /><br />
+## 2. Song sheet music (licensed, for purchase only)
+
+For my full song video lessons, I create print-friendly sheet music to accompany the tutorial. These song sheets are available for purchase through Musicnotes.com, who provides licensing for each arrangement – <a href="/copyright">here's how to buy them</a>. Patreon supporters save 50% on each purchase with a discount code available I publish each month. Here's what they look like:
+
+<img src="/images/patreon/songsheets.jpg" />​​
+
+Want to browse all my song lessons with sheet music? <a href="/songs/recently-added"><strong>View them here »</strong></a>
+<br /><br /><em>​Note: as of April 2021, song sheets aren't downloadable directly via Patreon any more because of copyright reasons – <a href="/copyright">learn more here</a>. My song sheets are now properly licensed and 100% legal, ensuring the publishers and songwriters are getting their fair share.</em>
 
 
 <br /><br />
 
-## Patreon is the best way to support me & these lessons!
+## Patreon is the best way to support me and my lessons!
 
 Many folks have asked what’s the best way to support me and this project – and the answer: become a member on Patreon. The cost is $3 per month (cancel anytime) or via annual pledge (save ~15%) – most of which goes directly to me. These lessons are a labor of love, but make no mistake – they take a lot of work to create! It’s my dream to one day work on this project full time – and the key to making that happen is your support.
 
