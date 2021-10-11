@@ -14,6 +14,8 @@ pdf_numpages: 4
 musicnotes_url: https://www.musicnotes.com/l/6lrMn
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/57270986
+redirect_from:
+  - /lessons/17
 ---
 
 ## Video lesson and sheet music
