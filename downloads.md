@@ -31,7 +31,7 @@ redirect_from:
 
 <p class="font-size--large">I offer two types of premium printable content:</p><br />
 
-## 1. Instructional PDFs (non-songs)
+## Instructional PDFs (non-songs)
 
 Approximately half my video lessons teach general guitar techniques: tips, quick riffs & exercises, practical music theory, and more. These are meant to get you up-to-speed with universal concepts used in countless songs. With each of these instructional videos, I make a PDF to accompany the video lesson. Each PDF is print-friendly, and typically between 2 and 5 pages. Here's what they look like (showing the first page only):
 ​
@@ -53,7 +53,7 @@ Interested in a <strong>free sample</strong>? Here's some of my instructional PD
 </ul>
 
 <br /><br />
-## 2. Song sheet music (licensed, for purchase only)
+## Song sheet music (licensed, for purchase only)
 
 <em>✨ Patreon supporters save 50% on each purchase!</em>
 
@@ -71,7 +71,7 @@ Want to browse all my song lessons with sheet music? <a href="/songs/recently-ad
 
 Many folks have asked what’s the best way to support me and this project – and the answer: become a member on Patreon. The cost is $3 per month (cancel anytime) or via annual pledge (save ~15%) – most of which goes directly to me. These lessons are a labor of love, but make no mistake – they take a lot of work to create! It’s my dream to one day work on this project full time – and the key to making that happen is your support.
 
-<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
+<a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a><br /><br />
 
 ### What happens after signing up on Patreon
 
@@ -82,13 +82,13 @@ The membership perks become available to you immediately!
 - You get an email each time I create a new lesson (1-2 times per week), with a link to any instructional PDFs
 - You can participate in the Patreon community! Comment on my posts, send in lesson requests, send me direct messages, etc.
 
-You’ll also be charged the day you sign up. If you join on a monthly plan, your ongoing pledges will be processed on the 1st of each month (no matter which day you originally sign up on).
+Whether you join as a monthly or annual member, your first payment happens at the time of signup. If you join on a monthly plan, your next pledge will be charged on the 1st of the following month (no matter which day of the month you originally signed up on).
 
 ### You can cancel Patreon anytime
 
-Seriously, it’s dead simple – with just a few clicks you can end your membership if for whatever reason you’re no longer able or interested in the few bucks a month of ongoing support. You can keep any of the instructional PDFs you’ve downloaded.
+Seriously, it’s dead simple – with <a href="/cancel">just a few clicks</a> you can end your membership if for whatever reason you’re no longer able or interested providing ongoing thanks & support. You can keep any of the instructional PDFs you’ve downloaded.
 
-Obviously, I hope you stick around! If not for the ongoing lessons, then just to support me & this project of mine. But I also understand that this isn’t feasible for everyone.
+Obviously, I hope you stick around! Even if you're not active with your guitar playing, even the few bucks a month of ongoing support is incredibly helpful to me. Thank you so much!
 
 <br /><br />
 
