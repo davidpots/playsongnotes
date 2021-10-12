@@ -37,108 +37,108 @@ Video timestamps:
 
 ## Lyrics w/ chords
 
-Get the print-friendly version of the lyrics & chords in my PDF (top of this page). I worked very hard formatting it to all fit on one page, and remain readable with the insane number of sections of this song.
+Get the print-friendly version of the lyrics & chords on page 1 of my licensed sheet music (linked at the top of this page). I worked very hard to format things to all fit on a single page while remaining readable (given the large number of sections of this song).
 
-    INTRO
-        D . . . Bm  . . . D . . . G . . .     
-        D . . . F#m . . . G . . . A . . .
+<!-- INTRO
+    D . . . Bm  . . . D . . . G . . .     
+    D . . . F#m . . . G . . . A . . .
 
-    VERSE
-            D                 G         D            D
-        The screen door slams... Mary's dress waves
-               D                 A                       G           G
-        Like a vision she dances across the porch as the radio plays
-            G                       A                  D                 G
-        Roy Orbison singing For the Lonely, hey that's me and I want you only
-                      G             D                  A                 A
-        Don't turn me home again, I just can't face myself alone, again
+VERSE
+        D                 G         D            D
+    The screen door slams... Mary's dress waves
+           D                 A                       G           G
+    Like a vision she dances across the porch as the radio plays
+        G                       A                  D                 G
+    Roy Orbison singing For the Lonely, hey that's me and I want you only
+                  G             D                  A                 A
+    Don't turn me home again, I just can't face myself alone, again
 
-              D                         G                      D         D
-        Don't run back inside, darling, you know just what I'm here for
-                  D                               A                   G         G
-        So you're scared and you're thinking that maybe we ain't that young any more
-                      G                           A                  D                         G
-        Show a little faith, there's magic in the night, you ain't a beauty but hey, you're alright
-        G          D                   A        A
-        ...Oh, and that's alright with me
+          D                         G                      D         D
+    Don't run back inside, darling, you know just what I'm here for
+              D                               A                   G         G
+    So you're scared and you're thinking that maybe we ain't that young any more
+                  G                           A                  D                         G
+    Show a little faith, there's magic in the night, you ain't a beauty but hey, you're alright
+    G          D                   A        A
+    ...Oh, and that's alright with me
 
-    CHORUS
-                    D                           Bm
-            You can hide 'neath your covers and study your pain,
-                 D                               G
-            Make crosses from your lovers, throw--- roses in the rain
-            D                    F#m                   G                         A
-            ...Waste your summer praying in vain for a savior to rise from these streets
+CHORUS
+                D                           Bm
+        You can hide 'neath your covers and study your pain,
+             D                               G
+        Make crosses from your lovers, throw--- roses in the rain
+        D                    F#m                   G                         A
+        ...Waste your summer praying in vain for a savior to rise from these streets
 
-            D                            Bm
-            Well, now I'm no hero that's understood...
-                       D                             G
-            All the redemption I can offer, girl, is beneath this dirty hood
-            D                           F#m                  G                   A
-            ...With a chance to make it good somehow... hey, what else can we do now, except
+        D                            Bm
+        Well, now I'm no hero that's understood...
+                   D                             G
+        All the redemption I can offer, girl, is beneath this dirty hood
+        D                           F#m                  G                   A
+        ...With a chance to make it good somehow... hey, what else can we do now, except
 
-    VERSE
-        D                        G                 D               D
-        Roll down the window and let the wind blow back our hair
-                  D                         A                      G     G
-        Well, the night's busted open these two lanes will take us any---where
-               G                          A                D                      G
-        We got one last chance to make it real... to trade in these wings on some wheels
-        G                     D                 A              A
-        ...Climb in back, heaven's waiting down on the tracks
+VERSE
+    D                        G                 D               D
+    Roll down the window and let the wind blow back our hair
+              D                         A                      G     G
+    Well, the night's busted open these two lanes will take us any---where
+           G                          A                D                      G
+    We got one last chance to make it real... to trade in these wings on some wheels
+    G                     D                 A              A
+    ...Climb in back, heaven's waiting down on the tracks
 
-    CHORUS
-            D           Bm                    D                      G
-            Ohhhh, come take my hand... we're riding out tonight to---- case the promised land
-            D           F#m                   G                      A
-            Ohhhh------ oh Thunder Road...... oh, Thunder Road...... oh, Thunder Road
+CHORUS
+        D           Bm                    D                      G
+        Ohhhh, come take my hand... we're riding out tonight to---- case the promised land
+        D           F#m                   G                      A
+        Ohhhh------ oh Thunder Road...... oh, Thunder Road...... oh, Thunder Road
 
-            D                      Bm
-            Lyin' out there like a killer in the sun
-                 D                         G
-            Hey, I know it's late, we can---- make it if we run
-            D      F#m                     G           A             D        D (let ring)
-            Ohhhh, oh Thunder Road... sit tight, take hold, Thunder Road
+        D                      Bm
+        Lyin' out there like a killer in the sun
+             D                         G
+        Hey, I know it's late, we can---- make it if we run
+        D      F#m                     G           A             D        D (let ring)
+        Ohhhh, oh Thunder Road... sit tight, take hold, Thunder Road
 
-    BRIDGE
-                            G                        A                      D      D
-                    Well, I got this guitar and I've learned how to make it talk
-                           Bm                       Bm                  G          A
-                    And my car's out back if you're ready to take that long------- walk
-                              G                       A                F#m                     Bm
-                    From your front porch to my front seat, the door's open but the ride ain't free
-                          G                                   G
-                    Well, I know you're lonely for words that I ain't spoken
-                       A                             A
-                    Tonight we'll be free, all the promises will be broken
+BRIDGE
+                        G                        A                      D      D
+                Well, I got this guitar and I've learned how to make it talk
+                       Bm                       Bm                  G          A
+                And my car's out back if you're ready to take that long------- walk
+                          G                       A                F#m                     Bm
+                From your front porch to my front seat, the door's open but the ride ain't free
+                      G                                   G
+                Well, I know you're lonely for words that I ain't spoken
+                   A                             A
+                Tonight we'll be free, all the promises will be broken
 
-    VERSE
-                   D                     G                D             D
-        There were ghosts in the eyes of all the boys you sent away
-                        D                       F#m                 G                G
-        They haunt this dusty beach road in the skeleton frames of burned out Chevrolets  
-             G                                   A
-        They scream your name at night in the street
-                        D                          G
-        Your graduation gown lies in rags at their--- feet
+VERSE
+               D                     G                D             D
+    There were ghosts in the eyes of all the boys you sent away
+                    D                       F#m                 G                G
+    They haunt this dusty beach road in the skeleton frames of burned out Chevrolets  
+         G                                   A
+    They scream your name at night in the street
+                    D                          G
+    Your graduation gown lies in rags at their--- feet
 
-    ENDING
-                                   F#m                F#m                    G               G
-                        And in the lonely cool before dawn... you hear their engines roaring on
-                                 Em                        A           G      G           Em        Em                                               
-                        When you get to the porch, they're gone on the wind...... so Mary climb in...
-                               G                         A                      D       D (let ring)
-                        It's a town full of losers, I'm pulling out of here to win
+ENDING
+                               F#m                F#m                    G               G
+                    And in the lonely cool before dawn... you hear their engines roaring on
+                             Em                        A           G      G           Em        Em                                               
+                    When you get to the porch, they're gone on the wind...... so Mary climb in...
+                           G                         A                      D       D (let ring)
+                    It's a town full of losers, I'm pulling out of here to win
 
-    OUTRO (w/ harmonica)
-        D . . . A . . . D . . . G . . .
-        D . . . A . . . G . . . A . . .
+OUTRO (w/ harmonica)
+    D . . . A . . . D . . . G . . .
+    D . . . A . . . G . . . A . . . -->
 
 ## Chord progressions for entire song
 
-A one-page chord progression summary for all sections of the song is available on page 3 of my PDF chord sheet (linked at the top of this post).
+A one-page chord progression summary for all sections of the song is available on page 3 of my sheet music (linked at the top of this page).
 
-INTRO
+<!-- INTRO
 
     D . . . Bm  . . . D . . . G . . .     
     D . . . F#m . . . G . . . A . . .
@@ -197,7 +197,7 @@ ENDING
     F#m . . . F#m . . . G . . . G . . .    And in the lonely cool before dawn...
     Em  . . . A   . . . G . . . G . . .    When you get to the porch, they're all..
     Em  . . . Em  . . . G . . . A . . .    It's a town full of losers...
-    D   . . . D   . . .                    ...to win----!
+    D   . . . D   . . .                    ...to win----! -->
 
 
 ## Chord shapes needed
@@ -216,7 +216,7 @@ Alternatively, you can use the following voicings for all of the chords. This le
 
 Technically, these voicings deviate from the named chords in a strict sense - but don't let that both you. Used well, these sound great. My advice with these is to lean into them when things are slower & less hectic. Then, when things pickup to a full strum -- switching to the regular chord shapes (above) works well. Or, you could mix and match! It's up to you. See my video lesson for reference.
 
-    [See my PDF for finger positions]
+    [See my sheet music for finger positions]
 
     E ––2––  –(0)–  –(0)–  –(0)–  –(0)–  –(0)––
     B ––3––  ––3––  ––3––  ––3––  ––3––  ––3–––

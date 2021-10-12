@@ -41,18 +41,17 @@
 
 {% elsif include.pdf_version == "copyright" %}
 
-<div class="pdf_module_v2">
+<div class="pdf_module_v2 pdf_module_v2--song">
 
-  <h3 class="pdf_module_v2__headline">This PDF will be returning shortly!</h3>
+  <h3 class="pdf_module_v2__headline">Sheet music for this song will be returning shortly!</h3>
   <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div>
   <div class="pdf_module_v2__content">
     <ul class="pdf_module_v2__list">
-      <li>This PDF is momentarily unavailable while I move it to Musicnotes, a sheet music service that is providing licensing for my "song" PDFs.</li>
-      <li>My goal is to have this available in the next few weeks. Stay tuned!</li>
-      <li>A majority of my "song" PDFs are already available on Musicnotes (with licensing)... click the button below to see them.</li>
-      <li>Want me to priortize this PDF, so it's ready sooner? <a href="mailto:play.songnotes@gmail.com?subject=PDF prioritzation request: {{include.song_name}}">Email me</a> and let me know!</li>
+      <li>The sheet music for this song is <em>temporarily</em> unavailable while I move it over to Musicnotes.com, a sheet music service that is providing licensing for my "song" arrangements.</li>
+      <li>Want me to priortize this song, so the sheet music is ready sooner? Click the button below and let me know – this helps me know which songs to work on next!</li>
     </ul>
-    <a class="pdf_module_v2__button" target="_blank" href="/copyright"><strong>More info about this &raquo;</strong></a>
+    <a class="pdf_module_v2__button" target="_blank" href="mailto:play.songnotes@gmail.com?subject=Sheet music prioritzation request: {{include.song_name}}"><strong>Request This Song</strong></a>
+    <p class="pdf_module_v2__footnote">To learn more about my library of song sheets & instructional PDFs, <a href="/downloads">click here</a>.</p>
   </div>
 </div>
 
@@ -70,6 +69,14 @@
       <a class="pdf_module_v2__button" target="_blank" href="{{include.musicnotes_url}}"><strong>Buy at Musicnotes.com</strong></a>
       <p class="pdf_module_v2__footnote">Patreon supporters: <strong><a target="_blank" href="https://playsongnotes.com/discount">click here</a></strong> to get the 50% off discount code on this purchase</p>
     </div>
+  </div>
+
+{% elsif include.pdf_version == "none" %}
+
+<div class="pdf_module_v2 pdf_module_v2--song">
+  <h3 class="mtn">I have not made sheet music for this lesson... yet!</h3>
+  <p>As of now, I haven't made a print-friendly sheet music arrangement to accompany this video lesson. If you'd like to request that I make one, <a href="mailto:play.songnotes@gmail.com?subject=PDF Request for '{{include.song_name}}'">shoot me an email</a>. I'm constantly adding back-catalog sheet music arrangements based on the songs with the most interest.</p>
+  <p class="small mbn"><em><a href="http://playsongnotes.com/downloads">Learn more</a> about my sheet music and instructional PDFs.</em></p>
   </div>
 
 {% elsif include.has_patreon_url %}

@@ -8,6 +8,7 @@ category: full_song
 date_published: 2021-10-03
 yt_video_id: VlC2zfZsUxA
 slug: "393"
+pdf_version: none
 tags: [Full Song Lesson, Classic Rock, Key of G, 1970s]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/56939343
@@ -18,6 +19,10 @@ patreon_lesson_url: https://www.patreon.com/posts/56939343
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlC2zfZsUxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+## Editor's notes
 
 Hey friends! New song lesson today for the much requested Night Moves by Bob Seger (1976). This song may seem deceivingly simple at the outset (just 3 chords for intro & verse) -- but the rhythm, strumming, and F-chord nuance required makes it a bit trickier to pull off. But, fear not! I'll walk you through it step by step. No matter your skill level, I'll help you both play the F chord (using one of a few options), as well as master the tricky strumming required to capture Seger's sound.
 
