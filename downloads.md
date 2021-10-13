@@ -25,7 +25,7 @@ redirect_from:
 
   </div>
 
-# Get my premium PDFs & song sheets!
+# How to Get My Instructional PDFs & Song Sheets
 
 <p class="font-size--large">Guitar can be complicated to learn! While my free video lessons will get you started in learning songs or techniques, I believe there is immense value in print-friendly diagrams that you can reference alongside my video lessons. I take great pride in creating diagrams to explain the concepts behind strumming patterns, fretboard & chord charts, scales, tablature, and more.</p>
 
@@ -38,7 +38,7 @@ Approximately half my video lessons teach general guitar techniques: tips, quick
 <br /><br />
 <img src="/images/patreon/instructionalpdfs.jpg" />
 
-Want full access to the library of my instructional PDFs?
+Want full access to my library of instructional (non-song) PDFs?
 
 <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support Me on Patreon</a>
 
@@ -51,6 +51,10 @@ Interested in a <strong>free sample</strong>? Here's some of my instructional PD
   <li><strong><a href="https://playsongnotes.com/lessons/312">"Happy Birthday" triad exercise, Key of G</a></strong> (warm up exercise)</li>
   <li><strong><a href="https://playsongnotes.com/lessons/345">Blank guitar tab templates</a></strong></li>
 </ul>
+
+Already a Patreon member?
+
+- <a href="/riffs/"><strong>Search all my video lessons & PDFs »</strong></a>
 
 <br /><br />
 ## Song sheet music (licensed, for purchase only)
@@ -126,8 +130,8 @@ Become a member on Patreon -- it's as little as $3! The content you'll unlock wi
 
 ## Don't want to pay? I make plenty of free content!
 
-- 375+ video lessons on YouTube, with new ones added each week! [Subscribe here](http://youtube.com/playsongnotes). This includes song lessons, in addition to general instructional videos (guitar techniques, quick riffs, music theory, etc).
-- I send out a email newsletter every 1-2 weeks, keeping you in the loop with my latest lessons. [Sign up here](/newsletter), it’s free – and is the best way to stay in the loop.
+- 375+ video lessons on YouTube, with new ones added each week! [Subscribe to my YouTube channel here](http://youtube.com/playsongnotes). This includes song lessons, in addition to general instructional videos (guitar techniques, quick riffs, music theory, etc).
+- I send out a email newsletter every 1-2 weeks, keeping you in the loop with my latest lessons. [Sign up for my email newsletter here](/newsletter), it’s free – and is the best way to stay in the loop.
 - This website! No login required. Search all my lessons, use my [FretMonster](/fretmonster) web tool, and view notes & tabs for all of my non-song lessons.
 
 <br />
