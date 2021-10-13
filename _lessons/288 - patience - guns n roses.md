@@ -8,7 +8,7 @@ category: full_song
 slug: "288"
 redirect_from:
   - /lessons/324
-tags: [Full Song Lesson, Play-Along Cover, Key of G, 1980s, Rock]
+tags: [Full Song Lesson, Play-Along Cover, Key of G, 1980s, Rock, E Flat Tuning]
 hidden_tags: [324]
 yt_video_id: mgCLd0uyp0I
 date_published: 2020-03-04

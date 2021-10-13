@@ -6,7 +6,7 @@ song_title:  All Apologies
 artist: Nirvana
 year: 1993
 category: full_song
-tags: [Full Song Lesson, 1990s, Drop D, Rock, Fingerstyle]
+tags: [Full Song Lesson, 1990s, Drop D, Rock, Fingerstyle, E Flat Tuning]
 yt_video_id: waD2tdRAmtM
 slug: "155"
 redirect_from:

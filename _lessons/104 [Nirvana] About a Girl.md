@@ -5,7 +5,7 @@ title: '"About a Girl" by Nirvana'
 song_title:  About a Girl
 artist: Nirvana
 year: 1994
-tags: [Full Song Lesson, 1990s, Rock, Key of Em]
+tags: [Full Song Lesson, 1990s, Rock, Key of Em, E Flat Tuning]
 category: full_song
 yt_video_id: 6YTVOG6LPds
 slug: "104"

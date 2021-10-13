@@ -6,7 +6,7 @@ song_title:  Where Did You Sleep Last Night
 artist: Nirvana
 year: 1994
 category: full_song
-tags: [Full Song Lesson, 1990s, Rock, Blues, Key of E]
+tags: [Full Song Lesson, 1990s, Rock, Blues, Key of E, E Flat Tuning]
 yt_video_id: nsRkG55ZBH4
 slug: "102"
 redirect_from:

@@ -4,7 +4,7 @@ title: '"The Chain" and Double-Drop D tuning'
 slug: "168"
 date_published: 2018-08-06
 category: practice_log
-tags: [Practice Log, Classic Rock, Key of D, Drop D, 1970s]
+tags: [Practice Log, Classic Rock, Key of D, Drop D, Tuning, 1970s]
 yt_video_id: wqe2dQjUnVw
 pdf_version: v1
 pdf_numpages: 2

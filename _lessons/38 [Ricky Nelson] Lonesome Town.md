@@ -7,7 +7,7 @@ artist: Ricky Nelson
 year: 1958
 category: full_song
 yt_video_id: QFiatbwLPXg
-tags: [Full Song Lesson, 1950s, Classic Rock, Key of C, Movie Songs]
+tags: [Full Song Lesson, 1950s, Classic Rock, Key of C, Movie Songs, E Flat Tuning]
 hidden_tags: [Pulp Fiction, Tarantino]
 slug: "38"
 redirect_from:

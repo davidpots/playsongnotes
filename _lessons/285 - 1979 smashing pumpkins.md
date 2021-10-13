@@ -5,7 +5,7 @@ song_title: "1979"
 artist: The Smashing Pumpkins
 year: 1995
 category: full_song
-tags: [Full Song Lesson, Key of E, 1990s, Rock]
+tags: [Full Song Lesson, Key of E, 1990s, Rock, E Flat Tuning]
 hidden_tags: [287]
 hidden_tags: [Billy Corgan]
 slug: "285"

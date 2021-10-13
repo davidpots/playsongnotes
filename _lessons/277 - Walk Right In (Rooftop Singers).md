@@ -8,7 +8,7 @@ category: full_song
 date_published: 2020-01-16
 yt_video_id: UXSSTPAEGdA
 slug: "277"
-tags: [Full Song Lesson, Key of G, 1960s, Folk, Walking Bass Lines]
+tags: [Full Song Lesson, Key of G, 1960s, Folk, Walking Bass Lines, E Flat Tuning]
 hidden_tags: [forrest gump, roof top, sit right down]
 pdf_version: copyright
 pdf_numpages: 2

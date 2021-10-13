@@ -8,7 +8,7 @@ category: full_song
 date_published: 2021-02-06
 slug: "350"
 yt_video_id: II3XZxk-7oo
-tags: [Full Song Lesson, Key of G, 1990s, Rock]
+tags: [Full Song Lesson, Key of G, 1990s, Rock, E Flat Tuning]
 hidden_tag: [billy corgan, smashing pumpkins]
 pdf_version: musicnotes
 pdf_numpages: 5

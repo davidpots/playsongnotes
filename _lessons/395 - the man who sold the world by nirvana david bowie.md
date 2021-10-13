@@ -8,7 +8,7 @@ category: full_song
 date_published: 2021-10-11
 yt_video_id: mHCCK3su31Y
 slug: "395"
-tags: [Full Song Lesson, Classic Rock, Key of F, 1990s]
+tags: [Full Song Lesson, Classic Rock, Key of F, 1990s, E Flat Tuning]
 pdf_version: musicnotes
 pdf_numpages: 4
 musicnotes_url: https://www.musicnotes.com/l/6lrMn

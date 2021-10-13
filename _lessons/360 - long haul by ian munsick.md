@@ -8,7 +8,7 @@ category: full_song
 date_published: 2021-04-18
 yt_video_id: cOoddupGncs
 slug: "360"
-tags: [Full Song Lesson, Key of G, Fingerstyle, Country, 2020s]
+tags: [Full Song Lesson, Key of G, Fingerstyle, Country, 2020s, E Flat Tuning]
 pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/l/RBWMW
 pdf_numpages: 3
