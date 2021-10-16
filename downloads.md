@@ -20,10 +20,8 @@ redirect_from:
   });
 </script>
 
+<p class="center small gray mtl mbl italic">Already a Patreon member? <a class="" href="/riffs">Browse my lessons</a> or <a class="" href="/myaccount">manage your account</a></p>
 
-  <div class="thanks_container">
-
-  </div>
 
 # How to Get My Instructional PDFs & Song Sheets
 
