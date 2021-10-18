@@ -53,6 +53,7 @@ Interested in a <strong>free sample</strong>? Here's some of my instructional PD
 Already a Patreon member?
 
 - <a href="/riffs/"><strong>Search all my video lessons & PDFs »</strong></a>
+- <a href="/myaccount"><strong>Manage your Patreon account »</strong></a>
 
 <br /><br />
 ## Song sheet music (licensed, for purchase only)

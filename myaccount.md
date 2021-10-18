@@ -14,7 +14,7 @@ permalink: /myaccount/
 
 ### How to view your Patreon membership details...
 
-- Visit the [Manage Memberships](https://www.patreon.com/pledges) page on Patreon.com (which requires you to sign in). This will list all the creators you are currently supporting. There, click the "Edit" link next to "Song Notes by David Pots" and you'll see plan details (your current pledge amount, when you'll be billed next, etc). This is where you can view, modify, or cancel your membership on Patreon.
+- Visit the [Manage My Memberships](https://www.patreon.com/pledges) page on Patreon.com (which requires you to sign in). This will list all the creators you are currently supporting. There, click the "Edit" link next to "Song Notes by David Pots" and you'll see plan details (your current pledge amount, when you'll be billed next, etc). This is where you can view, modify, or cancel your membership on Patreon.
 
 ### How to switch from monthly to annual plan...
 
@@ -22,7 +22,8 @@ permalink: /myaccount/
 
 ### How to cancel...
 
-- Follow the steps above, and click the "Edit" link next to "Song Notes by David Pots". Then, click the "Edit or Cancel Membership" link under the large button.
+- Log in to Patreon.com and go to the [Manage My Memberships](https://www.patreon.com/pledges) page using the steps above.
+- Click the "Edit" link next to "Song Notes by David Pots". Then, click the "Edit or Cancel Membership" link under the large button - and confirm your decision when prompted.
 - Note, I am unable to cancel for you – Patreon literally doesn't give creator accounts (what I have) the ability to cancel memberships for individual patrons.
 
 <hr />
@@ -31,7 +32,7 @@ permalink: /myaccount/
 
 ### Want to search my lessons?
 
-- I recommend using [the search page](/search) on my website (what you're reading now), <strong>playsongnotes.com</strong>! My search features are much more robust than Patreon's. Each lesson page on my website links either to a Patreon post (where the PDF is attached) OR the Musicnotes page where the song sheet music is for sale.
+- I recommend using [the search page](/search) on my official Song Notes website (what you're reading now), <strong>playsongnotes.com</strong>! My search features are much more robust than Patreon's. Each lesson page on my website links either to a Patreon post (where the PDF is attached) OR the Musicnotes page where the song sheet music is for sale.
 
 ### Want to download my instructional (non-song) PDFs?
 
@@ -51,7 +52,7 @@ I get it, this can be confusing at first! Here's how I'd break it down.
 
 About me and Song Notes:
 
-- My name is David Potsiadlo (David Pots), and "Song Notes" is the name of my business/brand/project where I create educational guitar lessons. My website for this project is playsongnotes.com -- which is the best place to search all my lessons.
+- My name is David Potsiadlo (David Pots), and "Song Notes" is the name of my business/brand/project where I create educational guitar lessons. My official website for this project is playsongnotes.com -- which is the best place to search all my lessons.
 
 About membership and Patreon:
 

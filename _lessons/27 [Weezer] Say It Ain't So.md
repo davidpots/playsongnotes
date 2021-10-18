@@ -7,7 +7,7 @@ artist: Weezer
 year: 1994
 category: full_song
 yt_video_id: 9kbA1RnvEjo
-tags: [Full Song Lesson, 1990s, Rock, Key of E]
+tags: [Full Song Lesson, 1990s, Rock, Key of E, E Flat Tuning]
 slug: "27"
 redirect_from:
   - /songs/weezer-say-it-ain-t-so/
