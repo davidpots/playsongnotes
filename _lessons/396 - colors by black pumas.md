@@ -11,7 +11,7 @@ slug: "396"
 tags: [Full Song Lesson, Rock, Key of Em, 2010s]
 pdf_version: none
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/57270986
+patreon_lesson_url: https://www.patreon.com/posts/57681060
 ---
 
 ## Video lesson
@@ -42,7 +42,7 @@ When learning this song, I realized that this isn't the first time I've encounte
 
 - [Angel Flying Too Close to the Ground](https://playsongnotes.com/lessons/135/) by Willie Nelson
 - [Please Come Home for Christmas](https://playsongnotes.com/lessons/199/) by the Eagles
-- [I Won't Give Up](/jason-mraz-i-wont-give-up/) by Jason Mraz
+- [I Won't Give Up](https://playsongnotes.com/jason-mraz-i-wont-give-up/) by Jason Mraz
 
 I hope y'all enjoy! Remember to give Colors a listen, and check out [Michael Palmisano's reaction video](https://www.youtube.com/watch?v=OMC86ERqQUw) if you want a intermediate/advanced breakdown of the theory. Thanks all, and enjoy!
 
