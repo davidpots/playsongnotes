@@ -12,7 +12,8 @@ date_published: 2020-01-14
 redirect_from:
   - /lessons/316
 slug: "279"
-pdf_version: copyright
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/9jgMm
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39956339
