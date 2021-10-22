@@ -13,8 +13,9 @@ slug: "42"
 redirect_from:
   - /songs/la-la-land-city-of-stars/
 #pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 4
+musicnotes_url: https://www.musicnotes.com/l/6cgMZ
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
