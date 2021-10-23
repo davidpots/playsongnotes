@@ -8,7 +8,9 @@ category: full_song
 date_published: 2021-10-03
 yt_video_id: VlC2zfZsUxA
 slug: "393"
-pdf_version: none
+pdf_version: musicnotes
+pdf_numpages: 2
+musicnotes_url: https://www.musicnotes.com/l/GxgM8
 tags: [Full Song Lesson, Classic Rock, Key of G, 1970s]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/56939343

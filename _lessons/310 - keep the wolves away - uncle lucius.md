@@ -9,7 +9,8 @@ category: full_song
 slug: "310"
 yt_video_id: qzvoEPjtL3Q
 date_published: 2020-07-10
-pdf_version: copyright
+pdf_version: musicnotes
+musicnotes_url: https://www.musicnotes.com/l/DLgMF
 pdf_numpages: 1
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/39197676
@@ -43,51 +44,51 @@ Timestamps for this video lesson:
 
 ## Lyrics with chords
 
-Capo 2nd fret. See PDF for a print-friendly version.
+Capo 2nd fret. See my sheet music for a print-friendly version of the lyrics and chords.
 
-         Bm                                        D                                      
-    Took my first breath, where the muddy Brazos, spills into the gulf of Mexico
-              A                                            G                              
-    Where the skyline's colored by chemical plants, to put bread on the table of the working man               
-              Bm                                     D                                     
-    Where the working man does his best to provide, safety and shelter for kids and a wife
-    A                                          G (let ring)                                               
-    Given little love & soul every day, making over time to keep the wolves away
-
-
-        [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ]
-
-                Bm                                     D
-    Well, I was barely thirteen when the company man, tried to dig my daddy's grave
-       A                                                G                                 
-    It happened on a French owned tanker ship, spilling poison in the Galveston Bay
-              Bm                                          D                                
-    Where the liquid fire filled his lungs and his eyes, silenced.... any mortal cries
-    A                                            G (let ring)                                        
-    Cold and the grip of death stinging pain, he fought like hell to keep the wolves away
+     <!-- Bm                                        D                                      
+Took my first breath, where the muddy Brazos, spills into the gulf of Mexico
+          A                                            G                              
+Where the skyline's colored by chemical plants, to put bread on the table of the working man               
+          Bm                                     D                                     
+Where the working man does his best to provide, safety and shelter for kids and a wife
+A                                          G (let ring)                                               
+Given little love & soul every day, making over time to keep the wolves away
 
 
-        [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ]
+    [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ]
+
+            Bm                                     D
+Well, I was barely thirteen when the company man, tried to dig my daddy's grave
+   A                                                G                                 
+It happened on a French owned tanker ship, spilling poison in the Galveston Bay
+          Bm                                          D                                
+Where the liquid fire filled his lungs and his eyes, silenced.... any mortal cries
+A                                            G (let ring)                                        
+Cold and the grip of death stinging pain, he fought like hell to keep the wolves away
 
 
-            Bm                                            D
-    For the next few years dad was sick as a dog, but he made a recovery just to spite the odds
-        A                                                   G                                
-    The settlement came and we moved out of town, where the sky isn't heavy with refinery clouds
-         Bm                                                                               
-    Yeah he's still alive he's doing good he's in his fifties
-            D                                                                            
-    But the moneys running out, and he's pinching for pennies
-           A                                                 G (let ring)                                 
-    So I'm going for broke with every song I've made, 'cause now it's my turn to keep the wolves away
+    [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ]
 
 
-        [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ]
+        Bm                                            D
+For the next few years dad was sick as a dog, but he made a recovery just to spite the odds
+    A                                                   G                                
+The settlement came and we moved out of town, where the sky isn't heavy with refinery clouds
+     Bm                                                                               
+Yeah he's still alive he's doing good he's in his fifties
+        D                                                                            
+But the moneys running out, and he's pinching for pennies
+       A                                                 G (let ring)                                 
+So I'm going for broke with every song I've made, 'cause now it's my turn to keep the wolves away
+
+
+    [ Bm-D-A-G, two measures each... play full progression twice, whistle second time ] -->
 
 ## Strumming pattern
 
-See PDF for diagram.
+See my sheet music for a strumming diagram.
 
 ## Chord shapes needed
 
-See PDF for diagram.
+See my sheet music for the chord shape diagrams.
