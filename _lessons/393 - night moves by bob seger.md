@@ -11,7 +11,7 @@ slug: "393"
 pdf_version: musicnotes
 pdf_numpages: 2
 musicnotes_url: https://www.musicnotes.com/l/GxgM8
-tags: [Full Song Lesson, Classic Rock, Key of G, 1970s]
+tags: [Full Song Lesson, Play-Along Cover, Classic Rock, Key of G, 1970s]
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/56939343
 ---
