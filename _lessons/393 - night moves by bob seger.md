@@ -16,19 +16,15 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/56939343
 ---
 
-
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Video lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlC2zfZsUxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-## Editor's notes
-
 Hey friends! New song lesson today for the much requested Night Moves by Bob Seger (1976). This song may seem deceivingly simple at the outset (just 3 chords for intro & verse) -- but the rhythm, strumming, and F-chord nuance required makes it a bit trickier to pull off. But, fear not! I'll walk you through it step by step. No matter your skill level, I'll help you both play the F chord (using one of a few options), as well as master the tricky strumming required to capture Seger's sound.
 
-Here's timestamps of what I cover in this lesson:
+Timestamps for my full video lesson:
 
 - 0:00 Overview & Lesson Summary
 - 1:27 Chord Shapes Needed
@@ -39,6 +35,22 @@ Here's timestamps of what I cover in this lesson:
 - 9:04 Strumming, p5: Adding continuous up & down strums
 - 11:21 Chorus Chords & Strumming
 - 13:28 Final Tips & Farewell
+
+## Full play-along cover
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/enXplWxb1e4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This video shows me playing the entire song, from start to finish, with all chords and lyrics highlighted along the way. This includes the bridge and ending sequences, which I didn't talk about in my full video lesson.
+
+Timestamps for my play-along cover:
+
+- 0:00 Greeting
+- 1:12 Intro Riff
+- 1:27 Verse 1
+- 2:07 Chorus 1
+- 2:35 Verse 2 + Chorus 2
+- 3:36 Bridge
+- 4:43 Final Chorus & Ending
 
 ## Related Lessons
 
