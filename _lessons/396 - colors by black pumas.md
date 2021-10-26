@@ -9,7 +9,9 @@ date_published: 2021-10-21
 yt_video_id: 1KhTAVkhxa8
 slug: "396"
 tags: [Full Song Lesson, Rock, Key of Em, 2010s]
-pdf_version: none
+pdf_version: musicnotes
+pdf_numpages: 2
+musicnotes_url: https://www.musicnotes.com/l/CGgMb
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/57681060
 ---

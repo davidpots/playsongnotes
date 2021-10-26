@@ -12,11 +12,9 @@ hidden_tags: [George Michael]
 slug: "200"
 redirect_from:
   - /songs/wham-last-christmas/
-#pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/35741438
+musicnotes_url: https://www.musicnotes.com/l/2TgMb
 ---
 
 ## Video Lesson
@@ -45,75 +43,77 @@ Here's an up-close look at the print-friendly PDF chord sheet I made for this so
 
 ## Lyrics w/ chords
 
-    (capo 2nd fret to be in same key as Wham!)
+Capo 2nd fret to be in same key as Wham!
 
-    INTRO
+    See my page 1 of my sheet music for all the lyrics, with chords included.
 
-        C  /  Am  /  Dm  /  G  /
+<!-- INTRO
 
-    CHORUS
-              C
-              Last Christmas, I gave you my heart
-                      Am
-              But the very next day you gave it away
-              Dm
-              This year, to save me from tears
-                   G
-              I'll give it to someone special
+    C  /  Am  /  Dm  /  G  /
 
-              [chorus x1] => [instrumental chorus x1]
-
-    VERSE
-        C
-        ...Once bitten and twice shy
-        Am
-        ...I keep my distance, but you still catch my eye
-        Dm
-        ...Tell me, baby, do you recognize me?
-        G       
-        ...Well, it's been a year, it doesn't surprise me
-
-        C
-        ...(Merry Christmas!) I wrapped it up and sent it
-        Am
-        With a note saying, "I love you, " I meant it
-        Dm
-        Now, I know what a fool I've been
-                  G
-        But if you kissed me now, I know you'd fool me again
-
-              [chorus x2] => [instrumental chorus x1]
-
-        C
-        ...A crowded room, friends with tired eyes
-        Am
-        ...I'm hiding from you, and your soul of ice
-        Dm
-        ...My god, I thought you were someone to rely on
-        G
-        Me? I guess I was a shoulder to cry on
-
+CHORUS
           C
-        A face on a lover with a fire in his heart
-          Am
-        A man under cover but you tore me apart
-        Dm
-        .........Ooohhh....
-                  G
-        Now, I've found a real love you'll never fool me again
+          Last Christmas, I gave you my heart
+                  Am
+          But the very next day you gave it away
+          Dm
+          This year, to save me from tears
+               G
+          I'll give it to someone special
 
-              [chorus x2]
+          [chorus x1] => [instrumental chorus x1]
 
-          C
-        A face on a lover with a fire in his heart
-          Am
-        A man under cover but you tore him apart
-        Dm
-        ...Maybe... next year...
-             G                                              
-        I'll give it to someone, I'll give it to someone...
-        C        Am    Dm    G    (repeat progression, fade out to end)
-        Special...
+VERSE
+    C
+    ...Once bitten and twice shy
+    Am
+    ...I keep my distance, but you still catch my eye
+    Dm
+    ...Tell me, baby, do you recognize me?
+    G       
+    ...Well, it's been a year, it doesn't surprise me
+
+    C
+    ...(Merry Christmas!) I wrapped it up and sent it
+    Am
+    With a note saying, "I love you, " I meant it
+    Dm
+    Now, I know what a fool I've been
+              G
+    But if you kissed me now, I know you'd fool me again
+
+          [chorus x2] => [instrumental chorus x1]
+
+    C
+    ...A crowded room, friends with tired eyes
+    Am
+    ...I'm hiding from you, and your soul of ice
+    Dm
+    ...My god, I thought you were someone to rely on
+    G
+    Me? I guess I was a shoulder to cry on
+
+      C
+    A face on a lover with a fire in his heart
+      Am
+    A man under cover but you tore me apart
+    Dm
+    .........Ooohhh....
+              G
+    Now, I've found a real love you'll never fool me again
+
+          [chorus x2]
+
+      C
+    A face on a lover with a fire in his heart
+      Am
+    A man under cover but you tore him apart
+    Dm
+    ...Maybe... next year...
+         G                                              
+    I'll give it to someone, I'll give it to someone...
+    C        Am    Dm    G    (repeat progression, fade out to end)
+    Special... -->
 
 ## Chords needed
 
@@ -178,25 +178,29 @@ Finally, perhaps the most advanced of these, would be to include a percussive "s
 
 Something I demonstrate in my video lesson, is how you can add a single note to the voicing of each of the chord shapes - and this can go a long way to spicing up the sound of the song. Shown here are each of the 4 chords I use to play the song, and each of the chords has its "modified" version just to the right.
 
-    E –––0––0––– –––0––0––– –––1––0––– –––3––3–––
-    B –––1––3––– –––1––3––– –––3––3––– –––0––1–––
-    G –––0––0––– –––2––2––– –––2––2––– –––0––0–––
-    D –––2––2––– –––2––2––– –––0––0––– –––0––0–––
-    A –––3––3––– –––0––0––– –––––––––– –––2––2–––
-    E –––––––––– –––––––––– –––––––––– –––3––3–––
-         C          Am         Dm         G
+    See my sheet music for the tab.
+
+<!-- E –––0––0––– –––0––0––– –––1––0––– –––3––3–––
+B –––1––3––– –––1––3––– –––3––3––– –––0––1–––
+G –––0––0––– –––2––2––– –––2––2––– –––0––0–––
+D –––2––2––– –––2––2––– –––0––0––– –––0––0–––
+A –––3––3––– –––0––0––– –––––––––– –––2––2–––
+E –––––––––– –––––––––– –––––––––– –––3––3–––
+     C          Am         Dm         G -->
 
 ## Playing the chorus melody along with chords
 
 Here's the melodic phrase heard during the chorus vocals, that I like to sometimes incorporate into the plucking & strumming of these 4 chords. The key here is to accent these melody notes, and then bring in full strums as you're able. With some practice, you can get the best of both worlds: the recognizability of the melody, mixed with the full sound of the strums.
 
-    E ––––––––––––––––0––––––––––0–––––––––––––––––0–––––0–1–0–––––––––––––––––––––––––
-    B –––3–3–1––1–3–3–––1––––3–3–––1––1–0–1–0––––––3–3–––––––––3–––––0–1–0–0––1–0–0––––
-    G –––0–––––––––––––––––––2––––––––––––––––2––––2–––2–––––––––2–––0––––––––––––––0––
-    D –––2–––––––––––––––––––2–––––––––––––––––––––0–––––––––––––––––0–––––––––––––––––
-    A –––3–––––––––––––––––––0–––––––––––––––––––––––––––––––––––––––2–––––––––––––––––
-    E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––3–––––––––––––––––
-         C                   Am                    Dm                G
+    See my sheet music for the tab.
+
+<!-- E ––––––––––––––––0––––––––––0–––––––––––––––––0–––––0–1–0–––––––––––––––––––––––––
+B –––3–3–1––1–3–3–––1––––3–3–––1––1–0–1–0––––––3–3–––––––––3–––––0–1–0–0––1–0–0––––
+G –––0–––––––––––––––––––2––––––––––––––––2––––2–––2–––––––––2–––0––––––––––––––0––
+D –––2–––––––––––––––––––2–––––––––––––––––––––0–––––––––––––––––0–––––––––––––––––
+A –––3–––––––––––––––––––0–––––––––––––––––––––––––––––––––––––––2–––––––––––––––––
+E –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––3–––––––––––––––––
+     C                   Am                    Dm                G -->
 
 ## Good luck!
 
