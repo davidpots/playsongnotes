@@ -37,6 +37,14 @@ Video lesson timestamps:
 - 18:28 How to Strum the Verses
 - 21:31 E-Riff (End of Each Verse)
 
+## ⭐️ Patreon bonus: full play-along cover
+
+<a href="{{page.patreon_lesson_url}}"><img src="/images/lessons/397-members-only-video.png" alt="Needle and the Damage Done members-only play-along cover (guitar lesson)" /></a>
+
+Based on popular demand, I've created a video showing a play-along cover of this song. This shows me playing the entire song using everything I teach in my lesson, with lyrics and chords shown on the screen the entire time (intro tab too). This video is only available to my Patreon supporters ([learn more on joining here](/join) -- it's just a few bucks a month, with no commitment -- it's the best way to directly support me and these lessons).
+
+- <a href="{{page.patreon_lesson_url}}"><strong>Watch the members-only bonus video &rarr;</strong></a>
+
 ## Other Neil Young lessons I've made
 
 - [Hey Hey, My My](https://playsongnotes.com/lessons/157)
