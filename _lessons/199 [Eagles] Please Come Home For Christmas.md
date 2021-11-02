@@ -11,8 +11,9 @@ slug: "199"
 tags: [Full Song Lesson, Key of A, Backing Track, 1970s, Classic Rock, Holiday]
 redirect_from:
   - /songs/eagles-please-come-home-for-christmas/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/kdzMn
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 ---
@@ -38,56 +39,58 @@ You can currently find the backing track here. Note, this is only the first vers
 
 ## Lyrics with chords
 
-    VERSE #1
-                      A          Amaj7               A7          A7
-        Bells will be ringing........... the sad sad news
-                      D          D                   D#°         D#°
-        ...Oh, what a Christmas............ to have the blues
-                      A          D                   A      E    F#m
-        ....My baby's gone.............. I  have  no friends
-                      B7         B7                  E           E+
-        ...To wish me greetings................ once again
+    See first page of my sheet music for all of the lyrics, with chords included.
 
-    VERSE #2:
-                       A        Amaj7           A7
-        Choirs will be singing......... "Silent Night"
-                  D                               D#°
-        Christmas carols................ by candlelight
-                             A          D                       A     (E)   F#m
-        Please come home for Christmas.... please come home for Christmas
-                   B7        E7                A       A7
-        If not for Christmas.... by New Year's night
+<!-- VERSE #1
+                  A          Amaj7               A7          A7
+    Bells will be ringing........... the sad sad news
+                  D          D                   D#°         D#°
+    ...Oh, what a Christmas............ to have the blues
+                  A          D                   A      E    F#m
+    ....My baby's gone.............. I  have  no friends
+                  B7         B7                  E           E+
+    ...To wish me greetings................ once again
 
-    BRIDGE
-                          D                   Dm
-            Friends and relations... send salutations
-            A               E+            A7     A7
-            Sure---- as the stars shine above
-                        D                              Dm                             
-            But this is Christmas... yes, Christmas my dear
-                        B7                           E       E+
-            The time of year to be with the ones you love
+VERSE #2:
+                   A        Amaj7           A7
+    Choirs will be singing......... "Silent Night"
+              D                               D#°
+    Christmas carols................ by candlelight
+                         A          D                       A     (E)   F#m
+    Please come home for Christmas.... please come home for Christmas
+               B7        E7                A       A7
+    If not for Christmas.... by New Year's night
 
-    VERSE #3:
-                     A        Amaj7                     A7
-        So won't you tell me......... you'll never more roam
-                      D                            D#°
-        Christmas and New Year's.... will find you home
-                              A       C#7               F#m    E
-        There will be no more sorrow...... no grief and pain
-        D       D#°     A     F#m    B7  E7    A       E+
-        ....And I'll be happy.... happy, once again
+BRIDGE
+                      D                   Dm
+        Friends and relations... send salutations
+        A               E+            A7     A7
+        Sure---- as the stars shine above
+                    D                              Dm                             
+        But this is Christmas... yes, Christmas my dear
+                    B7                           E       E+
+        The time of year to be with the ones you love
 
-    SOLO:
+VERSE #3:
+                 A        Amaj7                     A7
+    So won't you tell me......... you'll never more roam
+                  D                            D#°
+    Christmas and New Year's.... will find you home
+                          A       C#7               F#m    E
+    There will be no more sorrow...... no grief and pain
+    D       D#°     A     F#m    B7  E7    A       E+
+    ....And I'll be happy.... happy, once again
 
-        | A           | Amaj7       | A7          | A7          |
-        | D           | D           | D#°         | D#°         |
+SOLO:
 
-    ENDING:
-                              A       C#7               F#m   (E)
-        There will be no more sorrow...... no grief and pain
-        D       D#°     A     F#m    B7  E7    A       D     A (let ring)
-        ....And I'll be happy.... happy, once again
+    | A           | Amaj7       | A7          | A7          |
+    | D           | D           | D#°         | D#°         |
+
+ENDING:
+                          A       C#7               F#m   (E)
+    There will be no more sorrow...... no grief and pain
+    D       D#°     A     F#m    B7  E7    A       D     A (let ring)
+    ....And I'll be happy.... happy, once again -->
 
 ## How to play the chords
 
@@ -107,7 +110,9 @@ Understand that this song has 6 counts per each measure. I'll explain more about
 
 ## Chord progressions
 
-Verse #1:
+    See page 2 of my sheet music for diagrams of the chord progressions used in this song.
+
+<!-- Verse #1:
 
     "Bells will be ringing..."
 
@@ -155,7 +160,7 @@ Verse #4:
     | A           | C#7         | F#m   (E)   | D     D#°   |
     | A     F#m   | B7    E7    | A           | D           | A
 
-                                    ...let final "A" chord ring
+                                    ...let final "A" chord ring -->
 
 ## Strumming
 
