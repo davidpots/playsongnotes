@@ -1,6 +1,6 @@
 ---
 layout: song
-title: '"Hello in There" (intro riff) by John Prine'
+title: '"Hello in There" by John Prine'
 song_title: "Hello in There"
 artist: John Prine
 year: 1971
@@ -9,8 +9,9 @@ category: full_song
 yt_video_id: mGY1X2t4KZE
 slug: "295"
 date_published: 2020-04-05
-pdf_version: copyright
-pdf_numpages: 4
+pdf_version: musicnotes
+pdf_numpages: 5
+musicnotes_url: https://www.musicnotes.com/l/5NdMP
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/35915445
 ---
@@ -43,21 +44,23 @@ And be sure to check out my other John Prine lessons if you're a fan of his musi
 - My Old Kentucky Home, Goodnight - http://playsongnotes.com/lessons/238/
 - Travis Picking basics (using Clay Pigeons) - http://playsongnotes.com/lessons/173/
 
-## Intro tab
+## Intro tab, lyrics, and chords
 
-See my PDF for the complete tab. It's also shown in my video.
+    See my sheet music for the complete lyrics, chords included, along with the intro tab.
 
 ## Chord shapes needed
 
 Here's the chords you'll need to play this intro riff. Before attempting the fingerstyle riff, be able to play these individually without any issues.
 
-    E ––3––            –––0–––    –––2–––    –––2–––          –––0–––    –––––––
-    B ––0––            –––1–––    –––1–––    –––3–––          –––1–––    –––3–––
-    G ––0––            –––2–––    –––2–––    –––4–––          –––0–––    –––2–––
-    D ––0––            –––2–––    –––0–––    –––0–––          –––2–––    –––0–––
-    A –––––            –––0–––    –––––––    –––––––          –––3–––    –––0–––
-    E ––3––            –––––––    –––––––    –––––––          –––––––    –––2–––
-        G                 Am         D7        Bm/D              C         D/F#
+    See sheet music for the chord tabs (with finger positions)
+
+<!-- E ––3––            –––0–––    –––2–––    –––2–––          –––0–––    –––––––
+B ––0––            –––1–––    –––1–––    –––3–––          –––1–––    –––3–––
+G ––0––            –––2–––    –––2–––    –––4–––          –––0–––    –––2–––
+D ––0––            –––2–––    –––0–––    –––0–––          –––2–––    –––0–––
+A –––––            –––0–––    –––––––    –––––––          –––3–––    –––0–––
+E ––3––            –––––––    –––––––    –––––––          –––––––    –––2–––
+    G                 Am         D7        Bm/D              C         D/F# -->
 
 ## The right-hand thumb's alternating string technique
 
@@ -77,16 +80,18 @@ I find it helpful to master this thumb technique first, and even practice going 
 
 Here's the chord progressions used in this song. I'm including the chorus here, even though that's not part of this "intro" lesson (the only difference is the inclusion of an F chord, e.g., 133211).
 
-Intro & verse:
+    See my sheet music for the chord progression diagrams.
 
-    | G      | Am      | D7      | D7      |
-    | G      | Am      | D7      | D7      |
-    | Bm/D   | Bm/D    | C       | C       |
-    | G      | G       | D/F#    | D/F#    |
+<!-- Intro & verse:
+
+| G      | Am      | D7      | D7      |
+| G      | Am      | D7      | D7      |
+| Bm/D   | Bm/D    | C       | C       |
+| G      | G       | D/F#    | D/F#    |
 
 Chorus:
 
-    | F      | F       | G       | G       |
-    | F      | F       | G       | G       |
-    | Bm/D   | Bm/D    | C       | C       |
-    | G      | G       | D/F#    | D/F#    |
+| F      | F       | G       | G       |
+| F      | F       | G       | G       |
+| Bm/D   | Bm/D    | C       | C       |
+| G      | G       | D/F#    | D/F#    | -->
