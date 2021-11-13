@@ -13,7 +13,7 @@ pdf_version: musicnotes
 pdf_numpages: 3
 musicnotes_url: https://www.musicnotes.com/l/rKdMZ
 patreon_lesson_available: true
-patreon_lesson_url: ____
+patreon_lesson_url: https://www.patreon.com/posts/58667096
 ---
 
 ## Video lesson
