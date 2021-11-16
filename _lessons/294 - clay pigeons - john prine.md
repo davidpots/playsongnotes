@@ -51,65 +51,69 @@ I recorded this on Monday, and John Prine passed away the following evening whil
 
 Add capo 3rd fret to play along with John Prine.
 
-    INTRO
-        | G      | G      | C      | C      |
-        | G      | G      | D      | D      |
-        | G      | G      | C      | C      |
-        | G      | D      | G      | G      |
+    See my sheet music for all the lyrics, with chords shown on top of them.
 
-    VERSE
-                  G                                          C
-        I'm goin' down to the Greyhound station, gonna buy a ticket to ride
-                  G                                              D
-        I'm gonna find that lady with two or three kids, and sit down by her side
+<!-- INTRO
+    | G      | G      | C      | C      |
+    | G      | G      | D      | D      |
+    | G      | G      | C      | C      |
+    | G      | D      | G      | G      |
 
-        G                                                 C
-        Ride 'til the sun comes up and down around, about two or three times
-                G                                     D
-        Smokin' cigarettes in the last seat... sing a song for the people I meet
+VERSE
+              G                                          C
+    I'm goin' down to the Greyhound station, gonna buy a ticket to ride
+              G                                              D
+    I'm gonna find that lady with two or three kids, and sit down by her side
 
-                 G                                C
-        And get along with it all... go where the people say "Y'all"
-               G                                D
-        Sing a song with a friend... change the shape that I'm in
+    G                                                 C
+    Ride 'til the sun comes up and down around, about two or three times
+            G                                     D
+    Smokin' cigarettes in the last seat... sing a song for the people I meet
 
-    CHORUS
-                    G                           C               G    D
-            And get back in the game, and start playin' again
+             G                                C
+    And get along with it all... go where the people say "Y'all"
+           G                                D
+    Sing a song with a friend... change the shape that I'm in
 
-        [G] I'd like to stay, but I might have to go to start [C] over again
-        I might go [G] back down to Texas, or go to somewhere that [D] I've never been
-        And get [G] up in the mornin' and go out at night, and I won't [C] have to go home
-        Get used to [G] being alone... change the [D] words to this song
+CHORUS
+                G                           C               G    D
+        And get back in the game, and start playin' again
 
-            [G] And start singin' again  [C]   [G]   [D]
+    [G] I'd like to stay, but I might have to go to start [C] over again
+    I might go [G] back down to Texas, or go to somewhere that [D] I've never been
+    And get [G] up in the mornin' and go out at night, and I won't [C] have to go home
+    Get used to [G] being alone... change the [D] words to this song
 
-        [instrumental verse]
+        [G] And start singin' again  [C]   [G]   [D]
 
-        I'm tired of [G] running 'round looking for answers to questions that I [C] already know
-        I could [G] build me a castle of memories, just to have [D] somewhere to go
-        Count the [G] days and the nights that it takes to get back in the [C] saddle again
-        Feed the [G] pigeons some clay... turn the [D] night into day
+    [instrumental verse]
 
-            And start [G] talking again, when I [C] know what to say  [G]   [D]
+    I'm tired of [G] running 'round looking for answers to questions that I [C] already know
+    I could [G] build me a castle of memories, just to have [D] somewhere to go
+    Count the [G] days and the nights that it takes to get back in the [C] saddle again
+    Feed the [G] pigeons some clay... turn the [D] night into day
 
-        I'm going [G] down to the Greyhound station, gonna buy a [C] ticket to ride
-        I'm gonna [G] find that lady with two or three kids, and sit [D] down by her side
-        [G] Ride 'til the sun comes up and down, around about [C] two or three times
-        Smoking [G] cigarettes in the last seat, sing my [D] song for the people I meet
+        And start [G] talking again, when I [C] know what to say  [G]   [D]
 
-        And get [G] along with it all... where the [C] people say "Y'all"
-        Feed the [G] pigeons some clay... turn the [D] night into day
+    I'm going [G] down to the Greyhound station, gonna buy a [C] ticket to ride
+    I'm gonna [G] find that lady with two or three kids, and sit [D] down by her side
+    [G] Ride 'til the sun comes up and down, around about [C] two or three times
+    Smoking [G] cigarettes in the last seat, sing my [D] song for the people I meet
 
-            And start [G] talking again, when I [C] know what to say  [G]  [D]
+    And get [G] along with it all... where the [C] people say "Y'all"
+    Feed the [G] pigeons some clay... turn the [D] night into day
 
-        [instrumental verse]
+        And start [G] talking again, when I [C] know what to say  [G]  [D]
+
+    [instrumental verse] -->
 
 ## Intro tab
 
 My suggestion for learning this, especially if you're new to Travis picking: first, focus on just the right thumb, which will be playing alternating bass notes on the 6th and 4th strings. Only after you're comfortable with this, add the right index (and possibly right middle) fingers, which will be playing the notes on the thinnest 3 strings.
 
-Part 1 of 2:
+    See my sheet music for the full intro tab.
+
+<!-- Part 1 of 2:
 
     E ||––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––|–
     B ||––––––––0–––––––––0h1–––0–––––––––|––––––––1–––––––––1h3–––1–––––––––|–
@@ -147,9 +151,9 @@ Part 2 of 2:
     A –|––––––––––––––––––––––––––––––––––|––––––––––––––––––––––––––––––––––||
     E –|––3–––––––3–––––––2–––––––2–––––––|––3–––––––3–––––––3–––––––3–––––––||
           G               D                  G                               
-          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->
 
-Here's the right thumb notes for each chord, to help you visualize what your right thumb has to have absolute mastery over. I think of this as an "engine" that must keep chugging along at all times. Only after you're fully competent at playing this (through the progression, with the chord changes, etc) -- should you add the additional notes on the thinnest 3 strings.
+<!-- Here's the right thumb notes for each chord, to help you visualize what your right thumb has to have absolute mastery over. I think of this as an "engine" that must keep chugging along at all times. Only after you're fully competent at playing this (through the progression, with the chord changes, etc) -- should you add the additional notes on the thinnest 3 strings.
 
     E –––––––––––   E –––––––––––   E –––––––––––   
     B –––––––––––   B –––––––––––   B –––––––––––   
@@ -157,7 +161,7 @@ Here's the right thumb notes for each chord, to help you visualize what your rig
     D ––––0–––0––   D ––––2–––2––   D ––––0–––0––  <== right thumb
     A –––––––––––   A –––––––––––   A –––––––––––   
     E ––3–––3––––   E ––3–––3––––   E ––2–––2––––  <== right thumb
-        G               C               D
+        G               C               D -->
 
 ## How to play the chords
 
@@ -195,29 +199,31 @@ Next, let's add this D chord (technically, it's a D/F# -- but again, let's keep 
 
 During the verse, you'll want to keep up the Travis picking but slightly dial down the flourish. Here's the tab I like to use. This may not be 100% what John Prine plays, but it's close enough. Again, the main idea is to keep your right thumb chuggin' along like an engine, whilst adding occasional notes with your right index and/or middle fingers -- just to flesh things out a bit, and make sure things don't sound too empty & minimal. Feel free to improvise, or otherwise deviate away from these tabs! These are just simple suggested starting points.
 
-    E ––––––     ––––––––––––––––––––––––––––––––––
-    B ––0–––     ––––––––0–––––––––––––––0–––––––––  <= right middle finger
-    G ––0–––     ––0–––––––––––––––0–––––––––––––––  <= right index finger
-    D ––0–––     ––––––0–––––––0–––––––0–––––––0–––  <= right thumb    
-    A ––––––     ––––––––––––––––––––––––––––––––––                       
-    E ––3–––     ––3–––––––3–––––––3–––––––3–––––––  <= right thumb    
-        G          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+    See my sheet music for the verse tab.
 
-    E ––––––     ––––––––––––––––––––––––––––––––––
-    B ––1–––     ––––––––1–––––––––––––––1–––––––––  <= right middle finger
-    G ––0–––     ––0–––––––––––––––0–––––––––––––––  <= right index finger
-    D ––2–––     ––––––2–––––––2–––––––2–––––––2–––  <= right thumb    
-    A ––––––     ––––––––––––––––––––––––––––––––––                     
-    E ––3–––     ––3–––––––3–––––––3–––––––3–––––––  <= right thumb    
-        C          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+<!-- E ––––––     ––––––––––––––––––––––––––––––––––
+B ––0–––     ––––––––0–––––––––––––––0–––––––––  <= right middle finger
+G ––0–––     ––0–––––––––––––––0–––––––––––––––  <= right index finger
+D ––0–––     ––––––0–––––––0–––––––0–––––––0–––  <= right thumb    
+A ––––––     ––––––––––––––––––––––––––––––––––                       
+E ––3–––     ––3–––––––3–––––––3–––––––3–––––––  <= right thumb    
+    G          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 
-    E ––––––     ––––––––––––––––––––––––––––––––––
-    B ––1–––     ––––––––––––––––––––––––––––––––––
-    G ––2–––     ––2–––––2–––2–––––2–––––2–––2–––––  <= right index finger
-    D ––0–––     ––––––0–––––––0–––––––0–––––––0–––  <= right thumb    
-    A ––0–––     ––––––––––––––––––––––––––––––––––                     
-    E ––2–––     ––2–––––––2–––––––2–––––––2–––––––  <= right thumb    
-        D          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+E ––––––     ––––––––––––––––––––––––––––––––––
+B ––1–––     ––––––––1–––––––––––––––1–––––––––  <= right middle finger
+G ––0–––     ––0–––––––––––––––0–––––––––––––––  <= right index finger
+D ––2–––     ––––––2–––––––2–––––––2–––––––2–––  <= right thumb    
+A ––––––     ––––––––––––––––––––––––––––––––––                     
+E ––3–––     ––3–––––––3–––––––3–––––––3–––––––  <= right thumb    
+    C          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+
+E ––––––     ––––––––––––––––––––––––––––––––––
+B ––1–––     ––––––––––––––––––––––––––––––––––
+G ––2–––     ––2–––––2–––2–––––2–––––2–––2–––––  <= right index finger
+D ––0–––     ––––––0–––––––0–––––––0–––––––0–––  <= right thumb    
+A ––0–––     ––––––––––––––––––––––––––––––––––                     
+E ––2–––     ––2–––––––2–––––––2–––––––2–––––––  <= right thumb    
+    D          1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->
 
 ## Strumming pattern
 
