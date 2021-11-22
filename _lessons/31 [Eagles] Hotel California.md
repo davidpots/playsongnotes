@@ -10,8 +10,9 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Pinky Stretch]
 slug: "31"
 redirect_from:
   - /songs/eagles-hotel-california/
-pdf_version: copyright
-pdf_numpages: 4
+pdf_version: musicnotes
+pdf_numpages: 5
+musicnotes_url: https://www.musicnotes.com/l/j6dMS
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20970359
 ---
@@ -40,64 +41,68 @@ Video timestamps:
 
 ## Lyrics with chords
 
-    Bm                          F#
-    ...On a dark desert highway... cool wind in my hair
-    A                           E
-    ...Warm smell of colitas...... rising up through the air
-    G                           D
-    ...Up ahead in the distance... I saw a shimmering light
-    Em                                         F#
-    ...My head grew heavy & my sight grew dim... I had to stop for the night
+    See page 1 of my sheet music for all of the lyrics & chords, shown together.
 
-    Bm                                F#
-    ...There she stood in the doorway... I heard the mission bell
-    A                                           E
-    ...I was thinking to myself, "This could be heaven or this could be hell"
-    G                            D
-    ...Then she lit up a candle... and she showed me the way
-    Em                                     F#
-    ...There were voices down the corridor... I thought I heard them say...
+<!-- Bm                          F#
+...On a dark desert highway... cool wind in my hair
+A                           E
+...Warm smell of colitas...... rising up through the air
+G                           D
+...Up ahead in the distance... I saw a shimmering light
+Em                                         F#
+...My head grew heavy & my sight grew dim... I had to stop for the night
 
-            G                           D
-            ...Welcome to the Hotel California
-                   F#                   Bm      (walk up)
-            Such a lovely place, such a lovely face
-            G                               D
-            Plenty of room at the Hotel California
-                Em                    F#
-            Any time of year, you can find it here
+Bm                                F#
+...There she stood in the doorway... I heard the mission bell
+A                                           E
+...I was thinking to myself, "This could be heaven or this could be hell"
+G                            D
+...Then she lit up a candle... and she showed me the way
+Em                                     F#
+...There were voices down the corridor... I thought I heard them say...
 
-    Her mind is Tiffany-twisted, she got the Mercedes bends
-    She got a lot of pretty, pretty boys, that she calls friends
-    How they dance in the courtyard, sweet summer sweat
-    Some dance to remember, some dance to forget
+        G                           D
+        ...Welcome to the Hotel California
+               F#                   Bm      (walk up)
+        Such a lovely place, such a lovely face
+        G                               D
+        Plenty of room at the Hotel California
+            Em                    F#
+        Any time of year, you can find it here
 
-    So I called up the Captain, "Please bring me my wine"
-    He said, "we haven't had that spirit here since nineteen sixty-nine"
-    And still those voices are calling from far away
-    Wake you up in the middle of the night, just to hear them say
+Her mind is Tiffany-twisted, she got the Mercedes bends
+She got a lot of pretty, pretty boys, that she calls friends
+How they dance in the courtyard, sweet summer sweat
+Some dance to remember, some dance to forget
 
-            Welcome to the Hotel California
-            Such a lovely place, such a lovely face
-            They living it up at the Hotel California
-            What a nice surprise, bring your alibis
+So I called up the Captain, "Please bring me my wine"
+He said, "we haven't had that spirit here since nineteen sixty-nine"
+And still those voices are calling from far away
+Wake you up in the middle of the night, just to hear them say
 
-    Mirrors on the ceiling, the pink champagne on ice
-    And she said, "we are all just prisoners here, of our own device"
-    And in the master's chambers, they gathered for the feast
-    They stab it with their steely knives, but they just can't kill the beast
+        Welcome to the Hotel California
+        Such a lovely place, such a lovely face
+        They living it up at the Hotel California
+        What a nice surprise, bring your alibis
 
-    Last thing I remember, I was... running for the door
-    I had to find the passage back to the place I was before
-    "Relax" said the night man, "we are programmed to receive.
-    You can check out any time you like, but you can never leave!"
+Mirrors on the ceiling, the pink champagne on ice
+And she said, "we are all just prisoners here, of our own device"
+And in the master's chambers, they gathered for the feast
+They stab it with their steely knives, but they just can't kill the beast
 
-    [ instrumental verse w/ solo, repeat as desired, end ]
+Last thing I remember, I was... running for the door
+I had to find the passage back to the place I was before
+"Relax" said the night man, "we are programmed to receive.
+You can check out any time you like, but you can never leave!"
+
+[ instrumental verse w/ solo, repeat as desired, end ] -->
 
 
 ## Chord Progressions
 
-Intro & verse:
+    See page 2 of my sheet music for the chord progression this song uses, both with no capo (key of Bm) as well as capo 2nd fret (key of Am) and capo 7th fret (key of Em).
+
+<!-- Intro & verse:
 
     Bm ........ F# ....... A  ....... E  .......
     G  ........ D  ....... Em ....... F# .......
@@ -105,7 +110,7 @@ Intro & verse:
 Chorus:
 
     G ....... D ....... F# ....... Bm .......
-    G ....... D ....... Em ....... F# .......
+    G ....... D ....... Em ....... F# ....... -->
 
 ## All chords needed
 
@@ -151,80 +156,81 @@ A variations:
 
 ## Intro riff
 
+    See page 4 of my sheet music for the complete intro tab.
 
-    E –––2–––––––––––––––––––––––0–––2––––
-    B –––3–––––––––––––––––––––––3–––3––––
-    G –––4–––––––––––––––––––––––4–––4––––
-    D –––4–––––––––––––––––––––––4–––4––––
-    A –––2–––––––––––––––––––––––2–––2––––
-    E ––––––––––––––––––––––––––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         Bm
+<!-- E –––2–––––––––––––––––––––––0–––2––––
+B –––3–––––––––––––––––––––––3–––3––––
+G –––4–––––––––––––––––––––––4–––4––––
+D –––4–––––––––––––––––––––––4–––4––––
+A –––2–––––––––––––––––––––––2–––2––––
+E ––––––––––––––––––––––––––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     Bm
 
-    E –––2–––––––––––––––0––––––––––––––––
-    B –––2–––––––––––––––2––––––––––––––––
-    G –––3–––––––––––––––3––––––––––––––––
-    D –––4–––––––––––––––4––––––––––––––––
-    A –––4––––––––––––––––––––––––––––––––
-    E –––2––––––––––––––––––––––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         F#
+E –––2–––––––––––––––0––––––––––––––––
+B –––2–––––––––––––––2––––––––––––––––
+G –––3–––––––––––––––3––––––––––––––––
+D –––4–––––––––––––––4––––––––––––––––
+A –––4––––––––––––––––––––––––––––––––
+E –––2––––––––––––––––––––––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     F#
 
-    E –––0––––––––––––––––––––––––––––––––
-    B –––0––––––––––––––––––––––––––––––––
-    G –––2–––––––––––––––2––––––––––––––––
-    D –––2–––––––––––––––––––––––2––––––––
-    A –––0––––––––––––––––––––––––––––––––
-    E ––––––––––––––––––––––––––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         Asus2
+E –––0––––––––––––––––––––––––––––––––
+B –––0––––––––––––––––––––––––––––––––
+G –––2–––––––––––––––2––––––––––––––––
+D –––2–––––––––––––––––––––––2––––––––
+A –––0––––––––––––––––––––––––––––––––
+E ––––––––––––––––––––––––––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     Asus2
 
-    E –––0–––––––––––––––2––––––––––––––––
-    B –––0–––––––––––––––0––––––––––––––––
-    G –––1–––––––––––––––1––––––––––––––––
-    D –––2–––––––––––––––2––––––––––––––––
-    A –––2–––––––––––––––2––––––––––––––––
-    E –––0–––––––––––––––0–––––––0–––2––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         E
+E –––0–––––––––––––––2––––––––––––––––
+B –––0–––––––––––––––0––––––––––––––––
+G –––1–––––––––––––––1––––––––––––––––
+D –––2–––––––––––––––2––––––––––––––––
+A –––2–––––––––––––––2––––––––––––––––
+E –––0–––––––––––––––0–––––––0–––2––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     E
 
-    E –––3––––––––––––––––––––––––––––––––
-    B –––0––––––––––––––––––––––––––––––––
-    G –––0––––––––––––––––––––––––––––––––
-    D –––0–––––––––––––––––––––––––––0––––
-    A –––2–––––––––––––––––––––––0h2––––––
-    E –––3–––––––––––––––––––3––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         G
+E –––3––––––––––––––––––––––––––––––––
+B –––0––––––––––––––––––––––––––––––––
+G –––0––––––––––––––––––––––––––––––––
+D –––0–––––––––––––––––––––––––––0––––
+A –––2–––––––––––––––––––––––0h2––––––
+E –––3–––––––––––––––––––3––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     G
 
-    E –––2––––––––––––––––––––––––––––––––
-    B –––3––––––––––––––––––––––––––––––––
-    G –––2––––––––––––––––––––––––––––––––
-    D –––0–––––––––––––––4–––––––0––––––––
-    A ––––––––––––––––––––––––––––––––––––
-    E ––––––––––––––––––––––––––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         D
+E –––2––––––––––––––––––––––––––––––––
+B –––3––––––––––––––––––––––––––––––––
+G –––2––––––––––––––––––––––––––––––––
+D –––0–––––––––––––––4–––––––0––––––––
+A ––––––––––––––––––––––––––––––––––––
+E ––––––––––––––––––––––––––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     D
 
-    E –––0––––––––––––––––––––––––––––––––
-    B –––0––––––––––––––––––––––––––––––––
-    G –––0––––––––––––––––––––––––––––––––
-    D –––2––––––––––––––/4–––––––2––––––––
-    A –––2––––––––––––––––––––––––––––––––
-    E –––0––––––––––––––––––––––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         Em
+E –––0––––––––––––––––––––––––––––––––
+B –––0––––––––––––––––––––––––––––––––
+G –––0––––––––––––––––––––––––––––––––
+D –––2––––––––––––––/4–––––––2––––––––
+A –––2––––––––––––––––––––––––––––––––
+E –––0––––––––––––––––––––––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     Em
 
-    E –––2–––––––––––––––0––––––––––––––––
-    B –––2–––––––––––––––2––––––––––––––––
-    G –––3–––––––––––––––3––––––––––––––––
-    D –––4–––––––––––––––4––––––––––––––––
-    A –––4––––––––––––––––––––––––––––––––
-    E –––2––––––––––––––––––––––––––––––––
-         1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-         F#
+E –––2–––––––––––––––0––––––––––––––––
+B –––2–––––––––––––––2––––––––––––––––
+G –––3–––––––––––––––3––––––––––––––––
+D –––4–––––––––––––––4––––––––––––––––
+A –––4––––––––––––––––––––––––––––––––
+E –––2––––––––––––––––––––––––––––––––
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     F# -->
 
-## Chorus walk-up
+<!-- ## Chorus walk-up
 
     E –––2–––––––––––––––––––––––––––––––3–––––––
     B –––3–––––––2–––––––3–––––––––––––––0–––––––
@@ -253,7 +259,7 @@ A variations:
     D ––––2–––––––/5––––––4––––––2––––––0––––––––
     A ––––2––––––––––––––––––––––––––––––––––––––
     E ––––0––––––––––––––––––––––––––––––––––––––
-          Em
+          Em -->
 
 
 ## Good luck!
