@@ -41,6 +41,8 @@ Video timestamps:
 
 ## Backing track
 
+The audio file for this backing track is available in MP3 format on [this Patreon post](https://www.patreon.com/posts/23065293) (look at the very bottom of the post, as an attachment).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iKFtc8WcWPs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Note, this track begins with:
