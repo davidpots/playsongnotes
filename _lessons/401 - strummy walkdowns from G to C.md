@@ -3,13 +3,13 @@ layout: song
 title: 'Combining Walkdowns with Strumming (from G to C)'
 category: warmup
 slug: "401"
-tags: [Warm Up Exercise, Key of C]
-date_published: 2021-11-23
-yt_video_id: ______
+tags: [Warm Up Exercise, Key of C, Walking Bass Lines, Questions & Answers]
+date_published: 2021-11-24
+yt_video_id: UgyrJ_HxM2A
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: _______
+patreon_lesson_url: https://www.patreon.com/posts/59095067
 ---
 
 ## Video lesson
@@ -20,7 +20,9 @@ patreon_lesson_url: _______
 
 ## Editor's notes
 
-============
+Hello friends! Today I want to answer a question about combining walkdowns & strumming, sent in by Patreon supporter Gary (thanks for your support!). Specifically, Gary wrote in asking about the Bob Seger song Still The Same, where during the pre-chorus and chorus sections, Seger is strumming G for two full measures -- and at the same time, he's playing a descending run of bass-notes that feels part of the strumming. Gary asked how Seger is doing this, and in this video I'll give an answer -- tabs included!
+
+I'll also show 3 additional tabs (available in my Patreon PDF for this lesson), where I show how this exact same principle can be used in slightly different contexts. Taken together, I hope these examples will help you understand why this technique works so well -- and empower you to use it in your own playing.
 
 ## Examples of this in other song lessons I've taught
 
