@@ -1,14 +1,14 @@
 ---
 layout: song
 category: warmup
-title: '"Death By 1000 Cuts" Fingerstyle Walkdown Exercise (Key of C)'
+title: 'Beautiful Fingerstyle Walkdown Exercise (Key of C)'
 slug: "264"
 redirect_from:
   - /warmup/24/
 date_published: 2019-10-26
 yt_video_id: LJGLWm8IHv8
 tags: [Warm Up Exercise, 2010s, Key of C, Pop, Fingerstyle]
-hidden_tags: fingerpicking, fingerstyle, finger picking, finger style, Taylor Swift
+hidden_tags: [fingerpicking, fingerstyle, finger picking, finger style, Taylor Swift, Death by 1000 Cuts, Death by a thousand cuts]
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
