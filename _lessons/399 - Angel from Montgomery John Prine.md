@@ -4,7 +4,7 @@ title: '"Angel From Montgomery" by John Prine'
 song_title: "Angel From Montgomery"
 artist: John Prine
 year: 1971
-tags: [Full Song Lesson, Key of Gs, 1970s, Country]
+tags: [Full Song Lesson, Key of G, 1970s, Country]
 category: full_song
 yt_video_id: AoumMKnrfq0
 slug: "399"
