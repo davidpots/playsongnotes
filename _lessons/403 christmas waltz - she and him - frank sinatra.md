@@ -11,7 +11,7 @@ slug: "403"
 date_published: 2021-12-07
 pdf_version: musicnotes
 pdf_numpages: 1
-musicnotes_url: _________
+musicnotes_url: https://www.musicnotes.com/l/cDdMP
 patreon_lesson_available: true
 patreon_lesson_url: _________
 ---
