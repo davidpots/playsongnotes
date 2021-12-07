@@ -13,7 +13,7 @@ pdf_version: musicnotes
 pdf_numpages: 1
 musicnotes_url: https://www.musicnotes.com/l/cDdMP
 patreon_lesson_available: true
-patreon_lesson_url: _________
+patreon_lesson_url: https://www.patreon.com/posts/59629025
 ---
 
 ## Video lesson
