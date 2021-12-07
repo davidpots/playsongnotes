@@ -7,7 +7,7 @@ artist: Dead Mans Bones
 year: 2009
 date_published: 2013-11-10
 category: full_song
-tags: [Full Song Lesson, 2000s, Holidays, Rock, Key of G]
+tags: [Full Song Lesson, 2000s, Halloween, Rock, Key of G]
 yt_video_id: GAHHEbVKcHs
 slug: "2"
 redirect_from:
