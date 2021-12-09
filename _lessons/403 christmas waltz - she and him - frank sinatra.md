@@ -29,11 +29,10 @@ Hello, my friends! Happy to share a new guitar lesson teaching you how to play T
 Video lesson timestamps:
 
 - 0:00 Preview & Lesson Summary
-- 1:40 Intro: Overview & Timing
-- 6:46 Intro: Basic Version (with tab)
-- 14:35 Intro: Advanced Version (with tab)
-- 18:07 Verse & Chorus Strumming
-- 24:18 Full playthrough
+- 1:40 Waltz Rhythm & Strumming
+- 2:50 Chord Shapes Needed
+- 6:04 Chord Progressions
+- 9:16 Full Play-Along Cover
 
 ## Other Christmas & Holiday Lessons I've Made!
 
