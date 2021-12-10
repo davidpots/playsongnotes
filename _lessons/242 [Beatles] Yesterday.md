@@ -12,8 +12,8 @@ yt_video_id: wYGC06x7B9E
 hidden_tags: fingerpicking, finger picking, finger style
 redirect_from:
   - /songs/beatles-yesterday/
-#pdf_version: v1
-pdf_version: copyright
+musicnotes_url: https://www.musicnotes.com/l/BzRMZ
+pdf_version: musicnotes
 pdf_numpages: 6
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27161783
