@@ -1,6 +1,5 @@
 ---
 layout: song
-
 title: '"True Colors" by Justin Timberlake and Anna Kendrick'
 song_title:  True Colors
 artist: Justin Timberlake and Anna Kendrick
