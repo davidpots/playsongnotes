@@ -3,7 +3,7 @@ layout: song
 title: 'Beginner Arpeggio Fun! One Shape, 10 Riffs (Amaj7 & Dmaj7)'
 category: warmup
 slug: "390"
-tags: [Warm Up Exercise, Key of A]
+tags: [Warm Up Exercise, Key of A, Backing Track]
 date_published: 2021-09-28
 yt_video_id: -D6DvCi6Ybk
 pdf_version: v2
