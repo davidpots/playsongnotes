@@ -36,6 +36,7 @@ permalink: /lessons/
 {% assign pdf_v2_count = 0 %}
 {% assign pdf_v1_count = 0 %}
 {% assign pdf_noV_count = 0 %}
+{% assign pdf_copyright = 0 %}
 {% for i in (1..site.lessons.size) reversed %}
   {% assign song = site.lessons | where: 'slug', i %}
   {% if song[0].pdf_version == "v2" %}
@@ -47,12 +48,16 @@ permalink: /lessons/
   {% if song[0].pdf_version == "v1" %}
     {% assign pdf_v1_count = pdf_v1_count | plus:1 %}
   {% endif %}
+  {% if song[0].pdf_version == "copyright" %}
+    {% assign pdf_copyright = pdf_copyright | plus:1 %}
+  {% endif %}
   {% if song[0].patreon_lesson_url %}
     {% assign pdf_noV_count = pdf_noV_count | plus:1 %}
   {% endif %}
   {% if song[0].musicnotes_url %}
     {% assign musicnotes_url_count = musicnotes_url_count | plus:1 %}
   {% endif %}
+
 {% endfor %}
 
 <script src="/js/jquery.js"></script>
@@ -155,6 +160,10 @@ I have made {{latest_lesson_number}} YouTube videos so far... {{ site.lessons.si
 <div class="tile_metric">
   <h3>Musicnotes URL exists</h3>
   <p>{{ musicnotes_url_count }}</p>
+</div>
+<div class="tile_metric">
+  <h3>Copyright PDF</h3>
+  <p>{{ pdf_copyright }}</p>
 </div>
 
 
