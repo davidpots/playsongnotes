@@ -12,6 +12,8 @@ permalink: /backlog/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlmYxrMCRHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br /><br />
+
 <h2>Recently re-added song sheets...</h2>
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
@@ -28,9 +30,17 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Oct 27 - Imagine
     Oct 26 - Last Christmas
 
+<br /><br />
+
 <h2>Unavailable song sheets I'll be re-listing soon...</h2>
 
-<p>6+ requests:</p>
+<p><em>To request that I prioritize any song listed below, go to the lesson page for that song (using the search bar at the top of my website), and click the blue button that says "Request This Song".</em></p>
+
+<p><em>Note, it's up to my discretion as to which songs I re-list next. While I absolutely do favor the songs with the most votes, I will sometimes pick and choose based on a number of external factors (difficulty of reformatting, etc). Thanks for your understanding!</em></p>
+
+<br />
+
+<h3>6+ requests:</h3>
 
     Stairway to Heaven   XXXXXXXXXXXXXXXX
     The Wind             XXXXXXXXXXXXXX
@@ -43,7 +53,8 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Lola                 XXXXXX
     Dead Flowers       • XXXXXX
 
-<p>3-5 requests:</p>
+<br />
+<h3>3-5 requests:</h3>
 
     A Million Dreams •         XXXXX
     Banded Clovis •            XXX
@@ -66,7 +77,8 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     We Are the Champions •     XXX
     Whitehouse Road            XXX
 
-<p>1-2 requests:</p>
+<br />
+<h3>1-2 requests:</h3>
 
     About a Girl                X
     Acid Tongue                 XX
@@ -93,7 +105,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX
 
-
+<br /><br />
 
 <h2>Join my mailing list to stay in the loop!</h2>
 <p>I send out an email update with everything new I've worked on (video lessons, sheet music, etc) every couple weeks... sign up and stay in the loop!</p>
