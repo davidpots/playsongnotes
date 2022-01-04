@@ -18,8 +18,10 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Jan 4  - The Wind
+    Jan 4  - Dead Flowers
     Dec 10 - Yesterday
-    Nov 30 - Happy Xmas (War is Over)
+    Nov 30 - Happy Xmas
     Nov 23 - Mrs Robinson
     Nov 22 - Hotel California
     Nov 12 - Hello In There
@@ -43,46 +45,45 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven   XXXXXXXXXXXXXXXX
-    The Wind             XXXXXXXXXXXXXX
-    Tuesday's Gone       XXXXXXXX
+    Tuesday's Gone       XXXXXXXXX
     Sweet Child o Mine   XXXXXXXX
     Creep                XXXXXXXX
     Wildflowers          XXXXXXXX
     Me and Bobby McGee • XXXXXXX
+    Lola                 XXXXXXX
     If I had a Boat    • XXXXXX
-    Lola                 XXXXXX
-    Dead Flowers       • XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
-    A Million Dreams •         XXXXX
-    Banded Clovis •            XXX
-    California Dreaming        XXX
-    Feeling Whitney            XXX
-    Game of Thrones (theme)    XXX
-    Guantanamara               XXXX
-    Highwayman •               XXX
-    LA Freeway                 XXX
-    Let It Go                  XXX
-    Light On •                 XXX
-    Like a Rolling Stone       XXXXX
-    Maybe it's time •          XXXXX
-    My Fav. Picture of You     XXXX
-    My Old Kentucky Home       XXX
-    Remember Me •              XXX
-    Say It Ain't So            XXXX
-    Total Eclipse of the Heart XXXXX
-    Under the Bridge •         XXX
-    We Are the Champions •     XXX
-    Whitehouse Road            XXX
+    A Million Dreams •          XXXXX
+    Always Remember Us This Way XXX
+    Banded Clovis •             XXX
+    California Dreaming         XXX
+    Feeling Whitney             XXX
+    Game of Thrones (theme)     XXX
+    Guantanamara                XXXX
+    Highwayman •                XXX
+    LA Freeway                  XXX
+    Let It Go                   XXX
+    Light On •                  XXX
+    Like a Rolling Stone        XXXXX
+    Maybe it's time •           XXXXX
+    My Fav. Picture of You      XXXX
+    My Old Kentucky Home        XXX
+    Remember Me •               XXX
+    Say It Ain't So             XXXX
+    Total Eclipse of the Heart  XXXXX
+    Under the Bridge •          XXX
+    Walk Right In •             XXX
+    We Are the Champions •      XXX
+    Whitehouse Road             XXX
 
 <br />
 <h3>1-2 requests:</h3>
 
     About a Girl                X
     Acid Tongue                 XX
-    Always Remember Us This Way XX
     American Girl               XX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
@@ -100,8 +101,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Running Down a Dream        XX  
     Sedona                      X
     Surf Rider                  XX
-    Walk Right In •             XX
-    When the Man Comes Around   X
+    When the Man Comes Around   XX
     Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX
 

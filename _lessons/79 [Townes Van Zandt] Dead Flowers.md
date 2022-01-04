@@ -14,8 +14,9 @@ yt_video_id: jROWArwvnnI
 slug: "79"
 redirect_from:
   - /songs/townes-van-zandt-dead-flowers/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/gBRMw
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/23634325
 ---
@@ -44,67 +45,69 @@ Video timestamps:
 
 ## Lyrics with chords
 
-    INTRO (fill in strumming as you please)
+    See my sheet music for the lyrics, chords, and intro tab.
 
-        E |–––3–––0–3–0––|–––––––––0––––|–––––––––––––|––––––––––––|–
-        B |–––1––––––––––|––3––––––––3––|––1––––––1–––|––1–––––––––|–
-        G |–––0––––––––––|––0–––––––––––|––2––0h2–––––|––0–––––––––|–
-        D |–––2––––––––––|––0–––––––––––|––3––––––––––|––2–––––––––|–  ...repeat as   
-        A |–––3––––––––––|––2–––––––––––|–––––––––––––|––3–––––––––|–     desired
-        E |––––––––––––––|––3–––––––––––|–––––––––––––|––––––––––––|–
-              C             G              F             C           
+<!-- INTRO (fill in strumming as you please)
 
-    VERSE
-                  C                  G              F                C
-        Well now, when you're sitting there in your silk upholster chair
-        C               G                   F         C
-        Talking to some rich folks that you know
-              C                  G        F           C
-        And I hope you won't see me in my ragged company
-                 C                G          F        C
-        Oh, that you know I could never be alone
+    E |–––3–––0–3–0––|–––––––––0––––|–––––––––––––|––––––––––––|–
+    B |–––1––––––––––|––3––––––––3––|––1––––––1–––|––1–––––––––|–
+    G |–––0––––––––––|––0–––––––––––|––2––0h2–––––|––0–––––––––|–
+    D |–––2––––––––––|––0–––––––––––|––3––––––––––|––2–––––––––|–  ...repeat as   
+    A |–––3––––––––––|––2–––––––––––|–––––––––––––|––3–––––––––|–     desired
+    E |––––––––––––––|––3–––––––––––|–––––––––––––|––––––––––––|–
+          C             G              F             C           
 
-    CHORUS
-                    G                          C
-            Take me down little Susie, take me down
-            G                                             C
-            I know you think you're the queen of the underground
-            F                              C
-            ...Send me dead flowers every morning
-            F                              C
-            ...Send me dead flowers by the mail
-            F                              C
-            ...Send me dead flowers to my wedding
-                  C                   G             F         C
-            And I won't forget to put roses on your grave
+VERSE
+              C                  G              F                C
+    Well now, when you're sitting there in your silk upholster chair
+    C               G                   F         C
+    Talking to some rich folks that you know
+          C                  G        F           C
+    And I hope you won't see me in my ragged company
+             C                G          F        C
+    Oh, that you know I could never be alone
 
-    VERSE
-              C                    G            F              C
-        Well, when you're sitting back in your rose pink Cadillac
-        C                 G           F      C
-        Making bets on Kentucky Derby Day
-                    C              G            F            C
-        Ah, I'll be in my basement room with a needle and a spoon
-              C             G              F       C
-        And another girl to take my pain away
+CHORUS
+                G                          C
+        Take me down little Susie, take me down
+        G                                             C
+        I know you think you're the queen of the underground
+        F                              C
+        ...Send me dead flowers every morning
+        F                              C
+        ...Send me dead flowers by the mail
+        F                              C
+        ...Send me dead flowers to my wedding
+              C                   G             F         C
+        And I won't forget to put roses on your grave
 
-    CHORUS
-                    G                          C
-            Take me down little Susie, take me down
-              G                                           C
-            I know you think you're the queen of the underground
-                         F                             C
-            And you can... send me dead flowers every morning
-            F                              C
-            ...Send me dead flowers by the mail
-            F                              C
-            ...Send me dead flowers to my wedding
-                  C                   G             F         C
-            And I won't forget to put roses on your grave
+VERSE
+          C                    G            F              C
+    Well, when you're sitting back in your rose pink Cadillac
+    C                 G           F      C
+    Making bets on Kentucky Derby Day
+                C              G            F            C
+    Ah, I'll be in my basement room with a needle and a spoon
+          C             G              F       C
+    And another girl to take my pain away
 
-        [ instrumental verse ]
+CHORUS
+                G                          C
+        Take me down little Susie, take me down
+          G                                           C
+        I know you think you're the queen of the underground
+                     F                             C
+        And you can... send me dead flowers every morning
+        F                              C
+        ...Send me dead flowers by the mail
+        F                              C
+        ...Send me dead flowers to my wedding
+              C                   G             F         C
+        And I won't forget to put roses on your grave
 
-            [ repeat chorus ]
+    [ instrumental verse ]
+
+        [ repeat chorus ] -->
 
 ## Editor's notes
 
@@ -168,13 +171,15 @@ Chorus:
 
 Here's the very distinctive riff you'll hear in the intro of this song. This shows the chords you'll need to play, in addition to the key melody notes you'll want to integrate into your strumming / plucking / picking. Note, I didn't learn this as a proper Travis-picking style song (which is how Townes plays it), so had to make do with this simplified arrangement. See my video lesson for reference!
 
-    E |–––3–––0–3–0––|–––––––––0––––|–––––––––––––|––––––––––––––||
-    B |–––1––––––––––|––3––––––––3––|––1––––––1–––|––1–––––––––––||
-    G |–––0––––––––––|––0–––––––––––|––2––0h2–––––|––0–––––––––––||
-    D |–––2––––––––––|––0–––––––––––|––3––––––––––|––2–––––––––––||
-    A |–––3––––––––––|––2–––––––––––|–––––––––––––|––3–––––––––––||
-    E |––––––––––––––|––3–––––––––––|–––––––––––––|––––––––––––––||
-          C             G              F             C           
+    See my sheet music for the intro tab, as played in my video lesson.
+
+<!-- E |–––3–––0–3–0––|–––––––––0––––|–––––––––––––|––––––––––––––||
+B |–––1––––––––––|––3––––––––3––|––1––––––1–––|––1–––––––––––||
+G |–––0––––––––––|––0–––––––––––|––2––0h2–––––|––0–––––––––––||
+D |–––2––––––––––|––0–––––––––––|––3––––––––––|––2–––––––––––||
+A |–––3––––––––––|––2–––––––––––|–––––––––––––|––3–––––––––––||
+E |––––––––––––––|––3–––––––––––|–––––––––––––|––––––––––––––||
+      C             G              F             C            -->
 
 ## Other riffs
 
@@ -184,37 +189,43 @@ There are many of these little flourish riffs heard in the Townes Van Zandt reco
 
 First, you have this one, which is quite circular in sound:
 
-    E |–––––––––0–––––––––––0–––––––––––0–––––––––1–––
-    B |–––1––3–––––3––1––3–––––3––1––3–––––3––1–––1–––
-    G |–––0–––––––––––––––––––––––––––––––––––––––2–––
-    D |–––2–––––––––––––––––––––––––––––––––––––––3–––
-    A |–––3–––––––––––––––––––––––––––––––––––––––3–––
-    E |–––––––––––––––––––––––––––––––––––––––––––1–––
-          C                                       F   
+    See my sheet music for the tab.
+
+<!-- E |–––––––––0–––––––––––0–––––––––––0–––––––––1–––
+B |–––1––3–––––3––1––3–––––3––1––3–––––3––1–––1–––
+G |–––0–––––––––––––––––––––––––––––––––––––––2–––
+D |–––2–––––––––––––––––––––––––––––––––––––––3–––
+A |–––3–––––––––––––––––––––––––––––––––––––––3–––
+E |–––––––––––––––––––––––––––––––––––––––––––1–––
+      C                                       F    -->
 
 ### Transition riff #2
 
 Second, you have this one which is basically a quick jump to a F/C, before going back to the C (and then resolving to a full proper F):
 
-    E |–––0–––––––––––––––––––––––––––––––––––––––1–––
-    B |–––1––––––––1–––1–––1––––––––––––––––––1–––1–––
-    G |–––0––––––––0–––2–––0––––––––––––––––––0–––2–––
-    D |–––2––––––––2–––3–––2––––––––––––––––––2–––3–––
-    A |–––3––––––––3–––3–––3––––––––––––––––––3–––3–––
-    E |–––––––––––––––––––––––––––––––––––––––––––1–––
-          C                                       F   
+    See my sheet music for the tab.
+
+<!-- E |–––0–––––––––––––––––––––––––––––––––––––––1–––
+B |–––1––––––––1–––1–––1––––––––––––––––––1–––1–––
+G |–––0––––––––0–––2–––0––––––––––––––––––0–––2–––
+D |–––2––––––––2–––3–––2––––––––––––––––––2–––3–––
+A |–––3––––––––3–––3–––3––––––––––––––––––3–––3–––
+E |–––––––––––––––––––––––––––––––––––––––––––1–––
+      C                                       F    -->
 
 ### Transition riff #3
 
 Third, you have this one, which has a nice walk-down descending sound:
 
-    E |–––0–––––––––––––––––––––––––––––––––––––––1–––
-    B |–––1–––––––––––––––––––––––––––––––––––––––1–––
-    G |–––0–––––––––––––2––0––––––––––––––––––––––2–––
-    D |–––2–––––––––––––––––––2––0––––––––––––––––3–––
-    A |–––3–––––––––––––––––––––––––3––0–––––0––––3–––
-    E |–––––––––––––––––––––––––––––––––––3–––––––1–––
-          C                                       F   
+    See my sheet music for the tab.
+
+<!-- E |–––0–––––––––––––––––––––––––––––––––––––––1–––
+B |–––1–––––––––––––––––––––––––––––––––––––––1–––
+G |–––0–––––––––––––2––0––––––––––––––––––––––2–––
+D |–––2–––––––––––––––––––2––0––––––––––––––––3–––
+A |–––3–––––––––––––––––––––––––3––0–––––0––––3–––
+E |–––––––––––––––––––––––––––––––––––3–––––––1–––
+      C                                       F    -->
 
 ## Good luck!
 
