@@ -56,63 +56,65 @@ Here is [a lesson](http://www.banthamlegend.com/Saskatchewan-in-1881/) from anot
 
 ## Lyrics and chords
 
-    INTRO
-        | C       | C       | C       | C7        |
-        | F       | F       | F       | C   (C/B) |
-        | G       | G7      | C       | C         |
+See my licesned sheet music for all of the lyrics, chords, strumming, and walk-up/down riffs -- all on the same page!
 
-    VERSE
+<!-- INTRO
+    | C       | C       | C       | C7        |
+    | F       | F       | F       | C   (C/B) |
+    | G       | G7      | C       | C         |
+
+VERSE
+    C           C      C               C7
+    Mr. Toronto man... go away from my door
+        F                F                         F             C       C
+    You got my wheat and Canola seed... and you're asking me for more
+           G                 G7            C        C
+    Better fly 'fore I... produce my forty-four
+
+
+    C                  C      C                   C7
+    I'm just a prairie boy... never meant none no harm
+    F               F               F                   C       C
+    Spend my day... makin' wages... out on the Martin's farm
+       G                 G7             C        C
+    No eastern boy... is gonna twist my arm
+
+            [ INSTRUMENTAL VERSE ]    
+
+         C                C       C                         C7
+    It's so damn cold out here... wind will cut you half in two
+            F              F              F            C       C
+    I ain't kidding now... my old plow is frozen to my mule
+              G            G7               C       C
+    I've been livin' on... ice cold rainbow stew
+
+
+    C                C         C           C7
+    Don't be pickin' fights... with no Mennonites
+             F                           F                   F                   C      C
+    Don't be raisin' Cain, while they're plantin' grain, and workin' through the night
+          G                  G7               C        C
+    Gonna let you know... if you ain't acting right
+
+            [ INSTRUMENTAL VERSE ]  
+
         C           C      C               C7
-        Mr. Toronto man... go away from my door
-            F                F                         F             C       C
-        You got my wheat and Canola seed... and you're asking me for more
-               G                 G7            C        C
-        Better fly 'fore I... produce my forty-four
-
-
-        C                  C      C                   C7
-        I'm just a prairie boy... never meant none no harm
-        F               F               F                   C       C
-        Spend my day... makin' wages... out on the Martin's farm
-           G                 G7             C        C
-        No eastern boy... is gonna twist my arm
-
-                [ INSTRUMENTAL VERSE ]    
-
-             C                C       C                         C7
-        It's so damn cold out here... wind will cut you half in two
-                F              F              F            C       C
-        I ain't kidding now... my old plow is frozen to my mule
-                  G            G7               C       C
-        I've been livin' on... ice cold rainbow stew
-
-
-        C                C         C           C7
-        Don't be pickin' fights... with no Mennonites
-                 F                           F                   F                   C      C
-        Don't be raisin' Cain, while they're plantin' grain, and workin' through the night
-              G                  G7               C        C
-        Gonna let you know... if you ain't acting right
-
-                [ INSTRUMENTAL VERSE ]  
-
-            C           C      C               C7
-        So, Mr. Toronto man... go away from my door
-            F                F                         F             C      C
-        You got my wheat and Canola seed... and you're asking me for more
-               G                 G7            C        C
-        Better fly 'fore I... produce my forty-four
-               G                 G7            C        C  [ end on final C ]
-        Better fly 'fore I... produce my forty-four
+    So, Mr. Toronto man... go away from my door
+        F                F                         F             C      C
+    You got my wheat and Canola seed... and you're asking me for more
+           G                 G7            C        C
+    Better fly 'fore I... produce my forty-four
+           G                 G7            C        C  [ end on final C ]
+    Better fly 'fore I... produce my forty-four -->
 
 ## Chord shapes
 
-See PDF for fretboard diagrams of all chords.
+See sheet music for fretboard diagrams of all chords.
 
 ## Strumming patterns
 
-See PDF for strumming diagram.
+See sheet music for strumming diagram.
 
 ## Walk-up and walk-down tabs
 
-See PDF for tabs.
+See sheet music for tabs.

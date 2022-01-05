@@ -44,22 +44,24 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven   XXXXXXXXXXXXXXXX
+    Stairway to Heaven   XXXXXXXXXXXXXXXXX
     Tuesday's Gone       XXXXXXXXX
+    Wildflowers          XXXXXXXXX
     Sweet Child o Mine   XXXXXXXX
     Creep                XXXXXXXX
-    Wildflowers          XXXXXXXX
+    Lola                 XXXXXXXX
     Me and Bobby McGee • XXXXXXX
-    Lola                 XXXXXXX
-    If I had a Boat    • XXXXXX
+    A Million Dreams •   XXXXXX
+    If I had a Boat •    XXXXXX
+    Like a Rolling Stone XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
-    A Million Dreams •          XXXXX
-    Always Remember Us This Way XXX
+    Always Remember Us This Way XXXX
     Banded Clovis •             XXX
     California Dreaming         XXX
+    Danny's Song •              XXX
     Feeling Whitney             XXX
     Game of Thrones (theme)     XXX
     Guantanamara                XXXX
@@ -67,7 +69,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     LA Freeway                  XXX
     Let It Go                   XXX
     Light On •                  XXX
-    Like a Rolling Stone        XXXXX
     Maybe it's time •           XXXXX
     My Fav. Picture of You      XXXX
     My Old Kentucky Home        XXX
@@ -88,7 +89,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
     Badlands •                  X
-    Danny's Song                XX
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           X
