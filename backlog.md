@@ -78,7 +78,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Under the Bridge •          XXX
     Walk Right In •             XXX
     We Are the Champions •      XXX
-    Whitehouse Road             XXX
+    Whitehouse Road             XXXX
 
 <br />
 <h3>1-2 requests:</h3>
