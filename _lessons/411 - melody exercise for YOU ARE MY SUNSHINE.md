@@ -19,6 +19,21 @@ patreon_lesson_url: https://www.patreon.com/posts/61077679
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
+<br />
+<div class="pdf_module_v2 pdf_module_v2--song">
+  <h3 class="pdf_module_v2__headline">Get the full song sheet music<span>(4 pages)</span></h3>
+  <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/410.jpg)"></div>
+  <div class="pdf_module_v2__content">
+    <ul class="pdf_module_v2__list">
+      <li>A properly licensed, print-friendly arrangement is available for individual purchase at Musicnotes.com</li>
+      <li>This sheet music was designed &amp; hand-crafted by me (David Potsiadlo) with care, providing you with everything needed to both learn and play this song.</li>
+      <li>On the fence? <a href="https://playsongnotes.com/lessons/373/" target="_blank">Here's a video guide</a> I made showing the purchase &amp; print process.</li>
+    </ul>
+    <a class="pdf_module_v2__button" target="_blank" href="https://www.musicnotes.com/l/Nd3MZ"><strong>Buy at Musicnotes.com</strong></a>
+    <p class="pdf_module_v2__footnote">Patreon supporters: <strong><a target="_blank" href="https://playsongnotes.com/discount">click here</a></strong> to get the 50% off discount code on this purchase</p>
+  </div>
+</div>
+
 ## Editor's notes
 
 Hey friends! A lesson today where I show the process of working out the melody notes for "You Are My Sunshine", as covered by Johnny Cash in 2003. I'll walk you through things, using the chord shapes for the song (A, D, and E major) as a starting point -- and help you learn how to look for & recognize the melody notes therein.  I would consider this an essential guitar skill, as understanding where to find the melody notes for any song you're playing opens so many doors.
