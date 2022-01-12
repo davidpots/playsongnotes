@@ -5,7 +5,7 @@ song_title: "Will You Love Me Tomorrow"
 artist: The Shirelles
 year: 1960
 yt_video_id: BTs4IbU5ZvU
-tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
+tags: [Full Song Lesson, Key of C, 1960s, Classic Rock, Melody Notes]
 category: full_song
 slug: "309"
 date_published: 2020-07-04

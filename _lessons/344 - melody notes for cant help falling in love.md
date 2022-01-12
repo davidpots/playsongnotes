@@ -4,7 +4,7 @@ title: 'Figuring out the melody notes within a chord progression'
 category: practice_log
 slug: "344"
 date_published: 2021-01-10
-tags: [Warm Up Exercise, Key of C, Learning Chords]
+tags: [Practice Log, Key of C, Learning Chords, Melody Notes]
 hidden_tags: [Elvis, Elvis Presley, Cant help falling in love, cant help falling in love with you]
 yt_video_id: k0JUiaUUU9c
 pdf_version: v2

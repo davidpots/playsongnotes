@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Jan 11 - If I Had a Boat
     Jan 4  - The Wind
     Jan 4  - Dead Flowers
     Dec 10 - Yesterday
@@ -45,27 +46,26 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven   XXXXXXXXXXXXXXXXX
+    Wildflowers          XXXXXXXXXXXX
     Tuesday's Gone       XXXXXXXXX
-    Wildflowers          XXXXXXXXX
     Sweet Child o Mine   XXXXXXXX
     Creep                XXXXXXXX
     Lola                 XXXXXXXX
+    Like a Rolling Stone XXXXXXX
     Me and Bobby McGee • XXXXXXX
     A Million Dreams •   XXXXXX
-    If I had a Boat •    XXXXXX
-    Like a Rolling Stone XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
     Always Remember Us This Way XXXX
     Banded Clovis •             XXX
-    California Dreaming         XXX
-    Danny's Song •              XXX
+    California Dreaming         XXXXX
+    Danny's Song •              XXXX
     Feeling Whitney             XXX
     Game of Thrones (theme)     XXX
     Guantanamara                XXXX
-    Highwayman •                XXX
+    Highwayman •                XXXX
     LA Freeway                  XXX
     Let It Go                   XXX
     Light On •                  XXX
@@ -73,11 +73,13 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     My Fav. Picture of You      XXXX
     My Old Kentucky Home        XXX
     Remember Me •               XXX
+    Running Down a Dream        XXX
     Say It Ain't So             XXXX
     Total Eclipse of the Heart  XXXXX
     Under the Bridge •          XXX
     Walk Right In •             XXX
     We Are the Champions •      XXX
+    When the Man Comes Around   XXX
     Whitehouse Road             XXXX
 
 <br />
@@ -85,6 +87,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
     About a Girl                X
     Acid Tongue                 XX
+    All Apologies               XX
     American Girl               XX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
@@ -97,11 +100,9 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Let It Go                   X
     Lookin' Out My Backdoor     XX
     Manhattan Island Serenade   X
-    Rivers of Babylon           X
-    Running Down a Dream        XX  
+    Rivers of Babylon           X  
     Sedona                      X
     Surf Rider                  XX
-    When the Man Comes Around   XX
     Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX
 
