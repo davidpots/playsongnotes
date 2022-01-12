@@ -44,50 +44,52 @@ Video timestamps:
 
 No capo, standard tuning... see my note below for more info
 
-    INTRO
-        | E         | Emaj7      | E7          | A         |
-        | Am        | E  B  A    | E     B     | E         |
+    See my licensed sheet music for the complete song lyrics with chords.
 
-    VERSE
-        E                                Emaj7
-        ...They sat together in the park... as the evening sky grew dark
-        E7                                          A                    (Asus2)
-        ...She looked at him and he felt a spark... tingle to his bones
-        Am                                      E      Bsus4     A       (Asus2)
-        ...Twas then he felt alone, and wished... that he'd gone straight
-            E                 Bsus4                 E
-        And watched out for a simple twist of fate
+<!-- INTRO
+    | E         | Emaj7      | E7          | A         |
+    | Am        | E  B  A    | E     B     | E         |
 
-                                          (...uses same progression for each verse)
+VERSE
+    E                                Emaj7
+    ...They sat together in the park... as the evening sky grew dark
+    E7                                          A                    (Asus2)
+    ...She looked at him and he felt a spark... tingle to his bones
+    Am                                      E      Bsus4     A       (Asus2)
+    ...Twas then he felt alone, and wished... that he'd gone straight
+        E                 Bsus4                 E
+    And watched out for a simple twist of fate
 
-        [E] They walked along by the old canal... [Emaj7] a little confused, I remember well
-        [E7] And stopped into a strange hotel, with the [A] neon burning bright
-        [Am] He felt the heat of the night... [E] hit him... [B] like a [A] freight----- train
-        [E] Moving with a [B] simple twist of fate [E]
+                                      (...uses same progression for each verse)
 
-        [E] A saxophone someplace far-off played...[Emaj7] as she was walking along by the arcade
-        [E7] As a light bust through a beat-up shade, where [A] he was waking up
-        [Am] She dropped a coin into the cup, of a [E] blind man [B] at the [A] gate-----
-        [E] And forgot about a [B] simple twist of fate [E]
+    [E] They walked along by the old canal... [Emaj7] a little confused, I remember well
+    [E7] And stopped into a strange hotel, with the [A] neon burning bright
+    [Am] He felt the heat of the night... [E] hit him... [B] like a [A] freight----- train
+    [E] Moving with a [B] simple twist of fate [E]
 
-        [instrumental verse]
+    [E] A saxophone someplace far-off played...[Emaj7] as she was walking along by the arcade
+    [E7] As a light bust through a beat-up shade, where [A] he was waking up
+    [Am] She dropped a coin into the cup, of a [E] blind man [B] at the [A] gate-----
+    [E] And forgot about a [B] simple twist of fate [E]
 
-        [E] He woke up, the room was bare... [Emaj] he didn't see her anywhere
-        [E7] He told himself he didn't care, pushed the [A] window opened wide
-        [Am] Felt an emptiness inside... to which he [E] just could [B] not [A] relate-----
-        [E] Brought on by a [B] simple twist of fate [E]
+    [instrumental verse]
 
-        [E] He hears the ticking of the clocks... [Emaj7] and walks along with a parrot that talks
-        [E7] Hunts her down by the waterfront docks, where the [A] sailors all come in
-        [Am] Maybe she'll pick him out again... how [E] long [B] must he [A] wait-----
-        [E] One more time, for a [B] simple twist of fate [E]
+    [E] He woke up, the room was bare... [Emaj] he didn't see her anywhere
+    [E7] He told himself he didn't care, pushed the [A] window opened wide
+    [Am] Felt an emptiness inside... to which he [E] just could [B] not [A] relate-----
+    [E] Brought on by a [B] simple twist of fate [E]
 
-        [E] People tell me it's a sin... [Emaj7] to know and feel too much within
-        [E7] I still believe she was my twin, [A] but I lost the ring
-        [Am] She was born in spring, but [E] I... was [B] born too [A] late-----
-        [E] Blame it on a [B] simple twist of fate [E]
+    [E] He hears the ticking of the clocks... [Emaj7] and walks along with a parrot that talks
+    [E7] Hunts her down by the waterfront docks, where the [A] sailors all come in
+    [Am] Maybe she'll pick him out again... how [E] long [B] must he [A] wait-----
+    [E] One more time, for a [B] simple twist of fate [E]
 
-        [instrumental verse, end]
+    [E] People tell me it's a sin... [Emaj7] to know and feel too much within
+    [E7] I still believe she was my twin, [A] but I lost the ring
+    [Am] She was born in spring, but [E] I... was [B] born too [A] late-----
+    [E] Blame it on a [B] simple twist of fate [E]
+
+    [instrumental verse, end] -->
 
 ## A note about tuning, capo, and how Dylan plays this song
 
@@ -101,21 +103,21 @@ For the B chord, I’ll use this Bsus4 voicing I show below — which is far eas
 
 For the A-major chord, I often will freely switch to an Asus2 to mix up the sound, which again captures the open-tuning vibe of Dylan’s version.
 
-    [ See PDF for tabs]
+    [ See my sheet music for tabs]
 
 Sometimes I’ll flirt with playing 6-string versions of the E-Emaj7-E7 sequence, using the voicings shown below. If you do this, try to lead into each chord by playing the bass notes (4th string) as I show here — which attempts to capture the very important descending tone. What I don’t love about this, is how muddy the Emaj7 sounds — so if anything, that’s the chord (of the 3 shown below) where I usually revert to the 4-string version.
 
-    [ See PDF for tabs]
+    [ See my sheet music for tabs]
 
 ## Strumming patterns
 
 The most basic strum you’ll want to do is a “bass, DOWN, bass, DOWN” where “bass” refers to the thickest string used in whatever chord you’re playing. I slightly emphasize the down-strums.
 
-    [ See PDF for diagram ]
+    [ See my sheet music for diagram ]
 
 To strum like Dylan, use one of the two patterns below. Keep all up-strums light, staying on the thinnest 2-3 strings only. Keeping an accent on beats 2 & 4 also sounds good, if you can manage.
 
-    [ See PDF for diagram ]
+    [ See my sheet music for diagram ]
 
 ## Chord progression
 
