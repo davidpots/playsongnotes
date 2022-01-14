@@ -54,18 +54,19 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Like a Rolling Stone XXXXXXX
     Me and Bobby McGee • XXXXXXX
     A Million Dreams •   XXXXXX
+    California Dreaming  XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
     Always Remember Us This Way XXXX
-    Banded Clovis •             XXX
-    California Dreaming         XXXXX
+    American Girl               XXXX
+    Banded Clovis •             XXXX
     Danny's Song •              XXXX
     Feeling Whitney             XXX
     Game of Thrones (theme)     XXX
     Guantanamara                XXXX
-    Highwayman •                XXXX
+    Highwayman •                XXXXX
     LA Freeway                  XXX
     Let It Go                   XXX
     Light On •                  XXX
@@ -85,10 +86,10 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <br />
 <h3>1-2 requests:</h3>
 
+    7 Years                     X
     About a Girl                X
     Acid Tongue                 XX
     All Apologies               XX
-    American Girl               XX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
     Badlands •                  X
@@ -102,7 +103,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
     Sedona                      X
-    Surf Rider                  XX
+    Surf Rider                  XXX
     Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX
 
