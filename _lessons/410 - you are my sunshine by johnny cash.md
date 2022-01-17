@@ -6,7 +6,7 @@ artist: Johnny Cash
 year: 2003
 tags: [Full Song Lesson, Key of A, 2000s, Traditional]
 category: full_song
-yt_video_id: Q7LXvdKYuYo
+yt_video_id: CYp-KcoA8YY
 slug: "410"
 date_published: 2022-01-12
 pdf_version: musicnotes
@@ -22,13 +22,20 @@ musicnotes_url: https://www.musicnotes.com/l/Nd3MZ
 
 ## Editor's notes
 
-Hey there, friends! As of today (Jan 12, 2022) the full lesson for this song hasn't been posted yet! I'm finishing it up and it will be available in the next few days. If you want, you can still buy the print-friendly, licensed sheet music (4 pages) linked above.
+Hey friends! Here's my new video lesson teaching you how to play the traditional classic You Are My Sunshine. I'm basing this on the 2003 version by Johnny Cash, which is played using only 3 chords (A, D, and E) -- making it great for absolute beginners. In the second half of the lesson, I'll show how you can dial up the difficulty a bit if you want to add more complex strumming (e.g. alternating bass notes). I'll also show two different ways to play the melody riff, tabs included.
 
-Subscribe to my channel on [YouTube](http://youtube.com/playsongnotes), become a member on my [Patreon](http://patreon.com/songnotes) page, or sign up for my free [email newsletter](http://playsongnotes.com/newsletter/) to get notified when the video goes live. Thanks for your patience!
+Video timestamps:
 
-<br /><br />
+- 0:00 Preview & Lesson Summary
+- 1:49 Chord Shapes
+- 3:31 Chord Progression
+- 5:27 Strumming: Basics
+- 7:05 Strumming: Adding Bass Notes
+- 12:12 Melody Riff w/ Tabs
+- 22:03 Full Playthrough
+
 ## My melody note exercise for this song
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBCESmYYYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I did make the practice log video (above), where I show you the live process of working out the melody notes for this song. [Here's a link](http://playsongnotes.com/lessons/411/) to my detailed notes for that lesson, which includes a link to the practice worksheet.
+I also the practice log video (above), where I show you the live process of working out the melody notes for this song. [Here's a link](http://playsongnotes.com/lessons/411/) to my detailed notes for that lesson, which includes a link to the practice worksheet (which is available to my supporters on [Patreon](http://patreon.com/songnotes)).

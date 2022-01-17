@@ -45,12 +45,12 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven   XXXXXXXXXXXXXXXXX
+    Stairway to Heaven   XXXXXXXXXXXXXXXXXX
     Wildflowers          XXXXXXXXXXXX
     Tuesday's Gone       XXXXXXXXX
+    Lola                 XXXXXXXXX
     Sweet Child o Mine   XXXXXXXX
     Creep                XXXXXXXX
-    Lola                 XXXXXXXX
     Like a Rolling Stone XXXXXXX
     Me and Bobby McGee • XXXXXXX
     A Million Dreams •   XXXXXX
@@ -102,7 +102,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Lookin' Out My Backdoor     XX
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
-    Sedona                      X
+    Sedona                      XX
     Surf Rider                  XXX
     Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX

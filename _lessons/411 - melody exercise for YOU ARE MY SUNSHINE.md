@@ -15,24 +15,11 @@ patreon_lesson_url: https://www.patreon.com/posts/61077679
 
 ## Video lesson
 
+<em>If you're looking for my full song lesson for You Are My Sunshine (with the sheet music), you can [find it here](https://playsongnotes.com/lessons/410/).</em>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBCESmYYYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-<br />
-<div class="pdf_module_v2 pdf_module_v2--song">
-  <h3 class="pdf_module_v2__headline">Get the full song sheet music<span>(4 pages)</span></h3>
-  <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/410.jpg)"></div>
-  <div class="pdf_module_v2__content">
-    <ul class="pdf_module_v2__list">
-      <li>A properly licensed, print-friendly arrangement is available for individual purchase at Musicnotes.com</li>
-      <li>This sheet music was designed &amp; hand-crafted by me (David Potsiadlo) with care, providing you with everything needed to both learn and play this song.</li>
-      <li>On the fence? <a href="https://playsongnotes.com/lessons/373/" target="_blank">Here's a video guide</a> I made showing the purchase &amp; print process.</li>
-    </ul>
-    <a class="pdf_module_v2__button" target="_blank" href="https://www.musicnotes.com/l/Nd3MZ"><strong>Buy at Musicnotes.com</strong></a>
-    <p class="pdf_module_v2__footnote">Patreon supporters: <strong><a target="_blank" href="https://playsongnotes.com/discount">click here</a></strong> to get the 50% off discount code on this purchase</p>
-  </div>
-</div>
 
 ## Editor's notes
 
@@ -41,11 +28,11 @@ Hey friends! A lesson today where I show the process of working out the melody n
 If you like this lesson, check out a similar videos I made looking at [Can't Help Falling in Love](http://playsongnotes.com/lessons/344/) by Elvis Presley and also [Will You Love Me Tomorrow](http://playsongnotes.com/lessons/309/) by Carole King / The Shirelles.
 
 <br /><br />
-## Full song lesson for "You Are My Sunshine" coming soon!
+## Full song lesson also available!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7LXvdKYuYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYp-KcoA8YY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As of Wednesday, Jan 12 -- I haven't posted the full lesson for this song yet! I'll post it in the new few days. I know I said it's available in the video above, which I did to future-proof that video. Subscribe to my channel on [YouTube](http://youtube.com/playsongnotes), become a member on my [Patreon](http://patreon.com/songnotes) page, or sign up for my free [email newsletter](http://playsongnotes.com/newsletter/) to get notified when the video goes live. Thanks for your patience!
+If you want to learn this entire song (played with strumming), I have a separate video lesson you can [view here](https://playsongnotes.com/lessons/410/). You also can get the [4-page sheet music](https://www.musicnotes.com/l/Nd3MZ) to follow along. Check it out!
 
 <br /><br />
 ## Similar melody lessons I've made...
