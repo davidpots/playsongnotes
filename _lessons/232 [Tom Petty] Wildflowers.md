@@ -10,7 +10,7 @@ slug: "232"
 yt_video_id: ZA4AKs83Lxc
 redirect_from:
   - /songs/tom-petty-wildflowers/
-pdf_version: copyright
+pdf_version: https://www.musicnotes.com/l/Nx3MW
 pdf_numpages: 4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/26240703

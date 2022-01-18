@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Jan 18 - Wildflowers
     Jan 11 - If I Had a Boat
     Jan 4  - The Wind
     Jan 4  - Dead Flowers
@@ -46,7 +47,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven   XXXXXXXXXXXXXXXXXX
-    Wildflowers          XXXXXXXXXXXX
     Tuesday's Gone       XXXXXXXXX
     Lola                 XXXXXXXXX
     Sweet Child o Mine   XXXXXXXX
