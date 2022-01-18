@@ -77,133 +77,141 @@ A final note: pay attention to the counting. Notice how you're "counting into" e
 
 Start with this one, especially if you're newer to guitar. All riff notes occur on the lowest two strings, which is nice.
 
-    E ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    B ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    G ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    D ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    A ––––0––2––|––3–––––––––––––––––3––2––|–––––––––––––––––––––––2––|–
-    E ––––––––––|––––––––––––––––––––––––––|––3–––––––––––––––––3–––––|–
-       +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +    
-                   C                          G                         
+    See my sheet music for the tab
 
-               –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
-               –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
-               –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
-               –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
-               –|––0–––––––––––––––––––––––|––0–––––––––––––––––0––2––|––
-               –|––––––––––––––––––––0––3––|––––––––––––––––––––––––––|––
-                   1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
-                   Am                         Am
+<!-- E ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+B ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+G ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+D ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+A ––––0––2––|––3–––––––––––––––––3––2––|–––––––––––––––––––––––2––|–
+E ––––––––––|––––––––––––––––––––––––––|––3–––––––––––––––––3–––––|–
+   +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +    
+               C                          G                         
+
+           –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
+           –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
+           –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
+           –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|––
+           –|––0–––––––––––––––––––––––|––0–––––––––––––––––0––2––|––
+           –|––––––––––––––––––––0––3––|––––––––––––––––––––––––––|––
+               1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
+               Am                         Am -->
 
 ### Intermediate version
 
 Taken to the next level, here's a slightly more difficult version to play (that sounds more complete). The walk-in notes are a bit more complicated (you sometime use the D string, you sometimes start walking in on the half-beat before the "4 and", etc). There's also an opportunity to strum or pick the full chord used in each measure -- which I show in parantheses here. Again, listen to my video lesson to see this in action.
 
-    E ––––––––––|–––––––(0)––––––––––––––––|–––––––(3)––––––––––––––––|–
-    B ––––––––––|–––––––(1)––––––––––––––––|–––––––(0)––––––––––––––––|–
-    G ––––––––––|–––––––(0)––––––––––––––––|–––––––(0)––––––––––––––––|–
-    D ––––––––––|–––––––(2)–––––––2––0–––––|–––––––(0)–––––––2––0–––––|–
-    A ––––0––2––|––3––––(3)–––––––––––––3––|–––––––(2)–––––––––––––3––|–
-    E ––––––––––|––––––––––––––––––––––––––|––3––––(3)––––––––––––––––|–
-       +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
-                   C                          G
+    See my sheet music for the tab
 
-               –|–––––––(0)––––––––––––––––|–––––––(0)––––––––––––––––|–
-               –|–––––––(1)––––––––––––––––|–––––––(1)––––––––––––––––|–
-               –|–––––––(2)––––––––––––––––|–––––––(2)––––––––––––––––|–
-               –|–––––––(2)––––––––––––––––|–––––––(2)––––––––––––––––|–
-               –|––0––––(0)––––––––––––––––|––0––––(0)––––––––––0––2––|–
-               –|–––––––––––––––––0––3––0––|––––––––––––––––––––––––––|–
-                   1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
-                   Am                         Am
+<!-- E ––––––––––|–––––––(0)––––––––––––––––|–––––––(3)––––––––––––––––|–
+B ––––––––––|–––––––(1)––––––––––––––––|–––––––(0)––––––––––––––––|–
+G ––––––––––|–––––––(0)––––––––––––––––|–––––––(0)––––––––––––––––|–
+D ––––––––––|–––––––(2)–––––––2––0–––––|–––––––(0)–––––––2––0–––––|–
+A ––––0––2––|––3––––(3)–––––––––––––3––|–––––––(2)–––––––––––––3––|–
+E ––––––––––|––––––––––––––––––––––––––|––3––––(3)––––––––––––––––|–
+   +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
+               C                          G
+
+           –|–––––––(0)––––––––––––––––|–––––––(0)––––––––––––––––|–
+           –|–––––––(1)––––––––––––––––|–––––––(1)––––––––––––––––|–
+           –|–––––––(2)––––––––––––––––|–––––––(2)––––––––––––––––|–
+           –|–––––––(2)––––––––––––––––|–––––––(2)––––––––––––––––|–
+           –|––0––––(0)––––––––––––––––|––0––––(0)––––––––––0––2––|–
+           –|–––––––––––––––––0––3––0––|––––––––––––––––––––––––––|–
+               1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
+               Am                         Am -->
 
 ## Picking pattern
 
 Alright! Finally, the picking pattern. This is what you hear in the intro to the song, and throughout the verse. This is challenging to learn in its own right (memorizing the pattern for each measure; getting your picking up/down direction polished; not accidentally hitting the other strings; etc). If this is your thing, learn it! If you're not sure this is your thing, learn it anyway! If nothing else, it is a good practice exercise. Just the same, you could strum the song 100% and never bother with this.
 
-    E ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-    B ––––––––––|––––––––––––––1–––––––––––|––––––––––––––––––––––––––|–
-    G ––––––––––|–––––0–––––––––––0–––––0––|––––––––––––––0––––––––0––|–
-    D ––––––––––|––––––––2–––––––––––2–––––|–––––0–––––––––––0––––––––|–
-    A ––––0––2––|––3––––––––3––––––––––––––|––––––––2–––––––––––2–––––|–
-    E ––––––––––|––––––––––––––––––––––––––|––3––––––––3––––––––––––––|–
-       +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
-                   C                          G
+    See my sheet music for the tab
 
-               –|––––––––––––––––––––––––––|––––––––––––––3–––––––––––|–
-               –|––––––––––––––1–––––––––––|–––––1–––––––––––1––––––––|–
-               –|–––––2–––––––––––2–––––2––|––––––––2–––––––––––––––––|–
-               –|––––––––2–––––––––––2–––––|–––––––––––2––––––––––––––|–
-               –|––0––––––––0––––––––––––––|––0–––––––––––––––––0––2––|–
-               –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
-                   1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
-                   Am                         Am
+<!-- E ––––––––––|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+B ––––––––––|––––––––––––––1–––––––––––|––––––––––––––––––––––––––|–
+G ––––––––––|–––––0–––––––––––0–––––0––|––––––––––––––0––––––––0––|–
+D ––––––––––|––––––––2–––––––––––2–––––|–––––0–––––––––––0––––––––|–
+A ––––0––2––|––3––––––––3––––––––––––––|––––––––2–––––––––––2–––––|–
+E ––––––––––|––––––––––––––––––––––––––|––3––––––––3––––––––––––––|–
+   +  4  +     1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
+               C                          G
 
-## Lyrics
+           –|––––––––––––––––––––––––––|––––––––––––––3–––––––––––|–
+           –|––––––––––––––1–––––––––––|–––––1–––––––––––1––––––––|–
+           –|–––––2–––––––––––2–––––2––|––––––––2–––––––––––––––––|–
+           –|––––––––2–––––––––––2–––––|–––––––––––2––––––––––––––|–
+           –|––0––––––––0––––––––––––––|––0–––––––––––––––––0––2––|–
+           –|––––––––––––––––––––––––––|––––––––––––––––––––––––––|–
+               1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +
+               Am                         Am -->
 
-    INTRO
+## Lyrics with chords
 
-        C . . . G . . . Am . . . Am . . .   (with riff, play 4x)
+    See my sheet music for the full lyrics, with chords included
 
-    VERSE
+<!-- INTRO
 
-         C        G              Am
-    Mama told me..... when I was young
-               C        G           Am
-    Come sit beside me..... my only son
-               C        G             Am
-    And listen closely..... to what I say
-               C              G                  Am      
-    And if you do this, it'll help you... some sunny day
+    C . . . G . . . Am . . . Am . . .   (with riff, play 4x)
 
-        [ intro riff x 2, with heavy lead guitar ]
+VERSE
 
-                  C      G                 Am
-    Oh, take your time..... don't live too fast
-                  C      G                Am
-    Troubles will come..... and they will pass
-                  C      G                 Am
-    You'll find a woman.... and you'll find love
-                 C                    G             Am
-    And don't forget, son... there is someone up---- above
+     C        G              Am
+Mama told me..... when I was young
+           C        G           Am
+Come sit beside me..... my only son
+           C        G             Am
+And listen closely..... to what I say
+           C              G                  Am      
+And if you do this, it'll help you... some sunny day
 
-    CHORUS
-                 C       G            Am
-        And be a simple------ kind of man
-               C          G                     Am
-        Oh, be something..... you love and understand
-                   C       G          Am
-        Baby, be a simple---- kind of man
-                      C               G             Am
-        Oh, won't you do this for me, son... if you can
+    [ intro riff x 2, with heavy lead guitar ]
 
-        [ intro riff x 1 ]
+              C      G                 Am
+Oh, take your time..... don't live too fast
+              C      G                Am
+Troubles will come..... and they will pass
+              C      G                 Am
+You'll find a woman.... and you'll find love
+             C                    G             Am
+And don't forget, son... there is someone up---- above
 
-    [ repeat C-G-Am-Am progression for remaining verse & chorus sections]
+CHORUS
+             C       G            Am
+    And be a simple------ kind of man
+           C          G                     Am
+    Oh, be something..... you love and understand
+               C       G          Am
+    Baby, be a simple---- kind of man
+                  C               G             Am
+    Oh, won't you do this for me, son... if you can
 
-    Forget your lust for the rich man's gold
-    All that you need is in your soul
-    And you can do this, oh baby, if you try
-    All that I want for you, my son, is to be satisfied
+    [ intro riff x 1 ]
 
-        And be a simple kind of man
-        Oh, be something you love and understand
-        Baby be a simple kind of man
-        Oh, won't you do this for me, son, if you can (Oh yes, I will)
+[ repeat C-G-Am-Am progression for remaining verse & chorus sections]
 
-    [ intro riff, with solo ]
+Forget your lust for the rich man's gold
+All that you need is in your soul
+And you can do this, oh baby, if you try
+All that I want for you, my son, is to be satisfied
 
-    Boy, don't you worry, you'll find yourself
-    Follow your heart and nothing else
-    And you can do this, oh baby, if you try
-    All that I want for you, my son, is to be satisfied
+    And be a simple kind of man
+    Oh, be something you love and understand
+    Baby be a simple kind of man
+    Oh, won't you do this for me, son, if you can (Oh yes, I will)
 
-        And be a simple kind of man
-        Oh, be something you love and understand
-        Baby be a simple kind of man
-        Oh, won't you do this for me, son, if you can
+[ intro riff, with solo ]
 
-        [ repeat chorus, fade out, end ]
+Boy, don't you worry, you'll find yourself
+Follow your heart and nothing else
+And you can do this, oh baby, if you try
+All that I want for you, my son, is to be satisfied
+
+    And be a simple kind of man
+    Oh, be something you love and understand
+    Baby be a simple kind of man
+    Oh, won't you do this for me, son, if you can
+
+    [ repeat chorus, fade out, end ] -->
 
 ## Hope that helps!
 

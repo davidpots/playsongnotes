@@ -46,13 +46,13 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven   XXXXXXXXXXXXXXXXXX
-    Tuesday's Gone       XXXXXXXXX
+    Stairway to Heaven   XXXXXXXXXXXXXXXXXXX
+    Tuesday's Gone       XXXXXXXXXX
     Lola                 XXXXXXXXX
-    Sweet Child o Mine   XXXXXXXX
     Creep                XXXXXXXX
+    Me and Bobby McGee • XXXXXXXX
+    Sweet Child o Mine   XXXXXXXX
     Like a Rolling Stone XXXXXXX
-    Me and Bobby McGee • XXXXXXX
     A Million Dreams •   XXXXXX
     California Dreaming  XXXXXX
 
@@ -63,8 +63,8 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXX
-    Feeling Whitney             XXX
-    Game of Thrones (theme)     XXX
+    Feeling Whitney             XXXXX
+    Game of Thrones (theme)     XXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
     LA Freeway                  XXX
@@ -72,7 +72,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Light On •                  XXX
     Maybe it's time •           XXXXX
     My Fav. Picture of You      XXXX
-    My Old Kentucky Home        XXX
+    My Old Kentucky Home        XXXX
     Remember Me •               XXX
     Running Down a Dream        XXX
     Say It Ain't So             XXXX
