@@ -1,28 +1,33 @@
 ---
 layout: song
-title: 'Common Walk-Downs in the Key of A major'
+title: 'Strummy Walk-Downs in the Key of A major'
 category: warmup
 slug: "408"
 tags: [Warm Up Exercise, Key of A, Walking Bass Lines]
 date_published: 2021-12-29
-yt_video_id: ____
+yt_video_id: 0WXqsxnBkxM
 pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/60477229
+patreon_lesson_url: https://www.patreon.com/posts/61459201/
 ---
 
 ## Video lesson
 
-Video coming soon!
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 
 In this lesson I want to show a handful of ways you can walk "down" the A-major scale while simultaneously strumming -- which creates a rich mixture of full chords atop a descending bass-line. This is quite the common trope in popular music (rock, folk, country, etc) -- and while it may sound fancy and complicated, there are actually some relatively approachable ways to tackle this. Let's look at a few!
+
+- 0:00 Lesson Summary
+- 2:19 Riff #1: Using "Full" Open Chords
+- 4:45 Riff #2: Advanced A/G# and E/G# Options
+- 7:53 Riff #3: 2-String (Double-Stops) Versions
+- 11:16 Riff #4: Triads & 4-String Versions
+- 14:21 Closing Thoughts & Final Advice
 
 ## The Notes in the Key of A
 
@@ -51,6 +56,8 @@ One simple way to play an A-major walk-down is to use regular chord shapes, as s
 
 You could also play this by picking the bass note first, followed by a full strum of the chord. This helps accentuate the walk-down itself (via the individually picked note), and then emphasizes the chord context -- which again, contains the bass note you just played.
 
+    See my PDF for additional annotations (finger positions, etc)
+
     e ––––––0–––––––0–––––––2–––––––0–––––––2–––––––2–––––––0–––––––0–––––
     B ––––––2–––––––0–––––––2–––––––0–––––––3–––––––3–––––––0–––––––0–––––
     G ––2–––2–––1–––1–––––––2–––––––1–––––––2–––––––2–––––––1–––––––1–––––
@@ -76,6 +83,8 @@ Another way to play the same walk-down is to use this riff, which swaps out the 
         1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4  
 
 Similar in its difficulty is using this, which favors a E/G# for the A/G#. Again, this one is tricky to play! But I am including it for context, and so you know what the entirely of possibilities includes.
+
+    See my PDF for additional annotations (finger positions, etc)
 
     e ––––––––––––––––––2–––––––0–––––––2–––––––––––––––0–––––––––––––––––
     B ––2–––––––5–––––––2–––––––0–––––––3–––––––––––––––0–––––––––––––––––
@@ -103,6 +112,8 @@ Let's get away from the fully-strummed chords, and try something a bit off the b
 
 You could play this same thing with some added open strings on the B and high-E strings specifically. This sounds a bit off the beaten path (e.g. the F#m sounds a bit dissonant) -- but ultimately, has some nice character.
 
+    See my PDF for additional annotations (finger positions, etc)
+
     e –(0)–––––(0)–––––(0)–––––(0)–––––(0)–––––––––––––(0)––––––––––––––––
     B –(5)–––––(0)–––––(0)–––––(0)–––––(3)–––––––––––––(0)––––––––––––––––
     G ––6–––––––4–––––––2–––––––1–––––––2–––––––––––––––1–––––––––––––––––
@@ -128,6 +139,8 @@ Here's another fun version using alternative chord voicings, which mostly uses t
         1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4  
 
 Again, you could extend this by adding in the thinnest string -- and playing 4 tones from each of the chords. This makes the overall sound much more full.
+
+    See my PDF for additional annotations (finger positions, etc)
 
     e ––5–––––––4–––––––2–––––––0––––––(2)––––––––––––––0–––––––––––––––––
     B ––5–––––––5–––––––2–––––––0–––––––3–––––––––––––––0–––––––––––––––––

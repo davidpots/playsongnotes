@@ -96,7 +96,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           X
-    I've Been Everywhere        X
+    I've Been Everywhere        XX
     Let Him Roll                XX
     Let It Go                   X
     Lookin' Out My Backdoor     XX
