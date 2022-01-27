@@ -46,15 +46,17 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven   XXXXXXXXXXXXXXXXXXX
-    Tuesday's Gone       XXXXXXXXXX
-    Lola                 XXXXXXXXX
-    Creep                XXXXXXXX
-    Me and Bobby McGee • XXXXXXXX
-    Sweet Child o Mine   XXXXXXXX
-    Like a Rolling Stone XXXXXXX
-    A Million Dreams •   XXXXXX
-    California Dreaming  XXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXX
+    Tuesday's Gone              XXXXXXXXXX
+    Lola                        XXXXXXXXX
+    Me and Bobby McGee •        XXXXXXXXX
+    Creep                       XXXXXXXX
+    Sweet Child o Mine          XXXXXXXX
+    Like a Rolling Stone        XXXXXXX
+    A Million Dreams •          XXXXXX
+    California Dreaming         XXXXXX
+    Feeling Whitney             XXXXXX
+    Total Eclipse of the Heart  XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
@@ -63,24 +65,24 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXX
-    Feeling Whitney             XXXXX
     Game of Thrones (theme)     XXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
+    I've Been Everywhere        XXX
     LA Freeway                  XXX
     Let It Go                   XXX
     Light On •                  XXX
+    Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
     My Fav. Picture of You      XXXX
     My Old Kentucky Home        XXXX
     Remember Me •               XXX
     Running Down a Dream        XXX
     Say It Ain't So             XXXX
-    Total Eclipse of the Heart  XXXXX
-    Under the Bridge •          XXX
+    Under the Bridge •          XXXX
     Walk Right In •             XXX
-    We Are the Champions •      XXX
-    When the Man Comes Around   XXX
+    We Are the Champions •      XXXX
+    When the Man Comes Around   XXXX
     Whitehouse Road             XXXX
 
 <br />
@@ -96,10 +98,8 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           X
-    I've Been Everywhere        XX
     Let Him Roll                XX
     Let It Go                   X
-    Lookin' Out My Backdoor     XX
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
     Sedona                      XX
