@@ -37,6 +37,7 @@
   <script src="/js/jquery.js"></script>
   <script>
     $(document).ready(function(){
+
       $('.question-heading').click(function(){
          if ( $(this).parent().hasClass('question-opened') ) {
            $(this).parent().removeClass('question-opened');
@@ -45,6 +46,31 @@
          }
          return false;
       });
+
+
+      $('.has-subnav').click(function(){
+
+        // close any other subnavs
+        if ( !$(this).hasClass('has-subnav--open') ) {
+          $ ('.header-nav-links--subnav').hide();
+          $('.has-subnav').removeClass('has-subnav--open').addClass('has-subnav--closed');
+        }
+
+        // opening a subnav
+        if ( $(this).hasClass('has-subnav--closed') ) {
+          $(this).next('.header-nav-links--subnav').show();
+          $(this).removeClass('has-subnav--closed').addClass('has-subnav--open');
+          return false;
+        }
+        // closing a subnav
+        if ( $(this).hasClass('has-subnav--open') ) {
+          $(this).next('.header-nav-links--subnav').hide();
+          $(this).removeClass('has-subnav--open').addClass('has-subnav--closed');
+          return false;
+        }
+      });
+
+
     });
   </script>
 

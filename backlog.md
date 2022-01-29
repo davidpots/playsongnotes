@@ -46,22 +46,22 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXX
     Tuesday's Gone              XXXXXXXXXX
     Lola                        XXXXXXXXX
     Me and Bobby McGee •        XXXXXXXXX
     Creep                       XXXXXXXX
     Sweet Child o Mine          XXXXXXXX
+    A Million Dreams •          XXXXXXX
+    Feeling Whitney             XXXXXXX
     Like a Rolling Stone        XXXXXXX
-    A Million Dreams •          XXXXXX
     California Dreaming         XXXXXX
-    Feeling Whitney             XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
-    Always Remember Us This Way XXXX
+    Always Remember Us This Way XXXXX
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXX
@@ -77,7 +77,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     My Fav. Picture of You      XXXX
     My Old Kentucky Home        XXXX
     Remember Me •               XXX
-    Running Down a Dream        XXX
+    Running Down a Dream        XXXX
     Say It Ain't So             XXXX
     Under the Bridge •          XXXX
     Walk Right In •             XXX

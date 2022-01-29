@@ -110,6 +110,13 @@
         .header-nav-links li:last-child a {
           border-bottom: 1px solid #ddd;
         }
+        .header-nav-links li li:last-child a {
+          border-bottom: none;
+        }
+        .header-nav-links .header-nav-links--subnav {
+          margin: 0;
+          display: none;
+        }
         /*--*/
         .header-cta {
           display: block;
@@ -210,11 +217,12 @@
           padding: 0;
           float: left;
         }
-        .header-nav-links li {
+        .header-nav-links > li {
           float: left;
           margin-right: 28px;
+          position: relative;
         }
-        .header-nav-links li a {
+        .header-nav-links > li > a {
           display: block;
           height: 60px;
           line-height: 62px;
@@ -223,7 +231,49 @@
           font-size: 16px;
           font-weight: 700;
         }
-        /*--- */
+        /*----*/
+        .header-nav-links > li > a.has-subnav--open {
+          background: url(/images/icons/caret-up.svg) no-repeat right 52%;
+          background-size: 12px 12px;
+          padding-right: 20px;
+        }
+        .header-nav-links > li > a.has-subnav--closed {
+          background: url(/images/icons/caret-down.svg) no-repeat right 52%;
+          background-size: 12px 12px;
+          padding-right: 20px;
+        }
+        .header-nav-links--subnav {
+          display: none;
+          position: absolute;
+          min-width: 220px;
+          top: 64px;
+          left: -16px;
+          background: #fff;
+          list-style: none;
+          padding: 0;
+          border-radius: 4px;
+          overflow: hidden;
+          box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
+          border: 1px solid #ccc;
+        }
+        .header-nav-links--subnav > li > a {
+          text-decoration: none;
+          color: #000;
+          font-size: 16px;
+          font-weight: 600;
+          display: block;
+          padding: 14px 18px 15px;
+          border-bottom: 1px solid #ccc;
+        }
+        .header-nav-links--subnav > li > a:hover {
+          background: lighten($link-color, 55%);
+          color: $link-color;
+        }
+        .header-nav-links--subnav > li:last-child a {
+          border-bottom: none;
+        }
+
+        /*----*/
         .header-social-links {
           float: right;
           list-style: none;
