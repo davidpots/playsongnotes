@@ -47,14 +47,14 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXX
-    Tuesday's Gone              XXXXXXXXXX
+    Tuesday's Gone              XXXXXXXXXXX
+    Me and Bobby McGee •        XXXXXXXXXX
+    Like a Rolling Stone        XXXXXXXXX
     Lola                        XXXXXXXXX
-    Me and Bobby McGee •        XXXXXXXXX
     Creep                       XXXXXXXX
     Sweet Child o Mine          XXXXXXXX
     A Million Dreams •          XXXXXXX
     Feeling Whitney             XXXXXXX
-    Like a Rolling Stone        XXXXXXX
     California Dreaming         XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
@@ -68,7 +68,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Game of Thrones (theme)     XXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
-    I've Been Everywhere        XXX
+    I've Been Everywhere        XXXX
     LA Freeway                  XXX
     Let It Go                   XXX
     Light On •                  XXX
@@ -79,11 +79,12 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Remember Me •               XXX
     Running Down a Dream        XXXX
     Say It Ain't So             XXXX
-    Under the Bridge •          XXXX
+    Surf Rider                  XXXX
+    Under the Bridge •          XXXXX
     Walk Right In •             XXX
     We Are the Champions •      XXXX
     When the Man Comes Around   XXXX
-    Whitehouse Road             XXXX
+    Whitehouse Road             XXXXX
 
 <br />
 <h3>1-2 requests:</h3>
@@ -103,7 +104,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
     Sedona                      XX
-    Surf Rider                  XXX
     Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX
 
