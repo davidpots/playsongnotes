@@ -18,7 +18,8 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
-    Feb 1  - Tuesday's Gone
+    Feb 1  - I've Been Everywhere
+    Jan 31 - Tuesday's Gone
     Jan 18 - Wildflowers
     Jan 11 - If I Had a Boat
     Jan 4  - The Wind
@@ -68,8 +69,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Game of Thrones (theme)     XXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
-    I've Been Everywhere        XXXX
-    LA Freeway                  XXX
+    LA Freeway                  XXXX
     Let Him Roll                XXXX
     Let It Go                   XXX
     Light On •                  XXX

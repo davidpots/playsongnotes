@@ -12,8 +12,9 @@ slug: "170"
 redirect_from:
   - /songs/johnny-cash-i-ve-been-everywhere/
 #pdf_version: v1
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/RjtM4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986
 ---
