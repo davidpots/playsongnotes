@@ -13,8 +13,9 @@ hidden_tags: [tuesdays]
 redirect_from:
   - /songs/lynyrd-skynyrd-tuesdays-gone/
 #pdf_version: v1
-pdf_version: copyright
-pdf_numpages: 2
+pdf_version: musicnotes
+pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/CRtMP
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986
 ---

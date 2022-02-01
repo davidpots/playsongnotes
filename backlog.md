@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Feb 1  - Tuesday's Gone
     Jan 18 - Wildflowers
     Jan 11 - If I Had a Boat
     Jan 4  - The Wind
@@ -47,12 +48,11 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXX
-    Tuesday's Gone              XXXXXXXXXXX
     Me and Bobby McGee •        XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
     Lola                        XXXXXXXXX
+    Sweet Child o Mine          XXXXXXXXX
     Creep                       XXXXXXXX
-    Sweet Child o Mine          XXXXXXXX
     A Million Dreams •          XXXXXXX
     Feeling Whitney             XXXXXXX
     California Dreaming         XXXXXX
@@ -70,6 +70,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Highwayman •                XXXXX
     I've Been Everywhere        XXXX
     LA Freeway                  XXX
+    Let Him Roll                XXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
@@ -81,7 +82,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Say It Ain't So             XXXX
     Surf Rider                  XXXX
     Under the Bridge •          XXXXX
-    Walk Right In •             XXX
+    Walk Right In •             XXXX
     We Are the Champions •      XXXX
     When the Man Comes Around   XXXX
     Whitehouse Road             XXXXX
@@ -99,7 +100,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           X
-    Let Him Roll                XX
     Let It Go                   X
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
