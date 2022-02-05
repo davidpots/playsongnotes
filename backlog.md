@@ -48,7 +48,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXX
     Me and Bobby McGee •        XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
     Lola                        XXXXXXXXX
@@ -58,6 +58,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Feeling Whitney             XXXXXXX
     California Dreaming         XXXXXX
     Total Eclipse of the Heart  XXXXXX
+    Whitehouse Road •           XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
@@ -66,7 +67,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXX
-    Game of Thrones (theme)     XXXX
+    Game of Thrones (theme)     XXXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
     LA Freeway                  XXXX
@@ -75,7 +76,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
-    My Fav. Picture of You      XXXX
+    My Fav. Picture of You      XXXXX
     My Old Kentucky Home        XXXX
     Remember Me •               XXX
     Running Down a Dream        XXXX
@@ -85,7 +86,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Walk Right In •             XXXX
     We Are the Champions •      XXXX
     When the Man Comes Around   XXXX
-    Whitehouse Road             XXXXX
 
 <br />
 <h3>1-2 requests:</h3>
