@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Feb 7  - Whitehouse Road
     Feb 1  - I've Been Everywhere
     Jan 31 - Tuesday's Gone
     Jan 18 - Wildflowers
@@ -58,7 +59,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Feeling Whitney             XXXXXXX
     California Dreaming         XXXXXX
     Total Eclipse of the Heart  XXXXXX
-    Whitehouse Road •           XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
