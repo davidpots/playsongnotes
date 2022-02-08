@@ -6,6 +6,10 @@ tags: [Tips & Techniques, Learning Chords, Key of A]
 category: tip_technique
 slug: "46"
 yt_video_id: wUrKhHAT0Fk
+pdf_version: v2
+pdf_numpages: 5
+patreon_lesson_available: true
+patreon_lesson_url: https://www.patreon.com/posts/62306711
 ---
 
 ## Video lesson
@@ -23,8 +27,8 @@ Here's the songs I play in this lesson that demo this technique:
 - 4:15 Jack and Diane (simple)
 - 5:21 All Along the Watchtower
 - 6:56 Boogie-woogie riff
-- 7:48 Fall Line
-- 9:02 Turtles
+- 7:48 Fall Line by Jack Johnson
+- 9:02 Turtles all the Way Down by Sturgill Simpson
 - 10:14 Freeway Time in LA County Jail
 - 11:19 Jack and Diane (advanced)
 
@@ -32,31 +36,33 @@ Here's the songs I play in this lesson that demo this technique:
 
 When you were a new to guitar, you probably learned to play the A chord by playing the 5 thinnest strings like this:
 
-    E ––––0––––
-    B ––––2––––  <-- ring finger
-    G ––––2––––  <-- middle finger
-    D ––––2––––  <-- index finger
-    A ––––0––––
-    E –––––––––
-          A
+    E ––––0––––                                  E ––––0––––
+    B ––––2––––  <-- l. ring finger              B ––––2––––  <-- l. ring finger
+    G ––––2––––  <-- l. middle finger     or     G ––––2––––  <-- l. index finger  
+    D ––––2––––  <-- l. index finger             D ––––2––––  <-- l. middle finger
+    A ––––0––––                                  A ––––0––––
+    E –––––––––                                  E –––––––––
+          A                                            A
+
 The technique above is well and good! In this lesson, though, I’d like to show how you can play this same chord by only using a single finger (i.e., your index finger). Specifically, like this:
 
-    E –––––––––
-    B ––––2––––  <-- index finger, barred
-    G ––––2––––  <-- index finger, barred
-    D ––––2––––  <-- index finger, barred
+    E ––––x––––  <-- muted, don't play
+    B ––––2––––  <-- l. index finger, barred
+    G ––––2––––  <-- l. index finger, barred
+    D ––––2––––  <-- l. index finger, barred
     A ––––0––––
     E –––––––––
           A
 
-…Where you’re barring your index finger to play the same three notes you’d ordinarily push down with three separate finger tips. By “barre” I mean you’re using the underside of your index finger, which is draped upon the 2nd fret in this case. See my video if you don’t understand what I mean.
+In this approach, you're barring your index finger to play the same three notes you’d ordinarily push down with three separate finger tips. By “barre” I mean you’re using the side/underside of your index finger, which is draped upon the 2nd fret in this case. See my video lesson for a demonstration.
 
 ## The benefits of playing A-major like this
+
 There are three reasons that this technique is a good one to have in your skillset:
 
-### 1. It can be easier to switch to
+### 1. It can be easier to switch to & switch from
 
-Because you’re only using a single finger to play all the notes, this position can be quite fast to switch to, and switch from. This is super helpful when you’re playing a song with difficult chord transitions: instead of transitioning into (or out of) a traditional A-major that needs 3 of your finger tips, you can switch to this version which only needs one finger. Furthermore, chords that are used along with A-major (such as B-minor) have a similar index-finger barre position on the 2nd fret… so very often you’ll have fingers in that neighborhood already.
+Because you’re only using a single finger to play all the notes, this position can be quite fast to switch to, and switch from. This is super helpful when you’re playing a song with difficult chord transitions: instead of transitioning into (or out of) a traditional A-major that needs 3 of your finger tips, you can switch to this version which only needs one finger. Furthermore, chords that are used along with A-major (such as B-minor) have a similar index-finger barre position on the 2nd fret... so very often you’ll have fingers in that neighborhood already.
 
 ### 2. It frees up your other fingers for flourish notes
 
@@ -98,7 +104,7 @@ By John Mellencamp. This is for the recognizable chorus part of “Oh yeah, life
 
 ### All Along the Watchtower
 
-Originally by Bob Dylan, but also applies to the Jimi Hendrex cover. “There must be some kind of way out of here,” etc.
+Originally by Bob Dylan, but also applies to the Jimi Hendrix cover. “There must be some kind of way out of here,” etc.
 
     E –––––––––––––––––––––––––
     B ––––3––––2–––––––––2–––––
@@ -115,7 +121,7 @@ Generic, recognizable riff here.
     E –––––––|––––––––––––––––––––––––––––––––––
     B –––2–––|––––––––––––––––––––––––––––––––––
     G –––2–––|––––––––––––––––––––––––––––––––––
-    D –––2–––|––––––––––2–––4–––5–––4–––2–––––––
+    D –––2–––|––––––––––2–––4–––5–––4–––2–––––––   ...repeat
     A –––0–––|–––0–––4–––––––––––––––––––––4––––
     E –––––––|––––––––––––––––––––––––––––––––––
          A
@@ -154,7 +160,7 @@ By Sturgill Simpson. This is the verse E and A riffs.
 
 ### Freeway Time in LA County Jail
 
-By Sublime. Listen to the intro to this song to hear these parts.
+By Sublime. Listen to the intro to this song to hear these parts. [View my full video lesson](https://playsongnotes.com/lessons/29/) which includes a link to get my sheet music for this song.
 
     E ––––––––––––––––––––––––––––––––––––––––––
     B ––––––––––––––––––––––––––––––––––––––––––

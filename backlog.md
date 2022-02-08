@@ -54,7 +54,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Like a Rolling Stone        XXXXXXXXX
     Lola                        XXXXXXXXX
     Sweet Child o Mine          XXXXXXXXX
-    Creep                       XXXXXXXX
+    Creep                       XXXXXXXXX
     A Million Dreams •          XXXXXXX
     Feeling Whitney             XXXXXXX
     California Dreaming         XXXXXX
@@ -66,7 +66,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Always Remember Us This Way XXXXX
     American Girl               XXXX
     Banded Clovis •             XXXX
-    Danny's Song •              XXXX
+    Danny's Song •              XXXXX
     Game of Thrones (theme)     XXXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
@@ -85,7 +85,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Under the Bridge •          XXXXX
     Walk Right In •             XXXX
     We Are the Champions •      XXXX
-    When the Man Comes Around   XXXX
+    When the Man Comes Around   XXXXX
 
 <br />
 <h3>1-2 requests:</h3>
@@ -93,13 +93,14 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     7 Years                     X
     About a Girl                X
     Acid Tongue                 XX
-    All Apologies               XX
+    All Apologies               XXX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
     Badlands •                  X
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           X
+    I'm a Lonesome Fugitive     X
     Let It Go                   X
     Manhattan Island Serenade   X
     Rivers of Babylon           X  

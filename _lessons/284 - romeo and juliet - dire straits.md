@@ -40,70 +40,6 @@ Hey there friends! Here's my lesson for the Dire Straits song "Romeo & Juliet". 
 
 Best of luck with things! Again, keep on reading for additional notes on how to play this 100% exactly like Dire Straits does. In the meantime, I hope you enjoy this lesson and the PDF chord sheet I've made for this song.
 
-## Lyrics with chords
-
-        D                     (A) Bm                          A
-        ...A lovestruck Romeo........ sings the streets a serenade
-        D                       (A) Bm                     G
-        ...Laying everybody low....... with the love song that he made
-        A                       G  A                   D
-        ...Finds a streetlight... steps out of the shade
-                            G                          A
-        Says something like... “you and me babe, how about it?”
-
-        [D] Juliet says, “Hey, its Romeo [A] [Bm] you nearly gave me a heart attack” [A]
-        [D] He’s underneath the window [A] she’s singing [Bm] hey-la, my [G] boyfriend’s back
-        [A] You shouldn’t come around here [G] [A] singing up to people like [D] that
-        [G] Anyway, what you gonna do [A] about it?
-
-                D     A               Bm              G
-            Juliet...... the dice was loaded from the start
-                  D    A               Bm            G         A    D
-            And I bet.... that you exploded into my heart, and I forget
-                     G     Bm             G
-            ....I forget....... the movie song
-            Em                                G                       (Bm)  A  D
-            ...When you gonna realize, it was just that the time was wrong...... Juliet
-
-                                                        [start intro riff on D, play 2x]
-
-        [D] Come up on different [A] streets [Bm] both were streets of shame [A]
-        [D] Both dirty, both [A] mean [Bm] yes, and the dream was [G] just the same
-        [A] And I dream your dream for you [G] [A] and now your dream is [D] real
-        [G] How can you look at me as if I was [A] just another one of your deals?
-
-        When you can [D] fall for chains of silver [A] [Bm] you can fall for chains of gold [A]
-        [D] You can fall for pretty strangers [A] [Bm] and the promises [G] they hold
-        [A] You promised me everything [G] [A] you promised me [D] thick and thin, yeah
-        [G] Now you just say, Oh Romeo, yeah... you know I [A] used to have a scene with him
-
-            Juliet [D] ... [A] when we made [Bm] love you used to [G] cry
-            Said, I [D] love you like the [A] stars above, I’ll [Bm] love you till I [G] die
-            [A] There’s a [D] place for [G] us... [Bm] you know the movie [G] song
-            [Em] When you gonna realize, it was [G] just that the time was [Bm] wrong [A] [D] Juliet...
-
-        [D] I can’t do the talk [A] [Bm]... like they talk on the TV [A]
-        [D] And I can’t do a love song [A] [Bm] like the way its [G] meant to be
-        [A] I can’t do everything, [G] but I’ll [A] do anything for [D] you
-        [G] Can’t do anything except be in [A] love with you
-
-        [D] All I do is miss you [A] [Bm] and the way we used to be [A]
-        [D] All I do is keep the [A] beat [Bm] hmmmm, the bad [G] company
-        [A] All I do is kiss you [G] [A] through the bars a [D] rhyme
-        [G] Juliet, I’d do the stars with you [A] anytime
-
-            Juliet [D] ... [A] when we made [Bm] love you used to [G] cry
-            Said, I [D] love you like the [A] stars above, I’ll [Bm] love you till I [G] die
-            [A] There’s a [D] place for [G] us... [Bm] you know the movie [G] song
-            [Em] When you gonna realize, it was [G] just that the time was [Bm] wrong [A] [D] Juliet...
-
-        [D] A lovestruck Romeo [A] [Bm] sings the streets a serenade [A]
-        [D] Laying everybody low [A] [Bm] with the love song [G] that he made
-        [A] Finds a convenient streetlight [G] [A] steps out of the [D] shade
-        Says something like [G] “you and me babe... [A] how about it?”
-
-        [ repeat one bar each of G - A, over and over, end ]
-
 ## Capo and tuning
 
 My video is in standard tuning, no capo –– which aims to give you an accessible way to play this song with any ole' guitar. However, if you want to play along with Dire Straits, use the chords I show and put a capo on the 3rd fret. Any for extra credit even, you'll want to tune your guitar to open G tuning (D G D G B D). Check out Justin Sandercoe's lesson if you want to learn how to play it in open G. Again, my lesson is a simple version (standard tuning, no capo).
@@ -169,11 +105,11 @@ Note, I'm playing this with my fingers (no pick). You can use a pick if you want
 
 Next, I recommend getting comfortable with these chord shapes played in this timing (play through it a bunch!) -- this makes it much easier when you add the connecting flourish notes later. Note I'm using an A7 chord (instead of A-major) which is easier to switch to, since it only uses 2 left-hand fingers instead of 3. Also, note you'll need your left pinky on the 3rd fret of the G -- this one may be tricky at first.
 
-    [ see figure 1 of my PDF chord sheet ]
+    [ see figure 1 of my sheet music ]
 
 Then, add these flourish notes between the main chord shapes. The advice I have here is to take things slowly, practicing one phrase at a time until you're comfortable. Then, begin to combine the phrases one at a time. Do this until you can play through the whole thing, slowly at first. Then pickup the speed and work on playing clean notes, adding dynamic expression, etc.
 
-    [ see figure 2 of my PDF chord sheet ]
+    [ see figure 2 of my sheet music ]
 
 ## Listen to this song!
 
