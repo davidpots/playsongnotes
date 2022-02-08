@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Feb 8  - Me and Bobby McGee
     Feb 7  - Whitehouse Road
     Feb 1  - I've Been Everywhere
     Jan 31 - Tuesday's Gone
@@ -50,7 +51,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXX
-    Me and Bobby McGee •        XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
     Lola                        XXXXXXXXX
     Sweet Child o Mine          XXXXXXXXX
