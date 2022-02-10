@@ -50,7 +50,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
     Lola                        XXXXXXXXX
     Sweet Child o Mine          XXXXXXXXX
@@ -63,6 +63,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <br />
 <h3>3-5 requests:</h3>
 
+    All Apologies               XXX
     Always Remember Us This Way XXXXX
     American Girl               XXXX
     Banded Clovis •             XXXX
@@ -86,6 +87,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Walk Right In •             XXXX
     We Are the Champions •      XXXX
     When the Man Comes Around   XXXXX
+    Where Rainbows Never Die    XXX
 
 <br />
 <h3>1-2 requests:</h3>
@@ -93,7 +95,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     7 Years                     X
     About a Girl                X
     Acid Tongue                 XX
-    All Apologies               XXX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
     Badlands •                  X
@@ -105,7 +106,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
     Sedona                      XX
-    Where Rainbows Never Die    XX
     Year Clayton Delaney Died   XX
 
 <br /><br />
