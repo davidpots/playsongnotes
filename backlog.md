@@ -50,21 +50,22 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXX
+    Creep                       XXXXXXXXXX
+    Lola                        XXXXXXXXXX
+    Sweet Child o Mine          XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
-    Lola                        XXXXXXXXX
-    Sweet Child o Mine          XXXXXXXXX
-    Creep                       XXXXXXXXX
     A Million Dreams •          XXXXXXX
     Feeling Whitney             XXXXXXX
+    Always Remember Us This Way XXXXXX
     California Dreaming         XXXXXX
+    My Fav. Picture of You      XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
     All Apologies               XXX
-    Always Remember Us This Way XXXXX
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXXX
@@ -77,14 +78,14 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
-    My Fav. Picture of You      XXXXX
     My Old Kentucky Home        XXXX
     Remember Me •               XXX
-    Running Down a Dream        XXXX
+    Running Down a Dream        XXXXX
     Say It Ain't So             XXXX
+    Sedona                      XXX
     Surf Rider                  XXXX
     Under the Bridge •          XXXXX
-    Walk Right In •             XXXX
+    Walk Right In •             XXXXX
     We Are the Champions •      XXXX
     When the Man Comes Around   XXXXX
     Where Rainbows Never Die    XXX
@@ -105,7 +106,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Let It Go                   X
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
-    Sedona                      XX
     Year Clayton Delaney Died   XX
 
 <br /><br />
