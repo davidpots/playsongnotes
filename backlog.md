@@ -50,15 +50,16 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Lola                        XXXXXXXXXXX
+    Sweet Child o Mine          XXXXXXXXXXX
     Creep                       XXXXXXXXXX
-    Lola                        XXXXXXXXXX
-    Sweet Child o Mine          XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
     A Million Dreams •          XXXXXXX
     Feeling Whitney             XXXXXXX
     Always Remember Us This Way XXXXXX
     California Dreaming         XXXXXX
+    Game of Thrones (theme)     XXXXXX
     My Fav. Picture of You      XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
@@ -69,7 +70,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXXX
-    Game of Thrones (theme)     XXXXX
     Guantanamara                XXXX
     Highwayman •                XXXXX
     LA Freeway                  XXXX
@@ -106,6 +106,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Let It Go                   X
     Manhattan Island Serenade   X
     Rivers of Babylon           X  
+    Say Something               X
     Year Clayton Delaney Died   XX
 
 <br /><br />

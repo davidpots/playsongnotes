@@ -20,7 +20,7 @@ Please visit my [Printing Help](/printing) page for answers to common questions 
 
 ## Want to save 50% on Musicnotes purchases?
 
-If you [support me on Patreon](/join) ($3/month, or via annual plan) you'll get access to a monthly discount code to save 50% on all Musicnotes purchases. This code is updated on the 1st of each month. [View the current code here »](/discount).
+If you [support me on Patreon](/join) ($5/month, or via annual plan) you'll get access to a monthly discount code to save 50% on all Musicnotes purchases. This code is updated on the 1st of each month. [View the current code here »](/discount).
 
 ## Why did you remove your song PDFs from Patreon?
 

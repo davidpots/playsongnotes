@@ -60,7 +60,7 @@ Already a Patreon member?
 
 <em>✨ Patreon supporters save 50% on each purchase!</em>
 
-For my full song video lessons, I create print-friendly sheet music to accompany the tutorial. These song sheets are available for purchase through Musicnotes.com, who provides licensing for each arrangement – <a href="/copyright">here's how to buy them</a>. Patreon supporters save 50% on each purchase with a discount code available I publish each month. Each sheet music arrangement is print-friendly, and typically between 2 and 5 pages. They're priced between $3 and $5 (before Patreon discount). Here's what they look like (showing the first page only):
+For my full song video lessons, I create print-friendly sheet music to accompany the tutorial. These song sheets are available for purchase through Musicnotes.com, who provides licensing for each arrangement – <a href="/copyright">here's how to buy them</a>. Patreon supporters save 50% on each purchase with a discount code available I publish each month. Each sheet music arrangement is print-friendly, and typically between 2 and 5 pages. They're typically priced between $3 and $5 (USD, before Patreon discount). Here's what they look like (showing the first page only):
 
 <img src="/images/patreon/songsheets.jpg" />​​
 
@@ -72,7 +72,7 @@ Want to browse all my song lessons with sheet music? <a href="/songs/recently-ad
 
 ## Patreon is the best way to support me and my lessons!
 
-Many folks have asked what’s the best way to support me and this project – and the answer: become a member on Patreon. The cost is $3 per month (cancel anytime) or via annual pledge (save ~15%) – most of which goes directly to me. These lessons are a labor of love, but make no mistake – they take a lot of work to create! It’s my dream to one day work on this project full time – and the key to making that happen is your support.
+Many folks have asked what’s the best way to support me and this project – and the answer: become a member on Patreon. The cost is $5 per month (cancel anytime) or via annual pledge (save ~15%) – most of which goes directly to me. These lessons are a labor of love, but make no mistake – they take a lot of work to create! It’s my dream to one day work on this project full time – and the key to making that happen is your support.
 
 <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a><br /><br />
 
@@ -121,7 +121,7 @@ Obviously, I hope you stick around! Even if you're not active with your guitar p
 
 ## Ready to take your playing to the next level?
 
-Become a member on Patreon -- it's as little as $3! The content you'll unlock will go miles in helping your guitar playing improve. Thanks so much for your support -- it helps make these lessons possible!
+Become a member on Patreon -- it's as little as $5/month! The content you'll unlock will go miles in helping your guitar playing improve. Thanks so much for your support -- it helps make these lessons possible!
 
 <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Support me on Patreon</a>
 
