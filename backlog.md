@@ -50,7 +50,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     Lola                        XXXXXXXXXXX
     Sweet Child o Mine          XXXXXXXXXXX
     Creep                       XXXXXXXXXX
@@ -101,7 +101,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Badlands •                  X
     Gone Till November          X
     High and Dry                X
-    Honky Tonk Heroes           X
+    Honky Tonk Heroes           XX
     I'm a Lonesome Fugitive     X
     Let It Go                   X
     Manhattan Island Serenade   X
