@@ -50,7 +50,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     Lola                        XXXXXXXXXXX
     Sweet Child o Mine          XXXXXXXXXXX
     Creep                       XXXXXXXXXX
@@ -59,7 +59,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Feeling Whitney             XXXXXXX
     Always Remember Us This Way XXXXXX
     California Dreaming         XXXXXX
-    Game of Thrones (theme)     XXXXXX
+    Game of Thrones (theme)     XXXXXXX
     My Fav. Picture of You      XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
@@ -83,7 +83,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Running Down a Dream        XXXXX
     Say It Ain't So             XXXX
     Sedona                      XXXX
-    Surf Rider                  XXXX
+    Surf Rider                  XXXXX
     Under the Bridge •          XXXXX
     Walk Right In •             XXXXX
     We Are the Champions •      XXXX
