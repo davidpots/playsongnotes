@@ -70,7 +70,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     American Girl               XXXX
     Banded Clovis •             XXXX
     Danny's Song •              XXXXX
-    Guantanamara                XXXX
+    Guantanamara                XXXXX
     Highwayman •                XXXXX
     LA Freeway                  XXXX
     Let Him Roll                XXXX
@@ -82,7 +82,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Remember Me •               XXX
     Running Down a Dream        XXXXX
     Say It Ain't So             XXXX
-    Sedona                      XXX
+    Sedona                      XXXX
     Surf Rider                  XXXX
     Under the Bridge •          XXXXX
     Walk Right In •             XXXXX
@@ -105,7 +105,8 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     I'm a Lonesome Fugitive     X
     Let It Go                   X
     Manhattan Island Serenade   X
-    Rivers of Babylon           X  
+    Rivers of Babylon           X
+    Santeria                    X  
     Say Something               X
     Year Clayton Delaney Died   XX
 
