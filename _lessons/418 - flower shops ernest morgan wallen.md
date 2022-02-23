@@ -23,7 +23,9 @@ musicnotes_url: https://www.musicnotes.com/l/9DjMW
 
 ## Editor's notes
 
-Howdy! Notes coming soon.
+Hey friends! New music pick for you today, where I'm sharing a guitar lesson for the song "Flower Shops" by Ernest feat. Morgan Wallen. This song rolled off me during the first couple listens, but after that –– it sunk its teeth in hard, and had me listening on repeat. Musically, it's a slow-paced country duet, steeped in both classic instrumentation (that steel guitar!) as well as songwriting which hits a bullseye when it comes to country lyric sadness. What's more, is these two guys can really sing -- their harmonies on this live acoustic version are understated yet incredibly well performed. Give it a listen!
+
+In my guitar lesson, I'll teach you how to play the intro riff (showing you an easy + advanced way to play it), as well as two different strumming patterns to get you going with things. I'll also break down the short solo Ernest plays in this live acoustic version, which makes fun use of double stops.
 
 Video timestamps:
 
