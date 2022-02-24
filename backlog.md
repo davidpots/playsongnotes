@@ -55,7 +55,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Sweet Child o Mine          XXXXXXXXXXX
     Creep                       XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
-    A Million Dreams •          XXXXXXX
+    A Million Dreams •          XXXXXXXX
     Feeling Whitney             XXXXXXX
     Game of Thrones (theme)     XXXXXXX
     Always Remember Us This Way XXXXXX
@@ -98,7 +98,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Acid Tongue                 XX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
-    Badlands •                  X
+    Badlands •                  XX
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           XX

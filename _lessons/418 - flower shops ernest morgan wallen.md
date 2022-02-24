@@ -48,3 +48,11 @@ Here's the official studio version of this song. Ernest sings the first verse, a
 From a guitar POV, this one is a bit more scarce. For example, they don't play the slide in the intro riff, and obviously there's no steel guitar adding flair throughout the song. However, this version does have a nice solo played by Ernest at ~2:10, which is included in my video lesson above! But guitar aside, their singing is great.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SOyd2H0l334" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Michael Palmisano's Reaction Video
+
+I can't recommend this video enough! It shows Michael Palmisano's reaction to this song, and it's simply amazing how much he can pull out of the song in a single lesson. Check out Michael's education content at [guitargate.com](https://guitargate.com) –– I'm a proud member!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ny63HxV7Tmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- https://www.youtube.com/watch?v=ny63HxV7Tmk -->
