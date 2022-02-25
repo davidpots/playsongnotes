@@ -58,7 +58,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     A Million Dreams •          XXXXXXXX
     Feeling Whitney             XXXXXXX
     Game of Thrones (theme)     XXXXXXX
-    Always Remember Us This Way XXXXXX
+    Always Remember Us This Way XXXXXXX
     California Dreaming         XXXXXX
     Danny's Song •              XXXXXX
     Highwayman •                XXXXXX
@@ -79,7 +79,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
     My Old Kentucky Home        XXXX
-    Remember Me •               XXX
+    Remember Me •               XXXX
     Running Down a Dream        XXXXX
     Say It Ain't So             XXXX
     Sedona                      XXXX

@@ -39,10 +39,6 @@ I can't speak for other teachers on Patreon -- I wish them all the best with wha
 
 Fortunately, it does not impact my videos. They will remain available on YouTube, as they are currently. YouTube already has copyright mechanisms in place, where uploaded videos that contain copyrighted songs are recognized and "claimed" by the publishers, who are then brought in the loop when it comes to monetization.
 
-## What about the "song" PDFs that are currently still on Patreon?
-
-Over the next month or so, I'll be moving all my other "song" PDFs off of Patreon, and over to Musicnotes.com -- to ensure I'm playing by the rules. All future "song" lessons I make will follow this same setup. To be clear, I very much want to respect and be in the good graces of existing copyright laws.
-
 ## What about your other (non-song) lessons?
 
 None of this effects my non-"song" lessons. Riffs, exercises, techniques, theory, etc –- those PDFs will remain available as-is on Patreon. I'll keep making these, as well -- and likewise continue to improve their organization – making them easy to find, etc.
