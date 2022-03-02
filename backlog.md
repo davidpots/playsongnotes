@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Mar 1  - Under the Bridge
     Feb 8  - Me and Bobby McGee
     Feb 7  - Whitehouse Road
     Feb 1  - I've Been Everywhere
@@ -84,7 +85,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Say It Ain't So             XXXX
     Sedona                      XXXXX
     Surf Rider                  XXXXX
-    Under the Bridge •          XXXXX
     Walk Right In •             XXXXX
     We Are the Champions •      XXXXX
     When the Man Comes Around   XXXXX
