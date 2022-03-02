@@ -55,21 +55,22 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Sweet Child o Mine          XXXXXXXXXXX
     Creep                       XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
-    A Million Dreams •          XXXXXXXX
+    A Million Dreams •          XXXXXXXXX
+    Game of Thrones (theme)     XXXXXXXXX
+    American Girl               XXXXXXX
     Feeling Whitney             XXXXXXX
-    Game of Thrones (theme)     XXXXXXX
     Always Remember Us This Way XXXXXXX
+    Danny's Song •              XXXXXXX
     California Dreaming         XXXXXX
-    Danny's Song •              XXXXXX
     Highwayman •                XXXXXX
     My Fav. Picture of You      XXXXXX
+    Running Down a Dream        XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
 <br />
 <h3>3-5 requests:</h3>
 
     All Apologies               XXX
-    American Girl               XXXXX
     Banded Clovis •             XXXX
     Guantanamara                XXXXX
     LA Freeway                  XXXX
@@ -78,11 +79,10 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
-    My Old Kentucky Home        XXXX
+    My Old Kentucky Home        XXXXX
     Remember Me •               XXXX
-    Running Down a Dream        XXXXX
     Say It Ain't So             XXXX
-    Sedona                      XXXX
+    Sedona                      XXXXX
     Surf Rider                  XXXXX
     Under the Bridge •          XXXXX
     Walk Right In •             XXXXX
@@ -108,6 +108,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Rivers of Babylon           X
     Santeria                    X  
     Say Something               X
+    Strangers                   X
     Sweet Creature              X
     Year Clayton Delaney Died   XX
 

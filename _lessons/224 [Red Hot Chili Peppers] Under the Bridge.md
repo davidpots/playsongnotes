@@ -11,8 +11,9 @@ tags: [Full Song Lesson, Key of D, Rock, 1990s]
 slug: "224"
 redirect_from:
   - /songs/red-hot-chili-peppers-under-the-bridge/
-pdf_version: copyright
-pdf_numpages: 2
+pdf_version: musicnotes
+pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/T36MX
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25250503
 ---
@@ -27,7 +28,7 @@ patreon_lesson_url: https://www.patreon.com/posts/25250503
 
 Here's how I play a solo acoustic version of Under the Bridge by the Red Hot Chili Peppers - with no capo, and using the easiest chords that are possible. While this isn't exactly how the RHCP play the song, it allows you to avoid some more difficult barre chords (such as the would-be D barre chord needed for the opening intro chord) and keep the song quite approachable. Throw a capo on the 2nd fret, using the chords I show, if you wanna play along with the album version of this song.
 
-## Intro tab
+<!-- ## Intro tab
 
     E ||–––––––––––––––––––––––––––|–––––––––––––––––––––––––––––|–
     B ||––––––––––1––––––––––––––––|–––––––––––––––––––––––––––––|–
@@ -115,9 +116,9 @@ Here's how I play a solo acoustic version of Under the Bridge by the Red Hot Chi
             G                    Gm     F         Ebmaj7
             Under the bridge downtown..... forgot about my love
             G                    Gm     F         Ebmaj7            G Gm F Ebmaj7 (repeat)
-            Under the bridge downtown..... I gave my life away
+            Under the bridge downtown..... I gave my life away -->
 
-## Capo notes
+<!-- ## Capo notes
 
 To play along with the Red Hot Chili Peppers version of the song, use these chords with a capo on the 2nd fret. I should also note, this is not how the RHCP play the song –– I'm choosing to play it this way in either to keep it simple (less crazy barre chords).
 
@@ -151,8 +152,4 @@ Refrain & outro chords:
     D ––12–––12–––10––––8––––7–––
     A ––10–––10––––8––––6––––5–––
     E –––––––––––––––––––––––––––
-         G   Gm    F  Ebmaj7 D7
-
-## Good luck!
-
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
+         G   Gm    F  Ebmaj7 D7 -->
