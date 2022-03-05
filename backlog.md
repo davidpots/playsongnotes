@@ -63,6 +63,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Always Remember Us This Way XXXXXXX
     Danny's Song •              XXXXXXX
     California Dreaming         XXXXXX
+    Guantanamara                XXXXXX
     Highwayman •                XXXXXX
     My Fav. Picture of You      XXXXXX
     Running Down a Dream        XXXXXX
@@ -73,7 +74,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
     All Apologies               XXX
     Banded Clovis •             XXXX
-    Guantanamara                XXXXX
     LA Freeway                  XXXX
     Let Him Roll                XXXX
     Let It Go                   XXX
@@ -81,7 +81,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
     My Old Kentucky Home        XXXXX
-    Remember Me •               XXXX
+    Remember Me •               XXXXX
     Say It Ain't So             XXXX
     Sedona                      XXXXX
     Surf Rider                  XXXXX
