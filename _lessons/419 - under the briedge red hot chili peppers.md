@@ -5,6 +5,7 @@ song_title: "Under the Bridge"
 artist: Red Hot Chili Peppers
 year: 1991
 tags: [Full Song Lesson, Key of D, 1990s, Rock]
+hidden_tags: [224]
 category: full_song
 yt_video_id: PzOEiBWoc3U
 slug: "419"
