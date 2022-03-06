@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Mar 6  - Lola
     Mar 1  - Under the Bridge
     Feb 8  - Me and Bobby McGee
     Feb 7  - Whitehouse Road
@@ -51,15 +52,14 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
 <h3>6+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    Lola                        XXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     Sweet Child o Mine          XXXXXXXXXXX
     Creep                       XXXXXXXXXX
+    Game of Thrones (theme)     XXXXXXXXXX
     Like a Rolling Stone        XXXXXXXXX
     A Million Dreams •          XXXXXXXXX
-    Game of Thrones (theme)     XXXXXXXXX
-    American Girl               XXXXXXX
-    Feeling Whitney             XXXXXXX
+    American Girl               XXXXXXXX
+    Feeling Whitney             XXXXXXXX
     Always Remember Us This Way XXXXXXX
     Danny's Song •              XXXXXXX
     California Dreaming         XXXXXX
@@ -67,6 +67,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Highwayman •                XXXXXX
     My Fav. Picture of You      XXXXXX
     Running Down a Dream        XXXXXX
+    Sedona                      XXXXXX
     Total Eclipse of the Heart  XXXXXX
 
 <br />
@@ -75,7 +76,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     All Apologies               XXX
     Banded Clovis •             XXXX
     LA Freeway                  XXXX
-    Let Him Roll                XXXX
+    Let Him Roll                XXXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
@@ -83,7 +84,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     My Old Kentucky Home        XXXXX
     Remember Me •               XXXXX
     Say It Ain't So             XXXX
-    Sedona                      XXXXX
     Surf Rider                  XXXXX
     Walk Right In •             XXXXX
     We Are the Champions •      XXXXX
