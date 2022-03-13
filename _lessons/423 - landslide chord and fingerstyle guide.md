@@ -15,3 +15,9 @@ redirect_from:
 More notes coming tomorrow!
 
 If you're looking for the LANDSLIDE video lesson, it's coming tomorrow as well (late morning, Central USA time). You got redirected here because I'm lazy and haven't created the Landslide lesson page yet. Have a good night, check back then ✌️
+
+## Full video lesson
+
+More notes coming soon, but it's up! Unlisted so it won't appear on YouTube yet if you search. That'll come later today. You can get the [sheet music here](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0252563).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vgmR57sS9h8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
