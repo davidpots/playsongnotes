@@ -66,6 +66,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Guantanamara                XXXXXX
     Highwayman •                XXXXXX
     My Fav. Picture of You      XXXXXX
+    My Old Kentucky Home        XXXXXX
     Running Down a Dream        XXXXXX
     Sedona                      XXXXXX
     Total Eclipse of the Heart  XXXXXX
@@ -81,7 +82,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
     Maybe it's time •           XXXXX
-    My Old Kentucky Home        XXXXX
     Remember Me •               XXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXX
@@ -89,6 +89,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     We Are the Champions •      XXXXX
     When the Man Comes Around   XXXXX
     Where Rainbows Never Die    XXX
+    Year Clayton Delaney Died   XXX
 
 <br />
 <h3>1-2 requests:</h3>
@@ -110,7 +111,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Say Something               X
     Strangers                   X
     Sweet Creature              X
-    Year Clayton Delaney Died   XX
 
 <br /><br />
 
