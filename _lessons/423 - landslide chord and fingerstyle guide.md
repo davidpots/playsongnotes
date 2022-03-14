@@ -5,7 +5,7 @@ category: tip_technique
 slug: "423"
 tags: [Tips & Techniques, Learning Chords, Fingerstyle, Travis Picking]
 date_published: 2022-03-12
-yt_video_id: SXYkb0dnXBU
+yt_video_id: D8cQHhUHTVM
 pdf_version: v2
 pdf_numpages: 3
 patreon_lesson_available: true
