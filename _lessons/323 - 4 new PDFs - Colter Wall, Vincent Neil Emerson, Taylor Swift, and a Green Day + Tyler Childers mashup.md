@@ -7,8 +7,6 @@ slug: "323"
 pdf_version: v2
 yt_video_id: 6BBD4pNVNcA
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/41023187
 ---
 
 
@@ -29,22 +27,19 @@ Video timestamps:
 - 3:17 Welcome to Paradise by Green Day (in the Tyler Childers style)
 - 4:49 Farewell & send your requests
 
-<!--  -->
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
 ## Editor's notes
 
-Hey friends! Here's 4 new PDF chord sheets for you, giving you the print-friendly goods for 4 different songs I learned on a family road trip earlier this summer. Instead of waiting until I got lessons made for each of these, I wanted to get these to you ASAP so you can have at 'em in the meantime. The four songs in question:
+Hey friends! Here's 4 new song sheet for you, giving you the print-friendly goods for 4 different songs I learned on a family road trip earlier this summer. Instead of waiting until I got lessons made for each of these, I wanted to get these to you ASAP so you can have at 'em in the meantime.
 
-- Saskatchewan in 1881 by Colter Wall (simplified strum version)
-- Manhattan Island Serenade by Vincent Neil Emerson
-- Betty by Taylor Swift
-- Welcome to Paradise by Green Day (in the style of Tyler Childers)
+Video lesson and sheet music available:
 
-## Want lessons for these? Let me know which ones!
+- [Saskatchewan in 1881](https://playsongnotes.com/lessons/318/) by Colter Wall (simplified strum version)
+- [Betty](https://playsongnotes.com/lessons/321/) by Taylor Swift
+- [Welcome to Paradise](https://playsongnotes.com/lessons/322/) by Green Day (in the style of Tyler Childers)
 
-I plan on making lessons for each of these eventually -- but would love feedback you have on which songs you'd like to see lessons for first. That'll help me prioritize things. <a href="mailto:play.songnotes@gmail.com">Email me</a> and let me know.
+No video lesson or sheet music yet:
+
+- [Manhattan Island Serenade](https://playsongnotes.com/lessons/320/) by Vincent Neil Emerson
 
 ## Listen to these songs yourself
 

@@ -53,18 +53,20 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>6+ requests:</h3>
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    Sweet Child o Mine          XXXXXXXXXXX
+    Sweet Child o Mine          XXXXXXXXXXXX
     Creep                       XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
-    Like a Rolling Stone        XXXXXXXXX
+    Like a Rolling Stone        XXXXXXXXXX
+    Always Remember Us This Way XXXXXXXXX
     A Million Dreams •          XXXXXXXXX
     American Girl               XXXXXXXX
     Feeling Whitney             XXXXXXXX
-    Always Remember Us This Way XXXXXXX
     Danny's Song •              XXXXXXX
     California Dreaming         XXXXXX
     Guantanamara                XXXXXX
     Highwayman •                XXXXXX
+    Let Him Roll                XXXXXX
+    Maybe it's time •           XXXXXX
     My Fav. Picture of You      XXXXXX
     My Old Kentucky Home        XXXXXX
     Running Down a Dream        XXXXXX
@@ -75,13 +77,12 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>3-5 requests:</h3>
 
     All Apologies               XXX
-    Banded Clovis •             XXXX
-    LA Freeway                  XXXX
-    Let Him Roll                XXXXX
+    Badlands •                  XXX
+    Banded Clovis •             XXXXX
+    LA Freeway                  XXXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXX
-    Maybe it's time •           XXXXX
     Remember Me •               XXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXX
@@ -99,7 +100,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Acid Tongue                 XX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
-    Badlands •                  XX
     Gone Till November          X
     High and Dry                X
     Honky Tonk Heroes           XX
