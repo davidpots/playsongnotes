@@ -20,7 +20,9 @@ patreon_lesson_url: https://www.patreon.com/posts/64095184
 
 ## Editor's Notes
 
-......
+Hey there, friends! This past week I fell hard for Gordon Lightfoot's 1974 classic, Sundown. My full video lesson & sheet music are forthcoming, but in the meantime I wanted to make this companion lesson that dives into the unique chord shape Lightfoot uses throughout this song. Specifically I'm talking about the voicings of E, E7, and B that he's using.
+
+In my video lesson (above) and my Patreon PDF (attached at the bottom of this post), I'll explain what exactly Lightfoot is playing, as well as how to go about learning & practicing these chords. And of course, I'll give you some easier work-arounds if you want a much more beginner-friendly, no-finger-stretch arrangement that lets you pull this song off.
 
 ## My full video lesson for Sundown
 
