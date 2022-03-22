@@ -9,7 +9,7 @@ yt_video_id: qSLvDamCUqY
 pdf_version: v2
 pdf_numpages: 2
 patreon_lesson_available: true
-patreon_lesson_url: ______________
+patreon_lesson_url: https://www.patreon.com/posts/64095184
 ---
 
 ## Video lesson
