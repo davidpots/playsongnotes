@@ -31,3 +31,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # https://github.com/jekyll/jekyll-redirect-from
 gem 'jekyll-redirect-from'
+gem 'webrick'
