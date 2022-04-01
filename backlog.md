@@ -53,33 +53,34 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>7+ requests:</h3>
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    Sweet Child o Mine          XXXXXXXXXXXX
-    Creep                       XXXXXXXXXX
-    Game of Thrones (theme)     XXXXXXXXXX
-    Like a Rolling Stone        XXXXXXXXXXX
-    Always Remember Us This Way XXXXXXXXX
+
     A Million Dreams •          XXXXXXXXX
+    Always Remember Us This Way XXXXXXXXX
     American Girl               XXXXXXXX
-    Let Him Roll                XXXXXXXX
-    Feeling Whitney             XXXXXXXX
-    My Old Kentucky Home        XXXXXXXX
     Banded Clovis •             XXXXXXX
+    California Dreaming         XXXXXXXX
+    Creep                       XXXXXXXXXX
     Danny's Song •              XXXXXXX
-    California Dreaming         XXXXXXX
+    Feeling Whitney             XXXXXXXX
+    Game of Thrones (theme)     XXXXXXXXXX
+    Guantanamara                XXXXXXX
+    Let Him Roll                XXXXXXXX
+    Like a Rolling Stone        XXXXXXXXXXX
+    My Fav. Picture of You      XXXXXXX
+    My Old Kentucky Home        XXXXXXXX
+    Sweet Child o Mine          XXXXXXXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
 
     All Apologies               XXX
     Badlands •                  XXX
-    Guantanamara                XXXXXX
     Highwayman •                XXXXXX
     LA Freeway                  XXXXX
     Let It Go                   XXX
     Light On •                  XXX
-    Lookin' Out My Backdoor     XXX
+    Lookin' Out My Backdoor     XXXX
     Maybe It's Time •           XXXXXX
-    My Fav. Picture of You      XXXXXX
     Remember Me •               XXXXX
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
@@ -88,7 +89,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Total Eclipse of the Heart  XXXXXX
     Walk Right In •             XXXXX
     We Are the Champions •      XXXXX
-    When the Man Comes Around   XXXXX
+    When the Man Comes Around   XXXXXX
     Where Rainbows Never Die    XXXX
     Year Clayton Delaney Died   XXX
 
@@ -100,11 +101,11 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Acid Tongue                 XX
     Apple Blossom               X
     Audition (Fools Who Dream)  XX
-    Gone Till November          X
+    Gone Till November          XX
     High and Dry                XX
     Honky Tonk Heroes           XX
     I'm a Lonesome Fugitive     X
-    Last Kiss                   X
+    Last Kiss                   XX
     Let It Go                   X
     Manhattan Island Serenade   X
     Rivers of Babylon           X
