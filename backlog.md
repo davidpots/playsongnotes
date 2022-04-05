@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 5  - Walk Right In
     Mar 6  - Lola
     Mar 1  - Under the Bridge
     Feb 8  - Me and Bobby McGee
@@ -55,7 +56,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     A Million Dreams •          XXXXXXXXX
-    Always Remember Us This Way XXXXXXXXX
+    Always Remember Us This Way XXXXXXXXXX
     American Girl               XXXXXXXX
     Banded Clovis •             XXXXXXX
     California Dreaming         XXXXXXXX
@@ -68,6 +69,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Like a Rolling Stone        XXXXXXXXXXX
     My Fav. Picture of You      XXXXXXX
     My Old Kentucky Home        XXXXXXXX
+    Sedona                      XXXXXXX
     Sweet Child o Mine          XXXXXXXXXXXX
 
 <br />
@@ -84,11 +86,9 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Remember Me •               XXXXX
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
-    Sedona                      XXXXXX
     Surf Rider                  XXXXX
     Total Eclipse of the Heart  XXXXXX
-    Walk Right In •             XXXXX
-    We Are the Champions •      XXXXX
+    We Are the Champions •      XXXXXX
     When the Man Comes Around   XXXXXX
     Where Rainbows Never Die    XXXX
     Year Clayton Delaney Died   XXX
@@ -111,8 +111,10 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Rivers of Babylon           X
     Santeria                    X  
     Say Something               X
+    Shape of You                X
     Strangers                   X
     Sweet Creature              X
+    Wilder Days                 X
 
 <br /><br />
 

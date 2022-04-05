@@ -10,8 +10,9 @@ yt_video_id: UXSSTPAEGdA
 slug: "277"
 tags: [Full Song Lesson, Key of G, 1960s, Folk, Walking Bass Lines, E Flat Tuning]
 hidden_tags: [forrest gump, roof top, sit right down]
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 2
+musicnotes_url: https://www.musicnotes.com/l/GjHMn
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/33200047
 ---
