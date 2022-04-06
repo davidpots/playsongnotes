@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 6  - Banded Clovis
     Apr 5  - Walk Right In
     Mar 6  - Lola
     Mar 1  - Under the Bridge
@@ -58,11 +59,10 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     A Million Dreams •          XXXXXXXXX
     Always Remember Us This Way XXXXXXXXXX
     American Girl               XXXXXXXX
-    Banded Clovis •             XXXXXXX
     California Dreaming         XXXXXXXX
     Creep                       XXXXXXXXXX
     Danny's Song •              XXXXXXX
-    Feeling Whitney             XXXXXXXX
+    Feeling Whitney             XXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
     Guantanamara                XXXXXXX
     Let Him Roll                XXXXXXXX
@@ -105,6 +105,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     High and Dry                XX
     Honky Tonk Heroes           XX
     I'm a Lonesome Fugitive     X
+    Jenny of Oldstones          X
     Last Kiss                   XX
     Let It Go                   X
     Manhattan Island Serenade   X
