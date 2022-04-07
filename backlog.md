@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 7  - A Million Dreams
     Apr 6  - Banded Clovis
     Apr 5  - Walk Right In
     Mar 6  - Lola
@@ -31,7 +32,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Jan 4  - The Wind
     Jan 4  - Dead Flowers
     Dec 10 - Yesterday
-    Nov 30 - Happy Xmas 
+    Nov 30 - Happy Xmas
     Nov 23 - Mrs Robinson
     Nov 22 - Hotel California
     Nov 12 - Hello In There
@@ -56,7 +57,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-    A Million Dreams •          XXXXXXXXX
     Always Remember Us This Way XXXXXXXXXX
     American Girl               XXXXXXXX
     California Dreaming         XXXXXXXX
@@ -96,7 +96,7 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <br />
 <h3>1-2 requests:</h3>
 
-    7 Years                     X
+    7 Years                     XX
     About a Girl                X
     Acid Tongue                 XX
     Apple Blossom               X
