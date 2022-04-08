@@ -26,7 +26,7 @@ In my video lesson (above) and my Patreon PDF (attached at the bottom of this po
 
 ## My full video lesson for Sundown
 
-Coming soon! Look for it between March 25-April 1, 2022. Subscribe to my [YouTube channel](http://youtube.com/playsongnotes) or [email newsletter](https://playsongnotes.com/newsletter/) to stay in the loop.
+Coming soon! Look for it April 9, 2022. Subscribe to my [YouTube channel](http://youtube.com/playsongnotes) or [email newsletter](https://playsongnotes.com/newsletter/) to stay in the loop.
 
 ## Gordon Lightfoot's Album Version
 
