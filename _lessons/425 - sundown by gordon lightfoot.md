@@ -8,12 +8,13 @@ tags: [Full Song Lesson, Key of E, 1970s, Classic Rock, Country]
 category: full_song
 slug: "425"
 date_published: 2022-04-09
----
-
-<!-- yt_video_id: _______
 pdf_version: musicnotes
 pdf_numpages: 3
-musicnotes_url: _______ -->
+musicnotes_url: https://www.musicnotes.com/l/R7HMF
+---
+
+<!-- yt_video_id: _______ -->
+
 
 ## Video Lesson
 
@@ -21,7 +22,7 @@ Coming Saturday, April 9! Check back soon.
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<!-- { % include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url % } -->
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Editor's notes
 
