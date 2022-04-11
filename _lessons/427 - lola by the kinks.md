@@ -46,3 +46,10 @@ Here's my initial video, which focuses on the instrumental intro & verse riff. T
 [Here is the video](https://www.youtube.com/watch?v=qWWU5x5RLbI) of YouTuber Mike Massé playing this song. Great cover! This inspired me to learn it. I teach his extended intro riff (or a close-enough version of it) in my video lesson #165, shown above.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qWWU5x5RLbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## The Kinks live version from 1980
+
+In this version you can hear the extended acoustic intro that Mike Massé plays in his acoustic cover up above. They start playing in 1:06 of this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_xA6sH9kkQ?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://www.youtube.com/watch?v=s_xA6sH9kkQ -->

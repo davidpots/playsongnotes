@@ -11,8 +11,9 @@ yt_video_id: 3TZcIrtgCUA
 slug: "44"
 redirect_from:
   - /songs/bruce-springsteen-badlands/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/MfHMW
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32378911
 ---
@@ -46,107 +47,18 @@ Here's all the chords you'll need for this song. Not a lot! Standard I-IV-V in t
 Note, I'll often play a single finger barred version of the A-major chord, where I'm focusing on only the middle 4 strings. This is easier to switch to, easier to mute (if you want to mute it), and allows you to add some flourish notes if you prefer. If nothing else this is a good trick to have up your sleeve when playing this chord... and while I certainly use the standard A-major chord voicing (x02220) in this song at parts, this still plays a role:
 
     E –––––x–––––
-    B –––––2–––––     <--
-    G –––––2–––––     <--  Play these three strings with
-    D –––––2–––––     <--  your barred index finger
-    A –––––0–––––
+    B –––––2–––––     <--  Play these three 2nd fret notes
+    G –––––2–––––     <--  with your left index finger
+    D –––––2–––––     <--  barred across all 3 strings.
+    A –––––0–––––          
     E –––––––––––
            A     
 
-## Chord progressions
+If you need help with this technique, check out [this lesson](http://playsongnotes.com/lessons/46/) I made:
 
-There are two progressions used, and they're super simple to remember.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUrKhHAT0Fk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-### Intro, verse, and chorus
-
-    D  .  .  .  G  .  A  .     x4
-
-### Pre-Chorus
-
-    G  .  .  .  G  .  .  .  A  .  .  .  A  .  .  .   x2
-
-There are a few ways this can slightly be expanded. For instance, you'll hear me walk down from D => A => G in the verse in the chorus, sometimes... but I'll cover this further down on the page.
-
-## Intro riff
-
-Here's how I prefer to play it. The main distinctive part here is the little melody on the D, which you can achieve simply by lifting your middle finger off the high-E string, which creates that Dsus2.
-
-    E –|–––2––––2–0–2–––2–0–2–––|–––––––––––––––––––––––––––––|–
-    B –|–––3––––3–3–3–––3–3–3–––|–––3–––––––5––––7–––––––5––––|–
-    G –|–––2––––2–2–2–––2–2–2–––|–––4–––––––4––––6–––––––6––––|–
-    D –|–––0––––0–0–0–––0–0–0–––|–––5–––––––5––––7–––––––7––––|–
-    A –|––––––––––––––––––––––––|–––––––––––––––––––––––––––––|–
-    E –|––––––––––––––––––––––––|–––––––––––––––––––––––––––––|–
-          D                         G            A
-
-If you have trouble with my approach to the G and A here, you can use a normal voicing for those chords such as this. Fill it in with the strumming you prefer.
-
-    E –|–––2––––2–0–2–––2–0–2–––|–––3––––––––––––0––––––––––––|–
-    B –|–––3––––3–3–3–––3–3–3–––|–––3––––––––––––2––––––––––––|–
-    G –|–––2––––2–2–2–––2–2–2–––|–––0––––––––––––2––––––––––––|–
-    D –|–––0––––0–0–0–––0–0–0–––|–––0––––––––––––2––––––––––––|–
-    A –|––––––––––––––––––––––––|–––2––––––––––––0––––––––––––|–
-    E –|––––––––––––––––––––––––|–––3–––––––––––––––––––––––––|–
-          D                         G            A
-
-You can technically recreate that melody riff with the following approach, but I found this one very hard to do at full speed. In this approach, you're capturing the melody in the highest two strings (in the second measure).
-
-    E –|–––2––––2–0–2–––2–0–2–––|––––––––0–––––––2–––––0––––––|–
-    B –|–––3––––3–3–3–––3–3–3–––|–––3––––––––––––2––––––––––––|–
-    G –|–––2––––2–2–2–––2–2–2–––|–––0––––––––––––2––––––––––––|–
-    D –|–––0––––0–0–0–––0–0–0–––|–––0––––––––––––2––––––––––––|–
-    A –|––––––––––––––––––––––––|–––2––––––––––––0––––––––––––|–
-    E –|––––––––––––––––––––––––|–––3–––––––––––––––––––––––––|–
-          D                         G            A
-
-## Other riffs
-
-### Verse and chorus melodic strumming
-
-Here's a great one to practice for this song. This captures the sound of the Springsteen guitar, which seems to walk down from D to A before landing on G. Likewise, there's the first beat of the A – where it sounds like a Bm (or Bm/A) is played before going to the proper A. Refer to my video lesson to see me play this -- I use it in instrumental section before the final verse. You can also play this as you sing the verse and/or chorus... I do that sometimes, but didn't for my video lesson just because I couldn't play and sing as fluidly.
-
-    E –|––(2)–––––––––––––––––––|–––––––––––––––––––––––––––––|–
-    B –|–––3––––3––––3––––2–––––|––––––––––––––––3––––2–––––––|–
-    G –|–––2––––2––––2––––2–––––|–––0––––0–––––––2––––2–––––––|–
-    D –|–––0––––0––––0––––2–––––|–––0––––0–––––––4––––2–––––––|–
-    A –|––––––––––––––––––0–––––|–––2––––2–––––––0––––0–––––––|–
-    E –|––––––––––––––––––––––––|–––3––––3––––––––––––––––––––|–
-           D             (A)        G            A
-
-### Walk it down, turn it around
-
-Finally, there's this little progression I like to play at the end of each verse and at the end of the chorus. Specifically, you'll hear this melody if you think of the part ("Badlands... whoa, whoa whoa whoa...") part. Note how in the tab below, the "whoa, whoa, whoa, whoa" vocal melody is captured in the highest note of each chord.
-
-    E –––2–––––––––––––3––––––2––––––0––––––x––––
-    B –––3–––––––––––––0––––––0––––––2––––––3––––
-    G –––2–––––––––––––0––––––0––––––2––––––2––––
-    D –––0–––––––––––––0––––––0––––––2––––––2––––
-    A –––––––––––––––––2––––––2––––––0––––––0––––
-    E –––––––––––––––––3––––––3––––––––––––––––––
-         D             G    Gmaj7    A    Asus4
-
-The hardest part of this is getting that second G-major voicing down, specifically freeing up a finger to play that F# note (2nd fret of high E string) before transitioning to the A. Take it slow, and figure out a finger placement for each chord that lets you smoothly switch to the next chord.
-
-## Strumming pattern
-
-Keeping it simple here. Start with all down strums, on the beat:
-
-    ↓       ↓       ↓       ↓       
-    1   +   2   +   3   +   4   +   
-
-Next, double the number of down strums you use, but accent the ones that come on the beat:
-
-    >       >       >       >
-    ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓      
-    1   +   2   +   3   +   4   +   
-
-And if you want to spice it up, add some up-strums on the off-beat just before the "3" and the "1":
-
-    >       >       >       >
-    ↓   ↓   ↓   ↓ ↑ ↓   ↓   ↓   ↓ ↑  
-    1   +   2   +   3   +   4   +   
-
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
     VERSE
 
@@ -252,8 +164,4 @@ And if you want to spice it up, add some up-strums on the off-beat just before t
                            D                            
                 We'll keep pushing 'til it's understood
                           G              A           D       G  A
-                And these Badlands start treating us good
-
-## Thanks for reading!
-
-I sincerely hope this was helpful. If you have any questions or comments, don't hesitate to let me know.
+                And these Badlands start treating us good -->

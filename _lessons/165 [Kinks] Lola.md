@@ -32,4 +32,13 @@ I also have this separate lesson teaching you each part of this song (verse, cho
 <br />
 ## Mike Masse's cover version
 
+Here's the cover that inspired my lesson:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qWWU5x5RLbI?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+## The Kinks live version from 1980
+
+In this version you can hear the extended acoustic intro that Mike Massé plays in his acoustic cover up above. They start playing in 1:06 of this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_xA6sH9kkQ?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://www.youtube.com/watch?v=s_xA6sH9kkQ -->

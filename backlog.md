@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 11 - Badlands
     Apr 7  - A Million Dreams
     Apr 6  - Banded Clovis
     Apr 5  - Walk Right In
@@ -76,9 +77,9 @@ Sheet music for the following songs are all available for purchase at Musicnotes
 <h3>3-6 requests:</h3>
 
     All Apologies               XXX
-    Badlands •                  XXX
     Highwayman •                XXXXXX
     LA Freeway                  XXXXX
+    Last Kiss                   XXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXX
@@ -106,7 +107,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     Honky Tonk Heroes           XX
     I'm a Lonesome Fugitive     X
     Jenny of Oldstones          X
-    Last Kiss                   XX
     Let It Go                   X
     Manhattan Island Serenade   X
     Rivers of Babylon           X
