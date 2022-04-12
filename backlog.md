@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 12 - Last Kiss
     Apr 11 - Badlands
     Apr 7  - A Million Dreams
     Apr 6  - Banded Clovis
@@ -79,7 +80,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     All Apologies               XXX
     Highwayman •                XXXXXX
     LA Freeway                  XXXXX
-    Last Kiss                   XXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXX

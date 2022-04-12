@@ -11,8 +11,9 @@ tags: [Full Song Lesson, 1990s, Rock, Key of G]
 slug: "87"
 redirect_from:
   - /songs/pearl-jam-last-kiss/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/dDHMm
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/37729033
 ---
@@ -27,7 +28,7 @@ patreon_lesson_url: https://www.patreon.com/posts/37729033
 
 ## Editor's notes
 
-This lesson shows you an easy way to play "Last Kiss" as covered by Pearl Jam. I'll show you the chords needed, talk about transitioning between chords easily, and tackle the strumming pattern. This is a fun song to learn, as it only uses 4 chords repeating for the entire song: G-Em-C-D. Good luck!
+This lesson shows you an easy way to play "Last Kiss" as covered by Pearl Jam . I'll show you the chords needed, talk about transitioning between chords easily, and tackle the strumming pattern. This is a fun song to learn, as it only uses 4 chords repeating for the entire song: G-Em-C-D. Good luck!
 
 ## Chords needed
 
@@ -113,60 +114,3 @@ And finally, one you have mastered that, add up strums on the "2 +" and "3 +" co
     D     D  U     U  D  U
 
 The key is to keep your strumming hand (arm) moving up and down continuously, but only bringing the pick down on the strings when the strumming pattern demands it.
-
-## Lyrics w/ chords
-
-       G                     Em
-    Oh where, oh where can my baby be
-    C                     D
-    ...The lord took her away from me
-    G                               Em
-    ...She’s gone to heaven so I’ve got to be good
-       C                        D          G
-    So I can see my baby when I leave this world
-
-             [stay on G for 2 measures on "world"]
-
-        We were [G] out on a date in my [Em] daddy’s car
-        [C] We hadn’t driven [D] very far
-        [G] There in the road [Em] straight ahead
-        [C] A car was stalled, the [D] engines dead
-         [G] I couldn’t stop so I [Em] swerved to the right
-        I’ll [C] never forget the [D] sound that night
-        The [G] screamin’ tires, the [Em] bustin’ glass
-        The [C] painful scream that [D] I----- heard [G] last
-
-            [stay on G for 2 measures on "last"]
-
-    Oh [G] where, oh where can my [Em] baby be
-    [C] The lord took her [D] away from me
-    [G] She’s gone to heaven so I’ve [Em] got to be good
-    So [C] I can see my baby when I [D] leave this [G] world
-
-            [stay on G for 2 measures on "world"]
-
-        When [G] I woke up the rain was [Em] pourin’ down
-        [C] There were people standing [D] all around
-        [G] Something warm flowing [Em] through my eyes
-        But [C] somehow I found... my [D] baby that night
-     I [G] lifted her head, she looked at [Em] me and said
-        [C] Hold me darling, just a [D] little while
-        I [G] held her close, I kissed her [Em] our last kiss
-        I [C] found the love that I [D] knew I would miss
-
-        Well, [G] now she’s gone, even [Em] though I hold her tight
-        I [C] lost my love, my [D] life---- that [G] night
-
-    Oh [G] where, oh where can my [Em] baby be
-    [C] The lord took her [D] away from me
-    [G] She’s gone to heaven so I’ve [Em] got to be good
-    So [C] I can see my baby when I [D] leave this [G] world
-
-    [G] Oooooh, ooo [Em] oooh..... [C] Ooooh, ooo [D] oooh...
-    [G] Oooooh, ooo [Em] oooh..... [C] Ooooh, ooo [D] oooh...
-
-    [ repeat "Oooh..." as desired, end on G ]
-
-## Good luck!
-
-I hope this helps, and as always let me know if you have any questions.
