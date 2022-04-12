@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 12 - Highwayman
     Apr 12 - Last Kiss
     Apr 11 - Badlands
     Apr 7  - A Million Dreams
@@ -72,13 +73,12 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     My Fav. Picture of You      XXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Sedona                      XXXXXXX
-    Sweet Child o Mine          XXXXXXXXXXXX
+    Sweet Child o Mine          XXXXXXXXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
 
     All Apologies               XXX
-    Highwayman •                XXXXXX
     LA Freeway                  XXXXX
     Let It Go                   XXX
     Light On •                  XXX
