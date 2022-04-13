@@ -48,82 +48,13 @@ Here's an older video I did (from 2014) showing how to play all the verse sectio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPf0HLvc3L8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-## Chords w/ lyrics
-
-    (capo 1st fret)
-
-    INTRO
-        A   /  D  /  A  /  E  /
-        B7  /  E  /  E  /  E  /  (see below for guitar tab)
-
-    VERSE #1
-                 B7                           E
-        I keep a close watch on this heart of mine
-                  B7                     E
-        I keep my eyes wide open all the time
-                   A                         E
-        I keep the ends out for the tie that binds
-                       B7               E
-        Because you're mine, I walk the line
-
-    VERSE #2
-            (key change! walk up to A )
-
-                      E                      A
-            I find it very, very easy to be true
-                     E                           A  
-            I find myself alone when each day is through
-                        D                       A
-            Yes, I'll admit that I'm a fool for you
-                           E                A
-            Because you're mine, I walk the line
-
-    VERSE #3        
-                (key change! walk up to D )
-
-                           A                        D
-                As sure as night is dark and day is light
-                           A                       D
-                I keep you on my mind both day and night
-                         G                                D
-                And happiness I've known proves that it's right
-                               A                D
-                Because you're mine, I walk the line
-
-    VERSE #4
-            (key change! walk down to A )
-
-                         E                      A
-            You've got a way to keep me on your side
-                        E                           A
-            You give me cause for love that I can't hide
-                      D                             A
-            For you I know I'd even try to turn the tide
-                           E                A
-            Because you're mine, I walk the line
-
-    VERSE #5
-        (key change! walk down to E )
-
-                 B7                           E
-        I keep a close watch on this heart of mine
-                  B7                     E
-        I keep my eyes wide open all the time
-                   A                         E
-        I keep the ends out for the tie that binds
-                       B7               E
-        Because you're mine, I walk the line
-
-                                  (end on E, fade out)
-
-
 ## Learning the intro riff
 
 ### Variation 1 of 3: Bass notes only
 
     See PDF for tab.
 
-    <!-- e –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
+<!-- e –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
     B –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
     G –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
     D –––––––––––––|–––––––––––––––––––––––––––––––––|–0–––––––––––––––0–––0–––––––––––|–
