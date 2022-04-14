@@ -61,19 +61,21 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-    Always Remember Us This Way XXXXXXXXXX
+    Always Remember Us This Way XXXXXXXXXXX
     American Girl               XXXXXXXX
     California Dreaming         XXXXXXXX
     Creep                       XXXXXXXXXX
-    Feeling Whitney             XXXXXXXXX
+    Feeling Whitney             XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
     Guantanamara                XXXXXXX
     Let Him Roll                XXXXXXXX
-    Like a Rolling Stone        XXXXXXXXXXX
+    Like a Rolling Stone        XXXXXXXXXXXX
+    Maybe It's Time •           XXXXXXX
     My Fav. Picture of You      XXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Sedona                      XXXXXXX
     Sweet Child o Mine          XXXXXXXXXXXXX
+    Total Eclipse of the Heart  XXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
@@ -83,12 +85,10 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXX
-    Maybe It's Time •           XXXXXX
     Remember Me •               XXXXX
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXX
-    Total Eclipse of the Heart  XXXXXX
     We Are the Champions •      XXXXXX
     When the Man Comes Around   XXXXXX
     Where Rainbows Never Die    XXXX
