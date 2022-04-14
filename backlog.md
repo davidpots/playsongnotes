@@ -16,8 +16,9 @@ permalink: /backlog/
 
 <h2>Recently re-added song sheets...</h2>
 
-Sheet music for the following songs are all available for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
+Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+    Apr 14 - Danny's Song
     Apr 12 - Highwayman
     Apr 12 - Last Kiss
     Apr 11 - Badlands
@@ -64,7 +65,6 @@ Sheet music for the following songs are all available for purchase at Musicnotes
     American Girl               XXXXXXXX
     California Dreaming         XXXXXXXX
     Creep                       XXXXXXXXXX
-    Danny's Song •              XXXXXXX
     Feeling Whitney             XXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
     Guantanamara                XXXXXXX

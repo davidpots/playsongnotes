@@ -11,8 +11,9 @@ yt_video_id: QWKt_jnwM4o
 slug: "95"
 redirect_from:
   - /songs/loggins-and-messina-dannys-song/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 2
+musicnotes_url: https://www.musicnotes.com/l/VgvMq
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/22930633
 ---
@@ -25,66 +26,7 @@ patreon_lesson_url: https://www.patreon.com/posts/22930633
 
 ## Editor's notes
 
-In this lesson I'll show you how to play the song "Danny's Song" by Loggins & Messina. I'll include the chords needed, progressions used, strumming pattern, and of course fingerpicking tabs to get you started with things.
-
-## Lyrics w/ chords
-
-    INTRO
-
-        D
-
-    VERSE
-
-        D                   C               Bm
-        ...People smile and tell me I'm the lucky one
-                  E7                            A
-        And we've just begun... think I'm gonna have a son
-        D               C              Bm              
-        He will be like she and me, as free as a dove
-            E7                                A
-        Conceived in love... the sun is gonna shine above
-
-    CHORUS
-              G                     A
-              ...And even though we ain't got money
-              D              Bm
-              ...I'm so in love with ya honey
-                  G               A                D      Bm
-              And everything will bring a chain of love------
-              G                     A
-              ...And in the morning when I rise
-              D                   C
-              ...Bring a tear of joy to my eyes
-                  Bm      E7    A
-              And tell me every---thing is gonna be all right
-
-                    (use same chords for remaining verse & chorus sections)
-
-        Seems as though a month ago I was quiet and shy
-        Never got high... oh, I was a sorry guy
-        And now I smile and face the girl that shares my name
-        Now I'm through with the game
-        This boy'll never be the same
-
-            [ chorus ]
-
-        Pisces Virgo rising is a very good sign
-        Strong and kind... and the little boy is mine
-        Now I see a family where there once was none
-        Now we've just begun
-        Yeah we're gonna fly to the sun
-
-            [ chorus ]
-
-        Love the girl who holds the world in a paper cup
-        Drink it up... love her and she'll bring ya luck
-        And if you find she helps your mind
-        Buddy, take her home
-        Don't ya live alone
-        Try to earn what lovers own
-
-            [ chorus ]
-
+In this lesson I'll show you how to play the song "Danny's Song" by Loggins & Messina. I'll include the chords needed, progressions used, strumming pattern, and of course fingerpicking tabs to get you started with things. To follow along with my video, I suggest picking up the 4-page song sheet linked above. It has all the lyrics and chords on page 1, while also digging into the progression, fingerstyle, and strumming on page 2. Pages 3 and 4 give you tabs for the entire song, including my exact fingerstyle tab.
 
 ## Chords needed
 
@@ -97,57 +39,6 @@ Standard stuff here, the one exception being the D/C variant I prefer to play fo
     A –––––––––3––––2––––2––––0––––2––––3––––
     E –––––––––––––––––––0–––––––––3–––––––––
           D    C    Bm   E7   A    G   D/C
-
-## Song structure
-
-Here's the progressions you'll need in the intro, verse, and chorus. Repeat these throughout the song for each additional verse and chorus.
-
-    INTRO
-    D . . . D . . . D . . . D . . .
-
-    VERSE
-    D  . . . C  . . . Bm . . . Bm . . .
-    E7 . . . E7 . . . A  . . . A  . . .
-
-    CHORUS
-    G  . . . A  . . . D . . . Bm . . .
-    G  . . . A  . . . D . . . Bm . . .
-    G  . . . A  . . . D . . . C  . . .
-    Bm . . . E7 . . . A . . . A  . . .
-
-## Chorus walk down
-
-There's a very distinctive bass walkdown heard during the chorus, as things transition from the D to the Bm to the G chords. Whether you're strumming this song or fingerpicking it, here's how to approach this walkdown in broad terms.
-
-First, understand we're talking about the first half of the chorus:
-
-    G                     A
-    ...And even though we ain't got money
-    D              Bm
-    ...I'm so in love with ya honey
-        G               A                D      Bm    (G)
-    And everything will bring a chain of love------
-
-For the transition from the D to Bm to G, you may want to walk down the bass notes as follows. Note, this is just the broad strokes -- fill in additional strums or fingerpicking flourish as you prefer:
-
-         "And even though we ain't got money...                     
-    E ––––3–––––––––––––––––––0––––––––––––––––––2–––––––––2–––––––––3––––
-    B ––––0–––––––––––––––––––2––––––––––––––––––3–––––––––3–––––––––0––––
-    G ––––0–––––––––––––––––––2––––––––––––––––––2–––––––––4–––––––––0––––
-    D ––––0–––––––––––––––––––2––––––––––––––––––0–––––––––4–––––––––0––––   etc
-    A ––––2–––––––––––––––––––0–––––––––––––––––––––––4––––2––––0––––2––––
-    E ––––3––––––––––––––––––––––––––––––––––––––––––––––––––––––––––3––––
-          G                   A                  D         Bm        G
-
-It's also worth pointing out, you could technically play these walkdown notes as full chords – though this is most certainly quite a bit more difficult, and will require barring the B, G, and D strings on the 2nd fret with your index finger.
-
-    E ––––3–––––––––––––––––––0––––––––––––––––––2–––––––––2–––––––––3––––
-    B ––––0–––––––––––––––––––2––––––––––––––––––3––––2––––3––––2––––0––––
-    G ––––0–––––––––––––––––––2––––––––––––––––––2––––2––––4––––2––––0––––
-    D ––––0–––––––––––––––––––2––––––––––––––––––0––––2––––4––––2––––0––––   etc
-    A ––––2–––––––––––––––––––0–––––––––––––––––––––––4––––2––––0––––2––––
-    E ––––3––––––––––––––––––––––––––––––––––––––––––––––––––––––––––3––––
-          G                   A                  D   A/C#  Bm   A    G
 
 ## Fingerpicking pattern
 
@@ -183,7 +74,3 @@ And here are specific examples, per chords in the actual song:
          D                       Bm                      E7
 
 See my video lesson for context. Don't over think it! I'm sure you could get wild and crazy complicated with this - but for now, I want to get you started with what's above.
-
-## Good luck!
-
-Let me know if you have questions. I hope this was helpful!
