@@ -18,34 +18,29 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
-    Apr 14 - Danny's Song
-    Apr 12 - Highwayman
-    Apr 12 - Last Kiss
-    Apr 11 - Badlands
-    Apr 7  - A Million Dreams
-    Apr 6  - Banded Clovis
-    Apr 5  - Walk Right In
-    Mar 6  - Lola
-    Mar 1  - Under the Bridge
-    Feb 8  - Me and Bobby McGee
-    Feb 7  - Whitehouse Road
-    Feb 1  - I've Been Everywhere
-    Jan 31 - Tuesday's Gone
-    Jan 18 - Wildflowers
-    Jan 11 - If I Had a Boat
-    Jan 4  - The Wind
-    Jan 4  - Dead Flowers
-    Dec 10 - Yesterday
-    Nov 30 - Happy Xmas
-    Nov 23 - Mrs Robinson
-    Nov 22 - Hotel California
-    Nov 12 - Hello In There
-    Nov 4  - Copperhead Road
-    Nov 2  - Please Come Home for Christmas
-    Nov 2  - Lady May
-    Oct 27 - Under the Milky Way Tonight
-    Oct 27 - Imagine
-    Oct 26 - Last Christmas
+- Apr 16 - [Sweet Child O' Mine](https://playsongnotes.com/lessons/156/)
+- Apr 14 - [Danny's Song](https://playsongnotes.com/lessons/95/)
+- Apr 12 - [Highwayman](https://playsongnotes.com/lessons/55/)
+- Apr 12 - [Last Kiss](https://playsongnotes.com/lessons/87/)
+- Apr 11 - [Badlands](https://playsongnotes.com/lessons/44/)
+- Apr 7  - [A Million Dreams](https://playsongnotes.com/lessons/128/)
+- Apr 6  - [Banded Clovis](https://playsongnotes.com/lessons/291/)
+- Apr 5  - [Walk Right In](https://playsongnotes.com/lessons/277/)
+- Mar 6  - [Lola](https://playsongnotes.com/lessons/427/)
+- Mar 1  - [Under the Bridge](https://playsongnotes.com/lessons/419/)
+- Feb 8  - [Me and Bobby McGee](https://playsongnotes.com/lessons/114/)
+- Feb 7  - [Whitehouse Road](https://playsongnotes.com/lessons/109/)
+- Feb 1  - [I've Been Everywhere](https://playsongnotes.com/lessons/170/)
+- Jan 31 - [Tuesday's Gone](https://playsongnotes.com/lessons/100/)
+- Jan 18 - [Wildflowers](https://playsongnotes.com/lessons/232/)
+- Jan 11 - [If I Had a Boat](https://playsongnotes.com/lessons/229/)
+- Jan 4  - [The Wind](https://playsongnotes.com/lessons/254/)
+- Jan 4  - [Dead Flowers](https://playsongnotes.com/lessons/79/)
+- Dec 10 - [Yesterday](https://playsongnotes.com/lessons/242/)
+- Nov 30 - [Happy Xmas](https://playsongnotes.com/lessons/35/)
+- Nov 23 - [Mrs Robinson](https://playsongnotes.com/lessons/51/)
+- Nov 22 - [Hotel California](https://playsongnotes.com/lessons/31/)
+- Nov 12 - [Hello In There](https://playsongnotes.com/lessons/295/)
 
 <br /><br />
 
@@ -63,7 +58,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
     Always Remember Us This Way XXXXXXXXXXX
     American Girl               XXXXXXXX
-    California Dreaming         XXXXXXXX
+    California Dreaming         XXXXXXXXX
     Creep                       XXXXXXXXXX
     Feeling Whitney             XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
@@ -74,7 +69,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     My Fav. Picture of You      XXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Sedona                      XXXXXXX
-    Sweet Child o Mine          XXXXXXXXXXXXX
     Total Eclipse of the Heart  XXXXXXX
 
 <br />
