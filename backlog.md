@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- Apr 19 - [Feeling Whitney](https://playsongnotes.com/lessons/91/)
 - Apr 16 - [Sweet Child O' Mine](https://playsongnotes.com/lessons/156/)
 - Apr 14 - [Danny's Song](https://playsongnotes.com/lessons/95/)
 - Apr 12 - [Highwayman](https://playsongnotes.com/lessons/55/)
@@ -60,13 +61,12 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     American Girl               XXXXXXXX
     California Dreaming         XXXXXXXXX
     Creep                       XXXXXXXXXX
-    Feeling Whitney             XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
     Guantanamara                XXXXXXX
     Let Him Roll                XXXXXXXX
     Like a Rolling Stone        XXXXXXXXXXXX
     Maybe It's Time •           XXXXXXX
-    My Fav. Picture of You      XXXXXXX
+    My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Sedona                      XXXXXXX
     Total Eclipse of the Heart  XXXXXXX
@@ -75,7 +75,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 <h3>3-6 requests:</h3>
 
     All Apologies               XXX
-    LA Freeway                  XXXXX
+    LA Freeway                  XXXXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXX
