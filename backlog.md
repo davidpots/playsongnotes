@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- Apr 19 - [Like a Rolling Stone](https://playsongnotes.com/lessons/33/)
 - Apr 19 - [Feeling Whitney](https://playsongnotes.com/lessons/91/)
 - Apr 16 - [Sweet Child O' Mine](https://playsongnotes.com/lessons/156/)
 - Apr 14 - [Danny's Song](https://playsongnotes.com/lessons/95/)
@@ -55,16 +56,15 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     Always Remember Us This Way XXXXXXXXXXX
     American Girl               XXXXXXXX
     California Dreaming         XXXXXXXXX
     Creep                       XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
-    Guantanamara                XXXXXXX
+    Guantanamara                XXXXXXXX
     Let Him Roll                XXXXXXXX
-    Like a Rolling Stone        XXXXXXXXXXXX
     Maybe It's Time •           XXXXXXX
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
