@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- Apr 20 - [Sedona](https://playsongnotes.com/lessons/313/)
 - Apr 19 - [Like a Rolling Stone](https://playsongnotes.com/lessons/33/)
 - Apr 19 - [Feeling Whitney](https://playsongnotes.com/lessons/91/)
 - Apr 16 - [Sweet Child O' Mine](https://playsongnotes.com/lessons/156/)
@@ -68,7 +69,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Maybe It's Time •           XXXXXXX
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
-    Sedona                      XXXXXXX
     Total Eclipse of the Heart  XXXXXXX
 
 <br />
