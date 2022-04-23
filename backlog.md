@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- Apr 23 - [Maybe It's Time](https://playsongnotes.com/lessons/188/)
 - Apr 21 - [Guantanamera](https://playsongnotes.com/lessons/211/)
 - Apr 20 - [Sedona](https://playsongnotes.com/lessons/313/)
 - Apr 19 - [Like a Rolling Stone](https://playsongnotes.com/lessons/33/)
@@ -66,7 +67,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Creep                       XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
     Let Him Roll                XXXXXXXX
-    Maybe It's Time •           XXXXXXX
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Total Eclipse of the Heart  XXXXXXX
