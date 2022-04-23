@@ -62,7 +62,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     Always Remember Us This Way XXXXXXXXXXX
-    American Girl               XXXXXXXX
+    American Girl               XXXXXXXXX
     California Dreaming         XXXXXXXXX
     Creep                       XXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
@@ -70,6 +70,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Total Eclipse of the Heart  XXXXXXX
+    We Are the Champions •      XXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
@@ -83,7 +84,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXX
-    We Are the Champions •      XXXXXX
     When the Man Comes Around   XXXXXX
     Where Rainbows Never Die    XXXX
     Year Clayton Delaney Died   XXX
