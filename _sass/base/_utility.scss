@@ -96,3 +96,17 @@
     color: $color-pdf-patreon--icon;
   }
 }
+
+
+// S3xy Images
+
+.pretty-img {
+  max-width: 80%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 12px 36px rgba(0,0,0,0.10);
+  margin-top: 25px;
+  margin-bottom: 36px;
+}

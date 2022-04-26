@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<article>
+
+
+{% include header-nav--desktop.html %}
+{% include header-nav--mobile.html %}
+
+  <div class="container mtxl">
+    <h4 class="mbn normal">Getting Started with Song Notes</h4>
+    <h1 class="mtn mbl">{{ page.title }}</h1>
+    <hr class="mtn" />
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-left col-8">
+        {{ content }}
+      </div> <!-- end: .col.col-left.col-9 -->
+      <div class="col col-right col-4">
+        {% include playlists/getting-started.html %}
+      </div> <!-- end: .col.col-right.col-3 -->
+    </div> <!-- end: .row -->
+  </div>
+
+</article>
+
+
+<script>
+  var current_page_path = location.pathname;
+  $(document).ready(function(){
+    $('.module-playlist ul li a').each(function(i,obj) {
+      if ( $(obj).attr("href") == current_page_path ) {
+        $(obj).addClass('playlist-item-active');
+      }
+    });
+  });
+</script>

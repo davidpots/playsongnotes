@@ -11,8 +11,9 @@ tags: [Full Song Lesson, 1970s, Country, Key of G]
 slug: "101"
 redirect_from:
   - /songs/guy-clark-la-freeway/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 5
+musicnotes_url: https://www.musicnotes.com/l/qxvMn
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-22821148
 ---

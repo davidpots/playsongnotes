@@ -92,6 +92,8 @@
         .small    { font-size: $font-size--small; }
         .smaller  { font-size: $font-size--xsmall; }
 
+        .large { font-size: $font-size--large; }
+
 //  ----------------------------------------------------------------------------
 //  Lists
 //  ----------------------------------------------------------------------------
@@ -138,6 +140,14 @@
         // Blockquotes
         // ...
 
+        figcaption {
+          text-align: center;
+          font-size: 14px;
+          font-style: italic;
+          margin: 8px 0 32px;
+          color: #888;
+        }
+
 //  ----------------------------------------------------------------------------
 //  Utility classes
 //  ----------------------------------------------------------------------------
@@ -147,7 +157,7 @@
         .bold           { font-weight: bold; }
         .weak           { color: $gray-light; }
         .narrow         { font-family: $font-family--narrow; }
-        .normal         { font-family: $font-weight--normal; }
+        .normal         { font-weight: $font-weight--normal; }
         .mono           { font-family: $font-family--monospace; }
         .italic         { font-style: italic; }
         .caps           { text-transform: uppercase; }

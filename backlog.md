@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- Apr 26 - [LA Freeway](https://playsongnotes.com/lessons/101/)
 - Apr 23 - [Maybe It's Time](https://playsongnotes.com/lessons/188/)
 - Apr 21 - [Guantanamera](https://playsongnotes.com/lessons/211/)
 - Apr 20 - [Sedona](https://playsongnotes.com/lessons/313/)
@@ -64,7 +65,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Always Remember Us This Way XXXXXXXXXXX
     American Girl               XXXXXXXXX
     California Dreaming         XXXXXXXXX
-    Creep                       XXXXXXXXXX
+    Creep                       XXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
     Let Him Roll                XXXXXXXX
     My Fav. Picture of You      XXXXXXXX
@@ -76,7 +77,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 <h3>3-6 requests:</h3>
 
     All Apologies               XXX
-    LA Freeway                  XXXXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXX
