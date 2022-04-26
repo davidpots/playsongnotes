@@ -4,7 +4,7 @@ title: How to Cancel Membership
 permalink: /getting-started/how-to-cancel
 ---
 
-_Note, I'm unable to cancel for you! Patreon literally doesn't give me that ability. Fortunately, it's very easy to do... here's how._
+<p class="large">I'm unable to cancel for you – Patreon literally doesn't give me that ability – but good news! It's very easy to do yourself... here's how.</p>
 
 <br />
 ## 1. Log in to Patreon.com

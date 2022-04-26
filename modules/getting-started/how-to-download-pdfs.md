@@ -4,6 +4,10 @@ title: How to Download My PDFs
 permalink: /getting-started/how-to-download-pdfs
 ---
 
+
+<p class="large">All of my instructional PDFs are available for download over on my Patreon page. Once you learn how to download them, the process takes just seconds. Here's a quick walkthrough. Make sure you have your Patreon login handy!</p>
+
+<br />
 ## 1. Open the Patreon Post You're Interested in...
 
 Next, open the Patreon post you're interested in ([here's an example post]((https://playsongnotes.com/lessons/428/))). Make sure you're logged in, and you'll see the full post. Here's what the Patreon post page looks like:

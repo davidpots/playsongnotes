@@ -5,11 +5,17 @@ permalink: /getting-started/how-to-log-in
 ---
 
 
-## Membership login is through Patreon.com
+<p class="large">To log in and manage your Song Notes membership, you'll want to head over to <a class="gray-dark" href="https://patreon.com/songnotes">patreon.com/songnotes</a>. There, you'll be able to access members-only content and manage your account. Here's a few helpful tips, with screenshots.</p>
+
+<br />
+## Look in the top-right corner of Patreon.com
 
 Patreon is the website where your Song Notes membership is managed. You login by visiting **[patreon.com/login](https://www.patreon.com/login)** or simply looking for the "Log In" link in the top right corner of any Patreon post:
 
 <img class="pretty-img" src="https://imagedelivery.net/GppmjzYePBmVFRqlA4p8pQ/9fdc20cc-f53f-4013-2eb0-f713d54dc600/public" />
+
+<br /><br />
+## This website you're reading now doesn't have login feature
 
 Important note: The website you're reading right now – **playsongnotes.com** – does _not_ have a login feature. It's a free directory of all my video lessons, which occasionally "links out" to YouTube, Patreon, Musicnotes, etc.
 

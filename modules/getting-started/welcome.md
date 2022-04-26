@@ -2,14 +2,14 @@
 layout: getting-started
 title: Thanks and Welcome!
 permalink: /getting-started/welcome
+redirect_from:
+  - /members
 ---
 
-## Thank you so much for your support!
+<p class="large">First up, a sincere <em>thank you</em> for supporting my efforts with this project! I'm very excited for you to dive in & enjoy all the fun stuff that's available to you as a Song Notes member.</p>
 
-First up, a sincere _thank you_ for supporting me here on Song Notes! I'm very excited for you to dive in & enjoy all the fun stuff that's available to you as a Song Notes member.
-
-<br /><br />
-## I just signed up... what's next?
+<br />
+## Just signed up? Quick next steps...
 
 First, a few quick suggestions:
 
@@ -17,10 +17,10 @@ First, a few quick suggestions:
 
 - **Bookmark this website** - seriously, you'll want to use playsongnotes.com as the #1 spot to search all my lessons. It's much easier to navigate than Patreon, and it will always "link you out" to any Patreon pages that contain PDFs, etc.
 
-- **Remember your Patreon password!** - this is important! Make sure you keep track of your Patreon login, as you'll need to be logged in to access the members-only PDFs & other content I publish each week.
+- **Remember your Patreon login info** - this is important! Make sure you keep track of your Patreon email address & password, as you'll need to be logged in to access the members-only PDFs & other content I publish each week.
 
 <br /><br />
-## Now, for the fun stuff:
+## Now, for the fun stuff...
 
 - **You'll get an email every time I post something new** – in your inbox, this will come from "Patreon" – keep an eye out for it! I post 1-2 times a week with new content. The email will include include videos, PDFs, and anything else related to my new lesson.
 

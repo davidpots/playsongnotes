@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Print-friendly PDF Downloads for Song Notes guitar lessons - playsongnotes.com
-permalink: /downloads/
-redirect_from:
-- /join
+title: Song Notes Downloads
+permalink: /downloads
 ---
-
 
 <script src="/js/jquery.js"></script>
 <script>
@@ -20,8 +17,7 @@ redirect_from:
   });
 </script>
 
-<p class="center small gray mtl mbl italic">Already a Patreon member? <a class="" href="/riffs">Browse my lessons</a> or <a class="" href="/myaccount">manage your account</a></p>
-
+<p class="center mtxl mbxl italic">Already a Patreon supporter? <a href="/search">Search all my lessons</a> or <a href="/members">manage your account</a></p>
 
 # How to Get My Instructional PDFs & Song Sheets
 

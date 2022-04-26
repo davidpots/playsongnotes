@@ -1053,3 +1053,30 @@ tr[data-pdf-v2="v1"] td {
   color: $black;
   font-size: 14px;
 }
+
+// TABS April 2022
+
+.tabs-2022 {
+  margin: 0 0 72px;
+  padding: 0;
+  justify-content: center;
+  display: flex;
+  list-style: none;
+}
+.tabs-2022 li {
+  font-weight: bold;
+  display: inline-block;
+  margin: 0 12px;
+}
+.tabs-2022 li a {
+  text-decoration: none;
+  padding-bottom: 6px;
+  color: $gray-dark;
+}
+.tabs-2022 li a:hover {
+  color: $link-color;
+}
+.tabs-2022 li a.tabs-2022--active {
+  color: $link-color;
+  border-bottom: 5px solid $link-color;
+}
