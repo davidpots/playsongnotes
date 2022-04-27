@@ -4,6 +4,8 @@ title: How to Log In
 permalink: /getting-started/how-to-log-in
 ---
 
+<iframe width="616" height="347" src="https://www.youtube.com/embed/bYePFVzifhM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/bYePFVzifhM -->
 
 <p class="large">To log in and manage your Song Notes membership, you'll want to head over to <a class="gray-dark" href="https://patreon.com/songnotes">patreon.com/songnotes</a>. There, you'll be able to access members-only content and manage your account. Here's a few helpful tips, with screenshots.</p>
 

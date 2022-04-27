@@ -4,6 +4,9 @@ title: How to Search All My Lessons
 permalink: /getting-started/how-to-search-lessons
 ---
 
+<iframe width="616" height="347" src="https://www.youtube.com/embed/jiTkRdHa2CU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/jiTkRdHa2CU -->
+
 <p class="large">You can easily search all my lessons using this website, playsongnotes.com! No matter which page you're on, look for the search bar at the top of the page.</p>
 
 <br />

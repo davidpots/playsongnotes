@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 'Chord Guide for Wildflowers and If I Had A Boat'
+title: '"Me and Bobby McGee" Strumming Comparison (Kris vs. Janis)'
 category: tip_technique
 slug: "417"
 tags: [Tips & Techniques, Strumming, Key of G, Key of A]
