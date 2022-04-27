@@ -6,6 +6,9 @@ redirect_from:
   - /members
 ---
 
+<iframe width="616" height="347" src="https://www.youtube.com/embed/-B3hl_Qk1m0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/-B3hl_Qk1m0 -->
+
 <p class="large">First up, a sincere <em>thank you</em> for supporting my efforts with this project! I'm very excited for you to dive in & enjoy all the fun stuff that's available to you as a Song Notes member.</p>
 
 <br />

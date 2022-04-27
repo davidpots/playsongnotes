@@ -4,6 +4,9 @@ title: How to Buy My Song Sheets
 permalink: /getting-started/how-to-buy-song-sheets
 ---
 
+<iframe width="616" height="347" src="https://www.youtube.com/embed/Jx2wOsbPW8o?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/Jx2wOsbPW8o -->
+
 <p class="large">Instructions on buying my licensed song sheets are below! If you're in search of the members-only 50% discount code for the current month — you can always find it at <a class="gray-dark" href="http://playsongnotes.com/discount">playsongnotes.com/discount</a></p>
 
 <br />
