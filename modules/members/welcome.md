@@ -1,7 +1,7 @@
 ---
-layout: getting-started
+layout: members
 title: Thanks and Welcome!
-permalink: /getting-started/welcome
+permalink: /members/welcome
 redirect_from:
   - /members
 ---

@@ -1,7 +1,9 @@
 ---
-layout: getting-started
+layout: members
 title: How to Log In
-permalink: /getting-started/how-to-log-in
+permalink: /members/how-to-log-in
+redirect_from:
+  - /members/login
 ---
 
 <iframe width="616" height="347" src="https://www.youtube.com/embed/bYePFVzifhM?showinfo=0" frameborder="0" allowfullscreen></iframe>

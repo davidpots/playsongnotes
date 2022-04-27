@@ -1,7 +1,9 @@
 ---
-layout: getting-started
+layout: members
 title: How to Cancel Membership
-permalink: /getting-started/how-to-cancel
+permalink: /members/how-to-cancel
+redirect_from:
+  - /members/cancel
 ---
 
 <iframe width="616" height="347" src="https://www.youtube.com/embed/36nMDbeEKyk?showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -12,7 +14,7 @@ permalink: /getting-started/how-to-cancel
 <br />
 ## 1. Log in to Patreon.com
 
-You'll need to be logged in to your Patreon account to cancel. Look for the "Log In" link in the top right of **[patreon.com](http://patreon.com)**. If you're having login issues, [see this help page](/getting-started/how-to-log-in) for solutions to common issues.
+You'll need to be logged in to your Patreon account to cancel. Look for the "Log In" link in the top right of **[patreon.com](http://patreon.com)**. If you're having login issues, [see this help page](/members/how-to-log-in) for solutions to common issues.
 
 <img class="pretty-img" src="https://imagedelivery.net/GppmjzYePBmVFRqlA4p8pQ/9fdc20cc-f53f-4013-2eb0-f713d54dc600/public" />
 

@@ -1,7 +1,10 @@
 ---
-layout: getting-started
+layout: members
 title: How to Download My PDFs
-permalink: /getting-started/how-to-download-pdfs
+permalink: /members/how-to-download-pdfs
+redirect_from:
+  - /members/pdfs
+  - /members/downloads
 ---
 
 <iframe width="616" height="347" src="https://www.youtube.com/embed/ogRlesW-mC0?showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -12,7 +15,7 @@ permalink: /getting-started/how-to-download-pdfs
 <br />
 ## 1. Open the Patreon Post You're Interested in...
 
-Next, open the Patreon post you're interested in ([here's an example post]((https://playsongnotes.com/lessons/428/))). Make sure you're logged in, and you'll see the full post. Here's what the Patreon post page looks like:
+Next, open the Patreon post you're interested in ([here's an example post](https://playsongnotes.com/lessons/428/)). Make sure you're logged in, and you'll see the full post. Here's what the Patreon post page looks like:
 
 <img class="pretty-img" src="https://imagedelivery.net/GppmjzYePBmVFRqlA4p8pQ/c31149bd-c647-450d-3f98-9077fdbef000/public" />
 
@@ -38,7 +41,7 @@ That's it! You're free to print my Patreon PDFs as many times as you want, and o
 
 I've set it up so it's super easy to jump to a specific Patreon post using this current website (**playsongnotes.com**) as a starting point.
 
-First, [search all my lessons](/getting-started/how-to-search-lessons) to find what you're looking for. Then, once you have the lesson page open, look for this button:
+First, [search all my lessons](/members/how-to-search-lessons) to find what you're looking for. Then, once you have the lesson page open, look for this button:
 
 <img class="pretty-img" src="https://imagedelivery.net/GppmjzYePBmVFRqlA4p8pQ/3a1efe7c-955c-4ecd-0538-8a051c892900/public" />
 

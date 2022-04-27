@@ -1,7 +1,10 @@
 ---
-layout: getting-started
+layout: members
 title: How to Buy My Song Sheets
-permalink: /getting-started/how-to-buy-song-sheets
+permalink: /members/how-to-buy-song-sheets
+redirect_from:
+  - /members/musicnotes
+  - /members/sheetmusic
 ---
 
 <iframe width="616" height="347" src="https://www.youtube.com/embed/Jx2wOsbPW8o?showinfo=0" frameborder="0" allowfullscreen></iframe>

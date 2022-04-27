@@ -1,7 +1,9 @@
 ---
-layout: getting-started
+layout: members
 title: How to Search All My Lessons
-permalink: /getting-started/how-to-search-lessons
+permalink: /members/how-to-search-lessons
+redirect_from:
+  - /members/search
 ---
 
 <iframe width="616" height="347" src="https://www.youtube.com/embed/jiTkRdHa2CU?showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -41,7 +43,7 @@ I've set it up so it's super easy to jump to a specific Patreon post from any le
 
 <img class="pretty-img" src="https://imagedelivery.net/GppmjzYePBmVFRqlA4p8pQ/3a1efe7c-955c-4ecd-0538-8a051c892900/public" />
 
-Clicking it will link you out to that specific Patreon page. Simply [scroll to the bottom](/getting-started/how-to-download-pdfs) of the Patreon post, click the PDF attachment link, and you're done!
+Clicking it will link you out to that specific Patreon page. Simply [scroll to the bottom](/members/how-to-download-pdfs) of the Patreon post, click the PDF attachment link, and you're done!
 
 
 <br />
