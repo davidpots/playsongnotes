@@ -4,6 +4,8 @@ title: How to Download My PDFs
 permalink: /getting-started/how-to-download-pdfs
 ---
 
+<iframe width="616" height="347" src="https://www.youtube.com/embed/ogRlesW-mC0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- https://youtu.be/ogRlesW-mC0 -->
 
 <p class="large">All of my instructional PDFs are available for download over on my Patreon page. Once you learn how to download them, the process takes just seconds. Here's a quick walkthrough. Make sure you have your Patreon login handy!</p>
 
