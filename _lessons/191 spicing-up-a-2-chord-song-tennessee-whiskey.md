@@ -5,6 +5,7 @@ slug: "191"
 date_published: 2018-11-14
 category: practice_log
 tags: [Practice Log, Learning Chords, Strumming, Key of A, Licks & Fills]
+hidden_tags: [Tennessee Whiskey, Tennessee Whisky]
 yt_video_id: psGJOvgZU-g
 pdf_version: v1
 pdf_numpages: 3

@@ -12,10 +12,9 @@ slug: "153"
 redirect_from:
   - /songs/radiohead-creep/
 #pdf_version: v2
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 2
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/pdf-creep-by-153-30194939
+musicnotes_url: https://www.musicnotes.com/l/zkkMX
 ---
 
 ## Video lesson

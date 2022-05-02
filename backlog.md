@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- May 2  - [Creep](https://playsongnotes.com/lessons/153/)
 - Apr 26 - [LA Freeway](https://playsongnotes.com/lessons/101/)
 - Apr 23 - [Maybe It's Time](https://playsongnotes.com/lessons/188/)
 - Apr 21 - [Guantanamera](https://playsongnotes.com/lessons/211/)
@@ -60,23 +61,23 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     Always Remember Us This Way XXXXXXXXXXX
     American Girl               XXXXXXXXX
     California Dreaming         XXXXXXXXX
-    Creep                       XXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
-    Let Him Roll                XXXXXXXX
+    Let Him Roll                XXXXXXXXX
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
     Total Eclipse of the Heart  XXXXXXX
     We Are the Champions •      XXXXXXX
+    When the Man Comes Around   XXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
 
-    All Apologies               XXX
+    All Apologies               XXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXX
@@ -84,7 +85,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXX
-    When the Man Comes Around   XXXXXX
     Where Rainbows Never Die    XXXX
     Year Clayton Delaney Died   XXX
 
@@ -103,6 +103,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Jenny of Oldstones          X
     Let It Go                   X
     Manhattan Island Serenade   X
+    Peace of Mind               X
     Rivers of Babylon           X
     Santeria                    X  
     Say Something               X
