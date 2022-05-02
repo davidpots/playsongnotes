@@ -10,22 +10,17 @@ permalink: /join
     <li><a href="/members">Existing Members</a></li>
   </ul>
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/n978bAUGbSU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<!-- https://youtu.be/n978bAUGbSU -->
+
 ## Membership is offered through Patreon.com
 
 I offer membership directly through **Patreon.com**, which is a membership platform used by over 250,000 creators (myself included). This allows you, for a small monthly (or annual) pledge, to support my efforts directly. In return, you get access to the premium items listed below. You can cancel your membership anytime! Membership is month by month, with annual plans also available (which save you ~15%).
 
 <a style="display: inline-block; text-decoration: none; padding: 10px 18px; background: #0074D9; font-weight: bold; color: white; border-radius: 5px;" href="http://patreon.com/songnotes">Become a Song Notes Member</a>
 
-<br />
-## Is membership required?
 
-No! I make plenty of free content. After 20+ years of being a self-taught guitarist, it's my absolute joy to freely share with y'all so many of the things I've learned in that time. My free offerings:
-
-- **Over 400+ Video Lessons on YouTube** - I've been posting to YouTube since 2013, releasing about one video each week. Sometimes I teach songs, while other times I explain techniques, quick riffs, or practical music theory. If you're curious to check out my videos, you can do that on my YouTube channel – or alternatively use this website to browse everything.
-
-- **My FretMonster Web Tool** - One of the reasons to bookmark my website is so you can use FretMonster, which is an interactive fretboard tool I built a few years ago. This visualizes the guitar fretboard in a way that makes it easy to "see" things like notes, intervals, chord shapes, scales, and more. I'm happy to make this available to everyone at no extra charge!
-
-- **My Weekly Email Newsletter** - Want to stay in the loop with my lessons, at no cost? Sign up for my free email newsletter. I write a post every week or two, sharing links to whatever it is I've been working on. Video lesson, new song sheets, instructional PDFs, backing tracks, and more -- you'll be sure to hear about it in the newsletter.
 
 <br />
 ## What do members get?
@@ -98,8 +93,13 @@ Become a member on Patreon -- it's as little as $5/month! The content you'll unl
 
 ## Don't want to pay? I make plenty of free content!
 
-- 375+ video lessons on YouTube, with new ones added each week! [Subscribe to my YouTube channel here](http://youtube.com/playsongnotes). This includes song lessons, in addition to general instructional videos (guitar techniques, quick riffs, music theory, etc).
-- I send out a email newsletter every 1-2 weeks, keeping you in the loop with my latest lessons. [Sign up for my email newsletter here](/newsletter), it’s free – and is the best way to stay in the loop.
-- This website! No login required. Search all my lessons, use my [FretMonster](/fretmonster) web tool, and view notes & tabs for all of my non-song lessons.
+<br />
+After 20+ years of being a self-taught guitarist, it's my absolute joy to freely share with y'all so many of the things I've learned in that time. My free offerings:
+
+- **Over 400+ Video Lessons on YouTube** - I've been posting to YouTube since 2013, releasing about one video each week. Sometimes I teach songs, while other times I explain techniques, quick riffs, or practical music theory. If you're curious to check out my videos, you can do that on my YouTube channel – or alternatively use this website to browse everything.
+
+- **My FretMonster Web Tool** ([link](/fretmonster)) - One of the reasons to bookmark my website is so you can use FretMonster, which is an interactive fretboard tool I built a few years ago. This visualizes the guitar fretboard in a way that makes it easy to "see" things like notes, intervals, chord shapes, scales, and more. I'm happy to make this available to everyone at no extra charge!
+
+- **My Weekly Email Newsletter** ([link](/newsletter)) - Want to stay in the loop with my lessons, at no cost? Sign up for my free email newsletter. I write a post every week or two, sharing links to whatever it is I've been working on. Video lesson, new song sheets, instructional PDFs, backing tracks, and more -- you'll be sure to hear about it in the newsletter.
 
 <br />
