@@ -4,7 +4,7 @@ title: Sandbox of Song Notes layout stuff for PDFs
 permalink: /sandbox-pdfs/
 ---
 
-{% assign instructional_lessons = site.lessons | where_exp: "item","item.category != 'full_song'" | where_exp: "item","item.pdf_version == 'v1' or item.pdf_version == 'v2'" | sort: 'date_published' %}
+{% assign instructional_lessons = site.lessons | where_exp: "item","item.category != 'full_song'" | sort: 'date_published' | reverse %}
 
 <!-- { % assign instructional_lessons = site.lessons | where_exp: "item","item.category != 'full_song'" | where_exp: "item","item.pdf_version == 'v1' or item.pdf_version == 'v2'" | sort: 'date_published' | reverse %} -->
 
