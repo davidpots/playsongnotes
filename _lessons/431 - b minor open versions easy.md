@@ -13,7 +13,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/65996788
 ---
 
-<!-- https://youtu.be/FP5z6Q7zlns -->
+<!-- https://youtu.be/FP5z6Q7zlns --> 
 
 ## Video lesson
 
