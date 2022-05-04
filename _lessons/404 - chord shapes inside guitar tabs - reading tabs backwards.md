@@ -4,6 +4,7 @@ title: 'How to Recognize Chord Shapes within Guitar Tabs'
 category: tip_technique
 slug: "404"
 tags: [Tips & Techniques, Learning Chords]
+hidden_tags: [reading tabs backwards]
 date_published: 2021-12-14
 yt_video_id: gJzSsmkAG0M
 pdf_version: v2

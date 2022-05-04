@@ -4,9 +4,7 @@ title: '4 new PDFs: Tyler Childers covering Green Day, Colter Wall, Vincent Neil
 category: generic
 date_published: 2020-08-21
 slug: "323"
-pdf_version: v2
 yt_video_id: 6BBD4pNVNcA
-pdf_numpages: 4
 ---
 
 
