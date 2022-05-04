@@ -6,6 +6,7 @@ artist: Cheap Trick
 year: 1978
 category: full_song
 yt_video_id: YJ41QwQ52ZA
+date_published: 2020-09-27
 slug: "330"
 tags: [Full Song Lesson, 1970s, Key of C, Key of D, Classic Rock]
 pdf_version: musicnotes

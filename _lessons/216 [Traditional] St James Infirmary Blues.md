@@ -7,6 +7,7 @@ artist: (traditional)
 year: 1929
 category: full_song
 yt_video_id: PJyM26qPOHg
+date_published: 2019-02-16
 slug: "216"
 tags: [Full Song Lesson, 1920s, Blues, Key of Am]
 hidden_tags: [st]

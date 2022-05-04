@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: IkG_FCZ-s4g
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of C, Movie Songs]
 slug: "53"
+date_published: 2017-03-20
 redirect_from:
   - /songs/kinks-strangers/
 pdf_version: copyright

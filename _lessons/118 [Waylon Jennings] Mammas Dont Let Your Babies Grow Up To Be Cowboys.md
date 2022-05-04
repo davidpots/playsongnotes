@@ -7,8 +7,10 @@ artist: Waylon Jennings
 year: 1978
 category: full_song
 yt_video_id: xoSN0eOjWxc
+date_published: 2018-01-03
 slug: "118"
 tags: [Full Song Lesson, 1970s, Country, Key of D, Key of E]
+hidden_tags: [mamma, mama, mamas]
 redirect_from:
   - /songs/waylon-jennings-mammas-dont-let-your-babies-grow-up-to-be-cowboys/
 pdf_version: musicnotes

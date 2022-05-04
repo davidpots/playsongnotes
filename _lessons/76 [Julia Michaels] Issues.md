@@ -7,6 +7,7 @@ artist: Julia Michaels
 year: 2017
 category: full_song
 yt_video_id: kxGaBaQD018
+date_published: 2017-06-13
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 slug: "76"
 redirect_from:

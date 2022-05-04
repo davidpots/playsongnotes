@@ -8,6 +8,7 @@ year: 1971
 category: full_song
 yt_video_id: ThjbFUX0gHA
 slug: "151"
+date_published: 2018-05-06
 tags: [Full Song Lesson, 1970s, Country, Key of G]
 redirect_from:
   - /songs/john-denver-take-me-home-country-roads/

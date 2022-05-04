@@ -6,6 +6,7 @@ song_title:  Let Him Roll
 artist: Guy Clark
 year: 1975
 category: full_song
+date_published: 2019-03-17
 yt_video_id: aKMf0mR3N7s
 tags: [Full Song Lesson, Key of C, 1970s, Country, Fingerstyle, Travis Picking]
 slug: "226"

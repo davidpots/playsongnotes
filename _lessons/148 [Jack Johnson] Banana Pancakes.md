@@ -8,6 +8,7 @@ year: 2005
 tags: [Full Song Lesson, 2000s, Rock, Pop, Key of G]
 category: full_song
 yt_video_id: q4D_7WsdgdY
+date_published: 2018-04-29
 slug: "148"
 redirect_from:
   - /songs/jack-johnson-banana-pancakes/

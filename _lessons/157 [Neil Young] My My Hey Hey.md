@@ -8,6 +8,7 @@ year: 1979
 category: full_song
 tags: [Full Song Lesson, Key of Am, 1970s, Classic Rock]
 yt_video_id: PCYFKxOPiKk
+date_published: 2018-06-09
 slug: "157"
 redirect_from:
   - /songs/neil-young-my-my-hey-hey/

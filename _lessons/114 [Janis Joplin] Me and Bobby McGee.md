@@ -6,6 +6,7 @@ song_title: Me and Bobby McGee
 artist: Janis Joplin
 year: 1971
 category: full_song
+date_published: 2017-12-19
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
 hidden_tags: [Kris Kristofferson]
 yt_video_id: SSv0ZxZQnxs

@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Classic Rock, Key of C]
 hidden_tags: [Elton John]
 yt_video_id: ol4IS-aAIWo
+date_published: 2018-04-15
 slug: "143"
 redirect_from:
   - /songs/ed-sheeran-candle-in-the-wind/

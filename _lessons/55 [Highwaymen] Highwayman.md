@@ -8,6 +8,7 @@ year: 1985
 tags: [Full Song Lesson, Play-Along Cover, 1980s, Country, Key of D, Ukulele]
 pdf_version: musicnotes
 pdf_numpages: 3
+date_published: 2017-03-31
 musicnotes_url: https://www.musicnotes.com/l/55HM4
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/24575218

@@ -9,6 +9,7 @@ tags: [Full Song Lesson, 1980s, Rock, Key of E]
 category: full_song
 yt_video_id: xfWyEunEkpI
 slug: "106"
+date_published: 2017-11-17
 redirect_from:
   - /songs/tom-petty-runnin-down-a-dream/
 #pdf_version: v1

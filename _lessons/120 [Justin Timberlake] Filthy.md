@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 yt_video_id: 4ewbhKssL0o
+date_published: 2018-01-09
 slug: "120"
 redirect_from:
   - /songs/justin-timberlake-filthy/

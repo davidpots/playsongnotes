@@ -6,6 +6,7 @@ song_title:  River
 artist: Ed Sheeran
 year: 2017
 category: full_song
+date_published: 2017-12-30
 tags: [Full Song Lesson, 2010s, Pop, Key of Em]
 yt_video_id: 7nlxPv2a1xw
 slug: "117"

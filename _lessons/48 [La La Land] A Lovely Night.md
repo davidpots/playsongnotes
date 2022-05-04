@@ -6,6 +6,7 @@ song_title:  A Lovely Night
 artist: La La Land
 year: 2016
 category: full_song
+date_published: 2017-02-22
 tags: [Full Song Lesson, 2010s, Key of C, Movie Songs]
 hidden_tags: [Emma Stone, Ryan Gosling]
 yt_video_id: LEGDHnUEFH0

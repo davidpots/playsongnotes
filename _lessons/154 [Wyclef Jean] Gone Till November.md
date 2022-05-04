@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: oPtIRPcZZzg
 tags: [Full Song Lesson, 1990s, Drop E, Fingerstyle]
 slug: "154"
+date_published: 2018-05-22
 redirect_from:
   - /songs/wyclef-jean-gone-till-november/
 #pdf_version: v2

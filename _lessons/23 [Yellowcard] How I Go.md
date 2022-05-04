@@ -5,6 +5,7 @@ title: '"How I Go" by Yellowcard'
 song_title: How I Go
 artist: Yellowcard
 year: 2006
+date_published: 2016-07-06
 category: full_song
 tags: [Full Song Lesson, 2000s, Rock, Key of E]
 yt_video_id: -cGtB7Ugw58

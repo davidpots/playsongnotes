@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: A7IsoktG54A
+date_published: 2018-04-12
 slug: "142"
 redirect_from:
   - /songs/post-malone-stay/

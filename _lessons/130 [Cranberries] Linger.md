@@ -8,6 +8,7 @@ year: 1993
 category: full_song
 tags: [Full Song Lesson, 1990s, Key of D, Fingerstyle]
 yt_video_id: Mhir4MF_bRk
+date_published: 2018-02-03
 slug: "130"
 redirect_from:
   - /songs/cranberries-linger/

@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: Xvh4sem4kSA
 tags: [Full Song Lesson, 1970s, Country, Key of D, Walking Bass Lines]
 slug: "94"
+date_published: 2017-08-20
 redirect_from:
   - /songs/waylon-jennings-honky-tonk-heroes/
 #pdf_version: v1

@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: QehjXVLXdfQ
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of C]
 hidden_tags: [The Beatles]
+date_published: 2019-05-02
 slug: "235"
 redirect_from:
   - /songs/john-lennon-imagine/

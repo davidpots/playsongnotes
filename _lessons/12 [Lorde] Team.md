@@ -5,6 +5,7 @@ title: '"Team" by Lorde'
 song_title:  Team
 artist: Lorde
 year: 2013
+date_published: 2013-11-30
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: 2siOA8OsIls

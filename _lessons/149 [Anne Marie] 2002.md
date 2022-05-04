@@ -7,6 +7,7 @@ artist: Anne-Marie
 year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
+date_published: 2018-05-02
 slug: "149"
 yt_video_id: dSb9JsmPJtA
 redirect_from:

@@ -8,6 +8,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Am, Fingerstyle]
 yt_video_id: Ab4gjpBRvNM
+date_published: 2018-01-06
 slug: "119"
 redirect_from:
   - /songs/camila-cabello-real-friends/

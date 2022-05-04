@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Country, Key of C]
 yt_video_id: 9Nl9Rm29ZRE
+date_published: 2018-04-24
 slug: "146"
 redirect_from:
   - /songs/kacey-musgraves-butterflies/

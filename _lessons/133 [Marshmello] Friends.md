@@ -6,6 +6,7 @@ song_title:  Friends
 artist: Marshmello & Anne-Marie
 year: 2018
 category: full_song
+date_published: 2018-02-10
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: 7OMwJwY16aA
 slug: "133"

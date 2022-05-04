@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 2000s, Country, Key of Am]
 hidden_tags: [nine inch nails, nin, trent reznor]
 yt_video_id: xN5XOUQJn1E
+date_published: 2017-08-05
 slug: "90"
 redirect_from:
   - /songs/johnny-cash-hurt/

@@ -8,6 +8,7 @@ year: 1977
 tags: [Full Song Lesson, Key of Am, Key of D, 1970s, Classic Rock]
 category: full_song
 yt_video_id: xqoY-V_O5P0
+date_published: 2018-06-16
 slug: "158"
 redirect_from:
   - /songs/queen-we-are-the-champions/

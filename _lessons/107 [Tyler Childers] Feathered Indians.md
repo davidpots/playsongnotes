@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, Key of D, Country, 2010s]
 yt_video_id: v1JPceBN_ec
 slug: "107"
+date_published: 2017-11-21
 redirect_from:
   - /songs/tyler-childers-feathered-indians/
 pdf_version: musicnotes

@@ -6,6 +6,7 @@ song_title:  Yesterday
 artist: The Beatles
 year: 1965
 category: full_song
+date_published: 2019-06-08
 tags: [Full Song Lesson, 1960s, Classic Rock, Fingerstyle]
 slug: "242"
 yt_video_id: wYGC06x7B9E

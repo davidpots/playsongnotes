@@ -7,6 +7,7 @@ artist: The White Stripes
 year: 2000
 category: full_song
 yt_video_id: xhX8QinM3vk
+date_published: 2016-11-02
 tags: [Full Song Lesson, 2000s, Rock, Key of Am]
 hidden_tags: [Hateful Eight, Tarantino]
 slug: "30"

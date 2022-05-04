@@ -6,6 +6,7 @@ artist: Neil Young
 year: 1972
 category: full_song
 slug: "328"
+date_published: 2020-09-12
 yt_video_id: RYUD3wHVZXE
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
 pdf_version: musicnotes

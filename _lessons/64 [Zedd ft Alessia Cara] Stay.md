@@ -6,6 +6,7 @@ song_title:  Stay
 artist: Alessia Cara and Zedd
 year: 2017
 category: full_song
+date_published: 2017-05-04
 tags: [Full Song Lesson, 2010s, Pop, Key of Em]
 yt_video_id: Se-QFYkaFuo
 slug: "64"

@@ -6,6 +6,7 @@ song_title:  Never Be the Same
 artist: Camila Cabello
 year: 2017
 category: full_song
+date_published: 2017-12-29
 tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of G]
 yt_video_id: LUyGYt8OwHM
 slug: "116"

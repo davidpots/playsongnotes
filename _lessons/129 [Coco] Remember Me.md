@@ -8,6 +8,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Key of C, Movie Songs, Fingerstyle]
 yt_video_id: KRjqZT3OgR4
+date_published: 2018-02-01
 slug: "129"
 redirect_from:
   - /songs/coco-remember-me/

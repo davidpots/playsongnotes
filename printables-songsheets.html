@@ -1,0 +1,37 @@
+---
+layout: page
+title: Song Sheets
+permalink: /printables/songsheets
+---
+
+<br /><br />
+<ul class="tabs-2022">
+  <li><a href="/printables">Overview</a></li>
+  <li><a href="/printables/pdfs">Instructional PDFs</a></li>
+  <li><a class="tabs-2022--active" href="/printables/songsheets">Song Sheets</a></li>
+</ul>
+
+{% assign song_lessons = site.lessons | where: "category","full_song" | where: "pdf_version","musicnotes" | sort: 'date_published' | reverse %}
+
+<p class="font-size--large">I currently have <strong>{{ song_lessons.size }}</strong> licensed song sheets available purchase. The first page of each sheet is previewed below — click any image to view that song's full video tutorial, as well as link to buy each song sheet.</p>
+<br />
+<p><strong>All my song sheets are available for purchase through Musicnotes.com</strong><br />Each arrangement is offically licensed, ensuring the songwriters are properly paid for their part in creating the original song. <a href="/members/songsheets">View my guide showing how to buy & print these »</a></p>
+<p><strong>Members on my Patreon page save 50% on each purchase</strong><br />Every month I send out a discount code to all members... the current month's code can always be found on the Patreon post available @ <a href="/discount">playsongnotes.com/discount</a> (requires Patreon login to view the code)</p>
+<p><strong>Looking for a specific song?</strong><br />Use the <a href="/search"> search page</a> to find exactly what you're looking for... you can browse my songs <a href="/songs">by artist</a>, <a href="/songs/by-title">by song name</a>, or <a href="/songs/by-year">by year the song was released</a>.</p>
+
+
+<br /><br />
+<p class="center italic">Here's the full collection, starting with the most recent. Click any image below to view that full lesson.</p>
+<br /><br />
+
+<div class="printable_tile_wrapper">
+{% for l in song_lessons %}
+<div class="printable_tile">
+  <a href="{{ l.url }}">
+    <div class="printable_tile--sheet" style="background-image: url(/images/pdfs/preview/{{l.slug}}.jpg)"></div>
+    <h3 class="printable_tile--title">{{ l.title }}</h3>
+    <p class="printable_tile--meta">{{ l.date_published | date: "%b %-d, %Y" }}&nbsp;&nbsp;•&nbsp;&nbsp;{{ l.pdf_numpages }} {% if l.pdf_numpages == 1 %}page{% else %}pages{% endif %}</p>
+  </a>
+</div>
+{% endfor %}
+</div>

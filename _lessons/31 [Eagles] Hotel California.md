@@ -8,6 +8,7 @@ year: 1976
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Pinky Stretch]
 slug: "31"
+date_published: 2016-11-23
 redirect_from:
   - /songs/eagles-hotel-california/
 pdf_version: musicnotes

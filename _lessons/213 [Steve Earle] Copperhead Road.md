@@ -7,6 +7,7 @@ artist: Steve Earle
 year: 1988
 category: full_song
 yt_video_id: u8t85szwFjM
+date_published: 2019-02-07
 slug: "213"
 tags: [Full Song Lesson, Key of D, Country, 1980s]
 redirect_from:

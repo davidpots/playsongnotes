@@ -5,6 +5,7 @@ title: '"Mary" by Sublime'
 song_title:  Mary
 artist: Sublime
 year: 1994
+date_published: 2017-02-09
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of C]
 yt_video_id: mAcg4jHbvPM

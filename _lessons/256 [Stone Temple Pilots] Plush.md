@@ -7,13 +7,14 @@ artist: Stone Temple Pilots
 year: 1992
 category: full_song
 yt_video_id: alPm8GDqB90
+date_published: 2019-09-06
 slug: "256"
 tags: [Full Song Lesson, Key of G, 1990s, Rock]
 hidden_tags: [STP]
 redirect_from:
   - /songs/stone-temple-pilots-plush/
 pdf_version: musicnotes
-musicnotes_url: https://www.musicnotes.com/l/3KMMZ 
+musicnotes_url: https://www.musicnotes.com/l/3KMMZ
 pdf_numpages: 2
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/25388934

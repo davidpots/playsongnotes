@@ -7,6 +7,7 @@ artist: Lynyrd Skynyrd
 year: 1973
 category: full_song
 yt_video_id: 31jz-gkZ3RE
+date_published: 2017-09-21
 slug: "100"
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of A, Movie Songs]
 hidden_tags: [tuesdays]

@@ -6,6 +6,7 @@ song_title:  Uh Huh
 artist: Julia Michaels
 year: 2017
 category: full_song
+date_published: 2017-06-07
 tags: [Full Song Lesson, 2010s, Pop, Key of E]
 yt_video_id: sLaLSeeMofk
 slug: "74"

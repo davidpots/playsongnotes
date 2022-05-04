@@ -6,6 +6,7 @@ song_title: Game of Thrones (theme)
 artist: Game of Thrones
 year: 2011
 category: full_song
+date_published: 2017-07-16
 yt_video_id: u_1fqr5OCMU
 slug: "84"
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of C, Key of Am]

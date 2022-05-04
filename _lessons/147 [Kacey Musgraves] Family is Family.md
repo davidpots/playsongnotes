@@ -8,6 +8,7 @@ year: 2015
 tags: [Full Song Lesson, 2010s, Country, Key of C]
 category: full_song
 yt_video_id: CPGPDO-9mHs
+date_published: 2018-04-27
 slug: "147"
 redirect_from:
   - /songs/kacey-musgraves-family-is-family/

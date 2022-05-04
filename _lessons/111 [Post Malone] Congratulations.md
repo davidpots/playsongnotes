@@ -6,6 +6,7 @@ song_title:  Congratulations
 artist: Post Malone
 year: 2016
 category: full_song
+date_published: 2017-12-08
 tags: [Full Song Lesson, 2010s, Pop, Key of E]
 yt_video_id: 0lTLA3aMF7s
 slug: "111"

@@ -6,6 +6,7 @@ artist: Creedence Clearwater Revival
 year: 1970
 category: full_song
 yt_video_id: h1O1RPrzNLI
+date_published: 2019-12-06
 slug: "269"
 tags: [Full Song Lesson, 1970s, Key of C, Classic Rock]
 hidden_tags: CCR, creedance

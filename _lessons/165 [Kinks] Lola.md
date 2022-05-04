@@ -7,6 +7,7 @@ artist: The Kinks
 year: 1971
 tags: [Warm Up Exercise, Classic Rock, Key of E, 1970s]
 category: warmup
+date_published: 2018-07-31
 yt_video_id: aFXapBng37o
 slug: "165"
 redirect_from:

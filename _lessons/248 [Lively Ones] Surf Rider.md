@@ -6,6 +6,7 @@ song_title:  Surf Rider
 artist: The Lively Ones
 year: 1963
 category: full_song
+date_published: 2019-06-24
 tags: [Full Song Lesson, 1960s, Key of C, Classic Rock, Movie Songs]
 hidden_tags: [Pulp Fiction]
 yt_video_id: bsKlf0yQ4h8

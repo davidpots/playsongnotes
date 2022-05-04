@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, Play-Along Cover, 1960s, Key of E, Key of G, Movie Songs, Classic Rock, Folk]
 hidden_tags: [Paul Simon]
 yt_video_id: dG9WdrqvgYA
+date_published: 2017-03-11
 slug: "51"
 redirect_from:
   - /songs/simon-and-garfunkel-mrs-robinson/

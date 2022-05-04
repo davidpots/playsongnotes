@@ -5,6 +5,7 @@ song_title: Enough to Leave
 artist: Billy Strings
 year: 2019
 category: full_song
+date_published: 2020-11-15
 slug: "337"
 yt_video_id: 4FagwWQN2eE
 tags: [Full Song Lesson, 2010s, Key of G, Country]
@@ -45,62 +46,64 @@ Video timestamps:
 
 ## Lyrics with chords
 
-    INTRO
-        Em (8 measures, see tab below)
+    See my sheet music for all the lyrics, with chords included.
 
-    VERSE
-        G                      Bm                    Em         Em
-        ...Enough to kill you..... enough to put you down
-        C                  G                         D                D  
-        ...Seems like everywhere you turn, is like a hard wind comin' down
-        G                      Bm                     Em        Em
-        ...Enough to leave me..... enough to leave me here
-        C                         G                D               D
-        ...And though the room is empty now, I can almost feel you here
+<!-- INTRO
+    Em (8 measures, see tab below)
 
-    CHORUS
-          D                Bm          D               G
-          ...What am I supposed to do.... with my afternoons?
-          Am              D              Am              D
-          ...Know I won't hear your call... know I won't see you soon
-          D               Bm          D             G
-          ...What can you say to me..... to ease my heart and pain
-          Am                  D             Am                  D              (G)
-          ...Could you send a ray of light.... to come down and dry the rain again
+VERSE
+    G                      Bm                    Em         Em
+    ...Enough to kill you..... enough to put you down
+    C                  G                         D                D  
+    ...Seems like everywhere you turn, is like a hard wind comin' down
+    G                      Bm                     Em        Em
+    ...Enough to leave me..... enough to leave me here
+    C                         G                D               D
+    ...And though the room is empty now, I can almost feel you here
 
-              G Bm Em Em C G D D  x1, with solo
+CHORUS
+      D                Bm          D               G
+      ...What am I supposed to do.... with my afternoons?
+      Am              D              Am              D
+      ...Know I won't hear your call... know I won't see you soon
+      D               Bm          D             G
+      ...What can you say to me..... to ease my heart and pain
+      Am                  D             Am                  D              (G)
+      ...Could you send a ray of light.... to come down and dry the rain again
 
-        G                         Bm                        Em       Em
-        ...I'd give you diamonds.... I'd give you rings and pearls
-        C                      G                       D               D
-        ...If you could stay a while with me, and just hold on to this world
-        G                 Bm                      Em      Em
-        ...Feelin' sorry.... for things I haven't said
-        C                        G                        D             D
-        ...And there's a lot I'd like to say, before your final page is read
+          G Bm Em Em C G D D  x1, with solo
 
-          [D]...What am I [Bm] supposed to do...[D]...with my after[G]noons?
-          [Am]...Know I won't [D] hear your call...[Am] know I won't [D] see you soon
-          [D]...What can you [Bm] say to me... to [D] ease my [G] heart and pain
-          [Am] Could you send a [D] ray of light, to [Am] come down & [D] dry the rain again
+    G                         Bm                        Em       Em
+    ...I'd give you diamonds.... I'd give you rings and pearls
+    C                      G                       D               D
+    ...If you could stay a while with me, and just hold on to this world
+    G                 Bm                      Em      Em
+    ...Feelin' sorry.... for things I haven't said
+    C                        G                        D             D
+    ...And there's a lot I'd like to say, before your final page is read
 
-              G Bm Em Em C G D D  x2, with solo
+      [D]...What am I [Bm] supposed to do...[D]...with my after[G]noons?
+      [Am]...Know I won't [D] hear your call...[Am] know I won't [D] see you soon
+      [D]...What can you [Bm] say to me... to [D] ease my [G] heart and pain
+      [Am] Could you send a [D] ray of light, to [Am] come down & [D] dry the rain again
 
-        G                     Bm                   Em       Em
-        ...It's finally over.... it's finally over now
-        C                      G                                   D           D
-        ...And you can rest assured, my friend... 'cause you'll be restin' anyhow
-        G                       Bm                  Em       Em
-        ...I hate to leave you.... hate to say goodbye
-        C                     G                          D               D
-        ...I try to hear your voice come through, in the early morning skies
+          G Bm Em Em C G D D  x2, with solo
 
-          [D]...What am I [Bm] supposed to do...[D]...in my after[G]noons?
-          [Am]...Know I won't [D] hear your call...[Am] know I won't [D] see you soon
-          [D]...What can you [Bm] say to me... to [D] ease my [G] heart and pain
-          [Am] Could you send a [D] ray of light, to [Am] come down & [D] dry the rain again
+    G                     Bm                   Em       Em
+    ...It's finally over.... it's finally over now
+    C                      G                                   D           D
+    ...And you can rest assured, my friend... 'cause you'll be restin' anyhow
+    G                       Bm                  Em       Em
+    ...I hate to leave you.... hate to say goodbye
+    C                     G                          D               D
+    ...I try to hear your voice come through, in the early morning skies
 
-                 G Bm Em Em C D G (let final G ring, "Mercy")
+      [D]...What am I [Bm] supposed to do...[D]...in my after[G]noons?
+      [Am]...Know I won't [D] hear your call...[Am] know I won't [D] see you soon
+      [D]...What can you [Bm] say to me... to [D] ease my [G] heart and pain
+      [Am] Could you send a [D] ray of light, to [Am] come down & [D] dry the rain again
+
+             G Bm Em Em C D G (let final G ring, "Mercy") -->
 
 ## Chord shapes
 

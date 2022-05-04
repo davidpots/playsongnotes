@@ -5,6 +5,7 @@ title: '"Shape of You" by Ed Sheeran'
 song_title:  Shape of You
 artist: Ed Sheeran
 year: 2017
+date_published: 2017-04-24
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C, Key of D, Key of E]
 yt_video_id: 9F34Iabi7eI

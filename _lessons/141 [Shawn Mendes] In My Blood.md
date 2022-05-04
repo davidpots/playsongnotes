@@ -7,6 +7,7 @@ artist: Shawn Mendes
 year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
+date_published: 2018-04-10
 yt_video_id: JJjDUOqqjlY
 slug: "141"
 redirect_from:

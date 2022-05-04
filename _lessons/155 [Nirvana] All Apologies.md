@@ -8,6 +8,7 @@ year: 1993
 category: full_song
 tags: [Full Song Lesson, 1990s, Drop D, Rock, Fingerstyle, E Flat Tuning]
 yt_video_id: waD2tdRAmtM
+date_published: 2018-05-26
 slug: "155"
 redirect_from:
   - /songs/nirvana-all-apologies/

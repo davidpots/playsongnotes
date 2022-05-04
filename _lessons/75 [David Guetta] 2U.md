@@ -7,6 +7,7 @@ artist: David Guetta
 artist_featured: Justin Bieber
 year: 2017
 category: full_song
+date_published: 2017-06-09
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 hidden_tags: [Justin Bieber]
 yt_video_id: LZEE2Qp5Thg

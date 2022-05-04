@@ -6,6 +6,7 @@ artist: Taylor Swift
 year: 2020
 category: full_song
 yt_video_id: EUz_-KJL9KA
+date_published: 2020-09-17
 slug: "321"
 tags: [Full Song Lesson, 2020s, Key of C, Pop, Country]
 #pdf_version: v2

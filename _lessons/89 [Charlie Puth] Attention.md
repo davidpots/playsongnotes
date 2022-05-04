@@ -8,6 +8,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Am]
 yt_video_id: Mr_EhvP9LLA
+date_published: 2017-08-03
 slug: "89"
 redirect_from:
   - /songs/charlie-puth-attention/

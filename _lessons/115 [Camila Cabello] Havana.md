@@ -8,6 +8,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of Em, Fingerstyle]
 yt_video_id: ua_VdR6t2DA
+date_published: 2017-12-22
 slug: "115"
 redirect_from:
   - /songs/camila-cabello-havana/

@@ -7,6 +7,7 @@ artist: Wham!
 year: 1984
 category: full_song
 yt_video_id: lMQNMJklGO4
+date_published: 2018-12-24
 tags: [Full Song Lesson, Key of C, 1980s, Pop, Holiday]
 hidden_tags: [George Michael]
 slug: "200"

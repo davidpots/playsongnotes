@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Country, Key of C]
 yt_video_id: 4gByzn1LrHQ
+date_published: 2018-01-27
 slug: "127"
 redirect_from:
   - /songs/justin-timberlake-say-something/

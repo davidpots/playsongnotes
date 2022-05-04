@@ -8,6 +8,7 @@ year: 2017
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of G]
 category: full_song
 yt_video_id: NpGEmNv265Q
+date_published: 2018-01-30
 slug: "128"
 redirect_from:
   - /songs/greatest-showman-a-million-dreams/

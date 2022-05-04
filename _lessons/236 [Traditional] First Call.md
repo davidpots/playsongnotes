@@ -8,6 +8,7 @@ year: 1884
 category: full_song
 tags: [Warm Up Exercise, Traditional]
 yt_video_id: hGmfxLfWc3k
+date_published: 2019-05-04
 slug: "236"
 redirect_from:
   - /songs/traditional-first-call/

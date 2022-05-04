@@ -6,6 +6,7 @@ song_title:  Another Day of Sun
 artist: La La Land
 year: 2016
 category: full_song
+date_published: 2017-01-12
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of C]
 yt_video_id: KQ_ufy9I2aA
 slug: "39"

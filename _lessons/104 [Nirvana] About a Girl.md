@@ -9,6 +9,7 @@ tags: [Full Song Lesson, 1990s, Rock, Key of Em, E Flat Tuning]
 category: full_song
 yt_video_id: 6YTVOG6LPds
 slug: "104"
+date_published: 2017-10-19
 redirect_from:
   - /songs/nirvana-about-a-girl/
 #pdf_version: v1

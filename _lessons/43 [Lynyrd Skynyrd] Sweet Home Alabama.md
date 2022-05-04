@@ -8,6 +8,7 @@ year: 1974
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
 category: full_song
 yt_video_id: u04OuAzhSZA
+date_published: 2017-01-29
 slug: "43"
 redirect_from:
   - /songs/lynyrd-skynyrd-sweet-home-alabama/

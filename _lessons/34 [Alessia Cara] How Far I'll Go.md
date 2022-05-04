@@ -9,6 +9,7 @@ date_published: 2016-12-17
 category: full_song
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of C]
 yt_video_id: 6xPczglWXQM
+date_published: 2016-12-16
 slug: "34"
 redirect_from:
   - /songs/alessia-cara-how-far-i-ll-go/

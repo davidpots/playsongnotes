@@ -6,6 +6,7 @@ artist: Cat Stevens
 year: 1971
 pdf_version: musicnotes
 pdf_numpages: 2
+date_published: 2019-08-30
 musicnotes_url: https://www.musicnotes.com/l/zBRMp
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/29562940

@@ -6,6 +6,7 @@ artist: Guy Clark
 year: 2013
 category: full_song
 yt_video_id: 9T2sPvDyxDo
+date_published: 2019-11-29
 tags: [Full Song Lesson, 2010s, Key of D, Country, Fingerstyle]
 slug: "268"
 hidden_tags: fingerpicking, finger picking, finger style

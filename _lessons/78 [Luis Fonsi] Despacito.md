@@ -7,6 +7,7 @@ artist: Luis Fonsi
 artist_featured: Justin Bieber
 year: 2017
 category: full_song
+date_published: 2017-06-18
 tags: [Full Song Lesson, 2010s, Pop, Key of D, Key of G, Key of C]
 hidden_tags: [Justin Bieber]
 yt_video_id: kK6w56i4C1M

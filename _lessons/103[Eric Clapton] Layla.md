@@ -8,6 +8,7 @@ year: 1992
 tags: [Full Song Lesson, 1990s, Classic Rock, Key of Dm]
 pdf_version: musicnotes
 pdf_numpages: 4
+date_published: 2017-10-12
 category: full_song
 yt_video_id: x8ZT7EuoEms
 slug: "103"

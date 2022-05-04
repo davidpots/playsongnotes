@@ -6,6 +6,7 @@ song_title:  Someone in the Crowd
 artist: La La Land
 year: 2016
 category: full_song
+date_published: 2017-01-15
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of C]
 hidden_tags: [Emma Stone]
 yt_video_id: zM906jWgEFc

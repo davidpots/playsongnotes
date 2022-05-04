@@ -6,6 +6,7 @@ song_title:  Go Flex
 artist: Post Malone
 year: 2016
 category: full_song
+date_published: 2017-05-10
 yt_video_id: 4Hgp3zW4tvM
 tags: [Full Song Lesson, 2010s, Pop, Key of F]
 slug: "66"

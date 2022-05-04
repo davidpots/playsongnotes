@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of E]
 yt_video_id: 2kMdMlChgpM
 slug: "105"
+date_published: 2017-10-26
 redirect_from:
   - /songs/radiohead-high-and-dry/
 #pdf_version: v1

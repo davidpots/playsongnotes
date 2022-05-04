@@ -5,6 +5,7 @@ title: '"Don''t Let Me Down" by The Chainsmokers'
 song_title:  Don't Let Me Down
 artist: The Chainsmokers
 year: 2016
+date_published: 2016-07-08
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 yt_video_id: iy_7QUrp80Y

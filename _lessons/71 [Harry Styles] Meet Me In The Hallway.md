@@ -6,6 +6,7 @@ song_title:  Meet Me In The Hallway
 artist: Harry Styles
 year: 2017
 category: full_song
+date_published: 2017-05-25
 tags: [Full Song Lesson, 2010s, Pop, Key of D]
 yt_video_id: tMXlgiGSHr4
 slug: "71"

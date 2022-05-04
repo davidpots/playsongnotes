@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Blues, Key of E, E Flat Tuning]
 yt_video_id: nsRkG55ZBH4
 slug: "102"
+date_published: 2017-10-05
 redirect_from:
   - /songs/nirvana-where-did-you-sleep-last-night/
 pdf_version: musicnotes

@@ -8,6 +8,7 @@ year: 1965
 category: full_song
 tags: [Full Song Lesson, Classic Rock, Key of D, 1960s, Pinky Stretch]
 slug: "169"
+date_published: 2018-08-14
 yt_video_id: 4BXzDOrjRro
 redirect_from:
   - /songs/beatles-norwegian-wood/

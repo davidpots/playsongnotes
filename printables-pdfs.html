@@ -1,0 +1,44 @@
+---
+layout: page
+title: Instructional PDFs
+permalink: /printables/pdfs
+---
+
+{% assign non_song_lessons = site.lessons | where_exp: "item","item.category != 'full_song'" %}
+
+{% assign instructional_pdfs = non_song_lessons | where_exp: "item","item.pdf_version == 'v1' or item.pdf_version == 'v2'" | sort: 'date_published' | reverse %}
+
+<br /><br />
+<ul class="tabs-2022">
+  <li><a href="/printables">Overview</a></li>
+  <li><a class="tabs-2022--active" href="/printables/pdfs">Instructional PDFs</a></li>
+  <li><a href="/printables/songsheets">Song Sheets</a></li>
+</ul>
+
+<p class="font-size--large">I'm proud to offer <strong>{{ instructional_pdfs.size }}</strong> instructional PDFs, with a new ones added every week! Each PDF accompanies one of my video lessons, providing additional explanations, visualizations, and exercises to help you master each concept.</p>
+<br />
+<p><strong>These are all available to download for current members on my Patreon page.</strong><br />Song Notes members also recieve a 50% discount on all my song sheets, in addition to full access to other members-only content (video lessons, backing tracks, etc). You also get access to the vibrant Song Notes community, where you can join the discussion on each post (in addition to sending me direct messages). <a href="/join">Learn more about membership »</a><br /></p>
+<p><strong>Already a Patreon member?</strong><br />View my guide showing <a href="/members/pdfs">how to download these PDFs</a> — it's a simple process that takes only seconds.<br /></p>
+<p><strong>Looking for a specific lesson?</strong><br />Use the <a href="/search"> search page</a> to find exactly what you're looking for... you can search by keyword, lesson number, artist name, and more.</p>
+
+
+<br /><br />
+<p class="center italic">Here's the full collection, starting with the most recent. Click any image below to view that full lesson.</p>
+<br /><br />
+
+<div class="printable_tile_wrapper">
+{% for l in instructional_pdfs %}
+<div class="printable_tile">
+  <a href="{{ l.url }}">
+    <div class="printable_tile--sheet" style="background-image: url(/images/pdfs/preview/{{l.slug}}.jpg)"></div>
+    <h3 class="printable_tile--title">{{ l.title }}</h3>
+    <p class="printable_tile--meta">{{ l.date_published | date: "%b %-d, %Y" }}&nbsp;&nbsp;•&nbsp;&nbsp;{{ l.pdf_numpages }} {% if l.pdf_numpages == 1 %}page{% else %}pages{% endif %}</p>
+  </a>
+</div>
+{% endfor %}
+</div>
+
+<br /><br />
+<p class="center italic">More filtering, sorting, and browsing improvements are coming to this page very soon!</p>
+<p class="center italic">Looking for something specific? Use the <a href="/search"> search page</a> to find exactly what you're looking for.</p>
+<br /><br />

@@ -7,6 +7,7 @@ year: 1975
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of E]
 slug: "26"
+date_published: 2016-07-17
 redirect_from:
   - /songs/bob-dylan-you-re-gonna-make-me-lonesome-when-you-go/
 yt_video_id: r0Wwi2MnQoo

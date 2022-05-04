@@ -7,6 +7,7 @@ year: 2015
 category: full_song
 slug: "331"
 yt_video_id: DuCGgGYEvz4
+date_published: 2020-10-10
 tags: [Full Song Lesson, 2010s, Key of A, Country]
 pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235887

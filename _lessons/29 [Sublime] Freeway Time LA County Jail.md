@@ -8,6 +8,7 @@ year: 1994
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of E]
 yt_video_id: pEvcrR2m7_w
+date_published: 2016-10-21
 slug: "29"
 redirect_from:
   - /songs/sublime-freeway-time-la-county-jail/

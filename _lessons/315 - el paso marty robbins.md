@@ -6,6 +6,7 @@ artist: Marty Robbins
 year: 1959
 category: full_song
 slug: "315"
+date_published: 2020-08-15
 yt_video_id: z5jSdu4hH5U
 tags: [Full Song Lesson, 1950s, Key of D, Country]
 pdf_version: musicnotes

@@ -8,6 +8,7 @@ year: 2008
 category: full_song
 tags: [Full Song Lesson, Rock, Key of G, 2000s]
 yt_video_id: 2dzhnN_wsQ8
+date_published: 2018-09-22
 slug: "175"
 redirect_from:
   - /songs/jenny-lewis-acid-tongue/

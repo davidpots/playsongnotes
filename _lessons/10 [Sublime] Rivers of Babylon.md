@@ -5,6 +5,7 @@ title: '"Rivers of Babylon" by Sublime'
 song_title:  Rivers of Babylon
 artist: Sublime
 year: 1998
+date_published: 2013-11-17
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of G]
 yt_video_id: E9WcazK7eOI

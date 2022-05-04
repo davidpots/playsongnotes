@@ -6,6 +6,7 @@ song_title:  Magic
 artist: Rudy Mancuso & Maia Mitchell
 year: 2018
 category: full_song
+date_published: 2018-03-06
 tags: [Full Song Lesson, 2010s, Pop, Key of Am]
 yt_video_id: njxbmiBEvYc
 slug: "138"

@@ -5,6 +5,7 @@ song_title: Thunder Road
 artist: Bruce Springsteen
 year: 1975
 yt_video_id: QSAyTaf-2pc
+date_published: 2020-11-01
 category: full_song
 slug: "335"
 tags: [Full Song Lesson, 1970s, Key of D, Classic Rock]

@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 yt_video_id: QVSTZNG-AyM
 slug: "220"
+date_published: 2019-02-28
 tags: [Full Song Lesson, 2010s, Pop, Key of C, Movie Songs]
 hidden_tags: [a star is born, star is born, shallow]
 redirect_from:

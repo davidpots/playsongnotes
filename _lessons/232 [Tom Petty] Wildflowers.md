@@ -8,6 +8,7 @@ category: full_song
 tags: [Full Song Lesson, 1990s, Key of C, Rock]
 slug: "232"
 yt_video_id: ZA4AKs83Lxc
+date_published: 2019-04-20
 redirect_from:
   - /songs/tom-petty-wildflowers/
 pdf_version: musicnotes

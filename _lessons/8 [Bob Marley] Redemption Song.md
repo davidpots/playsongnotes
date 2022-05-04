@@ -6,6 +6,7 @@ song_title:  Redemption Song
 artist: Bob Marley
 year: 1980
 category: full_song
+date_published: 2013-11-17
 yt_video_id: hwbq4kfXkIE
 slug: "8"
 tags: [Full Song Lesson, 1980s, Rock, Key of G]

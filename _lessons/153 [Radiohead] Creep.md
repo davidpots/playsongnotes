@@ -8,6 +8,7 @@ year: 1993
 category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of G]
 yt_video_id: T5N1Z1RYxGk
+date_published: 2018-05-11
 slug: "153"
 redirect_from:
   - /songs/radiohead-creep/

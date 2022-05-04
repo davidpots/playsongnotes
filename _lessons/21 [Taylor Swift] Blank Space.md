@@ -5,6 +5,7 @@ title: '"Blank Space" by Taylor Swift'
 song_title: Blank Space
 artist: Taylor Swift
 year: 2014
+date_published: 2016-06-16
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop, Ukulele, Key of G]
 yt_video_id: QCSrcgdMR80

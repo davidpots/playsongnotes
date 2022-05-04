@@ -8,6 +8,7 @@ year: 2018
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 category: full_song
 yt_video_id: PAsqI4UN_lE
+date_published: 2018-02-05
 slug: "131"
 redirect_from:
   - /songs/justin-timberlake-man-of-the-woods/

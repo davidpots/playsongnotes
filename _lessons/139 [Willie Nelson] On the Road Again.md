@@ -8,6 +8,7 @@ year: 1980
 category: full_song
 tags: [Full Song Lesson, 1980s, Country, Key of C]
 yt_video_id: piPpGni_dZA
+date_published: 2018-03-09
 slug: "139"
 redirect_from:
   - /songs/willie-nelson-on-the-road-again/

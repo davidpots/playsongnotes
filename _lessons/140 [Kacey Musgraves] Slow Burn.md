@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 2010s, Country, Key of A]
 yt_video_id: 1Jl09fiSVSk
 slug: "140"
+date_published: 2018-04-03
 redirect_from:
   - /songs/kacey-musgraves-slow-burn/
 pdf_version: musicnotes

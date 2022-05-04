@@ -7,6 +7,7 @@ artist: Childish Gambino
 year: 2018
 category: full_song
 yt_video_id: Ns2vlwQkpxw
+date_published: 2018-05-08
 tags: [Full Song Lesson, 2010s, Pop, Key of F]
 slug: "152"
 redirect_from:

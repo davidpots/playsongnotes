@@ -7,6 +7,7 @@ artist: John Prine
 year: 2019
 category: full_song
 yt_video_id: GRENHZjtzlk
+date_published: 2019-05-17
 slug: "238"
 tags: [Full Song Lesson, 2010s, Country, Fingerstyle, Travis Picking]
 hidden_tags: [fingerpicking, finger picking, finger style, kentucky derby, horse race, triple crown]

@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 1990s, Rock, Key of D, Drop D]
 yt_video_id: R_X4GnNuMtQ
 slug: "92"
+date_published: 2017-08-12
 redirect_from:
   - /songs/neil-young-harvest-moon/
 pdf_version: musicnotes

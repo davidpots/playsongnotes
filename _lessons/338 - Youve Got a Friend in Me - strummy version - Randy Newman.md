@@ -6,6 +6,7 @@ artist: Randy Newman
 year: 1995
 category: full_song
 yt_video_id: vDEGA1jUDXw
+date_published: 2020-11-22
 slug: "338"
 redirect_from:
   - /lessons/246/

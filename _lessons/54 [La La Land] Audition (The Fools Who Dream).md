@@ -6,6 +6,7 @@ song_title:  Audition (The Fools Who Dream)
 artist: La La Land
 year: 2016
 category: full_song
+date_published: 2017-03-25
 tags: [Full Song Lesson, 2010s, Key of D, Movie Songs]
 hidden_tags: [Emma Stone]
 yt_video_id: h_Ac0xIfsII

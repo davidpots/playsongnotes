@@ -8,6 +8,7 @@ year: 1961
 category: full_song
 tags: [Full Song Lesson, 1960s, Country, Key of G, Walking Bass Lines]
 yt_video_id: dP2hYluC8CQ
+date_published: 2018-04-21
 slug: "145"
 redirect_from:
   - /songs/johnny-cash-tennessee-flat-top-box/

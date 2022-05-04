@@ -6,6 +6,7 @@ song_title: Margaritaville
 artist: Jimmy Buffett
 year: 1977
 category: full_song
+date_published: 2016-05-25
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Ukulele]
 yt_video_id: zByhNelXD2g
 slug: "19"

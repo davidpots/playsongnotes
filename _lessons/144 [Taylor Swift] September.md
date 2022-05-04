@@ -8,6 +8,7 @@ year: 2018
 tags: [Full Song Lesson, 2010s, Pop, Classic Rock, Key of C]
 category: full_song
 yt_video_id: SfEZdpL1I0o
+date_published: 2018-04-18
 slug: "144"
 redirect_from:
   - /songs/taylor-swift-september/

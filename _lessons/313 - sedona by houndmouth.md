@@ -6,6 +6,7 @@ artist: Houndmouth
 year: 2015
 category: full_song
 slug: "313"
+date_published: 2020-08-09
 yt_video_id: SyahJJ332uk
 tags: [Full Song Lesson, 2010s, Key of C, Rock]
 pdf_version: musicnotes

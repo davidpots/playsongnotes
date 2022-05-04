@@ -8,6 +8,7 @@ year: 1971
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of Am, Fingerstyle]
 yt_video_id: 0RybdmubxzY
+date_published: 2017-05-18
 slug: "69"
 redirect_from:
   - /songs/led-zeppelin-stairway-to-heaven/

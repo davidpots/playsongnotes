@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 tags: [Full Song Lesson, 2010s, Pop]
 yt_video_id: scbLcaopAPk
+date_published: 2018-01-13
 slug: "122"
 redirect_from:
   - /songs/camila-cabello-all-these-years/

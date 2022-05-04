@@ -7,6 +7,7 @@ artist: Selena Gomez
 artist_featured: Kygo
 year: 2017
 category: full_song
+date_published: 2017-05-14
 tags: [Full Song Lesson, 2010s, Pop, Key of G, Fingerstyle]
 yt_video_id: crpSFjze6wk
 slug: "68"

@@ -6,6 +6,7 @@ song_title:  California Dreamin'
 artist: Jose Feliciano
 year: 1968
 category: full_song
+date_published: 2019-08-10
 yt_video_id: Q7x0E0BsAIE
 tags: [Full Song Lesson, 1960s, Fingerstyle, Classic Rock, Movie Songs]
 hidden_tags: [Once Upon a Time in Hollywood, california dreaming]

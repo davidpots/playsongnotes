@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: 7K5LJiWlatU
 tags: [Full Song Lesson, 1970s, Country, Key of G]
 slug: "101"
+date_published: 2017-09-28
 redirect_from:
   - /songs/guy-clark-la-freeway/
 pdf_version: musicnotes

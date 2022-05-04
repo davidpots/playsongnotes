@@ -5,6 +5,7 @@ song_title: Welcome to Paradise
 artist: Green Day
 year: 1993
 category: full_song
+date_published: 2020-09-17
 yt_video_id: 84F_w1qslmg
 slug: "322"
 tags: [Full Song Lesson, Tyler Childers, 1990s, Key of D, Drop D, Country, Pop]

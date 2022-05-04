@@ -8,6 +8,7 @@ year: 1993
 category: full_song
 yt_video_id: DMkvsF6U5Sk
 slug: "85"
+date_published: 2017-07-21
 tags: [Full Song Lesson, 1990s, Rock, Key of Am]
 redirect_from:
   - /songs/tom-petty-mary-jane-s-last-dance/

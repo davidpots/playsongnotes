@@ -8,6 +8,7 @@ year: 2018
 category: full_song
 yt_video_id: TuVt-JxTmPM
 tags: [Full Song Lesson, 2010s, Pop, Fingerstyle]
+date_published: 2018-05-05
 slug: "150"
 redirect_from:
   - /songs/shawn-mendes-youth/

@@ -7,6 +7,7 @@ artist: Townes Van Zandt
 artist_original: Rolling Stones
 year: 1971
 cover: true
+date_published: 2017-06-29
 tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of C, Movie Songs]
 hidden_tags: [The Rolling Stones, The Big Lebowski]
 category: full_song

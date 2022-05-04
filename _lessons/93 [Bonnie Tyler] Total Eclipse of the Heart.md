@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: qWA8I5OOFno
 tags: [Full Song Lesson, 1980s, Classic Rock, Key of G]
 slug: "93"
+date_published: 2017-08-17
 redirect_from:
   - /songs/bonnie-tyler-total-eclipse-of-the-heart/
 #pdf_version: v1

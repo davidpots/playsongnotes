@@ -9,6 +9,7 @@ tags: [Full Song Lesson, 1970s, Country, Key of C, Walking Bass Lines]
 #pdf_version: v1
 pdf_version: copyright
 pdf_numpages: 2
+date_published: 2018-02-08
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986
 category: full_song

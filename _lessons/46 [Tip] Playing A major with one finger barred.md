@@ -5,6 +5,7 @@ date_published: 2017-02-13
 tags: [Tips & Techniques, Learning Chords, Key of A]
 category: tip_technique
 slug: "46"
+date_published: 2017-02-13
 yt_video_id: wUrKhHAT0Fk
 pdf_version: v2
 pdf_numpages: 5

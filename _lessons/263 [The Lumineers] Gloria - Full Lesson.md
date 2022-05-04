@@ -6,6 +6,7 @@ artist: The Lumineers
 year: 2019
 category: full_song
 yt_video_id: iW7gGUq9rWc
+date_published: 2019-10-24
 tags: [Full Song Lesson, 2010s, Key of C, Folk, Rock, E Flat Tuning]
 slug: "263"
 redirect_from:

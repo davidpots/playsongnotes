@@ -7,6 +7,7 @@ artist: The Chainsmokers
 year: 2017
 tags: [Full Song Lesson, 2010s, Pop, Key of C]
 category: full_song
+date_published: 2017-04-20
 yt_video_id: cjBxw8wuE-E
 slug: "58"
 redirect_from:

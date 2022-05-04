@@ -8,6 +8,7 @@ year: 2017
 category: full_song
 tags: [Full Song Lesson, Country, Key of C, 2010s]
 yt_video_id: bmRLWIJ2dLc
+date_published: 2018-09-07
 slug: "172"
 redirect_from:
   - /songs/tyler-childers-lady-may/
@@ -152,7 +153,7 @@ E ––––––––––––––––––––––––––
 Here's how to play the chords used in this song -- including a few simplified ways to play the F chord (you don't need to play all 6 strings to make it work).
 
     Main chord shapes:                 Simplified F positions:
-    
+
     E –––0––––1––––0––––––––           –––––   –––––   –––––
     B –––1––––1––––1––––0–––           ––1––   ––1––   –––––
     G –––0––––2––––2––––0–––           ––2––   ––2––   ––2––

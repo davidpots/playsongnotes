@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of D, Fingerstyle]
 yt_video_id: QWKt_jnwM4o
 slug: "95"
+date_published: 2017-08-25
 redirect_from:
   - /songs/loggins-and-messina-dannys-song/
 pdf_version: musicnotes

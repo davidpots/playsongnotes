@@ -6,6 +6,7 @@ song_title:  Angel Flying Too Close to the Ground
 artist: Willie Nelson
 year: 1980
 category: full_song
+date_published: 2018-02-24
 tags: [Full Song Lesson, 1980s, Country, Key of A]
 yt_video_id: uN1wtE6TffI
 slug: "135"

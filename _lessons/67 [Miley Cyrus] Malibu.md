@@ -6,6 +6,7 @@ song_title:  Malibu
 artist: Miley Cyrus
 year: 2017
 category: full_song
+date_published: 2017-05-12
 tags: [Full Song Lesson, 2010s, Pop, Key of G]
 yt_video_id: F9gab3_AywE
 slug: "67"

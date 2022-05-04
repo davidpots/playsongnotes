@@ -8,6 +8,7 @@ year: 1973
 category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D, Walking Bass Lines]
 yt_video_id: oC0EnK6p1nQ
+date_published: 2016-06-01
 slug: "20"
 redirect_from:
   - /songs/paul-simon-kodachrome/

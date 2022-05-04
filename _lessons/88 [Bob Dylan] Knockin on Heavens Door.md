@@ -10,6 +10,7 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Folk, Key of G]
 hidden_tags: [knocking, heavens, guns n roses, gnr, guns, roses, guns and roses, knocking on heavens door]
 slug: "88"
 yt_video_id: cZFvQcTLkhE
+date_published: 2017-07-29
 redirect_from:
   - /songs/bob-dylan-knockin-on-heavens-door/
 pdf_version: musicnotes

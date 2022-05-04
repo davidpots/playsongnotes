@@ -7,6 +7,7 @@ artist: Neil Diamond
 year: 1969
 category: full_song
 yt_video_id: 7NnzWkdOZVY
+date_published: 2013-12-20
 tags: [Full Song Lesson, Play-Along Cover, 1960s, Classic Rock, Key of A]
 slug: "15"
 redirect_from:

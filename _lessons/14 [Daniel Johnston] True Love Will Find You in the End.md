@@ -7,6 +7,7 @@ artist: Daniel Johnston
 year: 1990
 tags: [Full Song Lesson, 1990s, Folk, Key of G]
 category: full_song
+date_published: 2013-12-13
 yt_video_id: _KMYuAkr0F8
 slug: "14"
 redirect_from:

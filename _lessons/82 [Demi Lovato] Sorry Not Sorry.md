@@ -6,6 +6,7 @@ song_title:  Sorry Not Sorry
 artist: Demi Lovato
 year: 2017
 category: full_song
+date_published: 2017-07-11
 tags: [Full Song Lesson, 2010s, Pop, Key of E]
 yt_video_id: FKJebfele6o
 slug: "82"

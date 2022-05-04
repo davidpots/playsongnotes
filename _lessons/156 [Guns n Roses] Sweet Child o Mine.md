@@ -8,6 +8,7 @@ year: 1988
 category: full_song
 tags: [Full Song Lesson, Key of D, 1980s, Classic Rock, Fingerstyle, E Flat Tuning]
 yt_video_id: 6aMYqAN8FRo
+date_published: 2018-06-03
 slug: "156"
 redirect_from:
   - /songs/guns-n-roses-sweet-child-o-mine/

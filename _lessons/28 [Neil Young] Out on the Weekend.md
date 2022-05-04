@@ -6,6 +6,7 @@ song_title:  Out on the Weekend
 artist: Neil Young
 year: 1972
 category: full_song
+date_published: 2016-10-14
 yt_video_id: PbKgfvlDrow
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of A]
 slug: "28"

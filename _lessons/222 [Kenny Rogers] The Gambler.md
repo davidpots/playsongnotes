@@ -7,6 +7,7 @@ artist: Kenny Rogers
 year: 1978
 category: full_song
 yt_video_id: bA_YhZqe0HY
+date_published: 2019-03-03
 slug: "222"
 tags: [Full Song Lesson, Play-Along Cover, 1970s, Country, Key of D, Key of E]
 redirect_from:

@@ -7,6 +7,7 @@ artist: (traditional)
 year: 1788
 category: full_song
 yt_video_id: le3yjFIo748
+date_published: 2018-12-31
 slug: "203"
 tags: [Full Song Lesson, Key of C, Traditional, Holiday]
 hidden_tags: [New Years]
