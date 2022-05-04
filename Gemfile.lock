@@ -82,7 +82,7 @@ PLATFORMS
   x86-mswin32
 
 DEPENDENCIES
-  jekyll (>= 3.6.3)
+  jekyll (>= 3.9.2)
   jekyll-feed (~> 0.6)
   jekyll-redirect-from
   tzinfo-data
