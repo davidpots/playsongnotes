@@ -6,7 +6,11 @@ permalink: /printables/pdfs
 
 {% assign non_song_lessons = site.lessons | where_exp: "item","item.category != 'full_song'" %}
 
-{% assign instructional_pdfs = non_song_lessons | where_exp: "item","item.pdf_version == 'v1' or item.pdf_version == 'v2'" | sort: 'date_published' %}
+{% assign instructional_pdfs_v1 = non_song_lessons | where_exp: "item","item.pdf_version == 'v1' %}
+
+{% assign instructional_pdfs_v2 = non_song_lessons | where_exp: "item","item.pdf_version == 'v2' %}
+
+{% instructional_pdfs = instructional_pdfs_v1 | concat: instructional_pdfs_v2 %}
 
 <br /><br />
 <ul class="tabs-2022">
