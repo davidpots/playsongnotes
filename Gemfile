@@ -32,3 +32,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # https://github.com/jekyll/jekyll-redirect-from
 gem 'jekyll-redirect-from'
 gem 'webrick'
+
+# Adding this at the suggestion of this comment https://talk.jekyllrb.com/t/expected-end-of-string-but-found-id/4290/2
+# ...so my local env will match what GH Pages expects, etc
+# gem "github-pages", group: :jekyll_plugins
+# –––> Removing it actually b/c of bundle update error - don't feel like dealing with that right now (May 4, 2022)
