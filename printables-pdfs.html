@@ -10,7 +10,7 @@ permalink: /printables/pdfs
 
 {% assign instructional_pdfs_v2 = non_song_lessons | where_exp: "item","item.pdf_version == 'v2' %}
 
-{% instructional_pdfs = instructional_pdfs_v1 | concat: instructional_pdfs_v2 %}
+{% assign instructional_pdfs = instructional_pdfs_v1 | concat: instructional_pdfs_v2 %}
 
 <br /><br />
 <ul class="tabs-2022">
