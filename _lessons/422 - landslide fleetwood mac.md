@@ -13,7 +13,6 @@ date_published: 2022-03-13
 pdf_version: musicnotes
 pdf_numpages: 4
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0252563
-pdf_version: musicnotes
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/63752584
 ---

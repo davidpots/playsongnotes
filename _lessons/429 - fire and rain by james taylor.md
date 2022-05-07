@@ -12,7 +12,6 @@ date_published: 2022-04-23
 pdf_version: musicnotes
 pdf_numpages: 6
 musicnotes_url: https://www.musicnotes.com/l/McvMb
-pdf_version: musicnotes
 ---
 
 ## Video Lesson

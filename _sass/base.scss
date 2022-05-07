@@ -1067,11 +1067,13 @@ tr[data-pdf-v2="v1"] td {
   font-weight: bold;
   display: inline-block;
   margin: 0 12px;
+  text-align: center;
 }
 .tabs-2022 li a {
   text-decoration: none;
   padding-bottom: 6px;
   color: $gray-dark;
+  display: block;
 }
 .tabs-2022 li a:hover {
   color: $link-color;

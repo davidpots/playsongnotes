@@ -63,7 +63,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-    Always Remember Us This Way XXXXXXXXXXX
+    Always Remember Us This Way XXXXXXXXXXXX
     American Girl               XXXXXXXXX
     California Dreaming         XXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXX
