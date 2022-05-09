@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- May 9  - [American Girl](https://playsongnotes.com/lessons/113/)
 - May 2  - [Creep](https://playsongnotes.com/lessons/153/)
 - Apr 26 - [LA Freeway](https://playsongnotes.com/lessons/101/)
 - Apr 23 - [Maybe It's Time](https://playsongnotes.com/lessons/188/)
@@ -64,13 +65,13 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     Always Remember Us This Way XXXXXXXXXXXX
-    American Girl               XXXXXXXXX
-    California Dreaming         XXXXXXXXX
-    Game of Thrones (theme)     XXXXXXXXXX
+    California Dreaming         XXXXXXXXXXX
+    Game of Thrones (theme)     XXXXXXXXXXX
     Let Him Roll                XXXXXXXXX
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXX
-    Total Eclipse of the Heart  XXXXXXX
+    Remember Me •               XXXXXXX
+    Total Eclipse of the Heart  XXXXXXXX
     We Are the Champions •      XXXXXXX
     When the Man Comes Around   XXXXXXX
 
@@ -80,11 +81,10 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     All Apologies               XXXX
     Let It Go                   XXX
     Light On •                  XXX
-    Lookin' Out My Backdoor     XXXX
-    Remember Me •               XXXXX
+    Lookin' Out My Backdoor     XXXXX
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
-    Surf Rider                  XXXXX
+    Surf Rider                  XXXXXX
     Where Rainbows Never Die    XXXX
     Year Clayton Delaney Died   XXX
 
