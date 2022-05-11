@@ -1,0 +1,66 @@
+---
+layout: page
+title: Beginner Song Lessons
+permalink: /beginner/songs
+---
+
+{% assign song_lessons_count = site.lessons | where: "category","full_song" %}
+
+{% assign beginner_songs = site.lessons | where: "difficulty", "beginner" | sort: "song_title" %}
+
+<h1>Beginner Song Lessons</h1>
+
+<p class="large">Of the <strong>{{ song_lessons_count.size }}</strong> song lessons I've made, here are the ones I would consider beginner-friendly. Most of these songs need just 3-4 chord shapes, and can be played even if you simplify the strumming or skip certain riffs/fills.</p>
+
+<p class="large">While many of the lessons linked below may include intermediate & advanced content, please note that I typically <em>begin</em> each tutorial with the simplest possible intstruction per that song – and then layer on additional concepts for those who are further along.</p>
+
+<p class="large">Please <a href="mailto:play.songnotes@gmail.com?subject=Requesting Beginner 🎸 Content!">let me know</a> what specific beginner content you'd like to see! I plan on continuing to add to this section of my website, and would love any requests or feedback. Thanks!</p>
+
+<hr />
+
+
+
+<h2>Key of G</h2>
+<p>Most songs here use some combination of G, C, D, and E-minor. Check out this <a href="/lessons/334/">G-major finger position guide</a> for suggestions on how to position your fingers while playing these chords.</p>
+
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of G" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of C</h2>
+<p>Most songs here use some combination of C, F, G, and A-minor. Don't be scared away by the F chord! You can totally get by using the 3-string version I teach in my <a href="/lessons/392/">F Chord Cheat Sheet</a> (which shows many non-barred options). I also made this <a href="/lessons/388/">Key of C cheat sheet</a> to give an overview of this entire key. And once more, the <a href="/lessons/334/">G-major finger position guide</a> will come in handy with this chord family as well.</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of C" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of D</h2>
+<p>Most songs here use some combination of D, G, and A... with one or two of these songs using B-minor. For B-minor, the easiest way to play it is by sliding the A-minor shape up two frets (and only playing strings 2-3-4).</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of D" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of E</h2>
+<p>Most songs here use some combination of E, A, and B7. If you need help with these chords, I suggest my video showing <a href="/lessons/49/">walk-ups and walk-downs between E-A-B7</a>, which is a super common technique used in this specific key.</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of E" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of A</h2>
+<p>Most songs here use some combination of A, D, and E.
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of A" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}

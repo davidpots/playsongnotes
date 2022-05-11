@@ -8,6 +8,7 @@ year: 1957
 category: full_song
 tags: [Full Song Lesson, 1950s, Country, Key of E]
 yt_video_id: GNvaiI37AzM
+difficulty: beginner
 date_published: 2017-05-28
 slug: "72"
 redirect_from:

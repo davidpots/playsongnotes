@@ -4,8 +4,9 @@ title: '"A Pirate Looks at Forty" by Jimmy Buffett'
 song_title: "A Pirate Looks at Forty"
 artist: Jimmy Buffett
 year: 1970
-tags: [Full Song Lesson, Key of G, 1970s, Classic Rock]
+tags: [Full Song Lesson, Backing Track, Key of G, 1970s, Classic Rock]
 category: full_song
+difficulty: beginner
 yt_video_id: E5PqBrjsAPM
 slug: "432"
 date_published: 2022-05-06

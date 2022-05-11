@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 2000s, Country, Key of Am]
 hidden_tags: [nine inch nails, nin, trent reznor]
 yt_video_id: xN5XOUQJn1E
+difficulty: beginner
 date_published: 2017-08-05
 slug: "90"
 redirect_from:
@@ -30,57 +31,59 @@ In this lesson, I'm excited to show you how to play "Hurt" as performed by Johnn
 
 ## Lyrics w/ chords
 
-    INTRO
-        E |––––––––0–––––––––––––––––|––––––––0–––––––––––2––––––|
-        B |––––––––1–––––––––––––––––|––––––––1–––––––––––3––––––|
-        G |––––––––2–––––––––––––––––|––––––––0––––––––2––––(2)––|
-        D |–––––2––––––––––––––––––––|–––––2––––––––0––––––––––––|  ...play twice, then start
-        A |––0–––––––––––––––––––––––|––3–––––––(3)––––––––––––––|     verse with same riff
-        E |––––––––––––––––––––––––––|–––––––––––––––––––––––––––|
-             Am                         C           D
-             1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +   
+    See sheet music for lyrics w/ all chords written above them.
 
-    VERSE
-        Am      C      D      Am        C      D      Am  
-        .....I hurt myself today... to see if I still feel
-                C    D        Am         C      D          Am
-        ......I focus on the pain... the only thing that's real
-                  C      D        Am         C       D     Am
-        ......The needle tears a hole... the old familiar sting
-                     C      D       Am            C      D          (G)
-        ......Try to kill it, all away... but I remember everything
+<!-- INTRO
+    E |––––––––0–––––––––––––––––|––––––––0–––––––––––2––––––|
+    B |––––––––1–––––––––––––––––|––––––––1–––––––––––3––––––|
+    G |––––––––2–––––––––––––––––|––––––––0––––––––2––––(2)––|
+    D |–––––2––––––––––––––––––––|–––––2––––––––0––––––––––––|  ...play twice, then start
+    A |––0–––––––––––––––––––––––|––3–––––––(3)––––––––––––––|     verse with same riff
+    E |––––––––––––––––––––––––––|–––––––––––––––––––––––––––|
+         Am                         C           D
+         1  +  2  +  3  +  4  +     1  +  2  +  3  +  4  +   
 
-    CHORUS
-            G     Am              F    C               G
-            ......What have I become..... my sweetest friend
-                  Am          F         C           G
-            ......Everyone I know goes away in the end   
-                      Am                 F     G
-            ......And you could have it all... my empire of dirt
-                  Am              F      G               Am
-            ......I will let you down... I will make you hurt
+VERSE
+    Am      C      D      Am        C      D      Am  
+    .....I hurt myself today... to see if I still feel
+            C    D        Am         C      D          Am
+    ......I focus on the pain... the only thing that's real
+              C      D        Am         C       D     Am
+    ......The needle tears a hole... the old familiar sting
+                 C      D       Am            C      D          (G)
+    ......Try to kill it, all away... but I remember everything
 
-    Am     C            D      Am       C      D       Am
-    ....I wear this crown of thorns... upon my liars chair
-           C        D       Am       C     D     Am
-    ......Full of broken thoughts... I cannot repair
-             C         D         Am          C      D      Am
-    ......Beneath the stains of time... the feelings disappear
-          C       D        Am     C    D           (G)   
-    ......You are someone else... I am still right here
+CHORUS
+        G     Am              F    C               G
+        ......What have I become..... my sweetest friend
+              Am          F         C           G
+        ......Everyone I know goes away in the end   
+                  Am                 F     G
+        ......And you could have it all... my empire of dirt
+              Am              F      G               Am
+        ......I will let you down... I will make you hurt
 
-            G     Am            F     C               G
-            ......What have I become..... my sweetest friend
-                  Am          F         C          G
-            ......Everyone I know goes away in the end
-                      Am                 F     G
-            ......And you could have it all... my empire of dirt
-                  Am             F       G               
-            ......I will let you down... I will make you hurt
-                     Am             F         G  
-            ......If I could start again... a million miles away
-                  Am            F       G              Am
-            ......I will keep myself... I would find a way
+Am     C            D      Am       C      D       Am
+....I wear this crown of thorns... upon my liars chair
+       C        D       Am       C     D     Am
+......Full of broken thoughts... I cannot repair
+         C         D         Am          C      D      Am
+......Beneath the stains of time... the feelings disappear
+      C       D        Am     C    D           (G)   
+......You are someone else... I am still right here
+
+        G     Am            F     C               G
+        ......What have I become..... my sweetest friend
+              Am          F         C          G
+        ......Everyone I know goes away in the end
+                  Am                 F     G
+        ......And you could have it all... my empire of dirt
+              Am             F       G               
+        ......I will let you down... I will make you hurt
+                 Am             F         G  
+        ......If I could start again... a million miles away
+              Am            F       G              Am
+        ......I will keep myself... I would find a way -->
 
 ## Intro & verse chords
 

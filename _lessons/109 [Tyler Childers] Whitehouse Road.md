@@ -10,6 +10,7 @@ yt_video_id: G_t7sCI53Fg
 tags: [Full Song Lesson, Drop D, Key of D, Country, 2010s]
 slug: "109"
 date_published: 2017-11-30
+difficulty: beginner
 redirect_from:
   - /songs/tyler-childers-whitehouse-road/
 pdf_version: musicnotes

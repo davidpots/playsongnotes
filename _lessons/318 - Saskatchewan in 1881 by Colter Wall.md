@@ -5,6 +5,7 @@ song_title: Saskatchewan in 1881
 artist: Colter Wall
 year: 2018
 yt_video_id: ZS1cOxTei34
+difficulty: beginner
 category: full_song
 slug: "318"
 tags: [Full Song Lesson, Country, Key of C, 2010s]

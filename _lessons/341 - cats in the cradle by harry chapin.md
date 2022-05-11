@@ -5,6 +5,7 @@ song_title: Cats in the Cradle
 artist: Harry Chapin
 year: 1974
 category: full_song
+difficulty: beginner
 yt_video_id: rfQQKYoy6BY
 date_published: 2020-12-04
 slug: "341"
@@ -39,63 +40,65 @@ Video timestamps:
 
 ## Lyrics with chords
 
-    INTRO
-      E w/ riff [ See PDF for the tab ]
+    See my sheet music for all the lyrics with chords shown above each line.
 
-    VERSE
-         E                      G               A                        E
-      My child arrived just the other day... He came to the world in the usual way    
-                     E                  G            A                             E
-      But there were planes to catch & bills to pay.... he learned to walk while I was away
+<!-- INTRO
+  E w/ riff [ See PDF for the tab ]
 
-                 D (walk-down riff)          D
-      And he was talking 'fore I knew it and as he grew, he said
-      G                 E             G             (D)       E     E
-      I'm gonna be like you, Dad, you know I'm gonna be like you
+VERSE
+     E                      G               A                        E
+  My child arrived just the other day... He came to the world in the usual way    
+                 E                  G            A                             E
+  But there were planes to catch & bills to pay.... he learned to walk while I was away
 
-    CHORUS
-                  E                         D             
-          And the cat's in the cradle & the silver spoon
-          G                       A                  E                           D
-          Little boy blue and the man on the moon... When you coming home Dad? I don't know when
-              G                    E               G                (D)        E        E
-          But we'll get together then, yeah... you know we'll have a good time then
+             D (walk-down riff)          D
+  And he was talking 'fore I knew it and as he grew, he said
+  G                 E             G             (D)       E     E
+  I'm gonna be like you, Dad, you know I'm gonna be like you
 
-      My [E] son turned 10 just the [G] other day, he said [A] thanks for the ball Dad, come [E] on, lets play
-      Can you [E] teach me to throw?  I said, [G] not today, I got a [A] lot to do, he said [E] that's okay
+CHORUS
+              E                         D             
+      And the cat's in the cradle & the silver spoon
+      G                       A                  E                           D
+      Little boy blue and the man on the moon... When you coming home Dad? I don't know when
+          G                    E               G                (D)        E        E
+      But we'll get together then, yeah... you know we'll have a good time then
 
-      [D] And he, he walked away but his [D] smile never dimmed, and said
-      [G] I'm gonna be like [E] him, yeah... You [G] know, I'm gonna be like [E] him [E]
+  My [E] son turned 10 just the [G] other day, he said [A] thanks for the ball Dad, come [E] on, lets play
+  Can you [E] teach me to throw?  I said, [G] not today, I got a [A] lot to do, he said [E] that's okay
 
-          And the [E] cat's in the cradle & the [D] silver spoon, [G] little boy blue & the [A] man on the moon
-          [E] When you coming home Dad? I [D] don't know when
-          But [G] we'll get together [E] then...... you [G] know we'll have a good time [E] then ... [E]
+  [D] And he, he walked away but his [D] smile never dimmed, and said
+  [G] I'm gonna be like [E] him, yeah... You [G] know, I'm gonna be like [E] him [E]
 
-      Well, he [E] came from college just the [G] other day, so [A] much like a man I just [E] had to say
-      Son, I'm [E] proud of you, can you [G] sit for a while? He [A] shook his head, and he [E] said with a smile
+      And the [E] cat's in the cradle & the [D] silver spoon, [G] little boy blue & the [A] man on the moon
+      [E] When you coming home Dad? I [D] don't know when
+      But [G] we'll get together [E] then...... you [G] know we'll have a good time [E] then ... [E]
 
-      What I'm [D] feeling like Dad is the [D] borrow the car keys
-      [G]...I'll see you later can I [E] have them please... [E]
+  Well, he [E] came from college just the [G] other day, so [A] much like a man I just [E] had to say
+  Son, I'm [E] proud of you, can you [G] sit for a while? He [A] shook his head, and he [E] said with a smile
 
-          And the [E] cat's in the cradle & the [D] silver spoon, [G] little boy blue & the [A] man on the moon
-          [E] When you coming home son? I [D] don't know when, but [G] we'll get together [E] then, Dad
-          You [G] know we'll have a good time [E] then
+  What I'm [D] feeling like Dad is the [D] borrow the car keys
+  [G]...I'll see you later can I [E] have them please... [E]
 
-                | C . . . | D . Bm . | E . . . | E . . . | x2        | E . . . | x2
+      And the [E] cat's in the cradle & the [D] silver spoon, [G] little boy blue & the [A] man on the moon
+      [E] When you coming home son? I [D] don't know when, but [G] we'll get together [E] then, Dad
+      You [G] know we'll have a good time [E] then
 
-      I've [E] long since retired, my [G] son's moved away
-      [A]...I called him up just the [E] other day...[E]... I said,
-      I'd [E] like to see you if [G] you don't mind, he said I'd [A] love to Dad if I can [E] find the time [E]
+            | C . . . | D . Bm . | E . . . | E . . . | x2        | E . . . | x2
 
-      You see, my [D] new job's a hassle and the [D] kid's with the flu
-      But it's been [G] sure nice talkin' to [E] you, Dad... it's been [G] sure nice talkin' to [E] you... [E]
+  I've [E] long since retired, my [G] son's moved away
+  [A]...I called him up just the [E] other day...[E]... I said,
+  I'd [E] like to see you if [G] you don't mind, he said I'd [A] love to Dad if I can [E] find the time [E]
 
-      And as I [D] hung up the phone it [D] occurred to me
-      He's [G] grown up just like [E] me... my [G] boy was just like [E] me ... [E]
+  You see, my [D] new job's a hassle and the [D] kid's with the flu
+  But it's been [G] sure nice talkin' to [E] you, Dad... it's been [G] sure nice talkin' to [E] you... [E]
 
-          And the [E] cat's in the cradle & the [D] silver spoon, [G] little boy blue & the [A] man on the moon
-          [E] When you coming home son? I [D] don't know when
-          But [G] we'll get together [E] then, Dad... we’re [G] gonna have a good time [E] then
+  And as I [D] hung up the phone it [D] occurred to me
+  He's [G] grown up just like [E] me... my [G] boy was just like [E] me ... [E]
+
+      And the [E] cat's in the cradle & the [D] silver spoon, [G] little boy blue & the [A] man on the moon
+      [E] When you coming home son? I [D] don't know when
+      But [G] we'll get together [E] then, Dad... we’re [G] gonna have a good time [E] then -->
 
 ## Key, Capo, and how Harry Chapin plays it
 

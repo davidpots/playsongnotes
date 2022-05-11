@@ -10,6 +10,7 @@ yt_video_id: VSQYoXbbD6Y
 tags: [Full Song Lesson, 1990s, Rock, Key of G]
 slug: "87"
 date_published: 2017-07-27
+difficulty: beginner
 redirect_from:
   - /songs/pearl-jam-last-kiss/
 pdf_version: musicnotes

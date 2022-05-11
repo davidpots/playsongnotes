@@ -5,6 +5,7 @@ song_title:  You've Got a Friend in Me
 artist: Randy Newman
 year: 1995
 category: full_song
+difficulty: beginner
 yt_video_id: vDEGA1jUDXw
 date_published: 2020-11-22
 slug: "338"
@@ -54,46 +55,46 @@ Here's my earlier lesson, recorded about one year before my full-song lesson abo
 
 See PDF for my intro tab.
 
-    VERSE
-        C            G+        C   C7    F               F         C     C7
-        You've got a friend in me.......... You've got a friend in me....
-        F           C           E         Am
-        ...When the road looks.... rough ahead
-                   F         C               E         Am
-        And you're miles and miles from your nice warm bed
-        F             C                E       Am    
-        ...You just remember what your old pal said
-             Dm           G         C   C7        Dm           G         C
-        Boy, you've got a friend in me..... Yeah, you've got a friend in me
+<!-- VERSE
+    C            G+        C   C7    F               F         C     C7
+    You've got a friend in me.......... You've got a friend in me....
+    F           C           E         Am
+    ...When the road looks.... rough ahead
+               F         C               E         Am
+    And you're miles and miles from your nice warm bed
+    F             C                E       Am    
+    ...You just remember what your old pal said
+         Dm           G         C   C7        Dm           G         C
+    Boy, you've got a friend in me..... Yeah, you've got a friend in me
 
-        C            G+        C   C7    F               F         C     C7
-        You've got a friend in me.......... You've got a friend in me....
-        F                C         E               Am
-        ...If you've got troubles.... I've got 'em too
-        F              C         E             Am
-        ...There isn't anything, I wouldn't do--- for you
-        F             C              E         Am
-        ...We stick together and can... see it through
-               Dm           G             C  C7   Dm           G         C
-        'Cause you've got a friend in me......... You've got a friend in me
+    C            G+        C   C7    F               F         C     C7
+    You've got a friend in me.......... You've got a friend in me....
+    F                C         E               Am
+    ...If you've got troubles.... I've got 'em too
+    F              C         E             Am
+    ...There isn't anything, I wouldn't do--- for you
+    F             C              E         Am
+    ...We stick together and can... see it through
+           Dm           G             C  C7   Dm           G         C
+    'Cause you've got a friend in me......... You've got a friend in me
 
-    BRIDGE
-            F             F                B7                         B7
-            ...Some other folks might be a... little bit smarter than I am
-            C             G+       C      C7
-            ...Bigger and stronger too... maybe
-            B7             B7           B7       B7
-            ...But none of them... will ever---- love you
-                Em    A7       Dm     G
-            The way I do, it's me and you, boy
+BRIDGE
+        F             F                B7                         B7
+        ...Some other folks might be a... little bit smarter than I am
+        C             G+       C      C7
+        ...Bigger and stronger too... maybe
+        B7             B7           B7       B7
+        ...But none of them... will ever---- love you
+            Em    A7       Dm     G
+        The way I do, it's me and you, boy
 
-    ENDING
-        C             G+       C   C7      F               F     C    C7
-        ...And as the years go by..... our friendship will never die
-        F               F            C    E   Am
-        ...You're gonna see it's our des--ti--ny
-        Dm           G         C   C7        Dm           G         C
-        You've got a friend in me..... Yeah, you've got a friend in me
+ENDING
+    C             G+       C   C7      F               F     C    C7
+    ...And as the years go by..... our friendship will never die
+    F               F            C    E   Am
+    ...You're gonna see it's our des--ti--ny
+    Dm           G         C   C7        Dm           G         C
+    You've got a friend in me..... Yeah, you've got a friend in me -->
 
 ## Chord Progression
 
@@ -160,8 +161,8 @@ d   D U d   D U       D = down strum, all strings
 
 Simple version:
 
-  See PDF for full tab diagram.
+    See PDF for full tab diagram.
 
 My "secret stash" personal version:
 
-	See PDF for full tab diagram.
+    See PDF for full tab diagram.

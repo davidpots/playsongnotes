@@ -10,6 +10,7 @@ tags: [Full Song Lesson, 2010s, Pop, Key of C, Fingerstyle]
 yt_video_id: IbFdJy4YShU
 slug: "91"
 date_published: 2017-08-10
+difficulty: beginner
 redirect_from:
   - /songs/post-malone-feeling-whitney/
 #pdf_version: v1

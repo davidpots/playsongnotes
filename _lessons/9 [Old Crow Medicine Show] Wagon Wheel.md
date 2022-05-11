@@ -5,6 +5,7 @@ title: '"Wagon Wheel" by Old Crow Medicine Show'
 song_title:  Wagon Wheel
 artist: Old Crow Medicine Show
 year: 2004
+difficulty: beginner
 date_published: 2013-11-17
 musicnotes_url: https://www.musicnotes.com/l/WTPMS
 pdf_version: musicnotes

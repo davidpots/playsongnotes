@@ -5,6 +5,7 @@ title: '"Little Talks" by Of Monsters and Men'
 song_title:  Little Talks
 artist: Of Monsters and Men
 year: 2012
+difficulty: beginner
 date_published: 2013-11-17
 category: full_song
 tags: [Full Song Lesson, 2010s, Rock, Key of C]
@@ -104,15 +105,15 @@ redirect_from:
 Only if you want to play along with the recorded version of this song, then add a capo to the first fret. Otherwise this is not required.
 
 ### Guitar chords used
-Here are the tabs for the guitar chords used in this song. You're essentially repeating the same Am-F-C progression most of the time, with the final progression before each chorus adding in a G to the end of this progression.
+Here are the tabs for the guitar chords used in this song. You're essentially repeating the same Am-F-C progression most of the time, with the final progression before each chorus adding in a G to the end of this progression. If you can't play the full F-major chord yet, use the easier version shown below!
 
-    e-|---0----1----0----3---
-    B-|---1----1----1----0---
-    G-|---2----2----0----0---
-    D-|---2----3----2----0---
-    A-|---0----3----3----2---
-    E-|--------1---------3---
-         Am    F    C    G
+    e-|---0----1----0----3---   --0--
+    B-|---1----1----1----0---   --1-- <== left index
+    G-|---2----2----0----0---   --2-- <== left middle
+    D-|---2----3----2----0---   --3-- <== left ring
+    A-|---0----3----3----2---   -----
+    E-|--------1---------3---   -----
+         Am    F    C    G        F (easier version)
 
 ## Chord progressions
 

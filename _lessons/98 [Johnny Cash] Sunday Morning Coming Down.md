@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 1970s, Country, Key of G]
 yt_video_id: cEUgFGKD8x8
 slug: "98"
+difficulty: beginner
 date_published: 2017-09-07
 redirect_from:
   - /songs/johnny-cash-sunday-morning-coming-down/

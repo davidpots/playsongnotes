@@ -1,6 +1,5 @@
 ---
 layout: song
-
 title: '"I Walk the Line" by Johnny Cash'
 song_title:  I Walk the Line
 artist: Johnny Cash
@@ -9,6 +8,7 @@ date_published: 2013-11-17
 yt_video_id: VPf0HLvc3L8
 category: full_song
 tags: [Full Song Lesson, 1950s, Country, Key of E, Key of A, Key of D, Walking Bass Lines]
+difficulty: beginner
 hidden_tags: [262]
 slug: "6"
 redirect_from:

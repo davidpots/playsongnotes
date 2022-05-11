@@ -10,6 +10,7 @@ date_published: 2017-12-19
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
 hidden_tags: [Kris Kristofferson]
 yt_video_id: SSv0ZxZQnxs
+difficulty: beginner
 slug: "114"
 redirect_from:
   - /songs/janis-joplin-me-and-bobby-mcgee/

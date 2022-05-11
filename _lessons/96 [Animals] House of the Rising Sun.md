@@ -10,6 +10,7 @@ tags: [Full Song Lesson, 1960s, Classic Rock, Key of Am]
 hidden_tags: [293]
 slug: "96"
 date_published: 2020-03-21
+difficulty: beginner
 yt_video_id: KibnZCT6oYM
 redirect_from:
   - /songs/animals-house-of-the-rising-sun/

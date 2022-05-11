@@ -3,7 +3,7 @@ layout: song
 title: 'Using Slides to Connect Pentatonic Scale Shapes'
 category: tip_technique
 slug: "430"
-tags: [Tips & Techniques, Learning Lead Guitar, Key of D]
+tags: [Tips & Techniques, Backing Track, Learning Lead Guitar, Key of D]
 date_published: 2022-04-30
 yt_video_id: JB4yH6-a-bw
 pdf_version: v2

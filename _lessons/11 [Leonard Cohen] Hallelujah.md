@@ -7,6 +7,7 @@ artist: Leonard Cohen
 year: 1984
 tags: [Full Song Lesson, 1980s, Folk, Rock, Key of C]
 yt_video_id: F0w3xI4A054
+difficulty: beginner
 date_published: 2013-11-23
 slug: "11"
 redirect_from:

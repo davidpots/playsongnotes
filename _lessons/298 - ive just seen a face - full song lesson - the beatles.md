@@ -7,6 +7,7 @@ year: 1965
 tags: [Full Song Lesson, Key of G, 1960s, Classic Rock]
 category: full_song
 yt_video_id: h7e0p8lIhhw
+difficulty: beginner
 slug: "298"
 redirect_from:
   - /lessons/299

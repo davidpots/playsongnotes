@@ -11,6 +11,7 @@ date_published: 2017-06-29
 tags: [Full Song Lesson, 1970s, Country, Classic Rock, Key of C, Movie Songs]
 hidden_tags: [The Rolling Stones, The Big Lebowski]
 category: full_song
+difficulty: beginner
 yt_video_id: jROWArwvnnI
 slug: "79"
 redirect_from:

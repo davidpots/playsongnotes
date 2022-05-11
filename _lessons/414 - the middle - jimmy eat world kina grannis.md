@@ -6,6 +6,7 @@ artist: Jimmy Eat World
 year: 2001
 tags: [Full Song Lesson, Key of C, 2000s, Rock]
 category: full_song
+difficulty: beginner
 yt_video_id: RC0ufuJ1HgM
 slug: "414"
 date_published: 2022-02-04

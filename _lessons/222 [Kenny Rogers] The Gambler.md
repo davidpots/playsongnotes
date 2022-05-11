@@ -6,6 +6,7 @@ song_title:  The Gambler
 artist: Kenny Rogers
 year: 1978
 category: full_song
+difficulty: beginner
 yt_video_id: bA_YhZqe0HY
 date_published: 2019-03-03
 slug: "222"

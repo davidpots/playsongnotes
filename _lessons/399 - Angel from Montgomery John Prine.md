@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: AoumMKnrfq0
 slug: "399"
 date_published: 2021-11-13
+difficulty: beginner
 pdf_version: musicnotes
 pdf_numpages: 3
 musicnotes_url: https://www.musicnotes.com/l/rKdMZ

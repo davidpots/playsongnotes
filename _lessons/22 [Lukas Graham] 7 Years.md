@@ -10,6 +10,7 @@ tags: [Full Song Lesson, 2010s, Pop, Key of G]
 yt_video_id: 4L28ORWMSyw
 slug: "22"
 date_published: 2016-06-26
+difficulty: beginner
 redirect_from:
   - /songs/lukas-graham-7-years/
 #pdf_version: v2

@@ -9,6 +9,7 @@ category: full_song
 yt_video_id: PJyM26qPOHg
 date_published: 2019-02-16
 slug: "216"
+difficulty: beginner
 tags: [Full Song Lesson, 1920s, Blues, Key of Am]
 hidden_tags: [st]
 redirect_from:

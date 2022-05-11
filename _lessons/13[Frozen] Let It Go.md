@@ -5,6 +5,7 @@ title: '"Let It Go" from Frozen'
 song_title:  Let It Go
 artist: Frozen
 year: 2014
+difficulty: beginner
 category: full_song
 date_published: 2013-12-07
 tags: [Full Song Lesson, 2010s, Movie Songs, Key of G]

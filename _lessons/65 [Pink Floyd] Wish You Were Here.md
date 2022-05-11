@@ -9,6 +9,7 @@ category: full_song
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of G]
 yt_video_id: ApUgdFywSLo
 date_published: 2017-05-06
+difficulty: beginner
 slug: "65"
 redirect_from:
   - /songs/pink-floyd-wish-you-were-here/

@@ -9,6 +9,7 @@ hidden_tags: [Townes Van Zandt]
 year: 1972
 category: full_song
 yt_video_id: x9h9OfWGIK8
+difficulty: beginner
 date_published: 2017-04-15
 slug: "57"
 redirect_from:

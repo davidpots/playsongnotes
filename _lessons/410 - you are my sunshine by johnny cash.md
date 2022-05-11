@@ -4,6 +4,7 @@ title: '"You Are My Sunshine" by Johnny Cash'
 song_title: "You Are My Sunshine"
 artist: Johnny Cash
 year: 2003
+difficulty: beginner
 tags: [Full Song Lesson, Key of A, 2000s, Traditional]
 category: full_song
 yt_video_id: CYp-KcoA8YY

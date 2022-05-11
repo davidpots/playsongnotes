@@ -10,6 +10,7 @@ yt_video_id: lanqZZq1oPg
 tags: [Full Song Lesson, 1990s, Rock, Key of C]
 hidden_tags: [learning, learning to fly]
 slug: "108"
+difficulty: beginner
 date_published: 2017-11-25
 redirect_from:
   - /songs/tom-petty-learnin-to-fly/

@@ -10,6 +10,7 @@ hidden_tags: [Blaze Foley]
 category: full_song
 slug: "294"
 date_published: 2020-04-08
+difficulty: beginner
 pdf_version: musicnotes
 pdf_numpages: 4
 musicnotes_url: https://www.musicnotes.com/l/CgXMS

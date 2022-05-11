@@ -65,7 +65,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     Always Remember Us This Way XXXXXXXXXXXX
-    California Dreaming         XXXXXXXXXXX
+    California Dreaming         XXXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXXX
     Let Him Roll                XXXXXXXXX
     My Fav. Picture of You      XXXXXXXX
@@ -78,7 +78,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 <br />
 <h3>3-6 requests:</h3>
 
-    All Apologies               XXXX
+    All Apologies               XXXXX
     Let It Go                   XXX
     Light On •                  XXX
     Lookin' Out My Backdoor     XXXXX
@@ -104,7 +104,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Let It Go                   X
     Manhattan Island Serenade   X
     Peace of Mind               X
-    Rivers of Babylon           X
+    Rivers of Babylon           XX
     Santeria                    X  
     Say Something               X
     Shape of You                X

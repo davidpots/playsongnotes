@@ -5,6 +5,7 @@ song_title: "Follow You to Virgie"
 artist: Tyler Childers
 year: 2016
 category: full_song
+difficulty: beginner
 date_published: 2021-05-30
 yt_video_id: LpVXLRHmyW8
 slug: "368"

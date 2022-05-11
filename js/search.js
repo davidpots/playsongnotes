@@ -53,6 +53,7 @@ function runSearch(searchTerm) {
       if (
           (lessons[i].title.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
           (lessons[i].category.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
+          (lessons[i].difficulty.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
           (lessons[i].slug.search(new RegExp("\\b" + searchQueryText + "\\b")) >= 0) ||
           (lessons[i].tags.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0) ||
           (lessons[i].hidden_tags.search(new RegExp("\\b" + searchQueryText + "\\b", 'i')) >= 0)

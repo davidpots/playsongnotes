@@ -10,6 +10,7 @@ tags: [Full Song Lesson, 1970s, Classic Rock, Key of C]
 yt_video_id: QRA38cZMIJk
 date_published: 2017-04-07
 slug: "56"
+difficulty: beginner
 redirect_from:
   - /songs/lynyrd-skynyrd-simple-man/
 pdf_version: musicnotes

@@ -8,6 +8,7 @@ year: 1963
 category: full_song
 date_published: 2019-01-31
 yt_video_id: oEP4bfVNJYA
+difficulty: beginner
 slug: "211"
 tags: [Full Song Lesson, Key of A, Folk, 1960s]
 redirect_from:

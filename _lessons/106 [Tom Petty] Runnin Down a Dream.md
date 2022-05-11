@@ -10,6 +10,7 @@ category: full_song
 yt_video_id: xfWyEunEkpI
 slug: "106"
 date_published: 2017-11-17
+difficulty: beginner
 redirect_from:
   - /songs/tom-petty-runnin-down-a-dream/
 #pdf_version: v1

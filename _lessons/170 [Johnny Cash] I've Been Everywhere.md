@@ -10,6 +10,7 @@ tags: [Full Song Lesson, Country, Key of E, 1990s]
 yt_video_id: eNXGEQTd9Do
 date_published: 2018-08-29
 slug: "170"
+difficulty: beginner
 redirect_from:
   - /songs/johnny-cash-i-ve-been-everywhere/
 #pdf_version: v1

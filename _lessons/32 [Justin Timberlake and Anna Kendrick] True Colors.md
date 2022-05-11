@@ -6,6 +6,7 @@ artist: Justin Timberlake and Anna Kendrick
 year: 2016
 category: full_song
 yt_video_id: jujtsxzfCbs
+difficulty: beginner
 tags: [Full Song Lesson, 2010s, Pop, Movie Songs, Key of C, Fingerstyle]
 slug: "32"
 date_published: 2016-11-30

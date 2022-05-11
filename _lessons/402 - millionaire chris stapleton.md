@@ -7,6 +7,7 @@ year: 2017
 tags: [Full Song Lesson, Key of G, 2010s, Country]
 category: full_song
 yt_video_id: O0AxfiPTPnU
+difficulty: beginner
 slug: "402"
 date_published: 2021-12-01
 pdf_version: musicnotes

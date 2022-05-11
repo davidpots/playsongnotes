@@ -8,6 +8,7 @@ year: 1974
 tags: [Full Song Lesson, 1970s, Classic Rock, Key of D]
 category: full_song
 yt_video_id: u04OuAzhSZA
+difficulty: beginner
 date_published: 2017-01-29
 slug: "43"
 redirect_from:
@@ -27,7 +28,7 @@ musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236768
 
 This guitar lesson is for a solo acoustic version of "Sweet Home Alabama" by Lynyrd Skynyrd. For this classic song, I'll show you how to play all of the recognizable riffs and fills you hear during the song: including during the intro, verses, and choruses. I'll also show you how to play the chords used during the entire song, including strumming patterns (both simple and complex). My aim with this lesson is to give you the core building blocks you'll need to take this song to advanced places, should you wish. I won't cover the solo or 100% note-for-note tab recreations of what each guitar plays during the song, as that's a huge effort and others have done that in many cases.
 
-## Lyrics with chords
+<!-- ## Lyrics with chords
 
     INTRO
         D ... Cadd9 ... G ... G ... (x4, with riff)
@@ -83,7 +84,7 @@ This guitar lesson is for a solo acoustic version of "Sweet Home Alabama" by Lyn
         Lord, they get me off so much
         They pick me up when I'm feeling blue, now how about you?
 
-                [chorus x2, solo to end]
+                [chorus x2, solo to end] -->
 
 ## Chords needed
 
@@ -125,7 +126,9 @@ In one or two cases, you'll change this for one progression by throwing an F int
 
 There are many ways you can play this -- each has slight variations in the final measure. I'm not super interested in mapping each of these out to their exact location in the song... for that, I leave it to you to listen to the album version, watch my video, and combine these as you prefer. Also, note that some of these riffs may not be 100% accurate to what you hear in the album version -- I'm less concerned with an exact reproduction, and more concerned with giving you the structure that'll get you started with things.
 
-Variation A:
+    See sheet music for tabs.
+
+<!-- Variation A:
 
     e –––––––––––|–––––––––––|––––––––––|––––––––––––––––––––––
     B ––––––3––––|––––––3––––|–––––––3––|––––––––––––––––––––––
@@ -183,13 +186,15 @@ Variation F:
     D ––0–0––––––|–––––––––––|–––––––0––|––––––0h2––0––––––––––
     A –––––––––––|––3–3––––––|–––––––2––|––0h2–––––––––3–––––––
     E –––––––––––|–––––––––––|––3–3–––––|––––––––––––––––––––––
-        D           Cadd9       G           
+        D           Cadd9       G            -->
 
 ## Interlude riff
 
 This is what you hear between each verse. Again, there are a few ways you can play it. Use the method(s) that work for your needs.
 
-Variation A:
+    See sheet music for tabs.
+
+<!-- Variation A:
 
     e –––––––––––––––|––––––––––––|–––––––––––––––|––––––––––––
     B –––––––––––––––|––––––––––––|–––––––––––––––|––0–––––––––
@@ -216,29 +221,31 @@ Variation C:
     D ––––––––7–7––––|–––––––5–5––|––––––––5–5––––|––5–––5–––––
     A ––7h8h9–––––9––|––5h7–––––––|–––––––––––––––|––5–––5–––––
     E –––––––––––––––|––––––––––––|––5h6h7–––––3––|––3–––3–––––
-        D               C            G
+        D               C            G -->
 
 ## Strumming Patterns
 
 Here's a few ways to strum it, in order of complexity (starting at the easiest version). The "" symbol in the patterns below designates playing the bass note of that chord, for that strum. See my video for reference for all these.
 
-    D   .   C   .   G   .   .   .
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    d   d   d   d   d   d   d   d
+    See sheet music for strumming diagrams.
 
-    D   .   C   .   G   .   .   .
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    d   d   d u d   d   d   d u d
+<!-- D   .   C   .   G   .   .   .
+1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+d   d   d   d   d   d   d   d
 
-    D   .   C   .   G   .   .   .
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    d d d   d d d   d d d   d d d
-    ¯ ¯ >   ¯ ¯ >   ¯ ¯ >   ¯ ¯ >
+D   .   C   .   G   .   .   .
+1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+d   d   d u d   d   d   d u d
 
-    D   .   C   .   G   .   .   .
-    1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-    d d d dud d d dud d d dud d d du
-    ¯ ¯ >   ¯ ¯ >   ¯ ¯ >   ¯ ¯ >
+D   .   C   .   G   .   .   .
+1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+d d d   d d d   d d d   d d d
+¯ ¯ >   ¯ ¯ >   ¯ ¯ >   ¯ ¯ >
+
+D   .   C   .   G   .   .   .
+1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+d d d dud d d dud d d dud d d du
+¯ ¯ >   ¯ ¯ >   ¯ ¯ >   ¯ ¯ > -->
 
 ## Hope that helps!
 

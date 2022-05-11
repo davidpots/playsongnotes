@@ -255,6 +255,7 @@
           overflow: hidden;
           box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
           border: 1px solid #ccc;
+          z-index: 1;
         }
         .header-nav-links--subnav > li > a {
           text-decoration: none;
