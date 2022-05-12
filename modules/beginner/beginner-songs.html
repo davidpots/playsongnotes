@@ -10,6 +10,10 @@ permalink: /beginner/songs
 
 <h1>Beginner Song Lessons</h1>
 
+<!-- https://youtu.be/YYSHrULtN3s -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYSHrULtN3s?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <p class="large">Of the <strong>{{ song_lessons_count.size }}</strong> song lessons I've made, here are the ones I would consider beginner-friendly. Most of these songs need just 3-4 chord shapes, and can be played even if you simplify the strumming or skip certain riffs/fills.</p>
 
 <p class="large">While many of the lessons linked below may include intermediate & advanced content, please note that I typically <em>begin</em> each tutorial with the simplest possible instruction per that song – and then layer on additional concepts later in the lesson.</p>
@@ -58,7 +62,7 @@ permalink: /beginner/songs
 
 <br />
 <h2>Key of A</h2>
-<p>Most songs here use some combination of A, D, and E.
+<p>Most songs here use some combination of A, D, and E.</p>
 {% for l in beginner_songs %}
   {% if l.tags contains "Key of A" %}
     <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
