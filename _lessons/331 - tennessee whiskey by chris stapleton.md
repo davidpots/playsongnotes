@@ -12,8 +12,6 @@ tags: [Full Song Lesson, 2010s, Key of A, Country]
 pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235887
 pdf_numpages: 4
-patreon_lesson_available: true
-patreon_lesson_url: https://www.patreon.com/posts/42581405
 redirect_from:
   - /songs/chris-stapleton-tennessee-whiskey/
 ---
@@ -50,9 +48,9 @@ Video timestamps:
 
 ## My other videos for this song
 
-### Backing track
+### Practicing A-Bm with a Backing track
 
-Note, this track begins with:
+Patreon members can download the mp3 (audio) backing track file [at this post](https://www.patreon.com/posts/23065293) (requires Patreon login). The track is also available as a video directly below. This track begins with:
 
 1. 2 measures of drums only, to help you get in sync with the rhythm, which leads to...
 2. 1 full sequence of 8 measures, with the lead guitar track playing, and then...

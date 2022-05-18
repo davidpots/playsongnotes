@@ -4,7 +4,7 @@ title: '"Landslide" by Fleetwood Mac'
 song_title: "Landslide"
 artist: Fleetwood Mac
 year: 1975
-tags: [Full Song Lesson, Key of C, 1970s, Classic Rock]
+tags: [Full Song Lesson, Key of C, 1970s, Classic Rock, Fingerstyle]
 hidden_tags: [land slide, fleetwood mack]
 category: full_song
 yt_video_id: vgmR57sS9h8

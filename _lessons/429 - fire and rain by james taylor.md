@@ -4,7 +4,7 @@ title: '"Fire and Rain" by James Taylor'
 song_title: "Fire and Rain"
 artist: James Taylor
 year: 1970
-tags: [Full Song Lesson, Key of A, 1970s, Classic Rock]
+tags: [Full Song Lesson, Key of A, 1970s, Classic Rock, Fingerstyle]
 category: full_song
 yt_video_id: 1HqpJp9rvtg
 slug: "429"
