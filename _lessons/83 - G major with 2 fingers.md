@@ -18,7 +18,7 @@ In this quick practice tip, I'll teach you how to play the G-chord using only tw
 
 ## Normal ways to play G
 
-First, let's review the common voicings for the G-major chord, that you'll often see when learning guitar. One version is as follow, which can be played with a few different finger positions:
+First, let's review the common voicings for the G-major chord, that you'll often see when learning guitar. Here's the typical way the G-major chord is taught, where you have 3 left-hand fingers fretted. This can be played with these two different finger positions:
 
     e –––3––– <== left pinky              e –––3––– <== left ring or pinky       
     B –––0–––                             B –––0–––                      
@@ -27,7 +27,7 @@ First, let's review the common voicings for the G-major chord, that you'll often
     A –––2––– <== left middle             A –––2––– <== left index      
     E –––3––– <== left ring               E –––3––– <== left middle        
 
-You can can play this "4 finger" version of the G major chord, which looks like this. The 3rd fret on the second string (i.e. the B string) gives us a "D" note, which is the 5th tone in the G-major scale. Without that finger, the "open" second string gives us the "B" note, which is the 3rd tone in the G-major scale. Remember, a G-major chord is simply composed of the 1-3-5 tones in the G major scale... so both of these voicings (what I show below, or what I show above) are valid ways to play G chord.
+You can can play this "4 finger" version of the G major chord, which looks like this. The 3rd fret on the second string (i.e. the B string) gives us a "D" note, which is the 5th tone in the G-major scale. Without that finger, the "open" second string gives us the "B" note, which is the 3rd tone in the G-major scale. Remember, a G-major chord is simply composed of the 1-3-5 notes in the G major scale... so both of these voicings are valid ways to play G chord!
 
     e –––3––– <== left pinky
     B –––3––– <== left ring                
