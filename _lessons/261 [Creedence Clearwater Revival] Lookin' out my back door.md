@@ -10,8 +10,9 @@ date_published: 2019-10-19
 tags: [Full Song Lesson, 1970s, Key of A, Classic Rock, Fingerstyle]
 hidden_tags: CCR, creedance
 slug: "261"
-pdf_version: copyright
-pdf_numpages: 2
+pdf_version: musicnotes
+pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/BK7Mb
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/30708535
 ---
@@ -33,70 +34,6 @@ patreon_lesson_url: https://www.patreon.com/posts/30708535
 Here's a quick lesson for the CCR song "Lookin' Out My Back Door" – performed fingerstyle with no capo. This is what I'd call an "easy" or "lazy" approach to this song, where I'm taking a very accessible route when it comes to the capo (not using one), fingerpicking (using an easy pattern), and key change (not bothering withit here). While not the stuff of virtuosos, this approach makes for a good campfire take on the song - which sometimes is all you need to feel the musical goodness.
 
 I plan on eventually tackling a more thorough lesson of this song (complete with muted strumming, chord changes, a few guitar licks, etc) – but that will be for another day.
-
-## Lyrics w/ chords
-
-    ** Capo 1st Fret
-
-    INTRO
-        [muted strumming, then...]
-
-        A ... F#m ... D . A . E . A .
-
-    VERSE
-        A                            F#m
-        Just got home from Illinois, lock the front door, oh boy
-        D          A               E
-        Got to sit down and take a rest on the porch
-        A                    F#m
-        Imagination sets in, pretty soon I’m singing
-        D         A              E           A
-        Doo, doo, doo... lookin’ out my back door
-
-                  A                         F#m
-        There’s a giant doing cartwheels, a statue wearin’ high-heels
-        D               A               E
-        Look at all the happy creatures dancin' on the lawn
-          A                  F#m
-        A dinosaur Victrola, listenin’ to Buck Owens
-        D         A              E           A
-        Doo, doo, doo... lookin’ out my back door
-
-    CHORUS
-            E                             D                A
-            Tambourines and elephants are playin’ in the band
-                      A           F#m           E
-            Won’t you take a ride on the flying spoon? Doo, doo, doo...
-            A                        F#m
-            Wondrous apparition, provided by magician
-            D         A              E           A
-            Doo, doo, doo... lookin’ out my back door
-
-        [instrumental verse w/ solo]
-
-            [E] Tambourines and elephants are [D] playin’ in the [A] band
-            Won’t you [A] take a ride [F#m] on the flying [E] spoon? Doo, doo, doo...
-            [A] Bother me tomorrow, [F#m] today I’ll buy no sorrows
-            [D] Doo, doo, [A] doo... lookin’ [E] out my back [A] door
-
-    KEY CHANGE - or keep using chords above after moving capo up 2 frets
-
-            [muted strumming, then...]
-
-            | F# . . . | E . B . | B . G#m . | F# . . . |
-
-        B                            G#m
-        Forward troubles Illinois... lock the front door, oh boy
-        E               B               F#
-        Look at all the happy creatures dancing on the lawn
-        B                   G#m
-        Bother me tomorrow, today I’ll buy no sorrows
-        E         B              F#          B
-        Doo, doo, doo... lookin’ out my back door
-
-    OUTRO
-
-        [muted strumming => E B F# B => end]
 
 ## Other notes
 

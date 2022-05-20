@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- May 16 - [Lookin' Out My Backdoor](https://playsongnotes.com/lessons/261/)
 - May 9  - [American Girl](https://playsongnotes.com/lessons/113/)
 - May 2  - [Creep](https://playsongnotes.com/lessons/153/)
 - Apr 26 - [LA Freeway](https://playsongnotes.com/lessons/101/)
@@ -82,7 +83,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     7 Years                     XXX
     Let It Go                   XXX
     Light On •                  XXX
-    Lookin' Out My Backdoor     XXXXX
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXXX
