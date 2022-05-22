@@ -31,7 +31,9 @@ One quick note about capo usage
 
 ## My full video lesson for Fire and Rain
 
-...is coming soon! As I note in the video above, I'm currently working on learning the full song and preparing my lesson. Look for my full lesson in mid-late April 2022. To stay in the loop, [subscribe to my YouTube channel](http://youtube.com/playsongnotes) or my [free email newsletter](http://playsongnotes.com/newsletter/) -- that way you'll be notified as soon as the lesson is released.
+[View my lesson notes & get the song sheet »](https://playsongnotes.com/lessons/429/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1HqpJp9rvtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## James Taylor's Album Version
 
