@@ -33,7 +33,7 @@ In this lesson I'll show you how to play a strum-along guitar version of "Total 
 
 ## Capo 1st fret
 
-If you want to play along with Bonnie Tyler's recorded version of the song, you'll need to put a capo on the 1st fret and use all chords and tabs below. You could also not use a capo and use the chords - but note you'll be in a different key than the album version of this song (which may not be a big deal unless you're trying to play along with it).
+If you want to play along with Bonnie Tyler's recorded version of the song, you'll need to put a capo on the 1st fret and use all chords and tabs I show in my video lesson (or printable song sheet). You could also not use a capo and use the chords - but note you'll be in a different key than the album version of this song — which may not be a big deal unless you're trying to play along with it.
 
 
 ## Chords needed:
