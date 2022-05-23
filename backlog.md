@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- May 23 - [Total Eclipse of the Heart](https://playsongnotes.com/lessons/93/)
 - May 16 - [Lookin' Out My Backdoor](https://playsongnotes.com/lessons/261/)
 - May 9  - [American Girl](https://playsongnotes.com/lessons/113/)
 - May 2  - [Creep](https://playsongnotes.com/lessons/153/)
@@ -73,7 +74,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXXX
     Remember Me •               XXXXXXXX
-    Total Eclipse of the Heart  XXXXXXXX
     We Are the Champions •      XXXXXXX
     When the Man Comes Around   XXXXXXXX
 
