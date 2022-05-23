@@ -3,7 +3,7 @@ layout: song
 title: 'CAGED Chord Shapes, Explained'
 category: tip_technique
 slug: "385"
-tags: [Tips & Techniques, Learning Chords, Music Theory]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics, Music Theory]
 hidden_tags: [practical music theory, theory, CAGED, system, caged system]
 date_published: 2021-08-25
 yt_video_id: cie7a8_SrEA

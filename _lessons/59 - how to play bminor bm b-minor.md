@@ -5,7 +5,7 @@ title: How to play B-minor chord (Bm)
 slug: "59"
 date_published: 2017-04-21
 yt_video_id: go9KU5MIv0c
-tags: [Tips & Techniques, Learning Chords, Key of D, Key of A, Key of G, Key of Bm]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics, Key of D, Key of A, Key of G, Key of Bm]
 hidden_tags: [bminor, minor, b, barre]
 ---
 

@@ -4,7 +4,7 @@ category: tip_technique
 title: How to play F#m (F sharp minor)
 slug: "192"
 date_published: 2018-11-18
-tags: [Tips & Techniques, Learning Chords]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics]
 yt_video_id: _FTY0oPR_KQ
 pdf_version: v1
 pdf_numpages: 3

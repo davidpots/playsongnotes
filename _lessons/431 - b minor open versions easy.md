@@ -3,7 +3,7 @@ layout: song
 title: 'Easier Ways to Play B-minor (No Barring Required)'
 category: tip_technique
 slug: "431"
-tags: [Tips & Techniques, Learning Chords]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics]
 hidden_tags: [Bm, B-minor, Bm7]
 date_published: 2022-05-04
 yt_video_id: FP5z6Q7zlns
@@ -13,7 +13,7 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/65996788
 ---
 
-<!-- https://youtu.be/FP5z6Q7zlns --> 
+<!-- https://youtu.be/FP5z6Q7zlns -->
 
 ## Video lesson
 

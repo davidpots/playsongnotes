@@ -3,7 +3,7 @@ layout: song
 title: 'F Chord, Made Easy: 7 Alternatives to the Barred Version'
 category: tip_technique
 slug: "392"
-tags: [Tips & Techniques, Learning Chords, Key of C, Key of F]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics, Key of C, Key of F]
 hidden_tags: [F, F-chord, F-major, barre, cheat sheet]
 date_published: 2021-10-02
 yt_video_id: ZBWO_JyvpRE

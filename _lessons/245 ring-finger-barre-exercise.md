@@ -4,7 +4,7 @@ category: tip_technique
 title: Barre Chord Strength Exercises! For Left Ring & Index Fingers
 slug: "245"
 date_published: 2019-06-25
-tags: [Tips & Techniques, Learning Chords]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics]
 yt_video_id: xtvYQSGS6wE
 pdf_version: v2
 pdf_numpages: 2

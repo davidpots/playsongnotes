@@ -3,7 +3,7 @@ layout: song
 title: 'Barre Chord Strength Training Exercise (Left Index Finger)'
 category: tip_technique
 slug: "99"
-tags: [Tips & Techniques, Learning Chords]
+tags: [Tips & Techniques, Learning Chords, Barre Chord Basics]
 hidden_tags: [F, F-chord, F-major, bar chord, bar, strength]
 date_published: 2017-09-14
 yt_video_id: PI4Pce2HonM
