@@ -4,36 +4,41 @@ title: Full Song Lessons (by title) - Learn to play guitar like your favorite ar
 permalink: /songs/by-title
 ---
 
-<h1>Video Lessons</h1>
-<p>Here's a directory of all my 350+ video lessons, separated by category. You can also <a href="/search">search</a> if you're looking for something specific.</p>
+{% assign song_lessons = site.lessons | where: "category","full_song" %}
 
+<h1>Song Lessons</h1>
+<p class="large">Here's a list of the <strong>{{ song_lessons.size }}</strong> song lessons I've made on <a href="https://youtube.com/playsongnotes">my YouTube channel</a>. I typically add one song lesson per week. Want to request a song lesson? <a href="/contact">Email me</a> and let me know!</p>
+
+<br />
 <p class="tabs_may2021">
-  <a href="/riffs">Quick Riffs</a> <a  href="/tips">Tips & Techniques</a> <a class="active" href="/songs/recently-added">Full Songs</a> <a  href="/practice">Practice Log</a>
+  <a href="/songs">Recently Added</a> <a href="/songs/most-popular">Most Popular</a> <a href="/songs/beginner">Beginner-Friendly</a> <a href="/songs/by-artist">by Artist</a> <a class="active" href="/songs/by-title">by Song Title</a> <a href="/songs/by-year">by Song Year</a>
 </p>
 
 
-<p class="tabs_may2021--secondary">
-  <strong>Sort by:</strong> <a href="/songs/recently-added">Recently Added</a> <a href="/songs/">Artist</a> <a class="active" href="/songs/by-title">Title</a> <a href="/songs/by-year">Release Date</a>
-</p>
+{% assign numbers = "0123456789" | split: "" %}
+{% assign alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split: "" %}
+{% assign all_songs = site.lessons | where: "category", "full_song" | sort: "name" %}
 
-
-
-
-
-
-<ul class="listing_may2021">
-  {% assign lessons = site.lessons | where: "category","full_song" | sort: 'title' %}
-  {% for l in lessons %}
-  {% if l.yt_video_id %}
-    <li>
-      <div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{l.yt_video_id}}/mqdefault.jpg');"></div>
-      <h3 class="listing_may2021--title"><a href="{{ l.url | relative_url }}">{{ l.title }}</a></h3>
-      <p class="listing_may2021--meta">Lesson #{{ l.slug}} {% if l.date_published %}• {{ l.date_published | date: '%b %-d, %Y' }}{% endif %}</p>
-      {% if l.pdf_version and l.pdf_version == "musicnotes" %}
-        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ l.url | relative_url }}"><span class='pdf-icon'>$</span> Sheet Music</a></p>
+<div class="multi_column_list">
+  <h3>0-9</h3>
+  <ul>
+    {% for song in all_songs %}
+      {% assign first_letter = song.song_title | slice: 0 %}
+      {% if first_letter == "0" or first_letter == "1" or first_letter == "2" or first_letter == "3" or first_letter == "4" or first_letter == "5" or first_letter == "6" or first_letter == "7" or first_letter == "8" or first_letter == "9" %}
+        <li><a href="{{song.url}}" class="bold">{{song.song_title}}</a></li>
       {% endif %}
+    {% endfor %}
+  </ul>
 
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for current_letter in alphabet %}
+  <h3>{{current_letter}}</h3>
+  <ul>
+    {% for song in all_songs %}
+      {% assign first_letter = song.song_title | slice: 0 %}
+      {% if first_letter == current_letter %}
+        <li><a href="{{song.url}}" class="bold">{{song.song_title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+</div>

@@ -1,0 +1,87 @@
+---
+layout: page
+title: Full Song Lessons - Learn to play guitar like your favorite artists, with step by step song lessons - Song Notes by David Pots
+permalink: /songs/beginner
+---
+
+{% assign song_lessons = site.lessons | where: "category","full_song" %}
+
+<h1>Song Lessons</h1>
+<p class="large">Here's a list of the <strong>{{ song_lessons.size }}</strong> song lessons I've made on <a href="https://youtube.com/playsongnotes">my YouTube channel</a>. I typically add one song lesson per week. Want to request a song lesson? <a href="/contact">Email me</a> and let me know!</p>
+
+<br />
+<p class="tabs_may2021">
+  <a href="/songs">Recently Added</a> <a href="/songs/most-popular">Most Popular</a> <a class="active" href="/songs/beginner">Beginner-Friendly</a> <a href="/songs/by-artist">by Artist</a> <a href="/songs/by-title">by Song Title</a> <a href="/songs/by-year">by Song Year</a>
+</p>
+
+{% assign song_lessons_count = site.lessons | where: "category","full_song" %}
+
+{% assign beginner_songs = site.lessons | where: "difficulty", "beginner" | sort: "song_title" %}
+
+<div class="container clearfix">
+  <div class="row">
+    <div class="col col-left col-8">
+
+
+
+
+
+<h2>Key of G</h2>
+<p>Most songs here use some combination of G, C, D, and E-minor. Check out this <a href="/lessons/334/">G-major finger position guide</a> for suggestions on how to position your fingers while playing these chords.</p>
+
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of G" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of C</h2>
+<p>Most songs here use some combination of C, F, G, and A-minor. Don't be scared away by the F chord! You can totally get by using the 3-string version I teach in my <a href="/lessons/392/">F Chord Cheat Sheet</a> (which shows many non-barred options). I also made this <a href="/lessons/388/">Key of C cheat sheet</a> to give an overview of this entire key. And once more, the <a href="/lessons/334/">G-major finger position guide</a> will come in handy with this chord family as well.</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of C" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of D</h2>
+<p>Most songs here use some combination of D, G, and A... with one or two of these songs using B-minor. For B-minor, the easiest way to play it is by sliding the A-minor shape up two frets (and only playing strings 2-3-4).</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of D" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of E</h2>
+<p>Most songs here use some combination of E, A, and B7. If you need help with these chords, I suggest my video showing <a href="/lessons/49/">walk-ups and walk-downs between E-A-B7</a>, which is a super common technique used in this specific key.</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of E" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+<br />
+<h2>Key of A</h2>
+<p>Most songs here use some combination of A, D, and E.</p>
+{% for l in beginner_songs %}
+  {% if l.tags contains "Key of A" %}
+    <li><a class="bold" href="{{ l.url }}">{{ l.song_title }}</a> by {{ l.artist}}</li>
+  {% endif %}
+{% endfor %}
+
+</div> <!-- end: .col.col-right.col-3 -->
+<div class="col col-right col-4">
+  <div class="pdf_module_v2 mtl" style="padding: 16px;">
+  <h4 class="mtn small">What makes these beginner-friendly?</h4>
+
+  <p class="small">Of all the song lessons I've made, these are the ones I would consider beginner-friendly, or at least <em>relatively</em> approachable by beginner guitarists. Most of these songs need just 3-4 chord shapes, and can be played even if you simplify the strumming or skip certain riffs/fills.</p>
+
+  <p class="small">While many of the lessons linked below may include intermediate & advanced content, please note that I typically <em>begin</em> each tutorial with the simplest possible instruction per that song – and then layer on additional concepts later in the lesson.</p>
+
+  <p class="small mbn">Please <a href="mailto:play.songnotes@gmail.com?subject=Requesting Beginner 🎸 Content!">let me know</a> what specific beginner content you'd like to see! I plan on continuing to add to this section of my website, and would love any requests or feedback. Thanks!</p>
+  </div>
+</div> <!-- end: .col.col-right.col-4 -->
+</div> <!-- end: .row -->
+</div>

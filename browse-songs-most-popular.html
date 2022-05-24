@@ -1,0 +1,35 @@
+---
+layout: page
+title: Full Song Lessons (by title) - Learn to play guitar like your favorite artists, with step by step song lessons - Song Notes by David Pots
+permalink: /songs/most-popular
+---
+
+{% assign song_lessons = site.lessons | where: "category","full_song" %}
+
+<h1>Song Lessons</h1>
+<p class="large">Here's a list of the <strong>{{ song_lessons.size }}</strong> song lessons I've made on <a href="https://youtube.com/playsongnotes">my YouTube channel</a>. I typically add one song lesson per week. Want to request a song lesson? <a href="/contact">Email me</a> and let me know!</p>
+
+<br />
+<p class="tabs_may2021">
+  <a href="/songs">Recently Added</a> <a class="active" href="/songs/most-popular">Most Popular</a> <a href="/songs/beginner">Beginner-Friendly</a> <a href="/songs/by-artist">by Artist</a> <a href="/songs/by-title">by Song Title</a> <a href="/songs/by-year">by Song Year</a>
+</p>
+
+
+{% assign popular_songs = "151,96,181,134,331,346,88,172,156,43,433,56,204,6,109,153,91,102,349,128,72,308" | split: "," %}
+{% assign all_songs = site.lessons | where: "category", "full_song" | sort: "name" %}
+
+<ul class="listing_may2021">
+{% for song_number in popular_songs %}
+  {% assign song = site.lessons | where: "slug", song_number %}
+    <li>
+      <a href="{{ song[0].url | relative_url }}"><div class="listing_may2021--thumbnail" style="background-image: url('http://img.youtube.com/vi/{{song[0].yt_video_id}}/mqdefault.jpg');"></div></a>
+      <h3 class="listing_may2021--title"><a href="{{ song[0].url | relative_url }}">{{ song[0].song_title }}</a></h3>
+      <p class="listing_may2021--meta">by {{song[0].artist}} {% if song[0].date_published %}• {{ song[0].date_published | date: '%b %-d, %Y' }}{% endif %}</p>
+      {% if song[0].pdf_version and song[0].pdf_version == "musicnotes" %}
+        <p class="listing_may2021--pdf pdf--musicnotes"><a href="{{ song[0].url | relative_url }}"><span class='pdf-icon'>$</span> Sheet Music</a></p>
+      {% endif %}
+
+    </li>
+
+{% endfor %}
+</ul>

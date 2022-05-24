@@ -1,8 +1,8 @@
 ---
 layout: song
 title: '"Harvest" by Neil Young'
-song_title: "Neil Young"
-artist: Harvest
+song_title: "Harvest"
+artist: Neil Young
 year: 1972
 tags: [Full Song Lesson, Key of D, 1970s, Classic Rock]
 category: full_song
