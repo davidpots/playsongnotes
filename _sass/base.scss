@@ -839,6 +839,9 @@ tr[data-pdf-v2="v1"] td {
 }
 
     @media only screen and (max-width: $breakpoint--mobile) {
+      .tabs_may2021 {
+        text-align: center;
+      }
       .tabs_may2021 a {
         font-size: 11px;
         padding: 5px 9px 4px;
