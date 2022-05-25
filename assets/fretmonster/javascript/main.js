@@ -23,6 +23,18 @@
                                                         5 : 7,  // A string
                                                         6 : 2   // D string (low)
                                                       } },
+                      'guitar-openG' : { 'name'   : 'guitar - open G',
+                                   'numStrings'   : 6,
+                                   'fretsToLabel' : [1,3,5,7,9,12,15],
+                                   'stringLabels' : ['d','B','G','D','G','D'],
+                                   'stringDiff'   : {
+                                                       1 : 2,  // D string (high)
+                                                       2 : 5,  // B string
+                                                       3 : 9,  // G string
+                                                       4 : 2,  // D string
+                                                       5 : 9,  // G string
+                                                       6 : 2   // D string (low)
+                                                     } },
                        'bass'   : { 'name'         : 'bass',
                                     'numStrings'   : 4,
                                     'fretsToLabel' : [1,3,5,7,9,12,15],
