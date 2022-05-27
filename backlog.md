@@ -64,7 +64,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
     Always Remember Us This Way XXXXXXXXXXXX
@@ -82,11 +82,11 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
     7 Years                     XXX
     Let It Go                   XXX
-    Light On •                  XXX
+    Light On •                  XXXX
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXXX
-    Where Rainbows Never Die    XXXXX
+    Where Rainbows Never Die    XXXXXX
     Year Clayton Delaney Died   XXX
 
 <br />
