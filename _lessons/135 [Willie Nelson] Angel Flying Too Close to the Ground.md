@@ -7,7 +7,7 @@ artist: Willie Nelson
 year: 1980
 category: full_song
 date_published: 2018-02-24
-tags: [Full Song Lesson, 1980s, Country, Key of A]
+tags: [Full Song Lesson, 1980s, Country, Key of A, Walking Bass Lines]
 yt_video_id: uN1wtE6TffI
 slug: "135"
 redirect_from:

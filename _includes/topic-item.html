@@ -1,0 +1,18 @@
+{% assign lesson = site.lessons | where: 'slug', include.slug %}
+{% assign l = lesson[0] %}
+
+
+<div class="tile tile-wide" style="min-height: 96px;">
+  <div class="tile-media" style="width: 128px;">
+    <a href="{{l.url | relative_url }}"><img src="http://img.youtube.com/vi/{{l.yt_video_id}}/maxresdefault.jpg" /></a>
+  </div>
+  <div class="tile-body">
+    <h3 class="tile-title" style="margin-left: 140px;"><a style="font-size: 16px; color: #0074D9; text-decoration: underline;" href="{{l.url | relative_url }}">{{l.title}}</a></h3>
+    <!-- <p class="tile-description">In this week’s guitar lesson, you’ll be playing in the key of the song (so no worrying about following chord changes). You’ll be playing everything from...</p> -->
+    {% if l.pdf_version And l.pdf_version != "" And l.pdf_version != nil %}
+    <p class="tile-badge" style="margin-left: 140px;">
+      <a class="pdf-badge" data-pdf-version="v2" href="{{ l.url | relative_url }}"><span class='pdf-icon'>★</span> Patreon PDF Available</a>
+    </p>
+    {% endif %}
+  </div>
+</div>

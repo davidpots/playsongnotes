@@ -2,7 +2,6 @@
 layout: song
 title: 'My Guitar Story: Lessons Learned from 20 Years of Playing'
 category: generic
-tags: [Gear]
 date_published: 2021-05-24
 yt_video_id: b2aUzpegK5I
 slug: "367"

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 'Syncopation and Sus Chords'
+title: 'Enhance Your Strumming with Syncopation and Sus Chords'
 category: tip_technique
 slug: "289"
 tags: [Tips & Techniques, Learning Chords, Strumming]
