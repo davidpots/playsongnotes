@@ -18,6 +18,7 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+- May 31 - [Where Rainbows Never Die](https://playsongnotes.com/lessons/112/)
 - May 23 - [Total Eclipse of the Heart](https://playsongnotes.com/lessons/93/)
 - May 16 - [Lookin' Out My Backdoor](https://playsongnotes.com/lessons/261/)
 - May 9  - [American Girl](https://playsongnotes.com/lessons/113/)
@@ -86,7 +87,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXXX
-    Where Rainbows Never Die    XXXXXX
     Year Clayton Delaney Died   XXX
 
 <br />

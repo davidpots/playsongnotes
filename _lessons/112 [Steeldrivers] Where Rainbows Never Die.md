@@ -13,8 +13,9 @@ hidden_tags: [Chris Stapleton]
 slug: "112"
 redirect_from:
   - /songs/steeldrivers-where-rainbows-never-die/
-pdf_version: copyright
+pdf_version: musicnotes
 pdf_numpages: 3
+musicnotes_url: https://www.musicnotes.com/l/299Mm
 patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/31705934
 ---
@@ -40,33 +41,19 @@ Video timestamps:
 
 ## Capo 2nd fret
 
-If you want to play along with the Steeldrivers version, add a capo to the 2nd fret.
+If you want to play along with the SteelDrivers version, add a capo to the 2nd fret.
 
 ## Main riff
 
 Here's the main riff you hear, which is repeated in the intro and verse.
 
-    e –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
-    B –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
-    G –|–––––2––––––––2–––––2–––––––––––––––––0––0––0––0––|–
-    D –|––0–––––––––––2–––––2––––––––4––––––––0––0––0––0––|–
-    A –|–––––––––––0–––––0–––––0––2–––––––––––2––2––2––2––|–
-    E –|––––––––3–––––––––––––––––––––––2––3––3––3––3––3––|–
-          1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-          D        A              Bm       G
+    See song sheet for the full tab.
 
 ## Alternate ending to the riff
 
 And, here's the version of the riff with the special ending, heard on the 3rd playthrough of the intro. For the 4th playthrough, they go back to the "main" riff shown above.
 
-    e –|–––––––––––––––––––––––––––––––––––––––––3––––––––|–
-    B –|–––––––––––––––––––––––––––––––––––––––––3––––––––|–
-    G –|–––––2––––––––2–––––2––––––––0–––––––––––0––––––––|–
-    D –|––0–––––––––––2–––––2–––––––––––4––0–––––0–––––0––|–
-    A –|–––––––––––0–––––0–––––0––2––––––––––––––2––0h2–––|–
-    E –|––––––––3–––––––––––––––––––––––––––––3––3––––––––|–
-          1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-          D        A              Bm       G
+    See song sheet for the full tab.
 
 ## How to practice the riff when learning it
 
@@ -109,97 +96,25 @@ But for the intro, I recommend the following voicings / finger positions:
     A –––x––––    x--- don't play this string (mute it)
     E –––3––––    <--- left hand middle finger
          G    
+
 ## Strumming patterns
 
-Here's three ways you could strum this.
+Here's three ways you could strum this song, depending on your preference / taste / ability.
 
-Continuous down-up strumming:
+### Continuous down-up strumming:
 
     D     A         Bm    G   
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     d u d u d u d u d u d u d u d u
 
-Continuous down strums:
+### Continuous down strums:
 
     D     A         Bm    G   
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     d d d d d d d d d d d d d d d d
 
-Conventional strumming pattern:
+### Conventional strumming pattern:
 
     D     A         Bm    G   
     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
     d   d u   u d u d   d u   u d u
-
-## Lyrics w/ chords
-
-Capo 2nd fret
-
-    INTRO
-        e –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
-        B –|––––––––––––––––––––––––––––––––––––––3––3––3––3––|–
-        G –|–––––2––––––––2–––––2–––––––––––––––––0––0––0––0––|–
-        D –|––0–––––––––––2–––––2––––––––4––––––––0––0––0––0––|–  x4
-        A –|–––––––––––0–––––0–––––0––2–––––––––––2––2––2––2––|–
-        E –|––––––––3–––––––––––––––––––––––2––3––3––3––3––3––|–
-              1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
-              D        A              Bm       G
-    VERSE
-        D    A                     Bm   G        D       A    Bm  G
-        ........I'm an old man now... I can't do nothing
-        D    A               Bm   G          D       A    Bm  G
-        ....Young folks don't pay me no mind
-        D   A         Bm     G        D        A    Bm  G
-        ....But in my day I sure was something
-           D      A        Bm    G       D        A    Bm  G
-        Before I felt the heavy hand of time
-
-        (D / A / Bm / G)
-        I'm an old man now... I'm bound for glory
-        Time to lay these burdens down
-        Had enough of this old world of worry
-        Gonna trade my troubles for a crown
-
-        (D / A / Bm / G)
-        I will make my way across the fields of cotton
-        And wade through muddy waters one last time
-            D      A        Bm      G
-        And in my dreams I come out clean
-
-    CHORUS
-            Bm        Bm/A            G     D/F#           Em       G (let ring)
-            ...When I reach the other side, waste away the sunsets
-            (G)                     D
-            ...Where rainbows never die
-
-        [ instrumental verse x4 ]
-
-    BRIDGE
-                A
-                ...I've got on last thing to do
-                G
-                ...One more mile before I'm through
-                A
-                ...Casting off these early chains
-                G                     A
-                ...Going where theres no more pain
-
-        [ instrumental verse ]
-
-        (D / A / Bm / G)
-        I will make my way across the fields of cotton
-        And wade through muddy waters one last time
-        And in my dreams I come out clean
-
-            Bm        Bm/A            G     D/F#           Em       G (let ring)
-            ...When I reach the other side, waste away the sunsets
-            (G)                     D
-            ...Where rainbows never die
-
-        (D / A / Bm / G)
-        I'm an old man now... can't do nothing
-        Young folks don't pay me no mind      (end on D)
-
-## Good luck!
-
-Thanks for reading! I hope this helped you. Questions? Comments? Requests? Let me know!
