@@ -3,7 +3,7 @@ layout: song
 title: 'Major Scale Positions and CAGED Chord Shapes'
 category: tip_technique
 slug: "384"
-tags: [Tips & Techniques, Learning Chords, Music Theory]
+tags: [Tips & Techniques, Learning Chords, Music Theory, Major Scale, CAGED]
 hidden_tags: [practical music theory, theory, CAGED, system, caged system]
 date_published: 2021-09-12
 yt_video_id: mXw1eHcjXnM
