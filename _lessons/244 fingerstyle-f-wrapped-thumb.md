@@ -1,7 +1,7 @@
 ---
 layout: song
 category: tip_technique
-title: Fingerstyle F with wrapped thumb
+title: F Major Chord with Wrapped Left Thumb (for Fingerstyle & Travis Picking)
 slug: "244"
 date_published: 2019-06-21
 tags: [Tips & Techniques, Learning Chords, Fingerstyle, Travis Picking]

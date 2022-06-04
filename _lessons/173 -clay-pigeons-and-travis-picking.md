@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Learning to Travis Pick with "Clay Pigeons"
+title: How I Learned to Travis Pick with "Clay Pigeons"
 slug: "173"
 date_published: 2018-09-13
 category: practice_log

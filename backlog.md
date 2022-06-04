@@ -75,6 +75,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXXX
     Remember Me •               XXXXXXXXX
+    Running Down a Dream        XXXXXXXX
     We Are the Champions •      XXXXXXX
     When the Man Comes Around   XXXXXXXX
 
@@ -84,7 +85,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     7 Years                     XXX
     Let It Go                   XXX
     Light On •                  XXXX
-    Running Down a Dream        XXXXXX
     Say It Ain't So             XXXX
     Surf Rider                  XXXXXX
     Year Clayton Delaney Died   XXX
