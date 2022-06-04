@@ -41,7 +41,12 @@ Video lesson timestamps:
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 <br /><br />
+## Join the Discussion on My Patreon Page
 
+Members of the Song Notes community are discussing this lesson over on the Patreon post I made for it — if you're a member, **[join the discussion here]({{page.patreon_lesson_url}})**! You can also find handy links to the various Patreon posts I mention in the lesson, each of which has the instructional PDF available for download. Curious about Song Notes membership on Patreon? [Learn more »](/join)
+
+
+<br /><br />
 ## Listen to John Prine Play This Song
 
 ### Album Recording
