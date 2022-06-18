@@ -4,7 +4,7 @@ title: '"Stand By Me" by Ben E. King'
 song_title: "Stand By Me"
 artist: Ben E. King
 year: 1961
-tags: [Full Song Lesson, Key of C, 1960s, Classic Rock]
+tags: [Full Song Lesson, Key of C, 1960s, Classic Rock, Soul]
 category: full_song
 slug: "308"
 difficulty: beginner
