@@ -4,7 +4,7 @@ title: '"Sittin'' on the Dock of the Bay" by Otis Redding'
 song_title: "Sittin' on the Dock of the Bay"
 artist: Otis Redding
 year: 1968
-tags: [Full Song Lesson, Key of G, 1960s, Classic Rock, Soul]
+tags: [Full Song Lesson, Key of G, 1960s, Classic Rock, Soul, Backing Track]
 category: full_song
 yt_video_id: 8wNtIZ-N1Aw
 slug: "440"
