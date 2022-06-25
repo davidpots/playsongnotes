@@ -41,7 +41,7 @@ What I cover in this full-song lesson:
 
 Here's a [members-only video](https://www.patreon.com/posts/65504354) showing two full play-throughs of this song, so you can see how it looks & sounds when I put it all together. In the first playthrough (1:04), I'll display the lyrics and chords, while singing along for context. In the second playthrough (4:39), I'll play at a slower tempo without any singing, showing the tabs for each section as I play.
 
-Note, Patreon membership is required to view this video. [Learn more](/join) about supporting me through direct membership – it's just a few bucks a month (or pledge annually). In return, you get access to my library of instructional PDFs, save 50% when buying my song sheets, and more. It's also the best way to support me & these lessons.
+Note, Patreon membership is required to view this video. [Learn more](/join) about supporting me through direct membership – it's just a few bucks a month (or pledge annually). In return, you get access to my library of instructional PDFs, save 50% when buying my song sheets, and more. It's also the best way to support me & these lessons. Thanks you!
 
 <br /><br />
 ## Related Lessons

@@ -1,7 +1,7 @@
 ---
 layout: song
 category: tip_technique
-title: An easier way to play F#m (no barre chord)
+title: How to play F#m without barring (for fingerstyle)
 slug: "241"
 date_published: 2019-06-04
 tags: [Tips & Techniques, Learning Chords, Barre Chord Basics, Fingerstyle]

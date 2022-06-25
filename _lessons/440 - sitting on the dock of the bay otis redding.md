@@ -49,9 +49,9 @@ Members of the Song Notes community are discussing this lesson over on the Patre
 
 I made a simple drum backing track for you to use while playing this song. It's available for you to download over on **[my Patreon post for this song]({{page.patreon_lesson_url}})** (look for the attachment at the very bottom of the post). I made two separate backing tracks:
 
-1. One is at 104 beats per minute, which is the tempo heard in Otis Redding's album recording of this song. If you want to play at the exact same speed as him, use this one. This is what's heard in my play-alon cover at the end of my video lesson.
+1. One is at 104 beats per minute, which is the tempo heard in Otis Redding's album recording of this song. If you want to play at the exact same speed as him, use this one. This is what's heard in my play-along cover at the end of my video lesson.
 
-2. The other is slightly slower, paced at 96 beats per minute. If you find Redding's version moves to fast for you, I recommend this track as it'll give you a bit more time to make the chord changes (etc). Once you're comfortable with with this tempo, I'd encourage you to try using the 104bpm track.
+2. The other is slightly slower, paced at 96 beats per minute. If you find Redding's version moves too fast for you, I recommend this track as it'll give you a bit more time to make the chord changes (etc). Once you're comfortable with with this tempo, I'd encourage you to try using the 104bpm track.
 
 <br /><br />
 ## Listen to Otis Redding's Recording
@@ -70,5 +70,5 @@ Here's instructional lessons I've made teaching concepts that are useful in this
 {% include related-lesson-module.html slug = '354' %} <!-- Walk-ups, Walk-downs, and the fretboard -->
 {% include related-lesson-module.html slug = '361' %} <!-- Adding Grit with Flat 3rds and Flat 7ths -->
 {% include related-lesson-module.html slug = '371' %} <!-- Bass note strumming -->
-{% include related-lesson-module.html slug = '83' %} <!-- G with 2 Fingers -->
+{% include related-lesson-module.html slug = '83' %}  <!-- G with 2 Fingers -->
 {% include related-lesson-module.html slug = '392' %} <!-- F-major -->

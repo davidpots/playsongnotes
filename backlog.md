@@ -65,7 +65,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
     Always Remember Us This Way XXXXXXXXXXXX
@@ -75,9 +75,9 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     My Fav. Picture of You      XXXXXXXX
     My Old Kentucky Home        XXXXXXXXXX
     Remember Me •               XXXXXXXXX
-    Running Down a Dream        XXXXXXXXX
-    We Are the Champions •      XXXXXXXX
-    When the Man Comes Around   XXXXXXXX
+    Running Down a Dream        XXXXXXXXXX
+    We Are the Champions •      XXXXXXXXX
+    When the Man Comes Around   XXXXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
@@ -103,7 +103,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     I'm a Lonesome Fugitive     X
     Jenny of Oldstones          X
     Let It Go                   X
-    Manhattan Island Serenade   X
+    Manhattan Island Serenade   XX
     Margaritaville              X
     Peace of Mind               X
     Reindeers Better thn People X

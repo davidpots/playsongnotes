@@ -1,0 +1,11 @@
+{% assign lesson = site.lessons | where: 'slug', include.slug %}
+
+<h3>🎸 {{ lesson[0].title }}</h3>
+
+{% if lesson[0].musicnotes_url %}
+<p>Lesson #{{ lesson[0].slug }}. <a href="{{lesson[0].url}}">View full lesson notes</a> or <a href="{{lesson[0].musicnotes_url}}">get the print-friendly song sheet »</a></p>
+{% else %}
+<p>Lesson #{{ lesson[0].slug }}. <a href="{{lesson[0].url}}">View full lesson notes »</a></p>
+{% endif %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{lesson[0].yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
