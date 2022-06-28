@@ -96,7 +96,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
     About a Girl                XX
     Acid Tongue                 XX
-    Apple Blossom               X
+    Apple Blossom               XX
     High and Dry                XX
     Honky Tonk Heroes           XX
     How Far I'll Go             X

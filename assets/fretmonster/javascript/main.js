@@ -35,6 +35,16 @@
                                                        5 : 9,  // G string
                                                        6 : 2   // D string (low)
                                                      } },
+                       'cbg4-openG'   : { 'name'         : 'cigar box guitar (4 string, open G)',
+                                    'numStrings'   : 4,
+                                    'fretsToLabel' : [1,3,5,7,9,12,15],
+                                    'stringLabels' : ['B','G','D','G'],
+                                    'stringDiff'   : {
+                                                        1 : 5,  // B string
+                                                        2 : 9,  // G string
+                                                        3 : 2,  // D string
+                                                        4 : 9   // G string
+                                                  } },
                        'bass'   : { 'name'         : 'bass',
                                     'numStrings'   : 4,
                                     'fretsToLabel' : [1,3,5,7,9,12,15],
