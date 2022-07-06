@@ -24,8 +24,6 @@ patreon_lesson_url: https://www.patreon.com/posts/68739556
 
 Here's a quick bonus video, where I take the lead fills from my free video and tackle them on my electric guitar. I also show the process of transposing those same riffs up an octave (out of open position), which is a handy skill that's worth learning. The tabs for this are included in my print-friendly PDF above.
 
-<iframe src="https://player.vimeo.com/video/727397090?h=e34fe6a053&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="#443 - Lead Guitar Study"></iframe>
-
 <iframe src="https://player.vimeo.com/video/727397090?h=e34fe6a053&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="#443 - Lead Guitar Study"></iframe>
 
 ## Jam Track
