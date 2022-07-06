@@ -560,15 +560,15 @@ iframe {
 }
 .pdf_module_v2__image {
   float: left;
-  width: 200px;
-  height: 262px;
+  width: 158px;
+  height: 208px;
   background-repeat: no-repeat;
   background-size: contain;
   box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
 }
 .pdf_module_v2__content {
   float: right;
-  width: calc(100% - 200px - 24px);
+  width: calc(100% - 158px - 24px);
 }
 .pdf_module_v2--no-thumbnail .pdf_module_v2__headline,
 .pdf_module_v2--no-thumbnail .pdf_module_v2__content {
@@ -577,8 +577,8 @@ iframe {
 }
 .pdf_module_v2__headline {
   float: right;
-  width: calc(100% - 200px - 24px);
-  font-size: 21px;
+  width: calc(100% - 158px - 24px);
+  font-size: 18px;
   margin-top: 0;
   span {
     font-size: 14px;

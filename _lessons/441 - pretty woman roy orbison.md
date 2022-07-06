@@ -17,7 +17,9 @@ patreon_lesson_url: https://www.patreon.com/posts/68235341
 
 <!-- https://youtu.be/GURF7pH6eRc -->
 
-Hey, friends! New lesson today for Roy Orbison's 1964 classic _**Oh, Pretty Woman**_. This song is tremendously fun to play, featuring an all-timer guitar riff that's integrated quite seamlessly with the intro, verse, and chorus of the song. With a solo acoustic guitar, I'll teach you to play it all: the riff, the strumming, and everything in between. It took me a few days of serious practice before I could sing + strum + play the riff all without missing a step, but I finally able to get there — and I'm excited to show you the way. Let's check it out!
+<p class="large">Hey, friends! New lesson today for Roy Orbison's 1964 classic <strong><em>Oh, Pretty Woman</em></strong>. This song is tremendously fun to play, featuring an all-timer guitar riff that's integrated quite seamlessly with the intro, verse, and chorus of the song. With a solo acoustic guitar, I'll teach you to play it all: the riff, the strumming, and everything in between. It took me a few days of serious practice before I could sing + strum + play the riff all without missing a step, but I finally able to get there — and I'm excited to show you the way. Let's check it out!</p>
+
+## Free Video Lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -32,7 +34,6 @@ Hey, friends! New lesson today for Roy Orbison's 1964 classic _**Oh, Pretty Woma
 - 12:26 Ending
 - 14:22 Strumming -->
 
-<br /><br />
 ## Slow Playthrough
 
 If you'd like to see a slowed-down version of this song, check out this additional video. I play the entire song (ending included) at 100 beats per minute, which is quite a bit slower than Roy Orbison's 127bpm. I also use simple strumming pattern (down strums on the 1 and 3 counts only), and the simplified version of the riff (no pinky used). After the playthrough, I'll also give some general performance tips & advice not included in my full-song lesson above. I hope you find this helpful!
@@ -49,7 +50,6 @@ _Note, Patreon membership is required to view this video. [Learn more](/join) ab
 - 0:59 Slow Playthrough (100 bpm)
 - 4:35 Add'l Practice Tips & Advice -->
 
-<br /><br />
 ## Backing Track Available
 
 I made a drum backing track for you to use while playing this song (or, when practicing just the riff). The track is a relatively simple drum beat matching what you hear on Orbison's recording. This particular drum beat is very quarter-note heavy (e.g. ONE-TWO-THREE-FOUR), repeating for ~5 minutes or so. The idea is you can practice the main riff, or strumming the full song, while this track is helping you keep time. I made two separate backing tracks:
@@ -76,7 +76,6 @@ Your browser does not support the audio element.
 
 If you'd like to download the track, the source files (mp3) are available over on **[my Patreon post for this song]({{page.patreon_lesson_url}})** (look for the attachment at the very bottom of the post).
 
-<br /><br />
 ## Listen to Roy Orbison's Album Recording
 
 Played at 127 beats per minute. Key of A, standard tuning.
@@ -85,7 +84,6 @@ Played at 127 beats per minute. Key of A, standard tuning.
 
 <!-- https://www.youtube.com/watch?v=rTVjnBo96Ug -->
 
-<br /><br />
 ## Additional Lessons To Help With This Song
 
 Here's instructional lessons I've made teaching concepts that are useful in this song.

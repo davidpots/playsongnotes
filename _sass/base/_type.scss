@@ -11,8 +11,8 @@
 
         $font-size--xxxlarge:     2.5rem;
         $font-size--xxlarge:      2rem;
-        $font-size--xlarge:       1.5rem;
-        $font-size--large:        1.25rem;
+        $font-size--xlarge:       1.25rem;
+        $font-size--large:        1.15rem;
         $font-size--normal:       1rem;
         $font-size--small:        .875rem;
         $font-size--xsmall:       .750rem;
@@ -71,6 +71,13 @@
 
         h2, .h2 {
           font-size: $font-size--xlarge;
+          margin-top: 48px;
+          span {
+            font-weight: normal;
+            color: $gray-light;
+            font-size: $font-size--normal;
+            padding-left: 4px;
+          }
         }
 
         h3, .h3 {

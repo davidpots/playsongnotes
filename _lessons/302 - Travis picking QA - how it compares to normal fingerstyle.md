@@ -14,15 +14,15 @@ free_pdf_available: true
 free_pdf_url: https://songnotes.ck.page/f05c04ec34
 ---
 
+<p class="large">Hey friends! Answering a listener question today from my Patreon page. The topic is Travis picking, and what makes it different from traditional fingerstyle guitar. I'll explain the absolute basics of Travis picking, show how they're different than "normal" fingerpicking, and we'll look at one tab (the intro to Fleetwood Mac's Landslide) which can be played using either style.</p>
+
 ## Video lesson
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/IzI9S0obKlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzI9S0obKlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## Editor's notes
-
-Hey friends! Answering a listener question today from Patreon. The topic is Travis picking, and what makes it different from traditional fingerstyle guitar. I'll explain the absolute basics of Travis picking, show how they're different than "normal" fingerpicking, and we'll look at one tab (the intro to Fleetwood Mac's Landslide) which can be played using either style.
+## Additional Notes
 
 On the topic of Landslide in particular, this is a song I originally learned using "normal" fingerpicking, where each of my right-hand fingers was "assigned" to a string (e.g., thumb only played the 5th string for the C, G/B, and Am chords). In recent years I learned of the Travis Picking technique, where the thumb alternates between the 5th and 4th string on those same chords (for this particular riff) -- and I find it's a helpful example to look at when describing these techniques.
 

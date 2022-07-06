@@ -6,8 +6,8 @@
 
 {% if include.pdf_version == "v2" and include.free_pdf_available == true %}
 
+  <h2>Print-Friendly PDF <span class="small">{{pdf_numpages_string}}</span></h2>
   <div class="pdf_module_v2">
-    <h3 class="pdf_module_v2__headline">Get the free PDF<span>({{pdf_numpages_string}})</span></h3>
     <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div>
     <div class="pdf_module_v2__content">
       <ul class="pdf_module_v2__list">
@@ -23,8 +23,8 @@
 
 {% elsif include.pdf_version == "v2" or include.pdf_version == "v1" %}
 
+  <h2>Print-Friendly PDF <span class="small">{{pdf_numpages_string}}</span></h2>
   <div class="pdf_module_v2">
-    <h3 class="pdf_module_v2__headline">Get the educational PDF<span>({{pdf_numpages_string}})</span></h3>
     <a target="_blank" href="{{include.patreon_url}}"><div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div></a>
     <div class="pdf_module_v2__content">
       <ul class="pdf_module_v2__list">
@@ -41,13 +41,13 @@
 
 {% elsif include.pdf_version == "copyright" %}
 
+<h2>Print-Friendly Song Sheet <span class="small">{{pdf_numpages_string}}</span></h2>
 <div class="pdf_module_v2 pdf_module_v2--song">
-
   <h3 class="pdf_module_v2__headline">Sheet music for this song will be returning shortly!</h3>
   <div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div>
   <div class="pdf_module_v2__content">
     <ul class="pdf_module_v2__list">
-      <li>The sheet music for this song is <em>temporarily</em> unavailable while I move it over to Musicnotes.com, a sheet music service that is providing licensing for my "song" arrangements.</li>
+      <li>For copyright reasons, my printable song sheet is <em>temporarily</em> unavailable while I move it over to Musicnotes.com, a sheet music service that is providing licensing for my song arrangements.</li>
       <li>Want me to priortize this song, so the sheet music is ready sooner? Click the button below and let me know – this helps me know which songs to work on next!</li>
     </ul>
     <a class="pdf_module_v2__button" target="_blank" href="mailto:play.songnotes@gmail.com?subject=Sheet music prioritzation request: {{include.song_name}}"><strong>Request This Song</strong></a>
@@ -57,8 +57,8 @@
 
 {% elsif include.pdf_version == "musicnotes" %}
 
+  <h2>Print-Friendly Song Sheet <span class="small">{{pdf_numpages_string}}</span></h2>
   <div class="pdf_module_v2 pdf_module_v2--song">
-    <h3 class="pdf_module_v2__headline">Get the sheet music<span>({{pdf_numpages_string}})</span></h3>
     <a target="_blank" href="{{include.musicnotes_url}}"><div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div></a>
     <div class="pdf_module_v2__content">
       <ul class="pdf_module_v2__list">
