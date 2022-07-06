@@ -4,13 +4,15 @@ title: Song Notes Membership - PDF Guides, 50% Discount on Song Sheets, and more
 permalink: /join
 ---
 
-  <h4 style="font-size: 32px; margin-bottom: 32px;" class="center strong">Song Notes Membership</h4>
+  <h4 style="font-size: 32px; margin-bottom: 16px;" class="center strong">Song Notes Membership</h4>
   <ul class="tabs-2022">
     <li><a class="tabs-2022--active" href="/join">Become a Member</a></li>
     <li><a href="/members">Existing Members</a></li>
   </ul>
 
-<iframe width="960" height="540" src="https://www.youtube.com/embed/n978bAUGbSU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n978bAUGbSU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!-- https://youtu.be/n978bAUGbSU -->
 

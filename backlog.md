@@ -85,6 +85,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     7 Years                     XXX
     Audition (Fools Who Dream)  XXX
     Gone Till November          XXX
+    Honky Tonk Heroes           XXX
     Let It Go                   XXX
     Light On •                  XXXX
     Manhattan Island Serenade   XXX
@@ -100,7 +101,6 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Angel Flight                X
     Apple Blossom               XX
     High and Dry                XX
-    Honky Tonk Heroes           XX
     How Far I'll Go             X
     I'm a Lonesome Fugitive     X
     Jenny of Oldstones          X

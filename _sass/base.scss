@@ -15,8 +15,10 @@
 
 // Header styling
 
-    .header {
-      font-family: $font-family--narrow;
+    .header { }
+    .header-top {
+      height: 60px;
+      background: $nav-bg-blue;
     }
 
     @media only screen and (max-width: 750px) {
@@ -26,8 +28,6 @@
           margin: 0 0 12px 0;
         }
         .header-top {
-          height: 60px;
-          background: #000;
         }
         .header-bottom {
           display: none;
@@ -35,11 +35,13 @@
           border-bottom: 1px solid #ddd;
         }
         .header-logo {
-          width: 160px;
-          height: 38px;
-          padding: 12px 0 10px;
+          padding: 6px 0 10px;
           display: block;
           float: left;
+          img {
+            width: 248px;
+            height: 49px;
+          }
         }
         .header-nav-expand {
           background: url(/images/icons/menu.svg) 12px center no-repeat;
@@ -160,7 +162,6 @@
 
         .header-top {
           height: 60px;
-          background: #000;
         }
         .header-bottom {
           min-height: 60px;
@@ -169,10 +170,10 @@
         }
         /* -- */
         .header-logo {
-          width: 306px;
-          height: 27px;
+          width: 339px;
+          height: 51px;
           display: block;
-          padding: 18px 0 15px;
+          padding: 5px 0 15px;
           float: left;
         }
         /* -- */
@@ -188,7 +189,7 @@
           border-radius: 4px;
           width: 210px;
           color: #ddd;
-          background: #333 url(/images/icons/search.svg) 8px center no-repeat;
+          background: $nav-bg-blue-semidark url(/images/icons/search.svg) 8px center no-repeat;
         }
         #header-search-input:focus {
           border: none;
