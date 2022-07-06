@@ -26,6 +26,8 @@ Here's a quick bonus video, where I take the lead fills from my free video and t
 
 <iframe src="https://player.vimeo.com/video/727397090?h=e34fe6a053&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="#443 - Lead Guitar Study"></iframe>
 
+<iframe src="https://player.vimeo.com/video/727397090?h=e34fe6a053&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="#443 - Lead Guitar Study"></iframe>
+
 ## Jam Track
 
 If you want to play along with a drum track, as I show in my video lesson, you can use this audio file. It loops over a 4-count drumming pattern. Simply press play and jump in at any time... see my video lesson for an example!
