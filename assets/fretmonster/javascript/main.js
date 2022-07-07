@@ -13,7 +13,7 @@
                                                       } },
                        'guitar-openD' : { 'name'   : 'guitar - open D',
                                     'numStrings'   : 6,
-                                    'fretsToLabel' : [1,3,5,7,9,12,15],
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
                                     'stringLabels' : ['d','A','F#','D','A','D'],
                                     'stringDiff'   : {
                                                         1 : 2,  // D string (high)
@@ -25,7 +25,7 @@
                                                       } },
                       'guitar-openG' : { 'name'   : 'guitar - open G',
                                    'numStrings'   : 6,
-                                   'fretsToLabel' : [1,3,5,7,9,12,15],
+                                   'fretsToLabel' : [0,1,3,5,7,9,12,15],
                                    'stringLabels' : ['d','B','G','D','G','D'],
                                    'stringDiff'   : {
                                                        1 : 2,  // D string (high)
@@ -37,7 +37,7 @@
                                                      } },
                        'cbg4-openG'   : { 'name'         : 'cigar box guitar (4 string, open G)',
                                     'numStrings'   : 4,
-                                    'fretsToLabel' : [1,3,5,7,9,12,15],
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
                                     'stringLabels' : ['B','G','D','G'],
                                     'stringDiff'   : {
                                                         1 : 5,  // B string
@@ -47,7 +47,7 @@
                                                   } },
                        'bass'   : { 'name'         : 'bass',
                                     'numStrings'   : 4,
-                                    'fretsToLabel' : [1,3,5,7,9,12,15],
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
                                     'stringLabels' : ['G','D','A','E'],
                                     'stringDiff'   : {
                                                         1 : 9,  // G string
@@ -57,7 +57,7 @@
                                                       } },
                        'mandolin'   : { 'name'         : 'mandolin',
                                     'numStrings'   : 4,
-                                    'fretsToLabel' : [1,3,5,7,9,12,15],
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
                                     'stringLabels' : ['E','A','D','G'],
                                     'stringDiff'   : {
                                                         1 : 0,  // E string
@@ -67,7 +67,7 @@
                                                       } },
                        'ukulele' : { 'name'         : 'ukulele',
                                      'numStrings'   : 4,
-                                     'fretsToLabel' : [1,3,5,7,10,12,15],
+                                     'fretsToLabel' : [0,1,3,5,7,10,12,15],
                                      'stringLabels' : ['A','E','C','G'],
                                      'stringDiff'   : {
                                                         1 : 7,  // A string
