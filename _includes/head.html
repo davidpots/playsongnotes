@@ -46,6 +46,8 @@
       });
 
 
+      // NAVIGATION DROPDOWN INTERACTION
+
       $('.has-subnav').click(function(){
 
         // close any other subnavs
@@ -65,6 +67,13 @@
           $(this).next('.header-nav-links--subnav').hide();
           $(this).removeClass('has-subnav--open').addClass('has-subnav--closed');
           return false;
+        }
+      });
+
+      $('body').click(function(){
+        if ( $('.has-subnav').hasClass('has-subnav--open') ) {
+          $ ('.header-nav-links--subnav').hide();
+          $('.has-subnav').removeClass('has-subnav--open').addClass('has-subnav--closed');
         }
       });
 
