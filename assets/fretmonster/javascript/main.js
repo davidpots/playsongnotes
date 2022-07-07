@@ -1,7 +1,7 @@
   var instruments = {
                        'guitar' : { 'name'         : 'guitar',
                                     'numStrings'   : 6,
-                                    'fretsToLabel' : [1,3,5,7,9,12,15],
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
                                     'stringLabels' : ['e','B','G','D','A','E'],
                                     'stringDiff'   : {
                                                         1 : 0,  // E string (high)
@@ -228,7 +228,21 @@ function generateFretboard() {
   }
   $('.fretboard .legend').find('.fret').each(function(fretNum,fretObj){
     $(fretObj).hide();
-    $(fretObj).addClass('fret--fretNum').attr('data-fret-num',fretNum).text(fretNum);
+    if ( fretNum == 0 ) {
+      $(fretObj).addClass('fret--fretNum').attr('data-fret-num',fretNum).html('<span class="fretMonster_fret_open">OPEN STRING</span>');
+    } else {
+      if ( fretNum == 1 ) {
+        var fretNumSuffix = "st";
+      }
+      if ( fretNum == 3 ) {
+        var fretNumSuffix = "rd";
+      }
+      if ( fretNum == 5 || fretNum == 7 || fretNum == 9 || fretNum == 10 || fretNum == 12 || fretNum == 15 ) {
+        var fretNumSuffix = "th";
+      }
+      $(fretObj).addClass('fret--fretNum').attr('data-fret-num',fretNum).html(fretNum + '<sup>' + fretNumSuffix + '</sup>');
+    }
+
   });
   $('.fret_marker').empty();
   var showFrets = currentInstrument.fretsToLabel;

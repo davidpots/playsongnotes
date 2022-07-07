@@ -1,0 +1,31 @@
+.fretMonster_picker {
+  .fretMonster_picker__label {
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+  }
+  a {
+    padding: 6px 10px;
+    background: $fretMonsterPill;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-bottom: 4px;
+    &:hover {
+      background-color: #DDF0FD;
+    }
+    &.active,
+    &.active--toggle {
+      background-color: $fretMonsterPillBG;
+    }
+  }
+}
+
+.fretMonster_fret_open {
+  display: block;
+  font-size: 8px;
+  position: relative;
+  bottom: 4px;
+}

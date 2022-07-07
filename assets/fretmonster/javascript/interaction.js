@@ -13,55 +13,50 @@ $(document).ready(function(){
     $('.js-overlay.fixed').hide();
   });
 
-  // to launch scale picker overlay
-  $('.js-summonScalePicker').click(function(){
-    $('.js-scalePicker').fadeIn('fast');
-    return false;
-  });
+  // Removed when I added inline scale selection - July 7 2022
+  //
+  // // to launch scale picker overlay
+  // $('.js-summonScalePicker').click(function(){
+  //   $('.js-scalePicker').fadeIn('fast');
+  //   return false;
+  // });
+  //
+  // // to launch scale picker overlay
+  // $('.js-summonKeyPicker').click(function(){
+  //   $('.js-keyPicker').fadeIn('fast');
+  //   return false;
+  // });
 
-  // to launch scale picker overlay
-  $('.js-summonKeyPicker').click(function(){
-    $('.js-keyPicker').fadeIn('fast');
-    return false;
-  });
-
-  $('.keyChangeFwd').click(function(){
-    if ( $('.js-keySelector .active').attr('data-key-name') == "G#" ) {
-      $('.js-keySelector li a[data-key-name="A"]').trigger('click');
-    } else {
-      $('.js-keySelector .active').parent('li').next('li').find('a').trigger('click');
-    }
-    return false;
-  });
-
-  $('.keyChangePrev').click(function(){
-    if ( $('.js-keySelector .active').attr('data-key-name') == "A" ) {
-      $('.js-keySelector li a[data-key-name="G#"]').trigger('click');
-    } else {
-      $('.js-keySelector .active').parent('li').prev('li').find('a').trigger('click');
-    }
-    return false;
-  });
 
   $(window).bind('keydown', function(e){
     if(e.which == 39) {
       // right
-      $('.keyChangeFwd').trigger('click');
+      if ( $('.js-keySelector .active').attr('data-key-name') == "G#" ) {
+        $('.js-keySelector a[data-key-name="A"]').trigger('click');
+      } else {
+        // $('.js-keySelector .active').parent('li').next('li').find('a').trigger('click');
+        $('.js-keySelector .active').next('a').trigger('click');
+      }
       return false;
     }
     if(e.which == 37) {
       // left
-      $('.keyChangePrev').trigger('click');
+      if ( $('.js-keySelector .active').attr('data-key-name') == "A" ) {
+        $('.js-keySelector a[data-key-name="G#"]').trigger('click');
+      } else {
+        // $('.js-keySelector .active').parent('li').prev('li').find('a').trigger('click');
+        $('.js-keySelector .active').prev('a').trigger('click');
+      }
       return false;
     }
     if(e.which == 221) {
       // right
-      $('.js-scaleSelector .active').parent('li').next('li').find('a').trigger('click');
+      $('.js-scaleSelector .active').next('a').trigger('click');
       return false;
     }
     if(e.which == 219) {
       // left
-      $('.js-scaleSelector .active').parent('li').prev('li').find('a').trigger('click');
+      $('.js-scaleSelector .active').prev('a').trigger('click');
       return false;
     }
   });
@@ -86,7 +81,7 @@ $(window).on('load', function(){
                 showingNoLabel = false;
                 $('.showIntervals').removeClass('active--toggle');
                 $('.showNoLabel').removeClass('active--toggle');
-                $(this).toggleClass('active--toggle');
+                $(this).addClass('active--toggle');
                 return false;
               });
 
@@ -101,7 +96,7 @@ $(window).on('load', function(){
                 showingNoLabel = false;
                 $('.showNotes').removeClass('active--toggle');
                 $('.showNoLabel').removeClass('active--toggle');
-                $(this).toggleClass('active--toggle');
+                $(this).addClass('active--toggle');
                 return false;
               });
 
@@ -116,7 +111,7 @@ $(window).on('load', function(){
                 showingNoLabel = true;
                 $('.showNotes').removeClass('active--toggle');
                 $('.showIntervals').removeClass('active--toggle');
-                $(this).toggleClass('active--toggle');
+                $(this).addClass('active--toggle');
                 return false;
               });
 
@@ -190,8 +185,8 @@ $(window).on('load', function(){
                         addTonesToFretboard();
 
                         // Put into function
-                        $('.js-summonKeyPicker').text(newKey);
-                        $(this).closest('.js-overlay').hide();
+                        // $('.js-summonKeyPicker').text(newKey);
+                        // $(this).closest('.js-overlay').hide();
 
                         // if ( highlightingNone == true ) {
                         //   $('.highlightNone').toggle('click');
@@ -220,9 +215,8 @@ $(window).on('load', function(){
                             }
 
                         // Put into function
-
-                        $('.js-summonScalePicker').text(scales[newScale].name);
-                        $(this).closest('.js-overlay').hide();
+                        // $('.js-summonScalePicker').text(scales[newScale].name);
+                        // $(this).closest('.js-overlay').hide();
                         return false;
                       })
 

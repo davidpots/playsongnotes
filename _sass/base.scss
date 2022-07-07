@@ -10,12 +10,35 @@
   "base/spacing",
   "base/grid",
   "base/tiles",
+  "base/fretMonster",
   "base/pdfbadge"
 ;
 
 // Header styling
 
-    .header { }
+    // Sticky header via https://css-tricks.com/fixed-headers-on-page-links-and-overlapping-content-oh-my/
+
+    $top-spacing-desktop: 121px;
+    $top-spacing-mobile: 61px;
+
+    @media only screen and (max-width: 750px) {
+      html { scroll-padding-top: $top-spacing-mobile; }
+      body { margin-top: $top-spacing-mobile; }
+    }
+    @media only screen and (min-width: 751px) {
+      html { scroll-padding-top: $top-spacing-desktop; }
+      body { margin-top: $top-spacing-desktop; }
+    }
+
+    .header {
+      position: fixed;
+      width: 100%;
+      top: 0;
+      z-index: 99;
+    }
+
+    /* ---- */
+
     .header-top {
       height: 60px;
       background: $nav-bg-blue;
@@ -229,8 +252,13 @@
           line-height: 62px;
           text-decoration: none;
           color: #000;
-          font-size: 16px;
+          font-size: 13px;
+          text-transform: uppercase;
           font-weight: 700;
+          &:hover {
+            color: $color-link;
+            text-decoration: underline;
+          }
         }
         /*----*/
         .header-nav-links > li > a.has-subnav--open {
