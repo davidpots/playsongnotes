@@ -18,15 +18,15 @@ pdf_version: musicnotes
 pdf_numpages: 4
 ---
 
-## Video lesson
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXrNumLcMGY?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-## Editor's notes
+## Editor's Notes
 
 In this lesson I'll teach you how to play "Give My Love to Rose" by Johnny Cash. Originally written in the 1950s, it was Cash's 2003 recording of this which really caught my ear and wouldn't let go. I'll teach you to play it 100% like him: the chords, the walk ups, the walk downs, the strumming, and of course the lyrics. Check it out!
+
+## Free Video lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Johnny Cash's versions
 
@@ -214,7 +214,3 @@ If this is the first Johnny Cash song you're learning, you should get familiar w
     D-|-----1--1----1--1-----1--1----1--1---
     A-|--2----------x--x---2---------x--x---
     E-|-----------2----------------2--------
-
-## Good luck!
-
-I hope this lesson is helpful to you. If you have any questions or requests, let me know!

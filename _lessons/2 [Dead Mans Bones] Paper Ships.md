@@ -1,9 +1,9 @@
 ---
 layout: song
 
-title: '"Paper Ships" by Dead Mans Bones'
+title: '"Paper Ships" by Dead Man''s Bones'
 song_title:  Paper Ships
-artist: Dead Mans Bones
+artist: Dead Man's Bones
 year: 2009
 date_published: 2013-11-10
 category: full_song
@@ -15,15 +15,15 @@ redirect_from:
   - /songs/x-dead-mans-bones-paper-ships/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GAHHEbVKcHs?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's a guitar lesson teaching you how to play _Paper Ships_ by Dead Man's Bones. I'll walk you through the chord shapes, progression, and strumming needed to play all sections of the song. A great song from an amazing album — one I listen to every single October. Good luck with it!
 
+## Free Video Lesson
 
-
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
 
 ## Chords w/ lyrics
 
@@ -157,6 +157,12 @@ Similar to above, there is a little trick you can use here that makes the Cm to 
     | Cm . . . | G . . . | Em . . . | C . . . |
     | Cm . . . | G . . . |
 
-## Good luck!
+## Other Favorite Dead Man's Bones Videos
 
-Thanks for reading! I hope this helped you.
+_In the Room Where You Sleep_ — single take, one room performance with the kids choir all in costume. The album version of this song is well done, but the feeling of this live one just can't be beat.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IRFeUc2KnBY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+_Name in Stone_  - my favorite of all their songs. Another single take recording from a LA Cemetery. Haunting and strangely celebratory, as many of their songs are. I love it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5W9TJ2JUW9c?showinfo=0" frameborder="0" allowfullscreen></iframe>

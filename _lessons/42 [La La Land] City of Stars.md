@@ -21,22 +21,24 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/48736684
 ---
 
-## Video lesson
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/caBDotrfiLc?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-## Editor's notes
+## Editor's Notes
 
 Welcome to my guitar lesson for an acoustic version of "City of Stars," specifically the duet version that is the 9th track of the La La Land soundtrack. This lesson will show you a relatively "strum-along" version of the song, which uses some strumming and some fingerpicking. Some important notes:
 
 - Capo on the 3rd fret. I'm doing this so you don't need to use crazy barre chords, which are much harder to play. If you don't have a capo, you can use the notes/tabs/chords I'm showing you, but you won't be able to play along with my video (or the soundtrack) and be in the same key.
 - This isn't meant to be a super-precise recreation of the piano version, note-for-note. There's a lot of subtlety and complexity to the piano soundtrack version, and this arrangement most certainly does not intend to capture all the intricacies. My lesson will, however, get to the spirit of things.
 
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
+
 ## Full play-along cover
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tNWUK3lh7yE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'tNWUK3lh7yE' %}
+
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
 
 ## Chords needed
 
@@ -148,57 +150,3 @@ I fingerpick the second line of each verse with this riff. It's similar to the B
     A –––––––––––––––––––––––|–––––––––––––––––––––––
     E –––––––––––––––––––––––|–––––––––––––––––––––––
          D                       D
-
-## Lyrics with chords
-
-    INTRO
-
-    Em
-
-    VERSE 1
-
-    Em             A7                         Bm7
-    City of stars.... are you shining just for me?
-    Em             A7                            D
-    City of stars... there's so much that I can't see
-        Em      A7                           D        Dmaj7      D7
-    Who knows? ...I felt it from the first embrace I shared with you
-         Em      F#7                            Bm      Bm/A
-    That now our dreams... they've finally come true
-
-    VERSE 2
-
-    Em             A7                         Bm7
-    City of stars... just one thing everybody wants
-    Em               A7                                     D           (Dmaj7)
-    There in the bars... and through the smokescreen of the crowded restaurants
-         Em    A7                                D         Dmaj7   D7
-    It's love..... yes, all we're looking for is love from someone else
-      Em                F#7
-    A rush, a glance, a touch, a dance
-
-    CHORUS
-
-      G                  A                     F#7
-    A look in somebody's eyes, to light up the skies
-                Bm7
-    To open the world and send it reeling
-      G                        A                      Bm7
-    A voice that says, I'll be here, and you'll be alright
-    G                 A                       F#7
-    I don't care if I know, just where I will go
-                      Bm7
-    'Cause all that I need is this crazy feeling
-      G                 F#7                           Bm       Bm/A
-    A rat-tat-tat on my heart... I think I want it to stay
-
-    FINAL VERSE
-
-    Em            A7                         Bm7
-    City of stars... are you shining just for me?
-    Em            F#7                          Bm
-    City of stars... you never shined so brightly
-
-## Good luck!
-
-Thanks for reading! I hope this helped you.

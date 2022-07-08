@@ -21,7 +21,7 @@ patreon_lesson_url: https://www.patreon.com/posts/printable-lesson-23379862
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwKxgI-6q-g?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -33,7 +33,7 @@ I've had a blast learning this classic holiday tune, "Please Come Home for Chris
 
 You can currently find the backing track here. Note, this is only the first verse - looping over and over. The idea is to let you practice your chords, strumming, etc - with a steady background track to have on for reference.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWMQ7XGOBk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+{% include youtube_embed.html yt_id = 'omWMQ7XGOBk' %}
 
 <!--
 <audio controls src="/audio/song-eagles-please-come-home-for-xmas-temp-backing-track.mp3">Your browser does not support the <code>audio</code> element.</audio> -->

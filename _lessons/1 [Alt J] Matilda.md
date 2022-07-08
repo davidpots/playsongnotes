@@ -14,15 +14,17 @@ redirect_from:
   - /songs/x-alt-j-matilda/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9lVBiRmHztM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's the first video lesson I ever posted on YouTube! Matilda by Alt-J. I was heavy into this album back in 2013 — this was one of many songs I had on repeat. At that same time, I had my first experience watching guitar lessons of any kind on YouTube... Justin and Marty were the two I remember seeing. I had been on YouTube many many times before, of course — but never had considered the possibility of watching (or making) guitar lessons. It fascinated me.
 
+Given that I had experience with video editing (and was already learning a song every few weeks on the guitar) — I decided to experiment and make a few videos of my own. After all, I have a strange love for talking about & explaining things I'm really into. And so, this was the first video I made. Poorly lit, in the spare room deep in the basement of a house in Chesapeake Beach, Maryland. Glad I made it, as it was the first step in getting to where I am now! _—DP, July 2022_
 
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-
 
 ## Chords w/ lyrics
 

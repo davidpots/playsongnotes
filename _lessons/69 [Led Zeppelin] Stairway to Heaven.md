@@ -18,17 +18,17 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/27574943
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0RybdmubxzY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+In this lesson, I'll teach you how to play the first part of the intro riff to _Stairway to Heaven_. I'll show you tabs, but also give a tutorial on the chord positions needed, finger picking patterns, how to practice the difficult parts, given an introduction to barre chords, and everything else you'll need to play the the opening bars of this classic Led Zeppelin song.
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+Note! As of now, I haven't made a "full" lesson for this song. I'll likely get to it at some point, but it may take some time (it's such a huge hill to climb). Thanks for the requests, and good luck!
 
-## Editor's notes
+## Intro Video Lesson
 
-In this lesson, I'll teach you how to play the first part of the intro riff to Stairway to Heaven. I'll show you tabs, but also give a tutorial on the chord positions needed, finger picking patterns, how to practice the difficult parts, given an introduction to barre chords, and everything else you'll need to play the the openin bars of this classic Led Zeppelin song.
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-Video timestamps:
+Timestamps:
 
 - 0:00 Playthrough
 - 0:26 Lesson overview
@@ -39,7 +39,22 @@ Video timestamps:
 - 9:21 Add the fingerpicking
 - 10:42 Closing thoughts
 
-## Intro, part 1
+## Interlude Video Lesson
+
+This second lesson teaches you the "Oh, it makes me wonder" part heard between 2:14-2:38 of the song.
+
+{% include youtube_embed.html yt_id = 'jimGTqxnxtg' %}
+
+This second video explores some more of the acoustic nooks & crannies of Stairway to Heaven by Led Zeppelin. In this video I'm going to break down the interlude section heard between 2:14 and 2:38 of the official recording (which has the vocal "Oh, it makes me wonder"). I'll teach you how to play this section on guitar: playing the chord shapes, approaching strumming, and how to get over the hump with the triads & difficult transitions.
+
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+
+## Notes & Tabs
+
+### Intro, part 1
 
 Play this twice:
 
@@ -63,15 +78,7 @@ The key to learning this, if your'e just getting started with it, is to learn th
 
 Once you get these worked out, adding the fingerpicking is much easier an ordeal.
 
-## Learn to play the interlude
 
-This second lesson teaches you the "Oh, it makes me wonder" part heard between 2:14-2:38 of the song.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jimGTqxnxtg?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-This second video explores some more of the acoustic nooks & crannies of Stairway to Heaven by Led Zeppelin. In this video I'm going to break down the interlude section heard between 2:14 and 2:38 of the official recording (which has the vocal "Oh, it makes me wonder"). I'll teach you how to play this section on guitar: playing the chord shapes, approaching strumming, and how to get over the hump with the triads & difficult transitions.
-
-Get the PDF for this interlude section on [my Patreon page](https://www.patreon.com/posts/27574943).
 
 <!-- E |–––––5–––––
 B |–––––5–––––

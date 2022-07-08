@@ -5,7 +5,7 @@ song_title:  I Walk the Line
 artist: Johnny Cash
 year: 1956
 date_published: 2013-11-17
-yt_video_id: VPf0HLvc3L8
+yt_video_id: w4XAC7x1vTw
 category: full_song
 tags: [Full Song Lesson, 1950s, Country, Key of E, Key of A, Key of D, Walking Bass Lines]
 difficulty: beginner
@@ -20,21 +20,15 @@ musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0235883
 pdf_numpages: 5
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w4XAC7x1vTw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+In this lesson I'll teach you how to play the Johnny Cash classic _I Walk The Line_, which was originally released in 1956. My tutorial is based on a solo acoustic guitar approach, which lets you capture the sound of the recorded album version all by yourself. I have two videos... a newer one (lesson #262) which focuses entirely on the intro riff, in addition to an older one (lesson #6) where I briefly explain how to play the entire song. My print-friendly song sheet includes tabs/notes/lyrics/chords to account for _both_ of these video lessons.
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Intro Tutorial (Lesson #262)
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-In this lesson I'll teach you how to play the Johnny Cash classic "I Walk The Line" released in 1956. My tutorial is based on a solo acoustic guitar approach, which lets you capture the sound of the recorded album version all by yourself. In my video above (lesson #262) I'll focus entirely on the intro riff, showing you three different ways to pay it:
-
-1. an easy approach starting with just the bass notes
-2. a slightly more difficult version adding single strums of each chord; and
-3. a more advanced version that brings in muted strumming as well as the "book chicka" percussive sound heard in much of Johnny Cash's playing.
-
-No matter your skill level, I trust that one of these approaches will be perfect for you. Timestamps for my video above are as follows:
+Timestamps:
 
 - 0:00 Lesson overview
 - 2:19 Variation 1: bass notes only
@@ -42,133 +36,11 @@ No matter your skill level, I trust that one of these approaches will be perfect
 - 21:27 Variation 3: adding muted "boom-chicka" strumming
 - 25:18 Farewell
 
-### Full song lesson
+## Full Song Tutorial (Lesson #6)
 
-Here's an older video I did (from 2014) showing how to play all the verse sections, including the walk ups & walk downs between each verse. A focus in this lesson is how this song actually changes key in each verse, using a different I-IV-V set of chords.
+{% include youtube_embed.html yt_id = 'VPf0HLvc3L8' %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VPf0HLvc3L8?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-## Learning the intro riff
-
-### Variation 1 of 3: Bass notes only
-
-    See PDF for tab.
-
-<!-- e –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-    B –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-    G –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-    D –––––––––––––|–––––––––––––––––––––––––––––––––|–0–––––––––––––––0–––0–––––––––––|–
-    A –––––––––––––|–0–––––––––––––––0–––0–––2–––4–––|–––––––––0–––––––––––––––4–––2–––|–
-    E –0–––2–––4–––|–––––––––0–––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                     A                                 D
-       2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-                e –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                B –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                G –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                D –|–––––––––2–––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                A –|–0–––––––––––––––0–––0–––––––––––|–––––––––2–––––––2–––––––––––––––|–
-                E –|–––––––––––––––––––––––––4–––2–––|–0–––––––––––––––––––0–––2–––0–––|–
-                     A                                 E
-                     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-                e –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                B –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                G –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                D –|–––––––––1–––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                A –|–2–––––––––––––––2–––0–––––––––––|–––––––––2–––––––––––––––2–––––––|–
-                E –|–––––––––––––––––––––––––4–––2–––|–0–––––––––––––––0–––––––––––––––|–
-                     B7                                E
-                     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-                e –|–––––––––––––––––––––––––––––––––|–––
-                B –|–––––––––––––––––––––––––––––––––|–––
-                G –|–––––––––––––––––––––––––––––––––|–––
-                D –|–––––––––––––––––––––––––––––––––|–––     * If continuing into the verse,
-                A –|–––––––––2–––––––––––––––––––––––|–0–       stay on the E-major chord
-                E –|–0–––––––––––––––0–––0–––2–––4–––|–––       (don't walk back up to A)
-                     E                                 A
-                     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 -->
-
-### Variation 2 of 3: Bass notes w/ single chord strum
-
-    See PDF for tab.
-
-<!-- e –––––––––––––|–––––0–––––––0–––––––––––––––––––|–––––2–––––––2–––––––––––––––––––|–
-B –––––––––––––|–––––2–––––––2–––––––––––––––––––|–––––3–––––––3–––––––––––––––––––|–
-G –––––––––––––|–––––2–––––––2–––––––––––––––––––|–––––2–––––––2–––––––––––––––––––|–
-D –––––––––––––|–––––2–––––––2–––––––––––––––––––|–0–––0–––––––0–––0–––0–––––––––––|–
-A –––––––––––––|–0–––0–––––––0–––0–––0–––2–––4–––|–––––––––0–––––––––––––––4–––2–––|–
-E –0–––2–––4–––|–––––––––0–––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                 A                                 D
-   2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-            e –|–––––0–––––––0–––––––––––––––––––|–––––0–––––––0–––––––––––––––––––|–
-            B –|–––––2–––––––2–––––––––––––––––––|–––––0–––––––0–––––––––––––––––––|–
-            G –|–––––2–––––––2–––––––––––––––––––|–––––1–––––––1–––––––––––––––––––|–
-            D –|–––––2–––2–––2–––––––––––––––––––|–––––2–––––––2–––––––––––––––––––|–
-            A –|–0–––0–––––––0–––0–––0–––––––––––|–––––2–––2–––2–––2–––––––––––––––|–
-            E –|–––––––––––––––––––––––––4–––2–––|–0–––0–––––––0–––––––0–––2–––0–––|–
-                 A                                 E
-                 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-            e –|–––––2–––––––2–––––––––––––––––––|–––––0–––––––0–––––––0–––––––0–––|–
-            B –|–––––0–––––––0–––––––––––––––––––|–––––0–––––––0–––––––0–––––––0–––|–
-            G –|–––––2–––––––2–––––––––––––––––––|–––––1–––––––1–––––––1–––––––1–––|–
-            D –|–––––1–––1–––1–––––––––––––––––––|–––––2–––––––2–––––––2–––––––2–––|–
-            A –|–2–––2–––––––2–––2–––0–––––––––––|–––––2–––2–––2–––––––2–––2–––2–––|–
-            E –|–––––––––––––––––––––––––4–––2–––|–0–––0–––––––0–––0–––0–––––––0–––|–
-                 B7                                E
-                 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-            e –|–––––0–––––––0–––––––––––––––––––|–––
-            B –|–––––0–––––––0–––––––––––––––––––|–––
-            G –|–––––1–––––––1–––––––––––––––––––|–––
-            D –|–––––2–––––––2–––––––––––––––––––|–––     * If continuing into the verse,
-            A –|–––––2–––2–––2–––––––––––––––––––|–0–       stay on the E-major chord
-            E –|–0–––0–––––––0–––0–––0–––2–––4–––|–––       (don't walk back up to A)
-                 E                                 A
-                 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 -->
-
-### Variation 3 of 3: Bass notes w/ "boom chicka" strumming
-
-    See PDF for tab.
-
-<!-- e –––––––––––––|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-B –––––––––––––|–––––––––––––––––––––––––––––––––|–––––3–3–––––3–3–––––––––––––––––|–
-G –––––––––––––|–––––2–2–––––2–2–––––––––––––––––|–––––2–2–––––2–2–––––––––––––––––|–
-D –––––––––––––|–––––2–2–––––2–2–––––––––––––––––|–0–––0–0–––––0–0–0–––0–––––––––––|–
-A –––––––––––––|–0–––0–0–––––0–0–0–––0–––2–––4–––|–––––––––0–––––––––––––––4–––2–––|–
-E –0–––2–––4–––|–––––––––0–––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-                 A                                 D
-   2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-            e –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-            B –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-            G –|–––––2–2–––––2–2–––––––––––––––––|–––––1–1–––––1–1–––––––––––––––––|–
-            D –|–––––2–2–2–––2–2–––––––––––––––––|–––––2–2–––––2–2–––––––––––––––––|–
-            A –|–0–––0–0–––––0–0–0–––0–––––––––––|–––––2–2–2–––2–2–2–––––––––––––––|–
-            E –|–––––––––––––––––––––––––4–––2–––|–0–––0–0–––––0–0–––––0–––2–––0–––|–
-                 A                                 E
-                 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-            e –|–––––––––––––––––––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-            B –|–––––0–0–––––0–0–––––––––––––––––|–––––––––––––––––––––––––––––––––|–
-            G –|–––––2–2–––––2–2–––––––––––––––––|–––––1–1–––––1–1–––––1–1–––––1–1–|–
-            D –|–––––1–1–1–––1–1–––––––––––––––––|–––––2–2–––––2–2–––––2–2–––––2–2–|–
-            A –|–2–––2–2–––––2–2–2–––0–––––––––––|–––––2–2–2–––2–2–––––2–2–2–––2–2–|–
-            E –|–––––––––––––––––––––––––4–––2–––|–0–––0–0–––––0–0–0–––0–0–––––0–0–|–
-                 B7                                E
-                 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
-
-            e –|–––––––––––––––––––––––––––––––––|–––
-            B –|–––––––––––––––––––––––––––––––––|–––
-            G –|–––––1–1–––––1–1–––––––––––––––––|–––
-            D –|–––––2–2–––––2–2–––––––––––––––––|–––     * If continuing into the verse,
-            A –|–––––2–2–2–––2–2–––––––––––––––––|–0–       stay on the E-major chord
-            E –|–0–––0–0–––––0–0–0–––0–––2–––4–––|–––       (don't walk back up to A)
-                 E                                 A
-                 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +   1 -->
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Notes and tabs
 
@@ -319,7 +191,3 @@ VERSE #5
 "I keep a close watch on this heart of mine..."
 | B7 . . . | E . . . | B7 . . . | E . . . |
 | A  . . . | E . . . | B7 . . . | E . . . | -->
-
-## Good luck!
-
-Thanks for reading! I hope this helped you.

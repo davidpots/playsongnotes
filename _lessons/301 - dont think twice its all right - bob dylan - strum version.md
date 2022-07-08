@@ -27,7 +27,7 @@ patreon_lesson_url: https://www.patreon.com/posts/48736684
 
 ### Strum version (#301)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TgGpdaYZfxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Timestamps for my strum-only video lesson:
 
@@ -46,7 +46,7 @@ Timestamps for my strum-only video lesson:
 
 <!-- Coming soon! Already recorded, just need to edit. Look for it early/mid-week (around May 26). -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9v8GLpjBQ2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = '9v8GLpjBQ2Y' %}
 
 Timestamps for my fingerstyle video lesson:
 

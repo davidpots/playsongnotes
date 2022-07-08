@@ -15,14 +15,15 @@ redirect_from:
   - /songs/x-alt-j-breezeblocks/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jDt2zAf4XMU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's a guitar lesson teaching an acoustic version of _Breezeblocks_ by Alt-J. I'll teach you the chord shapes and the order to play them, for both the verse and the chorus. You even get to hear me try to sing like the Alt-J guy! Live and learn, right? Good luck with things, and hope you find this helpful!
 
+## Free Video Lesson
 
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
 
 ## Chords w/ lyrics
 
@@ -159,7 +160,3 @@ Here's how to play the guitar chords used in this song. I'm focused on the open-
     OUTRO
     "Please don't go, I'll eat you whole..."
     | C . . . | Em . . . | Am . . . | Am . . . |
-
-## Good luck!
-
-Thanks for reading! I hope this helped you.

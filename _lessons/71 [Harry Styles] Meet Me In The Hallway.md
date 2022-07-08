@@ -14,9 +14,13 @@ redirect_from:
   - /songs/harry-styles-meet-me-in-the-hallway/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tMXlgiGSHr4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's my acoustic guitar lesson for _Meet Me in the Hallway_ by Harry Styles. Straight up, this isn't meant to be 100% accurate to how it's played on the album. It's quite close, though. These chords will let you play along with the album -- but I have no interest in capturing a perfect record of every single note played on every instrument heard on the studio version (there's too much going on, I'm not good enough, etc). Rather, I want to show you how I enjoy playing this song. If this helps you, fantastic! If you think this is garbage and sacrilege, I implore you to look elsewhere. Thanks and enjoy!
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 
 
@@ -24,9 +28,9 @@ redirect_from:
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 
-## Notes on my approach to this song
 
-Straight up, this isn't meant to be 100% accurate to how it's played on the album. It's damn close, and these chords will let you play along with the album -- but I have no interest in capturing a perfect record of every single note played on every instrument heard on the studio version (there's too much going on, I'm not good enough, etc). Rather, I want to show you how I enjoy playing this song. If this helps you, fantastic! If you think this is garbage and sacrilege, I emplore you to look elsewhere.
+
+
 
 
 ## Chord Progressions

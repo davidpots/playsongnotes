@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+{% assign songs_by_artist = site.lessons | where: "artist", page.artist %}
+
+
+
+<article>
+
+{% include header-nav--desktop.html %}
+{% include header-nav--mobile.html %}
+
+  <div class="container ptl">
+    <div class="row">
+      <div class="col col-left col-8">
+        <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/songs">Songs</a> ❯ {% if songs_by_artist.size > 1 %}<a href="/search/?query={{page.artist}}">{{page.artist}}</a> ❯{% endif %}</p>
+        <h1>{{ page.song_title }}</h1>
+        {{ content }}
+      </div> <!-- end: .col.col-left.col-9 -->
+      <div class="col col-right col-4">
+        <div class="module-playlist">
+          <ul>
+            <li><a href="/members/welcome">Thanks and Welcome!</a></li>
+            <li><a href="/members/how-to-search-lessons">How to Search All Lessons</a></li>
+            <li><a href="/members/how-to-log-in">How to Log In</a></li>
+            <li><a href="/members/how-to-download-pdfs">How to Download Patreon PDFs</a></li>
+            <li><a href="/members/how-to-buy-song-sheets">How to Buy Song Sheets</a></li>
+            <li><a href="/members/how-to-cancel">How to Cancel Membership</a></li>
+          </ul>
+        </div>
+
+      </div> <!-- end: .col.col-right.col-3 -->
+    </div> <!-- end: .row -->
+  </div>
+
+</article>

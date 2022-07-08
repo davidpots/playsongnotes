@@ -18,11 +18,13 @@ patreon_lesson_url: https://www.patreon.com/posts/67323097
 
 <!-- https://youtu.be/E5PqBrjsAPM -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Today we'll learn _In Spite of Ourselves_, the classic John Prine duet that he recorded with Iris DeMent (1999). I'll start off by showing you campfire chords & strumming, allowing you to play this song even if you're just getting started with guitar. From there, I'll pile on a few additional tricks (e.g. strumming with alternate bass notes) before diving headlong into the Travis Picking fingerstyle used in the song's intro. This passage took me a while to learn, but with time and persistence, I got over the hump! And I'm sure you can learn it just the same. Enjoy!
 
-Hey friends! New lesson today for In Spite of Ourselves, the classic duet between John Prine and Iris DeMent. I'll start off by showing you campfire chords & strumming, allowing you to play this song even if you're just getting started with guitar. From there, I'll pile on a few additional tricks (e.g. strumming with alternate bass notes) before diving headlong into the Travis Picking fingerstyle used in the song's intro. This passage took me a while to learn, but with time and persistence, I got over the hump! And I'm sure you can learn it just the same. I hope you enjoy!
+## Free Video Lesson
 
-Video lesson timestamps:
+{% include youtube_embed.html yt_id = page.yt_video_id %}
+
+Timestamps:
 
 - 0:00 Preview & Lesson Summary
 - 0:57 Basic Chord Shapes
@@ -37,68 +39,29 @@ Video lesson timestamps:
 
 <!-- -->
 
-<br />
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-<br /><br />
 ## Join the Discussion on My Patreon Page
 
 Members of the Song Notes community are discussing this lesson over on the Patreon post I made for it — if you're a member, **[join the discussion here]({{page.patreon_lesson_url}})**! You can also find handy links to the various Patreon posts I mention in the lesson, each of which has the instructional PDF available for download. Curious about Song Notes membership on Patreon? [Learn more »](/join)
 
-
-<br /><br />
 ## Listen to John Prine Play This Song
-
-### Album Recording
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gA-vD5pyuS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- https://www.youtube.com/watch?v=gA-vD5pyuS4 -->
 
-### Live Performance, with Iris DeMent
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8tTwXv4glY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- https://www.youtube.com/watch?v=P8tTwXv4glY -->
 
-<br /><br />
 ## Related Lessons
 
-### Learn Any Travis Picking Song, Step by Step
+I've also made the following instructional lessons, each of which will help with techniques used in this song:
 
-[View full lesson notes](http://playsongnotes.com/lessons/375/) or [get the Patreon PDF »](https://www.patreon.com/posts/53562402)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jozyVKhpyIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### F Chord, Made Easy: 7 Alternatives to the Barred Version
-
-[View full lesson notes](http://playsongnotes.com/lessons/392/) or [get the Patreon PDF »](https://www.patreon.com/posts/56902583)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBWO_JyvpRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### How I Learned to Travis Pick with "Clay Pigeons"
-
-[View full lesson notes](http://playsongnotes.com/lessons/173/) or [get the Patreon PDF »](https://www.patreon.com/posts/printable-lesson-21390085)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BXYjZc_g1Uo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Travis Picking with an Anchored Left-Pinky Finger
-
-[View full lesson notes](http://playsongnotes.com/lessons/227/) or [get the Patreon PDF »](https://www.patreon.com/posts/25555059)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78VhRTZx3KA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### F Major Chord with Wrapped Left Thumb (for Fingerstyle & Travis Picking)
-
-[View full lesson notes](http://playsongnotes.com/lessons/244/) or [get the Patreon PDF »](https://www.patreon.com/posts/27795273)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0GXSdqf4lIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Travis Picking vs. "Normal" Fingerstyle
-
-[View full lesson notes](http://playsongnotes.com/lessons/302/) or [get the Patreon PDF »](https://www.patreon.com/posts/37186031)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IzI9S0obKlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include topic-item.html slug = '375' %}
+{% include topic-item.html slug = '392' %}
+{% include topic-item.html slug = '173' %}
+{% include topic-item.html slug = '227' %}
+{% include topic-item.html slug = '244' %}
+{% include topic-item.html slug = '302' %}

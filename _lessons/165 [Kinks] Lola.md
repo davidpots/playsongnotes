@@ -16,7 +16,7 @@ redirect_from:
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aFXapBng37o?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 
@@ -27,7 +27,7 @@ Lola, by The Kinks, is one of the many fantastic covers that lawyer-turned-guita
 
 I also have this separate lesson teaching you each part of this song (verse, chorus, bridge, and lead fill riff). [View my full lesson notes](https://playsongnotes.com/lessons/427/) or [get the 4-page sheet music](https://www.musicnotes.com/l/hc6MZ).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rS6K9lxqszE?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'rS6K9lxqszE' %}
 
 
 <br />
@@ -35,11 +35,12 @@ I also have this separate lesson teaching you each part of this song (verse, cho
 
 Here's the cover that inspired my lesson:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qWWU5x5RLbI?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'qWWU5x5RLbI' %}
 
 ## The Kinks live version from 1980
 
 In this version you can hear the extended acoustic intro that Mike Massé plays in his acoustic cover up above. They start playing in 1:06 of this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s_xA6sH9kkQ?showinfo=0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 's_xA6sH9kkQ' %}
+
 <!-- https://www.youtube.com/watch?v=s_xA6sH9kkQ -->

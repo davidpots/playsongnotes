@@ -19,15 +19,15 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986
 ---
 
-## Video Lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9kbA1RnvEjo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's my acoustic guitar lesson for _Say It Ain't So_ by Weezer, one of the many great songs from the debut album. I've includes chords, intro tabs, and strumming pattern -- showing how to play this song in standard tuning. Enjoy!
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-This video is a guitar lesson for "Say It Ain't So" by Weezer. It includes chords, tabs, and strumming pattern -- showing how to play this song in standard tuning on an acoustic guitar.
+Timestamps:
 
 - 0:00 Playthrough
 - 1:55 About this lesson
@@ -38,6 +38,10 @@ This video is a guitar lesson for "Say It Ain't So" by Weezer. It includes chord
 - 13:27 Verse strum, full chords
 - 15:16 Chorus
 - 17:21 Bridge
+ 
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Chords w/ lyrics
 
@@ -262,7 +266,3 @@ If you want to emulate the second guitar on the album version, play this -- wher
     A –|––––––––––––––––––––––––––––––––––––––––––––––––––––|–
     E –|––––––––––––––––––––––––––––––––––––––––––––––––––––|–
              C#m    G#                A     E
-
-## Good luck!
-
-Let me know if you have questions. I hope this was helpful.

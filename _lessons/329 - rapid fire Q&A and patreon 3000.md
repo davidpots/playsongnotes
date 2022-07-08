@@ -13,7 +13,7 @@ patreon_lesson_url: https://www.patreon.com/posts/41023187 -->
 
 ## Your questions, answered!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mQ67cZvN4h4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 

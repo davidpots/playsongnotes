@@ -23,7 +23,7 @@ patreon_lesson_url: https://www.patreon.com/posts/39956339
 
 ### Getting started with the song (#279)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YSYiHNd9GK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Timestamps:
 
@@ -38,7 +38,7 @@ Timestamps:
 
 ### Exactly how Billy Strings plays it (#316)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L0QXbkNaW_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'L0QXbkNaW_4' %}
 
 - 0:00 Lesson overview
 - 1:56 Recap of chord shapes

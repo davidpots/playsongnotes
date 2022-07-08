@@ -8,7 +8,7 @@ date_published: 2022-03-05
 yt_video_id: TCnZG9hNjM4
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Hey there friends! Quick Q&A video today, where I answer the question of how to practice guitar when one of your hands is injured. This came up in two separate Patreon messages that I answered back-to-back... and after thinking about it, I wanted to share a few thoughts that came to mind. I actually broke my wrist in spring 2021, so was very much in this situation myself back then!
 

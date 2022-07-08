@@ -14,11 +14,13 @@ redirect_from:
   - /songs/sublime-mary/
 ---
 
-## Video lesson
+## Editor's Notes
 
-Here's my lesson, including a play-through with chords and tabs overlaid. Please refer to this when using everything further down this page -- everything I play here, I explain below.
+Here's a lesson teaching the song _Mary_ by Sublime. I'll teach the chords, progression, and include tabs for the small riff heard just before the chorus. Enjoy!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mAcg4jHbvPM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 

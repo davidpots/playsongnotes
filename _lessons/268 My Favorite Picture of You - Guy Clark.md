@@ -20,7 +20,7 @@ patreon_lesson_url: https://www.patreon.com/posts/31947589
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9T2sPvDyxDo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 <!-- Coming soon! -->
 

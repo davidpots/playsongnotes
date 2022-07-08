@@ -10,9 +10,7 @@ slug: "164"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32888140 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O0TF-Fy2crg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 In this video I want to take you on a tour through my original binder of printed "Song Notes". This is something I created over many, many hours back in 2002-2003. Around that time I was 2-3 years into my guitar playing, and became obsessed with writing down comprehensive notes detailing each song I had learned on guitar. This was mainly done out of a desire to preserve much of the hard work I'd done in working out certain songs: how I approached chord progressions, tabs, and so forth. While many of these songs had their notes & tabs in other places on the web, I preferred to keep my own copy.  The pages were created in Microsoft Word, saved in the "rich text format" (.rtf) extension.
 

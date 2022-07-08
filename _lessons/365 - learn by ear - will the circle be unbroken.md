@@ -19,7 +19,7 @@ pdf_for_sale: https://gum.co/jLmfB -->
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MxvXa9yEgs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 

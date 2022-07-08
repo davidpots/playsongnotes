@@ -1,0 +1,16 @@
+{% if include.pdf_numpages == 1 %}
+  {% assign pdf_numpages_string = "1 page" %}
+{% else %}
+  {% assign pdf_numpages_string = include.pdf_numpages | append: " pages" %}
+{% endif %}
+
+<h2>Print-Friendly Song Sheet <span class="small">{{pdf_numpages_string}}</span></h2>
+<div class="pdf_module_v2 pdf_module_v2--song">
+  <a target="_blank" href="{{include.musicnotes_url}}"><div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div></a>
+  <div class="pdf_module_v2__content">
+    <p>Follow along with my print-friendly guide for this song! It's properly licensed and available for individual purchase at Musicnotes.com</p>
+    <p>It includes my carefully crafted presentation of the lyrics, tabs, chord shapes, and all other info needed to play this song. On the fence? <a href="/members/how-to-buy-song-sheets" target="_blank">Here's a video guide</a> I made showing the purchase & print process.</p>
+    <a class="pdf_module_v2__button" target="_blank" href="{{include.musicnotes_url}}"><strong>Buy at Musicnotes.com</strong></a>
+    <p class="pdf_module_v2__footnote">Patreon supporters: <strong><a target="_blank" href="https://playsongnotes.com/discount">click here</a></strong> for the current month's 50% discount code</p>
+  </div>
+</div>

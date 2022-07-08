@@ -19,7 +19,7 @@ musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236803
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KwgVG4TbiaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -35,50 +35,7 @@ Video timestamps:
 - 8:03 Strumming patterns
 - 14:24 Full playthrough
 
-## Lyrics and chords
 
-Capo 2nd fret to play along with Elvis.
-
-    INTRO
-    		C    G    C    C
-
-    VERSE
-            C       Em       Am      Am         F        C       G       G
-        ....Wise... men..... say.......... only fools... rush... in
-            F       G        Am      F          C        G       C       C
-        But I...... can't... help... falling in love.... with... you    
-
-            C        Em       Am      Am           F        C       G       G
-        ....Shall... I....... stay....... would it be...... a...... sin
-            F        G        Am      F            C        G       C       C
-        If  I....... can't... help... falling  in  love.... with... you
-
-    BRIDGE
-            Em                B7              Em                B7
-            .....Like a river flows.............. surely to the sea...
-            Em                B7              
-            ...Darling, so it goes...
-            Em                A7              Dm                G
-            Some things......... are meant to be....................
-
-            C         Em       Am      Am         F        C       G       G
-        ....Take..... my...... hand...... take my whole... life... too
-            F         G        Am      F          C        G       C       C
-        For I........ can't... help... falling in love.... with... you
-
-            Em                B7              Em                B7
-            .....Like a river flows.............. surely to the sea...
-            Em                B7              
-            ...Darling, so it goes...
-            Em                A7              Dm                G
-            Some things......... are meant to be....................
-
-            C         Em       Am      Am         F        C       G       G
-        ....Take..... my...... hand...... take my whole... life... too
-            F         G        Am      F          C        G       C       C
-        For I........ can't... help... falling in love.... with... you
-            F         G        Am      F          C        G       C       C
-        For I........ can't... help... falling in love.... with... you
 
 ## Capo 2nd fret
 

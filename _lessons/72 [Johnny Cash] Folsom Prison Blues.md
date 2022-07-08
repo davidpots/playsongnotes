@@ -18,16 +18,15 @@ pdf_version: musicnotes
 pdf_numpages: 2
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GNvaiI37AzM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Let's learn how to play _Folsom Prison Blues_ by Johnny Cash! In video lesson I'll teach the chords, strumming pattern, tabs for the intro, and even how to strum with alternating bass notes.  Note, this song will need a capo on the 1st fret *if* you want to play along w/ the Cash album version. Otherwise, you can leave the capo behind and play it in the key of E. Best of luck!
 
+## Free Video Lesson
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-## Editor's notes
-
-Learn how to play "Folsom Prison Blues" by Johnny Cash! Chords, strumming pattern, tabs for the intro, and even how to strum with alternating bass notes. I'll show it all. Note, this song will need a capo on the 1st fret *if* you want to play along w/ the Cash album version. Otherwise, you can leave the capo behind and play it in the key of E. Best of luck, let me know what questions you have in the comments!
+Timestamps:
 
 - 0:00 Playthrough
 - 0:44 Chords needed
@@ -35,6 +34,13 @@ Learn how to play "Folsom Prison Blues" by Johnny Cash! Chords, strumming patter
 - 2:50 Intro riff
 - 3:40 Strumming w/ alternating bass notes
 - 5:43 Farewell
+
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+
+
 
 
 ## Lyrics with chords
@@ -154,17 +160,3 @@ D –––––––1–1–––––1–1–––––2–2––––
 A –––––2–––––––––––––––2––––––––––––––––
 E –––––x–––––––2–––––––x–––––––2––––––––
        B7 -->
-
-## Check out my other Johnny Cash lessons!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8jvriKFA7-I?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXrNumLcMGY?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dP2hYluC8CQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eNXGEQTd9Do?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xN5XOUQJn1E?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VPf0HLvc3L8?showinfo=0" frameborder="0" allowfullscreen></iframe>

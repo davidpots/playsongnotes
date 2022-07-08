@@ -16,7 +16,7 @@ redirect_from:
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/scbLcaopAPk?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 
 

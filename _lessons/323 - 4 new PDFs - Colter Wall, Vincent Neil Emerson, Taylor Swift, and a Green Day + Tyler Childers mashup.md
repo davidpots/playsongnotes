@@ -15,7 +15,7 @@ yt_video_id: 6BBD4pNVNcA
 
 <!-- Coming soon! -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BBD4pNVNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Video timestamps:
 

@@ -21,36 +21,29 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/21721986
 ---
 
-## Video lesson
+## Editor's notes
+
+Welcome to my guitar lesson teaching _Mrs. Robinson_ by Simon and Garfunkel. I've made two lessons, one of which teaches the basics and the other of which gets into some more complex licks and fills you can add while strumming. I've also included a separate video showing a complete play-along cover, where I put it all together. I'll be playing with no capo (add capo 2 if you want to play along with Simon and Garfunkel). Good luck!
+
+
+## Free Video Lessons
 
 My beginner lesson, focusing on chords and strumming:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dG9WdrqvgYA?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 For an intermediate lesson showing some of the runs and fills, see this:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EHUoA3flT4E?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'EHUoA3flT4E' %}
 
+And here's my play-along cover of the entire song:
+
+{% include youtube_embed.html yt_id = 'u8-24OnUle8' %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## Editor's notes
 
-In my first lesson, I show you how to play the basics of "Mrs. Robinson" by Simon and Garfunkel. I'll be using no capo and will focus primarily on the chords and strumming patterns you'll need to play the song. This lesson includes chord charts, tablature, strumming pattern diagrams, and the progressions you'll need for each section. If you're looking for some of the more advanced riffs, runs, and fills this song uses -- look for my other lesson where I break those down in detail.
 
-In my second lesson, I'll show you how to play some of the fills, riffs, and runs for this song. This is a slightly more intermediate lesson, following up on my beginner-friendly lesson that shows the basic chords and strumming patterns needed to play this song. In this lesson, I'll be playing without a capo –– and will show you how to play the (1) intro/filler riff; (2) a verse melody riff; (3) the verse walkdown from C to A minor; and (4) the chorus walkdown from C to D to G.
-
-Timestamps for my second lesson:
-
-- 0:00 Lesson overview
-- 3:05 Intro & Filler Riff
-- 7:06 Verse Melody Riff
-- 9:13 Verse Walkdown (C to Am)
-- 11:04 Chorus Walkdown (C to D to G)
-
-## My guitar cover of the entire song
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u8-24OnUle8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Lyrics with chords
 

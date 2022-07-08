@@ -12,7 +12,7 @@ redirect_from:
 
 ## Video Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s1yXG7HYTuY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -20,7 +20,7 @@ redirect_from:
 
 In summary, you'll need to tune your thickest string from an E down to a D. Here's a video I made previously showing you how to do this very quickly:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQGayzh3vig?showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+{% include youtube_embed.html yt_id = 'dQGayzh3vig' %}
 
 ## Basic chords in Drop-D
 

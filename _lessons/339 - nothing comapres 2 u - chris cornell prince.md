@@ -17,7 +17,7 @@ musicnotes_url: https://www.musicnotes.com/l/tzpMF
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b35LL3GU1kI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 <!-- Coming soon! -->
 

@@ -15,9 +15,13 @@ redirect_from:
   - /songs/sublime-rivers-of-babylon/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9WcazK7eOI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's a guitar lesson teaching you how to play _Rivers of Babylon_ from Sublime's 1998 acoustic album. This is one of the very first songs I ever learned back on my acoustic guitar back in 1999 – such a fun one to learn. I'll teach you the chord shapes and also show tabs for the distinctive intro riff. Best of luck with it!
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -125,7 +129,3 @@ Here is how you play the main riff heard in the intro. You can also play this du
     "So let the words of our mouth..."
     | G . . . | D . . . | G . . . | D . . . |
     | D . . . | D . . . | D . . . | G . . . |
-
-## Good luck!
-
-Thanks for reading! I hope this helped you.

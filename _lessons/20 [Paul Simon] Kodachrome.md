@@ -17,15 +17,15 @@ musicnotes_url: https://www.musicnotes.com/l/6gJMZ
 pdf_numpages: 3
 ---
 
-## Video Lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oC0EnK6p1nQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+This is my acoustic guitar lesson for _Kodachrome_ by Paul Simon. I'll show you everything needed to perform this song – including the tabs, chords, and lyrics. Best of luck with it!
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my cover of the song, including the tabs, chords, and lyrics needed to play the entire song.
+Timestamps:
 
 - 0:00 Playthrough & agenda
 - 3:27 Chords used
@@ -33,87 +33,10 @@ This is my acoustic guitar lesson for "Kodachrome" by Paul Simon. It includes my
 - 6:13 Intro riff
 - 12:26 Chorus & outro
 
-## Lyrics & chords
+<!--  -->
 
-    INTRO
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-        D  . . . D  . . . G . . . G  . .  .
-        Em . . . A7 . . . D . . . Em . A7 .
-
-              ...with bassline riff while on G
-
-    VERSE
-                     D       Dmaj7      D7                G (with riff)
-        When I think back on all--- the crap I learned in high school
-        Em               A7                  D        Em  A7
-        ...It’s a wonder I can think at all
-                      D       Dmaj7  D7            G (with riff)
-        And though my lack of edu----cation hasn’t hurt me none
-        Em                A7             D
-        ...I can read the writing on the wall
-
-    CHORUS
-                G       B7    Em
-            Kodachrome-----------
-                               Am               D
-            They give us those nice----- bright colors
-                             G              C
-            They give us the greens----- of summers
-                            A7           D               G    B7    Em
-            Makes you think all----- the world’s a sunny day, oh--- yeah
-                    Am         D
-            I got a Ni-----kon camera
-                             G        C
-            I love to take a pho----tograph
-                          A7           D          G      Bm   Em    A7
-            So mama don’t take----- my Kodachrome away
-
-                    D       Dmaj7   D7              G        G
-        If you took all the girls I knew when I was single
-        Em                        A7             D       Em  A7
-        ...And brought them all together for one night
-                      D     Dmaj7    D7          G       G
-        I know they’d never match my sweet imagination
-        Em                  A7                 D
-        ...Everything looks worse in black and white
-
-                G       B7    Em
-            Kodachrome-----------
-                               Am               D
-            They give us those nice----- bright colors
-                             G              C
-            They give us the greens----- of summers
-                            A7           D               G    B7    Em
-            Makes you think all----- the world’s a sunny day, oh--- yeah
-                    Am         D
-            I got a Ni-----kon camera
-                             G        C
-            I love to take a pho----tograph
-                          A7           D          G      Bm   Em    A7
-            So mama don’t take----- my Kodachrome away
-
-    OUTRO
-
-                           G            Bm          Em     Em
-                Mama don’t take----- my Kodachrome away
-                           G            Bm          Em     Em
-                Mama don’t take----- my Kodachrome away
-                           G            Bm          Em     Em
-                Mama don’t take----- my Kodachrome away
-
-                (start strumming in double time!)
-
-                G                                Bm
-                Mama don’t take my Kodachrome... Mama don’t take my Kodachrome
-                Em                             Em
-                Mama don’t take my Kodachrome away
-
-                G                                Bm
-                Mama don’t take my Kodachrome... Leave your boy so far from home
-                Em                             Em
-                Mama don’t take my Kodachrome away
-
-                            ...repeat this G-Bm-Em-Em sequence as desired, then end
 
 ## This is a no capo, key of D version!
 
@@ -269,7 +192,9 @@ Finally, if desired, on some of the up-strums you can play some of the middle st
 
 ## Chord progressions
 
-Intro:
+    See my song sheet for the complete chord progression diagram.
+
+<!-- Intro:
 
      D               D               G               G
      1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
@@ -312,4 +237,4 @@ Outro:
 
     "Mama don't take my Kodachrome..."
      G               Bm              Em              Em
-     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+     1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + -->

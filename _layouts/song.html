@@ -1,97 +1,85 @@
 ---
 layout: default
 ---
-<article>
 
-
-{% include header-nav--desktop.html %}
-{% include header-nav--mobile.html %}
-
-
-<div class="container ptl">
+  {% assign songs_by_artist = site.lessons | where: "artist", page.artist %}
 
   {% if page.category == "full_song" %}
     {% assign lesson_head_prehead = "Guitar lesson for" %}
     {% assign lesson_head_title = page.song_title | escape %}
-    {% capture lesson_head_subhead %}by <a class="lesson-head-sublink" href="/search?query={{ page.artist | escape }}">{{ page.artist | escape }}</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}by {{ page.artist | escape }}</a>&nbsp;•&nbsp;Lesson #{{ page.slug }}&nbsp;•&nbsp;{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
   {% if page.category == "warmup" %}
     {% assign lesson_head_prehead = "Warm Up Exercise" %}
     {% assign lesson_head_title = page.title | escape %}
-    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}&nbsp;•&nbsp;{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
   {% if page.category == "practice_log" %}
     {% assign lesson_head_prehead = "Practice Log" %}
     {% assign lesson_head_title = page.title | escape %}
-    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}&nbsp;•&nbsp;{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
   {% if page.category == "tip_technique" %}
     {% assign lesson_head_prehead = "Tips & Techniques" %}
     {% assign lesson_head_title = page.title | escape %}
-    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}&nbsp;•&nbsp;{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
   {% if page.category == "playalong_cover" %}
     {% assign lesson_head_prehead = "Play-Along Cover" %}
     {% assign lesson_head_title = page.song_title | escape %}
-    {% capture lesson_head_subhead %}by {{ page.artist | escape }}&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}by {{ page.artist | escape }}&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{ page.slug }}&nbsp;•&nbsp;{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
   {% if page.category == "generic" %}
     {% assign lesson_head_prehead = "" %}
     {% assign lesson_head_title = page.title | escape %}
-    {% capture lesson_head_subhead %}{% endcapture %}
+    {% capture lesson_head_subhead %}{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
   {% if page.category == "backing_track" %}
     {% assign lesson_head_prehead = "Backing Track" %}
     {% assign lesson_head_title = page.title | escape %}
-    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}{% endcapture %}
+    {% capture lesson_head_subhead %}Lesson #{{ page.slug }}&nbsp;•&nbsp;{{ page.date_published | date: '%b %-d, %Y' }}{% endcapture %}
   {% endif %}
 
-  <div class="lesson-head">
-    <p class="lesson-head-prehead">{{ lesson_head_prehead }}</p>
-    <h1 class="lesson-head-title">{{ lesson_head_title }}</h1>
-    <p class="lesson-head-subhead">{{ lesson_head_subhead }}</p>
-    {% if page.tags.size > 0 %}
-      <ul class="tag-list">
-        {% for tag in page.tags %}
-          {% capture tag_name %}{{ tag }}{% endcapture %}
-          <li><a href="/search?query={{ tag_name | uri_escape }}">{{ tag_name }}</a></li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </div>
+<article>
 
+{% include header-nav--desktop.html %}
+{% include header-nav--mobile.html %}
 
+<div class="container clearfix ptl">
+  <div class="row">
+    <div class="col col-left col-8">
+      {% if page.category == "full_song" %}
+        <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/songs">Songs</a> ❯ {% if songs_by_artist.size > 1 %}<a href="/search/?query={{page.artist}}">{{page.artist}}</a> ❯{% endif %}</p>
+      {% endif %}
+      <h1 class="lesson-head">{{ lesson_head_title }}</h1>
+      <p class="lesson-head-subhead">{{ lesson_head_subhead }}</p>
+      {{ content }}
+    </div> <!-- end: .col.col-left.col-9 -->
+    <div class="col col-right col-4 ptl" style="padding-left: 36px;">
+      <h4 class="mtn">Meet the Teacher</h4>
+      <div class="tile pam bg-white">
+        <p class="center mbs"><img style="border-radius: 50%; width: 120px;" src="https://davidpots.com/images/avatar.png" /></p>
+        <p class="small mbn">Hey there! My name is David Potsiadlo, and I'm the creator of the 400+ weekly lessons here at Song Notes, going back to 2013. <a class="strong" href="/about">Here’s my guitar story »</a></p>
+      </div>
+      <h4 class="mtxl">Subscribe to my Free Newsletter</h4>
+      <div class="tile pam pbs bg-white">
+        <p class="small mbs">Join the <strong>20,000+</strong> readers who get my new lessons dropped in their inbox each week. I teach a fun mix of songs, weekly riffs, practice ideas, and more!</p>
+        <script async data-uid="29e437778e" src="https://songnotes.ck.page/29e437778e/index.js"></script>
+      </div>
 
+    </div> <!-- end: .col.col-right.col-3 -->
+  </div> <!-- end: .row -->
 
-
-
-
-
-
-
-
-
-
-
-  <!-- Content -->
-  {{ content }}
-
-  </div>
+</div>
 
 <div class="mtxl ptxl" style="box-shadow: 0px -2px 5px rgba(0,0,0,0.1); background: #fff;">
   <div class="container">
-
-    <h2>Get my lessons in your inbox!</h2>
-    <p>Every couple weeks I send out an email newsletter with links to whatever new lessons I've made. Sign up here and stay in the loop!</p>
-    <script async data-uid="200aea9186" src="https://songnotes.ck.page/200aea9186/index.js"></script>
-
-    <hr />
 
   <h2>Enjoy my lessons? Buy me a beer!</h2>
   <p class="">If this and my other lessons have proven helpful to you, please consider making a <a class="underline bold" href="https://paypal.me/songnotes">one-time donation to my tip jar</a>. Contributions of <em>any</em> amount help make this project possible (including the many, many hours I put into it).</p>
@@ -130,3 +118,37 @@ layout: default
 
 
 </article>
+
+
+<!-- Prev/Next code via http://stories.upthebuzzard.com/jekyll_notes/2017-02-19-prev-and-next-within-a-jekyll-collection.html -->
+
+{% if page.collection and page.category == "full_song" %}
+  {% assign posts = site[page.collection] | where:"category", "full_song" | sort: 'date_published' %}
+
+  {% if posts.size > 1 %}
+    {% assign prevurl = posts.last.url %}
+    {% assign nexturl = posts.first.url %}
+  {% endif %}
+
+  {% for links in posts %}
+    {% if links.title == page.title %}
+      {% unless forloop.first %}
+        {% assign prevurl = prev.url %}
+        {% assign prevtitle = prev.song_title %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next = posts[forloop.index] %}
+        {% assign nexturl = next.url %}
+        {% assign nexttitle = next.song_title %}
+      {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
+  {% endfor %}
+
+  <div class="browse_bar">
+      {% if posts.size > 1 %}
+        {% if prevtitle %}<p class="browse_bar__left"><a href="{{prevurl}}" class="prev"><strong>Previous Song</strong>{{prevtitle}}</a></p>{% endif %}
+        {% if nexttitle %}<p class="browse_bar__right"><a href="{{nexturl}}" class="nxt"><strong>Next Song</strong>{{nexttitle}}</a></p>{% endif %}
+      {% endif %}
+  </div>
+{% endif %}

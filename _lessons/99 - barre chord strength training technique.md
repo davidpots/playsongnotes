@@ -11,7 +11,7 @@ yt_video_id: PI4Pce2HonM
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PI4Pce2HonM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 

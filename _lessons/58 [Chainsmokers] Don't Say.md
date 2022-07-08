@@ -14,9 +14,13 @@ redirect_from:
   - /songs/chainsmokers-don-t-say/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cjBxw8wuE-E?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson for _Don't Say_ by the Chainsmokers. I recorded this one during my phase of making pop lessons. While not a guitar classic in any sense, I had a lot of fun learning it and hope you find the lesson helpful.
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 
 

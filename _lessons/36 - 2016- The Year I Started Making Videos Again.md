@@ -10,9 +10,7 @@ slug: "36"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32888140 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ipMnKXHlAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Here's a "behind the scenes" entry in which I talk briefly about everything I accomplished in 2016: milestones hit, lessons learned, and takeaways for 2017.
 

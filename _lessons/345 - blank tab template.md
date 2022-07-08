@@ -17,7 +17,7 @@ patreon_lesson_url: https://www.patreon.com/posts/46001640
 
 Download a free PDF with 6 different blank guitar tab templates, with and without time signatures. Here's a video overview of the print-friendly PDF:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P5IUb0YBgwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 <!-- Coming soon! -->
 

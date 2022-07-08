@@ -17,17 +17,15 @@ pdf_numpages: 3
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236767
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F0w3xI4A054?showinfo=0" frameborder="0" allowfullscreen></iframe>
+In this video lesson I'll teach you how to play _Hallelujah_ by Leonard Cohen on acoustic guitar. I'll show you how to play not only the chord shapes & strumming but also some of the picking patterns you'll need throughout (e.g. during the intro section). This is an amazing song, I wish you luck with it!
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-This video will teach you how to play "Hallelujah" by Leonard Cohen on acoustic guitar. I've posted the chords, tabs, and lyrics for this song at the link above.
-
-Video timestamps
+Timestamps
 
 - 0:00 Preview & overview
 - 1:20 Strumming pattern & rhythm basics
@@ -36,6 +34,12 @@ Video timestamps
 - 5:42 Verse, part 2
 - 6:33 Chorus
 - 7:30 End of chorus turn-around riff
+
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+
 
 <!-- ## Chords w/ lyrics
 

@@ -1,14 +1,18 @@
 ---
-layout: song
+layout: page
 title: 'My Guitar Story: Lessons Learned from 20 Years of Playing'
 category: generic
 date_published: 2021-05-24
 yt_video_id: b2aUzpegK5I
 slug: "367"
+redirect_from:
+  - /about
 ---
 
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32888140 -->
+
+<h1>My Guitar Story: Lessons Learned from 20 Years of Playing</h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2aUzpegK5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

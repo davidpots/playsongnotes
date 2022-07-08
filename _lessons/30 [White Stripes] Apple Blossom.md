@@ -19,23 +19,23 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28342366
 ---
 
-## Video lesson
+## Editor's Notes
 
-Here's my video lesson, definitely check this out to see how everything below is played:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xhX8QinM3vk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Hey friends! Here's a new PDF for my lesson teaching _Apple Blossom_ by The White Stripes (it also appears on Jack White's acoustic album from 2016). It includes chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar. This is a song I enjoyed quite a bit during my college days (1999-2003), but I fell in love with it again after hearing it used in Quentin Tarantino's movie _The Hateful Eight_.
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-Hey friends! Here's a new PDF for my lesson teaching "Apple Blossom" by The White Stripes (it also appears on Jack White's acoustic album from 2016). It includes chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar. This is a song I enjoyed quite a bit during my college days (1999-2003), but I fell in love with it again after hearing it used in Quentin Tarantino's movie "The Hateful Eight".
-
-Video timestamps:
+Timestamps:
 
 - 3:22 Chords Used
 - 4:08 Verse Strumming Technique
 - 5:57 Refrain Strumming Technique
 - 7:54 Barre Chords
+
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Lyrics
 
@@ -225,7 +225,3 @@ And here's a version that is an octave higher. I'm sure Jack White doesn't play 
     A –|–––2–––––––––––––0–––––––––––––––––––––|–
     E –|–––0–––––––––––––––––––––––––––––––––––|–
            E             Am
-
-## Good luck!
-
-Let me know if you have questions. I hope this was helpful.

@@ -21,7 +21,7 @@ musicnotes_url: https://www.musicnotes.com/l/2TgMb
 
 ## Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lMQNMJklGO4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 <!-- Coming soon! -->
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
@@ -41,7 +41,7 @@ After many requests, I'm please to bring you all this lesson for "Last Christmas
 
 Here's an up-close look at the print-friendly PDF chord sheet I made for this song (3 pages, with lyrics/tabs/strumming/etc):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C_tm-im5OSU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'C_tm-im5OSU' %}
 
 ## Lyrics w/ chords
 

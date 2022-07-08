@@ -16,9 +16,7 @@ musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236640
 
 ## Video lesson
 
-Here's my video lesson:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ddsCIJMwTnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 - 0:00 Greeting & overview
 - 1:42 Capo & tuning notes

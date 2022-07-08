@@ -10,7 +10,7 @@ date_published: 2020-03-28
 
 <!-- Coming soon... -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XH0-KaKRCx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 

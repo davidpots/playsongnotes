@@ -23,11 +23,12 @@ pdf_numpages: 4
 
 My video showing you how to play it like Smashing Pumpkins (lesson #285):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YUeOl2tFVbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 My cover version, which uses a strummier "easy" arrangement (lesson #287):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/917KRUQ747o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = '917KRUQ747o' %}
+
 
 PDFs chord sheets for both versions are available via the link below.
 

@@ -18,7 +18,7 @@ redirect_from:
 
 In this lesson, I'll show you an approachable 3-string exercise you can use to beef up your ring finger barre chord strength. This is a barring technique you'll need when playing the A-shape barre chord (e.g., x1333x or x3555x) - which can be tough to master! But that doesn't mean it needs to be difficult to learn. With this exercise, you'll be able to have fun with 3 related chords (I-IV-V triads) while focusing on just three strings. This lets you noodle around freely, perhaps work on some picking or strumming exercises, all the while you're building up your ring finger strength. I hope you enjoy!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtvYQSGS6wE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -30,4 +30,4 @@ In this lesson, I'll show you an approachable 3-string exercise you can use to b
 
 I also made this lesson, teaching you left index finger barre strength.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PI4Pce2HonM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'PI4Pce2HonM' %}

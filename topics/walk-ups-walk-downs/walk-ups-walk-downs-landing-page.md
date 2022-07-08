@@ -36,15 +36,15 @@ permalink: /topics/walk-ups-walk-downs/
 
 <p>Of the many songs I've taught, here's a few favorites that make heavy use of walking bass lines (usually played between chords).</p>
 
-{% include topic-item--song.html slug = '433' %}
-{% include topic-item--song.html slug = '6' %}
-{% include topic-item--song.html slug = '277' %}
-{% include topic-item--song.html slug = '145' %}
-{% include topic-item--song.html slug = '132' %}
-{% include topic-item--song.html slug = '94' %}
-{% include topic-item--song.html slug = '20' %}
-{% include topic-item--song.html slug = '18' %}
-{% include topic-item--song.html slug = '135' %}
+{% include topic-item.html slug = '433' %}
+{% include topic-item.html slug = '6' %}
+{% include topic-item.html slug = '277' %}
+{% include topic-item.html slug = '145' %}
+{% include topic-item.html slug = '132' %}
+{% include topic-item.html slug = '94' %}
+{% include topic-item.html slug = '20' %}
+{% include topic-item.html slug = '18' %}
+{% include topic-item.html slug = '135' %}
 
 
 <br /><br />

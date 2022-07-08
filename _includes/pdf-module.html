@@ -1,3 +1,5 @@
+<!-- -->
+
 {% if include.pdf_numpages == 1 %}
   {% assign pdf_numpages_string = "1 page" %}
 {% else %}
@@ -61,13 +63,10 @@
   <div class="pdf_module_v2 pdf_module_v2--song">
     <a target="_blank" href="{{include.musicnotes_url}}"><div class="pdf_module_v2__image" style="background-image: url(/images/pdfs/preview/{{include.slug}}.jpg)"></div></a>
     <div class="pdf_module_v2__content">
-      <ul class="pdf_module_v2__list">
-        <li>A properly licensed, print-friendly arrangement is available for individual purchase at Musicnotes.com</li>
-        <li>This sheet music was designed & hand-crafted by me (David Potsiadlo) with care, providing you with everything needed to both learn and play this song.</li>
-        <li>On the fence? <a href="https://playsongnotes.com/lessons/373/" target="_blank">Here's a video guide</a> I made showing the purchase & print process.</li>
-      </ul>
+      <p>Follow along with my print-friendly guide for this song! It's properly licensed and available for individual purchase at Musicnotes.com</p>
+      <p>It includes my carefully crafted presentation of the lyrics, tabs, chord shapes, and all other info needed to play this song. On the fence? <a href="/members/how-to-buy-song-sheets" target="_blank">Here's a video guide</a> I made showing the purchase & print process.</p>
       <a class="pdf_module_v2__button" target="_blank" href="{{include.musicnotes_url}}"><strong>Buy at Musicnotes.com</strong></a>
-      <p class="pdf_module_v2__footnote">Patreon supporters: <strong><a target="_blank" href="https://playsongnotes.com/discount">click here</a></strong> to get the 50% off discount code on this purchase</p>
+      <p class="pdf_module_v2__footnote">Patreon supporters: <strong><a target="_blank" href="https://playsongnotes.com/discount">click here</a></strong> for this month's 50% discount code</p>
     </div>
   </div>
 
@@ -90,9 +89,7 @@
 
 {% else %}
 
-  <h2>No PDF chord sheet exists for this lesson</h2>
-
-  <p>As of now, I haven't made a printable PDF to accompany this video lesson. If you'd like to request that I make one, <a href="mailto:play.songnotes@gmail.com?subject=PDF Request for '{{include.song_name}}'">shoot me an email</a>. I can't guarantee I'll make a PDF for every older lesson, but it's helpful to know which lessons have the most interest.</p>
-  <p class="small"><em><a href="http://playsongnotes.com/downloads">Here's a list</a> of the 200+ lessons I have made PDFs for.</em></p>
+  <h2>Print-friendly Song Sheet</h2>
+  <p><em>This is one of my few lessons that doesn't have a printable song sheet / PDF available.  If you'd like to request I make one, <a href="mailto:play.songnotes@gmail.com?subject=Song Sheet Request for '{{include.song_name}}'">let me know</a>... it's always great to hear which lessons have the most interest.</em></p>
 
 {% endif %}

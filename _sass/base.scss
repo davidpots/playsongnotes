@@ -11,6 +11,7 @@
   "base/grid",
   "base/tiles",
   "base/fretMonster",
+  "base/breadcrumbs",
   "base/pdfbadge"
 ;
 
@@ -188,7 +189,8 @@
         }
         .header-bottom {
           min-height: 60px;
-          background: white;
+          background: rgba(255,255,255,0.9);
+          -webkit-backdrop-filter: blur(10px);
           border-bottom: 1px solid #ddd;
         }
         /* -- */
@@ -522,9 +524,7 @@ iframe {
 
 // Lesson Head
 .lesson-head {
-  margin-bottom: 16px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid #ccc;
+  margin-bottom: 4px;
 }
 .lesson-head-prehead {
   margin: 0;
@@ -535,12 +535,17 @@ iframe {
   margin-bottom: 0;
 }
 .lesson-head-subhead {
-  margin: 0 0 8px 0;
-  font-size: $font-size--small;
+  margin: 0 0 24px 0;
+  font-size: 13px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #DCE3EA;
   .lesson-head-sublink {
     color: inherit;
     text-decoration: underline;
   }
+}
+.lesson-head-subhead + h2 {
+  margin-top: 16px;
 }
 
 
@@ -635,8 +640,20 @@ iframe {
   line-height: 15px;
   font-style: italic;
   margin-bottom: 0;
-
 }
+
+.col-8 .pdf_module_v2 {
+  font-size: 13px;
+  .pdf_module_v2__image {
+    width: 140px;
+    height: 184px;
+  }
+  .pdf_module_v2__content {
+    width: calc(100% - 140px - 24px);
+  }
+}
+
+
 
 @media screen and (max-width: 540px) {
   // .pdf_module_v2 {
@@ -1114,4 +1131,64 @@ tr[data-pdf-v2="v1"] td {
 .tabs-2022 li a.tabs-2022--active {
   color: $link-color;
   border-bottom: 5px solid $link-color;
+}
+
+
+// BROWSE BAR July 2022
+
+.browse_bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 54px;
+  background: rgba(255,255,255,0.85);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0px -8px 8px rgba(0,0,0,0.02);
+  p {
+    margin-top: 8px;
+  }
+  strong {
+    display: block;
+  }
+  a {
+    display: inline-block;
+    // position: relative;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
+.browse_bar__left {
+  float: left;
+  text-align: left;
+  margin-left: 16px;
+}
+.browse_bar__right {
+  float: right;
+  text-align: right;
+  margin-right: 16px;
+}
+
+@media only screen and (max-width: $breakpoint--mobile) {
+  .browse_bar { display: none; }
+}
+
+
+// RESPONSIVE VIDEO EMBEDS July 2022
+
+.video-container {
+  position:relative;
+  padding-bottom:56.25%;
+  height:0;
+  overflow:hidden;
+  margin-bottom: 32px;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
 }

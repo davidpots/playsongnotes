@@ -5,8 +5,8 @@ title: '"Badlands" by Bruce Springsteen (Play-along cover)'
 song_title:  Badlands
 artist: Bruce Springsteen
 year: 1978
-category: playalong_cover
-tags: [Play-Along Cover, 1970s, Classic Rock, Key of D]
+category: full_song
+tags: [Full Song Lesson, Play-Along Cover, 1970s, Classic Rock, Key of D]
 yt_video_id: 3TZcIrtgCUA
 date_published: 2017-02-04
 difficulty: beginner
@@ -20,15 +20,17 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32378911
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3TZcIrtgCUA?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Welcome to my guitar lesson for a solo acoustic version of _Badlands_, originally by Bruce Springsteen. This wasn't ever my favorite Springsteen song, but it turned out to be the first one I learned. One of the things that hooked me was stumbling upon this acoustic cover by Julien Baker, which had a sparse and stripped down feel that won me over immediately. I went about learning the song myself, and this lesson is the result.
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## About this lesson
 
-Welcome to my guitar lesson for a solo acoustic version of "Badlands", originally by Bruce Springsteen. This wasn't ever my favorite Springsteen song, but it turned out to be the first one I learned. One of the things that hooked me was stumbling upon this acoustic cover by Julien Baker, which had a sparse and stripped down feel that won me over immediately. I went about learning the song myself, and this lesson is the result.
 
 ## Capo on the 2nd fret
 

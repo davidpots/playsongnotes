@@ -17,11 +17,11 @@ patreon_lesson_url: https://www.patreon.com/posts/68235341
 
 <!-- https://youtu.be/GURF7pH6eRc -->
 
-<p class="large">Hey, friends! New lesson today for Roy Orbison's 1964 classic <strong><em>Oh, Pretty Woman</em></strong>. This song is tremendously fun to play, featuring an all-timer guitar riff that's integrated quite seamlessly with the intro, verse, and chorus of the song. With a solo acoustic guitar, I'll teach you to play it all: the riff, the strumming, and everything in between. It took me a few days of serious practice before I could sing + strum + play the riff all without missing a step, but I finally able to get there — and I'm excited to show you the way. Let's check it out!</p>
+Hey, friends! New lesson today for Roy Orbison's 1964 classic _Oh, Pretty Woman_. This song is tremendously fun to play, featuring an all-timer guitar riff that's integrated quite seamlessly with the intro, verse, and chorus of the song. With a solo acoustic guitar, I'll teach you to play it all: the riff, the strumming, and everything in between. It took me a few days of serious practice before I could sing + strum + play the riff all without missing a step, but I finally able to get there — and I'm excited to show you the way. Let's check it out!
 
 ## Free Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -88,11 +88,11 @@ Played at 127 beats per minute. Key of A, standard tuning.
 
 Here's instructional lessons I've made teaching concepts that are useful in this song.
 
-{% include related-lesson-module.html slug = '183' %} <!-- Pretty Woman Riff 4 ways -->
-{% include related-lesson-module.html slug = '194' %} <!-- A-major triangle shape -->
-{% include related-lesson-module.html slug = '46' %}  <!-- A-major barred -->
-{% include related-lesson-module.html slug = '192' %} <!-- F# major -->
-{% include related-lesson-module.html slug = '241' %} <!-- F# major without barring -->
+{% include topic-item.html slug = '183' %} <!-- Pretty Woman Riff 4 ways -->
+{% include topic-item.html slug = '194' %} <!-- A-major triangle shape -->
+{% include topic-item.html slug = '46' %}  <!-- A-major barred -->
+{% include topic-item.html slug = '192' %} <!-- F# major -->
+{% include topic-item.html slug = '241' %} <!-- F# major without barring -->
 
 ## Join the Discussion on My Patreon Page
 

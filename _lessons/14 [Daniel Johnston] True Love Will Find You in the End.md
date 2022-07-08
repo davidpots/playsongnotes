@@ -14,9 +14,13 @@ redirect_from:
   - /songs/daniel-johnston-true-love-will-find-you-in-the-end/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_KMYuAkr0F8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson for Daniel Johnston's _True Love Will Find You In The End_, a song I fell in love with after hearing it on Duncan Trussell's podcast in 2013. A year or two after hearing this song I would coincidentally end up moving to Austin, TX — where I later learned Daniel Johnston is from. It may not be the most widely-known song but I'm glad to have learned it, and hope this lesson is of service. All the best with it!
+
+## Free Video lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
@@ -97,7 +101,3 @@ Here is how you play the guitar chords used in this song. Pretty damn straightfo
     | Em . . . | Em . . . | Am . . . | Am . . . |
     | C  . . . | C  . . . | C  . . . | C  . . . |
     | G  . . . | G  . . . |
-
-## Good luck!
-
-Let me know if you have any questions. I hope this was helpful.

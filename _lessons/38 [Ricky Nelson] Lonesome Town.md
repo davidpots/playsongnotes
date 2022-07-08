@@ -21,17 +21,15 @@ patreon_lesson_url: https://www.patreon.com/posts/47547391
 #pdf_for_sale: https://gum.co/wZWcq
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QFiatbwLPXg?showinfo=0" frameborder="0" allowfullscreen></iframe>
+This video is an acoustic guitar lesson for the song _Lonesome Town_ by Ricky Nelson. I'll show you how to play it in standard tuning, using a fingerpicking approach. This lesson includes a playthrough, explanation of how to play each chord, overview of the chord progressions needed, fingerpicking basics -- I cover it all! Including the difference between a shuffle vs. straight rhythm. I created this tutorial for Song Notes, which is my personal music lesson web project (video and text-based lessons).
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-This video is an acoustic guitar lesson for the song "Lonesome Town" by Ricky Nelson. I'll show you how to play it in standard tuning, using a fingerpicking approach. This lesson includes a playthrough, explanation of how to play each chord, overview of the chord progressions needed, fingerpicking basics -- I cover it all! Including the difference between a shuffle vs. straight rhythm. I created this tutorial for Song Notes, which is my personal music lesson web project (video and text-based lessons).
-
-Video timestamps:
+Timestamps:
 
 - 0:00 Preview
 - 2:23 About this lesson
@@ -39,6 +37,13 @@ Video timestamps:
 - 5:42 Fingerpicking basics
 - 7:11 Using your thumb on the F
 - 9:56 Shuffle rhythm basics
+
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+
+
 
 
 <!-- ## Lyrics with chords
@@ -245,8 +250,8 @@ E ––––––––––––––––––––––––––
 ## A Nod to the Original Songwriter
 Finally, I should note that this song was written by Baker Knight and not Ricky Nelson. For more info about the song, refer to its page on Wikipedia: http://en.wikipedia.org/wiki/Lonesome_Town
 
-## "Jack Rabbit Slims" in Pulp Fiction
-Just for some cultural and cinematic flavor, here is the famous Jack Rabbit Slims tracking shot from Quentin Tarantino's film "Pulp Fiction" -- where an in-costume Ricky Nelson is playing live music as the main characters walk through the restaurant. In the film, "Lonesome Town" is played immediately after this sequence.
+## Jack Rabbit Slims in Pulp Fiction
+Just for some cultural and cinematic flavor, here is the famous Jack Rabbit Slims tracking shot from Quentin Tarantino's film Pulp Fiction -- where an in-costume Ricky Nelson is playing live music as the main characters walk through the restaurant. In the film, Lonesome Town is played immediately after this sequence.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNwtg3Wmp30?showinfo=0" frameborder="0" allowfullscreen></iframe>
 

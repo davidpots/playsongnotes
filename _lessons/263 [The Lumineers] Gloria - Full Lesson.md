@@ -18,7 +18,7 @@ musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236796
 
 ## Full song lesson (Lesson #263)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iW7gGUq9rWc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 <!-- Coming soon! -->
 

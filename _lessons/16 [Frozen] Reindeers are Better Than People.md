@@ -14,9 +14,13 @@ redirect_from:
   - /songs/frozen-reindeers-are-better-than-people/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gpHCFXuplxY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson teaching you how to play _Reindeers Are Better Than People_, as heard in the 2013 film _Frozen_. This one was tricky to work out, but I'm quite happy with the end result! I'll teach you the chords, and also show a few helpful tabs to capture the vibe of the soundtrack version's arrangement. I hope you enjoy it!
+
+## Free Video lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
@@ -80,13 +84,13 @@ Here is how you play this song's chords on a guitar. Note that in the recorded v
 
 Here is the guitar tab for the intro of this song -- as I play it, at least. This pretty much exactly matches up with the soundtrack version.
 
-e-|---------------------------------0-----------------||
-B-|----0-------1----0-------------2-------------------||
-G-|----0-------0----0-----------0---------------------||
-D-|----0-------2----0---------2-----------------------||
-A-|-------------------------0-------------------------||
-E-|----3-------3----3---------------------------------||
-       G      C/G   G       A7
+    e-|---------------------------------0-----------------||
+    B-|----0-------1----0-------------2-------------------||
+    G-|----0-------0----0-----------0---------------------||
+    D-|----0-------2----0---------2-----------------------||
+    A-|-------------------------0-------------------------||
+    E-|----3-------3----3---------------------------------||
+           G      C/G   G       A7
 
 ## Verse Guitar Tab
 

@@ -16,7 +16,7 @@ musicnotes_url: https://www.musicnotes.com/l/McvMb
 
 ## Video Lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Hey friends – new lesson today diving into Fire and Rain, the James Taylor classic from 1970. This has been one of the most requested songs I've had in the past year, and it's been a joy to learn over the last few weeks. In my video lesson I'll tackle everything you need to play the entire song, showing more-or-less exactly how James Taylor plays things in addition to some simplified options for some of the tricky bits. Even if you only learn the intro riff, there's so much fun to be had with this song. Let's get into it!
 

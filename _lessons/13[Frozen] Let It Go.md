@@ -15,17 +15,20 @@ redirect_from:
   - /songs/frozen-let-it-go/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/14EwW7uWGTo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson teaching the modern Disney classic _Let It Go_ from the 2013 film _Frozen_. I recorded this one the week the movie came out... I remember coming home and being shocked, at the time, there were no tutorials on YouTube for it yet. I made this one promptly, and it was my first mini-viral hit... getting to 500k views within the first week. That'd most assuredly never happened in the ~10 videos I'd made up until this point.
 
+I'm sharing this because as I write this, in July 2022 (8 years later), this was one of the first "big" videos I made letting me know what might be possible. I've admittedly not been great at generating lots of views, comapred to many YouTubers... but I'm proud of the journey I've been on since making this video! I hope you find the lesson helpful! _– DP, July 2022_
 
+## Free Video lesson
 
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 
-## Chords w/ lyrics
+## Chords w/ Lyrics
 
     INTRO
                G          D           Em              C
@@ -216,8 +219,3 @@ To emulate the sound of the instrumental backup heard in both the Demi and the I
     "And here I stand..."
     | G . . . | F . . . | C . . . | Cm . . . |
     | G . . . | D . . . | C . . . | C  . . . |
-
-
-## Good luck!
-
-Let me know if you have any questions. I hope this was helpful.

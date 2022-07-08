@@ -18,13 +18,16 @@ patreon_lesson_url: https://www.patreon.com/posts/67641016
 
 <!-- https://youtu.be/E5PqBrjsAPM -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hey there, friends! New lesson today teaching you how to play City of New Orleans — originally written/recorded by Steve Goodman (1971) before the hit covers from Arlo Guthrie (1972) and Willie Nelson (1984). You may know this song by its chorus refrain – "Good morning, America / how are you?". I've gotten many requests for this one over the years... so I'm excited to finally have this lesson for y'all!
 
 I'm modeling my lesson after Arlo Guthrie's version, and teaching this song in the Key of G. This mostly keeps the chords simple and straightforward... though you will have a B-minor, as well as a brief measure of F, to worry about. Fear not, I'll show you simplified versions of both of these chords — so you'll most definitely be able to play it even if barre chords aren't under your belt. For strumming, I'll likewise show you a few different options for you to pick from based on your skill level and taste. I hope you enjoy!
 
-Video lesson timestamps:
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
+
+Timestamps:
 
 - 0:00 Demonstration
 - 0:48 Verse

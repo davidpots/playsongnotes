@@ -1,0 +1,15 @@
+.breadcrumbs_2022 {
+  margin-top: 8px;
+  font-size: 11px;
+  a {
+    // text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 16px;
+    padding-right: 4px;
+    padding-left: 4px;
+  }
+  a:first-child {
+    padding-left: 0;
+  }
+}

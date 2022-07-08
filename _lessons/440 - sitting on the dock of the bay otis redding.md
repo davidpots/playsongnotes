@@ -17,13 +17,15 @@ patreon_lesson_url: https://www.patreon.com/posts/67934929
 
 <!-- https://youtu.be/E5PqBrjsAPM -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Hello, friends! Here's a guitar lesson for Sittin' on the Dock of the Bay, the Otis Redding classic from 1968. This one is a ton of fun to play on the guitar, even though you may not think of guitar when you listen to it. I'll teach you to play it using only 7 chords (using only open chords, all of which major). I'll show you a few ways to strum it, including both beginner-friendly and more advanced strums.
+Today you'll learn how to play _Sittin' on the Dock of the Bay_, the Otis Redding classic from 1968. This one is a ton of fun to play on the guitar, even though you may not think of guitar when you listen to it. I'll teach you to play it using only 7 chords (using only open chords, all of which major). I'll show you a few ways to strum it, including both beginner-friendly and more advanced strums.
 
 For those of you who are looking for a bit of a challenge, I'll also teach you the subtle walk-up and walk-down heard during the verse of Redding's album version — in addition to explaining the rhythm behind the pushed chord changes that give the song's rhythm a bit of distinction. These may take a bit of practice to get comfortable with, but they sound great when used together. Let's jump in!
 
-Video lesson timestamps:
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
+
+Timestamps:
 
 - 0:00 Preview & Lesson Summary
 - 1:30 Verse & Chorus Basics
@@ -67,8 +69,8 @@ Played at 104 beats per minute. Key of G, standard tuning.
 
 Here's instructional lessons I've made teaching concepts that are useful in this song.
 
-{% include related-lesson-module.html slug = '354' %} <!-- Walk-ups, Walk-downs, and the fretboard -->
-{% include related-lesson-module.html slug = '361' %} <!-- Adding Grit with Flat 3rds and Flat 7ths -->
-{% include related-lesson-module.html slug = '371' %} <!-- Bass note strumming -->
-{% include related-lesson-module.html slug = '83' %}  <!-- G with 2 Fingers -->
-{% include related-lesson-module.html slug = '392' %} <!-- F-major -->
+{% include topic-item.html slug = '354' %} <!-- Walk-ups, Walk-downs, and the fretboard -->
+{% include topic-item.html slug = '361' %} <!-- Adding Grit with Flat 3rds and Flat 7ths -->
+{% include topic-item.html slug = '371' %} <!-- Bass note strumming -->
+{% include topic-item.html slug = '83' %}  <!-- G with 2 Fingers -->
+{% include topic-item.html slug = '392' %} <!-- F-major -->

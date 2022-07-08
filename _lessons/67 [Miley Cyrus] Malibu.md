@@ -15,9 +15,13 @@ redirect_from:
 
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F9gab3_AywE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson teaching _Malibu_ by Miley Cyrus. I'll teach the chords, strumming, and more... you'll be up and running with this song in no time! Enjoy.
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 

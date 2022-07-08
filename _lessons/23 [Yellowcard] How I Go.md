@@ -14,11 +14,13 @@ redirect_from:
   - /songs/yellowcard-how-i-go/
 ---
 
-## Video lesson
+## Editor's Notes
 
-Here's my video lesson! All tabs and notes below are used and demonstrated within the video lesson here.
+Here's an acoustic guitar lesson teaching you how to play _How I Go_ by Yellowcard. This is an amazingly fun song to play. While I'm not certain my arrangement is 100% what the band is playing, I do think it's quite close to the mark — and either way, it makes for both a good challenge and a satisfying end-result (if you can pull it off). Best of luck with it!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cGtB7Ugw58?showinfo=0" frameborder="0" allowfullscreen></iframe>
+## Free Video lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -242,7 +244,3 @@ Here are the lyrics for the song. Refer to the indentation to denote the various
                 And every story I have told is part of you---------
 
                                                     (walk-down riff, end on E)
-
-## Good luck!
-
-Let me know if you have questions. I hope this was helpful.

@@ -16,17 +16,15 @@ pdf_version: musicnotes
 pdf_numpages: 3
 ---
 
-## Video Lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r0Wwi2MnQoo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's a guitar lesson showing you how to play _You're Gonna Make Me Lonesome When You Go_ by Bob Dylan. This is a great song from the album _Blood on the Tracks_, one of my absolute favorites. As I note in the lesson, this is likely not how Bob Dylan plays the song -- it's unique arrangement I pieced together myself (in standard tuning) -- so take it for what it's worth. This lesson includes chords, tabs, and strumming pattern -- with a nice focus on how to emphasize the bass note of each chord as part of the strumming pattern. Best of luck with it!
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-Here's a guitar lesson showing you how to play "You're Gonna Make Me Lonesome When You Go" by Bob Dylan (in standard tuning). This is a great song from the album "Blood on the Tracks," which I love love love. As I note in the lesson, this is likely not how Bob Dylan played (plays) the song -- it's unique arrangement I pieced together myself -- so take it for what it's worth. This lesson includes chords, tabs, and strumming pattern -- with a nice focus on how to emphasize the bass note of each chord as part of the strumming pattern.
-
-Video timestamps:
+Timestamps:
 
 - 2:34 Song overview
 - 2:51 Verse chords needed
@@ -34,6 +32,11 @@ Video timestamps:
 - 4:55 Verse strumming w/ adv. bass line
 - 5:31 Refrain chords needed
 - 6:40 Refrain strumming
+
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
 
 <!-- ## Lyrics and chords
 

@@ -18,13 +18,15 @@ patreon_lesson_url: https://www.patreon.com/posts/66122331
 
 <!-- https://youtu.be/E5PqBrjsAPM -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Hey there, friends! Excited to share this lesson for "A Pirate Looks at Forty", the 1974 Jimmy Buffett song that quite a few of you have written in asking for. The lessons on my channel may not suggest as much, but Buffett is one of my absolute favorite musical artists – so it feels great to finally do a proper lesson for one of his songs.
+Hey there, friends! Excited to share this lesson for _A Pirate Looks at Forty_, the 1974 Jimmy Buffett song that quite a few of you have written in asking for. The lessons on my channel may not suggest as much, but Buffett is one of my absolute favorite musical artists – so it feels great to finally do a proper lesson for one of his songs.
 
 Musically, this song is fairly easy to wrap your head around... it's a single 12-measure progression that repeats for the entire song. Chord-wise, it can get tricky though with the quick change to the B-minor. But, good news! A new trick I learned the past few weeks: there's an open (non-barred) version of B-minor which works amazingly well for this song, which I'll share in this lesson. So, let's get into it!
 
-Video lesson timestamps:
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
+
+Timestamps:
 
 - 0:00 Preview & Lesson Summary
 - 0:56 Chord Shapes & Progression

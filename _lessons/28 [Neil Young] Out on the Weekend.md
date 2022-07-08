@@ -19,17 +19,15 @@ pdf_numpages: 2
 
 <!-- https://www.patreon.com/posts/27089906 -->
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PbKgfvlDrow?showinfo=0" frameborder="0" allowfullscreen></iframe>
+This video is a guitar lesson for _Out on the Weekend_ by Neil Young, from his 1972 album _Harvest_. It includes chords, tabs, and strumming pattern -- showing how to play this song in standard tuning on an acoustic guitar. Enjoy!
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-This video is a guitar lesson for "Out on the Weekend" by Neil Young, from his 1972 album "Harvest". It includes chords, tabs, and strumming pattern -- showing how to play this song in standard tuning on an acoustic guitar.
-
-Video timestamps:
+Timestamps:
 
 - 0:00 Playthrough & overview
 - 3:30 Chords used
@@ -37,6 +35,12 @@ Video timestamps:
 - 7:04 Strumming: flourish notes
 - 9:15 Strumming: muted technique
 - 10:58 Chorus chord voicings
+
+
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
 
 <!-- ## Chords w/ lyrics
 

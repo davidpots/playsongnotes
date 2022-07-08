@@ -12,7 +12,7 @@ patreon_lesson_url: https://www.patreon.com/posts/32888140 -->
 
 Hey friends! Good news: after a very busy few weeks, 60+ of my recently de-listed song sheets are back online & available to you, once again.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RxWflBXsmkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 A quick summary of what's new (for my "song" PDFs only):
 

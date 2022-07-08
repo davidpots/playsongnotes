@@ -10,7 +10,7 @@ yt_video_id: dQGayzh3vig
 
 ## Video Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQGayzh3vig?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 

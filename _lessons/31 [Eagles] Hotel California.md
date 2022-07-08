@@ -18,17 +18,15 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/20970359
 ---
 
-## Video lesson
+## Editor's Notes
+
+This video is a guitar lesson for the classic song _Hotel California_ by The Eagles. It includes chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar (with no capo).
+
+## Free Video Lesson
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsongnotes%2Fvideos%2F1261105190576796%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-## Editor's notes
-
-This video is a guitar lesson for the classic song "Hotel California" by The Eagles. It includes chords, tabs, and strumming patterns -- showing how to play this song in standard tuning on an acoustic guitar (with no capo).
-
-Video timestamps:
+Timestamps:
 
 - 0:00 Preview & lesson overview
 - 2:34 About this lesson
@@ -39,6 +37,13 @@ Video timestamps:
 - 10:45 Intro: basics
 - 13:24 Intro: adding flourish
 - 17:34 Chorus riffs
+
+<!-- -->
+
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+
 
 ## Lyrics with chords
 
@@ -261,8 +266,3 @@ E –––2––––––––––––––––––––––�
     A ––––2––––––––––––––––––––––––––––––––––––––
     E ––––0––––––––––––––––––––––––––––––––––––––
           Em -->
-
-
-## Good luck!
-
-I hope this helps. Shoot me any questions or comments in an email, I'd be happy to respond.

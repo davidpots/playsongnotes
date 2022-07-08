@@ -16,9 +16,13 @@ redirect_from:
   - /songs/x-of-monsters-and-men-little-talks/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I02SOAqr8Vg?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson teaching you how to play _Little Talks_ by Of Monsters and Men. I'll explain the chords shapes needed, talk through the progressions, and show you an example of how things sound when you put it all together. Best of luck with it!
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
@@ -132,7 +136,3 @@ Here are the tabs for the guitar chords used in this song. You're essentially re
       "Don't listen to a word I say..."
       | Am . . . | F . . . | C . . . | G . . . |
                                      (...repeat)
-
-## Good luck!
-
-Thanks for reading! I hope this helped you.

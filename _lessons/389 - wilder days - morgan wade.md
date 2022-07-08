@@ -17,7 +17,7 @@ patreon_lesson_url: https://www.patreon.com/posts/56592695
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IAyG_YPIorA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Hey friends, lesson today showing you how to play Wilder Days by Morgan Wade. This is the fantastic track that opens her debut album Reckless, which came out earlier this year. The intro makes fun use of C and a minified F chord, both of which have you removing & adding your left-middle finger in the same manner. Combined with a driving eighth-note rhythm (divided into repeating clusters of 3 and 5), you get quite a distinctive that makes this song quite fun to play.
 

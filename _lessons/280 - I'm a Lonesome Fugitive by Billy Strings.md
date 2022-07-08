@@ -20,11 +20,12 @@ patreon_lesson_url: https://www.patreon.com/posts/33200047 -->
 
 My lesson is coming soon. Here's the version I'll be learning:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ai0TNApo0lo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 And here's an amazing [lesson by Marcel](https://lessonswithmarcel.com/2019/08/29/how-to-play-im-a-lonesome-fugitive-like-billy-strings-advanced-bluegrass-guitar-lesson/) showing the lead guitar parts:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oa5njfZMHAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = 'oa5njfZMHAE' %}
+
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 

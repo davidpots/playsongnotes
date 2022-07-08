@@ -5,7 +5,7 @@ song_title: Manhattan Island Serenade
 artist: Vincent Neil Emerson
 year: 2020
 category: full_song
-yt_video_id: 
+yt_video_id:
 slug: "320"
 tags: [Full Song Lesson, 2020s, 1970s, Key of Em, Country, Classic Rock]
 hidden_tags: [Leon Russell]

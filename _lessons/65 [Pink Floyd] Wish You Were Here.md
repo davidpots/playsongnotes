@@ -18,17 +18,15 @@ pdf_numpages: 2
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236638
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ApUgdFywSLo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+In this lesson, I'll show you how to play the classic Pink Floyd song _Wish You Were Here_. I'll show you how to play the intro (with tabs), explain the chords needed, talk about strumming pattern, and more. This is just a fabulous song, great for beginners (I keep this version as easy as possible), but also quite fun for seasoned musicians.
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-In this lesson, I'll show you how to play the classic Pink Floyd song "Wish You Were Here". I'll show you how to play the intro (with tabs), explain the chords needed, talk about strumming pattern, and more. This is just a fabulous song, great for beginners (I keep this version as easy as possible), but also quite fun for seasoned musicians. Here's what I cover in the lesson:
-
-Video timestamps:
+Timestamps:
 
 - 0:00 Playthrough
 - 2:20 Lesson overview
@@ -37,66 +35,17 @@ Video timestamps:
 - 7:05 Verse strumming, simple
 - 7:50 Verse strumming, advanced
 
-The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).         
+<!-- -->
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+
+
 
 ## Intro riff
 
-    E ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
-    B ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
-    G ––––––––––––––––0––0–0––0––––––––0––––––––0––0–0––0–––
-    D –––––––––0–2––––2––2–2––2––––––2–––2–0––––0––0–0––0–––  x 2
-    A –––––0h2––––––––––––––––––––––––––––––––––––––––––––––
-    E –––3––––––––––––––––––––––––––––––––––––––––––––––––––
-                      Em7                       G   
+The more musically astute among you will notice some corners I may have cut in some of the very minor details with the intro riff's tab. I also am using standard chord shapes for the verse/chorus chords (where I believe Pink Floyd likely plays inversions of these chords, such as C/G and D/F#).         
 
-    E ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
-    B ––––––––––––––––3––3–3––3–––––––––––––––––3––3–3––3–––
-    G ––––––––––––––––0––0–0––0–––––––––––––––––0––0–0––0–––
-    D –––––––––0–2––––2––2–2––2––––––2–0––––––––2––2–2––2–––  x 2
-    A –––––0h2–––––––––––––––––––––––––––2–0––––0––0–0––0–––
-    E –––3––––––––––––––––––––––––––––––––––––––––––––––––––
-                      Em7                       A7sus4
-
-    E ––––––––––––––––––3––3–3––3–3–––
-    B ––––––––––––––––––3––3–3––3–3–––
-    G ––––––––––––––––––0––0–0––0–0–––
-    D ––––––––––––––––––0––0–0––0–0–––  x 1, then repeat intro (with solo)
-    A –––0–0h2–0––––––––2––2–2––2–2–––       or begin the first verse
-    E ––––––––––––3–––––3––3–3––3–3–––
-                        G
-
-## Lyrics w/ chords
-
-    C                           D
-    ...So, so you think you can tell
-                Am                    G
-    Heaven from hell, blue skies from pain
-                         D                       C
-    Can you tell a green field from a cold steel rail
-                   Am                            G
-    A smile from a veil?  Do you think you can tell
-
-                        C                     D
-    Did they get you to trade your heroes for ghosts
-                  Am                   G
-    Hot ashes for trees, hot air for a cool breeze
-                     D                 C
-    Cold comfort for change, did you exchange
-                          Am                         G
-    A walk-on part in the war for a lead role in a cage
-
-        [ play full intro, with solo ]
-
-    C                                     D
-    ...How I wish, how I wish you were here
-               Am                                     G
-    We’re just two lost souls swimmin’ in a fish bowl... year after year
-    D                                   C
-    ... Running over the same old ground... what have we found
-                 Am                       G
-    The same old fears... I wish you were here
-
-        [ repeat intro as desired, with or without solo, end ]
+    See my song sheet for the intro tab.
 
 ## Chords needed
 

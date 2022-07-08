@@ -13,7 +13,7 @@ patreon_lesson_url: https://www.patreon.com/posts/35077534 -->
 
 ## 3 ways to strum without a pick
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/6BIezIPZLWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Editor's notes
 

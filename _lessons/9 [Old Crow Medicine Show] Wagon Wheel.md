@@ -19,15 +19,16 @@ redirect_from:
 
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7BJVJz0rxZ8?showinfo=0" frameborder="0" allowfullscreen></iframe>
+This video will teach you how to play _Wagon Wheel_ by Old Crow Medicine Show on acoustic guitar. This will also work for the Darius Rucker version, which uses the exact same chords. Note I'll be using a capo on 2nd fret, which lets you use easy chords throughout this song (G-D-Em-C). I hope you find it helpful!
+
+## Free Video lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## Editor's notes
-
-This video will teach you how to play "Wagon Wheel" by Old Crow Medicine Show on acoustic guitar. This will also work for the Darius Rucker version, which uses the exact same chords. Note I'll be using a capo on 2nd fret, which lets you use easy chords throughout this song (G-D-Em-C).
 
 <!-- ## Chords w/ lyrics
 

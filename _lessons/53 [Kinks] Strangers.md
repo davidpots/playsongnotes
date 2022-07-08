@@ -18,16 +18,17 @@ patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/28015769
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IkG_FCZ-s4g?showinfo=0" frameborder="0" allowfullscreen></iframe>
+In this lesson, I show you how to play the song _Strangers_ by The Kinks. I'll show you the chords, progressions, and strumming patterns used throughout the song. Tabs and lyrics are included. I do hope you enjoy this and find it helpful.
 
+## Free Video Lessons
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## Editor's notes
 
-In this lesson, I show you how to play the song "Strangers" by The Kinks. I'll show you the chords, progressions, and strumming patterns used throughout the song. Tabs and lyrics are included. I do hope you enjoy this and find it helpful.
 
 ## Chord progressions
 

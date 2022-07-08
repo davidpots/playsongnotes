@@ -18,17 +18,15 @@ musicnotes_url: https://www.musicnotes.com/l/VgQMq
 pdf_numpages: 3
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRA38cZMIJk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+In this lesson, I show you how to play the song _Simple Man_ by Lynyrd Skynyrd on an acoustic guitar. I'll show you how to play the chords needed, the strumming patterns, the distinctive riffs (easy and intermediate versions), and also the picking pattern heard in the intro of the song. Tabs and chord charts are included. Note, I'll be playing in standard tuning (note, you must tune down one-half step to play along with the Lynyrd Skynyrd version).
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
+## Free Video Lesson
 
-## Editor's notes
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-In this lesson, I show you how to play the song "Simple Man" by Lynyrd Skynyrd on an acoustic guitar. I'll show you how to play the chords needed, the strumming patterns, the distinctive riffs (easy and intermediate versions), and also the picking pattern heard in the intro of the song. Tabs and chord charts are included. Note, I'll be playing in standard tuning (note, you must tune down one-half step to play along with the Lynyrd Skynyrd version).
-
-Video timestamps:
+Timestamps:
 
 - 0:00 Lesson overview
 - 2:01 Chords
@@ -36,6 +34,11 @@ Video timestamps:
 - 6:45 Riff, intermediate
 - 8:48 Picking pattern
 - 13:17 Misc other notes
+ 
+<!-- -->
+
+
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
 ## Chords you'll need
 

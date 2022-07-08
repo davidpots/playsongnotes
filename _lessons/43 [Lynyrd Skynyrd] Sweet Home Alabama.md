@@ -18,15 +18,18 @@ pdf_numpages: 4
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236768
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u04OuAzhSZA?showinfo=0" frameborder="0" allowfullscreen></iframe>
+This guitar lesson is for a solo acoustic version of _Sweet Home Alabama_ by Lynyrd Skynyrd. For this classic song, I'll show you how to play all of the recognizable riffs and fills you hear during the song: including during the intro, verses, and choruses. I'll also show you how to play the chords used during the entire song, including strumming patterns (both simple and complex).
+
+My aim with this lesson is to give you the core building blocks you'll need to take this song to advanced places, should you wish. I won't cover the solo or 100% note-for-note tab recreations of what each guitar plays during the song, as that's a huge effort and others have done that in many cases.
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## Editor's notes
-
-This guitar lesson is for a solo acoustic version of "Sweet Home Alabama" by Lynyrd Skynyrd. For this classic song, I'll show you how to play all of the recognizable riffs and fills you hear during the song: including during the intro, verses, and choruses. I'll also show you how to play the chords used during the entire song, including strumming patterns (both simple and complex). My aim with this lesson is to give you the core building blocks you'll need to take this song to advanced places, should you wish. I won't cover the solo or 100% note-for-note tab recreations of what each guitar plays during the song, as that's a huge effort and others have done that in many cases.
 
 <!-- ## Lyrics with chords
 
@@ -246,7 +249,3 @@ D   .   C   .   G   .   .   .
 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
 d d d dud d d dud d d dud d d du
 ¯ ¯ >   ¯ ¯ >   ¯ ¯ >   ¯ ¯ > -->
-
-## Hope that helps!
-
-Let me know how things work for you when learning this song! Hopefully well. Hit me up with any comments / questions / etc.

@@ -11,7 +11,11 @@
     <!-- <p class="tile-description">In this week’s guitar lesson, you’ll be playing in the key of the song (so no worrying about following chord changes). You’ll be playing everything from...</p> -->
     {% if l.pdf_version And l.pdf_version != "" And l.pdf_version != nil %}
     <p class="tile-badge" style="margin-left: 140px;">
-      <a class="pdf-badge" data-pdf-version="v2" href="{{ l.url | relative_url }}"><span class='pdf-icon'>★</span> Patreon PDF Available</a>
+      {% if l.pdf_version == "musicnotes" %}
+        <a class="pdf-badge" data-pdf-version="musicnotes" href="{{ l.url | relative_url }}"><span class='pdf-icon'>$</span> Song Sheet Available</a>
+      {% elsif l.pdf_version == "v1" or l.pdf_version == "v2" %}
+        <a class="pdf-badge" data-pdf-version="v2" href="{{ l.url | relative_url }}"><span class='pdf-icon'>★</span> Patreon PDF Available</a>
+      {% endif %}
     </p>
     {% endif %}
   </div>

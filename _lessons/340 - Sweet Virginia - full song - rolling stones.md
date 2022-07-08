@@ -22,7 +22,7 @@ musicnotes_url: https://www.musicnotes.com/l/zkFMW
 
 Here's my lesson on how to play the intro (first 20 measures) -- which is exactly the same chords / progression / strumming used for the verse and chorus sections. This intro tab is available in the PDF linked below. My PDF also includes all the lyrics, with chords inline, if you want to strum along to the entire song.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AqoK5lm1AZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Lesson timestamps:
 

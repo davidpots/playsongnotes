@@ -16,7 +16,7 @@ patreon_lesson_url: https://www.patreon.com/posts/26191868
 
 ## Video Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaQ_Z83Ospk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 <!-- Coming soon... -->
 

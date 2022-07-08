@@ -15,13 +15,17 @@ redirect_from:
 
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2siOA8OsIls?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson teaching you how to play _Team_ by Lorde, one of the songs from her 2013 debut album. This quickly became one of my favorites from the album, which was new back when I recorded this lesson. I'll show you the chord shapes, the progression, and also show tabs imitating what she sings during the intro. Hope you dig it!
+
+## Free Video lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-## Chords w/ lyrics
+## Chords w/ Lyrics
 
     (capo 6th fret)
 
@@ -164,6 +168,7 @@ There is a very distinct strumming pattern that works well with this song, which
           x           x           x           x          x           x
 
 ### Intro Guitar Tab
+
 Here's how to play the intro, which Lorde sings over. These notes match the notes she sings. Check out the Juliana cover (below) to see/hear this played with the singing.
 
     e-|------------------------------------|-
@@ -225,7 +230,3 @@ Here's how to play the intro, which Lorde sings over. These notes match the note
     REFRAIN
     "I'm kinda over being told..."
     | F . . . | Am . . . | G . . . | G . . . |
-
-## Good luck!
-
-Let me know if you have any questions. I hope this was helpful.

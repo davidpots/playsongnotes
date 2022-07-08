@@ -20,7 +20,7 @@ patreon_lesson_url: https://www.patreon.com/posts/56939343
 
 ## Video lesson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VlC2zfZsUxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 Hey friends! New song lesson today for the much requested Night Moves by Bob Seger (1976). This song may seem deceivingly simple at the outset (just 3 chords for intro & verse) -- but the rhythm, strumming, and F-chord nuance required makes it a bit trickier to pull off. But, fear not! I'll walk you through it step by step. No matter your skill level, I'll help you both play the F chord (using one of a few options), as well as master the tricky strumming required to capture Seger's sound.
 

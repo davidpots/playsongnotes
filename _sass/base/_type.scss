@@ -80,7 +80,7 @@
 
         h2, .h2 {
           font-size: $font-size--xlarge;
-          margin-top: 48px;
+          margin-top: 42px;
           span {
             font-weight: normal;
             color: $gray-light;
@@ -94,7 +94,9 @@
         }
 
         h4, .h4 {
-          font-size: $font-size--normal;
+          font-size: 12px;
+          color: #9EAFBE;
+          text-transform: uppercase;
         }
 
         h5, .h5 {

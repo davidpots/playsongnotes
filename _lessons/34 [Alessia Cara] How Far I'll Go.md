@@ -16,17 +16,16 @@ redirect_from:
   - /songs/x-alessia-cara-how-far-ill-go/
 ---
 
-## Video lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xPczglWXQM?showinfo=0" frameborder="0" allowfullscreen></iframe>
+Here's an acoustic guitar lesson for _How Far I'll Go_ from the 2016 film _Moana_. I'm teaching this song in the Key of C, which requires you to add a capo 4th fret if you choose to play along with the album version. Playing it in this key (C) allows you to use much easier chords than would otherwise be required. I hope you enjoy!
+
+## Free Video Lesson
+
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-
-## Capo 4th fret!
-
-This lets you avoid scary barre chords. If you want to play the song without a capo, it's in the key of E... transpose everything you see below accordingly.
 
 ## Chord progressions
 
@@ -85,7 +84,3 @@ Totally optional, but this captures the Alessia Cara post-chorus melody. See my 
     D —–0––0––0––0––2––––
     A —–––––––––––––0––––
     E —––––––––––––––––––
-
-## Good luck!
-
-I hope this helps, and as always let me know if you have any questions.

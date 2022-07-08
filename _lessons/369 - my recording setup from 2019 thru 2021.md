@@ -13,7 +13,7 @@ slug: "369"
 <!-- patreon_lesson_available: true
 patreon_lesson_url: https://www.patreon.com/posts/32888140 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zvoGaqIl2Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## The recording gear I use to make YouTube videos
 

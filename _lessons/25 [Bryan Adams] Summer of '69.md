@@ -18,19 +18,15 @@ pdf_numpages: 3
 musicnotes_url: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0236636
 ---
 
-## Video Lesson
+## Editor's Notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lD1ioBlmSJE?showinfo=0" frameborder="0" allowfullscreen></iframe>
+This video is a guitar lesson for _Summer of '69_ by Bryan Adams. It includes chords, tabs, and strumming pattern -- with a nice focus on playing the acoustic riff heard in the intro of the MTV Unplugged version of the song.
 
+## Free Video Lesson
 
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
-{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
-
-## Editor's notes
-
-This video is a guitar lesson for "Summer of '69" by Bryan Adams. It includes chords, tabs, and strumming pattern -- with a nice focus on playing the acoustic riff heard in the intro of the MTV Unplugged version of the song.
-
-Video timestamps:
+Timestamps:
 
 - 0:00 Playthrough & lesson overview
 - 2:50 Chords (basic)
@@ -40,85 +36,30 @@ Video timestamps:
 - 9:36 Intro acoustic Riff (picked)
 - 11:48 Bridge
 
-## Lyrics
+<!--  -->
 
-    INTRO
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url %}
 
-        Dsus2 ... D ... Dsus4 ... D ... Dsus2 D
-        Asus2 ... A ... Asus4 ... A ... Asus2 A
-
-    VERSE
-
-        D                                  A
-        ...I got my first real six string.... bought it at the five and dime
-        D                                  A
-        ...Played it 'til my fingers bled.... was the summer of '69
-        D                                  A
-        ...Me and some guys from school...... had a band and we tried real hard
-        D                                  A
-        ...Jimmy quit and Jody got married... I shoulda known we'd never get far
-
-    CHORUS
-
-            Bm            A              D                        G
-            ...But when I look back now.... that summer seemed to last forever
-            Bm            A              D                        G
-            .....And if I had the choice........ Yeah, I'd always wanna be there
-            Bm                A               D  
-            ...Those were the best days of my life
-                                                       (...repeat intro)
-
-        (repeat verse + chorus chords for rest of song)
-
-        Ain't no use in complainin'... When you got a job to do
-        Spent my evenings down at the drive-in... and that's when I met you, yeah
-
-            Standin' on your mama's porch... you told me that you'd wait forever
-            Oh and when you held my hand... I knew that it was now or never
-            Those were the best days of my life... back in the summer of '69
-
-    BRIDGE
-
-            F               Bb                  
-            ...Man, we were killin' time
-                    C                      Bb
-            We were young and restless, we needed to unwind
-            F          Bb                  C          Bb
-            ...I guess nothin' can last forever... forever, no...
-
-        (repeat intro)
-
-        And now the times are changin'
-        Look at everything that's come and gone
-        Sometimes when I play that old six string
-        I think about you, wonder what went wrong
-
-            Standin' on your mama's porch
-            You told me it would last forever
-            Oh the way you held my hand
-            I knew that it was now or never
-            Those were the best days of my life
-
-            Oh yeah... back in the summer of '69
-            (etc)
 
 ## Acoustic riff
 
-    E ||–––0–––––––2–––––––3–––––––2–––––––0––––––2–––––––
-    B ||–––––3–––––––3–––––––3–––––––3––––––––––––––––––––
-    G ||–––––––2–––––––2–––––––2–––––––2––––––2––––––2––––
-    D ||––––––––––––––––––––––––––––––––––––––––––––––––––
-    A ||––––––––––––––––––––––––––––––––––––––––––––––––––
-    E ||––––––––––––––––––––––––––––––––––––––––––––––––––
-           Dsus2     D     Dsus4     D     Dsus2    D
+    See my song sheet for the complete tab!
 
-    E ||––––––––––––––––––––––––––––––––––––––––––––––––––
-    B ||–––0–––––––2–––––––3–––––––2–––––––0––––––2–––––––
-    G ||–––––2–––––––2–––––––2–––––––2––––––––––––––––––––
-    D ||–––––––2–––––––2–––––––2–––––––2––––––2––––––2––––
-    A ||––––––––––––––––––––––––––––––––––––––––––––––––––
-    E ||––––––––––––––––––––––––––––––––––––––––––––––––––
-           Asus2     A     Asus4     A     Asus2    A
+<!-- E ||–––0–––––––2–––––––3–––––––2–––––––0––––––2–––––––
+B ||–––––3–––––––3–––––––3–––––––3––––––––––––––––––––
+G ||–––––––2–––––––2–––––––2–––––––2––––––2––––––2––––
+D ||––––––––––––––––––––––––––––––––––––––––––––––––––
+A ||––––––––––––––––––––––––––––––––––––––––––––––––––
+E ||––––––––––––––––––––––––––––––––––––––––––––––––––
+       Dsus2     D     Dsus4     D     Dsus2    D
+
+E ||––––––––––––––––––––––––––––––––––––––––––––––––––
+B ||–––0–––––––2–––––––3–––––––2–––––––0––––––2–––––––
+G ||–––––2–––––––2–––––––2–––––––2––––––––––––––––––––
+D ||–––––––2–––––––2–––––––2–––––––2––––––2––––––2––––
+A ||––––––––––––––––––––––––––––––––––––––––––––––––––
+E ||––––––––––––––––––––––––––––––––––––––––––––––––––
+       Asus2     A     Asus4     A     Asus2    A -->
 
 ## Chords used
 

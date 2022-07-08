@@ -14,7 +14,7 @@ patreon_lesson_url: https://www.patreon.com/posts/54874926
 
 Hey there friends! Here's a Q&A video for August 2021, where I'll be answering questions sent in by you all, my fine supporters over [on my Patreon page](http://patreon.com/songnotes).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.yt_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube_embed.html yt_id = page.yt_video_id %}
 
 ## Video timestamps:
 
