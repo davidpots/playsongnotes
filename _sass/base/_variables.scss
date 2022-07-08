@@ -12,8 +12,9 @@
         $color-pdf-patreon--icon: #CCC085;
 
 
-        $color-black: #222;
-        $color-gray: #999;
+        $color-black: #1E3754;
+        $color-gray: #5A6B7D;
+        $color-gray-light: #9EAFBE;
 
 
 
@@ -25,8 +26,8 @@
 
 /** ---- everything below is old / before 2021 ----- **/
 
-        $font-color--default:     $gray;
-        $font-color--strong:      $gray-dark;
+        $font-color--default:     $color-black;
+        $font-color--strong:      $color-black;
         $font-color--weak:        $gray-light;
 
         $link-color:              $blue;

@@ -13,19 +13,19 @@ $(document).ready(function(){
     $('.js-overlay.fixed').hide();
   });
 
-  // Removed when I added inline scale selection - July 7 2022
-  //
-  // // to launch scale picker overlay
-  // $('.js-summonScalePicker').click(function(){
-  //   $('.js-scalePicker').fadeIn('fast');
-  //   return false;
-  // });
-  //
-  // // to launch scale picker overlay
-  // $('.js-summonKeyPicker').click(function(){
-  //   $('.js-keyPicker').fadeIn('fast');
-  //   return false;
-  // });
+
+
+  // to launch scale picker overlay
+  $('.prompt_picker__scale').click(function(){
+    $('.js-scaleSelector').fadeIn('fast');
+    return false;
+  });
+
+  // to launch scale picker overlay
+  $('.prompt_picker__key').click(function(){
+    $('.js-keySelector').fadeIn('fast');
+    return false;
+  });
 
 
   $(window).bind('keydown', function(e){
@@ -185,8 +185,8 @@ $(window).on('load', function(){
                         addTonesToFretboard();
 
                         // Put into function
-                        // $('.js-summonKeyPicker').text(newKey);
-                        // $(this).closest('.js-overlay').hide();
+                        $('.prompt_picker__key').text(newKey);
+                        $(this).closest('.fretMonster_picker_popup').hide();
 
                         // if ( highlightingNone == true ) {
                         //   $('.highlightNone').toggle('click');
@@ -215,8 +215,8 @@ $(window).on('load', function(){
                             }
 
                         // Put into function
-                        // $('.js-summonScalePicker').text(scales[newScale].name);
-                        // $(this).closest('.js-overlay').hide();
+                        $('.prompt_picker__scale').text(scales[newScale].name);
+                        $(this).closest('.fretMonster_picker_popup').hide();
                         return false;
                       })
 
@@ -235,6 +235,11 @@ $(window).on('load', function(){
                         return false;
                       });
 
+      // Close popups if you click off
+
+      $('body').click(function(){
+        $('.fretMonster_picker_popup').hide();
+      });
 
 
 

@@ -22,67 +22,54 @@ title: FretMonster! Have fun with the guitar fretboard
 
 <p class="large">An interactive fretboard map to help you learn the guitar. Use &larr; and &rarr; arrows to change keys, and square brackets [ and ] to quickly change the scale. Need help with this tool? Scroll down for an overview & video tutorial.</p>
 
+<p class="fretmonster_prompt mbn"><span class="no-break">I'm hungry for a </span><span class="prompt_picker prompt_picker__scale">major</span><span class="no-break"> scale in the key of <span class="prompt_picker prompt_picker__key">E</span></span></p>
+
 <br />
 
-      <p class="fretMonster_picker js-keySelector">
-        <span class="fretMonster_picker__label">Key:</span>&nbsp;&nbsp;
-        <a data-key-name="A" href="#">A</a>
-        <a data-key-name="A#" href="#">A#</a>
-        <a data-key-name="B" href="#">B</a>
-        <a data-key-name="C" href="#">C</a>
-        <a data-key-name="C#" href="#">C#</a>
-        <a data-key-name="D" href="#">D</a>
-        <a data-key-name="D#" href="#">D#</a>
-        <a data-key-name="E" href="#">E</a>
-        <a data-key-name="F" href="#">F</a>
-        <a data-key-name="F#" href="#">F#</a>
-        <a data-key-name="G" href="#">G</a>
-        <a data-key-name="G#" href="#">G#</a>
+      <p class="fretMonster_picker fretMonster_picker_popup js-keySelector" style="display: none;">
+        <span class="center block bold mbm">Select a key:</span>
+        <span class="">
+          <a data-key-name="A" href="#">A</a>
+          <a data-key-name="B" href="#">B</a>
+          <a data-key-name="C" href="#">C</a>
+          <a data-key-name="D" href="#">D</a>
+          <a data-key-name="E" href="#">E</a>
+          <a data-key-name="F" href="#">F</a>
+          <a data-key-name="G" href="#">G</a>
+          <a data-key-name="A#" href="#">A#</a>
+          <a data-key-name="C#" href="#">C#</a>
+          <a data-key-name="D#" href="#">D#</a>
+          <a data-key-name="F#" href="#">F#</a>
+          <a data-key-name="G#" href="#">G#</a>
+        </span>
+        <span class="center block mtm small"><strong>Tip:</strong> you can use your keyboard's &larr; and &rarr; arrows to quickly change the key from the main view.</span>
       </p>
 
 
-      <p class="fretMonster_picker js-scaleSelector">
-        <span class="fretMonster_picker__label">Scale:</span>&nbsp;&nbsp;
-                <a data-scale-name="major" href="#">Major</a>
-                <a data-scale-name="major_flat7" href="#">Major + ♭7</a>
-                <a data-scale-name="pentatonic_major" href="#">Pentatonic (major)</a>
-                <a data-scale-name="pentatonic_minor" href="#">Pentatonic (minor)</a>
-                <a data-scale-name="blues_major" href="#">Blues (major)</a>
-                <a data-scale-name="blues_minor" href="#">Blues (minor)</a>
-                <a data-scale-name="minor_melodic" href="#">Minor (melodic)</a>
-                <a data-scale-name="minor_harmonic" href="#">Minor (harmonic)</a>
-                <a data-scale-name="minor_natural" href="#">Minor (natural)</a>
-                <a data-scale-name="ionian_mode" href="#">Ionian</a>
-                <a data-scale-name="dorian_mode" href="#">Dorian</a>
-                <a data-scale-name="phrygian_mode" href="#">Phyrgian</a>
-                <a data-scale-name="lydian_mode" href="#">Lydian</a>
-                <a data-scale-name="mixolydian_mode" href="#">Mixolydian</a>
-                <a data-scale-name="aeolian_mode" href="#">Aeolian</a>
-                <a data-scale-name="locrian_mode" href="#">Locrian</a>
+      <p class="fretMonster_picker fretMonster_picker_popup js-scaleSelector" style="display: none;">
+        <span class="center block bold mbm">Select a scale:</span>
+        <span class="column-wrapper">
+          <a data-scale-name="major" href="#">Major</a>
+          <a data-scale-name="major_flat7" href="#">Major + ♭7</a>
+          <a data-scale-name="pentatonic_major" href="#">Pentatonic (major)</a>
+          <a data-scale-name="pentatonic_minor" href="#">Pentatonic (minor)</a>
+          <a data-scale-name="blues_major" href="#">Blues (major)</a>
+          <a data-scale-name="blues_minor" href="#">Blues (minor)</a>
+          <a data-scale-name="minor_melodic" href="#">Minor (melodic)</a>
+          <a data-scale-name="minor_harmonic" href="#">Minor (harmonic)</a>
+          <a data-scale-name="minor_natural" href="#">Minor (natural)</a>
+          <a data-scale-name="ionian_mode" href="#">Ionian</a>
+          <a data-scale-name="dorian_mode" href="#">Dorian</a>
+          <a data-scale-name="phrygian_mode" href="#">Phyrgian</a>
+          <a data-scale-name="lydian_mode" href="#">Lydian</a>
+          <a data-scale-name="mixolydian_mode" href="#">Mixolydian</a>
+          <a data-scale-name="aeolian_mode" href="#">Aeolian</a>
+          <a data-scale-name="locrian_mode" href="#">Locrian</a>
+        </span>
+        <span class="center block mtm small"><strong>Tip:</strong> you can use your keyboard's [ and ] brackets to quickly change the scale from the main view.</span>
       </p>
 
-      <p class="fretMonster_picker js-instrumentSelector">
-        <span class="fretMonster_picker__label">Instrument:</span>&nbsp;&nbsp;
-        <a data-instrument="guitar" class="active--toggle" href="">guitar</a>
-        <a data-instrument="guitar-openD" href="">guitar (open D)</a>
-        <a data-instrument="guitar-openG" href="">guitar (open G)</a>
-        <a data-instrument="cbg4-openG" href="">cigar box guitar (4 string, open G)</a>
-        <a data-instrument="ukulele" href="">ukulele</a>
-        <a data-instrument="bass" href="">bass</a>
-        <a data-instrument="mandolin" href="">mandolin</a>
-      </p>
-      <p class="fretMonster_picker">
-        <span class="fretMonster_picker__label">Note Label:</span>&nbsp;&nbsp;
-        <a class="showIntervals active--toggle" href="">scale degree</a>
-        <a class="showNotes" href="">note name</a>
-        <a class="showNoLabel" href="">none</a>
-      </p>
-      <p class="fretMonster_picker">
-        <span class="fretMonster_picker__label">Highlight:</span>&nbsp;&nbsp;
-        <a class="highlightRoot active--toggle" href="#">root (1)</a>
-        <a class="highlightTriads" href="">triads (1-3-5)</a>
-        <a class="highlightNone" href="">none</a>
-      </p>
+
 
     </div>
 
@@ -93,15 +80,49 @@ title: FretMonster! Have fun with the guitar fretboard
       </div>
     </div>
 
+
 <div class="container">
+
+
+
+      <div class="center mtn">
+        <p class="fretMonster_picker fretMonster_picker__inline inline-block" style="margin: 24px;">
+          <span class="fretMonster_picker__label">Note Label:</span>&nbsp;&nbsp;
+          <a class="showIntervals active--toggle" href="">scale degree</a>
+          <a class="showNotes" href="">note name</a>
+          <a class="showNoLabel" href="">none</a>
+        </p>
+        <p class="fretMonster_picker fretMonster_picker__inline inline-block" style="margin: 24px;">
+          <span class="fretMonster_picker__label">Highlight:</span>&nbsp;&nbsp;
+          <a class="highlightRoot active--toggle" href="#">root (1)</a>
+          <a class="highlightTriads" href="">triads (1-3-5)</a>
+          <a class="highlightNone" href="">none</a>
+        </p>
+      </div>
+
+      <p class="fretMonster_picker fretMonster_picker__inline js-instrumentSelector center">
+        <span class="fretMonster_picker__label inline-block mbs">Instrument:</span>
+        <a data-instrument="guitar" class="active--toggle" href="">guitar</a>
+        <a data-instrument="guitar-openD" href="">guitar (open D)</a>
+        <a data-instrument="guitar-openG" href="">guitar (open G)</a>
+        <a data-instrument="cbg4-openG" href="">cigar box guitar (4 string, open G)</a>
+        <a data-instrument="ukulele" href="">ukulele</a>
+        <a data-instrument="bass" href="">bass</a>
+        <a data-instrument="mandolin" href="">mandolin</a>
+      </p>
+
+</div>
+
+<div class="container--full" style="background: #EFF1F6; border-top: 1px solid #CFD9E5; margin-top: 48px;">
+  <div class="container container--col-8" style="padding-top: 32px;">
 
 <h2 class="mts">How to use FretMonster</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lj5c_cpWS9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Curious about this tool and how to use it? Check out the video above! It gives a walkthrough of how FretMonster works, and the various ways you might use it. In short, it provides a map of the notes on the guitar fretboard based on whatever key and scale you specify. For me, this tool was invaluable in helping me "see" chord shapes, scales, triads, intervals, and other patterns as they repeat on the fretboard.</p>
+<p>Curious about this tool and how to use it? Check out the video above! It gives a walkthrough of how FretMonster works, and the various ways you might use it.</p>
 
-<p>Here's timestamps of what I cover in my video:</p>
+<p>In short, it provides a map of the notes on the guitar fretboard based on whatever key and scale you specify. For me, this tool was invaluable in helping me "see" chord shapes, scales, triads, intervals, and other patterns as they repeat on the fretboard. Here's timestamps of what I cover in my video:</p>
 
 <ul>
   <li>0:00 Introduction</li>
@@ -116,18 +137,6 @@ title: FretMonster! Have fun with the guitar fretboard
   <li>29:45 Farewell & final advice</li>
 </ul>
 
-<p>I say in this video, FretMonster doesn't give you presciptive instructions on what to play in the same way guitar tabs do. Instead, FretMonster gives you a "map" that you can use toward whatever your goals might be. This could include things like:</p>
-
-<ul>
-  <li>Seeing scale patterns on the fretobard</li>
-  <li>Identifying the notes in any given key</li>
-  <li>Recognizing triads up & down the fretboard</li>
-  <li>Finding easy ways to add flourish to any chord you play</li>
-  <li>Visualizing the notes in any one key</li>
-  <li>Understanding how the chords in any one key are related</li>
-  <li>etc</li>
-</ul>
-
-<p>Give it a watch -- I hope it helps! And most definitely, let me know any questions you have. I absolutely want to continue to improve FretMonster into the future (making it easier to use, etc) -- and feedback is great.</p>
-
+<br /><br /><br />
+</div>
 </div>
