@@ -235,6 +235,9 @@ table.string_labels .cell {
     border-radius: 5px;
     font-size: 13px;
     margin-bottom: 4px;
+    -webkit-column-break-inside: avoid;
+              page-break-inside: avoid;
+                   break-inside: avoid;
     &:hover {
       background-color: #DDF0FD;
     }
@@ -249,7 +252,7 @@ table.string_labels .cell {
 }
 
 .fretMonster_picker_popup {
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   transform: translateY(-50%) translateX(-50%);
@@ -264,19 +267,23 @@ table.string_labels .cell {
   a {
     font-size: 18px;
   }
-  .column-wrapper {
-    display: block;
-    column-count: 2;
-  }
+}
+.column-wrapper {
+  display: block;
+  column-count: 2;
 }
 @media screen and (max-width: 767px) {
+  .fretMonster_picker .fretMonster_picker__label,
+  .fretMonster_picker a {
+    font-size: 12px;
+  }
   .fretMonster_picker_popup {
     transform: translatey(0) translatex(-50%);
     top: 5%;
-    bottom: 5%;
+    max-height: 90%;
     overflow: auto;
   }
-  .fretMonster_picker_popup .column-wrapper { column-count: 1; }
+  .column-wrapper { column-count: 1; }
 }
 
 

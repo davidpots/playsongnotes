@@ -11,6 +11,30 @@
                                                         5 : 7,  // A string
                                                         6 : 0   // E string (low)
                                                       } },
+                       'guitar-dropD' : { 'name'   : 'guitar - drop D',
+                                    'numStrings'   : 6,
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
+                                    'stringLabels' : ['e','B','G','D','A','D'],
+                                    'stringDiff'   : {
+                                                        1 : 0,  // E string (high)
+                                                        2 : 5,  // B string
+                                                        3 : 9,  // G string
+                                                        4 : 2,  // D string
+                                                        5 : 7,  // A string
+                                                        6 : 2   // D string (low)
+                                                      } },
+                       'guitar-doubleDropD' : { 'name'   : 'guitar - double rop D',
+                                    'numStrings'   : 6,
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
+                                    'stringLabels' : ['d','B','G','D','A','D'],
+                                    'stringDiff'   : {
+                                                        1 : 2,  // D string (high)
+                                                        2 : 5,  // B string
+                                                        3 : 9,  // G string
+                                                        4 : 2,  // D string
+                                                        5 : 7,  // A string
+                                                        6 : 2   // D string (low)
+                                                      } },
                        'guitar-openD' : { 'name'   : 'guitar - open D',
                                     'numStrings'   : 6,
                                     'fretsToLabel' : [0,1,3,5,7,9,12,15],
@@ -35,6 +59,15 @@
                                                        5 : 9,  // G string
                                                        6 : 2   // D string (low)
                                                      } },
+                       'cbg3-openG'   : { 'name'         : 'cigar box guitar (3 string, open G)',
+                                    'numStrings'   : 3,
+                                    'fretsToLabel' : [0,1,3,5,7,9,12,15],
+                                    'stringLabels' : ['G','D','G'],
+                                    'stringDiff'   : {
+                                                        1 : 9,  // G string
+                                                        2 : 2,  // D string
+                                                        3 : 9   // G string
+                                                  } },
                        'cbg4-openG'   : { 'name'         : 'cigar box guitar (4 string, open G)',
                                     'numStrings'   : 4,
                                     'fretsToLabel' : [0,1,3,5,7,9,12,15],

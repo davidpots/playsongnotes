@@ -51,13 +51,13 @@ title: FretMonster! Have fun with the guitar fretboard
         <span class="column-wrapper">
           <a data-scale-name="major" href="#">Major</a>
           <a data-scale-name="major_flat7" href="#">Major + ♭7</a>
-          <a data-scale-name="pentatonic_major" href="#">Pentatonic (major)</a>
-          <a data-scale-name="pentatonic_minor" href="#">Pentatonic (minor)</a>
-          <a data-scale-name="blues_major" href="#">Blues (major)</a>
-          <a data-scale-name="blues_minor" href="#">Blues (minor)</a>
-          <a data-scale-name="minor_melodic" href="#">Minor (melodic)</a>
-          <a data-scale-name="minor_harmonic" href="#">Minor (harmonic)</a>
-          <a data-scale-name="minor_natural" href="#">Minor (natural)</a>
+          <a data-scale-name="pentatonic_major" href="#">Pentatonic (Major)</a>
+          <a data-scale-name="pentatonic_minor" href="#">Pentatonic (Minor)</a>
+          <a data-scale-name="blues_major" href="#">Blues (Major)</a>
+          <a data-scale-name="blues_minor" href="#">Blues (Minor)</a>
+          <a data-scale-name="minor_melodic" href="#">Minor (Melodic)</a>
+          <a data-scale-name="minor_harmonic" href="#">Minor (Harmonic)</a>
+          <a data-scale-name="minor_natural" href="#">Minor (Natural)</a>
           <a data-scale-name="ionian_mode" href="#">Ionian</a>
           <a data-scale-name="dorian_mode" href="#">Dorian</a>
           <a data-scale-name="phrygian_mode" href="#">Phyrgian</a>
@@ -75,7 +75,7 @@ title: FretMonster! Have fun with the guitar fretboard
 
 
     <div class="fretboard_backdrop">
-      <div class="container--full phn">
+      <div class="container--full" style="padding-left: 0; padding-right: 0;">
         <div class="fretboard_wrapper"></div>
       </div>
     </div>
@@ -86,37 +86,44 @@ title: FretMonster! Have fun with the guitar fretboard
 
 
       <div class="center mtn">
-        <p class="fretMonster_picker fretMonster_picker__inline inline-block" style="margin: 24px;">
+        <p class="fretMonster_picker fretMonster_picker__inline inline-block" style="margin: 0 32px 12px 0; white-space: nowrap">
           <span class="fretMonster_picker__label">Note Label:</span>&nbsp;&nbsp;
-          <a class="showIntervals active--toggle" href="">scale degree</a>
-          <a class="showNotes" href="">note name</a>
-          <a class="showNoLabel" href="">none</a>
+          <a class="showIntervals active--toggle" href="">Scale Degree</a>
+          <a class="showNotes" href="">Note Name</a>
+          <a class="showNoLabel" href="">None</a>
         </p>
-        <p class="fretMonster_picker fretMonster_picker__inline inline-block" style="margin: 24px;">
+        <p class="fretMonster_picker fretMonster_picker__inline inline-block" style="margin: 0 32px 48px 0; white-space: nowrap;">
           <span class="fretMonster_picker__label">Highlight:</span>&nbsp;&nbsp;
-          <a class="highlightRoot active--toggle" href="#">root (1)</a>
-          <a class="highlightTriads" href="">triads (1-3-5)</a>
-          <a class="highlightNone" href="">none</a>
+          <a class="highlightRoot active--toggle" href="#">Root (1)</a>
+          <a class="highlightTriads" href="">Triads (1-3-5)</a>
+          <a class="highlightNone" href="">None</a>
         </p>
       </div>
 
-      <p class="fretMonster_picker fretMonster_picker__inline js-instrumentSelector center">
-        <span class="fretMonster_picker__label inline-block mbs">Instrument:</span>
-        <a data-instrument="guitar" class="active--toggle" href="">guitar</a>
-        <a data-instrument="guitar-openD" href="">guitar (open D)</a>
-        <a data-instrument="guitar-openG" href="">guitar (open G)</a>
-        <a data-instrument="cbg4-openG" href="">cigar box guitar (4 string, open G)</a>
-        <a data-instrument="ukulele" href="">ukulele</a>
-        <a data-instrument="bass" href="">bass</a>
-        <a data-instrument="mandolin" href="">mandolin</a>
+      <div class="container--col-8" style="border-top: 1px solid #CFD9E5; padding-top: 12px; margin-top: 16px; padding-left: 0; padding-right: 0;">
+      <p class="fretMonster_picker__label center mbs mtxl uppercase" style="font-size: 13px; font-weight: bold; margin-bottom: 16px;">Instrument:</p>
+      <p class="fretMonster_picker js-instrumentSelector">
+        <span class="column-wrapper">
+        <a data-instrument="guitar" class="active--toggle" href="">Guitar</a>
+        <a data-instrument="guitar-dropD" href="">Guitar (Drop D)</a>
+        <a data-instrument="guitar-doubleDropD" href="">Guitar (Double Drop D)</a>
+        <a data-instrument="guitar-openD" href="">Guitar (Open D)</a>
+        <a data-instrument="guitar-openG" href="">Guitar (Open G)</a>
+        <a data-instrument="cbg3-openG" href="">Cigar Box Guitar (3 String, Open G)</a>
+        <a data-instrument="cbg4-openG" href="">Cigar Box Guitar (4 String, Open G)</a>
+        <a data-instrument="ukulele" href="">Ukulele</a>
+        <a data-instrument="bass" href="">Bass</a>
+        <a data-instrument="mandolin" href="">Mandolin</a>
+        </span>
       </p>
+      </div>
 
 </div>
 
 <div class="container--full" style="background: #EFF1F6; border-top: 1px solid #CFD9E5; margin-top: 48px;">
   <div class="container container--col-8" style="padding-top: 32px;">
 
-<h2 class="mts">How to use FretMonster</h2>
+<h2 class="mts">How to Use FretMonster</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lj5c_cpWS9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -137,6 +144,33 @@ title: FretMonster! Have fun with the guitar fretboard
   <li>29:45 Farewell & final advice</li>
 </ul>
 
-<br /><br /><br />
+<h2>Lessons I've Made That Showcase FretMonster</h2>
+
+<p>Here's a handful of lessons I've made where I made use of FretMonster while explaining the concepts at hand. Whether you're looking to brush up on your theory, or simply want to know where on the fretboard you can play a specific lick — there's tons of utility you can get from this tool!</p>
+
+{% include topic-item.html slug = '443' %}
+{% include topic-item.html slug = '354' %}
+{% include topic-item.html slug = '381' %}
+{% include topic-item.html slug = '361' %}
+{% include topic-item.html slug = '189' %}
+{% include topic-item.html slug = '409' %}
+{% include topic-item.html slug = '385' %}
+{% include topic-item.html slug = '356' %}
+{% include topic-item.html slug = '217' %}
+
+<h2>How FretMonster Came To Be</h2>
+
+<p>Quite simply, I was eager to brush up on my web development skills (jQuery, in particular) and wanted a pet-project I could use as a guinea pig. I've always been a doodler, and drawing maps of the fretboard was a frequent hobby of mine back in college. So, I took those tendencies and turned them into a web-based project. This was back in 2014 or so, as chronicled by <a href="https://dribbble.com/davidpots/shots">a few Dribbble shots</a> I posted to my profile back at that time.</p>
+
+<p>A few months later, I got things to a place where I was pleased with how things looked, worked, and felt to use while playing guitar. I've made some changes over the years (e.g. adding instruments), but the current version of the tool is largely the same under the hood. There are so, so many new features I'd like to add... hopefully one day I'll get around to them! In the meantime I hope it is of service in your guitar journey.</p>
+
+<h2>More About Me & Song Notes</h2>
+
+<p>If you've read this far and am curious about me and my Song Notes project, here's a few links. You can <a href="/about">hear my guitar story</a> if you're curious about my 20 years of being a self-taught player. Aside from the free <a href="http://youtube.com/playsongnotes">videos I post on Youtube</a>, I also make premium content — mainly <a href="https://playsongnotes.com/printables/songsheets">print-friendly song sheets</a> (available for purchase) and <a href="https://playsongnotes.com/printables/pdfs">instructional PDFs</a>, which are available to members on my <a href="http://patreon.com/songnotes">Patreon page</a>. If you want to stay in the loop with my ongoing weekly lessons, sign up for my <a href="/newsletter">free email newsletter</a>.</p>
+
+<p>If you've found my lessons helpful and want to toss some bread in the tip jar, here's the <a href="https://www.paypal.com/paypalme/songnotes">PayPal link</a>. Any amount is appreciated. Thanks so much!</p>
+
+<br /><br />
+
 </div>
 </div>
