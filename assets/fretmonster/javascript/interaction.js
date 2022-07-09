@@ -27,26 +27,44 @@ $(document).ready(function(){
     return false;
   });
 
+  // if user clicks NEXT KEY arrow
+  $('.prompt_picker__key__next').click(function(){
+    changeKeyNext();
+    return false;
+  });
+
+  // if user clicks PREV KEY arrow
+  $('.prompt_picker__key__prev').click(function(){
+    changeKeyPrev();
+    return false;
+  });
+
+  function changeKeyNext(){
+    if ( $('.js-keySelector .active').attr('data-key-name') == "G#" ) {
+      $('.js-keySelector a[data-key-name="A"]').trigger('click');
+    } else {
+      // $('.js-keySelector .active').parent('li').next('li').find('a').trigger('click');
+      $('.js-keySelector .active').next('a').trigger('click');
+    }
+  }
+  function changeKeyPrev(){
+    if ( $('.js-keySelector .active').attr('data-key-name') == "A" ) {
+      $('.js-keySelector a[data-key-name="G#"]').trigger('click');
+    } else {
+      // $('.js-keySelector .active').parent('li').prev('li').find('a').trigger('click');
+      $('.js-keySelector .active').prev('a').trigger('click');
+    }
+  }
 
   $(window).bind('keydown', function(e){
     if(e.which == 39) {
       // right
-      if ( $('.js-keySelector .active').attr('data-key-name') == "G#" ) {
-        $('.js-keySelector a[data-key-name="A"]').trigger('click');
-      } else {
-        // $('.js-keySelector .active').parent('li').next('li').find('a').trigger('click');
-        $('.js-keySelector .active').next('a').trigger('click');
-      }
+      changeKeyNext();
       return false;
     }
     if(e.which == 37) {
       // left
-      if ( $('.js-keySelector .active').attr('data-key-name') == "A" ) {
-        $('.js-keySelector a[data-key-name="G#"]').trigger('click');
-      } else {
-        // $('.js-keySelector .active').parent('li').prev('li').find('a').trigger('click');
-        $('.js-keySelector .active').prev('a').trigger('click');
-      }
+      changeKeyPrev();
       return false;
     }
     if(e.which == 221) {
@@ -185,7 +203,7 @@ $(window).on('load', function(){
                         addTonesToFretboard();
 
                         // Put into function
-                        $('.prompt_picker__key').text(newKey);
+                        $('.prompt_picker__key__itself').text(newKey);
                         $(this).closest('.fretMonster_picker_popup').hide();
 
                         // if ( highlightingNone == true ) {

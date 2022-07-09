@@ -301,18 +301,69 @@ table.string_labels .cell {
   padding-top: 32px;
   text-align: center;
   font-size: 21px;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
   span.prompt_picker {
     font-weight: 700;
+    position: relative;
     display: inline-block;
     border-radius: 5px;
-    padding: 7px 32px 10px 15px;
     color: white;
     margin: 8px 4px 8px 4px;
-    background: $fretMonsterPillBG url(/images/icons/caret-down-white.svg) no-repeat calc(100% - 15px) 52%;
-    background-size: 10px 10px;
+    background-color: $fretMonsterPillBG;
     &:hover {
       cursor: pointer;
     }
+  }
+  span.prompt_picker__key {
+    background-color: $fretMonsterPillBG;
+    border-radius: 5px;
+  }
+    span.prompt_picker__key__prev,
+    span.prompt_picker__key__next {
+      padding-top: 7px;
+      padding-bottom: 10px;
+      padding-left: 15px;
+      padding-right: 15px;
+      position: relative;
+      display: inline-block;
+    }
+  span.prompt_picker__key__prev {
+    .icon_wrapper {
+       display: inline-block;
+       width: 10px;
+       height: 10px;
+       transform: rotate(90deg);
+       background-image: url(/images/icons/caret-down-white.svg);
+       background-repeat: no-repeat;
+       background-position: 52%;
+       background-size: 10px 10px;
+    }
+  }
+  span.prompt_picker__key__next {
+    .icon_wrapper {
+       display: inline-block;
+       width: 10px;
+       height: 10px;
+       transform: rotate(-90deg);
+       background-image: url(/images/icons/caret-down-white.svg);
+       background-repeat: no-repeat;
+       background-position: 52%;
+       background-size: 10px 10px;
+    }
+  }
+  span.prompt_picker__key__itself {
+    display: inline-block;
+    width: 50px;
+  }
+  span.prompt_picker__scale {
+    padding: 7px 32px 10px 15px;
+    background-image: url(/images/icons/caret-down-white.svg);
+    background-repeat: no-repeat;
+    background-position: calc(100% - 15px) 52%;
+    background-size: 10px 10px;
   }
   span.no-break {
     white-space: nowrap;
