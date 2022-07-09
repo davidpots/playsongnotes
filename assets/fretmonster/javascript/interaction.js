@@ -39,6 +39,21 @@ $(document).ready(function(){
     return false;
   });
 
+  function changeScaleNext(){
+    if ( $('.js-scaleSelector .active').attr('data-scale-name') == "chromatic" ) {
+      $('.js-scaleSelector a[data-scale-name="major"]').trigger('click');
+    } else {
+      $('.js-scaleSelector .active').next('a').trigger('click');
+    }
+  }
+  function changeScalePrev(){
+    if ( $('.js-scaleSelector .active').attr('data-scale-name') == "major" ) {
+      $('.js-scaleSelector a[data-scale-name="chromatic"]').trigger('click');
+    } else {
+      $('.js-scaleSelector .active').prev('a').trigger('click');
+    }
+  }
+
   function changeKeyNext(){
     if ( $('.js-keySelector .active').attr('data-key-name') == "G#" ) {
       $('.js-keySelector a[data-key-name="A"]').trigger('click');
@@ -58,23 +73,23 @@ $(document).ready(function(){
 
   $(window).bind('keydown', function(e){
     if(e.which == 39) {
-      // right
+      // right arrow
       changeKeyNext();
       return false;
     }
     if(e.which == 37) {
-      // left
+      // left arrow
       changeKeyPrev();
       return false;
     }
     if(e.which == 221) {
-      // right
-      $('.js-scaleSelector .active').next('a').trigger('click');
+      // right bracket
+      changeScaleNext();
       return false;
     }
     if(e.which == 219) {
-      // left
-      $('.js-scaleSelector .active').prev('a').trigger('click');
+      // left bracket
+      changeScalePrev();
       return false;
     }
   });

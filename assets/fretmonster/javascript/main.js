@@ -113,8 +113,8 @@ var scales = {  'major'             : { 'name'    : 'major',
                                         'pattern' : 'o-o-oo-o-o-o' },
                 'major_flat7'       : { 'name'    : 'Major + ♭7',
                                         'pattern' : 'o-o-oo-o-ooo' },
-                'minor_melodic'     : { 'name'    : 'melodic minor',
-                                        'pattern' : 'o-oo-o-o-o-o' },
+                // 'minor_melodic'     : { 'name'    : 'melodic minor',
+                //                         'pattern' : 'o-oo-o-o-o-o' },
                 'minor_harmonic'    : { 'name'    : 'harmonic minor',
                                         'pattern' : 'o-oo-o-oo--o' },
                 'minor_natural'     : { 'name'    : 'natural minor',
@@ -140,7 +140,9 @@ var scales = {  'major'             : { 'name'    : 'major',
                 'aeolian_mode'      : { 'name'    : 'aeolian',
                                         'pattern' : 'o-oo-o-oo-o-' },
                 'locrian_mode'      : { 'name'    : 'locrian',
-                                        'pattern' : 'oo-o-oo-o-o-' }
+                                        'pattern' : 'oo-o-oo-o-o-' },
+                'chromatic'         : { 'name'    : 'chromatic',
+                                        'pattern' : 'oooooooooooo' }
               };
 
 var defaultKey = "E",
