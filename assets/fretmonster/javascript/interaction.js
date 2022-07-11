@@ -274,27 +274,29 @@ $(window).on('load', function(){
         $('.fretMonster_picker_popup').hide();
       });
 
-      $('.stringLabel--1').click(function(){
+
+      // For hiding string notes
+      $(document).on("click", ".stringLabel--1", function() {
         $(this).toggleClass('stringLabel--hidden');
         $('.stringNum--1').toggleClass('stringNum--hidden');
       })
-      $('.stringLabel--2').click(function(){
+      $(document).on("click", ".stringLabel--2", function() {
         $(this).toggleClass('stringLabel--hidden');
         $('.stringNum--2').toggleClass('stringNum--hidden');
       })
-      $('.stringLabel--3').click(function(){
+      $(document).on("click", ".stringLabel--3", function() {
         $(this).toggleClass('stringLabel--hidden');
         $('.stringNum--3').toggleClass('stringNum--hidden');
       })
-      $('.stringLabel--4').click(function(){
+      $(document).on("click", ".stringLabel--4", function() {
         $(this).toggleClass('stringLabel--hidden');
         $('.stringNum--4').toggleClass('stringNum--hidden');
       })
-      $('.stringLabel--5').click(function(){
+      $(document).on("click", ".stringLabel--5", function() {
         $(this).toggleClass('stringLabel--hidden');
         $('.stringNum--5').toggleClass('stringNum--hidden');
       })
-      $('.stringLabel--6').click(function(){
+      $(document).on("click", ".stringLabel--6", function() {
         $(this).toggleClass('stringLabel--hidden');
         $('.stringNum--6').toggleClass('stringNum--hidden');
       })
