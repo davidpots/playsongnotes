@@ -194,6 +194,10 @@ table.string_labels .cell {
 
 .stringNum--hidden .note {
   visibility: hidden;
+  opacity: 0;
+}
+.string .note {
+  transition: opacity 0.3s, visibility 0.3s;
 }
 
 
