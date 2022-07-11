@@ -71,6 +71,9 @@ table.string_labels {
     float: left;
     margin-left: 1.5rem
 }
+.stringLabel {
+  -webkit-tap-highlight-color: transparent;
+}
 
 table.string_labels .cell {
     height: 2.25rem;
