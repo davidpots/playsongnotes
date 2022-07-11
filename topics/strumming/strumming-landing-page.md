@@ -4,7 +4,7 @@ title: Strumming Patterns & Guitar Rhythm Techniques
 permalink: /topics/strumming/
 ---
 
-<h1>Strumming Patterns & Rhythm Techniques</h1>
+<h1>Strumming & Rhythm Techniques</h1>
 
 <p class="large">While your left hand is busy learning chords, your right hand has its own job to get the hang of: creating a sense of rhythm with strumming! This can be a subtly tricky aspect of learning guitar, but the possibilities and fun-to-be-had are bountiful, once you get over the hump. Here's a guide to get you started.</p>
 
