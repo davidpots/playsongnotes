@@ -222,12 +222,12 @@ function generateFretboard() {
   var fretboardHTML =  '<div class="table_wrapper">\n';
       fretboardHTML += '<table class="string_labels">\n';
   for (var i = 0; i < currentInstrument.numStrings; i++) {
-      fretboardHTML += '<tr><td><div class="cell">'+ currentInstrument.stringLabels[i] +'</div></td></tr>\n';
+      fretboardHTML += '<tr class="stringLabel stringLabel--'+ (i+1) +'"><td><div class="cell">'+ currentInstrument.stringLabels[i] +'</div></td></tr>\n';
   }
       fretboardHTML += '</table>\n';
       fretboardHTML += '<table class="fretboard">\n';
   for (var i = 0; i < currentInstrument.numStrings; i++) {
-      fretboardHTML += '<tr class="string"></tr>\n';
+      fretboardHTML += '<tr class="string stringNum--'+(i+1)+'"></tr>\n';
   }
       fretboardHTML += '<tr class="legend"></tr>\n';
       fretboardHTML += '</table>\n';

@@ -80,7 +80,10 @@ table.string_labels .cell {
     top: 1.125rem;
     font-weight: 500;
     color: #1E3754;
-    font-size: .9rem
+    font-size: .9rem;
+    &:hover {
+      cursor: pointer;
+    }
 }
 
 .cell {
@@ -169,6 +172,30 @@ table.string_labels .cell {
     display: inline-block;
     padding: 5px
 }
+
+
+
+.stringLabel.stringLabel--hidden .cell {
+  opacity: .4;
+  position: relative;
+  &:before {
+    content: "+";
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg);
+    color: #E14049;
+    font-weight: bold;
+    font-size: 19px;
+    left: -7px;
+    position: absolute;
+    top: 5px;
+  }
+}
+
+.stringNum--hidden .note {
+  visibility: hidden;
+}
+
 
 @media screen and (max-width: 767px) {
 
@@ -368,4 +395,11 @@ table.string_labels .cell {
   span.no-break {
     white-space: nowrap;
   }
+}
+
+.fretboard_backdrop {
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
 }
