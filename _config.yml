@@ -34,6 +34,10 @@ exclude:
   - Gemfile.lock
 
 collections:
+  courses:
+    output: true
+  course_lessons:
+    output: true
   lessons:
     output: true
     permalink: /:collection/:slug/

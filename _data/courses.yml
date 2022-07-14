@@ -1,0 +1,35 @@
+- title: Getting Started with Guitar
+  description: Everything you need to pick up your guitar and play! Learn the basics of the instrument & how to practice. Also learn how to read tabs, fretboard diagrams, chord charts, and more.
+  course_id: GSG
+  course_items: [GSG-100, GSG-101, GSG-102, GSG-103]
+  landing_page: getting-started-with-guitar
+
+- title: Practical Music Theory
+  description: A general overview of must-know theory concepts that relate to everyday guitar playing.
+  course_id: PMT
+  course_items: [PMT-100, PMT-101, PMT-102, PMT-103]
+  landing_page: /courses/practical-music-theory/
+
+- title: Strumming & Rhythm Essentials
+  description: An introduction guide to strumming techniques & basic rhythm skills that every guitarsit should know.
+  course_id: STR
+  course_items: [STR-100, STR-101, STR-102, STR-103]
+  landing_page: /courses/strumming-and-rhythm-essentials/
+
+- title: Learning Barre Chords
+  description: A guide to the left-hand technique of fretting multiple strings with a single finger (used in chords, triads, licks, etc).
+  course_id: BAR
+  course_items: [BAR-100, BAR-101, BAR-102, BAR-103]
+  landing_page: /courses/learning-barre-chords/
+
+- title: Walk-Ups and Walk-Downs
+  description: Learn how to connect chords with walking bass lines. A very common technique used in country, rock, and folk music.
+  course_id: WUD
+  course_items: [WUD-100, WUD-101, WUD-102]
+  landing_page: /courses/walk-ups-and-walk-downs/
+
+- title: Introduction to Fingerstyle
+  description: An overview of playing guitar without a pick! Must-know right-hand techniques to get started with this fun style of playing.
+  course_id: FNG
+  course_items: [FNG-100, FNG-101, FNG-102]
+  landing_page: /courses/introduction-to-fingerstyle/

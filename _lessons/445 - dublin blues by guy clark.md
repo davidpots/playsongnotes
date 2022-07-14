@@ -4,7 +4,7 @@ title: '"Dublin Blues" by Guy Clark'
 song_title: "Dublin Blues"
 artist: Guy Clark
 year: 1995
-tags: [Full Song Lesson, Key of D, 1990s, Country]
+tags: [Full Song Lesson, Key of D, 1990s, Country, Drop D]
 difficulty: beginner
 category: full_song
 yt_video_id: D4MqUJFqTcM

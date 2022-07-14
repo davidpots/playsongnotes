@@ -104,7 +104,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     How Far I'll Go             X
     I'm a Lonesome Fugitive     X
     Jenny of Oldstones          X
-    Let It Go                   X
+    Let It Go                   XX
     Margaritaville              X
     Peace of Mind               X
     Reindeers Better thn People X
