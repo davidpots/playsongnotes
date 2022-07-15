@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+{% assign current_course = site.courses | where: "course_id", page.parent_course %}
+{% assign current_course_name = current_course[0].title %}
+{% assign current_course_items = current_course[0].course_items %}
+
+<!-- ******** -->
+
+{% include header-nav--desktop.html %}
+{% include header-nav--mobile.html %}
+
+<div class="container ptl">
+
+  <!-- breadcrumbs -->
+  <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/courses">Courses</a> ❯ <a href="{{ current_course[0].permalink }}">{{ current_course_name }}</a> ❯ </p>
+
+  <!-- prev/next ... ADD LATER -->
+
+</div>
+
+
+<div class="container">
+  <h1>{{ page.title }}</h1>
+</div>
+
+
+<div class="container clearfix">
+  <div class="row">
+    <div class="col col-left col-8">
+
+        {{ content }}
+
+    </div> <!-- end: .col.col-left.col-8 -->
+    <div class="col col-right col-4">
+
+      <div class="tile course_mini_toc">
+        <h3>{{ current_course_name }}</h3>
+        <ul>
+          {% for c in current_course_items %}
+            {% assign lesson = site.course_lessons | where: "lesson_id", c %}
+            <li><a class="{% if page.lesson_id == lesson[0].lesson_id %}course_mini_toc__active{% endif %}" href="{{lesson[0].url}}">{{ lesson[0].title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <h4 class="mtxl">Other Courses:</h4>
+
+      {% for course in site.courses %}
+
+        {% assign current_course_id = page.parent_course %}
+        {% if course.course_id != current_course_id %}
+          <div class="tile course_mini_toc mbl">
+            <h3>{{ course.title }}</h3>
+            <!-- <ul>
+              {% for c in course.course_items %}
+                {% assign clesson = site.course_lessons | where: "lesson_id", c %}
+                <li><a class="" href="{{clesson[0].url}}">{{ clesson[0].title }}</a></li>
+              {% endfor %}
+            </ul> -->
+          </div> <!-- end: .tile.course_mini_toc -->
+        {% endif %}
+
+
+
+      {% endfor %}
+
+
+        <!-- right secondary content area -->
+            <!-- current course lesson list w/ current lesson highlighted -->
+            <!-- list of other courses -->
+
+    </div> <!-- end: .col.col-right.col-4 -->
+  </div> <!-- end: .row -->
+</div>

@@ -1,0 +1,36 @@
+.course_mini_toc {
+  background-color: white;
+  h3 {
+    padding: .75rem 1rem;
+    margin: 0 0 .5rem 0;
+    font-size: .875rem;
+    border-bottom: 1px solid $border-color;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 .5rem 0;
+    li {
+      a {
+        text-decoration: none;
+        color: $font-color--default;
+        font-size: .75rem;
+        line-height: 130%;
+        display: block;
+        padding: .5rem 1rem;
+        &:hover {
+          background: #F7FBFF;
+          // text-decoration: underline;
+        }
+      }
+      a.course_mini_toc__active {
+        background: #EFF7FF;
+        color: #0074D9;
+        font-weight: 600;
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}

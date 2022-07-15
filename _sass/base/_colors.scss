@@ -1,11 +1,23 @@
 // 2022 SongNotes.net Redesign
 
+        // I'm thinking we need...
+        //
+        // base color (e.g. navy blue)
+        // primary accent color (e.g. bright blue / link blue)
+        //    400 - link color 0074D9 or is it 500?
+        //    200 - EFF1F6 - used in non-active fretmonster toggle bg
+        //    100 - EFF7FF - used on course toc hover / active state
+        // secondary accent color (e.g. red)
+        // tertiary accent color (e.g. yellow / beige / patreon PDF thing)
+
         $nav-bg-blue: #153857; // dark blue, approx blue 800
         $nav-bg-blue-semidark: #2C4C68; // dark blue but a bit liter, approx 600-700
-        $nav-hover-bg: #DDF0FD;
+        $nav-hover-bg: #DDF0FD; // bright blue accent - good for hover state
 
 
-        $fretMonsterPill: #EFF1F6; // light blue probably 100-200
+        $border-color: #EFF1F6; // light base blue probably 100-200
+
+        $fretMonsterPill: #EFF1F6; // light base blue probably 100-200
         $fretMonsterPillText: #153857;
         $fretMonsterPillBG: #153857;
 

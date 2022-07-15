@@ -3,7 +3,7 @@ layout: page
 course_id: GSG
 title: Getting Started with Guitar
 description: Everything you need to pick up your guitar and play! Learn the basics of the instrument & how to practice. Also learn how to read tabs, fretboard diagrams, chord charts, and more.
-course_items: [GSG-100]
+course_items: [GSG-100,GSG-101,GSG-102,GSG-103,GSG-104,GSG-105]
 permalink: /courses/getting-started-with-guitar/
 ---
 

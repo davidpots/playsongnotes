@@ -53,3 +53,10 @@ collections:
   misc:
     output: true
     permalink: /lessons/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: "course_lessons"
+    values:
+      layout: "course_lesson"
