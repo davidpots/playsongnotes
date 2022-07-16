@@ -1,6 +1,7 @@
 ---
 layout: song
 category: tip_technique
+topic_id: topic__barre_chords
 title: How to play F#m without barring (for fingerstyle)
 slug: "241"
 date_published: 2019-06-04

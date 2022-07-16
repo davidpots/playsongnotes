@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Strumming Patterns & Guitar Rhythm Techniques
-permalink: /topics/strumming/
+permalink: /topics/strumming-and-rhythm/
 ---
 
 <h1>Strumming & Rhythm Techniques</h1>

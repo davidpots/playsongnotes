@@ -1,6 +1,7 @@
 ---
 layout: song
 category: tip_technique
+topic_id: topic__barre_chords
 title: How to play B-minor chord (Bm)
 slug: "59"
 date_published: 2017-04-21

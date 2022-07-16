@@ -38,6 +38,8 @@ collections:
     output: true
   course_lessons:
     output: true
+  topics:
+    output: true
   lessons:
     output: true
     permalink: /:collection/:slug/

@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__barre_chords
 title: 'Easier Ways to Play B-minor (No Barring Required)'
 category: tip_technique
 slug: "431"

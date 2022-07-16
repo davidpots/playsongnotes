@@ -13,12 +13,24 @@
         .overflow-auto   { overflow: auto }
         .overflow-scroll { overflow: scroll }
 
+
+        // I got the mixin much more recently than the normal class below
+        @mixin clearfix() {
+          &::before,
+          &::after {
+            content: " ";
+            display: table
+          }
+          &::after { clear: both }
+        }
         .clearfix:before,
         .clearfix:after {
           content: " ";
           display: table
         }
         .clearfix:after { clear: both }
+
+
 
         .left  { float: left }
         .right { float: right }

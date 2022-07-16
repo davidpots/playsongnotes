@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<!-- ******** -->
+
+{% include header-nav--desktop.html %}
+{% include header-nav--mobile.html %}
+
+<div class="breadcrumb_2022_wrapper">
+  <div class="container">
+
+    <!-- breadcrumbs -->
+    <p class="breadcrumbs_2022"><a href="/courses">Courses</a> ❯</p>
+
+    <!-- prev/next ... ADD LATER -->
+  </div> <!-- end: .container -->
+</div>
+
+
+<div class="container ptl">
+  <h1>{{ page.title }}</h1>
+  <p class="large">{{ page.description }}</p>
+</div>
+
+
+<div class="container clearfix">
+  <div class="row">
+    <div class="col col-left col-8">
+
+        {{ content }}
+
+    </div> <!-- end: .col.col-left.col-8 -->
+    <div class="col col-right col-4">
+
+
+
+    </div> <!-- end: .col.col-right.col-4 -->
+  </div> <!-- end: .row -->
+</div>

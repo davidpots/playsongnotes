@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__barre_chords
 title: 'F Chord, Made Easy: 7 Alternatives to the Barred Version'
 category: tip_technique
 slug: "392"

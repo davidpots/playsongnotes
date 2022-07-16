@@ -1,6 +1,7 @@
 ---
 layout: song
 category: tip_technique
+topic_id: topic__barre_chords
 title: How to play F#m (F sharp minor)
 slug: "192"
 date_published: 2018-11-18

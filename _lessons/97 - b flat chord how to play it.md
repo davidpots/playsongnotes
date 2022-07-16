@@ -1,6 +1,7 @@
 ---
 layout: song
 category: tip_technique
+topic_id: topic__barre_chords
 title: How to play the B-flat chord (Bb)
 slug: "97"
 date_published: 2017-09-04

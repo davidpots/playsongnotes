@@ -1,10 +1,11 @@
 ---
 layout: topic
-title: Barre Chord Basics
+topic_id: topic__barre_chords
+title: Barre Chords
 permalink: /topics/barre-chords/
 ---
 
-<h1>Barre Chord Basics</h1>
+<h1>Barre Chords</h1>
 
 <p class="large">The ability to play guitar chords with your left-hand fingers "barred" across strings is one of the most important techniques to learn if you're interested venturing beyond the beginner stage. While barring can difficult to learn at first, the results are absolutely worth the initial effort. Here's a guide on how to get started with this technique.</p>
 

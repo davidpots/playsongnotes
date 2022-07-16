@@ -1,6 +1,7 @@
 ---
 layout: song
 category: warmup
+topic_id: topic__barre_chords
 redirect_from:
   - /warmup/15/
 title: Nirvana-inspired barre chord exercise

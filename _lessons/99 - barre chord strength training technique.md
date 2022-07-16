@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__barre_chords
 title: 'Barre Chord Strength Training Exercise (Left Index Finger)'
 category: tip_technique
 slug: "99"

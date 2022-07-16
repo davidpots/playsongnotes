@@ -6,22 +6,35 @@ layout: default
 {% assign current_course_name = current_course[0].title %}
 {% assign current_course_items = current_course[0].course_items %}
 
+{% for i in current_course_items %}
+  {% if i == page.lesson_id %}
+    {% assign current_lesson_position = forloop.index0 | plus: 1 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
 <!-- ******** -->
 
 {% include header-nav--desktop.html %}
 {% include header-nav--mobile.html %}
 
-<div class="container ptl">
+<div class="breadcrumb_2022_wrapper">
+  <div class="container">
 
-  <!-- breadcrumbs -->
-  <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/courses">Courses</a> ❯ <a href="{{ current_course[0].permalink }}">{{ current_course_name }}</a> ❯ </p>
+    <!-- breadcrumbs -->
+    <p class="breadcrumbs_2022"><a href="/courses">Courses</a> ❯ <a href="{{ current_course[0].url }}">{{ current_course_name }}</a> ❯&nbsp;&nbsp;Lesson {{current_lesson_position}} of {{current_course_items.size}}</p>
 
-  <!-- prev/next ... ADD LATER -->
+    <!-- prev/next ... ADD LATER -->
+    <div class="prev_next_wrapper">
+      <a class="pn_prev" href="{% if page.previous.parent_course == page.parent_course %}{{page.previous.url}}{% endif %}">&larr; Prev</a>
+      <a class="pn_next" href="{% if page.next.parent_course == page.parent_course %}{{page.next.url}}{% endif %}">Next &rarr;</a>
+    </div>
 
+
+  </div> <!-- end: .container -->
 </div>
 
-
-<div class="container">
+<div class="container ptl">
   <h1>{{ page.title }}</h1>
 </div>
 

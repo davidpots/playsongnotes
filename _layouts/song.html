@@ -57,6 +57,14 @@ layout: default
       {% if page.category == "full_song" %}
         <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/songs">Songs</a> ❯ {% if songs_by_artist.size > 1 %}<a href="/search/?query={{page.artist}}">{{page.artist}}</a> ❯{% endif %}</p>
       {% endif %}
+      {% if page.topic_id %}
+        {% assign topic_of_lesson = page.topic_id %}
+        {% assign topic_parent = site.topics | where: "topic_id", topic_of_lesson %}
+        {% assign topic_url = topic_parent[0].permalink %}
+        <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/topics">Topics</a> ❯ <a href="{{topic_url}}">{{ topic_parent[0].title }}</a> ❯</p>
+      {% endif %}
+
+
       <h1 class="lesson-head">{{ lesson_head_title }}</h1>
       <p class="lesson-head-subhead">{{ lesson_head_subhead }}</p>
       {{ content }}
