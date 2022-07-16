@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 title: Practicing Walk Ups & Walk Downs in G
 category: warmup
 date_published: 2020-01-07

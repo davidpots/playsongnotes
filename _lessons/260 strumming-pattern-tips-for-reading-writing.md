@@ -1,6 +1,7 @@
 ---
 layout: song
 category: tip_technique
+topic_id: topic__strumming_rhythm
 title: How to read & write strumming patterns
 slug: "260"
 date_published: 2019-10-06

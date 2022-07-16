@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 title: 'Q&A: How to strumming without a guitar pick'
 category: tip_technique
 slug: "317"

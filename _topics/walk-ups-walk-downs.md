@@ -1,5 +1,6 @@
 ---
 layout: topic
+topic_id: topic__walkups_walkdowns
 title: Walk-Ups & Walk-Downs
 permalink: /topics/walk-ups-walk-downs/
 ---

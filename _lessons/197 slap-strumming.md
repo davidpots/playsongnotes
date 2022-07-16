@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 category: tip_technique
 title: Slap strumming basics (percussive rhythm technique)
 slug: "197"

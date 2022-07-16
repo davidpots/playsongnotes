@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 title: 'Bass Note Strumming (Essential Technique)'
 category: tip_technique
 slug: "371"

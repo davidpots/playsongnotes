@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 title: 'Combining Walkdowns with Strumming (from G to C)'
 category: warmup
 slug: "401"

@@ -1,6 +1,7 @@
 ---
 layout: song
 title: 'Silencing the strings on the 2 count (percussive technique)'
+topic_id: topic__strumming_rhythm
 category: tip_technique
 slug: "325"
 tags: [Tips & Techniques, Strumming]

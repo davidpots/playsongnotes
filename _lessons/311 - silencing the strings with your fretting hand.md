@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 title: 'How to silence the strings with your left hand'
 category: tip_technique
 slug: "311"

@@ -1,6 +1,7 @@
 ---
 layout: song
 title: 'Guitar walk-ups and walk-downs, quickly explained'
+topic_id: topic__walkups_walkdowns
 category: tip_technique
 slug: "342"
 tags: [Tips & Techniques, Key of C, Key of A, Learning the Fretboard, Walking Bass Lines]

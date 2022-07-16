@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 title: 'Country Bass Line Exercise in 6/8 Time'
 category: warmup
 slug: "297"

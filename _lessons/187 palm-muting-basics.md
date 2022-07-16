@@ -1,6 +1,7 @@
 ---
 layout: song
 category: tip_technique
+topic_id: topic__strumming_rhythm
 title: Palm muting basics
 slug: "187"
 date_published: 2018-10-30

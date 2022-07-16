@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 title: 'Q&A: Which guitar pick I use & why'
 category: tip_technique
 slug: "300"

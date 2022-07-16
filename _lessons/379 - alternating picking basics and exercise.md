@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 title: 'Essential Strum Technique: Alternating Picking'
 category: tip_technique
 slug: "379"

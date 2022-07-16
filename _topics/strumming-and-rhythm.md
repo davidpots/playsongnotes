@@ -1,6 +1,7 @@
 ---
 layout: topic
-title: Strumming Patterns & Guitar Rhythm Techniques
+topic_id: topic__strumming_rhythm
+title: Strumming & Rhythm
 permalink: /topics/strumming-and-rhythm/
 ---
 

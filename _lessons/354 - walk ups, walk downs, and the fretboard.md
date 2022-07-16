@@ -1,6 +1,7 @@
 ---
 layout: song
 title: 'Walk-ups, Walk-downs, and the fretboard'
+topic_id: topic__walkups_walkdowns
 category: tip_technique
 slug: "354"
 tags: [Tips & Techniques, Key of C, Key of A, Key of G, Key of A, Key of E, Learning the Fretboard, Walking Bass Lines]

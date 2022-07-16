@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 category: warmup
 redirect_from:
   - /warmup/16/

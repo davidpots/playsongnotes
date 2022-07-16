@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 title: 'Strummy Walk-Downs in the Key of A major'
 category: warmup
 slug: "408"

@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__strumming_rhythm
 title: 'Enhance Your Strumming with Syncopation and Sus Chords'
 category: tip_technique
 slug: "289"

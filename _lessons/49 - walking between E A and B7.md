@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 category: tip_technique
 title: Walking up & down between the E, A, and B7 (bass note transitions)
 slug: "49"

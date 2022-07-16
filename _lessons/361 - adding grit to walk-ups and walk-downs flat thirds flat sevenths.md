@@ -1,5 +1,6 @@
 ---
 layout: song
+topic_id: topic__walkups_walkdowns
 title: 'Using flat-thirds and flat-sevenths to add GRIT to your walk-ups and walk-downs'
 category: tip_technique
 slug: "361"
