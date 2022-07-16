@@ -55,3 +55,34 @@
 .pn_prev {
   margin-right: 4px;
 }
+
+@media only screen and (max-width: $breakpoint--mobile) {
+  .breadcrumb_2022_wrapper {
+    .breadcrumbs_2022 {
+      margin: 0 0 12px 0;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      display: block;
+      float: none;
+      a {
+        font-size: 12px;
+      }
+    }
+  }
+  .prev_next_wrapper {
+    display: block;
+    float: none;
+    @include clearfix;
+  }
+  .prev_next_wrapper a {
+    width: calc(50% - 4px);
+    text-align: center;
+  }
+  .pn_prev {
+    margin-right: 0;
+    float: left;
+  }
+  .pn_next {
+    float: right;
+  }
+}
