@@ -1,0 +1,15 @@
+{% assign lesson = site.course_lessons | where: 'lesson_id', include.l_id %}
+{% assign l = lesson[0] %}
+
+
+<div class="course-item">
+  <a class="course-item--link-wrapper" href="{{l.url | relative_url }}">
+    <div class="course-item--media">
+      <img src="" />
+    </div>
+    <div class="course-item--body">
+      <h3 class="course-item--title">{{l.title}}</h3>
+      <p class="course-item--description">{{l.description}}</p>
+    </div>
+  </a>
+</div>

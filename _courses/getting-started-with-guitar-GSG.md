@@ -1,15 +1,12 @@
 ---
-layout: page
+layout: course_landing_page
 course_id: GSG
-title: Getting Started with Guitar
-description: Everything you need to pick up your guitar and play! Learn the basics of the instrument & how to practice. Also learn how to read tabs, fretboard diagrams, chord charts, and more.
+title: Welcome to Song Notes
+icon: waving-hand
+description: A quick guide on how to follow my video lessons & PDFs. Includes tips on how to approach daily practice routine. Also explains how to read tabs, fretboard diagrams, chord charts, and more.
 course_items: [GSG-100,GSG-101,GSG-102,GSG-103,GSG-104,GSG-105]
 permalink: /courses/getting-started-with-guitar/
 ---
-
-<p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/courses">Courses</a> ❯</p>
-
-# {{ page.title }}
 
 <ul>
   {% for c in page.course_items %}

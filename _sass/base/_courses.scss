@@ -1,10 +1,182 @@
+.course_heading_wrapper {
+  background: #E9F3FB;
+  padding-bottom: 32px;
+  h1 {
+    margin-top: 0;
+  }
+  p {
+    max-width: 768px;
+    margin: 0;
+  }
+}
+
+
+
+// Course Index Page
+
+$course-wrapper-gutter: 20px;
+
+.course-wrapper {
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0px 6px 24px rgba(0,0,0,0.05);
+  padding: $course-wrapper-gutter;
+  margin: 0 0 16px 0;
+  position: relative;
+  .course-wrapper--media {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    left: $course-wrapper-gutter;
+    top: $course-wrapper-gutter;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+  }
+  .course-wrapper--body {
+    margin-left: calc(64px + 20px);
+    margin-right: calc(160px + 20px);
+    h2 {
+      margin: 0 0 8px 0;
+      font-size: 18px;
+    }
+    p {
+      margin: 0 0 12px 0;
+      font-size: 14px;
+    }
+    .course-wrapper--body--mini {
+      p {
+        font-size: 12px;
+        color: #8396A8;
+        display: inline-block;
+        margin-right: 16px;
+        margin-bottom: 4px;
+      }
+      .course-items-lesson-btn {
+        border-radius: 32px;
+        padding: 4px 24px 4px 12px;
+        background: #F0F4F8 url(/images/icons/caret-down-gray.svg) no-repeat calc(100% - 8px) 50%;
+        background-size: 8px 8px;
+        &:hover {
+          cursor: pointer;
+          background-color: darken(#F0F4F8, 2%);
+          transform: scale(105%);
+          transition: transform 150ms ease;
+        }
+      }
+    }
+    ul {
+      margin: 0;
+      li {
+        font-size: 14px;
+      }
+    }
+  }
+  .course-wrapper--action {
+    text-align: right;
+    position: absolute;
+    top: $course-wrapper-gutter;
+    right: $course-wrapper-gutter;
+    width: 160px;
+    .button {
+      &:hover {
+        transform: scale(105%);
+        transition: transform 150ms ease;
+      }
+    }
+  }
+}
+@media only screen and (max-width: $breakpoint--mobile) {
+  .course-wrapper {
+    .course-wrapper--media {
+      display: none; // until I figure out a layout that works with this in place
+      width: 36px;
+      height: 36px;
+      position: relative;
+      top: auto;
+      left: auto;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 32px 32px;
+      margin-bottom: 12px;
+    }
+    .course-wrapper--body {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .course-wrapper--action {
+      position: relative;
+      top: auto;
+      right: auto;
+      margin-top: 16px;
+      // width: 100%;
+      .button {
+        display: block;
+      }
+    }
+  }
+}
+
+
+
+
+
+// Course Item in Main Feed
+
+.course-item {
+  background: white;
+  border-radius: 5px;
+  min-height: 95px;
+  box-shadow: 0px 6px 24px rgba(0,0,0,0.05);
+  margin: 0 0 10px 0;
+  transition: transform 150ms ease;
+  &:hover {
+    transform: scale(102%);
+  }
+}
+.course-item--link-wrapper {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  position: relative;
+}
+.course-item--media {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 132px; height: 74px;
+  background: #EFF1F6;
+  border-radius: 2px;
+}
+.course-item--body {
+  margin-left: 145px;
+}
+.course-item--title {
+  margin: 4px 0 2px 0;
+  font-size: 16px;
+  color: $color-link;
+}
+.course-item--description {
+  margin: 0;
+  font-size: 13px;
+  color: $font-color--default;
+}
+
+
+
+
+
+// Side column TOC
+
 .course_mini_toc {
   background-color: white;
+  border: 1px solid $border-color-dark;
+  border-radius: 5px;
   h3 {
     padding: .75rem 1rem;
     margin: 0 0 .5rem 0;
     font-size: .875rem;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $border-color-dark;
   }
   ul {
     list-style: none;

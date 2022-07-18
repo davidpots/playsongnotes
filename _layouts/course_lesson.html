@@ -48,7 +48,7 @@ layout: default
     </div> <!-- end: .col.col-left.col-8 -->
     <div class="col col-right col-4">
 
-      <div class="tile course_mini_toc">
+      <div class="course_mini_toc">
         <h3>{{ current_course_name }}</h3>
         <ul>
           {% for c in current_course_items %}
@@ -58,26 +58,22 @@ layout: default
         </ul>
       </div>
 
-      <h4 class="mtxl">Other Courses:</h4>
+      <!-- <h4 class="mtxl">Other Courses:</h4> -->
 
-      {% for course in site.courses %}
-
-        {% assign current_course_id = page.parent_course %}
-        {% if course.course_id != current_course_id %}
+      <!-- { % for course in site.courses %}
+        { % assign current_course_id = page.parent_course %}
+        { % if course.course_id != current_course_id %}
           <div class="tile course_mini_toc mbl">
-            <h3>{{ course.title }}</h3>
+            <h3>{ { course.title } }</h3>
             <!-- <ul>
               {% for c in course.course_items %}
                 {% assign clesson = site.course_lessons | where: "lesson_id", c %}
                 <li><a class="" href="{{clesson[0].url}}">{{ clesson[0].title }}</a></li>
               {% endfor %}
-            </ul> -->
-          </div> <!-- end: .tile.course_mini_toc -->
-        {% endif %}
-
-
-
-      {% endfor %}
+            </ul> -- >
+          </div> < !-- end: .tile.course_mini_toc -- >
+        { % endif %}
+      { % endfor %} -->
 
 
         <!-- right secondary content area -->

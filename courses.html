@@ -1,0 +1,39 @@
+---
+permalink: /courses
+layout: page
+---
+
+<div style="max-width: 820px;">
+
+  <h1>Guitar Courses</h1>
+  <p class="large">Learn essential guitar concepts in step-by-step, guided series of lessons! Dive into any course below to view the individual lessons teaching that subject.</p>
+  <hr style="margin: 24px 0;" />
+
+  {% for course in site.courses %}
+
+    {% assign current_course_id = course.course_id %}
+    {% assign course_items = site.course_lessons | where: "parent_course", current_course_id %}
+
+    <div class="course-wrapper">
+      <div class="course-wrapper--media" style="background-image: url(/images/icons/courses/{{course.icon}}.png)"></div>
+      <div class="course-wrapper--body">
+        <h2>{{ course.title }}</h2>
+        <p>{{ course.description }}</p>
+        <div class="course-wrapper--body--mini">
+          <p class="course-items-lesson-btn">{{ course_items.size }} Lessons</p>
+          <p>1 hour 32 minutes</p>
+        </div>
+        <!-- <ul>
+          {% for c in course_items %}
+          <li><a href="{{c.url}}">{{ c.title }}</a></li>
+          {% endfor %}
+        </ul> -->
+      </div>
+      <div class="course-wrapper--action">
+        <a class="button button-primary" href="{{ course.url }}">View Course</a>
+      </div>
+    </div> <!-- end: .course-wrapper -->
+
+  {% endfor %}
+
+</div> <!-- end: max-width 740px -->
