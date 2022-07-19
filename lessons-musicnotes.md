@@ -4,6 +4,33 @@ title: List of all Musicnotes lessons
 permalink: /lessons-musicnotes/
 ---
 
+{% assign table_lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'song_title' %}
+
+<table>
+  <tr>
+    <td>Song Name</td>
+    <td>Number of Pages</td>
+    <td>Musicnotes URL</td>
+    <td>New Price</td>
+  </tr>
+  {% for l in table_lessons %}
+    <tr>
+      <td>{{ l.song_title }} by {{ l.artist }}</td>
+      <td>{{ l.pdf_numpages }}</td>
+      <td>{{ l.musicnotes_url }}</td>
+      <td>
+        {% if l.pdf_numpages == 1 %}$2.99{% endif %}
+        {% if l.pdf_numpages == 2 %}$3.99{% endif %}
+        {% if l.pdf_numpages == 3 %}$4.99{% endif %}
+        {% if l.pdf_numpages >= 4 %}$5.99{% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+</table>
+
+
+
+
 <div style="text-align: center;">
   <form action="/search/" method="get" style="width: 100%; max-width: 720px; position: relative; text-align: left; margin: 0 auto;">
     <div style="position: relative; display: table; width: 100%;">

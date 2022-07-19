@@ -57,18 +57,46 @@ $course-wrapper-gutter: 20px;
         padding: 4px 24px 4px 12px;
         background: #F0F4F8 url(/images/icons/caret-down-gray.svg) no-repeat calc(100% - 8px) 50%;
         background-size: 8px 8px;
+        user-select: none;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
         &:hover {
           cursor: pointer;
           background-color: darken(#F0F4F8, 2%);
           transform: scale(105%);
-          transition: transform 150ms ease;
+          transition: all 150ms ease;
         }
       }
+      .course-items-lesson-btn--opened {
+        background-image: url(/images/icons/caret-up-gray.svg);
+      }
     }
-    ul {
-      margin: 0;
+    ul.course-wrapper--lesson-list {
+      display: none;
+      margin: 12px 0 0 0;
+      padding: 12px 0 0 0;
+      border-top: 1px solid $border-color-dark;
       li {
         font-size: 14px;
+        list-style: none;
+        a {
+          display: block;
+          text-decoration: none;
+          padding: 11px 0 11px 70px;
+          background-repeat: no-repeat;
+          background-size: 59px 37px;
+          background-position: 2px 2px;
+          margin: 0 0 4px 0;
+          border-radius: 4px;
+          color: $font-color--default;
+          font-size: 13px;
+          font-weight: 500;
+          &:hover {
+            background-color: #fafbfe;
+            color: $color-link;
+          }
+        }
       }
     }
   }
@@ -81,7 +109,7 @@ $course-wrapper-gutter: 20px;
     .button {
       &:hover {
         transform: scale(105%);
-        transition: transform 150ms ease;
+        transition: all 150ms ease;
       }
     }
   }
