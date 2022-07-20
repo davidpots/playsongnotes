@@ -2,6 +2,7 @@
 parent_course: GSG
 lesson_id: GSG-105
 permalink: /courses/getting-started-with-guitar/how-to-tune-your-guitar
+duration: "6:31"
 title: How to Tune Your Guitar
 description:
 video_id:

@@ -2,6 +2,7 @@
 parent_course: GSG
 lesson_id: GSG-104
 permalink: /courses/getting-started-with-guitar/how-to-read-chord-progressions
+duration: "13:33"
 title: How to Read Chord Progressions
 description:
 video_id:

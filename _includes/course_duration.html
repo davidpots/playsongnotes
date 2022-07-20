@@ -1,0 +1,37 @@
+{% assign current_course_id = include.course_id %}
+{% assign course_items = site.course_lessons | where: "parent_course", current_course_id %}
+
+{% assign course_duration_total_secs = 0 %}
+{% assign course_duration_total_mins = 0 %}
+{% assign course_duration_total_hours = 0 %}
+{% assign course_duration_total_mins_secs = 0 %}
+
+<!-- Add up total seconds of all videos -->
+{% for c in course_items %}
+  {% assign l_duration_split = c.duration | split: ":" %}
+  {% assign l_duration_mins = l_duration_split[0] | plus: 0 %}
+  {% assign l_duration_secs = l_duration_split[1] | plus: 0 %}
+  {% assign l_duration_mins_to_secs = l_duration_mins | times: 60 %}
+  {% assign l_duration_total_secs = l_duration_mins_to_secs | plus: l_duration_secs %}
+  {% assign course_duration_total_secs = course_duration_total_secs | plus: l_duration_total_secs %}
+{% endfor %}
+
+<!-- Turn the total seconds back into a HH:SS format -->
+{% assign course_duration_total_mins = course_duration_total_secs | divided_by: 60 %}
+{% assign course_duration_total_hours = course_duration_total_mins | divided_by: 60 %}
+{% assign course_duration_total_secs = course_duration_total_secs | modulo: 60 %}
+
+{% assign r_mins = course_duration_total_mins | modulo: 60 %}
+{% if r_mins == 1 %}
+  {% assign min_string = "min" %}
+{% else %}
+  {% assign min_string = "mins" %}
+{% endif %}
+
+{% if course_duration_total_hours > 1 %}
+  {{ course_duration_total_hours }} hours {{ r_mins }} {{ min_string }}
+{% elsif course_duration_total_hours == 1 %}
+  {{ course_duration_total_hours }} hour {{ r_mins }} {{ min_string }}
+{% else %}
+  {{ course_duration_total_mins}} mins
+{% endif %}

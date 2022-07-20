@@ -2,6 +2,7 @@
 parent_course: GSG
 lesson_id: GSG-103
 permalink: /courses/getting-started-with-guitar/how-to-read-fretboard-diagrams
+duration: "9:51"
 title: How to Read Fretboard Diagrams
 description:
 video_id:

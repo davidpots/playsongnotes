@@ -2,6 +2,7 @@
 parent_course: GSG
 lesson_id: GSG-101
 permalink: /courses/getting-started-with-guitar/how-to-read-strumming-patterns
+duration: "11:03"
 title: How to Read Strumming Patterns
 description:
 video_id:

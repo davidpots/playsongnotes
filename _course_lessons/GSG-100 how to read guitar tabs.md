@@ -2,6 +2,7 @@
 parent_course: GSG
 lesson_id: GSG-100
 permalink: /courses/getting-started-with-guitar/how-to-read-guitar-tabs
+duration: "5:31"
 title: How to Read Guitar Tabs
 description:
 video_id:

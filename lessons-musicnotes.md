@@ -2,7 +2,20 @@
 layout: page-wide
 title: List of all Musicnotes lessons
 permalink: /lessons-musicnotes/
+duration: 1h42m
 ---
+
+<!-- Duration Calculation & Conversion -->
+
+<!-- ...read & parse the duration YAML item -->
+{% assign temp_duration = page.duration | split: "h" %}
+{% assign temp_duration_hour = temp_duration[0] %}
+{% assign temp_duration_mins = temp_duration[1] | split: "m" %}
+<!-- ...get final hour/minute values &  converting them to intrgers -->
+{% assign duration_hour = temp_duration_hour | plus: 0 %}
+{% assign duration_mins = temp_duration_mins[0] | plus: 0 %}
+
+<h1>{{ duration_hour }} hour • <span>{{ duration_mins }}</span> mins</h1>
 
 {% assign table_lessons = site.lessons | where: "pdf_version","musicnotes" | sort: 'song_title' %}
 

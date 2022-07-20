@@ -4,29 +4,7 @@ title: Sandbox of Song Notes layout stuff
 permalink: /sandbox/
 ---
 
-<!-- &nbsp;&nbsp;•&nbsp;&nbsp;{{ l.date_published | date: '%b %-d, %Y' }} -->
-
-<!-- <div class="tile-wrapper clearfix">
-  <div class="tile tile-landscape">
-    <div class="tile-head">
-      <p>July 4, 2021</p>
-    </div>
-    <div class="tile-media">
-      <a href="_______"><img src="http://img.youtube.com/vi/________/maxresdefault.jpg" /></a>
-    </div>
-    <div class="tile-body">
-      <h3 class="tile-title"><a href="_______">_______</a></h3>
-      <p class="tile-meta">by <a href="_______">_______</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #_______</p>
-      <p class="tile-description">_______</p>
-        <p class="tile-badge"><a class="pdf-badge" data-pdf-version="musicnotes" href="_______"><span class='pdf-icon'>$</span> Sheet Music</a></p>
-        <p class="tile-badge"><a class="pdf-badge" data-pdf-version="v2" href="_______"><span class='pdf-icon'>★</span> Patreon PDF</a></p>
-    </div>
-  </div>
-</div> -->
-
 ## Aug 2021 stuff
-
-
 
 ### Landscape: songs
 
@@ -45,7 +23,7 @@ permalink: /sandbox/
       <h3 class="tile-title"><a href="">{{l.song_title}}</a></h3>
       <p class="tile-meta"><a href="">{{l.artist}}</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{l.slug}}</p>
       <p class="tile-description">In this week’s guitar lesson, you’ll be playing in the key of the song (so no worrying about following chord changes). You’ll be playing everything from...</p>
-      {% if l.pdf_version And l.pdf_version != "" And l.pdf_version != nil %}
+      {% if l.pdf_version and l.pdf_version != "" and l.pdf_version != nil %}
         <p class="tile-badge">
           <a class="pdf-badge" data-pdf-version="musicnotes" href="{{ l.url | relative_url }}"><span class='pdf-icon'>$</span> Sheet Music</a>
         </p>
@@ -69,7 +47,7 @@ permalink: /sandbox/
       <h3 class="tile-title"><a href="">{{l.title}}</a></h3>
       <p class="tile-meta"><a href="">Tips & Techniques</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{l.slug}}</p>
       <!-- <p class="tile-description">In this week’s guitar lesson, you’ll be playing in the key of the song (so no worrying about following chord changes). You’ll be playing everything from...</p> -->
-      {% if l.pdf_version And l.pdf_version != "" And l.pdf_version != nil %}
+      {% if l.pdf_version and l.pdf_version != "" and l.pdf_version != nil %}
       <p class="tile-badge">
         <a class="pdf-badge" data-pdf-version="v2" href="{{ l.url | relative_url }}"><span class='pdf-icon'>★</span> Patreon PDF</a>
       </p>
@@ -103,7 +81,7 @@ permalink: /sandbox/
       <h3 class="tile-title"><a href="">{{l.title}}</a></h3>
       <p class="tile-meta"><a href="">Tips & Techniques</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{l.slug}}</p>
       <!-- <p class="tile-description">In this week’s guitar lesson, you’ll be playing in the key of the song (so no worrying about following chord changes). You’ll be playing everything from...</p> -->
-      {% if l.pdf_version And l.pdf_version != "" And l.pdf_version != nil %}
+      {% if l.pdf_version and l.pdf_version != "" and l.pdf_version != nil %}
       <p class="tile-badge">
         <a class="pdf-badge" data-pdf-version="v2" href="{{ l.url | relative_url }}"><span class='pdf-icon'>★</span> Patreon PDF</a>
       </p>
@@ -125,7 +103,7 @@ permalink: /sandbox/
       <h3 class="tile-title"><a href="">{{l.song_title}}</a></h3>
       <p class="tile-meta">by <a href="">{{l.artist}}</a>&nbsp;&nbsp;•&nbsp;&nbsp;Lesson #{{l.slug}}</p>
       <!-- <p class="tile-description">In this week’s guitar lesson, you’ll be playing in the key of the song (so no worrying about following chord changes). You’ll be playing everything from...</p> -->
-      {% if l.pdf_version And l.pdf_version != "" And l.pdf_version != nil %}
+      {% if l.pdf_version and l.pdf_version != "" and l.pdf_version != nil %}
       <p class="tile-badge">
         <a class="pdf-badge" data-pdf-version="musicnotes" href="{{ l.url | relative_url }}"><span class='pdf-icon'>$</span> Sheet Music</a>
       </p>

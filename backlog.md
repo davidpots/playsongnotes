@@ -18,6 +18,8 @@ permalink: /backlog/
 
 Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Each arrangement is officially licensed & legal, and also uses my latest sheet music formatting.
 
+Note, as of June 2022 I've slowed down a bit (with re-listing some of these older PDFs) due to some other behind-the-scenes things I'm working on. But fear not, I do plan on getting back to these at some point! And you can always check out my weekly new lessons, which I am keeping up with.
+
 - May 31 - [Where Rainbows Never Die](https://playsongnotes.com/lessons/112/)
 - May 23 - [Total Eclipse of the Heart](https://playsongnotes.com/lessons/93/)
 - May 16 - [Lookin' Out My Backdoor](https://playsongnotes.com/lessons/261/)
@@ -71,9 +73,9 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
     Always Remember Us This Way XXXXXXXXXXXX
     California Dreaming         XXXXXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXXXX
-    Let Him Roll                XXXXXXXXXXXX
+    Let Him Roll                XXXXXXXXXXXXX
     My Fav. Picture of You      XXXXXXXX
-    My Old Kentucky Home        XXXXXXXXXX
+    My Old Kentucky Home        XXXXXXXXXXX
     Remember Me •               XXXXXXXXX
     Running Down a Dream        XXXXXXXXXXX
     We Are the Champions •      XXXXXXXXXX

@@ -2,6 +2,7 @@
 parent_course: GSG
 lesson_id: GSG-102
 permalink: /courses/getting-started-with-guitar/how-to-read-chord-charts
+duration: "6:48"
 title: How to Read Chord Charts
 description:
 video_id:

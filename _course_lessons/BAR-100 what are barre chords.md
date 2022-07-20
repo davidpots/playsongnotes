@@ -3,6 +3,7 @@ parent_course: BAR
 lesson_id: BAR-100
 permalink: /courses/learning-barre-chords/what-are-barre-chords
 title: What Are Barre Chords?
+duration: "4:45"
 description:
 video_id:
 patreon_url:

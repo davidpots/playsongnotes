@@ -21,11 +21,11 @@ layout: page
         <p>{{ course.description }}</p>
         <div class="course-wrapper--body--mini">
           <p class="course-items-lesson-btn">{{ course_items.size }} Lessons</p>
-          <p>1 hour 32 minutes</p>
+          <p>{% include course_duration.html course_id = course.course_id %}</p>
         </div>
         <ul class="course-wrapper--lesson-list">
           {% for c in course_items %}
-          <li><a style="background-image: url(/images/courses/{{c.lesson_id}}.jpg)" href="{{c.url}}">{{ c.title }}</a></li>
+          <li><a href="{{c.url}}">{{ c.title }} <span class="course-lesson-duration">{{ c.duration }}</span></a></li>
           {% endfor %}
         </ul>
       </div>

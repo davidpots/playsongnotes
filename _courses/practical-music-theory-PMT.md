@@ -8,6 +8,8 @@ course_items: [PMT-100, PMT-101, PMT-102, PMT-103, PMT-104, PMT-105]
 permalink: /courses/practical-music-theory/
 ---
 
+
+
 {% for c in page.course_items %}
   {% assign course_item = site.course_lessons | where: "lesson_id", c %}
   {% assign course_item_id = course_item[0].lesson_id %}
