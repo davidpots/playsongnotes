@@ -13,7 +13,7 @@ date_published: 2022-07-23
 pdf_version: musicnotes
 pdf_numpages: 3
 musicnotes_url: https://www.musicnotes.com/l/3TfMJ
-patreon_lesson_url: _____
+patreon_lesson_url: https://www.patreon.com/posts/69483609
 ---
 
 <!-- https://youtu.be/GURF7pH6eRc -->
