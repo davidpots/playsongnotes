@@ -51,22 +51,84 @@ layout: default
 {% include header-nav--desktop.html %}
 {% include header-nav--mobile.html %}
 
-<div class="container clearfix ptl">
+
+
+
+
+      {% if page.category == "full_song" %}
+
+          <!-- Prev/Next code for SONGS via http://stories.upthebuzzard.com/jekyll_notes/2017-02-19-prev-and-next-within-a-jekyll-collection.html -->
+
+          {% if page.collection and page.category == "full_song" %}
+            {% assign posts = site[page.collection] | where:"category", "full_song" | sort: 'date_published' %}
+
+            {% if posts.size > 1 %}
+              {% assign prevurl = posts.last.url %}
+              {% assign nexturl = posts.first.url %}
+            {% endif %}
+
+            {% for links in posts %}
+              {% if links.title == page.title %}
+                {% unless forloop.first %}
+                  {% assign prevurl = prev.url %}
+                  {% assign prevtitle = prev.song_title %}
+                {% endunless %}
+                {% unless forloop.last %}
+                  {% assign next = posts[forloop.index] %}
+                  {% assign nexturl = next.url %}
+                  {% assign nexttitle = next.song_title %}
+                {% endunless %}
+              {% endif %}
+              {% assign prev = links %}
+            {% endfor %}
+          {% endif %}
+
+
+
+
+        <div class="breadcrumb_2022_wrapper">
+          <div class="container">
+
+            <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/songs">Songs</a> ❯ {% if songs_by_artist.size > 1 %}<a href="/search/?query={{page.artist}}">{{page.artist}}</a> ❯{% endif %}</p>
+
+            <!-- prev/next -->
+            <div class="prev_next_wrapper">
+              <a class="pn_prev" href="{{prevurl}}">&larr; Prev Song</a>
+              <a class="pn_next" href="{{nexturl}}">Next Song &rarr;</a>
+            </div>
+
+          </div> <!-- end: .container -->
+        </div> <!-- end: .breadcrumb_2022_wrapper -->
+
+      {% elsif page.topic_id %}
+
+        <div class="breadcrumb_2022_wrapper">
+          <div class="container">
+
+            {% assign topic_of_lesson = page.topic_id %}
+            {% assign topic_parent = site.topics | where: "topic_id", topic_of_lesson %}
+            {% assign topic_url = topic_parent[0].permalink %}
+            <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/topics">Topics</a> ❯ <a href="{{topic_url}}">{{ topic_parent[0].title }}</a> ❯</p>
+
+          </div> <!-- end: .container -->
+        </div> <!-- end: .breadcrumb_2022_wrapper -->
+
+      {% else %}
+        <div class="container ptl"></div>
+      {% endif %}
+
+
+
+
+
+
+<div class="container">
+  <h1 class="lesson-head">{{ lesson_head_title }}</h1>
+  <p class="lesson-head-subhead">{{ lesson_head_subhead }}</p>
+</div>
+<div class="container clearfix">
   <div class="row">
     <div class="col col-left col-8">
-      {% if page.category == "full_song" %}
-        <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/songs">Songs</a> ❯ {% if songs_by_artist.size > 1 %}<a href="/search/?query={{page.artist}}">{{page.artist}}</a> ❯{% endif %}</p>
-      {% endif %}
-      {% if page.topic_id %}
-        {% assign topic_of_lesson = page.topic_id %}
-        {% assign topic_parent = site.topics | where: "topic_id", topic_of_lesson %}
-        {% assign topic_url = topic_parent[0].permalink %}
-        <p class="breadcrumbs_2022"><a href="/">Home</a> ❯ <a href="/topics">Topics</a> ❯ <a href="{{topic_url}}">{{ topic_parent[0].title }}</a> ❯</p>
-      {% endif %}
-
-
-      <h1 class="lesson-head">{{ lesson_head_title }}</h1>
-      <p class="lesson-head-subhead">{{ lesson_head_subhead }}</p>
       {{ content }}
     </div> <!-- end: .col.col-left.col-8 -->
     <div class="col col-right col-4 ptl lesson_page_sidebar">
@@ -126,37 +188,3 @@ layout: default
 
 
 </article>
-
-
-<!-- Prev/Next code via http://stories.upthebuzzard.com/jekyll_notes/2017-02-19-prev-and-next-within-a-jekyll-collection.html -->
-
-{% if page.collection and page.category == "full_song" %}
-  {% assign posts = site[page.collection] | where:"category", "full_song" | sort: 'date_published' %}
-
-  {% if posts.size > 1 %}
-    {% assign prevurl = posts.last.url %}
-    {% assign nexturl = posts.first.url %}
-  {% endif %}
-
-  {% for links in posts %}
-    {% if links.title == page.title %}
-      {% unless forloop.first %}
-        {% assign prevurl = prev.url %}
-        {% assign prevtitle = prev.song_title %}
-      {% endunless %}
-      {% unless forloop.last %}
-        {% assign next = posts[forloop.index] %}
-        {% assign nexturl = next.url %}
-        {% assign nexttitle = next.song_title %}
-      {% endunless %}
-    {% endif %}
-    {% assign prev = links %}
-  {% endfor %}
-
-  <div class="browse_bar">
-      {% if posts.size > 1 %}
-        {% if prevtitle %}<p class="browse_bar__left"><a href="{{prevurl}}" class="prev"><strong>Previous Song</strong>{{prevtitle}}</a></p>{% endif %}
-        {% if nexttitle %}<p class="browse_bar__right"><a href="{{nexturl}}" class="nxt"><strong>Next Song</strong>{{nexttitle}}</a></p>{% endif %}
-      {% endif %}
-  </div>
-{% endif %}

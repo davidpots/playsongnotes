@@ -24,7 +24,7 @@ layout: default
     <!-- breadcrumbs -->
     <p class="breadcrumbs_2022"><a href="/courses">Courses</a> ❯ <a href="{{ current_course[0].url }}">{{ current_course_name }}</a> ❯&nbsp;&nbsp;Lesson {{current_lesson_position}} of {{current_course_items.size}}</p>
 
-    <!-- prev/next ... ADD LATER -->
+    <!-- prev/next -->
     <div class="prev_next_wrapper">
       <a class="pn_prev" href="{% if page.previous.parent_course == page.parent_course %}{{page.previous.url}}{% endif %}">&larr; Prev</a>
       <a class="pn_next" href="{% if page.next.parent_course == page.parent_course %}{{page.next.url}}{% endif %}">Next &rarr;</a>
@@ -32,7 +32,7 @@ layout: default
 
 
   </div> <!-- end: .container -->
-</div>
+</div> <!-- end: .breadcrumb_2022_wrapper -->
 
 <div class="container ptl">
   <h1>{{ page.title }}</h1>
