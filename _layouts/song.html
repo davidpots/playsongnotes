@@ -94,7 +94,7 @@ layout: default
             <!-- prev/next -->
             <div class="prev_next_wrapper">
               <a class="pn_prev" href="{{prevurl}}">&larr; Prev Song</a>
-              <a class="pn_next" href="{{nexturl}}">Next Song &rarr;</a>
+              {% if nexttitle %}<a class="pn_next" href="{{nexturl}}">Next Song &rarr;</a>{% else %}<a class="pn_next pn_next--disabled" href="">Next Song &rarr;</a>{% endif %}
             </div>
 
           </div> <!-- end: .container -->

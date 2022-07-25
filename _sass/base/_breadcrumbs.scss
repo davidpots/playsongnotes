@@ -51,9 +51,15 @@
   &:active {
     transform: scale(.96);
   }
+  &.pn_next--disabled {
+    color: transparentize($color-link, .7);
+  }
 }
 .pn_prev {
   margin-right: 4px;
+}
+.pn_next--disabled:hover {
+  cursor: default;
 }
 
 @media only screen and (max-width: $breakpoint--mobile) {
