@@ -237,7 +237,7 @@ iframe {
     text-decoration: underline;
   }
 }
-.col.col-left.col-8 > h2 {
+.col.col-left.col-8 > h2:first-child {
   margin-top: 16px;
 }
 
