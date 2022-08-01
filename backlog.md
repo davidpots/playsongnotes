@@ -70,8 +70,8 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
     Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
-    Always Remember Us This Way XXXXXXXXXXXX
-    California Dreaming         XXXXXXXXXXXXXX
+    Always Remember Us This Way XXXXXXXXXXXXX
+    California Dreaming         XXXXXXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXXXX
     Let Him Roll                XXXXXXXXXXXXX
     My Fav. Picture of You      XXXXXXXX
