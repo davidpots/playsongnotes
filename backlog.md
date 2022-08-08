@@ -67,18 +67,18 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
     Always Remember Us This Way XXXXXXXXXXXXX
     California Dreaming         XXXXXXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXXXX
-    Let Him Roll                XXXXXXXXXXXXX
-    My Fav. Picture of You      XXXXXXXX
+    Let Him Roll                XXXXXXXXXXXXXX
+    My Fav. Picture of You      XXXXXXXXX
     My Old Kentucky Home        XXXXXXXXXXX
     Remember Me •               XXXXXXXXXX
     Running Down a Dream        XXXXXXXXXXX
-    Surf Rider                  XXXXXXX
+    Surf Rider                  XXXXXXXX
     We Are the Champions •      XXXXXXXXXX
     When the Man Comes Around   XXXXXXXXX
 
@@ -100,7 +100,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 <h3>1-2 requests:</h3>
 
     Acid Tongue                 XX
-    Angel Flight                X
+    Angel Flight                XX
     Apple Blossom               XX
     High and Dry                XX
     How Far I'll Go             X
