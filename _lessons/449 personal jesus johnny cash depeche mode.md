@@ -50,14 +50,18 @@ Regarding tuning, you'll need to tune all strings _up_ a whole step to play alon
 
 ### 2️⃣ Use Swing Eighth Notes
 
-Regarding rhythm, the eighth notes in Depeche Mode's recordings are played with swing. This means that the "AND" eighth note count in each measure's _one AND two AND three AND four AND_ all come a slight bit _late_. Here's audio of the main riff played with swing:
+Regarding rhythm, the eighth notes in Depeche Mode's recordings are played with swing. This means that the "AND" eighth note count in each measure's _one AND two AND three AND four AND_ all come a slight bit _late_.
+
+Here's audio of the main riff played **with swing**:
 
 <audio controls>
   <source src="/audio/449-riff-swing.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-Alternatively, Cash's version has the eight notes played "straight" —— meaning there is no swing. his means that the "AND" eighth note count in each measure's _one AND two AND three AND four AND_ are equally spaced between quarter notes. Here'a audio of the main riff played straight:
+Alternatively, Cash's version has the eight notes played "straight" —— meaning there is no swing. his means that the "AND" eighth note count in each measure's _one AND two AND three AND four AND_ are equally spaced between quarter notes.
+
+Here's audio of the main riff played **straight**:
 
 <audio controls>
   <source src="/audio/449-riff-straight.mp3" type="audio/mpeg">
