@@ -13,7 +13,7 @@ pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/l/fVlMJ
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: ____
+patreon_lesson_url: https://www.patreon.com/posts/70466728/
 ---
 
 ## Video lesson
@@ -61,6 +61,7 @@ Your browser does not support the audio element.
 
 Alternatively, Cash's version has the eight notes played "straight" —— meaning there is no swing. his means that the "AND" eighth note count in each measure's _one AND two AND three AND four AND_ are equally spaced between quarter notes.
 
+<br />
 Here's audio of the main riff played **straight**:
 
 <audio controls>
@@ -87,3 +88,9 @@ No capo, standard tuning.
 {% include youtube_embed.html yt_id = 'K3QDDlWmR9Q' %}
 
 <!-- https://www.youtube.com/watch?v=K3QDDlWmR9Q -->
+
+## Join the Discussion on My Patreon Page
+
+Members of the Song Notes community are discussing this lesson over on the Patreon post I made for it — if you're a member, **[join the discussion here]({{page.patreon_lesson_url}})**! You can also find handy links to the various Patreon posts I mention in the lesson, each of which has the instructional PDF available for download. Curious about Song Notes membership on Patreon? [Learn more »](/join)
+
+<br />
