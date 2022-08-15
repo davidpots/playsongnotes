@@ -20,6 +20,7 @@ Here's the songs I've most recently re-listed for purchase at Musicnotes.com. Ea
 
 Note, as of June 2022 I've slowed down a bit (with re-listing some of these older PDFs) due to some other behind-the-scenes things I'm working on. But fear not, I do plan on getting back to these at some point! And you can always check out my weekly new lessons, which I am keeping up with.
 
+- Aug 15 - [When The Man Comes Around](https://playsongnotes.com/lessons/159/)
 - May 31 - [Where Rainbows Never Die](https://playsongnotes.com/lessons/112/)
 - May 23 - [Total Eclipse of the Heart](https://playsongnotes.com/lessons/93/)
 - May 16 - [Lookin' Out My Backdoor](https://playsongnotes.com/lessons/261/)
@@ -33,27 +34,6 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 - Apr 19 - [Feeling Whitney](https://playsongnotes.com/lessons/91/)
 - Apr 16 - [Sweet Child O' Mine](https://playsongnotes.com/lessons/156/)
 - Apr 14 - [Danny's Song](https://playsongnotes.com/lessons/95/)
-- Apr 12 - [Highwayman](https://playsongnotes.com/lessons/55/)
-- Apr 12 - [Last Kiss](https://playsongnotes.com/lessons/87/)
-- Apr 11 - [Badlands](https://playsongnotes.com/lessons/44/)
-- Apr 7  - [A Million Dreams](https://playsongnotes.com/lessons/128/)
-- Apr 6  - [Banded Clovis](https://playsongnotes.com/lessons/291/)
-- Apr 5  - [Walk Right In](https://playsongnotes.com/lessons/277/)
-- Mar 6  - [Lola](https://playsongnotes.com/lessons/427/)
-- Mar 1  - [Under the Bridge](https://playsongnotes.com/lessons/419/)
-- Feb 8  - [Me and Bobby McGee](https://playsongnotes.com/lessons/114/)
-- Feb 7  - [Whitehouse Road](https://playsongnotes.com/lessons/109/)
-- Feb 1  - [I've Been Everywhere](https://playsongnotes.com/lessons/170/)
-- Jan 31 - [Tuesday's Gone](https://playsongnotes.com/lessons/100/)
-- Jan 18 - [Wildflowers](https://playsongnotes.com/lessons/232/)
-- Jan 11 - [If I Had a Boat](https://playsongnotes.com/lessons/229/)
-- Jan 4  - [The Wind](https://playsongnotes.com/lessons/254/)
-- Jan 4  - [Dead Flowers](https://playsongnotes.com/lessons/79/)
-- Dec 10 - [Yesterday](https://playsongnotes.com/lessons/242/)
-- Nov 30 - [Happy Xmas](https://playsongnotes.com/lessons/35/)
-- Nov 23 - [Mrs Robinson](https://playsongnotes.com/lessons/51/)
-- Nov 22 - [Hotel California](https://playsongnotes.com/lessons/31/)
-- Nov 12 - [Hello In There](https://playsongnotes.com/lessons/295/)
 
 <br /><br />
 
@@ -67,20 +47,19 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
     Always Remember Us This Way XXXXXXXXXXXXX
     California Dreaming         XXXXXXXXXXXXXXX
     Game of Thrones (theme)     XXXXXXXXXXXX
-    Let Him Roll                XXXXXXXXXXXXXX
+    Let Him Roll                XXXXXXXXXXXXXXX
     My Fav. Picture of You      XXXXXXXXX
     My Old Kentucky Home        XXXXXXXXXXX
     Remember Me •               XXXXXXXXXX
-    Running Down a Dream        XXXXXXXXXXX
+    Running Down a Dream        XXXXXXXXXXXX
     Surf Rider                  XXXXXXXX
     We Are the Champions •      XXXXXXXXXX
-    When the Man Comes Around   XXXXXXXXX
 
 <br />
 <h3>3-6 requests:</h3>
@@ -93,7 +72,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
     Let It Go                   XXX
     Light On •                  XXXX
     Manhattan Island Serenade   XXX
-    Say It Ain't So             XXXXX
+    Say It Ain't So             XXXXXX
     Year Clayton Delaney Died   XXX
 
 <br />
@@ -105,6 +84,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
     High and Dry                XX
     How Far I'll Go             X
     I'm a Lonesome Fugitive     X
+    Issues                      X
     Jenny of Oldstones          X
     Let It Go                   XX
     Margaritaville              X
