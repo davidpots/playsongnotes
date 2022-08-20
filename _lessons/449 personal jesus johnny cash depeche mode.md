@@ -38,7 +38,7 @@ In this week's lesson I'll teach you how to play **_Personal Jesus_** as covered
 
 ## Lyrics and chords
 
-See my 3-page song sheet! It's all on page 1, carefully formatted to nicely fit on a single page while still being readable. Pages 2 & 3 include tabs and strumming for the entire song, plus some additoinal exercises to help you learn the main riff.
+See my 3-page song sheet! It's all on page 1, carefully formatted to nicely fit on a single page while still being readable. Pages 2 & 3 include tabs and strumming for the entire song, plus some additional exercises to help you learn the main riff.
 
 ## Notes on Depeche Mode's Recording
 

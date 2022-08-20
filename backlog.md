@@ -47,7 +47,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
     Always Remember Us This Way XXXXXXXXXXXXX
@@ -68,7 +68,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
     About a Girl                XXX
     Audition (Fools Who Dream)  XXX
     Gone Till November          XXX
-    Honky Tonk Heroes           XXXX
+    Honky Tonk Heroes           XXXXX
     Let It Go                   XXX
     Light On •                  XXXX
     Manhattan Island Serenade   XXX
