@@ -47,17 +47,17 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 
 <h3>7+ requests:</h3>
 
-    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Stairway to Heaven          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
     All Apologies               XXXXXXX
     Always Remember Us This Way XXXXXXXXXXXXX
-    California Dreaming         XXXXXXXXXXXXXXX
-    Game of Thrones (theme)     XXXXXXXXXXXX
+    California Dreaming         XXXXXXXXXXXXXXXX
+    Game of Thrones (theme)     XXXXXXXXXXXXX
     Let Him Roll                XXXXXXXXXXXXXXXX
     My Fav. Picture of You      XXXXXXXXXX
     My Old Kentucky Home        XXXXXXXXXXX
     Remember Me •               XXXXXXXXXX
-    Running Down a Dream        XXXXXXXXXXXX
+    Running Down a Dream        XXXXXXXXXXXXX
     Surf Rider                  XXXXXXXX
     We Are the Champions •      XXXXXXXXXX
 
@@ -65,7 +65,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
 <h3>3-6 requests:</h3>
 
     7 Years                     XXX
-    About a Girl                XXX
+    About a Girl                XXXX
     Audition (Fools Who Dream)  XXX
     Gone Till November          XXX
     Honky Tonk Heroes           XXXXX
