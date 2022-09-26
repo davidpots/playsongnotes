@@ -10,7 +10,7 @@ yt_video_id: YeyEkAaSBTc
 date_published: 2022-09-24
 slug: "454"
 pdf_version: musicnotes
-musicnotes_url: ______
+musicnotes_url: https://www.musicnotes.com/l/M68hS
 pdf_numpages: 3
 patreon_lesson_available: true
 patreon_lesson_url: ______
@@ -30,9 +30,7 @@ Here's my deep-dive into the fingerstyle version I preview at the end of my free
 
 <h2>Print-Friendly Song Sheet <span class="small">{{pdf_numpages_string}}</span></h2>
 
-_Available shortly! Check back Monday, September 26._
-
-<!-- { % include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url pdf_memberspace_contentLink = page.pdf_memberspace_contentLink % } -->
+{% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url pdf_memberspace_contentLink = page.pdf_memberspace_contentLink %}
 
 
 ## Jack Johnson Recordings of Flake
