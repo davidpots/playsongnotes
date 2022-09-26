@@ -13,8 +13,7 @@ pdf_version: musicnotes
 musicnotes_url: https://www.musicnotes.com/l/M68hS
 pdf_numpages: 3
 patreon_lesson_available: true
-patreon_lesson_url: ______
-discussion_thread_url: ______
+patreon_lesson_url: https://www.patreon.com/posts/72499047
 ---
 
 {% include youtube_embed.html yt_id = page.yt_video_id %}
