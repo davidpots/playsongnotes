@@ -26,9 +26,6 @@ Here's my deep-dive into the fingerstyle version I preview at the end of my free
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/753324593?h=c60d15095b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="454 - Flake - extended fingerstyle.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-
-<h2>Print-Friendly Song Sheet <span class="small">{{pdf_numpages_string}}</span></h2>
-
 {% include pdf-module.html slug = page.slug pdf_numpages = page.pdf_numpages pdf_version = page.pdf_version has_patreon_url = page.patreon_lesson_url patreon_url = page.patreon_lesson_url free_pdf_available = page.free_pdf_available free_pdf_url = page.free_pdf_url song_name = page.song_title pdf_for_sale = page.pdf_for_sale musicnotes_url = page.musicnotes_url pdf_memberspace_contentLink = page.pdf_memberspace_contentLink %}
 
 
