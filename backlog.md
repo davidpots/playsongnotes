@@ -72,6 +72,7 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
     Let It Go                   XXX
     Light On •                  XXXX
     Manhattan Island Serenade   XXX
+    Rivers of Babylon           XXX
     Say It Ain't So             XXXXXX
     Year Clayton Delaney Died   XXX
 
@@ -90,7 +91,6 @@ Note, as of June 2022 I've slowed down a bit (with re-listing some of these olde
     Margaritaville              X
     Peace of Mind               X
     Reindeers Better thn People X
-    Rivers of Babylon           XX
     Santeria                    X  
     Say Something               X
     Shape of You                X
